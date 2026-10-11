@@ -109,6 +109,7 @@ namespace Casino.Screens
             }
 
             fx = UIKit.NewRect("Fx", Content).Stretch();
+            App.I.Progress.StreakExtended += OnStreakExtended;
             App.I.Intensity.Baseline = 0.2f;
             Refresh();
             Say("Welcome! Place your bets, please.");
@@ -190,6 +191,7 @@ namespace Casino.Screens
                 {
                     lastTick = tick;
                     Sfx.Play(SfxId.Tick, 0.5f, 0.2f);
+                    Casino.Platform.Haptics.Play(Casino.Platform.Haptic.Tick);
                 }
                 yield return null;
             }
@@ -391,8 +393,13 @@ namespace Casino.Screens
 
         void Update() => seat?.Tick();
 
+        string streakLine;
+
+        void OnStreakExtended() => streakLine = DealerLines.StreakExtended(App.I.Progress.Streak.Count, App.I.Rng);
+
         void OnDestroy()
         {
+            if (App.I != null) App.I.Progress.StreakExtended -= OnStreakExtended;
             if (seat == null) return;
             seat.Dispose();
             if (seat.World != null) seat.World.ShowRouletteDecor(true);
@@ -437,7 +444,7 @@ namespace Casino.Screens
             }
             App.I.Wallet.Credit(back);
             long net = back - total;
-            App.I.RecordWager(total, net);
+            App.I.RecordWager(GameKind.Roulette, total, net, spots[Key(RouletteBetKind.Straight, number)].Bet.Amount > 0);
             App.I.Intensity.OnRoundResult(net, false);
 
             string colour = number == 0 ? "GREEN" : RouletteRules.IsRed(number) ? "RED" : "BLACK";
@@ -470,6 +477,12 @@ namespace Casino.Screens
             }
 
             yield return Tween.Wait(2.4f);
+            if (streakLine != null)
+            {
+                Say(streakLine);
+                streakLine = null;
+                yield return Tween.Wait(3.5f);
+            }
             var pulse = numberSpot.Rect.GetComponent<Pulse>();
             if (pulse != null) Destroy(pulse);
             numberSpot.Rect.localScale = Vector3.one;

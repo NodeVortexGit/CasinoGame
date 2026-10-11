@@ -228,7 +228,7 @@ namespace Casino.Screens
 
             long net = result.TotalPayout - result.Bet;
             App.I.Wallet.Credit(result.TotalPayout);
-            App.I.RecordWager(result.Bet, net);
+            App.I.RecordWager(Casino.Core.Player.GameKind.Slots, result.Bet, net);
             App.I.Intensity.OnRoundResult(net, false);
 
             if (result.TotalPayout > 0)

@@ -2,12 +2,16 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.IO;
+using Casino.Audio;
 using Casino.Core.Economy;
 using Casino.Core.Player;
+using Casino.Platform;
 using Casino.Screens;
 using Casino.UI;
 using Casino.World;
 using UnityEngine;
+using UnityEngine.InputSystem;
+using UnityEngine.InputSystem.LowLevel;
 
 namespace Casino
 {
@@ -35,6 +39,12 @@ namespace Casino
             tour.underage = Array.IndexOf(args, "-casinoTourUnderage") >= 0;
             Directory.CreateDirectory(tour.dir);
             Application.logMessageReceived += tour.OnLog;
+            // The tour runs without a window on a developer's machine: keep it silent too. The music is synthesised in
+            // OnAudioFilterRead, which the listener volume doesn't reach, so every source is turned down and paused.
+            App.ForceMute = true;
+            app.ApplyAudio();
+            AudioListener.volume = 0f;
+            AudioListener.pause = true;
 
             // Render the UI off-screen at an exact device resolution (default: a 19.5:9 phone, 2340x1080).
             int w = 2340, h = 1080;
@@ -126,6 +136,9 @@ namespace Casino
                     world.TourFaceStaff(i, 2.6f, 16f);
                     yield return Wait(0.6f);
                     yield return Shot("staffbody_" + world.TourStaffName(i));
+                    world.TourStaffTalk(i, 4f);
+                    yield return Wait(0.75f);   // the talking hand gesture at its widest
+                    yield return Shot("stafftalk_" + world.TourStaffName(i));
                 }
 
                 // Walk to a table by tapping it, as a player would.
@@ -203,7 +216,6 @@ namespace Casino
                 yield return Wait(2.5f);
             }
 
-            App.I.Save.persuasionEnabled = true;
             table?.TourLeave();
             yield return Wait(1f);
             yield return Shot("persuasion");
@@ -260,7 +272,75 @@ namespace Casino
             App.I.UI.Show<LobbyScreen>();
             yield return Wait(2f);
             yield return Shot("lobby_final");
+
+            // The daily screen: streak, bonus wheel, missions.
+            App.I.UI.CloseAllModals();
+            var daily = App.I.UI.Modal<DailyModal>();
+            yield return Wait(0.8f);
+            yield return Shot("daily");
+            daily.TourSpin();
+            yield return Wait(1.2f);
+            yield return Shot("daily_spinning");
+            float dT = 0f;
+            while (daily != null && daily.TourSpinning && dT < 10f)
+            {
+                yield return null;
+                dT += Time.unscaledDeltaTime;
+            }
+            yield return Wait(0.6f);
+            yield return Shot("daily_won");
+            yield return PadTour();
             Finish();
+        }
+
+        /// <summary>A virtual controller: D-pad through the lobby buttons, Menu into the Controls tab, then other layouts' hints.</summary>
+        IEnumerator PadTour()
+        {
+            App.I.UI.CloseAllModals();
+            var pad = InputSystem.AddDevice<Gamepad>("TourPad");
+            yield return Wait(0.5f);
+            yield return Press(pad, GamepadButton.DpadUp);
+            yield return Wait(0.4f);
+            yield return Shot("pad_lobby");
+            yield return Press(pad, GamepadButton.DpadUp);
+            yield return Wait(0.3f);
+            yield return Shot("pad_lobby_moved");
+
+            // Settings with the controller (Select/View/Create opens it by default, see padSwapMenuView), then down the
+            // tab list, confirming each tab.
+            App.I.Save.padLayout = 2;
+            Pad.NotifyChanged();
+            yield return Press(pad, GamepadButton.Select);
+            yield return Wait(0.7f);
+            yield return Shot("settings_general");
+            foreach (var name in new[] { "graphics", "sound", "touch", "controller", "vibration" })
+            {
+                yield return Press(pad, GamepadButton.DpadDown);
+                yield return Press(pad, GamepadButton.South);
+                yield return Wait(0.4f);
+                yield return Shot("settings_" + name);
+            }
+            yield return Press(pad, GamepadButton.DpadRight);
+            yield return Wait(0.3f);
+            yield return Shot("settings_vibration_focus");
+
+            App.I.Save.padLayout = 3;
+            Pad.NotifyChanged();
+            yield return Press(pad, GamepadButton.South);   // Nintendo: B, the bottom button, goes back
+            yield return Wait(0.6f);
+            yield return Shot("pad_lobby_nintendo");
+            App.I.Save.padLayout = 0;
+            InputSystem.RemoveDevice(pad);
+        }
+
+        static IEnumerator Press(Gamepad pad, GamepadButton button)
+        {
+            InputSystem.QueueStateEvent(pad, new GamepadState().WithButton(button));
+            yield return null;
+            yield return null;
+            InputSystem.QueueStateEvent(pad, new GamepadState());
+            yield return null;
+            yield return null;
         }
 
         static IEnumerator Wait(float s)

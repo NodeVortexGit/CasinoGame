@@ -6,7 +6,8 @@ namespace Casino.Art
     public enum Icon
     {
         Coin, Bolt, Gear, Plus, Back, Close, Lock, Star, Play, Check, Music, Speaker, Globe, Gift, Clock, Crown,
-        Cards, Person, Video, Chips, Bulb, Sparkle, Food, Exit,
+        Cards, Person, Video, Chips, Bulb, Sparkle, Food, Exit, Flame, Freeze, Target,
+        PadCross, PadCircle, PadSquare, PadTriangle,
     }
 
     /// <summary>Pure painting routines. Each returns a canvas; <see cref="ProceduralArt"/> turns them into sprites.</summary>
@@ -390,6 +391,47 @@ namespace Casino.Art
                         Sdf.Box(new Vector2(0.43f, 0.82f), new Vector2(0.025f, 0.1f), 0.02f)), w);
                     c.Fill(Sdf.Union(Sdf.Box(new Vector2(0.67f, 0.36f), new Vector2(0.035f, 0.28f), 0.03f),
                         Sdf.Ellipse(new Vector2(0.69f, 0.72f), new Vector2(0.07f, 0.2f))), w);
+                    break;
+                case Icon.Flame:
+                {
+                    // Outer flame with a darker inner tongue, so one tint reads as a two-tone flame.
+                    var outer = Sdf.SmoothUnion(Sdf.Circle(new Vector2(0.5f, 0.34f), 0.27f),
+                        Sdf.Triangle(new Vector2(0.25f, 0.42f), new Vector2(0.75f, 0.42f), new Vector2(0.56f, 0.95f)), 0.1f);
+                    outer = Sdf.SmoothUnion(outer, Sdf.Triangle(new Vector2(0.6f, 0.5f), new Vector2(0.8f, 0.48f), new Vector2(0.78f, 0.74f)), 0.06f);
+                    c.Fill(outer, w);
+                    var inner = Sdf.SmoothUnion(Sdf.Circle(new Vector2(0.5f, 0.28f), 0.13f),
+                        Sdf.Triangle(new Vector2(0.38f, 0.32f), new Vector2(0.62f, 0.32f), new Vector2(0.48f, 0.62f)), 0.06f);
+                    c.Fill(inner, new Color(0.25f, 0f, 0f, 0.4f));
+                    break;
+                }
+                case Icon.Freeze:
+                    // Snowflake: three bars through the centre with a small V near each tip.
+                    for (int k = 0; k < 6; k++)
+                    {
+                        float a = k * 60f * Mathf.Deg2Rad;
+                        var dir = new Vector2(Mathf.Sin(a), Mathf.Cos(a));
+                        var side = new Vector2(dir.y, -dir.x);
+                        c.Fill(Sdf.Segment(Center, Center + dir * 0.4f, 0.035f), w);
+                        Vector2 b = Center + dir * 0.26f;
+                        c.Fill(Sdf.Union(Sdf.Segment(b, b + (dir + side) * 0.09f, 0.03f), Sdf.Segment(b, b + (dir - side) * 0.09f, 0.03f)), w);
+                    }
+                    break;
+                case Icon.Target:
+                    c.Fill(Sdf.Union(Sdf.Ring(Center, 0.38f, 0.045f), Sdf.Ring(Center, 0.22f, 0.045f), Sdf.Circle(Center, 0.08f)), w);
+                    break;
+                // PlayStation face buttons, drawn as outlines like on the pad.
+                case Icon.PadCross:
+                    c.Fill(Sdf.Union(Sdf.Segment(new Vector2(0.24f, 0.24f), new Vector2(0.76f, 0.76f), 0.05f),
+                        Sdf.Segment(new Vector2(0.24f, 0.76f), new Vector2(0.76f, 0.24f), 0.05f)), w);
+                    break;
+                case Icon.PadCircle:
+                    c.Fill(Sdf.Ring(Center, 0.3f, 0.05f), w);
+                    break;
+                case Icon.PadSquare:
+                    c.Fill(Sdf.Outline(Sdf.Box(Center, new Vector2(0.27f, 0.27f), 0.02f), 0.05f), w);
+                    break;
+                case Icon.PadTriangle:
+                    c.Fill(Sdf.Outline(Sdf.Triangle(new Vector2(0.2f, 0.27f), new Vector2(0.8f, 0.27f), new Vector2(0.5f, 0.8f)), 0.05f), w);
                     break;
                 case Icon.Exit:
                     c.Fill(Sdf.Subtract(Sdf.Outline(Sdf.Box(new Vector2(0.38f, 0.5f), new Vector2(0.24f, 0.36f), 0.05f), 0.04f),

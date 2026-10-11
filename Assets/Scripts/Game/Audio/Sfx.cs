@@ -24,6 +24,9 @@ namespace Casino.Audio
 
         public static float Volume { get; set; } = 0.8f;
 
+        /// <summary>The staff's chatter, relative to the effects volume.</summary>
+        public static float VoiceVolume { get; set; } = 1f;
+
         public static void Init(GameObject host)
         {
             sources = new AudioSource[5];
@@ -49,7 +52,7 @@ namespace Casino.Audio
             if (voice == VoicePitch.None) return;
             var id = (SfxId)((int)SfxId.VoiceA + UnityEngine.Random.Range(0, 3));
             float pitch = voice == VoicePitch.High ? UnityEngine.Random.Range(0.96f, 1.1f) : UnityEngine.Random.Range(0.6f, 0.68f);
-            PlayPitched(id, 0.32f, pitch);
+            if (VoiceVolume > 0f) PlayPitched(id, 0.32f * VoiceVolume, pitch);
         }
 
         public static void PlayPitched(SfxId id, float volume, float pitch)
@@ -63,11 +66,37 @@ namespace Casino.Audio
 
         public static void Play(SfxId id, float volume = 1f, float pitchJitter = 0f)
         {
+            Buzz(id);
             if (sources == null || Volume <= 0f || !Clips.TryGetValue(id, out var clip)) return;
             var s = sources[next];
             next = (next + 1) % sources.Length;
             s.pitch = 1f + (pitchJitter > 0 ? UnityEngine.Random.Range(-pitchJitter, pitchJitter) : 0f);
             s.PlayOneShot(clip, Volume * volume);
+        }
+
+        /// <summary>The vibration that goes with a sound (even with the sound off). Losing never vibrates.</summary>
+        static void Buzz(SfxId id)
+        {
+            switch (id)
+            {
+                case SfxId.Click:
+                case SfxId.Chip:
+                case SfxId.ChipStack:
+                    Casino.Platform.Haptics.Play(Casino.Platform.Haptic.Tap);
+                    break;
+                case SfxId.Win:
+                case SfxId.Coins:
+                case SfxId.Ding:
+                    Casino.Platform.Haptics.Play(Casino.Platform.Haptic.Success);
+                    break;
+                case SfxId.BigWin:
+                case SfxId.Blackjack:
+                    Casino.Platform.Haptics.Play(Casino.Platform.Haptic.Big);
+                    break;
+                case SfxId.Error:
+                    Casino.Platform.Haptics.Play(Casino.Platform.Haptic.Warning);
+                    break;
+            }
         }
 
         // ---------------- synthesis ----------------

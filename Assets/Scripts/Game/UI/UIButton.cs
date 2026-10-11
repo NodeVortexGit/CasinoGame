@@ -17,6 +17,7 @@ namespace Casino.UI
         Action onClick;
 
         public Button Button => button;
+        public ButtonStyle Style { get; private set; }
         public Text LabelText => label;
         public Image Face => face;
         public RectTransform Rect => (RectTransform)transform;
@@ -35,6 +36,7 @@ namespace Casino.UI
         public void Build(string text, ButtonStyle style, Action click, int fontSize, Icon? icon, FontKind font, float radius)
         {
             onClick = click;
+            Style = style;
             baseColor = UIKit.StyleColor(style);
 
             shadow = UIKit.Image(transform, "Shadow", null, new Color(0, 0, 0, style == ButtonStyle.Ghost ? 0f : 0.45f));
@@ -88,6 +90,7 @@ namespace Casino.UI
 
         public void SetStyle(ButtonStyle style)
         {
+            Style = style;
             baseColor = UIKit.StyleColor(style);
             if (label != null) label.color = style == ButtonStyle.Gold ? Palette.TextDark : Color.white;
             Refresh();

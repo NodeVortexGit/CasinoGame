@@ -25,7 +25,10 @@ namespace Casino.Screens
         RectTransform actionGroup, bubbleRect;
         UIButton action;
         Text actionTitle, actionSub, freeChipsInfo, hint;
-        UIButton freeChips;
+        UIButton freeChips, daily;
+        GameObject dailyBadge;
+        Pulse freeChipsPulse;
+        static int dailyShownDay = -1;
         SpeechBubble bubble;
         StaffFigure speaker;
         float speakerUntil, statusTimer, hintTimer = 9f;
@@ -66,9 +69,17 @@ namespace Casino.Screens
             actionTitle = action.LabelText;
             actionGroup.gameObject.SetActive(false);
 
-            // Quick buttons (right edge): free chips and a table list for people who'd rather not walk.
-            freeChips = UIKit.Button(Content, "FREE CHIPS", ButtonStyle.Green, () => App.I.Purchases.WatchAdForChips(), 34, Icon.Video);
+            // Quick buttons (right edge): the daily screen, free chips and a game list for people who'd rather not walk.
+            daily = UIKit.Button(Content, "DAILY", ButtonStyle.Gold, () => App.I.UI.Modal<DailyModal>(), 34, Icon.Gift);
+            daily.Rect.At(1f, 0.5f, -40, 270, 330, 100, 1f, 0.5f);
+            var badge = UIKit.Image(daily.Rect, "Badge", ProceduralArt.Circle, Palette.Red);
+            ((RectTransform)badge.transform).At(1f, 1f, 10, 10, 44, 44, 1f, 1f);
+            var mark = UIKit.Label(badge.transform, "!", 30, Color.white, TextAnchor.MiddleCenter, FontKind.Display);
+            ((RectTransform)mark.transform).Stretch();
+            dailyBadge = badge.gameObject;
+            freeChips = UIKit.Button(Content, "FREE CHIPS", ButtonStyle.Green, FreeChips, 34, Icon.Coin);
             freeChips.Rect.At(1f, 0.5f, -40, 150, 330, 100, 1f, 0.5f);
+            freeChipsPulse = freeChips.gameObject.AddComponent<Pulse>();
             freeChipsInfo = UIKit.Label(Content, "", 22, Color.white, TextAnchor.MiddleRight, FontKind.Semi);
             ((RectTransform)freeChipsInfo.transform).At(1f, 0.5f, -46, 80, 420, 32, 1f, 0.5f);
             UIKit.TextShadow(freeChipsInfo, -2f, 0.8f);
@@ -109,6 +120,15 @@ namespace Casino.Screens
         }
 
         public override bool ShowsWorld => true;
+        public override bool WalksWorld => true;
+        public override string PadConfirmHint => shownSpot?.Title;
+
+        public override bool OnPadConfirm()
+        {
+            if (shownSpot == null) return false;
+            world.Use(shownSpot);
+            return true;
+        }
 
         void OpenGames()
         {
@@ -127,9 +147,72 @@ namespace Casino.Screens
             loading.blocksRaycasts = false;
             loading.gameObject.SetActive(false);
             yield return Tween.Wait(0.4f);
-            if (App.I.Energy.IsEmpty) world.HostSays(DealerLines.Pick(DealerMoment.Exhausted, App.I.Rng));
+            var progress = App.I.Progress;
+            if (!string.IsNullOrEmpty(progress.Notice))
+            {
+                world.HostSays(progress.Notice);
+                progress.Notice = null;
+            }
+            else if (App.I.Energy.IsEmpty) world.HostSays(DealerLines.Pick(DealerMoment.Exhausted, App.I.Rng));
             else if (App.I.Wallet.Balance < TableCatalog.Blackjack[0].MinBet) world.HostSays(DealerLines.Pick(DealerMoment.OutOfChips, App.I.Rng));
             else if (App.I.Save.handsPlayed == 0) world.HostSays("Welcome! Your 1,000 welcome chips are ready. The tables are straight ahead!");
+            else
+            {
+                var streak = progress.Streak;
+                int left = streak.DailyGoal - streak.RoundsToday(progress.Day);
+                world.HostSays(DealerLines.StreakTease(streak.Count, streak.DoneToday(progress.Day), Mathf.Max(1, left), App.I.Rng));
+            }
+
+            // The daily screen opens by itself once a day while today's spin is waiting (not on the very first visit).
+            yield return Tween.Wait(2.5f);
+            if (progress.WheelReady && App.I.Save.handsPlayed > 0 && dailyShownDay != progress.Day && !App.I.UI.HasModal && App.I.UI.Current == this)
+            {
+                dailyShownDay = progress.Day;
+                App.I.UI.Modal<DailyModal>();
+            }
+        }
+
+        /// <summary>Free chips: the timed bonus when it's ready, otherwise a video if one can play, otherwise when it's next.</summary>
+        void FreeChips()
+        {
+            var p = App.I.Progress;
+            if (p.BonusReady)
+            {
+                long amount = p.CollectBonus();
+                Casino.Audio.Sfx.Play(Casino.Audio.SfxId.Coins);
+                Confetti.Burst(Content, new Vector2(600, 150), 30, true);
+                App.I.UI.Toast($"+{ChipFormat.Full(amount)} free chips! More in {GameConfig.BonusHours:0} hours.", Palette.Gold, Icon.Gift);
+                return;
+            }
+            if (App.I.Purchases.AdReady)
+            {
+                App.I.Purchases.WatchAdForChips();
+                return;
+            }
+            App.I.UI.Toast($"Free chips refill every {GameConfig.BonusHours:0} hours. Next in {FormatWait(p.BonusIn)}.", Palette.TextMuted, Icon.Clock);
+        }
+
+        static string FormatWait(System.TimeSpan t) => t.TotalHours >= 1 ? $"{(int)t.TotalHours}h {t.Minutes:00}m" : $"{t.Minutes}m {t.Seconds:00}s";
+
+        /// <summary>After the first day of a streak, offer a reminder (once); Android then asks its own permission.</summary>
+        void OfferReminders()
+        {
+            var save = App.I.Save;
+            save.remindersAsked = true;
+            App.I.SaveSystem.MarkDirty();
+            App.I.UI.Modal<ConfirmModal>(m => m.Setup("KEEP YOUR STREAK",
+                "Want a reminder on evenings you haven't played yet, and when your free chips are ready? Never more than that, " +
+                "and you can turn it off in Settings.",
+                "REMIND ME", () => App.I.StartCoroutine(Casino.Platform.Reminders.AskPermission(ok =>
+                {
+                    save.remindersEnabled = ok;
+                    App.I.SaveSystem.MarkDirty();
+                })),
+                "NO THANKS", () =>
+                {
+                    save.remindersEnabled = false;
+                    App.I.SaveSystem.MarkDirty();
+                }, ButtonStyle.Green));
         }
 
         void OnStaffSpeaks(StaffFigure fig, string line)
@@ -177,10 +260,21 @@ namespace Casino.Screens
             if (statusTimer <= 0f)
             {
                 statusTimer = 0.25f;
-                freeChips.Interactable = App.I.Purchases.CanWatchAd;
-                freeChipsInfo.text = App.I.Purchases.AdStatus();
+                var p = App.I.Progress;
+                bool bonus = p.BonusReady;
+                freeChipsInfo.text = bonus ? $"+{ChipFormat.Full(p.BonusAmount)} chips ready!"
+                    : App.I.Purchases.AdReady ? "Watch a video: " + App.I.Purchases.AdStatus()
+                    : $"Next free chips in {FormatWait(p.BonusIn)}";
+                freeChips.SetStyle(bonus || App.I.Purchases.AdReady ? ButtonStyle.Green : ButtonStyle.Dark);
+                freeChipsPulse.enabled = bonus;
+                if (!bonus) freeChips.transform.localScale = Vector3.one;
+                dailyBadge.SetActive(p.WheelReady);
+                if (!App.I.Save.remindersAsked && Casino.Platform.Reminders.Supported && p.Streak.DoneToday(p.Day) &&
+                    !App.I.UI.HasModal && App.I.UI.Current == this)
+                    OfferReminders();
             }
 
+            if (hint.gameObject.activeSelf && Casino.Platform.Pad.Active) hint.gameObject.SetActive(false);   // the controller hints take over
             if (hint.gameObject.activeSelf)
             {
                 hintTimer -= Time.unscaledDeltaTime;
@@ -357,11 +451,15 @@ namespace Casino.Screens
                 var stakes = UIKit.Label(rt, $"BETS\n<size=46>{ChipFormat.Short(def.MinBet)} - {ChipFormat.Short(def.MaxBet)}</size>", 26, Color.white, TextAnchor.MiddleCenter, FontKind.Display);
                 ((RectTransform)stakes.transform).Center(0, -90, 320, 110);
 
+                bool unlocked = App.I.Progress.Unlocked(def);
                 bool affordable = App.I.Wallet.Balance >= def.MinBet;
-                var sit = UIKit.Button(rt, affordable ? "SIT DOWN" : "NEED " + ChipFormat.Short(def.MinBet), affordable ? ButtonStyle.Gold : ButtonStyle.Dark,
-                    () => Sit(def), 40);
+                string sitText = !unlocked ? "LEVEL " + def.Level : affordable ? "SIT DOWN" : "NEED " + ChipFormat.Short(def.MinBet);
+                var sit = UIKit.Button(rt, sitText, unlocked && affordable ? ButtonStyle.Gold : ButtonStyle.Dark, () => Sit(def), 40,
+                    unlocked ? (Icon?)null : Icon.Lock);
                 sit.Rect.At(0.5f, 0f, 0, 70, 300, 96);
-                if (!affordable) sit.SetOnClick(() => App.I.UI.Modal<ShopModal>(m => m.StartTab = ShopTab.Chips));
+                if (!unlocked)
+                    sit.SetOnClick(() => App.I.UI.Toast($"Reach level {def.Level} to play here. You're level {App.I.Progress.Level}.", Palette.Gold, Icon.Lock));
+                else if (!affordable) sit.SetOnClick(() => App.I.UI.Modal<ShopModal>(m => m.StartTab = ShopTab.Chips));
             }
         }
 

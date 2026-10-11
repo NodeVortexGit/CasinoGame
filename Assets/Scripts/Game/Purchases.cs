@@ -106,18 +106,37 @@ namespace Casino
             }
         }
 
-        public bool CanWatchAd => AdsSupported && AdsLeftToday > 0 && AdCooldownRemaining <= 0;
+        public bool CanWatchAd => AdsSupported && !app.Ads.IsBlocked && AdsLeftToday > 0 && AdCooldownRemaining <= 0;
+
+        /// <summary>A video can be shown right now (allowed today and one has loaded).</summary>
+        public bool AdReady => CanWatchAd && app.Ads.IsReady;
 
         public string AdStatus()
         {
             if (!AdsSupported) return "Not available on this device";
+            if (app.Ads.IsBlocked) return "Videos can't load on this network";
             if (AdsLeftToday <= 0) return "Come back tomorrow";
             double cd = AdCooldownRemaining;
             if (cd > 0) return $"Ready in {Mathf.CeilToInt((float)cd)}s";
             return $"+{ChipFormat.Full(GameConfig.AdRewardChips)} chips ({AdsLeftToday} left today)";
         }
 
-        public void WatchAdForChips(Action<bool> done = null)
+        public void WatchAdForChips(Action<bool> done = null) => WatchAd(() =>
+        {
+            app.Wallet.Credit(GameConfig.AdRewardChips);
+            Sfx.Play(SfxId.Coins);
+            app.UI.Toast($"+{ChipFormat.Full(GameConfig.AdRewardChips)} free chips!", Casino.Art.Palette.Gold, Casino.Art.Icon.Gift);
+        }, done);
+
+        /// <summary>A rewarded video for a streak freeze (counts towards the same daily allowance as free chips).</summary>
+        public void WatchAdForFreeze(Action<bool> done = null) => WatchAd(() =>
+        {
+            app.Progress.AddFreeze();
+            Sfx.Play(SfxId.Ding);
+            app.UI.Toast("+1 streak freeze!", Casino.Art.Palette.Hex("8FD8FF"), Casino.Art.Icon.Freeze);
+        }, done);
+
+        void WatchAd(Action reward, Action<bool> done)
         {
             if (!CanWatchAd)
             {
@@ -140,10 +159,8 @@ namespace Casino
                     RollAdDay();
                     app.Save.adsWatchedToday++;
                     app.Save.lastAdUtcTicks = DateTime.UtcNow.Ticks;
-                    app.Wallet.Credit(GameConfig.AdRewardChips);
+                    reward();
                     app.SaveSystem.SaveNow();
-                    Sfx.Play(SfxId.Coins);
-                    app.UI.Toast($"+{ChipFormat.Full(GameConfig.AdRewardChips)} free chips!", Casino.Art.Palette.Gold, Casino.Art.Icon.Gift);
                 }
                 done?.Invoke(earned);
             });

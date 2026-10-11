@@ -150,6 +150,10 @@ namespace Casino.UI
             ((RectTransform)energy.transform).At(1f, 0.5f, -140, 0, 360, 84, 1f, 0.5f);
             var chips = ChipCounter.Create(bar);
             ((RectTransform)chips.transform).At(1f, 0.5f, -520, 0, 380, 84, 1f, 0.5f);
+            var streak = StreakPill.Create(bar);
+            ((RectTransform)streak.transform).At(1f, 0.5f, -916, 0, 150, 84, 1f, 0.5f);
+            var level = LevelBadge.Create(bar);
+            ((RectTransform)level.transform).At(1f, 0.5f, -1082, 0, 190, 84, 1f, 0.5f);
             return tb;
         }
     }

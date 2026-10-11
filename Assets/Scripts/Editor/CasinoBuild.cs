@@ -25,12 +25,16 @@ namespace Casino.EditorTools
         /// <summary>
         /// Exports the Android project for Gradle (Builds/Android/Gradle). Tools/android_build.sh then builds it with Gradle:
         /// APKs to sideload and the app bundle, checks the bundle with bundletool and installs on a connected phone with
-        /// adb. Test build (test store and test ads) unless -release is passed.
+        /// adb. Test build (test store and test ads) unless -release is passed; -arm64 leaves out 32-bit phones (half the
+        /// native compile, for quick test builds).
         /// </summary>
         [MenuItem("Casino/Build/Android Gradle project", false, 3)]
         public static void AndroidGradleProject()
         {
-            bool release = Array.IndexOf(Environment.GetCommandLineArgs(), "-release") >= 0;
+            var args = Environment.GetCommandLineArgs();
+            bool release = Array.IndexOf(args, "-release") >= 0;
+            var architectures = PlayerSettings.Android.targetArchitectures;
+            if (Array.IndexOf(args, "-arm64") >= 0) PlayerSettings.Android.targetArchitectures = AndroidArchitecture.ARM64;
             EditorUserBuildSettings.buildAppBundle = false;
             EditorUserBuildSettings.exportAsGoogleAndroidProject = true;
             PlayerSettings.Android.buildApkPerCpuArchitecture = true;
@@ -42,6 +46,7 @@ namespace Casino.EditorTools
             finally
             {
                 EditorUserBuildSettings.exportAsGoogleAndroidProject = false;
+                PlayerSettings.Android.targetArchitectures = architectures;
             }
         }
 

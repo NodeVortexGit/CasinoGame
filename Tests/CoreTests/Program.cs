@@ -52,6 +52,12 @@ namespace Casino.Tests
             Run(nameof(SlotSimulationMatchesExactPayback), SlotSimulationMatchesExactPayback);
             Run(nameof(RouletteEveryBetHasTheSameEdge), RouletteEveryBetHasTheSameEdge);
             Run(nameof(RouletteWheelAndColours), RouletteWheelAndColours);
+            Run(nameof(StreakGrowsOnlyOnGoalDays), StreakGrowsOnlyOnGoalDays);
+            Run(nameof(StreakFreezesCoverMissedDays), StreakFreezesCoverMissedDays);
+            Run(nameof(StreakEarnsFreezesAndMilestones), StreakEarnsFreezesAndMilestones);
+            Run(nameof(LevelCurve), LevelCurve);
+            Run(nameof(DailyWheelOddsAndStreakBonus), DailyWheelOddsAndStreakBonus);
+            Run(nameof(MissionsPerDayAndProgress), MissionsPerDayAndProgress);
             Console.WriteLine();
             Console.WriteLine($"{passed} passed, {failed} failed");
             return failed == 0 ? 0 : 1;
@@ -516,6 +522,126 @@ namespace Casino.Tests
             Equal(18, reds, "18 reds");
             for (int i = 1; i < 37; i++)
                 Assert(RouletteRules.IsRed(RouletteRules.WheelOrder[i]) != RouletteRules.IsRed(RouletteRules.WheelOrder[i % 36 + 1]), "colours alternate");
+        }
+
+        static void StreakGrowsOnlyOnGoalDays()
+        {
+            var save = new SaveData();
+            var streak = new Streak(save, 10);
+            const int day = 739000;
+            for (int i = 0; i < 9; i++) Equal(StreakChange.None, streak.OnRound(day), "below the goal");
+            Equal(StreakChange.Extended, streak.OnRound(day), "10th round meets the goal");
+            Equal(StreakChange.None, streak.OnRound(day), "once a day");
+            Equal(1, streak.Count, "one day");
+            Assert(streak.DoneToday(day), "done today");
+            for (int i = 0; i < 10; i++) streak.OnRound(day + 1);
+            Equal(2, streak.Count, "two days");
+            Equal(0, streak.RoundsToday(day + 2), "rounds reset each day");
+            // Skipping a day without a freeze ends it.
+            Equal(StreakChange.Lost, streak.Settle(day + 3, out int lost), "lost");
+            Equal(2, lost, "lost length");
+            Equal(0, streak.Count, "back to zero");
+            Equal(2, streak.Best, "best kept");
+        }
+
+        static void StreakFreezesCoverMissedDays()
+        {
+            var save = new SaveData { streakCount = 5, streakBest = 5, streakLastDay = 100, streakFreezes = 2 };
+            var streak = new Streak(save, 10);
+            Equal(StreakChange.None, streak.Settle(101, out _), "next day is fine");
+            Equal(StreakChange.Frozen, streak.Settle(103, out int frozen), "two missed days frozen");
+            Equal(2, frozen, "frozen days");
+            Equal(0, streak.Freezes, "freezes used");
+            Equal(5, streak.Count, "streak kept");
+            Equal(DayMark.Frozen, streak.Mark(101), "day 101 shows frozen");
+            Equal(DayMark.Frozen, streak.Mark(102), "day 102 shows frozen");
+            for (int i = 0; i < 10; i++) streak.OnRound(103);
+            Equal(6, streak.Count, "continues");
+            Equal(DayMark.Met, streak.Mark(103), "met mark");
+            // Three missed days with one freeze: lost.
+            save.streakFreezes = 1;
+            Equal(StreakChange.Lost, streak.Settle(107, out _), "not enough freezes");
+        }
+
+        static void StreakEarnsFreezesAndMilestones()
+        {
+            var save = new SaveData();
+            var streak = new Streak(save, 1);
+            for (int d = 1; d <= 7; d++) streak.OnRound(d);
+            Equal(7, streak.Count, "a week");
+            Equal(1, streak.Freezes, "a freeze for 7 days");
+            for (int d = 8; d <= 21; d++) streak.OnRound(d);
+            Equal(Streak.MaxFreezes, streak.Freezes, "capped");
+            Assert(!streak.AddFreeze(), "no more than the cap");
+            Assert(Streak.IsMilestone(7) && Streak.IsMilestone(30) && !Streak.IsMilestone(8), "milestones");
+            Assert(Streak.MilestoneReward(30) > Streak.MilestoneReward(7), "bigger milestones pay more");
+            Equal(21, save.streakMetDays.Count, "calendar remembers three weeks");
+        }
+
+        static void LevelCurve()
+        {
+            Equal(0L, Levels.XpToReach(1), "level 1 is free");
+            Equal(100L, Levels.XpToReach(2), "level 2 at 100");
+            Equal(240L, Levels.XpToReach(3), "level 3 at 240");
+            for (int l = 1; l < 60; l++)
+            {
+                Assert(Levels.XpToReach(l + 1) > Levels.XpToReach(l), "rising");
+                Equal(l, Levels.LevelFor(Levels.XpToReach(l)), "inverse at " + l);
+                Equal(l, Levels.LevelFor(Levels.XpToReach(l + 1) - 1), "just below the next at " + l);
+            }
+            var win = new RoundReport { Game = GameKind.Slots, Wagered = 10, Returned = 50 };
+            var loss = new RoundReport { Game = GameKind.Slots, Wagered = 50_000, Returned = 0 };
+            Assert(Levels.XpFor(win) > Levels.XpFor(loss), "wins earn a little more");
+            Equal(Levels.XpPerRound, Levels.XpFor(loss), "a huge bet earns no extra XP");
+            // Tables unlock in order.
+            int last = 0;
+            foreach (var t in TableCatalog.Blackjack)
+            {
+                Assert(t.Level >= last, "unlock order");
+                last = t.Level;
+            }
+            Equal(1, TableCatalog.Blackjack[0].Level, "first table open from the start");
+        }
+
+        static void DailyWheelOddsAndStreakBonus()
+        {
+            int sum = 0;
+            foreach (int w in DailyWheel.Weights) sum += w;
+            Equal(100, sum, "weights are percentages");
+            Equal(DailyWheel.Prizes.Length, DailyWheel.Weights.Length, "a weight per prize");
+            var rng = new Pcg32(99);
+            var counts = new int[DailyWheel.Prizes.Length];
+            const int spins = 200_000;
+            for (int i = 0; i < spins; i++) counts[DailyWheel.Spin(rng)]++;
+            for (int i = 0; i < counts.Length; i++)
+                Assert(Math.Abs(counts[i] * 100.0 / spins - DailyWheel.Weights[i]) < 0.4, "shown odds are the real odds, segment " + i);
+            Equal(DailyWheel.Prizes[0], DailyWheel.Prize(0, 0), "no streak, no bonus");
+            Equal(DailyWheel.Prizes[0] * 2, DailyWheel.Prize(0, 30), "capped at double");
+            Assert(DailyWheel.Ready(5, 6) && !DailyWheel.Ready(6, 6), "once a day");
+        }
+
+        static void MissionsPerDayAndProgress()
+        {
+            for (int day = 739000; day < 739060; day++)
+            {
+                var ids = Missions.ForDay(day);
+                Equal(Missions.PerDay, ids.Length, "three a day");
+                Assert(Missions.Pool[ids[0]].Game == GameKind.Blackjack && Missions.Pool[ids[1]].Game == GameKind.Slots &&
+                       Missions.Pool[ids[2]].Game == GameKind.Roulette, "one per game");
+                Assert(Missions.ForDay(day)[1] == ids[1], "same missions all day");
+            }
+            var seen = new HashSet<int>();
+            for (int day = 0; day < 200; day++) foreach (int i in Missions.ForDay(day)) seen.Add(i);
+            Equal(Missions.Pool.Length, seen.Count, "every mission comes up");
+            var hands = Array.Find(Missions.Pool, m => m.Id == "bj_hands");
+            var chips = Array.Find(Missions.Pool, m => m.Id == "bj_chips");
+            var big = Array.Find(Missions.Pool, m => m.Id == "sl_big");
+            var bjWin = new RoundReport { Game = GameKind.Blackjack, Wagered = 100, Returned = 250, Blackjack = true };
+            Equal(1, Missions.Progress(hands, bjWin), "a hand");
+            Equal(150, Missions.Progress(chips, bjWin), "net chips won");
+            Equal(0, Missions.Progress(big, bjWin), "slots mission ignores blackjack");
+            Equal(1, Missions.Progress(big, new RoundReport { Game = GameKind.Slots, Wagered = 10, Returned = 50 }), "5x is a big win");
+            Equal(0, Missions.Progress(big, new RoundReport { Game = GameKind.Slots, Wagered = 10, Returned = 40 }), "4x is not");
         }
 
         static void EnergyDrainAndRegen()

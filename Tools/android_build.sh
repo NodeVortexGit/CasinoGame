@@ -3,8 +3,9 @@
 #   Gradle      assembleRelease (APK per CPU type, to sideload) and bundleRelease (app bundle for Google Play)
 #   bundletool  validates the bundle, builds the APK set a phone would get and reports download sizes
 #   adb         installs on a connected phone (--install) and shows the game's log (--log)
-# Usage: Tools/android_build.sh [--export] [--install] [--log]
-#   --export  re-export the Unity project first (needs the Unity editor; closes nothing else)
+# Usage: Tools/android_build.sh [--export] [--arm64] [--install] [--log]
+#   --export  re-export the Unity project first (needs the Unity editor)
+#   --arm64   64-bit ARM only (every phone since about 2017): half the native compile, for quick test builds
 set -euo pipefail
 ROOT=$(cd "$(dirname "$0")/.." && pwd)
 UNITY=${UNITY_EDITOR:-$HOME/Unity/Hub/Editor/6000.3.25f1/Editor}
@@ -19,10 +20,11 @@ PROJECT=$ROOT/Builds/Android/Gradle
 OUT=$ROOT/Builds/Android
 PACKAGE=com.luckyace.casino
 
-export_project=0 install=0 log=0
+export_project=0 install=0 log=0 unity_args=()
 for a in "$@"; do
   case $a in
     --export) export_project=1 ;;
+    --arm64) unity_args+=(-arm64) ;;
     --install) install=1 ;;
     --log) log=1 ;;
     *) echo "unknown option $a"; exit 2 ;;
@@ -31,19 +33,22 @@ done
 
 if [ $export_project = 1 ]; then
   echo "== Unity: exporting the Gradle project"
+  [ -d "$PROJECT" ] && find "$PROJECT" -delete   # start clean: no leftovers from an older export
   nice -n 10 "$UNITY/Unity" -batchmode -nographics -quit -projectPath "$ROOT" -buildTarget Android \
-    -executeMethod Casino.EditorTools.CasinoBuild.AndroidGradleProject -logFile "$OUT/unity_export.log"
+    -executeMethod Casino.EditorTools.CasinoBuild.AndroidGradleProject "${unity_args[@]}" -logFile "$OUT/unity_export.log"
   grep "Casino build" "$OUT/unity_export.log" || { echo "export failed, see $OUT/unity_export.log"; exit 1; }
 fi
 [ -d "$PROJECT/launcher" ] || { echo "No exported project in $PROJECT (run with --export)"; exit 1; }
 
 echo "== Gradle: APKs and app bundle"
-( cd "$PROJECT/launcher" && nice -n 10 "$JAVA" -classpath "$GRADLE_JAR" org.gradle.launcher.GradleMain \
+[ "${SKIP_GRADLE:-0}" = 1 ] || ( cd "$PROJECT/launcher" && nice -n 10 "$JAVA" -classpath "$GRADLE_JAR" org.gradle.launcher.GradleMain \
     "-Dorg.gradle.jvmargs=-Xmx2560m" --no-daemon --max-workers=2 assembleRelease bundleRelease )
 APKS_DIR=$PROJECT/launcher/build/outputs/apk/release
 AAB=$PROJECT/launcher/build/outputs/bundle/release/launcher-release.aab
-cp "$APKS_DIR/launcher-arm64-v8a-release.apk" "$OUT/LuckyAceCasino-arm64.apk"
-[ -f "$APKS_DIR/launcher-armeabi-v7a-release.apk" ] && cp "$APKS_DIR/launcher-armeabi-v7a-release.apk" "$OUT/LuckyAceCasino-armv7.apk"
+for apk in launcher-arm64-v8a-release.apk launcher-release.apk; do
+  if [ -f "$APKS_DIR/$apk" ]; then cp "$APKS_DIR/$apk" "$OUT/LuckyAceCasino-arm64.apk"; break; fi
+done
+if [ -f "$APKS_DIR/launcher-armeabi-v7a-release.apk" ]; then cp "$APKS_DIR/launcher-armeabi-v7a-release.apk" "$OUT/LuckyAceCasino-armv7.apk"; fi
 cp "$AAB" "$OUT/LuckyAceCasino.aab"
 
 echo "== bundletool: validate, APK set, sizes"

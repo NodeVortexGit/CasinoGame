@@ -122,8 +122,13 @@ namespace Casino.Screens
 
             App.I.Intensity.Baseline = 0.2f;
             EnterBetting();
+            var progress = App.I.Progress;
+            progress.StreakExtended += OnStreakExtended;
+            bool tease = App.I.Save.handsPlayed > 0 && !progress.Streak.DoneToday(progress.Day) && App.I.Rng.Next(2) == 0;
             Say(App.I.Luck.IsActive && App.I.Save.handsPlayed == 0
                 ? "Welcome! Beginner's luck is on your side tonight. Place a bet!"
+                : tease ? DealerLines.StreakTease(progress.Streak.Count, false,
+                    Mathf.Max(1, progress.Streak.DailyGoal - progress.Streak.RoundsToday(progress.Day)), App.I.Rng)
                 : DealerLines.Pick(DealerMoment.Greeting, App.I.Rng), 3.5f);
         }
 
@@ -704,6 +709,11 @@ namespace Casino.Screens
             }
 
             yield return Tween.Wait(1.5f);
+            if (streakLine != null)
+            {
+                Say(streakLine, 3f);
+                streakLine = null;
+            }
             yield return ClearTable();
             EnterBetting();
 
@@ -868,8 +878,14 @@ namespace Casino.Screens
         /// <summary>A table layout position as a position in the effects layer (stamps over a hand).</summary>
         Vector2 OnFx(Vector2 tablePos) => seat != null ? seat.ToHudLocal(table.TransformPoint(tablePos), fx) : tablePos;
 
+        /// <summary>Today's streak goal was just met: the dealer says so once this hand's result has been said.</summary>
+        string streakLine;
+
+        void OnStreakExtended() => streakLine = DealerLines.StreakExtended(App.I.Progress.Streak.Count, App.I.Rng);
+
         void OnDestroy()
         {
+            if (App.I != null) App.I.Progress.StreakExtended -= OnStreakExtended;
             if (seat == null) return;
             seat.Dispose();
             var next = App.I != null ? App.I.UI.Current : null;
@@ -940,14 +956,9 @@ namespace Casino.Screens
                 App.I.UI.Toast("Finish this hand first.", Palette.TextMuted, Icon.Clock);
                 return;
             }
-            if (App.I.Save.persuasionEnabled)
-            {
-                int attempt = App.I.Persuasion.Attempts;
-                App.I.Persuasion.OnLeaveAttempt();
-                App.I.UI.Modal<PersuasionModal>(m => m.Setup(Table.Theme, DealerLines.PersuasionLine(attempt), GoToLobby));
-                return;
-            }
-            GoToLobby();
+            int attempt = App.I.Persuasion.Attempts;
+            App.I.Persuasion.OnLeaveAttempt();
+            App.I.UI.Modal<PersuasionModal>(m => m.Setup(Table.Theme, DealerLines.PersuasionLine(attempt), GoToLobby));
         }
 
         void GoToLobby()
@@ -964,8 +975,8 @@ namespace Casino.Screens
     }
 
     /// <summary>
-    /// Opt-in only (Settings: "Dealers ask me to stay"). The dealer pleads for one more hand, more insistently each time,
-    /// but LEAVE is always right there and always works.
+    /// When you leave a table the dealer pleads for one more hand, more insistently each time, but LEAVE is always right
+    /// there and always works: it is also what Back and a controller's first focus do, so nobody gets stuck in a loop.
     /// </summary>
     public sealed class PersuasionModal : UIModal
     {
@@ -981,7 +992,16 @@ namespace Casino.Screens
         }
 
         System.Action leaveNow;
+        UIButton go;
         internal void TourLeave() => leaveNow?.Invoke();
+
+        public override GameObject DefaultFocus => go != null ? go.gameObject : null;
+
+        public override bool OnBack()
+        {
+            leaveNow?.Invoke();
+            return true;
+        }
 
         protected override void Build()
         {
@@ -998,7 +1018,7 @@ namespace Casino.Screens
                 Close();
                 leave?.Invoke();
             };
-            var go = UIKit.Button(Panel, "LEAVE", ButtonStyle.Dark, leaveNow, 42);
+            go = UIKit.Button(Panel, "LEAVE", ButtonStyle.Dark, leaveNow, 42);
             go.Rect.At(0.5f, 0f, -230, 80, 300, 100);
         }
     }

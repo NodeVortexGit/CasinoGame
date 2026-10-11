@@ -34,6 +34,18 @@ namespace Casino.UI
 
         /// <summary>True for screens drawn over the 3D casino (the lobby, and games played at their table in the room).</summary>
         public virtual bool ShowsWorld => false;
+
+        /// <summary>True where the player walks around freely (the lobby): the left stick walks, the D-pad picks buttons.</summary>
+        public virtual bool WalksWorld => false;
+
+        /// <summary>What a controller focuses first here (the main action); null picks one by position.</summary>
+        public virtual GameObject DefaultFocus => null;
+
+        /// <summary>Controller confirm with no button focused. Return true when handled.</summary>
+        public virtual bool OnPadConfirm() => false;
+
+        /// <summary>What confirm does when nothing is focused, for the controller hints (null: nothing).</summary>
+        public virtual string PadConfirmHint => null;
     }
 
     /// <summary>Dialog on a dimmed backdrop. Close with <see cref="Close"/>.</summary>
@@ -106,6 +118,9 @@ namespace Casino.UI
         public RectTransform Overlay => overlayLayer;
         public bool HasModal => modals.Count > 0;
 
+        /// <summary>What the player is looking at: the top modal, else the screen.</summary>
+        public UIScreen Top => modals.Count > 0 ? modals[modals.Count - 1] : Current;
+
         public static UIRoot Create(Transform parent)
         {
             var go = new GameObject("UI", typeof(RectTransform), typeof(Canvas), typeof(CanvasScaler), typeof(GraphicRaycaster)) { layer = 5 };
@@ -123,6 +138,8 @@ namespace Casino.UI
             {
                 var es = new GameObject("EventSystem", typeof(EventSystem), typeof(StandaloneInputModule));
                 es.transform.SetParent(parent, false);
+                // Controllers go through PadNavigator; uGUI's own navigation would press a selected button a second time.
+                es.GetComponent<EventSystem>().sendNavigationEvents = false;
             }
 
             var root = go.AddComponent<UIRoot>();
@@ -131,6 +148,7 @@ namespace Casino.UI
             root.modalLayer = UIKit.NewRect("Modals", go.transform).Stretch();
             root.overlayLayer = UIKit.NewRect("Overlay", go.transform).Stretch();
             root.overlayLayer.gameObject.AddComponent<SafeArea>();
+            go.AddComponent<PadNavigator>().Init(root);
             return root;
         }
 

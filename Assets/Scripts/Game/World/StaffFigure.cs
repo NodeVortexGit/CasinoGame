@@ -16,7 +16,9 @@ namespace Casino.World
     /// </summary>
     public sealed class StaffFigure : MonoBehaviour
     {
-        const string Idle = "Idle_Loop", Talking = "Idle_Talking_Loop", Walk = "Walk_Formal_Loop",
+        // No "talking" clip: the library's one gestures at chest height, which looks wrong on these figures. Talking is
+        // the idle plus head emphasis and an open hand at waist height, added in the IK pass.
+        const string Idle = "Idle_Loop", Walk = "Walk_Formal_Loop",
             Interact = "Interact", Beckon = "Idle_Rail_Call", Nod = "Yes";
 
         public StaffRole Role { get; private set; }
@@ -38,11 +40,18 @@ namespace Casino.World
         Transform tray;
         readonly SpringChain hair = new SpringChain(3) { Stiffness = 38f, Damping = 3f, MaxOffset = 0.07f };
         float baseYaw, bodyYaw, phase, talkUntil, waveUntil, nodUntil, nextGesture, gestureUntil;
+        const float TalkGestureTime = 1.5f;
+        float talkGestureStart = -10f, nextTalkGesture;
+        bool talkGestureLeft;
         string state, gesture;
         Vector3 lastPos, lastHeadPos, lastHeadVel;
         Camera lookCam;
         float lookWeight;
         bool started, near;
+
+        // Set once the animator has really posed the body (its IK pass ran). Until then it must keep running even far
+        // away, or the figure would freeze in the T-shaped bind pose.
+        bool posed;
         Quaternion trayUpper, trayLower, trayHand;
         bool trayPosed;
         Vector3 slideFrom, slideTo;
@@ -406,7 +415,17 @@ namespace Casino.World
             float now = Time.time;
             if (speed > 0.15f) Play(Walk, 0.25f);
             else if (now < gestureUntil) Play(gesture, 0.2f);
-            else if (now < talkUntil) Play(Talking, 0.3f);
+            else if (now < talkUntil)
+            {
+                Play(Idle, 0.3f);
+                if (near && now > nextTalkGesture)
+                {
+                    // Every few seconds one hand opens out, like someone explaining; tray carriers use the free hand.
+                    talkGestureStart = now;
+                    talkGestureLeft = Pose == StaffPose.Tray || Mathf.Repeat(phase * 7f + now, 2f) < 1f;
+                    nextTalkGesture = now + TalkGestureTime + 1.2f + Mathf.Repeat(phase * 5f + now * 0.37f, 1.8f);
+                }
+            }
             else if (now < nodUntil) Play(Nod, 0.25f);
             else
             {
@@ -419,7 +438,7 @@ namespace Casino.World
                 }
                 Play(Idle, 0.35f);
             }
-            animator.enabled = near || speed > 0.05f;
+            animator.enabled = near || speed > 0.05f || !posed;
             this.near = animator.enabled;
             lookWeight = Mathf.MoveTowards(lookWeight, camDist < 6f && Mathf.Abs(Mathf.DeltaAngle(bodyYaw, camYaw)) < 110f ? 1f : 0f, dt * 1.5f);
 
@@ -476,16 +495,40 @@ namespace Casino.World
         internal void OnIK()
         {
             if (animator == null) return;
+            posed = true;
             if (lookCam != null && lookWeight > 0.01f)
             {
+                Vector3 look = lookCam.transform.position;
+                if (Time.time < talkUntil)
+                {
+                    // Small nods and tilts on the words (a few degrees, whatever the distance).
+                    float t = Time.time + phase, d = Vector3.Distance(look, transform.position);
+                    look += d * (Vector3.up * (Mathf.Sin(t * 4.7f) * 0.06f + Mathf.Sin(t * 1.9f) * 0.03f) + transform.right * Mathf.Sin(t * 1.3f) * 0.05f);
+                }
                 animator.SetLookAtWeight(lookWeight, 0.12f, 0.75f, 1f, 0.55f);
-                animator.SetLookAtPosition(lookCam.transform.position);
+                animator.SetLookAtPosition(look);
             }
             foreach (var j in fingers) animator.SetBoneLocalRotation(j.Bone, j.Relaxed);
             if (jaw != null && Time.time < talkUntil)
                 animator.SetBoneLocalRotation(HumanBodyBones.Jaw, jawRest * Quaternion.Euler(Mathf.Abs(Mathf.Sin(Time.time * 11f + phase)) * 9f, 0f, 0f));
             float slide = (Time.time - slideStart) / slideTime;
-            if (slide >= 0f && slide < 1.5f && leftArm != null && rightArm != null)
+            bool sliding = slide >= 0f && slide < 1.5f;
+            float g = (Time.time - talkGestureStart) / TalkGestureTime;
+            bool waving = Time.time < waveUntil;
+            if (!sliding && g >= 0f && g < 1f && !(talkGestureLeft ? leftArm == null : rightArm == null || trayPosed || waving))
+            {
+                // Open hand at waist height, forward and out to the side: well clear of the body.
+                var arm = talkGestureLeft ? leftArm : rightArm;
+                float w = Mathf.Sin(g * Mathf.PI) * 0.85f;
+                Vector3 side = talkGestureLeft ? -transform.right : transform.right, fwd = transform.forward, shoulder = arm.Upper.position;
+                var goal = talkGestureLeft ? AvatarIKGoal.LeftHand : AvatarIKGoal.RightHand;
+                var hint = talkGestureLeft ? AvatarIKHint.LeftElbow : AvatarIKHint.RightElbow;
+                animator.SetIKPositionWeight(goal, w);
+                animator.SetIKPosition(goal, shoulder + side * (0.24f + 0.05f * Mathf.Sin(g * Mathf.PI)) + fwd * 0.28f - Vector3.up * 0.36f);
+                animator.SetIKHintPositionWeight(hint, w);
+                animator.SetIKHintPosition(hint, shoulder + side * 0.3f - Vector3.up * 0.32f - fwd * 0.12f);
+            }
+            if (sliding && leftArm != null && rightArm != null)
             {
                 // Out along the table (0..1), then back to the animation (1..1.5).
                 float w = slide < 0.2f ? slide / 0.2f : slide > 1f ? 1f - (slide - 1f) / 0.5f : 1f;
@@ -508,7 +551,7 @@ namespace Casino.World
                 animator.SetBoneLocalRotation(HumanBodyBones.RightLowerArm, trayLower);
                 animator.SetBoneLocalRotation(HumanBodyBones.RightHand, trayHand);
             }
-            else if (Time.time < waveUntil && rightArm != null)
+            else if (waving && rightArm != null)
             {
                 float w = Mathf.Clamp01((waveUntil - Time.time) * 2f) * Mathf.Clamp01((Time.time - (waveUntil - 2.4f)) * 3f);
                 Vector3 shoulder = rightArm.Upper.position, up = Vector3.up, right = transform.right;

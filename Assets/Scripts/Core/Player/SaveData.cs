@@ -18,7 +18,6 @@ namespace Casino.Core.Player
         public int birthDay;
         public int gender = (int)PlayerGender.Unspecified;
         public int npcStyle = (int)NpcStyle.Mixed;
-        public bool persuasionEnabled;
 
         public float energy = 1f;
         public long lastSeenUtcTicks;
@@ -37,12 +36,71 @@ namespace Casino.Core.Player
         public float sfxVolume = 0.8f;
         public int targetFps = 30;
 
+        // Sound beyond music and effects: master volume, the staff's chatter, muting while in the background.
+        public float masterVolume = 1f;
+        public float voiceVolume = 1f;
+        public bool muteInBackground = true;
+
+        // Graphics: quality preset (-1 the platform default: Medium on phones, Ultra on computers; else 0 Low, 1 Medium,
+        // 2 High, 3 Ultra), render resolution on phones, anti-aliasing samples (0, 2, 4), the walking view's horizontal
+        // field of view in degrees, the FPS counter, and on computers window mode and v-sync.
+        public int graphicsQuality = -1;
+        public float renderScale = 1f;
+        public int antiAliasing;
+        public float fieldOfView = 92f;
+        public bool showFps;
+        public bool windowed;
+        public bool vSync;
+
+        // Controls. Touch/mouse and the controller's right stick each have their own speed (1 = default) and inverted
+        // axes. padLayout picks button names and confirm/back (0 auto-detect, 1 Xbox, 2 PlayStation, 3 Nintendo).
+        public float lookSensitivity = 1f;
+        public bool invertLookX;
+        public bool invertLookY;
+        public float padLookSensitivity = 1f;
+        public bool padInvertX;
+        public bool padInvertY;
+        public int padLayout;
+        public bool padHints = true;
+        // Which middle button opens Settings: swapped (the default) puts Settings on Select/View/Create/-, which suits
+        // pads like the Manba One whose buttons sit the other way round; off is the console convention (Start/Menu/Options/+).
+        public bool padSwapMenuView = true;
+
+        // Vibration: where it goes (0 auto: the controller while one is connected, 1 phone, 2 controller, 3 both),
+        // and each one on/off with its own strength (0..1).
+        public int vibrateOn;
+        public bool phoneVibration = true;
+        public float phoneVibrationStrength = 0.7f;
+        public bool padVibration = true;
+        public float padVibrationStrength = 0.7f;
+
         public string countryCode = "";
         public int countrySource;
         public long countryCheckedUtcTicks;
 
         public string lastTableId = "";
         public long lastBet;
+
+        // Progression: levels, the daily streak, the bonus wheel, timed free chips and daily missions (Progression.cs).
+        public long xp;
+        public int level = 1;
+        public int streakCount;
+        public int streakBest;
+        public int streakLastDay = -1;
+        public int streakFreezes;
+        public int streakRounds;
+        public int streakRoundsDay = -1;
+        public List<int> streakMetDays = new List<int>();
+        public List<int> streakFrozenDays = new List<int>();
+        public int wheelDay = -1;
+        public long bonusReadyUtcTicks;
+        public int missionDay = -1;
+        public List<int> missionIds = new List<int>();
+        public List<int> missionProgress = new List<int>();
+        public List<bool> missionDone = new List<bool>();
+        public bool missionBonusPaid;
+        public bool remindersEnabled = true;
+        public bool remindersAsked;
 
         /// <summary>Store transaction ids already granted, so a replayed purchase callback never pays twice.</summary>
         public List<string> grantedTransactions = new List<string>();

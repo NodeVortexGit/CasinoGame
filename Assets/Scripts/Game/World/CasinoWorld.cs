@@ -5,6 +5,7 @@ using Casino.Core;
 using Casino.Core.Economy;
 using Casino.Core.Player;
 using Casino.Screens;
+using Casino.Platform;
 using UnityEngine;
 
 namespace Casino.World
@@ -18,6 +19,12 @@ namespace Casino.World
         const float GreetDistance = 3.4f, StaffAnimDistance = 11f;
 
         public static CasinoWorld Instance { get; private set; }
+
+        /// <summary>Settings changed: anti-aliasing is on the camera.</summary>
+        public void ApplyGraphics()
+        {
+            if (Camera != null) Camera.allowMSAA = QualitySettings.antiAliasing > 0;
+        }
 
         /// <summary>Dev tour only: the world camera draws into this off-screen target every frame.</summary>
         internal static RenderTexture TourTarget;
@@ -67,7 +74,7 @@ namespace Casino.World
             Camera.farClipPlane = 45f;
             Camera.cullingMask = ~(1 << 5);
             Camera.allowHDR = false;
-            Camera.allowMSAA = false;
+            ApplyGraphics();
             Camera.useOcclusionCulling = false;
             Camera.depth = -1;
             Camera.enabled = false;
@@ -101,7 +108,17 @@ namespace Casino.World
             }
         }
 
-        public void LookBy(float yawDegrees, float pitchDegrees) => Player?.Look(yawDegrees, pitchDegrees);
+        /// <summary>
+        /// Turns the view with the player's speed and inverted axes, which are set separately for touch/mouse and for
+        /// the controller's right stick.
+        /// </summary>
+        public void LookBy(float yawDegrees, float pitchDegrees, bool stick = false)
+        {
+            var save = App.I.Save;
+            float k = Mathf.Clamp(stick ? save.padLookSensitivity : save.lookSensitivity, 0.25f, 4f);
+            bool invertX = stick ? save.padInvertX : save.invertLookX, invertY = stick ? save.padInvertY : save.invertLookY;
+            Player?.Look(yawDegrees * k * (invertX ? -1f : 1f), pitchDegrees * k * (invertY ? -1f : 1f));
+        }
 
         /// <summary>True while a game screen has the player sitting at a table or machine.</summary>
         public bool Seated => seated;
@@ -170,7 +187,18 @@ namespace Casino.World
             }
 #endif
             bool blocked = App.I.UI.HasModal || seated;
-            Player.Tick(blocked ? Vector2.zero : stick, dt);
+            if (!blocked && Pad.Connected)
+            {
+                // Controller: left stick walks, right stick looks (squared, so small tilts aim finely).
+                stick += Pad.Move;
+                Vector2 look = Pad.Look;
+                if (look.sqrMagnitude > 0.0001f)
+                {
+                    look *= look.magnitude;
+                    LookBy(look.x * 150f * dt, -look.y * 95f * dt, true);
+                }
+            }
+            Player.Tick(blocked ? Vector2.zero : Vector2.ClampMagnitude(stick, 1f), dt);
             UpdateCamera(dt);
 
             if (rouletteWheel != null) rouletteWheel.Rotate(0f, 0f, 25f * dt, Space.Self);
@@ -197,9 +225,10 @@ namespace Casino.World
         void UpdateCamera(float dt)
         {
             float aspect = Camera.aspect > 0.01f ? Camera.aspect : 16f / 9f;
-            // Keep about 90 degrees of horizontal view on any screen shape.
-            float vfov = 2f * Mathf.Atan(Mathf.Tan(46f * Mathf.Deg2Rad) / aspect) * Mathf.Rad2Deg;
-            Camera.fieldOfView = Mathf.Clamp(vfov, 46f, 68f);
+            // Keep the chosen horizontal view (about 90 degrees by default) on any screen shape.
+            float half = Mathf.Clamp(App.I.Save.fieldOfView, 70f, 110f) * 0.5f;
+            float vfov = 2f * Mathf.Atan(Mathf.Tan(half * Mathf.Deg2Rad) / aspect) * Mathf.Rad2Deg;
+            Camera.fieldOfView = Mathf.Clamp(vfov, 36f, 80f);
             float bob = Mathf.Sin(Player.StepPhase * Mathf.PI * 2f / 1.3f) * 0.022f * Mathf.Clamp01(Player.Speed / PlayerRig.WalkSpeed);
             Vector3 pos = seated ? seatEye : Player.Eye + Vector3.up * bob;
             Quaternion rot = seated ? seatRot : Player.Rotation;
@@ -322,6 +351,12 @@ namespace Casino.World
 
         void SitAt(TableDef def)
         {
+            if (!App.I.Progress.Unlocked(def))
+            {
+                App.I.UI.Toast($"The {def.Name} opens at level {def.Level}. You're level {App.I.Progress.Level}: every round you play counts.",
+                    Palette.Gold, Icon.Lock);
+                return;
+            }
             if (App.I.Energy.IsEmpty)
             {
                 ExhaustedPrompt.Show();
@@ -435,12 +470,20 @@ namespace Casino.World
                 if (d > GreetDistance || d < 0.3f) continue;
                 if (Vector3.Angle(new Vector3(fwd.x, 0f, fwd.z), to) > 40f) continue;
                 if (lastGreeted.TryGetValue(fig, out float when) && Time.time - when < 40f) continue;
-                string line = App.I.Rng.Next(2) == 0 ? DealerLines.Charm(fig.Role, App.I.Rng) : DealerLines.Greeting(fig.Role, App.I.Rng);
+                int pick = App.I.Rng.Next(App.I.Save.handsPlayed > 0 ? 3 : 2);
+                string line = pick == 0 ? DealerLines.Charm(fig.Role, App.I.Rng) : pick == 1 ? DealerLines.Greeting(fig.Role, App.I.Rng) : StreakTease();
                 Say(fig, line);
                 if (fig.Role == StaffRole.Host) fig.Wave();
                 else if (App.I.Rng.Next(3) == 0) fig.Wink();
                 return;
             }
+        }
+
+        static string StreakTease()
+        {
+            var p = App.I.Progress;
+            int left = p.Streak.DailyGoal - p.Streak.RoundsToday(p.Day);
+            return DealerLines.StreakTease(p.Streak.Count, p.Streak.DoneToday(p.Day), Mathf.Max(1, left), App.I.Rng);
         }
 
         void Patrol(float dt)
@@ -490,6 +533,8 @@ namespace Casino.World
 
         internal int TourStaffCount => staff.Count;
         internal string TourStaffName(int i) => staff[i] == null ? "missing" : staff[i].StaffName + "_" + staff[i].Role;
+
+        internal void TourStaffTalk(int i, float seconds) => staff[i]?.Talk(seconds);
 
         /// <summary>Stands the camera in front of a member of staff, looking at them.</summary>
         internal void TourFaceStaff(int i, float distance, float pitch = 6f)

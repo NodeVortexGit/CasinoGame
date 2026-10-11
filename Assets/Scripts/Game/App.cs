@@ -22,6 +22,7 @@ namespace Casino
         public EnergyModel Energy { get; private set; }
         public BeginnerLuck Luck { get; private set; }
         public MusicIntensity Intensity { get; private set; }
+        public Progress Progress { get; private set; }
         public PersuasionTracker Persuasion { get; } = new PersuasionTracker();
         public IRandom Rng { get; } = Pcg32.FromTime();
         public RegionService Region { get; } = new RegionService();
@@ -65,7 +66,9 @@ namespace Casino
 
             SaveSystem = new SaveSystem();
             SaveSystem.Load();
-            ApplyFrameRate();
+            nativeLong = Mathf.Max(Screen.width, Screen.height);
+            nativeShort = Mathf.Min(Screen.width, Screen.height);
+            ApplyGraphics();
 
             Wallet = new Wallet(Math.Max(0, Save.chips));
             Wallet.Changed += (balance, _) =>
@@ -82,11 +85,12 @@ namespace Casino
             ApplyTimeAway();
             Luck = new BeginnerLuck(GameConfig.BeginnerLuckFullHands, GameConfig.BeginnerLuckFadeHands, Save.handsPlayed);
             Intensity = new MusicIntensity();
+            Progress = new Progress(this);
+            Reminders.Cancel();
 
             Sfx.Init(gameObject);
-            Sfx.Volume = Save.sfxVolume;
             Music = new MusicPlayer(transform);
-            Music.SetVolume(Save.musicVolume);
+            ApplyAudio();
 
             SteamBootstrap.Create(transform);
             Purchases = new Purchases(this);
@@ -114,6 +118,8 @@ namespace Casino
             };
 
             UI = UIRoot.Create(transform);
+            FpsCounter.Show(UI.Overlay, Save.showFps);
+            Progress.Celebrate += c => CelebrationBanner.Show(UI.Overlay, c);
             Route();
             DevTour.TryStart(this);
         }
@@ -144,10 +150,77 @@ namespace Casino
                 StartCoroutine(Region.Resolve());
         }
 
+        // ---------------- graphics and sound settings ----------------
+
+        static readonly int[] QualityLevels = { 1, 2, 3, 5 };   // Low, Medium, High, Ultra in ProjectSettings/QualitySettings
+        int nativeLong, nativeShort;
+        bool focused = true;
+
+        /// <summary>The dev tour runs silent whatever the settings say.</summary>
+        public static bool ForceMute;
+
+        /// <summary>0 Low, 1 Medium, 2 High, 3 Ultra; phones start on Medium, computers on Ultra.</summary>
+        public int GraphicsQuality => Save.graphicsQuality >= 0 && Save.graphicsQuality < QualityLevels.Length ? Save.graphicsQuality
+            : Application.isMobilePlatform ? 1 : 3;
+
+        /// <summary>The screen refreshes fast enough for the 120 FPS option.</summary>
+        public static bool HighRefreshScreen => Screen.currentResolution.refreshRateRatio.value >= 89.0;
+
+        public void ApplyGraphics()
+        {
+            int level = QualityLevels[GraphicsQuality];
+            if (QualitySettings.GetQualityLevel() != level) QualitySettings.SetQualityLevel(level, true);
+            QualitySettings.antiAliasing = Save.antiAliasing >= 4 ? 4 : Save.antiAliasing >= 2 ? 2 : 0;
+            ApplyFrameRate();
+            ApplyResolution();
+            Casino.World.CasinoWorld.Instance?.ApplyGraphics();
+            if (UI != null) FpsCounter.Show(UI.Overlay, Save.showFps);
+        }
+
         public void ApplyFrameRate()
         {
-            QualitySettings.vSyncCount = 0;
-            Application.targetFrameRate = Save.targetFps <= 30 ? 30 : 60;
+            QualitySettings.vSyncCount = !Application.isMobilePlatform && Save.vSync ? 1 : 0;
+            int fps = Save.targetFps >= 120 && HighRefreshScreen ? 120 : Save.targetFps <= 30 ? 30 : 60;
+            Application.targetFrameRate = QualitySettings.vSyncCount > 0 ? -1 : fps;
+        }
+
+        void ApplyResolution()
+        {
+            if (Application.isEditor || Application.isBatchMode || nativeLong <= 0) return;
+            if (Application.isMobilePlatform)
+            {
+                // Phones draw fewer pixels and let the screen scale them up: a little softer, cooler and lighter on battery.
+                float k = Mathf.Clamp(Save.renderScale, 0.5f, 1f);
+                int w = Mathf.RoundToInt(nativeLong * k), h = Mathf.RoundToInt(nativeShort * k);
+                if (Screen.width < Screen.height) (w, h) = (h, w);
+                if (Screen.width != w || Screen.height != h) Screen.SetResolution(w, h, true);
+                return;
+            }
+            var mode = Save.windowed ? FullScreenMode.Windowed : FullScreenMode.FullScreenWindow;
+            if (Screen.fullScreenMode == mode) return;
+            if (Save.windowed)
+            {
+                int h = Mathf.Max(540, Mathf.RoundToInt(Display.main.systemHeight * 0.75f));
+                Screen.SetResolution(Mathf.RoundToInt(h * 16f / 9f), h, mode);
+            }
+            else
+            {
+                Screen.SetResolution(Display.main.systemWidth, Display.main.systemHeight, mode);
+            }
+        }
+
+        public void ApplyAudio()
+        {
+            float master = ForceMute || (!focused && Save.muteInBackground) ? 0f : Mathf.Clamp01(Save.masterVolume);
+            Sfx.Volume = Save.sfxVolume * master;
+            Sfx.VoiceVolume = Mathf.Clamp01(Save.voiceVolume);
+            Music?.SetVolume(Save.musicVolume * master);
+        }
+
+        void OnApplicationFocus(bool hasFocus)
+        {
+            focused = hasFocus;
+            if (Music != null) ApplyAudio();
         }
 
         void ApplyTimeAway()
@@ -169,11 +242,21 @@ namespace Casino
             Intensity.Update(dt);
             Music.SetIntensity(Intensity.Current);
 
-            if (Input.GetKeyDown(KeyCode.Escape) && !UI.Back() && UI.Current is LobbyScreen)
+            dayCheck -= dt;
+            if (dayCheck <= 0f)
+            {
+                dayCheck = 30f;
+                Progress.CheckDay();
+            }
+
+            if (Input.GetKeyDown(KeyCode.Escape) && !Pad.BackJustHandled && !UI.Back() && UI.Current is LobbyScreen)
                 UI.Modal<ConfirmModal>(m => m.Setup("Leave the casino?", "Your chips and progress are saved.", "QUIT", Quit, "STAY"));
 
             SaveSystem.Tick();
+            Haptics.Tick();
         }
+
+        float dayCheck;
 
         void OnApplicationPause(bool paused)
         {
@@ -181,10 +264,14 @@ namespace Casino
             {
                 Save.lastSeenUtcTicks = DateTime.UtcNow.Ticks;
                 SaveSystem.SaveNow();
+                Reminders.Schedule(this);
+                Haptics.Stop();
             }
             else
             {
                 ApplyTimeAway();
+                Reminders.Cancel();
+                Progress.CheckDay();
             }
         }
 
@@ -192,6 +279,7 @@ namespace Casino
         {
             Save.lastSeenUtcTicks = DateTime.UtcNow.Ticks;
             SaveSystem.SaveNow();
+            Reminders.Schedule(this);
         }
 
         public void Quit()
@@ -207,11 +295,12 @@ namespace Casino
         // ---------------- stats ----------------
 
         /// <summary>Stats for slots and roulette (they don't count as blackjack hands for Beginner's Luck).</summary>
-        public void RecordWager(long wagered, long net)
+        public void RecordWager(GameKind game, long wagered, long net, bool straightHit = false)
         {
             Save.totalWagered += wagered;
             if (net > Save.biggestWin) Save.biggestWin = net;
             SaveSystem.MarkDirty();
+            Progress.OnRound(new RoundReport { Game = game, Wagered = wagered, Returned = wagered + net, StraightHit = straightHit });
         }
 
         public void RecordHand(long wagered, long net, bool blackjack, int handsWon)
@@ -224,6 +313,7 @@ namespace Casino
             Luck.HandsPlayed = Save.handsPlayed;
             Persuasion.OnHandPlayed();
             SaveSystem.MarkDirty();
+            Progress.OnRound(new RoundReport { Game = GameKind.Blackjack, Wagered = wagered, Returned = wagered + net, Blackjack = blackjack });
         }
     }
 }

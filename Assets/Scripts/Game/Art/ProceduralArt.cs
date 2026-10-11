@@ -44,6 +44,7 @@ namespace Casino.Art
 
         public static Sprite SlotSymbol(Casino.Core.Slots.SlotSymbol s) => Get("slot" + s, () => GamePainters.SlotSymbolImage(s, 160));
         public static Sprite RouletteWheel => Get("roulettewheel", () => GamePainters.RouletteWheel(512));
+        public static Sprite PrizeWheel => Get("prizewheel", () => GamePainters.PrizeWheel(512));
         public static Sprite Ball => Get("ball", () => GamePainters.Ball(48));
 
         public static Sprite Gradient(string key, Color top, Color bottom) =>

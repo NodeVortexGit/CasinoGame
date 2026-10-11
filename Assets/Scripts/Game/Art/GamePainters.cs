@@ -212,6 +212,42 @@ namespace Casino.Art
         public static float PocketAngle(int index) => (index + 0.5f) * 360f / RouletteRules.Pockets;
 
         /// <summary>The wheel, top view. Numbers are added as text by the screen.</summary>
+        /// <summary>Segment colours of the daily bonus wheel, clockwise from the top.</summary>
+        public static readonly Color[] PrizeColors =
+        {
+            Palette.Hex("E0218A"), Palette.Hex("5B2A9E"), Palette.Hex("1E8FD8"), Palette.Hex("F08A1C"),
+            Palette.Hex("0D9A5A"), Palette.Hex("A3122E"), Palette.Hex("1FA8B8"), Palette.Hex("D9A21E"),
+        };
+
+        /// <summary>The daily bonus wheel: eight segments clockwise from the top, white dividers, a gold rim with bulbs.</summary>
+        public static SdfCanvas PrizeWheel(int size = 512)
+        {
+            var c = new SdfCanvas(size, size);
+            var center = V(0.5f, 0.5f);
+            int n = PrizeColors.Length;
+            float step = 360f / n;
+            c.Fill(Sdf.Circle(center, 0.5f), Palette.Gold);
+            c.Fill(Sdf.Circle(center, 0.475f), Palette.Hex("5A2200"));
+            c.Paint(Sdf.Circle(center, 0.46f), p =>
+            {
+                Vector2 d = p - center;
+                float ang = Mathf.Atan2(d.x, d.y) * Mathf.Rad2Deg;
+                if (ang < 0f) ang += 360f;
+                int i = Mathf.FloorToInt(ang / step) % n;
+                float edge = Mathf.Min(ang - i * step, (i + 1) * step - ang) * Mathf.Deg2Rad * d.magnitude;
+                if (edge < 0.005f) return Color.white;
+                return Palette.Mix(PrizeColors[i], Palette.Shade(PrizeColors[i], 0.7f), d.magnitude * 1.8f);
+            });
+            for (int k = 0; k < 16; k++)
+            {
+                float a = k * 22.5f * Mathf.Deg2Rad;
+                c.Fill(Sdf.Circle(center + new Vector2(Mathf.Sin(a), Mathf.Cos(a)) * 0.4875f, 0.009f), Palette.Hex("FFF4C2"));
+            }
+            c.Fill(Sdf.Circle(center, 0.1f), Palette.Gold);
+            c.Fill(Sdf.Circle(center, 0.07f), Palette.Hex("8A3E1C"));
+            return c;
+        }
+
         public static SdfCanvas RouletteWheel(int size = 512)
         {
             var c = new SdfCanvas(size, size);

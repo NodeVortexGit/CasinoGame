@@ -40,8 +40,17 @@ placeholder). No money changes hands.
 | Chip packs and food/drinks for real money, priced per country | `Core/Economy/*`, `Screens/ShopModal.cs` |
 | Energy bar: drains while playing (45 min), refills slowly while away (8 h), food refills it instantly | `Core/Player/EnergyModel.cs` |
 | Adaptive music: bigger bets (absolute, relative to the table, relative to bankroll) make it faster and harder | `Core/Player/MusicIntensity.cs`, `Audio/SynthEngine.cs` |
-| Dealers plead "one more hand" when you leave: **opt-in** in Settings, off by default, Leave always works | `Screens/BlackjackScreen.cs` (`PersuasionModal`) |
+| Dealers plead "one more hand" when you leave a table, more insistently each time; LEAVE is always on screen and is also what Back and a controller's first focus do | `Screens/BlackjackScreen.cs` (`PersuasionModal`) |
 | Beginner's Luck welcome boost (see below) | `Core/Blackjack/DrawStrategies.cs`, `Core/Player/BeginnerLuck.cs` |
+| **Daily streak** (Duolingo style): a 🔥 counter that grows on each day you play 10 rounds of anything; streak freezes cover a missed day (one earned every 7 days, one per rewarded video, or bought with chips); the staff tease you about it, Duolingo style; milestone rewards at 3, 7, 14, 30… days | `Core/Player/Progression.cs`, `UI/Widgets/ProgressWidgets.cs` |
+| **Daily bonus wheel**: one free spin a day, prizes grow with the streak (up to ×2); the chance of every prize is printed under the wheel | `Screens/DailyModal.cs` |
+| **Free chips every 3 hours**, no ad needed (the fallback when ads are blocked) | `Game/Progress.cs`, `Screens/LobbyScreen.cs` |
+| **Levels and XP**: XP per round played (never per amount bet); level-ups pay chips and unlock the Silver (3), Gold (6) and Diamond (10) tables | `Core/Player/Progression.cs` |
+| **Daily missions**: three a day, one per game, with chip and XP rewards and a bonus for finishing all three | `Core/Player/Progression.cs` |
+| **Reminders** (Android, opt-in): "free chips ready" and an evening nudge before a streak would end; at most two, never while playing, off switch in Settings | `Platform/Reminders.cs` |
+| **Controllers**: Xbox, PlayStation and Nintendo-style pads (USB or Bluetooth) through Unity's Input System; the family is detected for button names, and Nintendo pads confirm with A on the right. Left stick walks, right stick looks, D-pad moves between any buttons (HUD and the 3D tables), Menu opens Settings. On-screen hints, which can be turned off | `Platform/Pad.cs`, `UI/PadNavigator.cs` |
+| **Vibration**: phone (Android vibrator, with strength) and controller rumble; Auto moves it to the controller while one is connected; separate on/off and strength for each. Only taps, wins and warnings vibrate, never losses | `Platform/Haptics.cs` |
+| **Settings** tabs: General, Graphics (quality, resolution, anti-aliasing, 30/60/120 FPS, field of view, FPS counter, window mode and v-sync on computers), Sound (master, music, effects, staff voices, mute in background), Touch (sensitivity, invert X/Y), Controller (only once one is detected: layout, stick sensitivity, invert X/Y, hints) and Vibration | `Screens/SettingsModal.cs` |
 
 All tunable numbers (prices, energy timings, ad rewards, boost length, ad and Steam IDs) are in `Assets/Scripts/Game/GameConfig.cs`
 and `Core/Economy/ProductCatalog.cs`.
@@ -149,10 +158,11 @@ without Unity:
 cd Tests/CoreTests && dotnet run -c Release
 ```
 
-It has 33 tests: payouts, insurance, splits, doubles, the age-gate boundaries, energy, pricing, the offline country
+It has 39 tests: payouts, insurance, splits, doubles, the age-gate boundaries, energy, pricing, the offline country
 lookup (20 cities), simulations of 400,000 fair hands (≈43.5% wins, ≈0.6% house edge) and of the boost, the slot
-machine's exact payback (enumerated, then confirmed by simulation), the roulette edge on every bet type, and the hair
-physics (swings, settles, never explodes).
+machine's exact payback (enumerated, then confirmed by simulation), the roulette edge on every bet type, the hair
+physics (swings, settles, never explodes), and the comeback systems: streak days, freezes and milestones, the level
+curve, the wheel's real odds matching the printed ones, and daily missions.
 
 `-casinoTour <folder>` on a desktop build plays through every screen and the 3D casino (walking to a table by tapping
 it, staff close-ups, a few hands of blackjack, slot spins, a roulette round) and saves screenshots plus an error log.
@@ -168,6 +178,12 @@ it, staff close-ups, a few hands of blackjack, slot spins, a roulette round) and
   shown on the age gate, in the lobby footer, and in the shop.
 - Replace the placeholder name, the bundle ID `com.luckyace.casino`, and the test ad and Steam IDs.
 
+## Roadmap
+
+- **Weekly tournaments and leaderboards** (e.g. biggest slot win multiple, most blackjack wins), with chip prizes.
+- **Achievements** for milestones across all games.
+- **A progressive slot jackpot**, with its odds published in the paytable like everything else.
+
 ## Decisions that differ from the original brief
 
 - **The win-rate system is visible and never goes below fair.** The brief asked for a hidden system that starts at
@@ -178,8 +194,16 @@ it, staff close-ups, a few hands of blackjack, slot spins, a roulette round) and
 - **Staff are glamorous, not explicit**: curvy figures in short cocktail dresses (and handsome, fitted suits for the
   male staff), with hair physics but no chest physics. Google Play's sexual-content rules apply to game characters,
   and AdMob limits ads in sexually suggestive apps.
-- **Staff charm is never used to sell.** Their warm, flirty small talk is kept apart from buy and bet prompts, and they
-  never use affection to keep someone playing or paying.
+- **Staff charm is never used to sell.** Their warm, flirty small talk is kept apart from buy and bet prompts. The one
+  place they ask you to keep playing is the dealer's "one more hand" when you leave a table (always on, by the
+  owner's choice); LEAVE is always on screen, and Back or a controller's first press leaves.
+- **The comeback systems reward showing up, not spending.** XP comes per round, not per amount bet; the wheel prints
+  its real odds; streak freezes are earned by playing, from a rewarded video, or bought with chips; there is no paid
+  "streak repair"; and reminders are opt-in, at most two, and never sent while playing. Missions never require a
+  purchase, and the staff's streak teasing is about showing up, never about betting more, buying or staying.
+- **Ads can be blocked by the player's network** (DNS ad blockers block Google's ad servers). The game detects this,
+  says so, and offers the timed free chips instead. It does not try to get around ad blockers: AdMob forbids it, and
+  it's the player's choice.
 - **Energy recovers slowly while the game is closed**, so it is never a hard paywall. Set
   `EnergyHoursToFullWhileAway` to 0 to disable this.
 - **The location permission is explained before Android asks for it.** This also serves as Google Play's required

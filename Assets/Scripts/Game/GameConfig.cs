@@ -27,6 +27,11 @@ namespace Casino
         public const int AdsPerDay = 12;
         public const int AdCooldownSeconds = 90;
 
+        // Comeback systems (Progression.cs): free chips on a timer, the daily streak goal and the price of a streak freeze.
+        public const double BonusHours = 3;
+        public const int StreakDailyGoal = 10;   // rounds of any game in a day
+        public const long StreakFreezeChips = 2_500;
+
         // Energy: drains while the player is in the casino, recovers slowly while the app is closed.
         public const double EnergyMinutesToEmpty = 45;
         public const double EnergyHoursToFullWhileAway = 8;

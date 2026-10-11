@@ -11,6 +11,9 @@ namespace Casino.Platform
     {
         bool IsSupported { get; }
         bool IsReady { get; }
+
+        /// <summary>Videos keep failing to load (no connection, or an ad blocker on the network).</summary>
+        bool IsBlocked { get; }
         void Initialize();
         /// <summary>Shows a rewarded video; <c>done(true)</c> only if the player earned the reward.</summary>
         void ShowRewarded(Action<bool> done);
@@ -20,6 +23,7 @@ namespace Casino.Platform
     {
         public bool IsSupported => false;
         public bool IsReady => false;
+        public bool IsBlocked => false;
         public void Initialize() { }
         public void ShowRewarded(Action<bool> done) => done(false);
     }
@@ -29,6 +33,7 @@ namespace Casino.Platform
     {
         public bool IsSupported => true;
         public bool IsReady => true;
+        public bool IsBlocked => false;
         public void Initialize() { }
         public void ShowRewarded(Action<bool> done) => App.I.UI.Modal<Casino.Screens.SimulatedAdModal>(m => m.Setup(done));
     }
@@ -57,9 +62,11 @@ namespace Casino.Platform
         RewardedAd rewarded;
         bool initialized, loading;
         float retryDelay = 7.5f;
+        int failures;
 
         public bool IsSupported => true;
         public bool IsReady => rewarded != null && rewarded.CanShowAd();
+        public bool IsBlocked => failures >= 2 && !IsReady;
 
         static void OnMain(Action action) => GoogleMobileAds.Common.MobileAdsEventExecutor.ExecuteInUpdate(action);
 
@@ -94,11 +101,13 @@ namespace Casino.Platform
                 if (error != null || ad == null)
                 {
                     Debug.LogWarning("Rewarded ad failed to load: " + error);
+                    failures++;
                     retryDelay = Mathf.Min(retryDelay * 2f, 300f);
                     App.I.StartCoroutine(RetryLoad(retryDelay));
                     return;
                 }
                 retryDelay = 7.5f;
+                failures = 0;
                 rewarded = ad;
             }));
         }
