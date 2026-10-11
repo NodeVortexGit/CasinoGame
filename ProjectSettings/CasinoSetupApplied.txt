@@ -1,0 +1,1 @@
+Player settings applied by Casino > Setup. Delete this file to re-apply on next open.

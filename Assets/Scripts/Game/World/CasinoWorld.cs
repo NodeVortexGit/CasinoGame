@@ -1,0 +1,523 @@
+using System;
+using System.Collections;
+using Casino.Art;
+using Casino.Core;
+using Casino.Core.Economy;
+using Casino.Core.Player;
+using Casino.Screens;
+using UnityEngine;
+
+namespace Casino.World
+{
+    /// <summary>
+    /// The walkable 3D casino behind the lobby HUD. Built once (spread over a few frames), then kept alive and simply
+    /// hidden while a table or another full screen is up, so coming back is instant and you stand where you left.
+    /// </summary>
+    public sealed partial class CasinoWorld : MonoBehaviour
+    {
+        const float GreetDistance = 3.4f, StaffAnimDistance = 11f;
+
+        public static CasinoWorld Instance { get; private set; }
+
+        /// <summary>Dev tour only: the world camera draws into this off-screen target every frame.</summary>
+        internal static RenderTexture TourTarget;
+
+        public bool Ready { get; private set; }
+        public Camera Camera { get; private set; }
+        public PlayerRig Player { get; private set; }
+
+        /// <summary>The place the player is standing at and looking towards, if any (drives the HUD action button).</summary>
+        public Spot Focused { get; private set; }
+
+        /// <summary>A member of staff says something (the HUD shows it as a speech bubble over their head).</summary>
+        public event Action<StaffFigure, string> StaffSpeaks;
+
+        /// <summary>Movement stick from the HUD: x = sideways, y = forward, -1..1.</summary>
+        [NonSerialized] public Vector2 Stick;
+
+        bool visible;
+        float speakCooldown, waitressPause;
+
+        // Seated at a game: the camera glides between the walking view and the seat.
+        bool seated;
+        int seatId;
+        Vector3 seatEye, fromPos;
+        Quaternion seatRot, fromRot;
+        float seatFov, fromFov, glide = 1f;
+        int patrolIndex = 1;
+        readonly System.Collections.Generic.Dictionary<StaffFigure, float> lastGreeted = new System.Collections.Generic.Dictionary<StaffFigure, float>();
+
+        public static CasinoWorld Ensure()
+        {
+            if (Instance != null) return Instance;
+            var go = new GameObject("CasinoWorld");
+            go.transform.SetParent(App.I.transform, false);
+            Instance = go.AddComponent<CasinoWorld>();
+            return Instance;
+        }
+
+        void Awake()
+        {
+            var camGo = new GameObject("WorldCamera");
+            camGo.transform.SetParent(transform, false);
+            Camera = camGo.AddComponent<Camera>();
+            Camera.clearFlags = CameraClearFlags.SolidColor;
+            Camera.backgroundColor = Palette.Hex("1A0B22");
+            Camera.nearClipPlane = 0.08f;
+            Camera.farClipPlane = 45f;
+            Camera.cullingMask = ~(1 << 5);
+            Camera.allowHDR = false;
+            Camera.allowMSAA = false;
+            Camera.useOcclusionCulling = false;
+            Camera.depth = -1;
+            Camera.enabled = false;
+            if (TourTarget != null) Camera.targetTexture = TourTarget;
+        }
+
+        IEnumerator Start()
+        {
+            yield return null;
+            yield return Build();
+            // World signs are built with UI helpers; keep them off the UI layer so only the world camera draws them.
+            foreach (var t in GetComponentsInChildren<Transform>(true))
+                if (t.gameObject.layer == 5) t.gameObject.layer = 0;
+            Player = new PlayerRig(obstacles, new Vector2(MinX, MinZ), new Vector2(MaxX, MaxZ));
+            Player.Teleport(new Vector2(0f, -9.6f), 12f);
+            Ready = true;
+            UpdateCamera(0f);
+        }
+
+        /// <summary>Show or hide the 3D casino (hidden worlds cost nothing: the camera is simply off).</summary>
+        public void SetVisible(bool show)
+        {
+            visible = show;
+            Camera.enabled = show && Ready;
+            if (App.I.UiCamera != null) App.I.UiCamera.enabled = !Camera.enabled;
+            Input.multiTouchEnabled = show;
+            if (!show)
+            {
+                Stick = Vector2.zero;
+                Player?.Cancel();
+            }
+        }
+
+        public void LookBy(float yawDegrees, float pitchDegrees) => Player?.Look(yawDegrees, pitchDegrees);
+
+        /// <summary>True while a game screen has the player sitting at a table or machine.</summary>
+        public bool Seated => seated;
+
+        /// <summary>
+        /// Sits down at a game: the camera glides to <paramref name="eye"/>, looking at <paramref name="lookAt"/>, and
+        /// stays there (no walking) until <see cref="StandUp"/>. <paramref name="standAt"/> is where you'll be standing
+        /// when you get up again (next to the game, wherever you came from). Returns the seat, for <see cref="StandUp"/>.
+        /// </summary>
+        public int SitDown(Vector3 eye, Vector3 lookAt, float verticalFov, Vector2 standAt, float standYaw)
+        {
+            if (!Ready) return 0;
+            StartGlide();
+            seated = true;
+            seatEye = eye;
+            seatRot = Quaternion.LookRotation(lookAt - eye);
+            seatFov = verticalFov;
+            Stick = Vector2.zero;
+            Player.Teleport(standAt, standYaw);
+            Focused = null;
+            return ++seatId;
+        }
+
+        /// <summary>Gets up from the given seat (or from any, with 0); ignored if the player has moved to another game.</summary>
+        public void StandUp(int seat = 0)
+        {
+            if (!seated || (seat != 0 && seat != seatId)) return;
+            StartGlide();
+            seated = false;
+        }
+
+        void StartGlide()
+        {
+            fromPos = Camera.transform.position;
+            fromRot = Camera.transform.rotation;
+            fromFov = Camera.fieldOfView;
+            glide = 0f;
+        }
+
+        /// <summary>The seat camera's field of view, widened on squarer screens so the whole game stays in view.</summary>
+        public float SeatFov(float verticalFov, float minHorizontalFov)
+        {
+            float aspect = Camera.aspect > 0.01f ? Camera.aspect : 16f / 9f;
+            float needed = 2f * Mathf.Atan(Mathf.Tan(minHorizontalFov * 0.5f * Mathf.Deg2Rad) / aspect) * Mathf.Rad2Deg;
+            return Mathf.Max(verticalFov, needed);
+        }
+
+        void Update()
+        {
+            if (!Ready) return;
+            if (visible && !Camera.enabled)
+            {
+                Camera.enabled = true;
+                if (App.I.UiCamera != null) App.I.UiCamera.enabled = false;
+            }
+            if (!visible) return;
+
+            float dt = Mathf.Min(Time.deltaTime, 0.05f);
+            Vector2 stick = Stick;
+#if UNITY_STANDALONE || UNITY_EDITOR
+            if (!seated)
+            {
+                stick += new Vector2(Axis(KeyCode.D, KeyCode.A), Axis(KeyCode.W, KeyCode.S) + Axis(KeyCode.UpArrow, KeyCode.DownArrow));
+                float turn = Axis(KeyCode.RightArrow, KeyCode.LeftArrow) + Axis(KeyCode.E, KeyCode.Q);
+                if (turn != 0f) Player.Look(turn * 110f * dt, 0f);
+            }
+#endif
+            bool blocked = App.I.UI.HasModal || seated;
+            Player.Tick(blocked ? Vector2.zero : stick, dt);
+            UpdateCamera(dt);
+
+            if (rouletteWheel != null) rouletteWheel.Rotate(0f, 0f, 25f * dt, Space.Self);
+            Patrol(dt);
+            foreach (var s in spots)
+                if (s.FollowsStaff && s.Staff != null) s.Focus = s.Staff.transform.position + Vector3.up * 1.1f;
+
+            Vector3 eye = Camera.transform.position;
+            foreach (var fig in staff)
+            {
+                if (fig == null) continue;
+                bool near = (fig.transform.position - eye).sqrMagnitude < StaffAnimDistance * StaffAnimDistance;
+                fig.Animate(Camera, dt, near);
+            }
+
+            Focused = blocked ? null : PickFocused();
+            if (!seated) Greet(dt);
+        }
+
+#if UNITY_STANDALONE || UNITY_EDITOR
+        static float Axis(KeyCode plus, KeyCode minus) => (Input.GetKey(plus) ? 1f : 0f) - (Input.GetKey(minus) ? 1f : 0f);
+#endif
+
+        void UpdateCamera(float dt)
+        {
+            float aspect = Camera.aspect > 0.01f ? Camera.aspect : 16f / 9f;
+            // Keep about 90 degrees of horizontal view on any screen shape.
+            float vfov = 2f * Mathf.Atan(Mathf.Tan(46f * Mathf.Deg2Rad) / aspect) * Mathf.Rad2Deg;
+            Camera.fieldOfView = Mathf.Clamp(vfov, 46f, 68f);
+            float bob = Mathf.Sin(Player.StepPhase * Mathf.PI * 2f / 1.3f) * 0.022f * Mathf.Clamp01(Player.Speed / PlayerRig.WalkSpeed);
+            Vector3 pos = seated ? seatEye : Player.Eye + Vector3.up * bob;
+            Quaternion rot = seated ? seatRot : Player.Rotation;
+            float fov = seated ? seatFov : Camera.fieldOfView;
+            glide = Mathf.MoveTowards(glide, 1f, dt / 0.7f);
+            if (glide < 1f)
+            {
+                float k = Mathf.SmoothStep(0f, 1f, glide);
+                pos = Vector3.Lerp(fromPos, pos, k);
+                rot = Quaternion.Slerp(fromRot, rot, k);
+                fov = Mathf.Lerp(fromFov, fov, k);
+            }
+            Camera.fieldOfView = fov;
+            Camera.transform.SetPositionAndRotation(pos, rot);
+        }
+
+        Spot PickFocused()
+        {
+            Spot best = null;
+            float bestScore = float.MaxValue;
+            float yawRad = Player.Yaw * Mathf.Deg2Rad;
+            var fwd = new Vector2(Mathf.Sin(yawRad), Mathf.Cos(yawRad));
+            foreach (var s in spots)
+            {
+                var to = new Vector2(s.Focus.x, s.Focus.z) - Player.Position;
+                float d = to.magnitude;
+                if (d > s.UseDistance) continue;
+                float angle = d > 0.01f ? Vector2.Angle(fwd, to / d) : 0f;
+                if (angle > 65f && d > 1.4f) continue;
+                float score = d + angle / 40f;
+                if (score < bestScore)
+                {
+                    bestScore = score;
+                    best = s;
+                }
+            }
+            return best;
+        }
+
+        // ------------------------------------------------------------------ interaction
+
+        /// <summary>The player tapped the 3D view: walk to (and use) what was tapped, or walk to that spot on the floor.</summary>
+        public void Tap(Vector2 screenPoint)
+        {
+            if (!Ready) return;
+            var ray = Camera.ScreenPointToRay(screenPoint);
+            Spot hit = null;
+            float hitDistance = float.MaxValue;
+            foreach (var s in spots)
+            {
+                Vector3 center = s.Focus;
+                float radius = s.TapRadius;
+                if (s.Staff != null && s.FollowsStaff) radius = 0.6f;
+                if (RaySphere(ray, center, radius, out float t) && t < hitDistance)
+                {
+                    hit = s;
+                    hitDistance = t;
+                }
+                if (s.Staff != null && RaySphere(ray, s.Staff.HeadPoint - Vector3.up * 0.55f, 0.5f, out float ts) && ts < hitDistance)
+                {
+                    hit = s;
+                    hitDistance = ts;
+                }
+            }
+            if (hit != null)
+            {
+                Go(hit);
+                return;
+            }
+            if (ray.direction.y < -0.02f)
+            {
+                float t = -ray.origin.y / ray.direction.y;
+                if (t < 30f)
+                {
+                    Vector3 p = ray.origin + ray.direction * t;
+                    Player.WalkTo(new Vector2(p.x, p.z), null, null);
+                }
+            }
+        }
+
+        /// <summary>Walks to a spot (unless already there) and uses it.</summary>
+        public void Go(Spot spot)
+        {
+            var focus = new Vector2(spot.Focus.x, spot.Focus.z);
+            if ((focus - Player.Position).magnitude <= spot.UseDistance)
+            {
+                Use(spot);
+                return;
+            }
+            Vector2 approach = spot.Approach;
+            float yaw = spot.ApproachYaw;
+            if (spot.FollowsStaff)
+            {
+                Vector2 dir = (Player.Position - focus).normalized;
+                approach = focus + dir * 1.4f;
+                yaw = Mathf.Atan2(-dir.x, -dir.y) * Mathf.Rad2Deg;
+            }
+            Player.WalkTo(approach, yaw, () => Use(spot));
+        }
+
+        public void Use(Spot spot)
+        {
+            Casino.Audio.Sfx.Play(Casino.Audio.SfxId.Click);
+            if (spot.Staff != null) spot.Staff.Talk(1.2f);
+            spot.Use?.Invoke();
+        }
+
+        static bool RaySphere(Ray ray, Vector3 center, float radius, out float t)
+        {
+            Vector3 oc = ray.origin - center;
+            float b = Vector3.Dot(oc, ray.direction);
+            float c = oc.sqrMagnitude - radius * radius;
+            float disc = b * b - c;
+            t = 0f;
+            if (disc < 0f) return false;
+            t = -b - Mathf.Sqrt(disc);
+            if (t < 0f) t = -b + Mathf.Sqrt(disc);
+            return t >= 0f;
+        }
+
+        void SitAt(TableDef def)
+        {
+            if (App.I.Energy.IsEmpty)
+            {
+                ExhaustedPrompt.Show();
+                return;
+            }
+            if (App.I.Wallet.Balance < def.MinBet)
+            {
+                App.I.UI.Toast($"This table needs at least {ChipFormat.Short(def.MinBet)} chips.", Palette.Gold, Icon.Coin);
+                App.I.UI.Modal<ShopModal>(m => m.StartTab = ShopTab.Chips);
+                return;
+            }
+            App.I.Save.lastTableId = def.Id;
+            App.I.UI.Show<BlackjackScreen>(s => s.Table = def);
+        }
+
+        StaffFigure StaffAt(int index) => index >= 0 && index < staff.Count ? staff[index] : null;
+
+        /// <summary>The blackjack table for a table definition: its centre (dealer on the +z side) and its dealer.</summary>
+        public bool TryBlackjackTable(string id, out Vector3 center, out StaffFigure dealer)
+        {
+            dealer = null;
+            center = default;
+            if (!Ready || id == null || !blackjackTables.TryGetValue(id, out var t)) return false;
+            center = t.center;
+            dealer = StaffAt(t.dealer);
+            return true;
+        }
+
+        /// <summary>A slot machine's screen (centre of the reel window) and the way it faces.</summary>
+        public bool TrySlotMachine(int index, out Vector3 screen, out Vector3 facing)
+        {
+            screen = facing = default;
+            if (!Ready || slotMachines.Count == 0) return false;
+            (screen, facing) = slotMachines[Mathf.Abs(index) % slotMachines.Count];
+            return true;
+        }
+
+        /// <summary>The roulette table (layout origin on the floor) and its croupier.</summary>
+        public bool TryRoulette(out Vector3 center, out StaffFigure croupier)
+        {
+            center = RouletteCenter;
+            croupier = StaffAt(croupierIndex);
+            return Ready;
+        }
+
+        /// <summary>The wheel and board shown on the roulette table while nobody is playing there.</summary>
+        public void ShowRouletteDecor(bool show)
+        {
+            if (rouletteDecor != null) rouletteDecor.gameObject.SetActive(show);
+        }
+
+        public StaffFigure HostFigure => hostIndex >= 0 && hostIndex < staff.Count ? staff[hostIndex] : null;
+
+        /// <summary>The host says something (welcome lines); shown wherever you're standing.</summary>
+        public void HostSays(string line) => Say(HostFigure, line);
+
+        bool CanPlay()
+        {
+            if (!App.I.Energy.IsEmpty) return true;
+            ExhaustedPrompt.Show();
+            return false;
+        }
+
+        void OpenSlots(int machine)
+        {
+            if (CanPlay()) App.I.UI.Show<SlotsScreen>(s => s.Machine = machine);
+        }
+
+        void OpenRoulette()
+        {
+            if (CanPlay()) App.I.UI.Show<RouletteScreen>();
+        }
+
+        void HostTips()
+        {
+            var host = hostIndex >= 0 && hostIndex < staff.Count ? staff[hostIndex] : null;
+            string[] tips =
+            {
+                "Blackjack tables are straight ahead. Walk up to one and take a seat!",
+                "Slot machines line the right wall, and the roulette wheel is at the back.",
+                "The cashier is right here on your right, and the bar is along the left wall.",
+                "Feeling tired? A snack at the bar fills your energy right up.",
+                "Tap anywhere on the floor and you'll walk there. Tap a table to sit down.",
+            };
+            Say(host, tips[App.I.Rng.Next(tips.Length)]);
+        }
+
+        // ------------------------------------------------------------------ staff life
+
+        void Say(StaffFigure fig, string line)
+        {
+            if (fig == null) return;
+            fig.Talk(Mathf.Clamp(line.Length * 0.05f, 1.2f, 3.5f));
+            speakCooldown = 6f;
+            lastGreeted[fig] = Time.time;
+            StaffSpeaks?.Invoke(fig, line);
+        }
+
+        void Greet(float dt)
+        {
+            speakCooldown -= dt;
+            if (speakCooldown > 0f) return;
+            Vector3 eye = Camera.transform.position;
+            Vector3 fwd = Camera.transform.forward;
+            foreach (var fig in staff)
+            {
+                if (fig == null) continue;
+                Vector3 to = fig.HeadPoint - eye;
+                to.y = 0f;
+                float d = to.magnitude;
+                if (d > GreetDistance || d < 0.3f) continue;
+                if (Vector3.Angle(new Vector3(fwd.x, 0f, fwd.z), to) > 40f) continue;
+                if (lastGreeted.TryGetValue(fig, out float when) && Time.time - when < 40f) continue;
+                string line = App.I.Rng.Next(2) == 0 ? DealerLines.Charm(fig.Role, App.I.Rng) : DealerLines.Greeting(fig.Role, App.I.Rng);
+                Say(fig, line);
+                if (fig.Role == StaffRole.Host) fig.Wave();
+                else if (App.I.Rng.Next(3) == 0) fig.Wink();
+                return;
+            }
+        }
+
+        void Patrol(float dt)
+        {
+            if (waitress == null || patrol.Count == 0) return;
+            Vector3 p = waitress.transform.position;
+            var pos = new Vector2(p.x, p.z);
+            // She stops for a chat when you're close.
+            if ((pos - Player.Position).magnitude < 2.6f) return;
+            if (waitressPause > 0f)
+            {
+                waitressPause -= dt;
+                return;
+            }
+            Vector2 target = patrol[patrolIndex];
+            Vector2 to = target - pos;
+            float step = 1.05f * dt;
+            if (to.magnitude <= step)
+            {
+                pos = target;
+                patrolIndex = (patrolIndex + 1) % patrol.Count;
+                waitressPause = 1.5f;
+            }
+            else
+            {
+                pos += to.normalized * step;
+            }
+            waitress.transform.position = new Vector3(pos.x, 0f, pos.y);
+        }
+
+        // ------------------------------------------------------------------ dev tour
+
+        internal string TourDiagnostics()
+        {
+            var sb = new System.Text.StringBuilder();
+            foreach (var mr in GetComponentsInChildren<MeshRenderer>())
+            {
+                var mf = mr.GetComponent<MeshFilter>();
+                var mat = mr.sharedMaterial;
+                sb.Append($"\n  {mr.name}: visible={mr.isVisible} verts={(mf != null && mf.sharedMesh != null ? mf.sharedMesh.vertexCount : -1)} " +
+                    $"shader={(mat != null && mat.shader != null ? mat.shader.name + (mat.shader.isSupported ? "" : " UNSUPPORTED") : "none")} queue={(mat != null ? mat.renderQueue : -1)} " +
+                    $"bounds={(mf != null && mf.sharedMesh != null ? mf.sharedMesh.bounds.ToString() : "")}");
+            }
+            sb.Append($"\n  glows={glows.Count}");
+            return sb.ToString();
+        }
+
+        internal int TourStaffCount => staff.Count;
+        internal string TourStaffName(int i) => staff[i] == null ? "missing" : staff[i].StaffName + "_" + staff[i].Role;
+
+        /// <summary>Stands the camera in front of a member of staff, looking at them.</summary>
+        internal void TourFaceStaff(int i, float distance, float pitch = 6f)
+        {
+            var fig = staff[i];
+            if (fig == null) return;
+            Vector3 f = fig.transform.forward;
+            Vector3 at = fig.transform.position + f * distance;
+            Player.Teleport(new Vector2(at.x, at.z), Mathf.Atan2(-f.x, -f.z) * Mathf.Rad2Deg);
+            // look slightly down at the face from eye height
+            Player.Pitch = pitch;
+            glide = 1f;
+            UpdateCamera(0f);
+        }
+
+        internal void TourRender(RenderTexture target)
+        {
+            Camera.targetTexture = target;
+            UpdateCamera(0f);
+            Camera.Render();
+        }
+
+        internal void TourView(Vector2 position, float yaw, float pitch = 0f)
+        {
+            Player.Teleport(position, yaw);
+            Player.Pitch = pitch;
+            glide = 1f;
+            UpdateCamera(0f);
+        }
+    }
+}
