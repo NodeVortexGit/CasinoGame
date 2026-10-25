@@ -1,0 +1,1004 @@
+KLEIN
+GROOT
+ONEVEN
+EVEN
+ELKE TRIPLE
+Handvol fiches
+Stapel fiches
+Dienblad fiches
+Rek fiches
+MEEST GEKOZEN
+Kluis vol fiches
+Highroller-kluis
+BESTE DEAL
+Bruiswater
+Espresso
+Energiedrank
+Clubsandwich
+Burgermenu
+Steakdiner
+HELEMAAL VOL
+Geluksreeks
+Hete reeks
+MEESTE GELUK
+Bronzen tafel
+Zilveren tafel
+Gouden tafel
+Diamanten tafel
+Hold'em-tafel
+Vul een geldig jaar in.
+Vul een geldige maand in (1-12).
+Vul een geldige dag in.
+Die datum ligt in de toekomst.
+Welkom aan mijn tafel! Klaar om te spelen?
+Fijn je te zien. Ga zitten!
+Hallo! De kaarten zijn vers, en ik ook.
+Welkom! Laten we er een mooie avond van maken.
+Plaats je inzet wanneer je klaar bent.
+Fiches neer, en laten we wat kaarten zien.
+Waar spelen we om?
+Oeh, een grote inzet! Ik hou van je stijl.
+Dat noem ik een inzet. Kom op!
+Je voelt je dapper vanavond, hè?
+Alles inzetten?! Mijn hart gaat tekeer!
+Alles op één hand. Onbevreesd!
+Blackjack! Ongelooflijk!
+Eenentwintig, zomaar!
+Blackjack! De kaarten zijn dol op je vanavond.
+Mooi gespeeld!
+Gewonnen! Goed gedaan.
+Je bent goed op dreef!
+Die is voor jou.
+Wat een winst! Iedereen kijkt naar deze tafel!
+Enorm! Je bent vanavond on fire!
+Zo dichtbij! De volgende is voor jou.
+Het huis had deze keer geluk.
+Schud het van je af, er komt een nieuwe hand.
+Au, één kaart te veel.
+Dood! Het overkomt de besten.
+Gelijkspel. Niemand verliest!
+Push. Je fiches zijn veilig.
+Ik ben dood! Bofkont.
+Te veel voor mij. Jij wint!
+Blackjack voor het huis, sorry!
+Blackjack voor de dealer. Pech.
+Ik laat een aas zien. Verzekering?
+Splitsen! Twee kansen om te winnen.
+Verdubbelen. Moedige zet!
+Verdubbel het! Er komt één kaart.
+Nieuwe schoen, ik schud!
+Bijna op? De kassa vult je zo aan.
+De fiches raken op. Wil je er meer?
+Geen fiches meer! Ga naar de kassa of pak gratis fiches.
+Je stapel is leeg. De kassa staat vlak achter je.
+Je ziet er uitgeput uit! Haal iets te eten aan de bar.
+Op de reservetank? De bar helpt je verder.
+Neem je tijd.
+Wanneer je maar klaar bent!
+De avond is nog jong.
+Beginnersgeluk staat aan jouw kant!
+Het spel kaarten is vanavond in je voordeel!
+Het beginnersgeluk is voorbij. Vanaf nu is het een eerlijk spel!
+Welkom in het casino! Je plek staat klaar.
+Goedenavond! De tafels zijn vanavond heet.
+Welkom terug! Voel je je gelukkig?
+Tik op een tafel om te gaan spelen!
+Meer fiches nodig? Dan ben je hier aan het juiste loket.
+Grotere stapels, grotere bonussen!
+Honger? Kies iets van de kaart.
+Een hapje houdt je energie op peil!
+Welkom aan mijn tafel!
+Daar ben je! Het voelt hier meteen lichter.
+Voel je thuis. Vanavond draait alles om jou.
+Ik hou van die glimlach. Geluksavond?
+Ontspan, je bent hier in goede handen.
+Hé jij! Ik hoopte al dat je langs mijn loket zou komen.
+Altijd fijn om een bekend gezicht te zien.
+Kijk eens wie we daar hebben! Heb je het naar je zin?
+Hallo daar, knapperd!
+Ik vind je stijl vanavond leuk.
+Hé, leuk je weer te zien!
+Heb je een goede avond? Die verdien je.
+Pas op, straks ga ik nog voor jou juichen.
+Mijn favoriete speler is terug!
+Kom bij me zitten, ik deel je iets moois.
+Met jou is deze tafel een stuk leuker.
+Ga je nu al? De avond is nog jong!
+Kom op, nog één hand. Ik heb er een goed gevoel over!
+Je kunt me nu niet laten zitten, we zijn net begonnen!
+Laatste kans! De volgende hand kan de grote zijn...
+Oké, oké. Ik houd je plek warm. Beloof je dat je terugkomt?
+Nog geen reeks? Speel vandaag {2} rondes en ik begin te tellen.
+Nieuwe start! {2} rondes en je vlam brandt.
+Ik houd een lijstje bij van wie er elke dag komt. Jij staat er niet op... nog niet.
+Dag {1} wacht op je. Nog maar {2} rondes te gaan!
+{0} dagen op rij... je gaat nu toch niet stoppen?
+Je vlam ziet er vandaag wat koud uit. {2} rondes warmen hem wel op.
+Ik heb geteld: {0} dagen. Laten we er {1} van maken.
+Denk niet dat ik het niet zag. Nog {2} rondes om je reeks te houden!
+{0} dagen op rij? Ik begin te denken dat je het hier leuk vindt.
+Je reeks is veilig voor vandaag. Nu ben je gewoon aan het opscheppen.
+Dag {0}, klaar. Morgen zelfde tijd?
+{0} dagen! Ik zou nu wel een plekje voor je mogen vrijhouden.
+Daar is hij: dag één van je reeks! Kom morgen terug, dan maken we er twee van.
+Een hele week op rij! Ik ben oprecht onder de indruk.
+Dertig dagen! Je werkt hier zo goed als.
+Honderd dagen. Ik vertel iedereen over je.
+Dat is {0} dagen op rij! Moet je jou zien.
+Reeks gered: dag {0}! Ik wist dat je het zou halen.
+Dag {0}! Wedden dat je {1} niet haalt?
+{0} dagen... oké, uitslover.
+Speel 10 handen blackjack
+Win 5 handen blackjack
+Haal een blackjack
+Win 500 fiches bij blackjack
+Draai 20 keer aan de gokkast
+Win 5 draaien op de gokkast
+Win 5× je inzet op de gokkast
+Speel 5 rondes roulette
+Win 3 roulettedraaien
+Raak een getal plein
+Speel 8 handen hold'em
+Win 4 handen hold'em
+Speel 10 handen baccarat
+Win 5 handen baccarat
+Speel 15 handen videopoker
+Speel 8 rondes sic bo
+Win 4 rondes sic bo
+Gooi 15 keer bij craps
+Win 4 worpen bij craps
+Maak een flush of beter bij videopoker
+Royal flush
+Straight flush
+Four of a kind
+Full house
+Flush
+Straat
+Three of a kind
+Twee paar
+Paar
+Hoge kaart
+gps-locatie
+mobiel netwerk
+internetverbinding
+apparaatinstellingen
+testland
+niet geverifieerd (standaardprijs)
+onbekend
+1e 12
+2e 12
+3e 12
+2 tegen 1
+ROOD
+ZWART
+Boeren of beter
+EERLIJKE PRIJZEN VOOR JOUW LAND
+De prijzen in de winkel zijn afgestemd op de economie van je land, zodat spelers overal een eerlijke prijs betalen.
+Om je land te bepalen, controleren we één keer je globale locatie. Die wordt op je apparaat aan een land gekoppeld en nergens naartoe gestuurd. Als je weigert, gelden de standaardprijzen.
+DOORGAAN
+Het casino verlaten?
+Je fiches en voortgang zijn opgeslagen.
+STOPPEN
+BLIJVEN
+{0} ontgrendeld
+Een reeksbevriezing heeft gisteren je reeks van {0} dagen gered.
+{0} reeksbevriezingen hebben je reeks van {1} dagen gered.
+Je reeks van {0} dagen is voorbij. Speel vandaag {1} rondes om een nieuwe te beginnen!
+MISSIE VOLTOOID
++{0} fiches
+ALLE MISSIES VOLTOOID!
+Dagbonus +{0} fiches. Morgen nieuwe missies.
+LEVEL {0}!
+Mijlpaal! +{0} fiches
+Kom morgen terug om door te gaan
++1 reeksbevriezing
+REEKS VAN {0} DAGEN!
+Aankopen zijn niet beschikbaar in deze versie.
+Aankoop mislukt. Er is niets afgeschreven.
++{0} fiches toegevoegd!
+{0}: {1} handen met {2}% geluk, na het beginnersgeluk
+{0}: {1} handen met {2}% geluk!
+{0}: +{1}% energie
+Niet beschikbaar op dit apparaat
+Video's laden niet op dit netwerk
+Kom morgen terug
+Klaar over {0} s
++{0} fiches (nog {1} vandaag)
++{0} gratis fiches!
++1 reeksbevriezing!
+Er is nu geen video beschikbaar. Probeer het zo opnieuw.
+BRONS
+ZILVER
+GOUD
+DIAMANT
+Menu
+Weergave
+Kruis
+Cirkel
+Vierkant
+Driehoek
+Je regio controleren...
+Niet geverifieerd ({0}): standaardprijzen
+{0} ({1}): prijzen in {2}
+Herinneringen
+Gratis fiches klaar en herinneringen voor je reeks
+Je gratis fiches staan klaar
+Er wachten {0} fiches op je bij Lucky Ace.
+Houd je reeks van {0} dagen vast
+Speel vandaag {0} rondes, zodat hij om middernacht niet terugspringt.
+BACCARAT
+Welkom bij baccarat! Speler, Bank of Gelijkspel?
+SPELER
+GELIJK
+BANK
+LAATSTE UITSLAGEN
+S
+B
+G
+ONGEDAAN
+WISSEN
+OPNIEUW
+DELEN
+Niet genoeg fiches voor die inzet.
+Tafelmaximum bereikt
+TOTALE INZET  {0}
+Kies een fiche en tik op Speler, Bank of Gelijk
+GELIJK  {0}
+SPELER WINT  {0} TEGEN {1}
+BANK WINT  {0} TEGEN {1}
+WINST  +{0}
+TERUG  {0}
+Deze keer geen winst
+Maak eerst deze hand af.
+Welkom! Het beginnersgeluk staat vanavond aan jouw kant. Plaats een inzet!
+BLACKJACK BETAALT 3 TEGEN 2   •   DEALER PAST OP ALLE 17   •   VERZEKERING BETAALT 2 TEGEN 1
+INZET
+KAART
+PASSEN
+DUBBEL
+SPLITS
+VERZEKER
+NEE, BEDANKT
+INZET {0}+
+Niet genoeg fiches
+De dealer toont een aas. Verzekeren voor {0}?
+Verzekering betaalt {0}
+Geen blackjack voor de dealer. Verzekering verloren.
+DOOD
+DEALER DOOD
+BLACKJACK!
+WINST
+PUSH
+VERLIES
+Het beginnersgeluk is voorbij. Je Geluksreeks begint nu.
+Het beginnersgeluk is voorbij. Vanaf nu is het standaard blackjack.
+Je Geluksreeks is voorbij. Terug naar standaard blackjack.
+GEEN FICHES MEER
+Bekijk een korte video voor {0} gratis fiches, of ga naar de kassa.
+Ga naar de kassa om je fiches aan te vullen.
+GRATIS FICHES
+KASSA
+LATER
+‘{0}’
+NOG ÉÉN HAND
+VERTREKKEN
+BEGINNERSGELUK
+GELUKSREEKS
+Welkomstbonus voor nieuwe spelers: bij je eerste <b>{0} handen</b> is de schoen van de dealer in jouw voordeel geschud, dus je wint bijna elke hand.
+In de volgende <b>{0} handen</b> verdwijnt het voordeel geleidelijk, en daarna speelt elke tafel standaard, eerlijk blackjack uit een geschudde schoen met 6 spellen (blackjack betaalt 3 tegen 2, dealer past op alle 17).
+Voordeel nu: <b><color=#7CFC9A>{0}%</color></b>   Handen over: <b>{1}</b>
+Bij je volgende <b>{0} handen blackjack</b> met een inzet tot <b>{1} fiches</b> heeft elke kaart <b>{2}%</b> kans om in jouw voordeel te vallen (hetzelfde voordeel als het beginnersgeluk).
+Met goed spel win je zo ongeveer <b>{0}%</b> van de handen, tegenover zo'n {1}% bij standaard blackjack. Hogere inzetten zijn standaard blackjack en kosten geen handen. Als de handen op zijn, is elke tafel weer standaard, eerlijk blackjack.
+BEGREPEN
+JE GELUK TERUG?
+Het beginnersgeluk is voorbij: vanaf nu is elke tafel standaard, eerlijk blackjack. Een Geluksreeks brengt het voordeel een tijdje terug.
+CRAPS
+Welkom bij craps! Zet in op de Pass Line en gooi.
+ZES
+NEGEN
+FIELD
+2 3 4 9 10 11 12  •  2 en 12 betalen dubbel
+ELKE 7
+ELKE CRAPS
+DON'T PASS BAR
+1:1  •  12 is gelijk
+PASS LINE
+ODDS
+echte odds
+UIT
+AAN
+Odds komen achter de Pass Line zodra er een punt is.
+Voor odds heb je een inzet op de Pass Line nodig.
+Je odds staan op het maximum.
+Line-inzetten plaats je bij de come-out.
+OP TAFEL  {0}
+Come-out-roll: zet in op de Pass Line en gooi. 7 of 11 wint, 2, 3 of 12 verliest. Place bets werken pas zodra er een punt is.
+Het punt is {0}: gooi het nog eens vóór een 7. Odds achter je Pass Line betalen echte odds.
+GOOIEN
+Het punt is {0}.
+{0}! Punt gehaald. Gewonnen!
+Seven out. Nieuwe werper, nieuwe come-out.
+{0}, een natural! De Pass Line wint.
+{0}, craps. De line verliest.
+Wacht tot de dobbelstenen stilliggen.
+TAFEL VERLATEN?
+Je line-inzet loopt nog op het punt {0}. Als je nu weggaat, ben je hem kwijt.
+DAGELIJKS
+DAGREEKS
+DAGEN OP RIJ
+VANDAAG
+BEKIJK RECLAME
+KOPEN
+REEKSBEVRIEZING
+Een reeksbevriezing houdt je reeks in leven op een dag dat je niet speelt. Je kunt er {0} bewaren.\n\nEén kopen voor {1} fiches?
+Reeksbevriezing klaar.
+Niet genoeg fiches voor een bevriezing.
+ANNULEREN
+DAGELIJKSE DRAAI
+DRAAIEN
+Kansen:
+{0}%
+Je hebt {0} fiches gewonnen!
+MISSIES VAN VANDAAG
+Record: {0} dagen
+Speel elke dag om een reeks op te bouwen
+Doel van vandaag gehaald! Tot morgen.
+Vandaag: {0} / {1} rondes (elk spel)
+Reeksbevriezingen: {0} / {1}
+Red je reeks op een dag dat je mist. +1 elke 7 dagen.
+VOL
+GEEN VIDEO
+RECLAME ZO
+Reeksbonus: prijzen ×{0}
+Elke dag één gratis draai
+VOLGENDE  {0}
+Alles klaar! Bonus ontvangen.
+Nieuwe missies om middernacht.
+Maak alle drie af: +{0} bonusfiches
+HOLD'EM
+Welkom bij hold'em! Zet je ante in en laten we kaarten zien.
+ANTE
+BLIND
+SPELEN
+BLIND BETAALT
+De dealer kwalificeert met een paar of beter
+CHECK
+FOLD
+ZET {0}×
+Ante {0} + blind {0}. Houd nog {1} achter voor je raise.
+Tik op fiches voor je ante. De blind is even hoog.
+Check, of drie of vier keer je ante inzetten?
+Raise nu 4× of 3× je ante, of check en bekijk de flop.
+Laatste kans: zet 1× je ante in, of fold en verlies ante en blind.
+Zet nu 2× je ante in, of check en bekijk de laatste twee kaarten.
+Hier is de flop.
+De turn en de river.
+Eens kijken wat ik heb.
+De dealer kwalificeert niet: je ante komt terug.
+Gefold. De volgende hand is voor jou.
+SPELLEN
+Sleep links om te lopen  •  Sleep rechts om rond te kijken  •  Tik om te gaan
+Alleen 18+  •  Fiches zijn voor de lol: geen geldwaarde, nooit in te wisselen voor geld of prijzen
+De deuren gaan open...
+Welkom! Je {0} welkomstfiches staan klaar. De tafels zijn recht vooruit!
++{0} gratis fiches! Meer over {1} uur.
+Gratis fiches vullen elke {0} uur bij. Volgende over {1}.
+{0} u {1} m
+{0} m {1} s
+HOUD JE REEKS VAST
+Wil je een herinnering op avonden dat je nog niet hebt gespeeld, en als je gratis fiches klaarstaan? Nooit meer dan dat, en je zet het uit in Instellingen.
+HERINNER ME
++{0} fiches klaar!
+Bekijk een video: {0}
+Volgende gratis fiches over {0}
+BLACKJACK
+4 tafels  •  betaalt 3 tegen 2
+Ultimate Texas Hold'em
+Speler, Bank of Gelijk
+GOKKASTEN
+Lucky Ace 7s  •  10 lijnen
+VIDEOPOKER
+Jacks or Better
+SIC BO
+Drie dobbelstenen  •  groot of klein
+Pass Line  •  Field  •  Odds
+ROULETTE
+Europees met één nul
+JE BENT UITGEPUT
+Je energiebalk is leeg. Haal iets aan de bar om door te spelen, of kom later terug: je energie herstelt langzaam als je weg bent.
+NAAR DE BAR
+KIES JE TAFEL
+INZETTEN
+LEVEL {0}
+GA ZITTEN
+{0} NODIG
+Bereik level {0} om hier te spelen. Jij bent level {1}.
+CASINO
+DD
+MM
+JJJJ
+DAG
+MAAND
+JAAR
+WANNEER BEN JE GEBOREN?
+Fiches zijn alleen voor vermaak. Ze hebben geen geldwaarde en kunnen nooit worden ingewisseld voor geld of prijzen.
+SORRY, JE MAG NIET SPELEN
+{0} is alleen beschikbaar voor volwassenen.
+AFSLUITEN
+Sluit over {0}...
+VERTEL OVER JEZELF
+We kiezen je hosts, dealers en barpersoneel die daarbij passen. Je kunt dit altijd wijzigen in Instellingen.
+IK BEN EEN MAN
+IK BEN EEN VROUW
+ZEG IK LIEVER NIET
+BETREED HET CASINO
+Je personeel vanavond:
+Pagina {0} van {1}
+TAAL
+AUTOMATISCH
+LAND
+Welkom! Plaats uw inzetten, alstublieft.
+De tafellimiet is {0} per draai.
+Tik op het bord om fiches te plaatsen
+Rien ne va plus!
+GROEN
+groen
+rood
+zwart
+Wat een treffer! Gefeliciteerd!
+Gewonnen! Je wint {0}.
+{0} {1}. {2} komt terug naar jou.
+Plaats uw inzetten, alstublieft.
+Wacht tot de bal stilligt.
+INSTELLINGEN
+ALGEMEEN
+GRAPHICS
+GELUID
+AANRAKEN
+MUIS
+CONTROLLER
+TRILLEN
+18+ • Fiches hebben geen geldwaarde • Lettertypen: Bebas Neue, Poppins, Noto (SIL OFL) • Grenzen: Natural Earth • Prijsgegevens: Wereldbank
+CASINOPERSONEEL
+VROUWEN
+MANNEN
+GEMENGD
+HERINNERINGEN
+Gratis fiches klaar, en 's avonds een seintje voordat een reeks zou aflopen.
+OPNIEUW CONTROLEREN
+PRIJSREGIO
+Snelst: het casino zoals geschilderd, niets extra's.
+Gepolijste vloeren, hout en goud weerspiegelen de zaal.
+Filmlook: kleurcorrectie, korrel, gloed, lichtbundels, levensechte huid.
+Bioscooplens: scherpte volgt je blik, strepen op lampen, stof in de lichtbundels.
+KWALITEIT
+LAAG
+GEMIDDELD
+HOOG
+ULTRA
+RESOLUTIE
+Lager is zachter, maar blijft koeler en spaart de batterij.
+WEERGAVEMODUS
+VOLLEDIG SCHERM
+IN VENSTER
+ANTI-ALIASING
+Maakt gekartelde randen in het casino glad.
+BEELDSNELHEID
+{0} FPS
+30 FPS spaart de batterij en houdt oudere telefoons koel.
+V-SYNC
+GEZICHTSVELD
+FPS TONEN
+HOOFDVOLUME
+MUZIEK
+GELUIDSEFFECTEN
+STEMMEN PERSONEEL
+Het gemurmel van het personeel als het praat.
+DEMPEN OP ACHTERGROND
+Zet het casino stil terwijl je in een ander venster bent.
+KIJKGEVOELIGHEID
+Hoe snel slepen het beeld draait.
+Hoe snel slepen met de muis het beeld draait.
+KIJKEN LINKS / RECHTS OMKEREN
+KIJKEN OMHOOG / OMLAAG OMKEREN
+KNOPINDELING
+AUTO
+MENU / WEERGAVE WISSELEN
+STICKGEVOELIGHEID
+Hoe snel de rechterstick het beeld draait.
+STICK LINKS / RECHTS OMKEREN
+STICK OMHOOG / OMLAAG OMKEREN
+CONTROLLERHINTS
+Laat zien wat elke knop doet terwijl je met een controller speelt.
+TRILLEN OP
+TELEFOON
+BEIDE
+Auto: de controller als die verbonden is, anders de telefoon.
+TRILLEN TELEFOON
+STERKTE TELEFOON
+TRILLEN CONTROLLER
+STERKTE CONTROLLER
+AUTOMATISCH ({0})
+{0} opent Instellingen, {1} opent Dagelijks.
+Geen controller verbonden.
+Verbonden: {0}. {1}-knoppen worden getoond (A rechts bevestigt).
+Verbonden: {0}. {1}-knoppen worden getoond.
+DE BAR
+GELUK
+Fiches, geluk en eten zijn virtuele items, alleen voor vermaak: geen geldwaarde, niet in te wisselen voor geld of prijzen.
+Elke kaart heeft die kans om in jouw voordeel te vallen, bij blackjackinzetten tot {0} fiches (hogere inzetten zijn standaard en kosten geen handen). Begint na het beginnersgeluk; sterkere pakketten worden eerst gebruikt.
+Sta locatietoegang toe voor de prijs van je land
+Aankopen zijn niet beschikbaar in deze versie van het spel.
+TESTWINKEL (geen echt geld)
+energie
++{0}% FICHES
+{0} handen
+wint er zo'n {0}% van
+Welkom bij sic bo! Groot, klein of iets gewaagders?
+De tafellimiet is {0} per worp.
+SCHUDDEN
+TRIPLE {0}!
+LUCKY ACE 7s
+TOTALE INZET
+UITBETALINGEN
+VEEL GELUK!
+Je hebt minstens 10 fiches nodig om te draaien.
+FICHES HALEN
+Inzet verlaagd tot wat je kunt betalen.
+MEGAWINST!
+GROTE WINST!
+TERUG {0}
+GEEN WINST
+LIJN {0}: {1} × {2} = {3}
+{0} STERREN = {1}
+Kers
+Citroen
+Sinaasappel
+Pruim
+Bel
+Bar
+Zeven
+Diamant
+Aas
+Ster
+STERREN betalen overal: 5 = {0}× inzet, 4 = {1}× inzet, 3 = {2}× inzet.
+De AAS is joker: hij vervangt elk symbool behalve de ster.
+Lijnwinsten zijn veelvouden van de lijninzet (totale inzet ÷ 10), van links naar rechts vanaf de eerste rol.
+UITBETALING: {0}% op de lange termijn. Elke draai is onafhankelijk en willekeurig.
+VAST
+Delen, houd de kaarten die je wilt, één keer wisselen.
+HOUDEN
+TIP
+WISSELEN
+Tik op kaarten om ze te houden en wissel dan.
+Lopen
+Kijken
+Knoppen
+Instellingen
+Dagelijks
+Aanpassen
+Bewegen
+Kiezen
+Sluiten
+Terug
+UITGEPUT
+BEGINNERSGELUK {0}%
+NOG {0} HANDEN
+GELUKSREEKS {0}%
+{0} HANDEN  •  INZET TOT {1}
+LEVEL
+Sofie
+Elena
+Mia
+Valentina
+Chloe
+Isabella
+Nadia
+Aria
+Luna
+Camila
+Aurora
+Bianca
+Serena
+Marco
+Leo
+Adrian
+Lucas
+Viktor
+Daniel
+Gabriel
+Ethan
+Julian
+Rafael
+Mateo
+Nico
+Enzo
+WELKOM
+PRAAT MET DE HOST
+Route en tips
+FICHES  •  BONUSSEN
+FICHES KOPEN
+Kassa
+COCKTAILS  •  SNACKS  •  ENERGIE
+ETEN & DRINKEN
+De bar
+BLACKJACK BETAALT 3 TEGEN 2
+DEALER MOET PASSEN OP 17
+SPEEL BLACKJACK
+Tafel {0}  •  inzet {1} tot {2}
+SPEEL HOLD'EM
+Ultimate Texas Hold'em  •  ante {0} tot {1}
+SPEEL BACCARAT
+GROOT  •  KLEIN  •  TRIPLES
+SPEEL SIC BO
+Drie dobbelstenen  •  groot of klein betaalt 1 op 1
+PASS LINE  •  FIELD  •  ODDS
+SPEEL CRAPS
+Pass Line betaalt 1 op 1  •  odds betalen echte odds
+SPEEL VIDEOPOKER
+SPEEL OP DE GOKKAST
+Jacks or Better  •  volle 9/6-tabel
+LUCKY ACE 7s  •  BETAALT TOT 2.500× JE LIJNNZET
+JACKS OR BETTER  •  ROYAL FLUSH BETAALT 800×
+PLAATS UW INZETTEN
+SPEEL ROULETTE
+Europees wiel  •  plein betaalt 35 tegen 1
+BESTEL EEN DRANKJE
+{0} brengt het
+De {0} opent op level {1}. Jij bent level {2}: elke ronde die je speelt telt.
+Voor deze tafel heb je minstens {0} fiches nodig.
+De blackjacktafels zijn recht vooruit. Loop naar een tafel en ga zitten!
+De gokkasten staan langs de rechtermuur, videopoker langs de achtermuur en de roulette achterin.
+Hold'em is in de hoek linksachter, voorbij de bar.
+Baccarat is meteen links als je binnenkomt.
+Sic bo is in de hoek voorbij de kassa: drie dobbelstenen, groot of klein.
+De crapstafel staat rechts, vóór de gokkasten. Zet in op de Pass Line en gooi!
+De kassa is hier rechts van je, en de bar staat langs de linkermuur.
+Moe? Een snack aan de bar vult je energie meteen aan.
+Tik ergens op de vloer en je loopt erheen. Tik op een tafel om te gaan zitten.
+Andorra
+Verenigde Arabische Emiraten
+Afghanistan
+Antigua en Barbuda
+Anguilla
+Albanië
+Armenië
+Angola
+Antarctica
+Argentinië
+Amerikaans-Samoa
+Oostenrijk
+Australië
+Aruba
+Åland
+Azerbeidzjan
+Bosnië en Herzegovina
+Barbados
+Bangladesh
+België
+Burkina Faso
+Bulgarije
+Bahrein
+Burundi
+Benin
+Saint-Barthélemy
+Bermuda
+Brunei
+Bolivia
+Caribisch Nederland
+Brazilië
+Bahama’s
+Bhutan
+Bouveteiland
+Botswana
+Belarus
+Belize
+Canada
+Cocoseilanden
+Congo-Kinshasa
+Centraal-Afrikaanse Republiek
+Congo-Brazzaville
+Zwitserland
+Ivoorkust
+Cookeilanden
+Chili
+Kameroen
+China
+Colombia
+Costa Rica
+Cuba
+Kaapverdië
+Curaçao
+Christmaseiland
+Cyprus
+Tsjechië
+Duitsland
+Djibouti
+Denemarken
+Dominica
+Dominicaanse Republiek
+Algerije
+Ecuador
+Estland
+Egypte
+Westelijke Sahara
+Eritrea
+Spanje
+Ethiopië
+Finland
+Fiji
+Falklandeilanden
+Micronesia
+Faeröer
+Frankrijk
+Gabon
+Verenigd Koninkrijk
+Grenada
+Georgië
+Frans-Guyana
+Guernsey
+Ghana
+Gibraltar
+Groenland
+Gambia
+Guinee
+Guadeloupe
+Equatoriaal-Guinea
+Griekenland
+Zuid-Georgia en Zuidelijke Sandwicheilanden
+Guatemala
+Guam
+Guinee-Bissau
+Guyana
+Hongkong SAR van China
+Heard en McDonaldeilanden
+Honduras
+Kroatië
+Haïti
+Hongarije
+Indonesië
+Ierland
+Israël
+Isle of Man
+India
+Brits Indische Oceaanterritorium
+Irak
+Iran
+IJsland
+Italië
+Jersey
+Jamaica
+Jordanië
+Japan
+Kenia
+Kirgizië
+Cambodja
+Kiribati
+Comoren
+Saint Kitts en Nevis
+Noord-Korea
+Zuid-Korea
+Koeweit
+Kaaimaneilanden
+Kazachstan
+Laos
+Libanon
+Saint Lucia
+Liechtenstein
+Sri Lanka
+Liberia
+Lesotho
+Litouwen
+Luxemburg
+Letland
+Libië
+Marokko
+Monaco
+Moldavië
+Montenegro
+Saint-Martin
+Madagaskar
+Marshalleilanden
+Noord-Macedonië
+Mali
+Myanmar (Birma)
+Mongolië
+Macau SAR van China
+Noordelijke Marianen
+Martinique
+Mauritanië
+Montserrat
+Malta
+Mauritius
+Maldiven
+Malawi
+Mexico
+Maleisië
+Mozambique
+Namibië
+Nieuw-Caledonië
+Niger
+Norfolk
+Nigeria
+Nicaragua
+Nederland
+Noorwegen
+Nepal
+Nauru
+Niue
+Nieuw-Zeeland
+Oman
+Panama
+Peru
+Frans-Polynesië
+Papoea-Nieuw-Guinea
+Filipijnen
+Pakistan
+Polen
+Saint-Pierre en Miquelon
+Pitcairneilanden
+Puerto Rico
+Palestijnse gebieden
+Portugal
+Palau
+Paraguay
+Qatar
+Réunion
+Roemenië
+Servië
+Rusland
+Rwanda
+Saoedi-Arabië
+Salomonseilanden
+Seychellen
+Soedan
+Zweden
+Singapore
+Sint-Helena
+Slovenië
+Spitsbergen en Jan Mayen
+Slowakije
+Sierra Leone
+San Marino
+Senegal
+Somalië
+Suriname
+Zuid-Soedan
+Sao Tomé en Principe
+El Salvador
+Sint-Maarten
+Syrië
+Eswatini
+Turks- en Caicoseilanden
+Tsjaad
+Franse Gebieden in de zuidelijke Indische Oceaan
+Togo
+Thailand
+Tadzjikistan
+Tokelau
+Oost-Timor
+Turkmenistan
+Tunesië
+Tonga
+Turkije
+Trinidad en Tobago
+Tuvalu
+Taiwan
+Tanzania
+Oekraïne
+Oeganda
+Kleine afgelegen eilanden van de Verenigde Staten
+Verenigde Staten
+Uruguay
+Oezbekistan
+Vaticaanstad
+Saint Vincent en de Grenadines
+Venezuela
+Britse Maagdeneilanden
+Amerikaanse Maagdeneilanden
+Vietnam
+Vanuatu
+Wallis en Futuna
+Samoa
+Kosovo
+Jemen
+Mayotte
+Zuid-Afrika
+Zambia
+Zimbabwe
+Engels
+Afrikaans
+Amhaars
+Arabisch
+Azerbeidzjaans
+Belarussisch
+Bulgaars
+Bengaals
+Bosnisch
+Catalaans
+Tsjechisch
+Deens
+Duits
+Grieks
+Spaans
+Estisch
+Baskisch
+Perzisch
+Fins
+Filipijns
+Frans
+Iers
+Galicisch
+Gujarati
+Hausa
+Hebreeuws
+Hindi
+Kroatisch
+Frans (Haïti)
+Hongaars
+Armeens
+Indonesisch
+Igbo
+IJslands
+Italiaans
+Japans
+Georgisch
+Kazachs
+Khmer
+Kannada
+Koreaans
+Kirgizisch
+Luxemburgs
+Laotiaans
+Litouws
+Lets
+Malagassisch
+Macedonisch
+Malayalam
+Mongools
+Marathi
+Maleis
+Maltees
+Birmaans
+Noors - Bokmål
+Nepalees
+Nederlands
+Punjabi
+Pools
+Pasjtoe
+Portugees (Brazilië)
+Portugees (Portugal)
+Reto-Romaans
+Roemeens
+Russisch
+Kinyarwanda
+Singalees
+Slowaaks
+Sloveens
+Somalisch
+Albanees
+Servisch
+Zweeds
+Swahili
+Tamil
+Telugu
+Tadzjieks
+Thai
+Turkmeens
+Turks
+Oekraïens
+Urdu
+Oezbeeks
+Vietnamees
+Xhosa
+Yoruba
+Chinees (vereenvoudigd)
+Chinees (traditioneel)
+Zoeloe
+Zo
+Ma
+Di
+Wo
+Do
+Vr
+Za

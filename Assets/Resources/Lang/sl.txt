@@ -1,0 +1,1004 @@
+MALO
+VELIKO
+LIHO
+SODO
+KATERAKOLI TROJKA
+Pest žetonov
+Kup žetonov
+Pladenj žetonov
+Stojalo žetonov
+NAJBOLJ PRILJUBLJENO
+Trezor žetonov
+Sef velikega igralca
+NAJBOLJŠA VREDNOST
+Gazirana voda
+Espresso
+Energijska pijača
+Klubski sendvič
+Burger meni
+Zrezek za večerjo
+POLNO POLNJENJE
+Srečni niz
+Vroči niz
+NAJVEČ SREČE
+Bronasta miza
+Srebrna miza
+Zlata miza
+Diamantna miza
+Miza za hold'em
+Vnesite veljavno leto.
+Vnesite veljaven mesec (1-12).
+Vnesite veljaven dan.
+Ta datum je v prihodnosti.
+Dobrodošel za mojo mizo! Pripravljen na igro?
+Lepo te je videti. Sedi!
+Živjo! Karte so sveže, jaz tudi.
+Dobrodošel! Naj bo ta večer lep.
+Postavi stavo, ko boš pripravljen.
+Žetone na mizo, pa poglejmo karte.
+Za kaj igramo?
+Oho, velika stava! Všeč mi je tvoj slog.
+Temu pravim stava. Gremo!
+Nocoj si pogumen, kaj?
+Vse?! Srce mi razbija!
+Vse na eno roko. Neustrašno!
+Blackjack! Neverjetno!
+Enaindvajset, kar tako!
+Blackjack! Karte te nocoj obožujejo.
+Lepo odigrano!
+Zmaga! Bravo.
+Gre ti odlično!
+Ta je tvoja.
+Kakšna zmaga! Vsi gledajo to mizo!
+Ogromno! Nocoj si v ognju!
+Tako blizu! Naslednja je tvoja.
+Tokrat je imela hiša srečo.
+Otresi se tega, prihaja nova roka.
+Av, karta preveč.
+Čez! Zgodi se tudi najboljšim.
+Izenačeno. Nihče ne izgubi!
+Push. Tvoji žetoni so varni.
+Šla sem čez! Srečnež.
+Preveč zame. Zmagaš!
+Blackjack za hišo, oprosti!
+Delivec ima blackjack. Smola.
+Kažem asa. Zavarovanje?
+Delimo! Dve priložnosti za zmago.
+Podvojitev. Pogumna poteza!
+Podvoji! Prihaja ena karta.
+Nov čevelj, mešam!
+Ti zmanjkuje? Blagajna te napolni.
+Žetonov je vse manj. Bi jih še?
+Žetonov ni več! Pojdi na blagajno ali vzemi brezplačne žetone.
+Tvoj kup je prazen. Blagajna je tik za tabo.
+Videti si izčrpan! Pojej kaj v baru.
+Voziš na rezervo? Bar poskrbi zate.
+Vzemi si čas.
+Kadar boš pripravljen!
+Noč je še mlada.
+Sreča začetnika je na tvoji strani!
+Kup kart je nocoj na tvoji strani!
+Sreča začetnika je mimo. Od tu naprej je igra poštena!
+Dobrodošel v igralnici! Tvoj sedež čaka.
+Dober večer! Mize so nocoj vroče.
+Dobrodošel nazaj! Se počutiš srečnega?
+Tapni mizo in začni igrati!
+Potrebuješ več žetonov? Prišel si na pravo okence.
+Večji kupi, večji bonusi!
+Si lačen? Izberi karkoli z jedilnika.
+Prigrizek ti ohranja energijo!
+Dobrodošel za mojo mizo!
+Tu si! Takoj je svetleje.
+Počuti se kot doma. Nocoj gre vse zate.
+Obožujem ta nasmeh. Srečen večer?
+Sprosti se, tu si v dobrih rokah.
+Hej ti! Upala sem, da se oglasiš pri mojem okencu.
+Vedno lepo videti prijazen obraz.
+Glej, kdo je tu! Se zabavaš?
+Živjo, lepotec!
+Nocoj mi je všeč tvoj slog.
+Hej, lepo te je spet videti!
+Imaš lep večer? Zaslužiš si ga.
+Previdno, morda ti začnem navijati.
+Moj najljubši igralec je nazaj!
+Sedi k meni, razdelila ti bom nekaj lepega.
+S tabo je ta miza veliko bolj zabavna.
+Že odhajaš? Noč je še mlada!
+Daj no, samo še ena roka. Imam dober občutek!
+Zdaj me ne moreš pustiti, šele začenjamo!
+Zadnja priložnost! Naslednja roka je lahko tista velika...
+Prav, prav. Ohranila ti bom sedež topel. Obljubiš, da se vrneš?
+Še brez niza? Odigraj danes kroge ({2}) in začnem šteti.
+Nov začetek! Krogi ({2}) in tvoj plamen zagori.
+Vodim majhen seznam tistih, ki pridejo vsak dan. Tebe ni na njem... še.
+Dan {1} te čaka. Še krogov: {2}!
+Dni zapored: {0}... zdaj pa menda ne boš nehal?
+Tvoj plamen je danes malo hladen. Krogi ({2}) ga bodo ogreli.
+Štejem: dni {0}. Naj jih bo {1}.
+Ne misli, da nisem opazila. Še krogov za ohranitev niza: {2}!
+Dni zapored: {0}? Začenjam misliti, da ti je tu všeč.
+Tvoj niz je za danes varen. Zdaj se samo še bahaš.
+Dan {0}, opravljeno. Jutri ob isti uri?
+Dni: {0}! Zdaj bi ti morala rezervirati sedež.
+Tu je: prvi dan tvojega niza! Vrni se jutri in naredimo dva.
+Cel teden zapored! Res sem navdušena.
+Trideset dni! Praktično že delaš tukaj.
+Sto dni. Vsem pripovedujem o tebi.
+Že {0} dni zapored! Kar poglej se.
+Niz rešen: dan {0}! Vedela sem, da ti bo uspelo.
+Dan {0}! Stavim, da ne prideš do {1}.
+Dni: {0}... no prav, bahač.
+Odigraj 10 rok blackjacka
+Zmagaj 5 rok blackjacka
+Dobi blackjack
+Zmagaj 500 žetonov v blackjacku
+Zavrti avtomat 20-krat
+Zmagaj 5 vrtljajev na avtomatu
+Zmagaj 5× svojo stavo na avtomatu
+Odigraj 5 krogov rulete
+Zmagaj 3 vrtljaje rulete
+Zadeni številko z direktno stavo
+Odigraj 8 rok hold'ema
+Zmagaj v 4 rokah hold'ema
+Odigraj 10 rok bakarata
+Zmagaj v 5 rokah bakarata
+Odigraj 15 rok video pokra
+Odigraj 8 krogov sic bo
+Zmagaj v 4 krogih sic bo
+Vrzi kocke 15-krat pri crapsu
+Zmagaj v 4 metih pri crapsu
+Pri video pokru sestavi barvo ali bolje
+Kraljeva lestvica
+Barvna lestvica
+Poker
+Full house
+Barva
+Lestvica
+Tris
+Dva para
+Par
+Visoka karta
+lokacija GPS
+mobilno omrežje
+internetna povezava
+nastavitve naprave
+testna država
+ni preverjeno (standardna cena)
+neznano
+1. ducat
+2. ducat
+3. ducat
+2 proti 1
+RDEČE
+ČRNO
+Fantje ali bolje
+POŠTENE CENE ZA TVOJO DRŽAVO
+Cene v trgovini so prilagojene gospodarstvu tvoje države, da igralci povsod plačajo pošteno ceno.
+Da ugotovimo tvojo državo, enkrat preverimo tvojo približno lokacijo. Na napravi se poveže z državo in se nikamor ne pošlje. Če zavrneš, veljajo standardne cene.
+NADALJUJ
+Zapustiš igralnico?
+Tvoji žetoni in napredek so shranjeni.
+KONČAJ
+OSTANI
+Odklenjeno: {0}
+Zamrznitev niza je včeraj rešila tvoj niz (dni: {0}).
+Zamrznitve ({0}) so rešile tvoj niz (dni: {1}).
+Tvoj niz (dni: {0}) se je končal. Odigraj danes kroge ({1}) in začni novega!
+MISIJA OPRAVLJENA
++{0} žetonov
+VSE MISIJE OPRAVLJENE!
+Dnevni bonus +{0} žetonov. Nove misije jutri.
+STOPNJA {0}!
+Mejnik! +{0} žetonov
+Vrni se jutri in nadaljuj
++1 zamrznitev niza
+NIZ: {0} DNI!
+Nakupi v tej različici niso na voljo.
+Nakup ni uspel. Ničesar ti nismo zaračunali.
+Dodanih +{0} žetonov!
+{0}: rok {1} z {2} % sreče, po sreči začetnika
+{0}: rok {1} z {2} % sreče!
+{0}: +{1} % energije
+Na tej napravi ni na voljo
+Videi se v tem omrežju ne naložijo
+Vrni se jutri
+Pripravljeno čez {0} s
++{0} žetonov (danes še {1})
++{0} brezplačnih žetonov!
++1 zamrznitev niza!
+Trenutno ni na voljo nobenega videa. Poskusi znova čez trenutek.
+BRON
+SREBRO
+ZLATO
+DIAMANT
+Meni
+Pogled
+Križec
+Krog
+Kvadrat
+Trikotnik
+Preverjamo tvojo regijo...
+Ni preverjeno ({0}): standardne cene
+{0} ({1}): cene v {2}
+Opomniki
+Brezplačni žetoni pripravljeni in opomniki niza
+Tvoji brezplačni žetoni so pripravljeni
+V Lucky Ace te čaka {0} žetonov.
+Ohrani svoj niz (dni: {0})
+Odigraj danes kroge ({0}), da se opolnoči ne ponastavi.
+BAKARA
+Dobrodošli pri bakari! Igralec, Bankir ali Neodločeno?
+IGRALEC
+NEODLOČENO
+BANKIR
+ZADNJI REZULTATI
+I
+B
+N
+RAZVELJAVI
+POČISTI
+PONOVI
+DELI
+Za to stavo nimaš dovolj žetonov.
+Dosežen maksimum mize
+SKUPNA STAVA  {0}
+Izberi žeton in tapni Igralec, Bankir ali Neodločeno
+NEODLOČENO  {0}
+ZMAGA IGRALEC  {0} PROTI {1}
+ZMAGA BANKIR  {0} PROTI {1}
+ZMAGA  +{0}
+VRNJENO  {0}
+Tokrat brez zmage
+Najprej dokončaj to roko.
+Dobrodošel! Sreča začetnika je nocoj na tvoji strani. Postavi stavo!
+BLACKJACK IZPLAČA 3 PROTI 2   •   DELIVEC OSTANE PRI VSEH 17   •   ZAVAROVANJE IZPLAČA 2 PROTI 1
+STAVA
+KARTO
+OSTANI
+PODVOJI
+RAZDELI
+ZAVARUJ
+NE, HVALA
+STAVA {0}+
+Premalo žetonov
+Delivec kaže asa. Zavaruješ za {0}?
+Zavarovanje izplača {0}
+Delivec nima blackjacka. Zavarovanje izgubljeno.
+ČEZ
+DELIVEC ČEZ
+BLACKJACK!
+ZMAGA
+PUSH
+PORAZ
+Sreča začetnika je mimo. Tvoj Srečni niz se začne zdaj.
+Sreča začetnika je mimo. Od zdaj je standardni blackjack.
+Tvoj Srečni niz je mimo. Nazaj na standardni blackjack.
+ŽETONOV NI VEČ
+Poglej kratek video za {0} brezplačnih žetonov ali pojdi na blagajno.
+Pojdi na blagajno in napolni žetone.
+BREZPLAČNI ŽETONI
+BLAGAJNA
+KASNEJE
+»{0}«
+ŠE ENA ROKA
+ODIDI
+SREČA ZAČETNIKA
+SREČNI NIZ
+Bonus dobrodošlice za nove igralce: v prvih <b>{0} rokah</b> je delivčev čevelj premešan tebi v prid, zato boš zmagal skoraj vsako roko.
+V naslednjih <b>{0} rokah</b> prednost postopoma izgine, nato je pri vsaki mizi standardni, pošten blackjack iz premešanega čevlja s 6 kupi (blackjack izplača 3 proti 2, delivec ostane pri vseh 17).
+Prednost zdaj: <b><color=#7CFC9A>{0} %</color></b>   Še rok: <b>{1}</b>
+V naslednjih <b>{0} rokah blackjacka</b> s stavo do <b>{1} žetonov</b> ima vsaka karta <b>{2} %</b> možnosti, da pride tebi v prid (enaka prednost kot sreča začetnika).
+Z dobro igro to pomeni zmago v približno <b>{0} %</b> rok, v primerjavi s približno {1} % pri standardnem blackjacku. Višje stave so standardni blackjack in ne porabijo rok. Ko roke poidejo, je pri vsaki mizi spet standardni, pošten blackjack.
+RAZUMEM
+ŽELIŠ SREČO NAZAJ?
+Sreča začetnika je mimo: od zdaj je pri vsaki mizi standardni, pošten blackjack. Srečni niz za nekaj časa vrne prednost.
+CRAPS
+Dobrodošli pri crapsu! Stavi na Pass Line in vrzi.
+ŠEST
+DEVET
+FIELD
+2 3 4 9 10 11 12  •  2 in 12 plačata dvojno
+KATERAKOLI 7
+KATERIKOLI CRAPS
+DON'T PASS BAR
+1:1  •  12 je neodločeno
+PASS LINE
+ODDS
+prave kvote
+IZKLOP
+VKL
+Odds gredo za Pass Line, ko je točka.
+Za odds potrebuješ stavo na Pass Line.
+Tvoje odds so na najvišji vrednosti.
+Stave na linijo se postavijo pri začetnem metu.
+NA MIZI  {0}
+Začetni met: stavi na Pass Line in vrzi. 7 ali 11 zmaga, 2, 3 ali 12 izgubi. Stave Place začnejo veljati, ko je točka.
+Točka je {0}: vrzi jo še enkrat pred 7. Odds za tvojo Pass Line plačajo prave kvote.
+VRZI
+Točka je {0}.
+{0}! Točka zadeta. Zmaga!
+Sedmica. Nov metalec, nov začetni met.
+{0}, natural! Pass Line zmaga.
+{0}, craps. Linija izgubi.
+Počakaj, da se kocke ustavijo.
+ZAPUSTIŠ MIZO?
+Tvoja stava na linijo še igra na točko {0}. Če zdaj odideš, jo izgubiš.
+DNEVNO
+DNEVNI NIZ
+DNI ZAPORED
+DANES
+POGLEJ OGLAS
+KUPI
+ZAMRZNITEV NIZA
+Zamrznitev niza ohrani tvoj niz živ na dan, ko ne igraš. Imaš jih lahko do {0}.\n\nKupiš eno za {1} žetonov?
+Zamrznitev niza pripravljena.
+Premalo žetonov za zamrznitev.
+PREKLIČI
+DNEVNI VRTLJAJ
+ZAVRTI
+Možnosti:
+{0} %
+Zmagal si {0} žetonov!
+DANAŠNJE MISIJE
+Rekord: {0} dni
+Igraj vsak dan in gradi niz
+Današnji cilj dosežen! Se vidimo jutri.
+Danes: {0} / {1} krogov (katerakoli igra)
+Zamrznitve niza: {0} / {1}
+Reši niz na dan, ko ga zamudiš. +1 vsakih 7 dni.
+POLNO
+NI VIDEA
+OGLAS KMALU
+Bonus niza: nagrade ×{0}
+En brezplačen vrtljaj vsak dan
+NASLEDNJI  {0}
+Vse opravljeno! Bonus prevzet.
+Nove misije opolnoči.
+Opravi vse tri: +{0} bonus žetonov
+HOLD'EM
+Dobrodošli pri hold'emu! Postavi ante in poglejva karte.
+ANTE
+BLIND
+IGRAJ
+BLIND PLAČA
+Delivec se kvalificira s parom ali bolje
+CHECK
+FOLD
+STAVI {0}×
+Ante {0} + blind {0}. Prihrani še {1} za dvig.
+Tapni žetone za ante. Blind je enak.
+Check ali stava tri- ali štirikratnika ante?
+Dvigni zdaj za 4× ali 3× ante ali daj check in poglej flop.
+Zadnja priložnost: stavi 1× ante ali daj fold in izgubi ante in blind.
+Stavi zdaj 2× ante ali daj check in poglej zadnji dve karti.
+Tukaj je flop.
+Turn in river.
+Poglejmo, kaj imam.
+Delivec se ni kvalificiral: ante se ti vrne.
+Fold. Naslednja roka je tvoja.
+IGRE
+Povleci levo za hojo  •  Povleci desno za razgledovanje  •  Tapni in pojdi tja
+Samo 18+  •  Žetoni so za zabavo: brez denarne vrednosti, nikoli jih ni mogoče zamenjati za denar ali nagrade
+Odpiramo vrata...
+Dobrodošel! Tvojih {0} žetonov dobrodošlice je pripravljenih. Mize so naravnost naprej!
++{0} brezplačnih žetonov! Več čez {1} ur.
+Brezplačni žetoni se napolnijo vsakih {0} ur. Naslednji čez {1}.
+{0} h {1} min
+{0} min {1} s
+OHRANI SVOJ NIZ
+Želiš opomnik ob večerih, ko še nisi igral, in ko so brezplačni žetoni pripravljeni? Nikoli več kot to, izklopiš pa ga lahko v Nastavitvah.
+OPOMNI ME
++{0} žetonov pripravljenih!
+Poglej video: {0}
+Naslednji brezplačni žetoni čez {0}
+BLACKJACK
+4 mize  •  izplača 3 proti 2
+Ultimate Texas Hold'em
+Igralec, Bankir ali Neodločeno
+AVTOMATI
+Lucky Ace 7s  •  10 linij
+VIDEO POKER
+Jacks or Better
+SIC BO
+Tri kocke  •  veliko ali malo
+Pass Line  •  Field  •  Odds
+RULETA
+Evropska z eno ničlo
+IZČRPAN SI
+Tvoja energija je prazna. Vzemi kaj v baru in igraj naprej ali se vrni pozneje: energija se počasi obnavlja, ko te ni.
+POJDI V BAR
+IZBERI SVOJO MIZO
+STAVE
+STOPNJA {0}
+SEDI
+POTREBNO {0}
+Doseži stopnjo {0}, da lahko igraš tukaj. Si na stopnji {1}.
+IGRALNICA
+DD
+MM
+LLLL
+DAN
+MESEC
+LETO
+KDAJ SI SE RODIL?
+Žetoni so samo za zabavo. Nimajo denarne vrednosti in jih nikoli ni mogoče zamenjati za denar ali nagrade.
+ŽAL NE MOREŠ IGRATI
+{0} je na voljo samo odraslim.
+IZHOD
+Zapiranje čez {0}...
+POVEJ NAM O SEBI
+Temu primerno izberemo gostitelje, delivce in osebje bara. To lahko kadarkoli spremeniš v Nastavitvah.
+SEM MOŠKI
+SEM ŽENSKA
+RAJE NE POVEM
+VSTOPI V IGRALNICO
+Tvoje osebje nocoj:
+Stran {0} od {1}
+JEZIK
+SAMODEJNO
+DRŽAVA
+Dobrodošli! Stave, prosim.
+Omejitev mize je {0} na vrtljaj.
+Tapni igralno ploščo in postavi žetone
+Stave so zaključene!
+ZELENO
+zeleno
+rdeče
+črno
+Kakšen zadetek! Čestitke!
+Zmaga! Zmagaš {0}.
+{0} {1}. Nazaj dobiš {2}.
+Stave, prosim.
+Počakaj, da se kroglica ustavi.
+NASTAVITVE
+SPLOŠNO
+GRAFIKA
+ZVOK
+DOTIK
+MIŠKA
+KRMILNIK
+VIBRIRANJE
+18+ • Žetoni nimajo denarne vrednosti • Pisave: Bebas Neue, Poppins, Noto (SIL OFL) • Meje: Natural Earth • Podatki o cenah: Svetovna banka
+OSEBJE IGRALNICE
+ŽENSKE
+MOŠKI
+MEŠANO
+OPOMNIKI
+Brezplačni žetoni pripravljeni in večerni opomnik, preden bi se niz končal.
+PREVERI ZNOVA
+CENOVNA REGIJA
+Najhitreje: igralnica, kot je naslikana, nič dodatnega.
+Polirana tla, les in zlato odsevajo dvorano.
+Filmski videz: barvna korekcija, zrnatost, sij, svetlobni žarki, živahna koža.
+Filmski objektiv: ostrina sledi tvojemu pogledu, lesk na lučeh, prah v žarkih.
+KAKOVOST
+NIZKA
+SREDNJA
+VISOKA
+ULTRA
+LOČLJIVOST
+Nižja je mehkejša, a se telefon manj greje in varčuje z baterijo.
+NAČIN PRIKAZA
+CELOZASLONSKO
+V OKNU
+GLAJENJE ROBOV
+Zgladi nazobčane robove v igralnici.
+HITROST SLIČIC
+{0} FPS
+30 FPS varčuje z baterijo in ohranja starejše telefone hladne.
+V-SYNC
+VIDNO POLJE
+PRIKAŽI FPS
+GLAVNA GLASNOST
+GLASBA
+ZVOČNI UČINKI
+GLASOVI OSEBJA
+Mrmranje osebja med pogovorom.
+UTIŠAJ V OZADJU
+Utiša igralnico, ko si v drugem oknu.
+OBČUTLJIVOST POGLEDA
+Kako hitro vlečenje obrača pogled.
+Kako hitro vlečenje z miško obrača pogled.
+OBRNI POGLED LEVO / DESNO
+OBRNI POGLED GOR / DOL
+RAZPORED GUMBOV
+SAMODEJNO
+ZAMENJAJ MENI / POGLED
+OBČUTLJIVOST PALICE
+Kako hitro desna palica obrača pogled.
+OBRNI PALICO LEVO / DESNO
+OBRNI PALICO GOR / DOL
+NAMIGI ZA KRMILNIK
+Prikaže, kaj naredi vsak gumb, ko igraš s krmilnikom.
+VIBRIRAJ NA
+TELEFON
+OBOJE
+Samodejno: krmilnik, ko je povezan, sicer telefon.
+VIBRIRANJE TELEFONA
+MOČ NA TELEFONU
+VIBRIRANJE KRMILNIKA
+MOČ NA KRMILNIKU
+SAMODEJNO ({0})
+{0} odpre Nastavitve, {1} odpre Dnevno.
+Noben krmilnik ni povezan.
+Povezano: {0}. Prikazani so gumbi {1} (A na desni potrdi).
+Povezano: {0}. Prikazani so gumbi {1}.
+BAR
+SREČA
+Žetoni, sreča in hrana so navidezni predmeti samo za zabavo: brez denarne vrednosti, ni jih mogoče unovčiti za denar ali nagrade.
+Vsaka karta ima takšno možnost, da pride tebi v prid, pri stavah v blackjacku do {0} žetonov (višje stave so standardne in ne porabijo rok). Začne se po sreči začetnika; močnejši paketi se porabijo najprej.
+Dovoli dostop do lokacije za ceno tvoje države
+Nakupi v tej različici igre niso na voljo.
+TESTNA TRGOVINA (brez pravega denarja)
+energija
++{0} % ŽETONOV
+rok: {0}
+zmaga približno {0} % od njih
+Dobrodošli pri sic bo! Veliko, malo ali kaj drznejšega?
+Omejitev mize je {0} na met.
+PRETRESI
+TROJKA {0}!
+LUCKY ACE 7s
+SKUPNA STAVA
+TABELA IZPLAČIL
+SREČNO!
+Za vrtljaj potrebuješ vsaj 10 žetonov.
+DOBI ŽETONE
+Stava znižana na znesek, ki ga lahko pokriješ.
+MEGA ZMAGA!
+VELIKA ZMAGA!
+VRNJENO {0}
+BREZ ZMAGE
+LINIJA {0}: {1} × {2} = {3}
+ZVEZDE ×{0} = {1}
+Češnja
+Limona
+Pomaranča
+Sliva
+Zvonec
+Bar
+Sedmica
+Diamant
+As
+Zvezda
+ZVEZDE izplačajo kjerkoli: 5 = {0}× stava, 4 = {1}× stava, 3 = {2}× stava.
+AS je divja karta: nadomesti vsak simbol razen zvezde.
+Dobitki na linijah so večkratniki stave na linijo (skupna stava ÷ 10), od leve proti desni od prvega valja.
+VRAČILO: {0} % na dolgi rok. Vsak vrtljaj je neodvisen in naključen.
+OBDRŽANA
+Razdeli, obdrži karte, ki jih želiš, in enkrat zamenjaj.
+OBDRŽI
+NAMIG
+ZAMENJAJ
+Tapni karte, ki jih obdržiš, nato zamenjaj.
+Hoja
+Pogled
+Gumbi
+Nastavitve
+Dnevno
+Prilagodi
+Premik
+Izberi
+Zapri
+Nazaj
+IZČRPAN
+SREČA ZAČETNIKA {0} %
+ŠE ROK: {0}
+SREČNI NIZ {0} %
+ROK: {0}  •  STAVE DO {1}
+STOPNJA
+Sofia
+Elena
+Mia
+Valentina
+Chloe
+Isabella
+Nadia
+Aria
+Luna
+Camila
+Aurora
+Bianca
+Serena
+Marco
+Leo
+Adrian
+Lucas
+Viktor
+Daniel
+Gabriel
+Ethan
+Julian
+Rafael
+Mateo
+Nico
+Enzo
+DOBRODOŠLI
+POGOVORI SE Z GOSTITELJICO
+Smer in nasveti
+ŽETONI  •  BONUSI
+KUPI ŽETONE
+Blagajna
+KOKTAJLI  •  PRIGRIZKI  •  ENERGIJA
+HRANA IN PIJAČA
+Bar
+BLACKJACK IZPLAČA 3 PROTI 2
+DELIVEC MORA OSTATI PRI 17
+IGRAJ BLACKJACK
+Miza {0}  •  stave {1} do {2}
+IGRAJ HOLD'EM
+Ultimate Texas Hold'em  •  ante od {0} do {1}
+IGRAJ BAKARO
+VELIKO  •  MALO  •  TROJKE
+IGRAJ SIC BO
+Tri kocke  •  veliko ali malo plača 1 : 1
+PASS LINE  •  FIELD  •  ODDS
+IGRAJ CRAPS
+Pass Line plača 1 : 1  •  odds plačajo prave kvote
+IGRAJ VIDEO POKER
+IGRAJ NA AVTOMATIH
+Jacks or Better  •  polna tabela 9/6
+LUCKY ACE 7s  •  IZPLAČA DO 2.500× TVOJE STAVE NA LINIJO
+JACKS OR BETTER  •  KRALJEVA LESTVICA PLAČA 800×
+STAVE, PROSIM
+IGRAJ RULETO
+Evropsko kolo  •  direktna stava izplača 35 proti 1
+NAROČI PIJAČO
+{0} jo prinese
+{0} se odpre na stopnji {1}. Si na stopnji {2}: šteje vsak odigran krog.
+Ta miza zahteva vsaj {0} žetonov.
+Mize za blackjack so naravnost naprej. Stopi do ene in sedi!
+Igralni avtomati so ob desni steni, video poker ob zadnji, ruleta pa čisto zadaj.
+Hold'em je v levem zadnjem kotu, za šankom.
+Bakara je takoj levo pri vhodu.
+Sic bo je v kotu za blagajno: tri kocke, veliko ali malo.
+Miza za craps je desno pred avtomati. Stavi na Pass Line in vrzi!
+Blagajna je tu na tvoji desni, bar pa ob levi steni.
+Si utrujen? Prigrizek v baru ti takoj napolni energijo.
+Tapni kjerkoli na tla in boš šel tja. Tapni mizo, da sedeš.
+Andora
+Združeni arabski emirati
+Afganistan
+Antigva in Barbuda
+Angvila
+Albanija
+Armenija
+Angola
+Antarktika
+Argentina
+Ameriška Samoa
+Avstrija
+Avstralija
+Aruba
+Ålandski otoki
+Azerbajdžan
+Bosna in Hercegovina
+Barbados
+Bangladeš
+Belgija
+Burkina Faso
+Bolgarija
+Bahrajn
+Burundi
+Benin
+Saint Barthélemy
+Bermudi
+Brunej
+Bolivija
+Nizozemski Karibi
+Brazilija
+Bahami
+Butan
+Bouvetov otok
+Bocvana
+Belorusija
+Belize
+Kanada
+Kokosovi otoki
+Demokratična republika Kongo
+Srednjeafriška republika
+Kongo - Brazzaville
+Švica
+Slonokoščena obala
+Cookovi otoki
+Čile
+Kamerun
+Kitajska
+Kolumbija
+Kostarika
+Kuba
+Zelenortski otoki
+Curaçao
+Božični otok
+Ciper
+Češka
+Nemčija
+Džibuti
+Danska
+Dominika
+Dominikanska republika
+Alžirija
+Ekvador
+Estonija
+Egipt
+Zahodna Sahara
+Eritreja
+Španija
+Etiopija
+Finska
+Fidži
+Falklandski otoki
+Mikronezija
+Ferski otoki
+Francija
+Gabon
+Združeno kraljestvo
+Grenada
+Gruzija
+Francoska Gvajana
+Guernsey
+Gana
+Gibraltar
+Grenlandija
+Gambija
+Gvineja
+Guadeloupe
+Ekvatorialna Gvineja
+Grčija
+Južna Georgia in Južni Sandwichevi otoki
+Gvatemala
+Guam
+Gvineja Bissau
+Gvajana
+Posebno upravno območje Ljudske republike Kitajske Hongkong
+Heardov otok in McDonaldovi otoki
+Honduras
+Hrvaška
+Haiti
+Madžarska
+Indonezija
+Irska
+Izrael
+Otok Man
+Indija
+Britansko ozemlje v Indijskem oceanu
+Irak
+Iran
+Islandija
+Italija
+Jersey
+Jamajka
+Jordanija
+Japonska
+Kenija
+Kirgizistan
+Kambodža
+Kiribati
+Komori
+Saint Kitts in Nevis
+Severna Koreja
+Južna Koreja
+Kuvajt
+Kajmanski otoki
+Kazahstan
+Laos
+Libanon
+Saint Lucia
+Lihtenštajn
+Šrilanka
+Liberija
+Lesoto
+Litva
+Luksemburg
+Latvija
+Libija
+Maroko
+Monako
+Moldavija
+Črna gora
+Saint Martin
+Madagaskar
+Marshallovi otoki
+Severna Makedonija
+Mali
+Mjanmar (Burma)
+Mongolija
+Posebno upravno območje Ljudske republike Kitajske Macao
+Severni Marianski otoki
+Martinik
+Mavretanija
+Montserrat
+Malta
+Mauritius
+Maldivi
+Malavi
+Mehika
+Malezija
+Mozambik
+Namibija
+Nova Kaledonija
+Niger
+Norfolški otok
+Nigerija
+Nikaragva
+Nizozemska
+Norveška
+Nepal
+Nauru
+Niue
+Nova Zelandija
+Oman
+Panama
+Peru
+Francoska Polinezija
+Papua Nova Gvineja
+Filipini
+Pakistan
+Poljska
+Saint Pierre in Miquelon
+Pitcairn
+Portoriko
+Palestinsko ozemlje
+Portugalska
+Palau
+Paragvaj
+Katar
+Reunion
+Romunija
+Srbija
+Rusija
+Ruanda
+Saudova Arabija
+Salomonovi otoki
+Sejšeli
+Sudan
+Švedska
+Singapur
+Sveta Helena
+Slovenija
+Svalbard in Jan Mayen
+Slovaška
+Sierra Leone
+San Marino
+Senegal
+Somalija
+Surinam
+Južni Sudan
+Sao Tome in Principe
+Salvador
+Sint Maarten
+Sirija
+Esvatini
+Otoki Turks in Caicos
+Čad
+Francosko južno ozemlje
+Togo
+Tajska
+Tadžikistan
+Tokelau
+Timor-Leste
+Turkmenistan
+Tunizija
+Tonga
+Turčija
+Trinidad in Tobago
+Tuvalu
+Tajvan
+Tanzanija
+Ukrajina
+Uganda
+Stranski zunanji otoki Združenih držav
+Združene države Amerike
+Urugvaj
+Uzbekistan
+Vatikan
+Saint Vincent in Grenadine
+Venezuela
+Britanski Deviški otoki
+Ameriški Deviški otoki
+Vietnam
+Vanuatu
+Wallis in Futuna
+Samoa
+Kosovo
+Jemen
+Mayotte
+Južnoafriška republika
+Zambija
+Zimbabve
+Angleščina
+Afrikanščina
+Amharščina
+Arabščina
+Azerbajdžanščina
+Beloruščina
+Bolgarščina
+Bengalščina
+Bosanščina
+Katalonščina
+Češčina
+Danščina
+Nemščina
+Grščina
+Španščina
+Estonščina
+Baskovščina
+Perzijščina
+Finščina
+Filipinščina
+Francoščina
+Irščina
+Galicijščina
+Gudžaratščina
+Havščina
+Hebrejščina
+Hindijščina
+Hrvaščina
+Francoščina (Haiti)
+Madžarščina
+Armenščina
+Indonezijščina
+Igboščina
+Islandščina
+Italijanščina
+Japonščina
+Gruzijščina
+Kazaščina
+Kmerščina
+Kanareščina
+Korejščina
+Kirgiščina
+Luksemburščina
+Laoščina
+Litovščina
+Latvijščina
+Malgaščina
+Makedonščina
+Malajalamščina
+Mongolščina
+Maratščina
+Malajščina
+Malteščina
+Burmanščina
+Knjižna norveščina
+Nepalščina
+Nizozemščina
+Pandžabščina
+Poljščina
+Paštunščina
+Portugalščina (Brazilija)
+Portugalščina (Portugalska)
+Retoromanščina
+Romunščina
+Ruščina
+Ruandščina
+Sinhalščina
+Slovaščina
+Slovenščina
+Somalščina
+Albanščina
+Srbščina
+Švedščina
+Svahili
+Tamilščina
+Telugijščina
+Tadžiščina
+Tajščina
+Turkmenščina
+Turščina
+Ukrajinščina
+Urdujščina
+Uzbeščina
+Vietnamščina
+Koščina
+Jorubščina
+Kitajščina (poenostavljena pisava)
+Kitajščina (tradicionalna pisava)
+Zulujščina
+Ned.
+Pon.
+Tor.
+Sre.
+Čet.
+Pet.
+Sob.

@@ -13,8 +13,9 @@ namespace Casino.World
         readonly List<Vector3> pos = new List<Vector3>(), nrm = new List<Vector3>(), anim = new List<Vector3>();
         readonly List<Vector2> uv = new List<Vector2>();
         readonly List<Color> albedo = new List<Color>();
-        readonly List<float> emission = new List<float>();
+        readonly List<float> emission = new List<float>(), gloss = new List<float>(), metal = new List<float>();
         readonly List<int> tris = new List<int>();
+        readonly Dictionary<Color, (float gloss, bool metal)> finishes = new Dictionary<Color, (float, bool)>();
 
         /// <summary>World units per texture repeat (for the u/v of generated surfaces).</summary>
         public float Tile = 1f;
@@ -25,7 +26,19 @@ namespace Casino.World
         /// <summary>When above 0, vertices added from now on glow by themselves (albedo × emission) instead of being lit.</summary>
         public float Emission;
 
+        /// <summary>
+        /// How polished vertices added from now on are, 0 (matte) to 1 (mirror-like). Only the higher graphics settings
+        /// show it, as reflections of the room.
+        /// </summary>
+        public float Gloss;
+
+        /// <summary>Vertices added from now on are metal: what they reflect takes on their own colour.</summary>
+        public bool Metal;
+
         public int VertexCount => pos.Count;
+
+        /// <summary>Every vertex of exactly this colour gets this finish (gold trim, black lacquer...), whatever <see cref="Gloss"/> says.</summary>
+        public void Finish(Color color, float polish, bool isMetal = false) => finishes[color] = (polish, isMetal);
 
         int Vert(Vector3 p, Vector3 n, Vector2 t, Color c)
         {
@@ -35,6 +48,11 @@ namespace Casino.World
             albedo.Add(c);
             anim.Add(Anim);
             emission.Add(Emission);
+            float g = Gloss;
+            bool m = Metal;
+            if (finishes.TryGetValue(c, out var f)) (g, m) = f;
+            gloss.Add(g);
+            metal.Add(m ? 1f : 0f);
             return pos.Count - 1;
         }
 
@@ -201,17 +219,20 @@ namespace Casino.World
         public Mesh Build(LightRig rig, string name)
         {
             var colors = new List<Color>(pos.Count);
+            var extra = new List<Vector4>(pos.Count);
             for (int i = 0; i < pos.Count; i++)
             {
                 Color lit = emission[i] > 0f ? albedo[i] * emission[i] : albedo[i] * rig.Evaluate(pos[i], nrm[i]);
-                // The shader doubles vertex colours: store half, so spots up to 2x brightness survive.
-                colors.Add(new Color(Mathf.Clamp01(lit.r * 0.5f), Mathf.Clamp01(lit.g * 0.5f), Mathf.Clamp01(lit.b * 0.5f), 1f));
+                // The shader doubles vertex colours: store half, so spots up to 2x brightness survive. Alpha = gloss.
+                colors.Add(new Color(Mathf.Clamp01(lit.r * 0.5f), Mathf.Clamp01(lit.g * 0.5f), Mathf.Clamp01(lit.b * 0.5f), gloss[i]));
+                extra.Add(new Vector4(anim[i].x, anim[i].y, anim[i].z, metal[i]));
             }
             var mesh = new Mesh { name = name };
             if (pos.Count > 65000) mesh.indexFormat = IndexFormat.UInt32;
             mesh.SetVertices(pos);
+            mesh.SetNormals(nrm);
             mesh.SetUVs(0, uv);
-            mesh.SetUVs(1, anim);
+            mesh.SetUVs(1, extra);
             mesh.SetColors(colors);
             mesh.SetTriangles(tris, 0);
             mesh.RecalculateBounds();
@@ -252,6 +273,32 @@ namespace Casino.World
         /// <summary>A soft shadow on the floor under something (table, counter, machine) of the given footprint.</summary>
         public void Shadow(Vector3 center, Vector2 halfSize, float strength = 0.45f) =>
             occluders.Add(new Occluder { At = new Vector2(center.x, center.z), HalfSize = halfSize, Strength = strength });
+
+        /// <summary>
+        /// The light that reaches <paramref name="p"/> the most (the lamp over a table, a sconce, a chandelier), for
+        /// shading people in real time: the direction towards it, and its colour times how much of it gets there.
+        /// </summary>
+        public (Vector3 direction, Color color) Strongest(Vector3 p)
+        {
+            int best = -1;
+            float bestWeight = 0f, bestAtt = 0f;
+            for (int i = 0; i < lights.Count; i++)
+            {
+                var l = lights[i];
+                float dist = (l.Pos - p).magnitude;
+                if (dist >= l.Range) continue;
+                float att = 1f - dist / l.Range;
+                float weight = att * att * l.Color.grayscale;
+                if (weight > bestWeight)
+                {
+                    best = i;
+                    bestWeight = weight;
+                    bestAtt = att * att;
+                }
+            }
+            if (best < 0) return (Vector3.up, Color.black);
+            return ((lights[best].Pos - p).normalized, lights[best].Color * bestAtt);
+        }
 
         public Color Evaluate(Vector3 p, Vector3 n)
         {

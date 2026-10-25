@@ -1,0 +1,659 @@
+# Hungarian (hu). Machine translation by Claude.
+bd99124	Egy marék zseton
+c7c6dc8	Egy köteg zseton
+7512cfd	Egy tálca zseton
+fa36588	Egy állvány zseton
+7994f65	LEGNÉPSZERŰBB
+49dcc21	Egy széf zseton
+0725283	Nagy játékos széfje
+7658705	LEGJOBB ÉRTÉK
+2f23432	Szénsavas víz
+418b820	Eszpresszó
+97b463c	Energiaital
+43bbfda	Klubszendvics
+bce7a75	Hamburgermenü
+2832a8d	Steakvacsora
+dee8ee8	TELJES FELTÖLTÉS
+a7c2255	Szerencsesorozat
+7919163	Forró sorozat
+74fdfc2	A LEGTÖBB SZERENCSE
+d79cd12	Bronzasztal
+2a8ff35	Ezüstasztal
+51877b2	Aranyasztal
+9282152	Gyémántasztal
+0de8764	Adj meg egy érvényes évet.
+d4e14c9	Adj meg egy érvényes hónapot (1-12).
+addd156	Adj meg egy érvényes napot.
+d78a4f4	Ez a dátum a jövőben van.
+787c7c6	Üdv az asztalomnál! Készen állsz a játékra?
+8b0f93e	Jó látni téged. Foglalj helyet!
+8338021	Szia! A lapok frissek, és én is.
+75750f9	Üdv! Tegyük ezt az estét emlékezetessé.
+95aac36	Tedd meg a téted, amikor készen állsz.
+8bc63c1	Zsetonokat az asztalra, és lássuk a lapokat.
+984b7f3	Miben játszunk?
+b74c769	Ó, nagy tét! Tetszik a stílusod.
+77fc1fc	Na, ez aztán a tét. Gyerünk!
+7779a5b	Bátor vagy ma este, mi?
+479ff82	All in?! Kalapál a szívem!
+7fb527c	Mindent egy leosztásra. Félelem nélkül!
+7bf0c5d	Blackjack! Hihetetlen!
+123f2d5	Huszonegy, csak úgy!
+cd850a7	Blackjack! Ma este imádnak a lapok.
+55f50ee	Szépen játszottál!
+79594b1	Nyertél! Szép munka.
+0df710e	Nagyon megy ma!
+20a0c1e	Ez a tiéd.
+a45fe61	Micsoda nyeremény! Mindenki ezt az asztalt nézi!
+54d3982	Óriási! Ma este lángolsz!
+8da8f1e	Ez nagyon közel volt! A következő a tiéd.
+5d921e1	Most a háznak volt szerencséje.
+f923af7	Rázd le, jön az új leosztás.
+853e7ca	Jaj, egy lappal túl sok.
+daec44f	Besokalltál! A legjobbakkal is megesik.
+11ceaef	Döntetlen. Senki sem veszít!
+911a289	Döntetlen. A zsetonjaid biztonságban vannak.
+a89d9d9	Besokalltam! Szerencséd van.
+f76c8fd	Ez nekem sok. Te nyertél!
+63f8d0b	Blackjack a háznak, bocsi!
+465c8bf	Az osztónak blackjackje van. Balszerencse.
+6752f40	Ászt mutatok. Biztosítás?
+1920c5a	Szétválasztunk! Két esély a nyerésre.
+9f621da	Duplázás. Bátor lépés!
+59da99d	Duplázz! Jön egy lap.
+0b48017	Új kártyacipő, keverek!
+3fa7769	Fogyóban? A pénztár feltölt.
+4e5694b	Fogynak a zsetonok. Kérsz még?
+d41f057	Elfogytak a zsetonok! Menj a pénztárhoz, vagy vegyél fel ingyen zsetonokat.
+15d90d3	A kupacod üres. A pénztár pont mögötted van.
+a9eaae1	Kimerültnek tűnsz! Egyél valamit a bárban.
+5cd9e8b	Tartalékon vagy? A bár gondoskodik rólad.
+37b9672	Nyugodtan, nem sietünk.
+c64df8c	Amikor csak készen állsz!
+b8dfc0a	Az éjszaka még fiatal.
+8748560	A kezdők szerencséje veled van!
+e3def50	A pakli ma este melletted áll!
+506ade9	A kezdők szerencséje véget ért. Innentől tisztességes a játék!
+953d8b7	Üdv a kaszinóban! A helyed vár.
+9fd9844	Jó estét! Ma este forrók az asztalok.
+2d42aaf	Üdv újra! Szerencsésnek érzed magad?
+311bae7	Koppints egy asztalra a játék kezdéséhez!
+3318099	Több zseton kell? Jó ablakhoz jöttél.
+c5b3787	Nagyobb kupacok, nagyobb bónuszok!
+21ae665	Éhes vagy? Válassz bármit az étlapról.
+8b83cc0	Egy falat étel fenntartja az energiádat!
+35f4b0e	Üdv az asztalomnál!
+8f90245	Hát itt vagy! Máris világosabb lett.
+909e4d6	Érezd magad otthon. Ma este minden rólad szól.
+2477f78	Imádom ezt a mosolyt. Szerencsés este?
+6ac2120	Lazíts, jó kezekben vagy.
+089f04b	Hé, te! Reméltem, hogy benézel az ablakomhoz.
+3f2c3c9	Mindig jó egy barátságos arcot látni.
+3021db8	Nézd csak, ki van itt! Jól szórakozol?
+769980b	Szia, szépfiú!
+5361ffd	Ma este tetszik a stílusod.
+56b40be	Hé, de jó újra látni!
+3316019	Jó estéd van? Megérdemled.
+28283fd	Vigyázz, még a végén neked kezdek szurkolni.
+109ac94	Visszatért a kedvenc játékosom!
+acba0e6	Ülj mellém, osztok neked valami szépet.
+eb5ff2a	Veled sokkal szórakoztatóbb ez az asztal.
+772a73c	Máris mész? Az éjszaka még fiatal!
+178301a	Ugyan már, csak még egy leosztás. Jó érzésem van!
+816036a	Most nem hagyhatsz itt, épp csak belekezdtünk!
+5c9b7e2	Utolsó esély! A következő leosztás lehet a nagy durranás...
+20ce7b6	Jó, jó. Melegen tartom a helyed. Megígéred, hogy visszajössz?
+51d1aeb	Még nincs sorozatod? Játssz ma köröket ({2}), és elkezdem számolni.
+10b25d9	Új kezdet! Körök ({2}), és meggyullad a lángod.
+0c10711	Vezetek egy kis listát azokról, akik minden nap eljönnek. Te nem vagy rajta... még.
+5e7c431	A(z) {1}. nap vár rád. Hátralévő körök: {2}!
+b268d84	Egymás utáni napok: {0}... most csak nem hagyod abba?
+b32ae79	A lángod ma kicsit hidegnek tűnik. A körök ({2}) majd felmelegítik.
+a6f3fbd	Számolom: {0} nap. Legyen belőle {1}.
+1dc5c97	Ne hidd, hogy nem vettem észre. Hátralévő körök a sorozatod megtartásához: {2}!
+807b82c	Egymás utáni napok: {0}? Kezdem azt hinni, hogy tetszik itt.
+6391923	A sorozatod mára biztonságban van. Most már csak villogsz.
+3bfbbf7	{0}. nap, kész. Holnap ugyanekkor?
+ca2a2c1	{0} nap! Ideje helyet foglalnom neked.
+54f991f	Megvan: a sorozatod első napja! Gyere vissza holnap, és kettő lesz belőle.
+a1e7ab0	Egy teljes hét egymás után! Őszintén le vagyok nyűgözve.
+96cee95	Harminc nap! Gyakorlatilag már itt dolgozol.
+a9834cd	Száz nap. Mindenkinek mesélek rólad.
+071317f	Már {0} nap egymás után! Nézz magadra.
+0964027	Sorozat megmentve: {0}. nap! Tudtam, hogy sikerülni fog.
+c7f2a1f	{0}. nap! Lefogadom, hogy a(z) {1}. napig nem jutsz el.
+a6ce2e2	{0} nap... jól van, nagyzoló.
+3ab91d0	Játssz 10 blackjack leosztást
+38e863d	Nyerj meg 5 blackjack leosztást
+6ac41cc	Szerezz egy blackjacket
+74cf149	Nyerj 500 zsetont blackjacken
+66440e1	Pörgesd meg a nyerőgépet 20-szor
+9205056	Nyerj 5 pörgetést a nyerőgépen
+cd60e0c	Nyerd meg a tét 5×-ösét a nyerőgépen
+6f7ac28	Játssz 5 kört rulettben
+6978cc0	Nyerj 3 rulettpörgetést
+c8ebbcc	Találj el egy számot telitalálattal
+8a57c54	GPS-helyzet
+4919635	mobilhálózat
+527b094	internetkapcsolat
+f49ae82	eszközbeállítások
+60827d3	tesztország
+0b2f8d8	nincs ellenőrizve (normál ár)
+50d8b4a	ismeretlen
+4fb7a4e	1. tucat
+647a0eb	2. tucat
+a934745	3. tucat
+3de80ab	2:1
+bb4e68e	PIROS
+a9414ab	FEKETE
+710756a	PÁRATLAN
+70ca748	PÁROS
+4d60d6c	IGAZSÁGOS ÁRAK AZ ORSZÁGODNAK
+1674d95	A bolt árai az országod gazdaságához igazodnak, így a játékosok mindenhol méltányos árat fizetnek.
+4ec27ee	Az országod megállapításához egyszer ellenőrizzük a hozzávetőleges helyzetedet. Ezt az eszközödön párosítjuk egy országgal, és sehova sem küldjük el. Ha elutasítod, a normál árak érvényesek.
+ff3dbb4	TOVÁBB
+43a6a8d	Elhagyod a kaszinót?
+ad209a0	A zsetonjaidat és az előrehaladásodat elmentettük.
+5860c84	KILÉPÉS
+f1e0808	MARADOK
+5b38c49	Feloldva: {0}
+15ae7ac	Egy sorozatfagyasztás tegnap megmentette a(z) {0} napos sorozatodat.
+d375ffb	Sorozatfagyasztások ({0}) megmentették a(z) {1} napos sorozatodat.
+fd8ab39	A(z) {0} napos sorozatod véget ért. Játssz ma köröket ({1}), hogy újat kezdj!
+7fa2db4	KÜLDETÉS TELJESÍTVE
+255325c	+{0} zseton
+d205ece	MINDEN KÜLDETÉS KÉSZ!
+4acbed2	Napi bónusz +{0} zseton. Holnap új küldetések.
+ab2ceb3	{0}. SZINT!
+86e2afb	Mérföldkő! +{0} zseton
+9ae18ad	Gyere vissza holnap, hogy folytasd
+7af7e7c	+1 sorozatfagyasztás
+b5b9597	{0} NAPOS SOROZAT!
+62ec60d	A vásárlás ebben a verzióban nem érhető el.
+1f9786c	A vásárlás nem sikerült. Nem terheltünk meg.
+3e4c600	+{0} zseton jóváírva!
+1998202	{0}: {1} leosztás {2}% szerencsével, a kezdők szerencséje után
+728ada5	{0}: {1} leosztás {2}% szerencsével!
+af5e232	{0}: +{1}% energia
+001a53b	Ezen az eszközön nem érhető el
+2607004	A videók nem töltődnek be ezen a hálózaton
+569c30d	Gyere vissza holnap
+ecae6ee	Kész {0} mp múlva
+9964820	+{0} zseton (ma még {1})
+e1bd888	+{0} ingyen zseton!
+619bd5d	+1 sorozatfagyasztás!
+f70d794	Most nincs elérhető videó. Próbáld újra egy kicsit később.
+264d71b	BRONZ
+462e839	EZÜST
+81ff70a	ARANY
+50e122e	GYÉMÁNT
+57f5f5e	Menü
+69bd4ef	Nézet
+dbfe736	Kereszt
+1cc7820	Kör
+82810cb	Négyzet
+73d3ae2	Háromszög
+a42f608	Régió ellenőrzése...
+1db422c	Nincs ellenőrizve ({0}): normál árak
+9bc0807	{0} ({1}): árak ebben: {2}
+ae8c393	Emlékeztetők
+aefd59b	Ingyen zsetonok és sorozatemlékeztetők
+3125838	Elkészültek az ingyen zsetonjaid
+233027b	{0} zseton vár rád a Lucky Ace-ben.
+b93976b	Tartsd meg a(z) {0} napos sorozatodat
+bd68038	Játssz ma köröket ({0}), hogy éjfélkor ne nullázódjon le.
+0acfb6f	Üdv! Ma este a kezdők szerencséje veled van. Tedd meg a téted!
+d589374	A BLACKJACK 3:2-T FIZET   •   AZ OSZTÓ MINDEN 17-NÉL MEGÁLL   •   A BIZTOSÍTÁS 2:1-ET FIZET
+b700b02	TÉT
+16ec74f	TÖRLÉS
+928226b	ISMÉT
+55591e0	OSZTÁS
+395ed46	LAPOT
+43e7971	MEGÁLLOK
+097274c	DUPLÁZÁS
+6df63ca	SZÉTVÁLASZTÁS
+3e40f46	BIZTOSÍTÁS
+db82d3a	NEM, KÖSZÖNÖM
+28d6be8	TÉT {0}+
+9587b70	Elérted az asztal maximumát
+b9ac47d	Nincs elég zseton
+d237ade	Az osztó ászt mutat. Biztosítod {0} értékben?
+bf07c14	A biztosítás kifizetése: {0}
+b6e674a	Az osztónak nincs blackjackje. A biztosítás elveszett.
+0cc9679	BESOKALL
+82ce89d	AZ OSZTÓ BESOKALLT
+6e1e1a4	BLACKJACK!
+662fae5	NYERTÉL
+8918d00	DÖNTETLEN
+8df6be4	VESZTETTÉL
+9e69668	A kezdők szerencséje véget ért. Most indul a Szerencsesorozatod.
+822f4f4	A kezdők szerencséje véget ért. Mostantól normál blackjack.
+b0377c7	A Szerencsesorozatod véget ért. Vissza a normál blackjackhez.
+824ad7c	ELFOGYTAK A ZSETONOK
+ff1822d	Nézz meg egy rövid videót {0} ingyen zsetonért, vagy menj a pénztárhoz.
+e4cac2f	Menj a pénztárhoz, hogy feltöltsd a zsetonjaidat.
+c3df3e7	INGYEN ZSETONOK
+b169d33	PÉNZTÁR
+4d38f66	KÉSŐBB
+cb8171b	Előbb fejezd be ezt a leosztást.
+3aa6941	„{0}”
+6f846f4	MÉG EGY LEOSZTÁS
+a79d4f2	TÁVOZOM
+693f697	KEZDŐK SZERENCSÉJE
+641ad58	SZERENCSESOROZAT
+fc45931	Üdvözlő bónusz új játékosoknak: az első <b>{0} leosztásodban</b> az osztó kártyacipője a javadra van rendezve, így szinte minden leosztást megnyersz.
+576c683	A következő <b>{0} leosztásban</b> az előny fokozatosan elhalványul, utána pedig minden asztalnál normál, tisztességes blackjack folyik egy megkevert, 6 paklis cipőből (a blackjack 3:2-t fizet, az osztó minden 17-nél megáll).
+7fb55b3	Előny most: <b><color=#7CFC9A>{0}%</color></b>   Hátralévő leosztások: <b>{1}</b>
+d4f8fe0	A következő <b>{0} blackjack leosztásodban</b> legfeljebb <b>{1} zseton</b> téttel minden lapnak <b>{2}%</b> esélye van, hogy a javadra érkezzen (ugyanaz az előny, mint a kezdők szerencséje).
+0a5fc06	Jó játékkal ez a leosztások nagyjából <b>{0}%</b>-át nyeri, szemben a normál blackjack kb. {1}%-ával. A nagyobb tétek normál blackjacknek számítanak, és nem fogyasztanak leosztást. Ha elfogynak a leosztások, minden asztal ismét normál, tisztességes blackjack.
+c3a8946	ÉRTEM
+8dfc44a	VISSZA AKAROD A SZERENCSÉDET?
+272a97f	A kezdők szerencséje véget ért: innentől minden asztal normál, tisztességes blackjack. Egy Szerencsesorozat egy időre visszahozza az előnyt.
+06b7689	NAPI
+4035996	NAPI SOROZAT
+fbe7f18	NAPOS SOROZAT
+7a46866	MA
+4753707	REKLÁM MEGNÉZÉSE
+6bb45f3	VÁSÁRLÁS
+62a945f	SOROZATFAGYASZTÁS
+ba5b1de	A sorozatfagyasztás életben tartja a sorozatodat egy olyan napon, amikor nem játszol. Legfeljebb {0} lehet nálad.\n\nVeszel egyet {1} zsetonért?
+38c6090	Sorozatfagyasztás kész.
+8fe681f	Nincs elég zseton a fagyasztáshoz.
+1507c40	MÉGSE
+457d20f	NAPI PÖRGETÉS
+9623247	PÖRGETÉS
+ac5ef96	Esélyek:
+1200f20	{0}%
+003a689	{0} zsetont nyertél!
+f757137	MAI KÜLDETÉSEK
+7b7f9e2	Rekord: {0} nap
+9554fea	Játssz minden nap, hogy sorozatot építs
+5c8dbb8	A mai cél teljesítve! Holnap találkozunk.
+1aeb9a1	Ma: {0} / {1} kör (bármelyik játék)
+bb92856	Sorozatfagyasztások: {0} / {1}
+0ec6216	Mentsd meg a sorozatod egy kihagyott napon. +1 minden 7. napon.
+cc0a745	TELE
+419a962	NINCS VIDEÓ
+2dabd99	REKLÁM HAMAROSAN
+f12e166	Sorozatbónusz: nyeremények ×{0}
+80948a4	Egy ingyen pörgetés minden nap
+596b5e0	KÖVETKEZŐ  {0}
+7f7e7fc	Minden kész! Bónusz begyűjtve.
+03a0f2a	Új küldetések éjfélkor.
+4784874	Teljesítsd mindhármat: +{0} bónuszzseton
+42c5cda	JÁTÉK
+337211e	JÁTÉKOK
+8f5e3bd	Húzd a bal oldalon a járáshoz  •  Húzd a jobb oldalon a körülnézéshez  •  Koppints, hogy odamenj
+d00d221	Csak 18+  •  A zsetonok szórakozásra valók: nincs pénzbeli értékük, soha nem válthatók pénzre vagy nyereményre
+b60f038	Nyílnak az ajtók...
+2e5bcce	Üdv! A(z) {0} üdvözlő zsetonod kész. Az asztalok egyenesen előtted vannak!
+7ef7ae3	+{0} ingyen zseton! Újabbak {1} óra múlva.
+5d82af9	Az ingyen zsetonok {0} óránként töltődnek fel. A következő: {1} múlva.
+5469985	{0} ó {1} p
+bb65beb	{0} p {1} mp
+ac8ba93	TARTSD MEG A SOROZATOD
+560bfa1	Kérsz emlékeztetőt azokon az estéken, amikor még nem játszottál, és amikor az ingyen zsetonjaid elkészültek? Ennél többet soha, és a Beállításokban kikapcsolhatod.
+b724a40	EMLÉKEZTESS
+9e0c898	+{0} zseton kész!
+1207e28	Nézz meg egy videót: {0}
+db3655b	Következő ingyen zsetonok: {0} múlva
+4ca9be5	BLACKJACK
+9a612b1	4 asztal  •  3:2-t fizet
+1194439	NYERŐGÉPEK
+6555152	Lucky Ace 7s  •  10 nyerővonal
+255b1a1	RULETT
+6df1551	Európai, egy nullával
+379b146	KIMERÜLTÉL
+340e5c4	Az energiasávod üres. Vegyél valamit a bárban, hogy tovább játszhass, vagy gyere vissza később: az energia lassan visszatöltődik, amíg távol vagy.
+a517396	IRÁNY A BÁR
+7c7227f	VÁLASSZ ASZTALT
+c963de3	TÉTEK
+c433657	{0}. SZINT
+083ac39	LEÜLÖK
+9698219	KELL: {0}
+34b737e	Érd el a(z) {0}. szintet, hogy itt játszhass. Te a(z) {1}. szinten vagy.
+6cc19a9	KASZINÓ
+6e946b7	NN
+4a3a892	HH
+2857a6a	ÉÉÉÉ
+9d1fece	NAP
+d3bb0c3	HÓNAP
+c0f0cad	ÉV
+43985ff	MIKOR SZÜLETTÉL?
+293fda2	A zsetonok kizárólag szórakozásra szolgálnak. Nincs pénzbeli értékük, és soha nem válthatók pénzre vagy nyereményre.
+3e9128d	SAJNÁLJUK, NEM JÁTSZHATSZ
+b5e8985	A(z) {0} csak felnőttek számára érhető el.
+bb1b380	KILÉPÉS
+d9f9432	Bezárás {0} múlva...
+c6e102d	MESÉLJ MAGADRÓL
+31120ce	Ehhez illő háziasszonyokat, osztókat és bárszemélyzetet választunk. Ezt bármikor megváltoztathatod a Beállításokban.
+49e8df9	FÉRFI VAGYOK
+85abe81	NŐ VAGYOK
+76cc98c	NEM SZERETNÉM MEGADNI
+964daf7	BELÉPÉS A KASZINÓBA
+2efb69a	A ma esti személyzeted:
+c10e749	{0}. oldal / {1}
+2a3ffd9	NYELV
+c673535	AUTOMATIKUS
+d1245d2	ORSZÁG
+15fc12b	Üdvözöljük! Tegyék meg tétjeiket.
+531fb3f	Nincs elég zseton ehhez a téthez.
+380eb75	Az asztal limitje pörgetésenként {0}.
+55ad592	VISSZAVONÁS
+8f191f9	ÖSSZES TÉT  {0}
+82e1181	Koppints a táblára a zsetonok elhelyezéséhez
+bb19a75	Nincs több tét!
+5becf07	ZÖLD
+bc74f4f	zöld
+7898801	piros
+466bc8c	fekete
+f2edfbf	Micsoda találat! Gratulálok!
+b252caf	Nyertél! A nyereményed {0}.
+8587d14	NYEREMÉNY  +{0}
+b862a2b	{0} {1}. Visszajár: {2}.
+a306d0a	VISSZAJÁR  {0}
+af3134d	Most nem nyertél
+84122e7	Tegyék meg tétjeiket.
+52205f4	Várd meg, amíg a golyó megáll.
+c4b9243	BEÁLLÍTÁSOK
+44d863e	ÁLTALÁNOS
+2bbca79	GRAFIKA
+955c8b4	HANG
+c701f5f	ÉRINTÉS
+efcc94a	EGÉR
+8433628	KONTROLLER
+d868a50	REZGÉS
+f8692c7	18+ • A zsetonoknak nincs pénzbeli értékük • Betűtípusok: Bebas Neue, Poppins, Noto (SIL OFL) • Határok: Natural Earth • Áradatok: Világbank
+da46447	KASZINÓ SZEMÉLYZETE
+594b81e	NŐK
+69d3313	FÉRFIAK
+b4325d3	VEGYES
+414594a	EMLÉKEZTETŐK
+6cac87b	Ingyen zsetonok, és egy esti figyelmeztetés, mielőtt egy sorozat megszakadna.
+e43b2e0	ÚJRAELLENŐRZÉS
+7c9e8f9	ÁRRÉGIÓ
+495c70e	Leggyorsabb: a kaszinó, ahogy megfestették, semmi extra.
+b052523	A csiszolt padló, a fa és az arany tükrözi a termet.
+6bd30d7	Filmes hatás: színkorrekció, szemcse, ragyogás, fénysugarak, élethű bőr.
+21b6e1d	Mozis objektív: az élesség követi a tekinteted, csíkok a fényeken, por a fénysugarakban.
+fb7c2e8	MINŐSÉG
+d8b9679	ALACSONY
+f68525a	KÖZEPES
+d77d0b2	MAGAS
+9289eee	ULTRA
+637e313	FELBONTÁS
+2e7b141	Az alacsonyabb lágyabb, de hűvösebben fut és kíméli az akkumulátort.
+93dcfb5	MEGJELENÍTÉSI MÓD
+3c6eac3	TELJES KÉPERNYŐ
+f3690b1	ABLAKOS
+cfa6200	ÉLSIMÍTÁS
+ad50489	KI
+f178804	Kisimítja a recés éleket a kaszinóban.
+4266288	KÉPFRISSÍTÉS
+d031ab0	{0} FPS
+a2b7514	A 30 FPS kíméli az akkumulátort, és hűvösen tartja a régebbi telefonokat.
+0babcee	V-SYNC
+6656e25	LÁTÓMEZŐ
+244aadb	FPS MUTATÁSA
+41c8f6e	FŐ HANGERŐ
+bf3af1f	ZENE
+bd80907	HANGEFFEKTEK
+d098036	SZEMÉLYZET HANGJA
+93c6484	A személyzet beszéd közbeni morajlása.
+16bf71a	NÉMÍTÁS HÁTTÉRBEN
+85b2ee7	Elnémítja a kaszinót, amíg másik ablakban vagy.
+8e3634e	NÉZÉS ÉRZÉKENYSÉGE
+880dc05	Milyen gyorsan fordítja a húzás a nézetet.
+750c60f	Milyen gyorsan fordítja az egérrel húzás a nézetet.
+8b988eb	NÉZÉS FORDÍTÁSA BALRA / JOBBRA
+cacf0cc	NÉZÉS FORDÍTÁSA FEL / LE
+2d13b68	GOMBKIOSZTÁS
+50c3f10	AUTO
+b471e5c	MENÜ / NÉZET CSERÉJE
+d9a59f1	KAR ÉRZÉKENYSÉGE
+ec14343	Milyen gyorsan fordítja a jobb kar a nézetet.
+a79af23	KAR FORDÍTÁSA BALRA / JOBBRA
+acfc66e	KAR FORDÍTÁSA FEL / LE
+56bb461	KONTROLLER TIPPEK
+51cf49a	Megmutatja, mit csinálnak az egyes gombok, amikor kontrollerrel játszol.
+dff7431	REZGÉS ITT
+34139ab	TELEFON
+15ee988	MINDKETTŐ
+465cc91	Auto: a kontroller, ha csatlakoztatva van, egyébként a telefon.
+f6fed84	TELEFON REZGÉSE
+8e97fa7	TELEFON ERŐSSÉGE
+486ba2d	KONTROLLER REZGÉSE
+8008889	KONTROLLER ERŐSSÉGE
+ea9233e	AUTOMATIKUS ({0})
+167dda7	{0}: Beállítások, {1}: Napi.
+29a4ef9	Nincs csatlakoztatott kontroller.
+558ecd2	Csatlakoztatva: {0}. {1} gombok láthatók (a jobb oldali A megerősít).
+d6eee9e	Csatlakoztatva: {0}. {1} gombok láthatók.
+78525d5	A BÁR
+099db9f	SZERENCSE
+b4a8b06	A zsetonok, a szerencse és az étel virtuális tárgyak, kizárólag szórakozásra: nincs pénzbeli értékük, nem válthatók pénzre vagy nyereményre.
+e2a28c9	Minden lapnak ekkora esélye van, hogy a javadra érkezzen, legfeljebb {0} zsetonos blackjack téteknél (a nagyobb tétek normálak, és nem fogyasztanak leosztást). A kezdők szerencséje után indul; az erősebb csomagok fogynak először.
+04fbc6d	Engedélyezd a helyhozzáférést, hogy megkapd az országod árát
+2ae87fc	A vásárlás a játék ezen verziójában nem érhető el.
+8239a84	TESZTBOLT (nem valódi pénz)
+173d916	energia
+b2c67eb	+{0}% ZSETON
+58e8011	{0} leosztás
+ce80712	ezek kb. {0}%-át nyeri
+c69e8ee	LUCKY ACE 7s
+fc99288	ÖSSZES TÉT
+c1c00cd	NYEREMÉNYTÁBLA
+3930abd	SOK SZERENCSÉT!
+67b6973	A pörgetéshez legalább 10 zseton kell.
+5aa1edb	ZSETONOK
+f5a1812	A tétet arra csökkentettük, amit fedezni tudsz.
+5c63f61	MEGANYEREMÉNY!
+652544f	NAGY NYEREMÉNY!
+91bc41c	VISSZAJÁR {0}
+3714283	NINCS NYEREMÉNY
+33c0faa	{0}. VONAL: {1} × {2} = {3}
+9f59e6e	{0} CSILLAG = {1}
+d6eee90	Cseresznye
+4459b79	Citrom
+09fb6aa	Narancs
+cb92e50	Szilva
+d419866	Csengő
+e496fd2	Bar
+63abb56	Hetes
+b3850e0	Gyémánt
+fc2b5a9	Ász
+85a7de6	Csillag
+c31b035	A CSILLAGOK bárhol fizetnek: 5 = a tét {0}×-ese, 4 = a tét {1}×-ese, 3 = a tét {2}×-ese.
+f97509c	Az ÁSZ joker: minden szimbólumot helyettesít, kivéve a csillagot.
+3e8bc69	A vonalnyeremények a vonaltét (összes tét ÷ 10) többszörösei, balról jobbra az első tárcsától.
+523f8dc	VISSZAFIZETÉS: {0}% hosszú távon. Minden pörgetés független és véletlenszerű.
+e0c705d	Járás
+b8db515	Nézés
+503d46d	Gombok
+c7f73bb	Beállítások
+728298d	Napi
+ab166bd	Állítás
+76cdb95	Mozgás
+8598222	Kiválasztás
+bbfa773	Bezárás
+b52b36b	Vissza
+ab37588	KIMERÜLT
+9b11a09	KEZDŐK SZERENCSÉJE {0}%
+0c94e98	MÉG {0} LEOSZTÁS
+51ed273	SZERENCSESOROZAT {0}%
+3401470	{0} LEOSZTÁS  •  TÉT LEGFELJEBB {1}
+f481cc6	SZINT
+0139615	ÜDVÖZÖLJÜK
+daad514	BESZÉLJ A HÁZIGAZDÁVAL
+bcefb10	Útbaigazítás és tippek
+c28e782	ZSETONOK  •  BÓNUSZOK
+0c69ec4	ZSETON VÁSÁRLÁSA
+78c0727	Pénztár
+1737fab	KOKTÉLOK  •  RÁGCSÁLNIVALÓ  •  ENERGIA
+9e008ae	ÉTEL ÉS ITAL
+f7881e8	A bár
+0e979ed	A BLACKJACK 3:2-T FIZET
+eea0d12	AZ OSZTÓ 17-NÉL MEGÁLL
+4db37bf	BLACKJACK
+0ffdd99	{0} asztal  •  tét {1}–{2}
+b4f938b	NYERŐGÉP
+6b7caea	TEGYÉK MEG TÉTJEIKET
+26b1e39	RULETT
+910a1ed	Európai kerék  •  a telitalálat 35:1-et fizet
+7ef0215	RENDELJ EGY ITALT
+fe38d73	{0} kihozza neked
+f7b6306	A(z) {0} a(z) {1}. szinten nyílik meg. Te a(z) {2}. szinten vagy: minden lejátszott kör számít.
+d85f1ad	Ehhez az asztalhoz legalább {0} zseton kell.
+cbfe016	A blackjack asztalok egyenesen előtted vannak. Sétálj oda az egyikhez, és ülj le!
+64d9faf	A pénztár itt van tőled jobbra, a bár pedig a bal oldali fal mentén.
+e4c6e0b	Fáradt vagy? Egy falat a bárban azonnal feltölti az energiádat.
+d5ab68f	Koppints bárhova a padlón, és odasétálsz. Koppints egy asztalra, hogy leülj.
+cc21f74	KICSI
+dc01dec	NAGY
+5fb90b0	BÁRMELY HÁRMAS
+9c716f1	Hold'em asztal
+3b6ab84	Játssz 8 leosztást hold'emben
+6c617ca	Nyerj 4 leosztást hold'emben
+44ce500	Játssz 10 leosztást baccaratban
+b90cff7	Nyerj 5 leosztást baccaratban
+3e4dfa9	Játssz 15 leosztást videópókerben
+854fe20	Játssz 8 kört sic bóban
+dfddac1	Nyerj 4 kört sic bóban
+2973ea7	Dobj 15-ször a kockákkal crapsben
+737be17	Nyerj 4 dobást crapsben
+4dbb81d	Csinálj flöst vagy jobbat videópókerben
+19aa07b	Royal flös
+cf83e72	Színsor
+d27ba03	Póker
+dbe8641	Full
+7c936d7	Flös
+2501c65	Sor
+ca1a0d4	Drill
+6876b40	Két pár
+2537f88	Pár
+b4b323e	Magas lap
+f70bfdc	Bubik vagy jobb
+98fd5af	BACCARAT
+df66d5a	Üdv a baccaratnál! Játékos, Bankár vagy Döntetlen?
+5055efd	JÁTÉKOS
+3f90696	DÖNTETLEN
+0d75f63	BANKÁR
+0ebd5a4	UTOLSÓ EREDMÉNYEK
+511993d	J
+ae4f281	B
+c2c53d6	D
+781246e	Válassz zsetont, majd koppints a Játékosra, a Bankárra vagy a Döntetlenre
+11023a0	DÖNTETLEN  {0}
+503d5f1	A JÁTÉKOS NYER  {0}–{1}
+0eb4be5	A BANKÁR NYER  {0}–{1}
+7859af1	CRAPS
+4083dbd	Üdv a crapsnél! Tégy a Pass Line-ra, és dobj.
+d266326	HAT
+c506f3a	KILENC
+987f4e9	FIELD
+71c1b2b	2 3 4 9 10 11 12  •  a 2 és a 12 duplán fizet
+d0ac294	BÁRMELY 7
+9b2f0c3	BÁRMELY CRAPS
+f62ac59	DON'T PASS BAR
+6080ade	1:1  •  a 12 döntetlen
+c07247a	PASS LINE
+6229f78	ODDS
+29bf819	valós odds
+387d7a5	BE
+229c9cc	Az odds a Pass Line mögé kerül, ha már van pont.
+c2c8e82	Az oddshoz Pass Line tét kell.
+1784d43	Az oddsod a maximumon van.
+fdc3442	A vonaltétek a nyitó dobásnál kerülnek fel.
+97ce95b	AZ ASZTALON  {0}
+a895ec0	A pont {0}: dobd ki újra egy 7 előtt. A Pass Line mögötti odds valós oddsot fizet.
+d9f9d65	DOBÁS
+bcf32ef	A pont {0}.
+5b450b4	{0}! A pont megvan. Nyeremény!
+9746e08	Hetes. Új dobó, új nyitó dobás.
+4fc4664	{0}, natural! A Pass Line nyer.
+203f466	{0}, craps. A vonal veszít.
+0f8e260	Várd meg, amíg a kockák megállnak.
+6a98cfe	ELHAGYOD AZ ASZTALT?
+8430088	A vonaltéted még játékban van a(z) {0} ponton. Ha most távozol, elveszik.
+0e138d1	HOLD'EM
+5e023be	Üdv a hold'emnél! Tedd fel az antét, és lássuk a lapokat.
+0cd62f5	ANTE
+5e9f331	BLIND
+3b935ab	A BLIND FIZET
+20713a4	Az osztó egy párral vagy jobbal kvalifikál
+d37267c	CHECK
+9a4e316	FOLD
+88313c4	TÉT {0}×
+42c6fea	Ante {0} + blind {0}. Tarts meg még {1}-t az emeléshez.
+1abb2f2	Koppints zsetonokra az antéhoz. A blind ugyanannyi.
+f541cec	Check, vagy az ante három- vagy négyszerese?
+fc74a79	Emelj most az ante 4×-ével vagy 3×-ával, vagy checkelj és nézd meg a flopot.
+b687501	Utolsó esély: tégy 1× antét, vagy dobd el a lapot, és elveszik az ante és a blind.
+400009c	Tégy most 2× antét, vagy checkelj és nézd meg az utolsó két lapot.
+f4abdf9	Itt a flop.
+0e51f2c	A turn és a river.
+cc856d3	Lássuk, mi van nálam.
+6ba1f3e	Az osztó nem kvalifikál: az antéd visszajár.
+cf1fdc5	Eldobtad. A következő leosztás a tiéd.
+177fab0	Ultimate Texas Hold'em
+c4917b9	Játékos, Bankár vagy Döntetlen
+6e4fe7b	VIDEÓPÓKER
+73cabd3	Jacks or Better
+91c4555	SIC BO
+d810061	Három kocka  •  nagy vagy kicsi
+85ab7ec	Pass Line  •  Field  •  Odds
+35d8db6	Üdv a sic bónál! Nagy, kicsi vagy valami merészebb?
+3d05514	Az asztali limit dobásonként {0}.
+86ade94	RÁZÁS
+b69304e	HÁRMAS {0}!
+5d1bcc6	TARTVA
+36a21ba	Ossz, tartsd meg a kívánt lapokat, cserélj egyszer.
+99fa8e8	TART
+249d1c0	TIPP
+7aab1bd	CSERE
+5595eb4	Koppints a lapokra a megtartáshoz, aztán cserélj.
+1c05db9	HOLD'EM JÁTÉK
+e353e5f	Ultimate Texas Hold'em  •  ante {0}–{1}
+6470369	BACCARAT JÁTÉK
+bbe0077	NAGY  •  KICSI  •  HÁRMASOK
+3ba448f	SIC BO JÁTÉK
+097c59c	Három kocka  •  a nagy vagy kicsi 1:1-re fizet
+af2ca30	PASS LINE  •  FIELD  •  ODDS
+f18398e	CRAPS JÁTÉK
+eeede6d	A Pass Line 1:1-re fizet  •  az odds valós oddsot fizet
+34e5170	VIDEÓPÓKER JÁTÉK
+f71bdfb	Jacks or Better  •  teljes 9/6-os tábla
+4a6c087	JACKS OR BETTER  •  A ROYAL FLÖS 800×-OT FIZET
+370a133	A nyerőgépek a jobb fal mentén vannak, a videópóker a hátsó falnál, a rulett pedig hátul.
+8298d28	A hold'em a bal hátsó sarokban van, a báron túl.
+a2a111f	A baccarat rögtön balra van a bejáratnál.
+b7193bc	A sic bo a pénztár utáni sarokban van: három kocka, nagy vagy kicsi.
+25320c8	A craps asztal jobbra van, a nyerőgépek előtt. Tégy a Pass Line-ra, és dobj!
+dc81691	Szófia
+4d9936f	Elena
+3aa0674	Mia
+b724114	Valentina
+34d3f7f	Chloé
+0fc9dd6	Izabella
+bbd3e35	Nádia
+eac677d	Aria
+baaf10f	Luna
+8641381	Kamilla
+eeee9b7	Aurora
+8a59f05	Bianka
+5a0fc29	Serena
+bf38aa5	Marco
+cfaf50a	Leó
+5815f22	Adrián
+cbede02	Lukács
+f0b9995	Viktor
+7b37259	Dániel
+aaac72d	Gábriel
+2f8f37e	Ethan
+a01126e	Julián
+3e05c90	Ráfael
+e1ae457	Mateo
+3398634	Nico
+7aa2d07	Enzo
+1920e2f	Nyitó dobás: tégy a Pass Line-ra, majd dobj. 7 vagy 11 nyer; 2, 3 vagy 12 veszít. A place fogadások csak akkor kezdenek működni, ha van pont.
+99f4934	LUCKY ACE 7s  •  AKÁR A VONALTÉTED 2 500-SZOROSÁT FIZETI

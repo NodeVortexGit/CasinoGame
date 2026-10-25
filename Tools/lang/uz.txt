@@ -1,0 +1,659 @@
+# Uzbek (uz). Machine translation by Claude.
+bd99124	Bir hovuch fishka
+c7c6dc8	Bir dasta fishka
+7512cfd	Bir patnis fishka
+fa36588	Bir javon fishka
+7994f65	ENG MASHHUR
+49dcc21	Fishka xazinasi
+0725283	Katta o‘yinchi seyfi
+7658705	ENG FOYDALI
+2f23432	Gazli suv
+418b820	Espresso
+97b463c	Energetik ichimlik
+43bbfda	Klub sendvichi
+bce7a75	Burger taomi
+2832a8d	Steyk kechki ovqati
+dee8ee8	TO‘LIQ TO‘LDIRISH
+a7c2255	Omadli seriya
+7919163	Qaynoq seriya
+74fdfc2	ENG KO‘P OMAD
+d79cd12	Bronza stol
+2a8ff35	Kumush stol
+51877b2	Oltin stol
+9282152	Olmos stol
+0de8764	To‘g‘ri yilni kiriting.
+d4e14c9	To‘g‘ri oyni kiriting (1-12).
+addd156	To‘g‘ri kunni kiriting.
+d78a4f4	Bu sana kelajakda.
+787c7c6	Stolimga xush kelibsiz! O‘ynashga tayyormisiz?
+8b0f93e	Sizni ko‘rganimdan xursandman. O‘tiring!
+8338021	Salom! Kartalar yangi, men ham.
+75750f9	Xush kelibsiz! Keling, bu kechani ajoyib qilamiz.
+95aac36	Tayyor bo‘lganingizda tikishni qo‘ying.
+8bc63c1	Fishkalar stolga, kartalarni ko‘ramiz.
+984b7f3	Nima uchun o‘ynaymiz?
+b74c769	Voy, katta tikish! Uslubingiz menga yoqadi.
+77fc1fc	Mana bu tikish. Boshladik!
+7779a5b	Bugun kechqurun jasursiz, a?
+479ff82	Hammasimi?! Yuragim urib ketyapti!
+7fb527c	Hammasi bitta qo‘lga. Qo‘rqmasdan!
+7bf0c5d	Blackjack! Aql bovar qilmaydi!
+123f2d5	Yigirma bir, shunchaki!
+cd850a7	Blackjack! Kartalar bugun sizni yaxshi ko‘radi.
+55f50ee	Zo‘r o‘ynadingiz!
+79594b1	G‘olib! Barakalla.
+0df710e	Ishlaringiz yurishib ketdi!
+20a0c1e	Bu sizniki.
+a45fe61	Qanday g‘alaba! Hamma bu stolga qarayapti!
+54d3982	Ulkan! Bugun yonib turibsiz!
+8da8f1e	Juda yaqin edi! Keyingisi sizniki.
+5d921e1	Bu safar kazinoga omad kuldi.
+f923af7	Qo‘ying, yangi qo‘l kelyapti.
+853e7ca	Voy, bitta karta ortiqcha.
+daec44f	Oshib ketdingiz! Eng zo‘rlar bilan ham bo‘ladi.
+11ceaef	Durang. Hech kim yutqazmaydi!
+911a289	Durang. Fishkalaringiz xavfsiz.
+a89d9d9	Men oshib ketdim! Omadingiz bor.
+f76c8fd	Menga ko‘p bo‘ldi. Siz yutdingiz!
+63f8d0b	Kazino uchun blackjack, kechirasiz!
+465c8bf	Dilerda blackjack. Omadsizlik.
+6752f40	Tuz ko‘rsatyapman. Sug‘urta?
+1920c5a	Bo‘lamiz! Yutish uchun ikki imkoniyat.
+9f621da	Ikki baravar. Jasur qadam!
+59da99d	Ikki baravar qiling! Bitta karta keladi.
+0b48017	Yangi poyabzal, aralashtiryapman!
+3fa7769	Kamayib qoldimi? Kassa sizni to‘ldiradi.
+4e5694b	Fishkalar kamaymoqda. Yana olasizmi?
+d41f057	Fishkalar tugadi! Kassaga boring yoki bepul fishka oling.
+15d90d3	Dastangiz bo‘sh. Kassa aynan orqangizda.
+a9eaae1	Juda charchagan ko‘rinasiz! Barda biror narsa yeng.
+5cd9e8b	Kuchingiz tugadimi? Bar sizga g‘amxo‘rlik qiladi.
+37b9672	Shoshilmang.
+c64df8c	Qachon tayyor bo‘lsangiz!
+b8dfc0a	Tun hali yosh.
+8748560	Yangi boshlovchi omadi siz bilan!
+e3def50	Bugun kartalar siz tomonda!
+506ade9	Yangi boshlovchi omadi tugadi. Bundan buyon o‘yin adolatli!
+953d8b7	Kazinoga xush kelibsiz! O‘rningiz sizni kutmoqda.
+9fd9844	Xayrli kech! Bugun stollar qizg‘in.
+2d42aaf	Yana xush kelibsiz! Omadli his qilyapsizmi?
+311bae7	O‘ynashni boshlash uchun stolga bosing!
+3318099	Ko‘proq fishka kerakmi? To‘g‘ri darchaga keldingiz.
+c5b3787	Kattaroq dastalar, kattaroq bonuslar!
+21ae665	Ochmisiz? Menyudan istaganingizni tanlang.
+8b83cc0	Ozgina ovqat energiyangizni yuqori tutadi!
+35f4b0e	Stolimga xush kelibsiz!
+8f90245	Mana siz! Bu yer allaqachon yorishib ketdi.
+909e4d6	O‘zingizni uydagidek his qiling. Bugun kecha hammasi siz uchun.
+2477f78	Bu tabassumni yaxshi ko‘raman. Omadli kechami?
+6ac2120	Bo‘shashing, bu yerda ishonchli qo‘ldasiz.
+089f04b	Hoy, siz! Darchamga kirib o‘tasiz deb umid qilgandim.
+3f2c3c9	Do‘stona yuzni ko‘rish doim yoqimli.
+3021db8	Qarang, kim kelibdi! Maza qilyapsizmi?
+769980b	Salom, chiroyli!
+5361ffd	Bugun uslubingiz menga yoqadi.
+56b40be	Hoy, sizni yana ko‘rganimdan xursandman!
+3316019	Kechangiz yaxshimi? Bunga loyiqsiz.
+28283fd	Ehtiyot bo‘ling, sizga muxlislik qilishni boshlashim mumkin.
+109ac94	Sevimli o‘yinchim qaytdi!
+acba0e6	Yonimga o‘tiring, sizga chiroyli narsa tarqataman.
+eb5ff2a	Siz bilan bu stol ancha qiziqarli.
+772a73c	Ketyapsizmi? Tun hali yosh!
+178301a	Qani, yana bitta qo‘l. Yaxshi sezgim bor!
+816036a	Meni hozir tashlab keta olmaysiz, endi boshladik!
+5c9b7e2	Oxirgi imkoniyat! Keyingi qo‘l katta bo‘lishi mumkin...
+20ce7b6	Mayli, mayli. O‘rningizni iliq saqlayman. Qaytishga va’da berasizmi?
+51d1aeb	Hali seriya yo‘qmi? Bugun raund o‘ynang ({2}) va men sanashni boshlayman.
+10b25d9	Yangi boshlanish! Raundlar ({2}) va alangangiz yonadi.
+0c10711	Har kuni keladiganlarning kichik ro‘yxatini yuritaman. Siz unda yo‘qsiz... hozircha.
+5e7c431	{1}-kun sizni kutmoqda. Qolgan raundlar: {2}!
+b268d84	Ketma-ket kunlar: {0}... hozir to‘xtamaysiz-ku, a?
+b32ae79	Alangangiz bugun biroz sovuq ko‘rinadi. Raundlar ({2}) uni isitadi.
+a6f3fbd	Sanab yuribman: {0} kun. Keling, {1} qilamiz.
+1dc5c97	Sezmadim deb o‘ylamang. Seriyani saqlash uchun qolgan raundlar: {2}!
+807b82c	Ketma-ket kunlar: {0}? Bu yer sizga yoqayotganga o‘xshaydi.
+6391923	Seriyangiz bugun uchun xavfsiz. Endi shunchaki maqtanyapsiz.
+3bfbbf7	{0}-kun tayyor. Ertaga shu vaqtdami?
+ca2a2c1	{0} kun! Sizga joy saqlab qo‘yishim kerak.
+54f991f	Mana: seriyangizning birinchi kuni! Ertaga qayting, ikki qilamiz.
+a1e7ab0	Butun hafta ketma-ket! Rostdan ham hayratdaman.
+96cee95	O‘ttiz kun! Deyarli shu yerda ishlaysiz.
+a9834cd	Yuz kun. Hammaga siz haqingizda gapiraman.
+071317f	Allaqachon ketma-ket {0} kun! O‘zingizga qarang.
+0964027	Seriya saqlab qolindi: {0}-kun! Uddalashingizni bilardim.
+c7f2a1f	{0}-kun! Garov o‘ynayman, {1}-kunga yetmaysiz.
+a6ce2e2	{0} kun... mayli, maqtanchoq.
+3ab91d0	10 qo‘l blackjack o‘ynang
+38e863d	5 qo‘l blackjackda yuting
+6ac41cc	Blackjack yig‘ing
+74cf149	Blackjackda 500 fishka yuting
+66440e1	Slotlarni 20 marta aylantiring
+9205056	5 slot aylanishida yuting
+cd60e0c	Slotlarda tikishingizning 5 baravarini yuting
+6f7ac28	5 raund ruletka o‘ynang
+6978cc0	3 ruletka aylanishida yuting
+c8ebbcc	Bitta raqamni to‘g‘ridan-to‘g‘ri toping
+8a57c54	GPS joylashuvi
+4919635	mobil tarmoq
+527b094	internet aloqasi
+f49ae82	qurilma sozlamalari
+60827d3	test mamlakati
+0b2f8d8	tasdiqlanmagan (standart narx)
+50d8b4a	noma’lum
+4fb7a4e	1-12
+647a0eb	2-12
+a934745	3-12
+3de80ab	2 ga 1
+bb4e68e	QIZIL
+a9414ab	QORA
+710756a	TOQ
+70ca748	JUFT
+4d60d6c	MAMLAKATINGIZ UCHUN ADOLATLI NARXLAR
+1674d95	Do‘kon narxlari mamlakatingiz iqtisodiyotiga moslashtiriladi, shunda o‘yinchilar hamma joyda adolatli narx to‘laydi.
+4ec27ee	Mamlakatingizni aniqlash uchun taxminiy joylashuvingizni bir marta tekshiramiz. U qurilmangizda mamlakatga moslanadi va hech qayerga yuborilmaydi. Rad etsangiz, standart narxlar qo‘llaniladi.
+ff3dbb4	DAVOM ETISH
+43a6a8d	Kazinodan chiqasizmi?
+ad209a0	Fishkalaringiz va yutuqlaringiz saqlandi.
+5860c84	CHIQISH
+f1e0808	QOLISH
+5b38c49	Ochildi: {0}
+15ae7ac	Seriya muzlatgichi kecha {0} kunlik seriyangizni saqlab qoldi.
+d375ffb	Muzlatgichlar ({0}) {1} kunlik seriyangizni saqlab qoldi.
+fd8ab39	{0} kunlik seriyangiz tugadi. Yangisini boshlash uchun bugun raund o‘ynang ({1})!
+7fa2db4	VAZIFA BAJARILDI
+255325c	+{0} fishka
+d205ece	BARCHA VAZIFALAR BAJARILDI!
+4acbed2	Kunlik bonus +{0} fishka. Yangi vazifalar ertaga.
+ab2ceb3	DARAJA {0}!
+86e2afb	Bosqich! +{0} fishka
+9ae18ad	Davom ettirish uchun ertaga qayting
+7af7e7c	+1 seriya muzlatgichi
+b5b9597	{0} KUNLIK SERIYA!
+62ec60d	Bu versiyada xaridlar mavjud emas.
+1f9786c	Xarid amalga oshmadi. Sizdan pul yechilmadi.
+3e4c600	+{0} fishka qo‘shildi!
+1998202	{0}: {1} qo‘l, {2}% omad, yangi boshlovchi omadidan keyin
+728ada5	{0}: {1} qo‘l, {2}% omad!
+af5e232	{0}: +{1}% energiya
+001a53b	Bu qurilmada mavjud emas
+2607004	Bu tarmoqda videolar yuklanmaydi
+569c30d	Ertaga qayting
+ecae6ee	{0} soniyadan keyin tayyor
+9964820	+{0} fishka (bugun {1} qoldi)
+e1bd888	+{0} bepul fishka!
+619bd5d	+1 seriya muzlatgichi!
+f70d794	Hozircha video yo‘q. Birozdan keyin qayta urinib ko‘ring.
+264d71b	BRONZA
+462e839	KUMUSH
+81ff70a	OLTIN
+50e122e	OLMOS
+57f5f5e	Menyu
+69bd4ef	Ko‘rinish
+dbfe736	Xoch
+1cc7820	Doira
+82810cb	Kvadrat
+73d3ae2	Uchburchak
+a42f608	Hududingiz tekshirilmoqda...
+1db422c	Tasdiqlanmagan ({0}): standart narxlar
+9bc0807	{0} ({1}): narxlar {2} da
+ae8c393	Eslatmalar
+aefd59b	Bepul fishkalar tayyor va seriya eslatmalari
+3125838	Bepul fishkalaringiz tayyor
+233027b	Lucky Ace’da sizni {0} fishka kutmoqda.
+b93976b	{0} kunlik seriyangizni saqlang
+bd68038	Yarim tunda nolga tushmasligi uchun bugun raund o‘ynang ({0}).
+0acfb6f	Xush kelibsiz! Bugun yangi boshlovchi omadi siz bilan. Tikish qo‘ying!
+d589374	BLACKJACK 3 GA 2 TO‘LAYDI   •   DILER BARCHA 17 DA TO‘XTAYDI   •   SUG‘URTA 2 GA 1 TO‘LAYDI
+b700b02	TIKISH
+16ec74f	TOZALASH
+928226b	QAYTA TIKISH
+55591e0	TARQATISH
+395ed46	KARTA
+43e7971	TO‘XTASH
+097274c	IKKI BARAVAR
+6df63ca	BO‘LISH
+3e40f46	SUG‘URTALASH
+db82d3a	YO‘Q, RAHMAT
+28d6be8	TIKISH {0}+
+9587b70	Stol maksimumiga yetildi
+b9ac47d	Fishka yetarli emas
+d237ade	Diler tuz ko‘rsatmoqda. {0} ga sug‘urtalaysizmi?
+bf07c14	Sug‘urta to‘laydi: {0}
+b6e674a	Dilerda blackjack yo‘q. Sug‘urta yo‘qoldi.
+0cc9679	OSHIB KETDI
+82ce89d	DILER OSHIB KETDI
+6e1e1a4	BLACKJACK!
+662fae5	G‘ALABA
+8918d00	DURANG
+8df6be4	MAG‘LUBIYAT
+9e69668	Yangi boshlovchi omadi tugadi. Omadli seriyangiz hozir boshlanadi.
+822f4f4	Yangi boshlovchi omadi tugadi. Bundan buyon standart blackjack.
+b0377c7	Omadli seriyangiz tugadi. Standart blackjackka qaytamiz.
+824ad7c	FISHKALAR TUGADI
+ff1822d	{0} bepul fishka uchun qisqa video ko‘ring yoki kassaga boring.
+e4cac2f	Fishkalaringizni to‘ldirish uchun kassaga boring.
+c3df3e7	BEPUL FISHKALAR
+b169d33	KASSA
+4d38f66	KEYINROQ
+cb8171b	Avval bu qo‘lni tugating.
+3aa6941	“{0}”
+6f846f4	YANA BIR QO‘L
+a79d4f2	KETISH
+693f697	YANGI BOSHLOVCHI OMADI
+641ad58	OMADLI SERIYA
+fc45931	Yangi o‘yinchilar uchun xush kelibsiz bonusi: birinchi <b>{0} qo‘l</b> davomida diler poyabzali sizning foydangizga terilgan, shuning uchun deyarli har bir qo‘lni yutasiz.
+576c683	Keyingi <b>{0} qo‘l</b> davomida ustunlik asta-sekin so‘nadi, so‘ngra har bir stol aralashtirilgan 6 to‘plamli poyabzaldan tarqatiladigan standart, adolatli blackjack bo‘ladi (blackjack 3 ga 2 to‘laydi, diler barcha 17 da to‘xtaydi).
+7fb55b3	Hozirgi ustunlik: <b><color=#7CFC9A>{0}%</color></b>   Qolgan qo‘llar: <b>{1}</b>
+d4f8fe0	Keyingi <b>{0} blackjack qo‘lida</b> <b>{1} fishka</b>gacha tikish bilan har bir kartaning sizning foydangizga tushish imkoniyati <b>{2}%</b> (yangi boshlovchi omadi bilan bir xil ustunlik).
+0a5fc06	Yaxshi o‘yinda bu qo‘llarning taxminan <b>{0}%</b> ini yutadi, standart blackjackda esa taxminan {1}%. Kattaroq tikishlar standart blackjack bo‘lib, qo‘llarni sarflamaydi. Qo‘llar tugagach, har bir stol yana standart, adolatli blackjack bo‘ladi.
+c3a8946	TUSHUNDIM
+8dfc44a	OMADINGIZNI QAYTARMOQCHIMISIZ?
+272a97f	Yangi boshlovchi omadi tugadi: bundan buyon har bir stol standart, adolatli blackjack. Omadli seriya ustunlikni bir muddatga qaytaradi.
+06b7689	KUNLIK
+4035996	KUNLIK SERIYA
+fbe7f18	KETMA-KET KUN
+7a46866	BUGUN
+4753707	REKLAMA KO‘RISH
+6bb45f3	SOTIB OLISH
+62a945f	SERIYA MUZLATGICHI
+ba5b1de	Seriya muzlatgichi o‘ynamagan kuningizda seriyangizni saqlaydi. {0} tagacha saqlashingiz mumkin.\n\n{1} fishkaga bittasini olasizmi?
+38c6090	Seriya muzlatgichi tayyor.
+8fe681f	Muzlatgich uchun fishka yetarli emas.
+1507c40	BEKOR QILISH
+457d20f	KUNLIK AYLANTIRISH
+9623247	AYLANTIRISH
+ac5ef96	Imkoniyatlar:
+1200f20	{0}%
+003a689	Siz {0} fishka yutdingiz!
+f757137	BUGUNGI VAZIFALAR
+7b7f9e2	Rekord: {0} kun
+9554fea	Seriya qurish uchun har kuni o‘ynang
+5c8dbb8	Bugungi maqsad bajarildi! Ertaga ko‘rishamiz.
+1aeb9a1	Bugun: {0} / {1} raund (istalgan o‘yin)
+bb92856	Seriya muzlatgichlari: {0} / {1}
+0ec6216	O‘tkazib yuborgan kuningizda seriyani saqlang. Har 7 kunda +1.
+cc0a745	TO‘LIQ
+419a962	VIDEO YO‘Q
+2dabd99	REKLAMA TEZ ORADA
+f12e166	Seriya bonusi: sovrinlar ×{0}
+80948a4	Har kuni bitta bepul aylantirish
+596b5e0	KEYINGI  {0}
+7f7e7fc	Hammasi bajarildi! Bonus olindi.
+03a0f2a	Yangi vazifalar yarim tunda.
+4784874	Uchalasini bajaring: +{0} bonus fishka
+42c5cda	O‘YNASH
+337211e	O‘YINLAR
+8f5e3bd	Yurish uchun chapda suring  •  Qarash uchun o‘ngda suring  •  Borish uchun bosing
+d00d221	Faqat 18+  •  Fishkalar ko‘ngilochar uchun: pul qiymati yo‘q, hech qachon pul yoki sovringa almashtirilmaydi
+b60f038	Eshiklar ochilmoqda...
+2e5bcce	Xush kelibsiz! {0} ta xush kelibsiz fishkangiz tayyor. Stollar to‘g‘ri oldinda!
+7ef7ae3	+{0} bepul fishka! Yana {1} soatdan keyin.
+5d82af9	Bepul fishkalar har {0} soatda to‘ladi. Keyingisi {1} dan keyin.
+5469985	{0} soat {1} daq
+bb65beb	{0} daq {1} son
+ac8ba93	SERIYANGIZNI SAQLANG
+560bfa1	Hali o‘ynamagan kechqurunlaringizda va bepul fishkalaringiz tayyor bo‘lganda eslatma kerakmi? Bundan ortiq hech qachon, va uni Sozlamalarda o‘chirib qo‘yishingiz mumkin.
+b724a40	ESLATING
+9e0c898	+{0} fishka tayyor!
+1207e28	Video ko‘ring: {0}
+db3655b	Keyingi bepul fishkalar {0} dan keyin
+4ca9be5	BLACKJACK
+9a612b1	4 stol  •  3 ga 2 to‘laydi
+1194439	SLOTLAR
+6555152	Lucky Ace 7s  •  10 chiziq
+255b1a1	RULETKA
+6df1551	Yevropa, bitta nol bilan
+379b146	SIZ JUDA CHARCHADINGIZ
+340e5c4	Energiya chizig‘ingiz bo‘sh. O‘ynashni davom ettirish uchun bardan biror narsa oling yoki keyinroq qayting: siz yo‘qligingizda energiya sekin tiklanadi.
+a517396	BARGA BORISH
+7c7227f	STOLINGIZNI TANLANG
+c963de3	TIKISHLAR
+c433657	DARAJA {0}
+083ac39	O‘TIRISH
+9698219	KERAK: {0}
+34b737e	Bu yerda o‘ynash uchun {0}-darajaga yeting. Sizning darajangiz {1}.
+6cc19a9	KAZINO
+6e946b7	KK
+4a3a892	OO
+2857a6a	YYYY
+9d1fece	KUN
+d3bb0c3	OY
+c0f0cad	YIL
+43985ff	QACHON TUG‘ILGANSIZ?
+293fda2	Fishkalar faqat ko‘ngilochar uchun. Ularning pul qiymati yo‘q va hech qachon pul yoki sovringa almashtirib bo‘lmaydi.
+3e9128d	KECHIRASIZ, SIZ O‘YNAY OLMAYSIZ
+b5e8985	{0} faqat kattalar uchun.
+bb1b380	CHIQISH
+d9f9432	{0} dan keyin yopiladi...
+c6e102d	O‘ZINGIZ HAQINGIZDA AYTING
+31120ce	Sizga mos boshlovchilar, dilerlar va bar xodimlarini tanlaymiz. Buni istalgan vaqtda Sozlamalarda o‘zgartirishingiz mumkin.
+49e8df9	MEN ERKAKMAN
+85abe81	MEN AYOLMAN
+76cc98c	AYTMASLIKNI AFZAL KO‘RAMAN
+964daf7	KAZINOGA KIRISH
+2efb69a	Bugungi xodimlaringiz:
+c10e749	Sahifa {0} / {1}
+2a3ffd9	TIL
+c673535	AVTOMATIK
+d1245d2	MAMLAKAT
+15fc12b	Xush kelibsiz! Tikishlaringizni qo‘ying, iltimos.
+531fb3f	Bu tikish uchun fishka yetarli emas.
+380eb75	Stol limiti har aylantirish uchun {0}.
+55ad592	BEKOR QILISH
+8f191f9	JAMI TIKISH  {0}
+82e1181	Fishka qo‘yish uchun taxtaga bosing
+bb19a75	Tikishlar qabul qilinmaydi!
+5becf07	YASHIL
+bc74f4f	yashil
+7898801	qizil
+466bc8c	qora
+f2edfbf	Qanday zarba! Tabriklaymiz!
+b252caf	G‘olib! Yutug‘ingiz: {0}.
+8587d14	YUTUQ  +{0}
+b862a2b	{0} {1}. Sizga qaytadi: {2}.
+a306d0a	QAYTARILDI  {0}
+af3134d	Bu safar yutuq yo‘q
+84122e7	Tikishlaringizni qo‘ying, iltimos.
+52205f4	Shar to‘xtaguncha kuting.
+c4b9243	SOZLAMALAR
+44d863e	UMUMIY
+2bbca79	GRAFIKA
+955c8b4	OVOZ
+c701f5f	TEGINISH
+efcc94a	SICHQONCHA
+8433628	KONTROLLER
+d868a50	TEBRANISH
+f8692c7	18+ • Fishkalarning pul qiymati yo‘q • Shriftlar: Bebas Neue, Poppins, Noto (SIL OFL) • Chegaralar: Natural Earth • Narx ma’lumotlari: Jahon banki
+da46447	KAZINO XODIMLARI
+594b81e	AYOLLAR
+69d3313	ERKAKLAR
+b4325d3	ARALASH
+414594a	ESLATMALAR
+6cac87b	Bepul fishkalar tayyor, va seriya tugashidan oldin kechki eslatma.
+e43b2e0	QAYTA TEKSHIRISH
+7c9e8f9	NARX HUDUDI
+495c70e	Eng tez: kazino chizilganidek, ortiqcha narsasiz.
+b052523	Sayqallangan pollar, yog‘och va oltin zalni aks ettiradi.
+6bd30d7	Kino ko‘rinishi: rang tuzatish, donadorlik, nur, yorug‘lik nurlari, jonli teri.
+21b6e1d	Kino obyektivi: fokus nigohingizni kuzatadi, chiroqlarda chiziqlar, nurlarda chang.
+fb7c2e8	SIFAT
+d8b9679	PAST
+f68525a	O‘RTA
+d77d0b2	YUQORI
+9289eee	ULTRA
+637e313	ANIQLIK
+2e7b141	Pastrog‘i yumshoqroq, lekin telefon kamroq qiziydi va batareyani tejaydi.
+93dcfb5	EKRAN REJIMI
+3c6eac3	TO‘LIQ EKRAN
+f3690b1	OYNA
+cfa6200	CHETLARNI SILLIQLASH
+ad50489	O‘CHIQ
+f178804	Kazinodagi notekis chetlarni silliqlaydi.
+4266288	KADR TEZLIGI
+d031ab0	{0} FPS
+a2b7514	30 FPS batareyani tejaydi va eski telefonlarni salqin saqlaydi.
+0babcee	V-SYNC
+6656e25	KO‘RISH MAYDONI
+244aadb	FPS NI KO‘RSATISH
+41c8f6e	UMUMIY OVOZ
+bf3af1f	MUSIQA
+bd80907	OVOZ EFFEKTLARI
+d098036	XODIMLAR OVOZI
+93c6484	Xodimlar gaplashayotganda chiqaradigan g‘o‘ng‘ir ovoz.
+16bf71a	FONDA OVOZSIZ
+85b2ee7	Boshqa oynada bo‘lganingizda kazino ovozini o‘chiradi.
+8e3634e	QARASH SEZGIRLIGI
+880dc05	Surish ko‘rinishni qanchalik tez burishi.
+750c60f	Sichqoncha bilan surish ko‘rinishni qanchalik tez burishi.
+8b988eb	QARASHNI TESKARI QILISH CHAP / O‘NG
+cacf0cc	QARASHNI TESKARI QILISH YUQORI / PAST
+2d13b68	TUGMALAR JOYLASHUVI
+50c3f10	AVTO
+b471e5c	MENYU / KO‘RINISHNI ALMASHTIRISH
+d9a59f1	DASTAK SEZGIRLIGI
+ec14343	O‘ng dastak ko‘rinishni qanchalik tez burishi.
+a79af23	DASTAKNI TESKARI QILISH CHAP / O‘NG
+acfc66e	DASTAKNI TESKARI QILISH YUQORI / PAST
+56bb461	KONTROLLER MASLAHATLARI
+51cf49a	Kontroller bilan o‘ynaganingizda har bir tugma nima qilishini ko‘rsatadi.
+dff7431	TEBRANISH
+34139ab	TELEFON
+15ee988	IKKALASI
+465cc91	Avto: ulangan bo‘lsa kontroller, aks holda telefon.
+f6fed84	TELEFON TEBRANISHI
+8e97fa7	TELEFON KUCHI
+486ba2d	KONTROLLER TEBRANISHI
+8008889	KONTROLLER KUCHI
+ea9233e	AVTOMATIK ({0})
+167dda7	{0} Sozlamalarni ochadi, {1} Kunlikni ochadi.
+29a4ef9	Kontroller ulanmagan.
+558ecd2	Ulandi: {0}. {1} tugmalari ko‘rsatilmoqda (o‘ngdagi A tasdiqlaydi).
+d6eee9e	Ulandi: {0}. {1} tugmalari ko‘rsatilmoqda.
+78525d5	BAR
+099db9f	OMAD
+b4a8b06	Fishkalar, omad va ovqat faqat ko‘ngilochar uchun virtual narsalar: pul qiymati yo‘q, pul yoki sovringa almashtirilmaydi.
+e2a28c9	Har bir kartaning sizning foydangizga tushish imkoniyati shunday, {0} fishkagacha blackjack tikishlarida (kattaroq tikishlar standart va qo‘llarni sarflamaydi). Yangi boshlovchi omadidan keyin boshlanadi; kuchliroq paketlar birinchi ishlatiladi.
+04fbc6d	Mamlakatingiz narxini olish uchun joylashuvga ruxsat bering
+2ae87fc	O‘yinning bu versiyasida xaridlar mavjud emas.
+8239a84	TEST DO‘KONI (haqiqiy pul emas)
+173d916	energiya
+b2c67eb	+{0}% FISHKA
+58e8011	{0} qo‘l
+ce80712	ularning taxminan {0}% ini yutadi
+c69e8ee	LUCKY ACE 7s
+fc99288	JAMI TIKISH
+c1c00cd	TO‘LOV JADVALI
+3930abd	OMAD!
+67b6973	Aylantirish uchun kamida 10 fishka kerak.
+5aa1edb	FISHKA OLISH
+f5a1812	Tikish to‘lay oladigan miqdorgacha kamaytirildi.
+5c63f61	MEGA YUTUQ!
+652544f	KATTA YUTUQ!
+91bc41c	QAYTARILDI {0}
+3714283	YUTUQ YO‘Q
+33c0faa	CHIZIQ {0}: {1} × {2} = {3}
+9f59e6e	{0} YULDUZ = {1}
+d6eee90	Gilos
+4459b79	Limon
+09fb6aa	Apelsin
+cb92e50	Olxo‘ri
+d419866	Qo‘ng‘iroq
+e496fd2	Bar
+63abb56	Yetti
+b3850e0	Olmos
+fc2b5a9	Tuz
+85a7de6	Yulduz
+c31b035	YULDUZLAR istalgan joyda to‘laydi: 5 = tikish ×{0}, 4 = tikish ×{1}, 3 = tikish ×{2}.
+f97509c	TUZ joker: yulduzdan boshqa har bir belgini almashtiradi.
+3e8bc69	Chiziq to‘lovlari chiziq tikishining (jami tikish ÷ 10) karralisi, birinchi barabandan chapdan o‘ngga.
+523f8dc	QAYTARISH: uzoq muddatda {0}%. Har bir aylantirish mustaqil va tasodifiy.
+e0c705d	Yurish
+b8db515	Qarash
+503d46d	Tugmalar
+c7f73bb	Sozlamalar
+728298d	Kunlik
+ab166bd	Sozlash
+76cdb95	Harakat
+8598222	Tanlash
+bbfa773	Yopish
+b52b36b	Orqaga
+ab37588	CHARCHAGAN
+9b11a09	YANGI BOSHLOVCHI OMADI {0}%
+0c94e98	{0} QO‘L QOLDI
+51ed273	OMADLI SERIYA {0}%
+3401470	{0} QO‘L  •  TIKISHLAR {1} GACHA
+f481cc6	DARAJA
+0139615	XUSH KELIBSIZ
+daad514	BOSHLOVCHI BILAN GAPLASHING
+bcefb10	Yo‘nalishlar va maslahatlar
+c28e782	FISHKALAR  •  BONUSLAR
+0c69ec4	FISHKA SOTIB OLISH
+78c0727	Kassa
+1737fab	KOKTEYLLAR  •  YENGIL TAOMLAR  •  ENERGIYA
+9e008ae	TAOM VA ICHIMLIKLAR
+f7881e8	Bar
+0e979ed	BLACKJACK 3 GA 2 TO‘LAYDI
+eea0d12	DILER 17 DA TO‘XTASHI SHART
+4db37bf	BLACKJACK O‘YNASH
+0ffdd99	{0} stol  •  tikishlar {1}–{2}
+b4f938b	SLOT O‘YNASH
+6b7caea	TIKISHLARINGIZNI QO‘YING
+26b1e39	RULETKA O‘YNASH
+910a1ed	Yevropa g‘ildiragi  •  to‘g‘ri raqam 35 ga 1 to‘laydi
+7ef0215	ICHIMLIK BUYURTIRISH
+fe38d73	Olib keladi: {0}
+f7b6306	{0} {1}-darajada ochiladi. Sizning darajangiz {2}: o‘ynagan har bir raundingiz hisoblanadi.
+d85f1ad	Bu stol kamida {0} fishka talab qiladi.
+cbfe016	Blackjack stollari to‘g‘ri oldinda. Biriga yaqinlashib o‘tiring!
+64d9faf	Kassa shu yerda, o‘ng tomoningizda, bar esa chap devor bo‘ylab.
+e4c6e0b	Charchadingizmi? Bardagi yengil taom energiyangizni darhol to‘ldiradi.
+d5ab68f	Poldagi istalgan joyga bosing, o‘sha yerga borasiz. O‘tirish uchun stolga bosing.
+cc21f74	KICHIK
+dc01dec	KATTA
+5fb90b0	ISTALGAN UCHLIK
+9c716f1	Hold'em stoli
+3b6ab84	8 qo‘l hold'em o‘yna
+6c617ca	4 qo‘l hold'em yut
+44ce500	10 qo‘l bakkara o‘yna
+b90cff7	5 qo‘l bakkara yut
+3e4dfa9	15 qo‘l video poker o‘yna
+854fe20	8 raund sic bo o‘yna
+dfddac1	4 raund sic bo yut
+2973ea7	Crapsda zarlarni 15 marta tashla
+737be17	Crapsda 4 marta yut
+4dbb81d	Video pokerda flesh yoki undan yaxshisini yig'
+19aa07b	Royal flesh
+cf83e72	Strit flesh
+d27ba03	Kare
+dbe8641	Ful xaus
+7c936d7	Flesh
+2501c65	Strit
+ca1a0d4	Uchlik
+6876b40	Ikki juft
+2537f88	Juft
+b4b323e	Yuqori karta
+f70bfdc	Valet yoki yuqori
+98fd5af	BAKKARA
+df66d5a	Bakkaraga xush kelibsiz! O‘yinchi, Bankir yoki Durang?
+5055efd	O‘YINCHI
+3f90696	DURANG
+0d75f63	BANKIR
+0ebd5a4	SO‘NGGI NATIJALAR
+511993d	O
+ae4f281	B
+c2c53d6	D
+781246e	Fishka tanlang, so‘ng O‘yinchi, Bankir yoki Durangga bosing
+11023a0	DURANG  {0}
+503d5f1	O‘YINCHI YUTDI  {0}–{1}
+0eb4be5	BANKIR YUTDI  {0}–{1}
+7859af1	CRAPS
+4083dbd	Crapsga xush kelibsiz! Pass Line'ga tikib, tashlang.
+d266326	OLTI
+c506f3a	TO‘QQIZ
+987f4e9	FIELD
+71c1b2b	2 3 4 9 10 11 12  •  2 va 12 ikki barobar to‘laydi
+d0ac294	ISTALGAN 7
+9b2f0c3	ISTALGAN CRAPS
+f62ac59	DON'T PASS BAR
+6080ade	1:1  •  12 durang
+c07247a	PASS LINE
+6229f78	ODDS
+29bf819	haqiqiy koeffitsiyent
+387d7a5	YONIQ
+229c9cc	Ochko bo‘lganda odds Pass Line ortiga qo‘yiladi.
+c2c8e82	Odds uchun Pass Line tikishi kerak.
+1784d43	Odds tikishingiz maksimumda.
+fdc3442	Chiziq tikishlari birinchi tashlashda qo‘yiladi.
+97ce95b	STOLDA  {0}
+a895ec0	Ochko {0}: uni 7 dan oldin yana tashlang. Pass Line ortidagi odds haqiqiy koeffitsiyentda to‘laydi.
+d9f9d65	TASHLASH
+bcf32ef	Ochko {0}.
+5b450b4	{0}! Ochko bajarildi. Yutuq!
+9746e08	Yetti chiqdi. Yangi tashlovchi, yangi birinchi tashlash.
+4fc4664	{0}, natural! Pass Line yutadi.
+203f466	{0}, craps. Chiziq yutqazadi.
+0f8e260	Zarlar to‘xtaguncha kuting.
+6a98cfe	STOLDAN KETASIZMI?
+8430088	Chiziq tikishingiz hali {0} ochkoda o‘ynamoqda. Hozir ketsangiz, uni yo‘qotasiz.
+0e138d1	HOLD'EM
+5e023be	Hold'em'ga xush kelibsiz! Ante qo‘ying, kartalarni ko‘ramiz.
+0cd62f5	ANTE
+5e9f331	BLIND
+3b935ab	BLIND TO‘LAYDI
+20713a4	Diler juft yoki undan yaxshisi bilan saralanadi
+d37267c	CHECK
+9a4e316	FOLD
+88313c4	TIKISH {0}×
+42c6fea	Ante {0} + blind {0}. Oshirish uchun yana {1} saqlang.
+1abb2f2	Ante uchun fishkalarga bosing. Blind teng.
+f541cec	Check, yoki antening uch yoki to‘rt barobari?
+fc74a79	Hozir antening 4× yoki 3× barobariga oshiring yoki check qilib, flopni ko‘ring.
+b687501	So‘nggi imkoniyat: antening 1× barobarini tiking yoki fold qilib, ante va blind'ni yo‘qoting.
+400009c	Hozir antening 2× barobarini tiking yoki check qilib, oxirgi ikki kartani ko‘ring.
+f4abdf9	Mana flop.
+0e51f2c	Turn va river.
+cc856d3	Qani, menda nima bor ekan.
+6ba1f3e	Diler saralanmadi: antengiz qaytadi.
+cf1fdc5	Fold qildingiz. Keyingi qo‘l sizniki.
+177fab0	Ultimate Texas Hold'em
+c4917b9	O‘yinchi, Bankir yoki Durang
+6e4fe7b	VIDEO POKER
+73cabd3	Jacks or Better
+91c4555	SIC BO
+d810061	Uchta zar  •  katta yoki kichik
+85ab7ec	Pass Line  •  Field  •  Odds
+35d8db6	Sic bo'ga xush kelibsiz! Katta, kichik yoki jasurroq narsami?
+3d05514	Stol limiti har tashlashga {0}.
+86ade94	SILKITISH
+b69304e	UCHLIK {0}!
+5d1bcc6	USHLANDI
+36a21ba	Tarqating, kerakli kartalarni ushlab qoling, bir marta almashtiring.
+99fa8e8	USHLASH
+249d1c0	MASLAHAT
+7aab1bd	ALMASHTIRISH
+5595eb4	Ushlab qolish uchun kartalarga bosing, so‘ng almashtiring.
+1c05db9	HOLD'EM O‘YNASH
+e353e5f	Ultimate Texas Hold'em  •  ante {0}–{1}
+6470369	BAKKARA O‘YNASH
+bbe0077	KATTA  •  KICHIK  •  UCHLIKLAR
+3ba448f	SIC BO O‘YNASH
+097c59c	Uchta zar  •  katta yoki kichik 1 ga 1 to‘laydi
+af2ca30	PASS LINE  •  FIELD  •  ODDS
+f18398e	CRAPS O‘YNASH
+eeede6d	Pass Line 1 ga 1 to‘laydi  •  odds haqiqiy koeffitsiyentda to‘laydi
+34e5170	VIDEO POKER O‘YNASH
+f71bdfb	Jacks or Better  •  to‘liq 9/6 jadval
+4a6c087	JACKS OR BETTER  •  ROYAL FLESH 800× TO‘LAYDI
+370a133	Slot mashinalari o‘ng devorda, video poker orqa devorda, rulet esa eng orqada.
+8298d28	Hold'em chap orqa burchakda, bardan o‘tib.
+a2a111f	Bakkara kirishda darhol chapda.
+b7193bc	Sic bo kassadan o‘tib burchakda: uchta zar, katta yoki kichik.
+25320c8	Craps stoli o‘ngda, slotlar oldida. Pass Line'ga tikib, tashlang!
+dc81691	Sofiya
+4d9936f	Yelena
+3aa0674	Mia
+b724114	Valentina
+34d3f7f	Chloe
+0fc9dd6	Izabella
+bbd3e35	Nadiya
+eac677d	Aria
+baaf10f	Luna
+8641381	Camila
+eeee9b7	Aurora
+8a59f05	Bianca
+5a0fc29	Serena
+bf38aa5	Marco
+cfaf50a	Leo
+5815f22	Adrian
+cbede02	Lucas
+f0b9995	Viktor
+7b37259	Daniel
+aaac72d	Gabriel
+2f8f37e	Ethan
+a01126e	Julian
+3e05c90	Rafael
+e1ae457	Mateo
+3398634	Nico
+7aa2d07	Enzo
+1920e2f	Birinchi tashlash: Pass Line'ga tiking, so‘ng tashlang. 7 yoki 11 yutadi, 2, 3 yoki 12 yutqazadi. Place tikishlari ochko chiqqandan keyin ishlay boshlaydi.
+99f4934	LUCKY ACE 7s  •  CHIZIQ TIKISHINGIZNING 2 500× GACHA TO‘LAYDI

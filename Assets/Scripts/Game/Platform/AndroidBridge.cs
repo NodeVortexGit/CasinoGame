@@ -48,6 +48,24 @@ namespace Casino.Platform
             return "";
         }
 
+        /// <summary>The phone's language as a BCP 47 tag, e.g. "bg-BG", "pt-BR", "zh-Hant-TW" ("" off Android).</summary>
+        public static string LocaleTag()
+        {
+#if UNITY_ANDROID && !UNITY_EDITOR
+            try
+            {
+                using (var locale = new AndroidJavaClass("java.util.Locale"))
+                using (var current = locale.CallStatic<AndroidJavaObject>("getDefault"))
+                    return current.Call<string>("toLanguageTag") ?? "";
+            }
+            catch (System.Exception e)
+            {
+                Debug.LogWarning("Locale tag lookup failed: " + e.Message);
+            }
+#endif
+            return "";
+        }
+
         public static string LocaleCountry()
         {
 #if UNITY_ANDROID && !UNITY_EDITOR

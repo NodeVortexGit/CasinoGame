@@ -1,0 +1,659 @@
+# Azerbaijani (az). Machine translation by Claude.
+bd99124	Bir ovuc fiş
+c7c6dc8	Bir qalaq fiş
+7512cfd	Bir sini fiş
+fa36588	Bir rəf fiş
+7994f65	ƏN POPULYAR
+49dcc21	Fiş xəzinəsi
+0725283	Böyük oyunçunun seyfi
+7658705	ƏN SƏRFƏLİ
+2f23432	Qazlı su
+418b820	Espresso
+97b463c	Enerji içkisi
+43bbfda	Klub sendviçi
+bce7a75	Burger yeməyi
+2832a8d	Steyk şam yeməyi
+dee8ee8	TAM DOLDURMA
+a7c2255	Uğurlu seriya
+7919163	İsti seriya
+74fdfc2	ƏN ÇOX UĞUR
+d79cd12	Bürünc masa
+2a8ff35	Gümüş masa
+51877b2	Qızıl masa
+9282152	Almaz masa
+0de8764	Düzgün il daxil edin.
+d4e14c9	Düzgün ay daxil edin (1-12).
+addd156	Düzgün gün daxil edin.
+d78a4f4	Bu tarix gələcəkdədir.
+787c7c6	Masama xoş gəldin! Oynamağa hazırsan?
+8b0f93e	Səni görməyə şadam. Otur!
+8338021	Salam! Kartlar təzədir, mən də elə.
+75750f9	Xoş gəldin! Gəl bu gecəni gözəl edək.
+95aac36	Hazır olanda mərcini qoy.
+8bc63c1	Fişlər masaya, gəl kartlara baxaq.
+984b7f3	Nəyə oynayırıq?
+b74c769	Vay, böyük mərc! Üslubun xoşuma gəlir.
+77fc1fc	Bax buna mərc deyərlər. Başlayaq!
+7779a5b	Bu gecə cəsursan, elə deyil?
+479ff82	Hamısı?! Ürəyim çırpınır!
+7fb527c	Hər şey bir ələ. Qorxmadan!
+7bf0c5d	Blackjack! İnanılmaz!
+123f2d5	İyirmi bir, elə belə!
+cd850a7	Blackjack! Kartlar bu gecə səni sevir.
+55f50ee	Gözəl oynadın!
+79594b1	Qalib! Əla.
+0df710e	İşlərin yaxşı gedir!
+20a0c1e	O sənindir.
+a45fe61	Nə qələbədir! Hamı bu masaya baxır!
+54d3982	Möhtəşəm! Bu gecə alovlanırsan!
+8da8f1e	Çox yaxın idi! Növbəti sənindir.
+5d921e1	Bu dəfə kazino şanslı oldu.
+f923af7	Fikir vermə, yeni əl gəlir.
+853e7ca	Ay, bir kart artıq.
+daec44f	Keçdin! Ən yaxşıların da başına gəlir.
+11ceaef	Heç-heçə. Heç kim uduzmur!
+911a289	Heç-heçə. Fişlərin təhlükəsizdir.
+a89d9d9	Mən keçdim! Şanslısan.
+f76c8fd	Mənə çox oldu. Sən qazandın!
+63f8d0b	Kazino üçün blackjack, bağışla!
+465c8bf	Diler blackjack yığdı. Şanssızlıq.
+6752f40	Tuz göstərirəm. Sığorta?
+1920c5a	Bölürük! Qazanmaq üçün iki şans.
+9f621da	İkiqat. Cəsur gediş!
+59da99d	İkiqat et! Bir kart gəlir.
+0b48017	Yeni ayaqqabı, qarışdırıram!
+3fa7769	Azalır? Kassa səni doldura bilər.
+4e5694b	Fişlər azalır. Daha istəyirsən?
+d41f057	Fişlər bitdi! Kassaya get və ya pulsuz fiş götür.
+15d90d3	Qalağın boşdur. Kassa düz arxandadır.
+a9eaae1	Çox yorğun görünürsən! Barda bir şey ye.
+5cd9e8b	Gücün tükənir? Bar səninlə maraqlanacaq.
+37b9672	Tələsmə.
+c64df8c	Nə vaxt hazır olsan!
+b8dfc0a	Gecə hələ gəncdir.
+8748560	Yeni başlayanın şansı səninlədir!
+e3def50	Bu gecə kartlar sənin tərəfindədir!
+506ade9	Yeni başlayanın şansı bitdi. Bundan sonra oyun ədalətlidir!
+953d8b7	Kazinoya xoş gəldin! Yerin səni gözləyir.
+9fd9844	Axşamın xeyir! Masalar bu gecə istidir.
+2d42aaf	Yenidən xoş gəldin! Özünü şanslı hiss edirsən?
+311bae7	Oynamağa başlamaq üçün masaya toxun!
+3318099	Daha çox fiş lazımdır? Düzgün pəncərəyə gəlmisən.
+c5b3787	Daha böyük qalaqlar, daha böyük bonuslar!
+21ae665	Acmısan? Menyudan istədiyini seç.
+8b83cc0	Bir az yemək enerjini yüksək saxlayır!
+35f4b0e	Masama xoş gəldin!
+8f90245	Budur sən! Burası artıq daha işıqlıdır.
+909e4d6	Özünü evdəki kimi hiss et. Bu gecə hər şey sənin üçündür.
+2477f78	O təbəssümü sevirəm. Şanslı gecə?
+6ac2120	Rahatla, burada etibarlı əllərdəsən.
+089f04b	Hey, sən! Pəncərəmə baş çəkəcəyinə ümid edirdim.
+3f2c3c9	Mehriban bir üz görmək həmişə xoşdur.
+3021db8	Bax kim gəlib! Əylənirsən?
+769980b	Salam, yaraşıqlı!
+5361ffd	Bu gecə üslubun xoşuma gəlir.
+56b40be	Hey, səni yenidən görməyə şadam!
+3316019	Gecən yaxşı keçir? Buna layiqsən.
+28283fd	Ehtiyatlı ol, sənə azarkeşlik etməyə başlaya bilərəm.
+109ac94	Sevimli oyunçum qayıtdı!
+acba0e6	Yanımda otur, sənə gözəl bir şey paylayım.
+eb5ff2a	Bu masanı daha əyləncəli edirsən.
+772a73c	Artıq gedirsən? Gecə hələ gəncdir!
+178301a	Gəl, cəmi bir əl də. Yaxşı hissim var!
+816036a	İndi məni tərk edə bilməzsən, təzə başlamışıq!
+5c9b7e2	Son şans! Növbəti əl böyük olan ola bilər...
+20ce7b6	Yaxşı, yaxşı. Yerini isti saxlayacağam. Qayıdacağına söz verirsən?
+51d1aeb	Hələ seriya yoxdur? Bu gün raund oyna ({2}) və saymağa başlayacağam.
+10b25d9	Yeni başlanğıc! Raundlar ({2}) və alovun yanır.
+0c10711	Hər gün gələnlərin kiçik siyahısını tuturam. Sən orada yoxsan... hələlik.
+5e7c431	{1}-ci gün səni gözləyir. Qalan raundlar: {2}!
+b268d84	Ardıcıl günlər: {0}... indi dayanmayacaqsan, elə deyil?
+b32ae79	Alovun bu gün bir az soyuq görünür. Raundlar ({2}) onu isidəcək.
+a6f3fbd	Sayıram: {0} gün. Gəl {1} edək.
+1dc5c97	Fikir vermədiyimi düşünmə. Seriyanı saxlamaq üçün qalan raundlar: {2}!
+807b82c	Ardıcıl günlər: {0}? Deyəsən burada xoşuna gəlir.
+6391923	Seriyan bu gün üçün təhlükəsizdir. İndi sadəcə özünü göstərirsən.
+3bfbbf7	{0}-ci gün tamam. Sabah eyni vaxtda?
+ca2a2c1	{0} gün! Sənə yer saxlamalıyam.
+54f991f	Budur: seriyanın ilk günü! Sabah qayıt, ikinci günü edək.
+a1e7ab0	Bütöv bir həftə ardıcıl! Həqiqətən heyran qaldım.
+96cee95	Otuz gün! Az qala burada işləyirsən.
+a9834cd	Yüz gün. Hamıya səndən danışıram.
+071317f	Artıq ardıcıl {0} gün! Özünə bax.
+0964027	Seriya xilas edildi: {0}-ci gün! Bacaracağını bilirdim.
+c7f2a1f	{0}-ci gün! Mərc gəlirəm ki, {1}-ə çatmayacaqsan.
+a6ce2e2	{0} gün... yaxşı, lovğa.
+3ab91d0	10 əl blackjack oyna
+38e863d	5 əl blackjack qazan
+6ac41cc	Blackjack yığ
+74cf149	Blackjack-də 500 fiş qazan
+66440e1	Slotları 20 dəfə fırlat
+9205056	5 slot fırlatmasında qazan
+cd60e0c	Slotlarda mərcinin 5 mislini qazan
+6f7ac28	5 raund rulet oyna
+6978cc0	3 rulet fırlatmasında qazan
+c8ebbcc	Bir rəqəmi düz tut
+8a57c54	GPS yeri
+4919635	mobil şəbəkə
+527b094	internet bağlantısı
+f49ae82	cihaz parametrləri
+60827d3	test ölkəsi
+0b2f8d8	təsdiqlənməyib (standart qiymət)
+50d8b4a	naməlum
+4fb7a4e	1-ci 12
+647a0eb	2-ci 12
+a934745	3-cü 12
+3de80ab	2-yə 1
+bb4e68e	QIRMIZI
+a9414ab	QARA
+710756a	TƏK
+70ca748	CÜT
+4d60d6c	ÖLKƏN ÜÇÜN ƏDALƏTLİ QİYMƏTLƏR
+1674d95	Mağaza qiymətləri ölkənin iqtisadiyyatına uyğunlaşdırılır ki, hər yerdə oyunçular ədalətli qiymət ödəsin.
+4ec27ee	Ölkəni tapmaq üçün təxmini yerini bir dəfə yoxlayırıq. O, cihazında ölkə ilə uyğunlaşdırılır və heç yerə göndərilmir. İmtina etsən, standart qiymətlər tətbiq olunur.
+ff3dbb4	DAVAM ET
+43a6a8d	Kazinodan çıxırsan?
+ad209a0	Fişlərin və irəliləyişin yadda saxlanıldı.
+5860c84	ÇIX
+f1e0808	QAL
+5b38c49	Açıldı: {0}
+15ae7ac	Seriya dondurması dünən {0} günlük seriyanı xilas etdi.
+d375ffb	Dondurmalar ({0}) {1} günlük seriyanı xilas etdi.
+fd8ab39	{0} günlük seriyan bitdi. Yenisinə başlamaq üçün bu gün raund oyna ({1})!
+7fa2db4	TAPŞIRIQ TAMAMLANDI
+255325c	+{0} fiş
+d205ece	BÜTÜN TAPŞIRIQLAR TAMAMLANDI!
+4acbed2	Gündəlik bonus +{0} fiş. Yeni tapşırıqlar sabah.
+ab2ceb3	SƏVİYYƏ {0}!
+86e2afb	Mərhələ! +{0} fiş
+9ae18ad	Davam etmək üçün sabah qayıt
+7af7e7c	+1 seriya dondurması
+b5b9597	{0} GÜNLÜK SERİYA!
+62ec60d	Bu versiyada alış-veriş mümkün deyil.
+1f9786c	Alış uğursuz oldu. Səndən pul tutulmadı.
+3e4c600	+{0} fiş əlavə edildi!
+1998202	{0}: {1} əl, {2}% şans, yeni başlayanın şansından sonra
+728ada5	{0}: {1} əl, {2}% şans!
+af5e232	{0}: +{1}% enerji
+001a53b	Bu cihazda mövcud deyil
+2607004	Videolar bu şəbəkədə yüklənmir
+569c30d	Sabah qayıt
+ecae6ee	{0} san. sonra hazırdır
+9964820	+{0} fiş (bu gün {1} qalıb)
+e1bd888	+{0} pulsuz fiş!
+619bd5d	+1 seriya dondurması!
+f70d794	Hazırda video yoxdur. Bir azdan yenidən cəhd et.
+264d71b	BÜRÜNC
+462e839	GÜMÜŞ
+81ff70a	QIZIL
+50e122e	ALMAZ
+57f5f5e	Menyu
+69bd4ef	Görünüş
+dbfe736	Xaç
+1cc7820	Dairə
+82810cb	Kvadrat
+73d3ae2	Üçbucaq
+a42f608	Regionun yoxlanılır...
+1db422c	Təsdiqlənməyib ({0}): standart qiymətlər
+9bc0807	{0} ({1}): qiymətlər {2} ilə
+ae8c393	Xatırlatmalar
+aefd59b	Pulsuz fişlər hazırdır və seriya xatırlatmaları
+3125838	Pulsuz fişlərin hazırdır
+233027b	Lucky Ace-də səni {0} fiş gözləyir.
+b93976b	{0} günlük seriyanı qoru
+bd68038	Gecə yarısı sıfırlanmasın deyə bu gün raund oyna ({0}).
+0acfb6f	Xoş gəldin! Bu gecə yeni başlayanın şansı səninlədir. Mərc qoy!
+d589374	BLACKJACK 3-Ə 2 ÖDƏYİR   •   DİLER BÜTÜN 17-LƏRDƏ DAYANIR   •   SIĞORTA 2-YƏ 1 ÖDƏYİR
+b700b02	MƏRC
+16ec74f	TƏMİZLƏ
+928226b	TƏKRAR MƏRC
+55591e0	PAYLA
+395ed46	KART
+43e7971	DAYAN
+097274c	İKİQAT
+6df63ca	BÖL
+3e40f46	SIĞORTALA
+db82d3a	XEYR, SAĞ OL
+28d6be8	MƏRC {0}+
+9587b70	Masanın maksimumuna çatıldı
+b9ac47d	Kifayət qədər fiş yoxdur
+d237ade	Diler tuz göstərir. {0} ilə sığortalanırsan?
+bf07c14	Sığorta ödəyir: {0}
+b6e674a	Dilerdə blackjack yoxdur. Sığorta itdi.
+0cc9679	KEÇDİN
+82ce89d	DİLER KEÇDİ
+6e1e1a4	BLACKJACK!
+662fae5	QƏLƏBƏ
+8918d00	HEÇ-HEÇƏ
+8df6be4	MƏĞLUBİYYƏT
+9e69668	Yeni başlayanın şansı bitdi. Uğurlu seriyan indi başlayır.
+822f4f4	Yeni başlayanın şansı bitdi. Bundan sonra standart blackjack.
+b0377c7	Uğurlu seriyan bitdi. Standart blackjack-ə qayıdırıq.
+824ad7c	FİŞLƏR BİTDİ
+ff1822d	{0} pulsuz fiş üçün qısa video izlə və ya kassaya get.
+e4cac2f	Fişlərini doldurmaq üçün kassaya get.
+c3df3e7	PULSUZ FİŞLƏR
+b169d33	KASSA
+4d38f66	SONRA
+cb8171b	Əvvəlcə bu əli bitir.
+3aa6941	“{0}”
+6f846f4	DAHA BİR ƏL
+a79d4f2	GET
+693f697	YENİ BAŞLAYANIN ŞANSI
+641ad58	UĞURLU SERİYA
+fc45931	Yeni oyunçular üçün xoş gəldin bonusu: ilk <b>{0} əl</b> boyunca dilerin ayaqqabısı sənin xeyrinə düzülüb, ona görə də demək olar ki, hər əli qazanacaqsan.
+576c683	Növbəti <b>{0} əl</b> ərzində üstünlük tədricən azalır, sonra isə hər masa 6 dəstəli qarışdırılmış ayaqqabıdan paylanan standart, ədalətli blackjack olur (blackjack 3-ə 2 ödəyir, diler bütün 17-lərdə dayanır).
+7fb55b3	İndiki üstünlük: <b><color=#7CFC9A>{0}%</color></b>   Qalan əllər: <b>{1}</b>
+d4f8fe0	Növbəti <b>{0} blackjack əlində</b> <b>{1} fişə</b> qədər mərclə hər kartın sənin xeyrinə gəlmə şansı <b>{2}%</b>-dir (yeni başlayanın şansı ilə eyni üstünlük).
+0a5fc06	Yaxşı oyunla bu, əllərin təxminən <b>{0}%</b>-ni qazanır, standart blackjack-də isə təxminən {1}%. Daha böyük mərclər standart blackjack-dir və əl xərcləmir. Əllər bitəndə hər masa yenidən standart, ədalətli blackjack olur.
+c3a8946	ANLADIM
+8dfc44a	ŞANSINI GERİ İSTƏYİRSƏN?
+272a97f	Yeni başlayanın şansı bitdi: bundan sonra hər masa standart, ədalətli blackjack-dir. Uğurlu seriya üstünlüyü bir müddət geri qaytarır.
+06b7689	GÜNDƏLİK
+4035996	GÜNDƏLİK SERİYA
+fbe7f18	ARDICIL GÜN
+7a46866	BU GÜN
+4753707	REKLAMA BAX
+6bb45f3	AL
+62a945f	SERİYA DONDURMASI
+ba5b1de	Seriya dondurması oynamadığın gün seriyanı qoruyur. {0} ədədə qədər saxlaya bilərsən.\n\nBirini {1} fişə alırsan?
+38c6090	Seriya dondurması hazırdır.
+8fe681f	Dondurma üçün kifayət qədər fiş yoxdur.
+1507c40	LƏĞV ET
+457d20f	GÜNDƏLİK FIRLATMA
+9623247	FIRLAT
+ac5ef96	Şanslar:
+1200f20	{0}%
+003a689	{0} fiş qazandın!
+f757137	BUGÜNKÜ TAPŞIRIQLAR
+7b7f9e2	Rekord: {0} gün
+9554fea	Seriya qurmaq üçün hər gün oyna
+5c8dbb8	Bugünkü məqsəd tamamlandı! Sabah görüşərik.
+1aeb9a1	Bu gün: {0} / {1} raund (istənilən oyun)
+bb92856	Seriya dondurmaları: {0} / {1}
+0ec6216	Buraxdığın gün seriyanı xilas et. Hər 7 gündən bir +1.
+cc0a745	DOLU
+419a962	VİDEO YOXDUR
+2dabd99	REKLAM TEZLİKLƏ
+f12e166	Seriya bonusu: mükafatlar ×{0}
+80948a4	Hər gün bir pulsuz fırlatma
+596b5e0	NÖVBƏTİ  {0}
+7f7e7fc	Hər şey hazırdır! Bonus toplandı.
+03a0f2a	Yeni tapşırıqlar gecə yarısı.
+4784874	Üçünü də tamamla: +{0} bonus fiş
+42c5cda	OYNA
+337211e	OYUNLAR
+8f5e3bd	Yerimək üçün solda sürüşdür  •  Baxmaq üçün sağda sürüşdür  •  Getmək üçün toxun
+d00d221	Yalnız 18+  •  Fişlər əyləncə üçündür: pul dəyəri yoxdur, heç vaxt pula və ya mükafata dəyişdirilmir
+b60f038	Qapılar açılır...
+2e5bcce	Xoş gəldin! {0} salamlama fişin hazırdır. Masalar düz qabaqdadır!
+7ef7ae3	+{0} pulsuz fiş! Daha çoxu {1} saatdan sonra.
+5d82af9	Pulsuz fişlər hər {0} saatdan bir dolur. Növbəti {1} sonra.
+5469985	{0} saat {1} dəq
+bb65beb	{0} dəq {1} san
+ac8ba93	SERİYANI QORU
+560bfa1	Hələ oynamadığın axşamlarda və pulsuz fişlərin hazır olanda xatırlatma istəyirsən? Bundan artıq heç vaxt, və Parametrlərdə söndürə bilərsən.
+b724a40	XATIRLAT
+9e0c898	+{0} fiş hazırdır!
+1207e28	Video izlə: {0}
+db3655b	Növbəti pulsuz fişlər {0} sonra
+4ca9be5	BLACKJACK
+9a612b1	4 masa  •  3-ə 2 ödəyir
+1194439	SLOTLAR
+6555152	Lucky Ace 7s  •  10 xətt
+255b1a1	RULET
+6df1551	Avropa, tək sıfırlı
+379b146	ÇOX YORĞUNSAN
+340e5c4	Enerji zolağın boşdur. Oynamağa davam etmək üçün bardan bir şey götür və ya sonra qayıt: sən yoxkən enerji yavaş-yavaş bərpa olunur.
+a517396	BARA GET
+7c7227f	MASANI SEÇ
+c963de3	MƏRCLƏR
+c433657	SƏVİYYƏ {0}
+083ac39	OTUR
+9698219	LAZIMDIR: {0}
+34b737e	Burada oynamaq üçün {0} səviyyəsinə çat. Sənin səviyyən {1}.
+6cc19a9	KAZİNO
+6e946b7	GG
+4a3a892	AA
+2857a6a	İİİİ
+9d1fece	GÜN
+d3bb0c3	AY
+c0f0cad	İL
+43985ff	NƏ VAXT DOĞULMUSAN?
+293fda2	Fişlər yalnız əyləncə üçündür. Onların pul dəyəri yoxdur və heç vaxt pula və ya mükafata dəyişdirilə bilməz.
+3e9128d	BAĞIŞLA, OYNAYA BİLMƏZSƏN
+b5e8985	{0} yalnız böyüklər üçündür.
+bb1b380	ÇIXIŞ
+d9f9432	{0} sonra bağlanır...
+c6e102d	ÖZÜN HAQQINDA DANIŞ
+31120ce	Sənə uyğun aparıcıları, dilerləri və bar işçilərini seçəcəyik. Bunu istənilən vaxt Parametrlərdə dəyişə bilərsən.
+49e8df9	MƏN KİŞİYƏM
+85abe81	MƏN QADINAM
+76cc98c	DEMƏMƏYİ ÜSTÜN TUTURAM
+964daf7	KAZİNOYA DAXİL OL
+2efb69a	Bu gecə işçilərin:
+c10e749	Səhifə {0} / {1}
+2a3ffd9	DİL
+c673535	AVTOMATİK
+d1245d2	ÖLKƏ
+15fc12b	Xoş gəlmisiniz! Mərclərinizi qoyun, xahiş edirəm.
+531fb3f	Bu mərc üçün kifayət qədər fiş yoxdur.
+380eb75	Masa limiti hər fırlatma üçün {0}.
+55ad592	GERİ AL
+8f191f9	ÜMUMİ MƏRC  {0}
+82e1181	Fiş qoymaq üçün lövhəyə toxun
+bb19a75	Mərclər qəbul olunmur!
+5becf07	YAŞIL
+bc74f4f	yaşıl
+7898801	qırmızı
+466bc8c	qara
+f2edfbf	Nə zərbədir! Təbriklər!
+b252caf	Qalib! Qazancın: {0}.
+8587d14	QAZANC  +{0}
+b862a2b	{0} {1}. Sənə geri qayıdır: {2}.
+a306d0a	QAYTARILDI  {0}
+af3134d	Bu dəfə qazanc yoxdur
+84122e7	Mərclərinizi qoyun, xahiş edirəm.
+52205f4	Top dayanana qədər gözlə.
+c4b9243	PARAMETRLƏR
+44d863e	ÜMUMİ
+2bbca79	QRAFİKA
+955c8b4	SƏS
+c701f5f	TOXUNUŞ
+efcc94a	SİÇAN
+8433628	KONTROLLER
+d868a50	VİBRASİYA
+f8692c7	18+ • Fişlərin pul dəyəri yoxdur • Şriftlər: Bebas Neue, Poppins, Noto (SIL OFL) • Sərhədlər: Natural Earth • Qiymət məlumatları: Dünya Bankı
+da46447	KAZİNO İŞÇİLƏRİ
+594b81e	QADINLAR
+69d3313	KİŞİLƏR
+b4325d3	QARIŞIQ
+414594a	XATIRLATMALAR
+6cac87b	Pulsuz fişlər hazırdır, və seriya bitməzdən əvvəl axşam xatırlatması.
+e43b2e0	YENİDƏN YOXLA
+7c9e8f9	QİYMƏT REGİONU
+495c70e	Ən sürətli: kazino çəkildiyi kimi, əlavə heç nə.
+b052523	Cilalanmış döşəmə, ağac və qızıl zalı əks etdirir.
+6bd30d7	Kino görünüşü: rəng korreksiyası, dənəvərlik, parıltı, işıq şüaları, canlı dəri.
+21b6e1d	Kino obyektivi: fokus baxışını izləyir, işıqlarda zolaqlar, şüalarda toz.
+fb7c2e8	KEYFİYYƏT
+d8b9679	AŞAĞI
+f68525a	ORTA
+d77d0b2	YÜKSƏK
+9289eee	ULTRA
+637e313	EKRAN İCAZƏSİ
+2e7b141	Aşağı olan yumşaqdır, amma telefon az qızır və batareyaya qənaət edir.
+93dcfb5	EKRAN REJİMİ
+3c6eac3	TAM EKRAN
+f3690b1	PƏNCƏRƏ
+cfa6200	KƏNAR HAMARLAMA
+ad50489	SÖNÜLÜ
+f178804	Kazinodakı kələ-kötür kənarları hamarlayır.
+4266288	KADR TEZLİYİ
+d031ab0	{0} FPS
+a2b7514	30 FPS batareyaya qənaət edir və köhnə telefonları sərin saxlayır.
+0babcee	V-SYNC
+6656e25	GÖRMƏ SAHƏSİ
+244aadb	FPS GÖSTƏR
+41c8f6e	ÜMUMİ SƏS
+bf3af1f	MUSİQİ
+bd80907	SƏS EFFEKTLƏRİ
+d098036	İŞÇİLƏRİN SƏSLƏRİ
+93c6484	İşçilərin danışarkən çıxardığı mırıltı.
+16bf71a	FONDA SƏSSİZ
+85b2ee7	Başqa pəncərədə olanda kazinonu susdurur.
+8e3634e	BAXIŞ HƏSSASLIĞI
+880dc05	Sürüşdürmənin görünüşü nə qədər tez döndərdiyi.
+750c60f	Siçanla sürüşdürmənin görünüşü nə qədər tez döndərdiyi.
+8b988eb	BAXIŞI TƏRS ET SOL / SAĞ
+cacf0cc	BAXIŞI TƏRS ET YUXARI / AŞAĞI
+2d13b68	DÜYMƏ DÜZÜLÜŞÜ
+50c3f10	AVTO
+b471e5c	MENYU / GÖRÜNÜŞ DƏYİŞ
+d9a59f1	ÇUBUQ HƏSSASLIĞI
+ec14343	Sağ çubuğun görünüşü nə qədər tez döndərdiyi.
+a79af23	ÇUBUĞU TƏRS ET SOL / SAĞ
+acfc66e	ÇUBUĞU TƏRS ET YUXARI / AŞAĞI
+56bb461	KONTROLLER İPUCLARI
+51cf49a	Kontrollerlə oynayanda hər düymənin nə etdiyini göstərir.
+dff7431	VİBRASİYA
+34139ab	TELEFON
+15ee988	HƏR İKİSİ
+465cc91	Avto: qoşulu olduqda kontroller, əks halda telefon.
+f6fed84	TELEFON VİBRASİYASI
+8e97fa7	TELEFON GÜCÜ
+486ba2d	KONTROLLER VİBRASİYASI
+8008889	KONTROLLER GÜCÜ
+ea9233e	AVTOMATİK ({0})
+167dda7	{0} Parametrləri açır, {1} Gündəliyi açır.
+29a4ef9	Kontroller qoşulmayıb.
+558ecd2	Qoşuldu: {0}. {1} düymələri göstərilir (sağdakı A təsdiqləyir).
+d6eee9e	Qoşuldu: {0}. {1} düymələri göstərilir.
+78525d5	BAR
+099db9f	ŞANS
+b4a8b06	Fişlər, şans və yemək yalnız əyləncə üçün virtual əşyalardır: pul dəyəri yoxdur, pula və ya mükafata dəyişdirilmir.
+e2a28c9	Hər kartın sənin xeyrinə gəlmək üçün belə şansı var, {0} fişə qədər blackjack mərclərində (daha böyük mərclər standartdır və əl xərcləmir). Yeni başlayanın şansından sonra başlayır; daha güclü paketlər əvvəl istifadə olunur.
+04fbc6d	Ölkənin qiymətini almaq üçün yerə girişə icazə ver
+2ae87fc	Oyunun bu versiyasında alış-veriş mümkün deyil.
+8239a84	TEST MAĞAZASI (real pul yoxdur)
+173d916	enerji
+b2c67eb	+{0}% FİŞ
+58e8011	{0} əl
+ce80712	onların təxminən {0}%-ni qazanır
+c69e8ee	LUCKY ACE 7s
+fc99288	ÜMUMİ MƏRC
+c1c00cd	ÖDƏNİŞ CƏDVƏLİ
+3930abd	UĞURLAR!
+67b6973	Fırlatmaq üçün ən azı 10 fiş lazımdır.
+5aa1edb	FİŞ AL
+f5a1812	Mərc ödəyə biləcəyin qədər azaldıldı.
+5c63f61	MEQA QAZANC!
+652544f	BÖYÜK QAZANC!
+91bc41c	QAYTARILDI {0}
+3714283	QAZANC YOXDUR
+33c0faa	XƏTT {0}: {1} × {2} = {3}
+9f59e6e	{0} ULDUZ = {1}
+d6eee90	Albalı
+4459b79	Limon
+09fb6aa	Portağal
+cb92e50	Gavalı
+d419866	Zəng
+e496fd2	Bar
+63abb56	Yeddi
+b3850e0	Almaz
+fc2b5a9	Tuz
+85a7de6	Ulduz
+c31b035	ULDUZLAR hər yerdə ödəyir: 5 = mərc ×{0}, 4 = mərc ×{1}, 3 = mərc ×{2}.
+f97509c	TUZ joker-dir: ulduzdan başqa hər simvolu əvəz edir.
+3e8bc69	Xətt ödənişləri xətt mərcinin (ümumi mərc ÷ 10) misilləridir, birinci barabandan soldan sağa.
+523f8dc	QAYTARMA: uzun müddətdə {0}%. Hər fırlatma müstəqil və təsadüfidir.
+e0c705d	Yeri
+b8db515	Bax
+503d46d	Düymələr
+c7f73bb	Parametrlər
+728298d	Gündəlik
+ab166bd	Tənzimlə
+76cdb95	Hərəkət
+8598222	Seç
+bbfa773	Bağla
+b52b36b	Geri
+ab37588	YORĞUN
+9b11a09	YENİ BAŞLAYANIN ŞANSI {0}%
+0c94e98	{0} ƏL QALIB
+51ed273	UĞURLU SERİYA {0}%
+3401470	{0} ƏL  •  MƏRCLƏR {1}-Ə QƏDƏR
+f481cc6	SƏVİYYƏ
+0139615	XOŞ GƏLMİSİNİZ
+daad514	APARICI İLƏ DANIŞ
+bcefb10	İstiqamətlər və məsləhətlər
+c28e782	FİŞLƏR  •  BONUSLAR
+0c69ec4	FİŞ AL
+78c0727	Kassa
+1737fab	KOKTEYLLƏR  •  QƏLYANALTILAR  •  ENERJİ
+9e008ae	YEMƏK VƏ İÇKİ
+f7881e8	Bar
+0e979ed	BLACKJACK 3-Ə 2 ÖDƏYİR
+eea0d12	DİLER 17-DƏ DAYANMALIDIR
+4db37bf	BLACKJACK OYNA
+0ffdd99	{0} masa  •  mərclər {1}–{2}
+b4f938b	SLOT OYNA
+6b7caea	MƏRCLƏRİNİZİ QOYUN
+26b1e39	RULET OYNA
+910a1ed	Avropa çarxı  •  düz rəqəm 35-ə 1 ödəyir
+7ef0215	İÇKİ SİFARİŞ ET
+fe38d73	Gətirəcək: {0}
+f7b6306	{0} {1} səviyyəsində açılır. Sənin səviyyən {2}: oynadığın hər raund sayılır.
+d85f1ad	Bu masa ən azı {0} fiş tələb edir.
+cbfe016	Blackjack masaları düz qabaqdadır. Birinə yaxınlaş və otur!
+64d9faf	Kassa elə buradadır, sağında, bar isə sol divar boyuncadır.
+e4c6e0b	Yorulmusan? Barda qəlyanaltı enerjini dərhal doldurur.
+d5ab68f	Döşəmədə istənilən yerə toxun, ora gedəcəksən. Oturmaq üçün masaya toxun.
+cc21f74	KİÇİK
+dc01dec	BÖYÜK
+5fb90b0	İSTƏNİLƏN ÜÇLÜK
+9c716f1	Hold'em masası
+3b6ab84	8 əl hold'em oyna
+6c617ca	4 əl hold'em qazan
+44ce500	10 əl bakkara oyna
+b90cff7	5 əl bakkara qazan
+3e4dfa9	15 əl video poker oyna
+854fe20	8 raund sic bo oyna
+dfddac1	4 raund sic bo qazan
+2973ea7	Crapsda zərləri 15 dəfə at
+737be17	Crapsda 4 atış qazan
+4dbb81d	Video pokerdə fləş və ya daha yaxşısını yığ
+19aa07b	Royal fləş
+cf83e72	Strit fləş
+d27ba03	Kare
+dbe8641	Ful haus
+7c936d7	Fləş
+2501c65	Strit
+ca1a0d4	Üçlük
+6876b40	İki cüt
+2537f88	Cüt
+b4b323e	Yüksək kart
+f70bfdc	Valet və ya yuxarı
+98fd5af	BAKKARA
+df66d5a	Bakkaraya xoş gəldin! Oyunçu, Bankir, yoxsa Heç-heçə?
+5055efd	OYUNÇU
+3f90696	HEÇ-HEÇƏ
+0d75f63	BANKİR
+0ebd5a4	SON NƏTİCƏLƏR
+511993d	O
+ae4f281	B
+c2c53d6	H
+781246e	Fiş seç, sonra Oyunçu, Bankir və ya Heç-heçəyə toxun
+11023a0	HEÇ-HEÇƏ  {0}
+503d5f1	OYUNÇU QAZANIR  {0}–{1}
+0eb4be5	BANKİR QAZANIR  {0}–{1}
+7859af1	CRAPS
+4083dbd	Crapsa xoş gəldin! Pass Line-a mərc qoy və at.
+d266326	ALTI
+c506f3a	DOQQUZ
+987f4e9	FIELD
+71c1b2b	2 3 4 9 10 11 12  •  2 və 12 iki qat ödəyir
+d0ac294	İSTƏNİLƏN 7
+9b2f0c3	İSTƏNİLƏN CRAPS
+f62ac59	DON'T PASS BAR
+6080ade	1:1  •  12 heç-heçədir
+c07247a	PASS LINE
+6229f78	ODDS
+29bf819	real əmsallar
+387d7a5	AÇIQ
+229c9cc	Xal olanda odds Pass Line-ın arxasına qoyulur.
+c2c8e82	Odds üçün Pass Line mərci lazımdır.
+1784d43	Odds mərcin maksimumdadır.
+fdc3442	Xətt mərcləri ilk atışda qoyulur.
+97ce95b	MASADA  {0}
+a895ec0	Xal {0}-dir: onu 7-dən əvvəl yenə at. Pass Line-ın arxasındakı odds real əmsalla ödəyir.
+d9f9d65	AT
+bcf32ef	Xal {0}-dir.
+5b450b4	{0}! Xal tutuldu. Qazandın!
+9746e08	Yeddi çıxdı. Yeni atan, yeni ilk atış.
+4fc4664	{0}, natural! Pass Line qazanır.
+203f466	{0}, craps. Xətt uduzur.
+0f8e260	Zərlər dayanana qədər gözlə.
+6a98cfe	MASADAN QALXIRSAN?
+8430088	Xətt mərcin hələ {0} xalında oynayır. İndi getsən, onu itirəcəksən.
+0e138d1	HOLD'EM
+5e023be	Hold'em-ə xoş gəldin! Ante qoy, kartlara baxaq.
+0cd62f5	ANTE
+5e9f331	BLIND
+3b935ab	BLIND ÖDƏYİR
+20713a4	Diler cüt və ya daha yaxşısı ilə kvalifikasiya olur
+d37267c	CHECK
+9a4e316	FOLD
+88313c4	MƏRC {0}×
+42c6fea	Ante {0} + blind {0}. Artırmaq üçün daha {1} saxla.
+1abb2f2	Ante üçün fişlərə toxun. Blind eynidir.
+f541cec	Check, yoxsa antenin üç və ya dörd qatı mərc?
+fc74a79	İndi antenin 4× və ya 3× qədər artır, ya da check edib flopa bax.
+b687501	Son şans: antenin 1× qədər mərc qoy, ya da fold et və ante ilə blind-i itir.
+400009c	İndi antenin 2× qədər mərc qoy, ya da check edib son iki karta bax.
+f4abdf9	Budur flop.
+0e51f2c	Turn və river.
+cc856d3	Görək məndə nə var.
+6ba1f3e	Diler kvalifikasiya olmadı: antin geri qayıdır.
+cf1fdc5	Fold etdin. Növbəti əl sənindir.
+177fab0	Ultimate Texas Hold'em
+c4917b9	Oyunçu, Bankir və ya Heç-heçə
+6e4fe7b	VİDEO POKER
+73cabd3	Jacks or Better
+91c4555	SIC BO
+d810061	Üç zər  •  böyük və ya kiçik
+85ab7ec	Pass Line  •  Field  •  Odds
+35d8db6	Sic bo-ya xoş gəldin! Böyük, kiçik, yoxsa daha cəsarətli bir şey?
+3d05514	Masa limiti hər atış üçün {0}-dir.
+86ade94	SİLKƏLƏ
+b69304e	ÜÇLÜK {0}!
+5d1bcc6	SAXLANDI
+36a21ba	Payla, istədiyin kartları saxla, bir dəfə dəyiş.
+99fa8e8	SAXLA
+249d1c0	İPUCU
+7aab1bd	DƏYİŞ
+5595eb4	Saxlamaq üçün kartlara toxun, sonra dəyiş.
+1c05db9	HOLD'EM OYNA
+e353e5f	Ultimate Texas Hold'em  •  ante {0}–{1}
+6470369	BAKKARA OYNA
+bbe0077	BÖYÜK  •  KİÇİK  •  ÜÇLÜKLƏR
+3ba448f	SIC BO OYNA
+097c59c	Üç zər  •  böyük və ya kiçik 1-ə 1 ödəyir
+af2ca30	PASS LINE  •  FIELD  •  ODDS
+f18398e	CRAPS OYNA
+eeede6d	Pass Line 1-ə 1 ödəyir  •  odds real əmsalla ödəyir
+34e5170	VİDEO POKER OYNA
+f71bdfb	Jacks or Better  •  tam 9/6 cədvəli
+4a6c087	JACKS OR BETTER  •  ROYAL FLƏŞ 800× ÖDƏYİR
+370a133	Slot maşınları sağ divardadır, video poker arxa divarda, rulet isə ən arxada.
+8298d28	Hold'em sol arxa küncdədir, barın o tayında.
+a2a111f	Bakkara girişdə dərhal soldadır.
+b7193bc	Sic bo kassanın o tayındakı küncdədir: üç zər, böyük və ya kiçik.
+25320c8	Craps masası sağdadır, slotların qarşısında. Pass Line-a mərc qoy və at!
+dc81691	Sofiya
+4d9936f	Yelena
+3aa0674	Mia
+b724114	Valentina
+34d3f7f	Kloe
+0fc9dd6	İzabella
+bbd3e35	Nadiya
+eac677d	Aria
+baaf10f	Luna
+8641381	Kamila
+eeee9b7	Avrora
+8a59f05	Bianka
+5a0fc29	Serena
+bf38aa5	Marko
+cfaf50a	Leo
+5815f22	Adrian
+cbede02	Lukas
+f0b9995	Viktor
+7b37259	Daniel
+aaac72d	Gabriel
+2f8f37e	Ethan
+a01126e	Julian
+3e05c90	Rafael
+e1ae457	Mateo
+3398634	Niko
+7aa2d07	Enzo
+1920e2f	İlk atış: Pass Line-a mərc qoy, sonra at. 7 və ya 11 qazanır; 2, 3 və ya 12 uduzur. Place mərcləri xal olandan sonra işləməyə başlayır.
+99f4934	LUCKY ACE 7s  •  XƏTT MƏRCİNİ 2 500× QƏDƏR ÖDƏYİR

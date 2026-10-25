@@ -1,0 +1,1004 @@
+MAŽAI
+DAUG
+NELYGINIAI
+LYGINIAI
+BET KOKS TRIGUBAS
+Sauja žetonų
+Krūvelė žetonų
+Padėklas žetonų
+Stovas žetonų
+POPULIARIAUSIA
+Seifas žetonų
+Didžiojo lošėjo seifas
+GERIAUSIA VERTĖ
+Gazuotas vanduo
+Espresas
+Energinis gėrimas
+Klubinis sumuštinis
+Mėsainio rinkinys
+Kepsnio vakarienė
+PILNAS PAPILDYMAS
+Sėkmės serija
+Karšta serija
+DAUGIAUSIA SĖKMĖS
+Bronzinis stalas
+Sidabrinis stalas
+Auksinis stalas
+Deimantinis stalas
+Hold'em stalas
+Įveskite tinkamus metus.
+Įveskite tinkamą mėnesį (1-12).
+Įveskite tinkamą dieną.
+Ši data yra ateityje.
+Sveiki atvykę prie mano stalo! Pasiruošę žaisti?
+Malonu tave matyti. Sėskis!
+Labas! Kortos šviežios, aš irgi.
+Sveikas! Tegul šis vakaras būna puikus.
+Statyk, kai būsi pasiruošęs.
+Žetonus ant stalo ir pažiūrėkim kortas.
+Iš ko žaidžiam?
+Oho, didelis statymas! Man patinka tavo stilius.
+Štai čia tai statymas. Pirmyn!
+Šįvakar drąsus, ar ne?
+Viską?! Širdis daužosi!
+Viskas ant vienos rankos. Bebaimis!
+Blackjack! Neįtikėtina!
+Dvidešimt vienas, štai taip paprastai!
+Blackjack! Kortos tave šįvakar dievina.
+Gražiai sužaista!
+Laimėjai! Šaunu.
+Tau sekasi!
+Ši tavo.
+Koks laimėjimas! Visi žiūri į šį stalą!
+Milžiniška! Šįvakar tu liepsnoji!
+Taip arti! Kita tavo.
+Šįkart kazino pasisekė.
+Nusipurtyk, ateina nauja ranka.
+Oi, viena korta per daug.
+Perlenkta! Taip nutinka net geriausiems.
+Lygiosios. Niekas nepralaimi!
+Lygiosios. Tavo žetonai saugūs.
+Perlenkiau! Tau pasisekė.
+Per daug man. Tu laimi!
+Blackjack kazino, atsiprašau!
+Dalytojas turi blackjack. Nesėkmė.
+Rodau tūzą. Draudimas?
+Skeliam! Dvi galimybės laimėti.
+Dvigubinam. Drąsus ėjimas!
+Dvigubink! Ateina viena korta.
+Naujas batas, maišau!
+Baigiasi? Kasa tave papildys.
+Žetonų mažėja. Nori daugiau?
+Žetonai baigėsi! Užsuk į kasą arba pasiimk nemokamų žetonų.
+Tavo krūvelė tuščia. Kasa tiesiai už tavęs.
+Atrodai išsekęs! Užkąsk ką nors bare.
+Jėgos baigiasi? Baras tavimi pasirūpins.
+Neskubėk.
+Kai tik būsi pasiruošęs!
+Naktis dar jauna.
+Pradedančiojo sėkmė tavo pusėje!
+Kaladė šįvakar tavo pusėje!
+Pradedančiojo sėkmė baigėsi. Nuo šiol žaidimas sąžiningas!
+Sveiki atvykę į kazino! Tavo vieta laukia.
+Labas vakaras! Stalai šįvakar karšti.
+Sveikas sugrįžęs! Jauti sėkmę?
+Paliesk stalą ir pradėk žaisti!
+Reikia daugiau žetonų? Atėjai prie tinkamo langelio.
+Didesnės krūvos, didesnės premijos!
+Alkanas? Rinkis bet ką iš meniu.
+Užkandis palaiko energiją!
+Sveiki atvykę prie mano stalo!
+Štai ir tu! Iškart šviesiau.
+Jauskis kaip namie. Šis vakaras skirtas tau.
+Dievinu tą šypseną. Sėkmingas vakaras?
+Atsipalaiduok, esi geromis rankomis.
+Ei, tu! Tikėjausi, kad užsuksi prie mano langelio.
+Visada malonu matyti draugišką veidą.
+Žiūrėk, kas čia! Smagu?
+Labas, gražuoli!
+Šįvakar man patinka tavo stilius.
+Ei, malonu vėl tave matyti!
+Geras vakaras? Tu jo nusipelnei.
+Atsargiai, galiu pradėti tau sirgti.
+Mano mėgstamiausias žaidėjas grįžo!
+Sėskis šalia, padalinsiu tau kažką gražaus.
+Su tavimi prie šio stalo daug smagiau.
+Jau eini? Naktis dar jauna!
+Nagi, dar viena ranka. Turiu gerą nuojautą!
+Negali manęs dabar palikti, mes tik pradėjom!
+Paskutinė galimybė! Kita ranka gali būti ta didžioji...
+Gerai, gerai. Saugosiu tavo vietą šiltą. Pažadi grįžti?
+Dar neturi serijos? Sužaisk šiandien raundų ({2}) ir pradėsiu skaičiuoti.
+Nauja pradžia! Raundai ({2}) ir tavo liepsna užsidegs.
+Vedu nedidelį sąrašą tų, kurie ateina kasdien. Tavęs ten nėra... kol kas.
+Diena {1} tavęs laukia. Liko raundų: {2}!
+Dienų iš eilės: {0}... juk dabar nesustosi?
+Tavo liepsna šiandien atrodo kiek atvėsusi. Raundai ({2}) ją sušildys.
+Skaičiuoju: dienų {0}. Tegul būna {1}.
+Negalvok, kad nepastebėjau. Liko raundų serijai išlaikyti: {2}!
+Dienų iš eilės: {0}? Pradedu manyti, kad tau čia patinka.
+Tavo serija šiandien saugi. Dabar tu tiesiog giriesi.
+Diena {0} įveikta. Rytoj tuo pačiu laiku?
+Dienų: {0}! Laikas tau rezervuoti vietą.
+Štai ji: pirmoji tavo serijos diena! Grįžk rytoj ir bus dvi.
+Visa savaitė iš eilės! Tikrai esu sužavėta.
+Trisdešimt dienų! Tu praktiškai čia dirbi.
+Šimtas dienų. Visiems apie tave pasakoju.
+Jau dienų iš eilės: {0}! Tik pažiūrėk į save.
+Serija išgelbėta: diena {0}! Žinojau, kad pavyks.
+Diena {0}! Lažinuosi, kad iki {1} neištversi.
+Dienų: {0}... gerai jau, pasipūtėli.
+Sužaisk 10 blackjack rankų
+Laimėk 5 blackjack rankas
+Surink blackjack
+Laimėk 500 žetonų žaisdamas blackjack
+Pasuk lošimo automatą 20 kartų
+Laimėk 5 lošimo automato sukimus
+Laimėk 5× statymą lošimo automate
+Sužaisk 5 ruletės raundus
+Laimėk 3 ruletės sukimus
+Atspėk skaičių tiesioginiu statymu
+Sužaisk 8 hold'em dalijimus
+Laimėk 4 hold'em dalijimus
+Sužaisk 10 bakaros dalijimų
+Laimėk 5 bakaros dalijimus
+Sužaisk 15 vaizdo pokerio dalijimų
+Sužaisk 8 sic bo raundus
+Laimėk 4 sic bo raundus
+Mesk kauliukus 15 kartų craps žaidime
+Laimėk 4 metimus craps žaidime
+Surink spalvą ar geriau vaizdo pokeryje
+Karališkoji eilė
+Spalvota eilė
+Keturi vienodi
+Pilnas namas
+Spalva
+Eilė
+Trys vienodi
+Dvi poros
+Pora
+Aukščiausia korta
+GPS vieta
+mobilusis tinklas
+interneto ryšys
+įrenginio nustatymai
+bandomoji šalis
+nepatvirtinta (standartinė kaina)
+nežinoma
+1-as 12
+2-as 12
+3-ias 12
+2 prieš 1
+RAUDONA
+JUODA
+Valetai ar geriau
+SĄŽININGOS KAINOS TAVO ŠALIAI
+Parduotuvės kainos pritaikytos tavo šalies ekonomikai, kad žaidėjai visur mokėtų sąžiningą kainą.
+Kad nustatytume tavo šalį, vieną kartą patikriname apytikslę tavo vietą. Ji susiejama su šalimi tavo įrenginyje ir niekur nesiunčiama. Jei atsisakysi, taikomos standartinės kainos.
+TĘSTI
+Palikti kazino?
+Tavo žetonai ir pažanga išsaugoti.
+IŠEITI
+LIKTI
+Atrakinta: {0}
+Serijos užšaldymas vakar išgelbėjo tavo seriją (dienų: {0}).
+Užšaldymai ({0}) išgelbėjo tavo seriją (dienų: {1}).
+Tavo serija (dienų: {0}) baigėsi. Sužaisk šiandien raundų ({1}) ir pradėk naują!
+UŽDUOTIS ĮVYKDYTA
++{0} žetonų
+VISOS UŽDUOTYS ĮVYKDYTOS!
+Dienos premija +{0} žetonų. Naujos užduotys rytoj.
+{0} LYGIS!
+Etapas! +{0} žetonų
+Grįžk rytoj ir tęsk
++1 serijos užšaldymas
+SERIJA: {0} D.!
+Pirkimai šioje versijoje negalimi.
+Pirkimas nepavyko. Pinigai nenuskaičiuoti.
+Pridėta +{0} žetonų!
+{0}: rankų {1} su {2}% sėkme, po Pradedančiojo sėkmės
+{0}: rankų {1} su {2}% sėkme!
+{0}: +{1}% energijos
+Negalima šiame įrenginyje
+Šiame tinkle vaizdo įrašai neįkeliami
+Grįžk rytoj
+Paruošta po {0} s
++{0} žetonų (šiandien liko {1})
++{0} nemokamų žetonų!
++1 serijos užšaldymas!
+Šiuo metu vaizdo įrašų nėra. Pabandyk po akimirkos.
+BRONZA
+SIDABRAS
+AUKSAS
+DEIMANTAS
+Meniu
+Vaizdas
+Kryžiukas
+Apskritimas
+Kvadratas
+Trikampis
+Tikriname tavo regioną...
+Nepatvirtinta ({0}): standartinės kainos
+{0} ({1}): kainos {2}
+Priminimai
+Nemokami žetonai paruošti ir serijos priminimai
+Tavo nemokami žetonai paruošti
+Lucky Ace tavęs laukia {0} žetonų.
+Išlaikyk savo seriją (dienų: {0})
+Sužaisk šiandien raundų ({0}), kad vidurnaktį ji nenusinulintų.
+BAKARA
+Sveiki atvykę į bakarą! Žaidėjas, Bankininkas ar Lygiosios?
+ŽAIDĖJAS
+LYGIOSIOS
+BANKININKAS
+PASKUTINIAI REZULTATAI
+Ž
+B
+L
+ATŠAUKTI
+IŠVALYTI
+KARTOTI
+DALYTI
+Šiam statymui nepakanka žetonų.
+Pasiektas stalo maksimumas
+BENDRAS STATYMAS  {0}
+Pasirink žetoną ir paliesk Žaidėjas, Bankininkas ar Lygiosios
+LYGIOSIOS  {0}
+LAIMI ŽAIDĖJAS  {0} PRIEŠ {1}
+LAIMI BANKININKAS  {0} PRIEŠ {1}
+LAIMĖJIMAS  +{0}
+GRĄŽINTA  {0}
+Šįkart be laimėjimo
+Pirmiausia baik šią ranką.
+Sveikas! Šįvakar pradedančiojo sėkmė tavo pusėje. Statyk!
+BLACKJACK MOKA 3 PRIEŠ 2   •   DALYTOJAS SUSTOJA ESANT 17   •   DRAUDIMAS MOKA 2 PRIEŠ 1
+STATYMAS
+DAR
+UŽTENKA
+DVIGUBINTI
+SKELTI
+APDRAUSTI
+NE, AČIŪ
+STATYMAS {0}+
+Nepakanka žetonų
+Dalytojas rodo tūzą. Apdrausti už {0}?
+Draudimas išmoka {0}
+Dalytojas neturi blackjack. Draudimas prarastas.
+PERLENKTA
+DALYTOJAS PERLENKĖ
+BLACKJACK!
+LAIMĖJIMAS
+LYGIOSIOS
+PRALAIMĖJIMAS
+Pradedančiojo sėkmė baigėsi. Tavo Sėkmės serija prasideda dabar.
+Pradedančiojo sėkmė baigėsi. Nuo šiol standartinis blackjack.
+Tavo Sėkmės serija baigėsi. Grįžtame prie standartinio blackjack.
+ŽETONAI BAIGĖSI
+Pažiūrėk trumpą vaizdo įrašą ir gauk {0} nemokamų žetonų arba užsuk į kasą.
+Užsuk į kasą papildyti žetonų.
+NEMOKAMI ŽETONAI
+KASA
+VĖLIAU
+„{0}“
+DAR VIENA RANKA
+IŠEITI
+PRADEDANČIOJO SĖKMĖ
+SĖKMĖS SERIJA
+Sveikinimo premija naujiems žaidėjams: per pirmąsias <b>{0} rankų</b> dalytojo batas sudėliotas tau palankiai, todėl laimėsi beveik kiekvieną ranką.
+Per kitas <b>{0} rankų</b> pranašumas pamažu išnyksta, o po to prie kiekvieno stalo – standartinis, sąžiningas blackjack iš sumaišyto 6 kaladžių bato (blackjack moka 3 prieš 2, dalytojas sustoja esant 17).
+Pranašumas dabar: <b><color=#7CFC9A>{0}%</color></b>   Liko rankų: <b>{1}</b>
+Per kitas <b>{0} blackjack rankų</b>, kai statymas iki <b>{1} žetonų</b>, kiekviena korta turi <b>{2}%</b> tikimybę būti išdalyta tau palankiai (toks pat pranašumas kaip Pradedančiojo sėkmė).
+Žaidžiant gerai, laimima apie <b>{0}%</b> rankų, palyginti su maždaug {1}% standartiniame blackjack. Didesni statymai yra standartinis blackjack ir rankų nenaudoja. Kai rankos baigiasi, prie kiekvieno stalo vėl standartinis, sąžiningas blackjack.
+SUPRATAU
+NORI SUSIGRĄŽINTI SĖKMĘ?
+Pradedančiojo sėkmė baigėsi: nuo šiol prie kiekvieno stalo standartinis, sąžiningas blackjack. Sėkmės serija kuriam laikui grąžina pranašumą.
+CRAPS
+Sveiki atvykę į craps! Statyk ant Pass Line ir mesk.
+ŠEŠI
+DEVYNI
+FIELD
+2 3 4 9 10 11 12  •  2 ir 12 moka dvigubai
+BET KOKS 7
+BET KOKS CRAPS
+DON'T PASS BAR
+1:1  •  12 – lygiosios
+PASS LINE
+ODDS
+tikri koeficientai
+IŠJ.
+ĮJ
+Odds statomi už Pass Line, kai yra taškas.
+Odds reikia statymo ant Pass Line.
+Tavo odds jau maksimalūs.
+Linijos statymai daromi pirmuoju metimu.
+ANT STALO  {0}
+Pirmasis metimas: statyk ant Pass Line ir mesk. 7 ar 11 laimi, 2, 3 ar 12 pralaimi. Place statymai pradeda galioti, kai yra taškas.
+Taškas yra {0}: išmesk jį vėl anksčiau nei 7. Odds už tavo Pass Line moka tikrais koeficientais.
+MESTI
+Taškas yra {0}.
+{0}! Taškas pasiektas. Laimėjimas!
+Septynetas. Naujas metikas, naujas pirmasis metimas.
+{0}, natūralus! Pass Line laimi.
+{0}, craps. Linija pralaimi.
+Palauk, kol kauliukai sustos.
+PALIKTI STALĄ?
+Tavo linijos statymas dar žaidžia ant taško {0}. Jei išeisi dabar, jį prarasi.
+KASDIEN
+DIENOS SERIJA
+DIENŲ IŠ EILĖS
+ŠIANDIEN
+ŽIŪRĖTI REKLAMĄ
+PIRKTI
+SERIJOS UŽŠALDYMAS
+Užšaldymas išlaiko tavo seriją dieną, kai nežaidi. Gali turėti iki {0}.\n\nPirkti vieną už {1} žetonų?
+Serijos užšaldymas paruoštas.
+Nepakanka žetonų užšaldymui.
+ATŠAUKTI
+DIENOS SUKIMAS
+SUKTI
+Tikimybės:
+{0}%
+Laimėjai {0} žetonų!
+ŠIANDIENOS UŽDUOTYS
+Rekordas: {0} d.
+Žaisk kasdien ir kurk seriją
+Šiandienos tikslas pasiektas! Iki rytojaus.
+Šiandien: {0} / {1} raundų (bet kuris žaidimas)
+Serijos užšaldymai: {0} / {1}
+Išgelbėk seriją dieną, kurią praleisi. +1 kas 7 dienas.
+PILNA
+NĖRA VAIZDO ĮRAŠO
+REKLAMA NETRUKUS
+Serijos premija: prizai ×{0}
+Vienas nemokamas sukimas kasdien
+KITAS  {0}
+Viskas atlikta! Premija gauta.
+Naujos užduotys vidurnaktį.
+Įvykdyk visas tris: +{0} premijinių žetonų
+HOLD'EM
+Sveiki atvykę į hold'em! Statyk ante ir pažiūrėkim kortas.
+ANTE
+BLIND
+ŽAISTI
+BLIND MOKA
+Dalintojas kvalifikuojasi su pora ar geriau
+CHECK
+FOLD
+STATYTI {0}×
+Ante {0} + blind {0}. Pasilik dar {1} pakėlimui.
+Paliesk žetonus, kad nustatytum ante. Blind toks pat.
+Check ar statyti tris ar keturis kartus ante?
+Pakelk dabar 4× ar 3× ante, arba check ir pažiūrėk flopą.
+Paskutinė proga: statyk 1× ante arba fold ir prarask ante bei blind.
+Statyk dabar 2× ante, arba check ir pažiūrėk paskutines dvi kortas.
+Štai flopas.
+Turn ir river.
+Pažiūrėkim, ką aš turiu.
+Dalintojas nesikvalifikuoja: tavo ante grįžta.
+Fold. Kitas dalijimas – tavo.
+ŽAIDIMAI
+Vilk kairėje, kad eitum  •  Vilk dešinėje, kad apsidairytum  •  Paliesk, kad nueitum
+Tik 18+  •  Žetonai skirti pramogai: neturi piniginės vertės, niekada nekeičiami į pinigus ar prizus
+Atidarome duris...
+Sveikas! Tavo sveikinimo žetonai ({0}) paruošti. Stalai tiesiai priekyje!
++{0} nemokamų žetonų! Daugiau po {1} val.
+Nemokami žetonai pasipildo kas {0} val. Kiti po {1}.
+{0} val. {1} min.
+{0} min. {1} s
+IŠLAIKYK SERIJĄ
+Nori priminimo vakarais, kai dar nežaidei, ir kai paruošti nemokami žetonai? Niekada daugiau, o išjungti gali Nustatymuose.
+PRIMINK MAN
++{0} žetonų paruošta!
+Žiūrėk vaizdo įrašą: {0}
+Kiti nemokami žetonai po {0}
+BLACKJACK
+4 stalai  •  moka 3 prieš 2
+Ultimate Texas Hold'em
+Žaidėjas, Bankininkas ar Lygiosios
+LOŠIMO AUTOMATAI
+Lucky Ace 7s  •  10 linijų
+VAIZDO POKERIS
+Jacks or Better
+SIC BO
+Trys kauliukai  •  daug ar mažai
+Pass Line  •  Field  •  Odds
+RULETĖ
+Europietiška su vienu nuliu
+TU IŠSEKĘS
+Tavo energija išseko. Pasiimk ką nors bare ir žaisk toliau arba grįžk vėliau: energija pamažu atsistato, kol tavęs nėra.
+Į BARĄ
+PASIRINK STALĄ
+STATYMAI
+{0} LYGIS
+SĖSTIS
+REIKIA {0}
+Pasiek {0} lygį, kad galėtum čia žaisti. Tavo lygis {1}.
+KAZINO
+DD
+MM
+MMMM
+DIENA
+MĖNUO
+METAI
+KADA GIMEI?
+Žetonai skirti tik pramogai. Jie neturi piniginės vertės ir niekada negali būti iškeisti į pinigus ar prizus.
+ATSIPRAŠOME, NEGALI ŽAISTI
+{0} skirtas tik suaugusiesiems.
+IŠEITI
+Užsidaro po {0}...
+PAPASAKOK APIE SAVE
+Pagal tai parinksime šeimininkus, dalytojus ir baro darbuotojus. Tai gali bet kada pakeisti Nustatymuose.
+ESU VYRAS
+ESU MOTERIS
+NENORIU SAKYTI
+ĮEITI Į KAZINO
+Tavo personalas šįvakar:
+Puslapis {0} iš {1}
+KALBA
+AUTOMATIŠKAI
+ŠALIS
+Sveiki! Prašome statyti.
+Stalo limitas – {0} vienam sukimui.
+Paliesk lentą, kad padėtum žetonus
+Statymai baigti!
+ŽALIA
+žalia
+raudona
+juoda
+Koks pataikymas! Sveikinu!
+Laimėjai! Tavo laimėjimas {0}.
+{0} {1}. Tau grąžinama {2}.
+Prašome statyti.
+Palauk, kol rutuliukas sustos.
+NUSTATYMAI
+BENDRIEJI
+GRAFIKA
+GARSAS
+LIETIMAS
+PELĖ
+VALDIKLIS
+VIBRACIJA
+18+ • Žetonai neturi piniginės vertės • Šriftai: Bebas Neue, Poppins, Noto (SIL OFL) • Sienos: Natural Earth • Kainų duomenys: Pasaulio bankas
+KAZINO PERSONALAS
+MOTERYS
+VYRAI
+MIŠRUS
+PRIMINIMAI
+Nemokami žetonai paruošti ir vakarinis priminimas, kol serija nesibaigė.
+TIKRINTI DAR KARTĄ
+KAINŲ REGIONAS
+Greičiausia: kazino toks, koks nupieštas, nieko papildomo.
+Poliruotos grindys, mediena ir auksas atspindi salę.
+Kino vaizdas: spalvų korekcija, grūdėtumas, švytėjimas, šviesos spinduliai, gyva oda.
+Kino objektyvas: ryškumas seka tavo žvilgsnį, šviesų ruožai, dulkės spinduliuose.
+KOKYBĖ
+ŽEMA
+VIDUTINĖ
+AUKŠTA
+ULTRA
+RAIŠKA
+Žemesnė yra minkštesnė, bet telefonas mažiau kaista ir taupo bateriją.
+EKRANO REŽIMAS
+VISAS EKRANAS
+LANGE
+KRAŠTŲ GLODINIMAS
+Išlygina dantytus kraštus kazino.
+KADRŲ DAŽNIS
+{0} FPS
+30 FPS taupo bateriją ir neleidžia senesniems telefonams perkaisti.
+V-SYNC
+MATYMO LAUKAS
+RODYTI FPS
+BENDRAS GARSUMAS
+MUZIKA
+GARSO EFEKTAI
+PERSONALO BALSAI
+Personalo murmėjimas kalbant.
+NUTILDYTI FONE
+Nutildo kazino, kai esi kitame lange.
+ŽVILGSNIO JAUTRUMAS
+Kaip greitai vilkimas suka vaizdą.
+Kaip greitai vilkimas pele suka vaizdą.
+APVERSTI ŽVILGSNĮ KAIRĖN / DEŠINĖN
+APVERSTI ŽVILGSNĮ AUKŠTYN / ŽEMYN
+MYGTUKŲ IŠDĖSTYMAS
+AUTO
+SUKEISTI MENIU / VAIZDĄ
+SVIRTELĖS JAUTRUMAS
+Kaip greitai dešinė svirtelė suka vaizdą.
+APVERSTI SVIRTELĘ KAIRĖN / DEŠINĖN
+APVERSTI SVIRTELĘ AUKŠTYN / ŽEMYN
+VALDIKLIO UŽUOMINOS
+Rodo, ką daro kiekvienas mygtukas, kai žaidi su valdikliu.
+VIBRUOTI
+TELEFONAS
+ABU
+Auto: valdiklis, kai jis prijungtas, kitaip telefonas.
+TELEFONO VIBRACIJA
+TELEFONO STIPRUMAS
+VALDIKLIO VIBRACIJA
+VALDIKLIO STIPRUMAS
+AUTOMATIŠKAI ({0})
+{0} atidaro Nustatymus, {1} atidaro Kasdien.
+Valdiklis neprijungtas.
+Prijungta: {0}. Rodomi {1} mygtukai (A dešinėje patvirtina).
+Prijungta: {0}. Rodomi {1} mygtukai.
+BARAS
+SĖKMĖ
+Žetonai, sėkmė ir maistas yra virtualūs daiktai, skirti tik pramogai: neturi piniginės vertės, negali būti iškeisti į pinigus ar prizus.
+Kiekviena korta turi tokią tikimybę būti išdalyta tau palankiai, kai blackjack statymas iki {0} žetonų (didesni statymai standartiniai ir rankų nenaudoja). Prasideda po Pradedančiojo sėkmės; stipresni paketai naudojami pirmiausia.
+Leisk pasiekti vietą, kad gautum savo šalies kainą
+Pirkimai šioje žaidimo versijoje negalimi.
+BANDOMOJI PARDUOTUVĖ (be tikrų pinigų)
+energija
++{0}% ŽETONŲ
+rankų: {0}
+laimima apie {0}% iš jų
+Sveiki atvykę į sic bo! Daug, mažai ar kas nors drąsesnio?
+Stalo limitas – {0} vienam metimui.
+PAKRATYTI
+TRIGUBAS {0}!
+LUCKY ACE 7s
+BENDRAS STATYMAS
+IŠMOKŲ LENTELĖ
+SĖKMĖS!
+Sukimui reikia bent 10 žetonų.
+GAUTI ŽETONŲ
+Statymas sumažintas iki sumos, kurią gali padengti.
+MEGA LAIMĖJIMAS!
+DIDELIS LAIMĖJIMAS!
+GRĄŽINTA {0}
+BE LAIMĖJIMO
+LINIJA {0}: {1} × {2} = {3}
+ŽVAIGŽDĖS ×{0} = {1}
+Vyšnia
+Citrina
+Apelsinas
+Slyva
+Varpelis
+Bar
+Septynetas
+Deimantas
+Tūzas
+Žvaigždė
+ŽVAIGŽDĖS moka bet kur: 5 = {0}× statymas, 4 = {1}× statymas, 3 = {2}× statymas.
+TŪZAS yra laukinis: jis pakeičia bet kurį simbolį, išskyrus žvaigždę.
+Linijų išmokos yra linijos statymo (bendras statymas ÷ 10) kartotiniai, iš kairės į dešinę nuo pirmojo būgno.
+GRĄŽA: {0}% ilguoju laikotarpiu. Kiekvienas sukimas nepriklausomas ir atsitiktinis.
+PALIKTA
+Išdalyk, palik norimas kortas, keisk vieną kartą.
+PALIKTI
+PATARIMAS
+KEISTI
+Paliesk kortas, kurias paliksi, tada keisk.
+Eiti
+Dairytis
+Mygtukai
+Nustatymai
+Kasdien
+Reguliuoti
+Judėti
+Pasirinkti
+Uždaryti
+Atgal
+IŠSEKĘS
+PRADEDANČIOJO SĖKMĖ {0}%
+LIKO RANKŲ: {0}
+SĖKMĖS SERIJA {0}%
+RANKŲ: {0}  •  STATYMAI IKI {1}
+LYGIS
+Sofija
+Elena
+Mia
+Valentina
+Chloe
+Izabelė
+Nadija
+Arija
+Luna
+Kamila
+Aurora
+Bianka
+Serena
+Markas
+Leonas
+Adrianas
+Lukas
+Viktoras
+Danielius
+Gabrielius
+Etanas
+Julijonas
+Rafaelis
+Mateusas
+Nikas
+Enzas
+SVEIKI ATVYKĘ
+PASIKALBĖK SU ŠEIMININKE
+Nuorodos ir patarimai
+ŽETONAI  •  PREMIJOS
+PIRKTI ŽETONŲ
+Kasa
+KOKTEILIAI  •  UŽKANDŽIAI  •  ENERGIJA
+MAISTAS IR GĖRIMAI
+Baras
+BLACKJACK MOKA 3 PRIEŠ 2
+DALYTOJAS PRIVALO SUSTOTI ESANT 17
+ŽAISTI BLACKJACK
+Stalas {0}  •  statymai nuo {1} iki {2}
+ŽAISTI HOLD'EM
+Ultimate Texas Hold'em  •  ante nuo {0} iki {1}
+ŽAISTI BAKARĄ
+DAUG  •  MAŽAI  •  TRIGUBI
+ŽAISTI SIC BO
+Trys kauliukai  •  daug ar mažai moka 1 su 1
+PASS LINE  •  FIELD  •  ODDS
+ŽAISTI CRAPS
+Pass Line moka 1 su 1  •  odds moka tikrais koeficientais
+ŽAISTI VAIZDO POKERĮ
+ŽAISTI AUTOMATAIS
+Jacks or Better  •  pilna 9/6 lentelė
+LUCKY ACE 7s  •  MOKA IKI 2 500× TAVO LINIJOS STATYMO
+JACKS OR BETTER  •  KARALIŠKOJI EILĖ MOKA 800×
+PRAŠOME STATYTI
+ŽAISTI RULETĘ
+Europietiškas ratas  •  tiesioginis statymas moka 35 prieš 1
+UŽSISAKYK GĖRIMĄ
+Atneš: {0}
+{0} atsidaro nuo {1} lygio. Tavo lygis {2}: skaičiuojamas kiekvienas sužaistas raundas.
+Prie šio stalo reikia bent {0} žetonų.
+Blackjack stalai tiesiai priekyje. Prieik prie bet kurio ir sėskis!
+Lošimo automatai prie dešinės sienos, vaizdo pokeris prie galinės, o ruletė pačiame gale.
+Hold'em yra kairiajame galiniame kampe, už baro.
+Bakara iškart kairėje, vos įėjus.
+Sic bo yra kampe už kasos: trys kauliukai, daug ar mažai.
+Craps stalas dešinėje, prieš automatus. Statyk ant Pass Line ir mesk!
+Kasa čia pat tavo dešinėje, o baras palei kairę sieną.
+Pavargai? Užkandis bare akimirksniu papildys energiją.
+Paliesk bet kur ant grindų ir ten nueisi. Paliesk stalą, kad atsisėstum.
+Andora
+Jungtiniai Arabų Emyratai
+Afganistanas
+Antigva ir Barbuda
+Angilija
+Albanija
+Armėnija
+Angola
+Antarktida
+Argentina
+Amerikos Samoa
+Austrija
+Australija
+Aruba
+Alandų Salos
+Azerbaidžanas
+Bosnija ir Hercegovina
+Barbadosas
+Bangladešas
+Belgija
+Burkina Fasas
+Bulgarija
+Bahreinas
+Burundis
+Beninas
+Sen Bartelemi
+Bermuda
+Brunėjus
+Bolivija
+Karibų Nyderlandai
+Brazilija
+Bahamos
+Butanas
+Buvė Sala
+Botsvana
+Baltarusija
+Belizas
+Kanada
+Kokosų (Kilingo) Salos
+Kongas-Kinšasa
+Centrinės Afrikos Respublika
+Kongas-Brazavilis
+Šveicarija
+Dramblio Kaulo Krantas
+Kuko Salos
+Čilė
+Kamerūnas
+Kinija
+Kolumbija
+Kosta Rika
+Kuba
+Žaliasis Kyšulys
+Kiurasao
+Kalėdų Sala
+Kipras
+Čekija
+Vokietija
+Džibutis
+Danija
+Dominika
+Dominikos Respublika
+Alžyras
+Ekvadoras
+Estija
+Egiptas
+Vakarų Sachara
+Eritrėja
+Ispanija
+Etiopija
+Suomija
+Fidžis
+Folklando Salos
+Mikronezija
+Farerų Salos
+Prancūzija
+Gabonas
+Jungtinė Karalystė
+Grenada
+Gruzija
+Prancūzijos Gviana
+Gernsis
+Gana
+Gibraltaras
+Grenlandija
+Gambija
+Gvinėja
+Gvadelupa
+Pusiaujo Gvinėja
+Graikija
+Pietų Džordžija ir Pietų Sandvičo salos
+Gvatemala
+Guamas
+Bisau Gvinėja
+Gajana
+Ypatingasis Administracinis Kinijos Regionas Honkongas
+Herdo ir Makdonaldo Salos
+Hondūras
+Kroatija
+Haitis
+Vengrija
+Indonezija
+Airija
+Izraelis
+Meno Sala
+Indija
+Indijos Vandenyno Britų Sritis
+Irakas
+Iranas
+Islandija
+Italija
+Džersis
+Jamaika
+Jordanija
+Japonija
+Kenija
+Kirgizija
+Kambodža
+Kiribatis
+Komorai
+Sent Kitsas ir Nevis
+Šiaurės Korėja
+Pietų Korėja
+Kuveitas
+Kaimanų Salos
+Kazachstanas
+Laosas
+Libanas
+Sent Lusija
+Lichtenšteinas
+Šri Lanka
+Liberija
+Lesotas
+Lietuva
+Liuksemburgas
+Latvija
+Libija
+Marokas
+Monakas
+Moldova
+Juodkalnija
+Sen Martenas
+Madagaskaras
+Maršalo Salos
+Šiaurės Makedonija
+Malis
+Mianmaras (Birma)
+Mongolija
+Ypatingasis Administracinis Kinijos Regionas Makao
+Marianos Šiaurinės Salos
+Martinika
+Mauritanija
+Montseratas
+Malta
+Mauricijus
+Maldyvai
+Malavis
+Meksika
+Malaizija
+Mozambikas
+Namibija
+Naujoji Kaledonija
+Nigeris
+Norfolko sala
+Nigerija
+Nikaragva
+Nyderlandai
+Norvegija
+Nepalas
+Nauru
+Niujė
+Naujoji Zelandija
+Omanas
+Panama
+Peru
+Prancūzijos Polinezija
+Papua Naujoji Gvinėja
+Filipinai
+Pakistanas
+Lenkija
+Sen Pjeras ir Mikelonas
+Pitkerno salos
+Puerto Rikas
+Palestinos teritorija
+Portugalija
+Palau
+Paragvajus
+Kataras
+Reunjonas
+Rumunija
+Serbija
+Rusija
+Ruanda
+Saudo Arabija
+Saliamono Salos
+Seišeliai
+Sudanas
+Švedija
+Singapūras
+Šv. Elenos Sala
+Slovėnija
+Svalbardas ir Janas Majenas
+Slovakija
+Siera Leonė
+San Marinas
+Senegalas
+Somalis
+Surinamas
+Pietų Sudanas
+San Tomė ir Prinsipė
+Salvadoras
+Sint Martenas
+Sirija
+Svazilandas
+Terkso ir Kaikoso Salos
+Čadas
+Prancūzijos Pietų sritys
+Togas
+Tailandas
+Tadžikija
+Tokelau
+Rytų Timoras
+Turkmėnistanas
+Tunisas
+Tonga
+Turkija
+Trinidadas ir Tobagas
+Tuvalu
+Taivanas
+Tanzanija
+Ukraina
+Uganda
+Jungtinių Valstijų Mažosios Tolimosios Salos
+Jungtinės Valstijos
+Urugvajus
+Uzbekistanas
+Vatikano Miesto Valstybė
+Šventasis Vincentas ir Grenadinai
+Venesuela
+Didžiosios Britanijos Mergelių Salos
+Jungtinių Valstijų Mergelių Salos
+Vietnamas
+Vanuatu
+Volisas ir Futūna
+Samoa
+Kosovas
+Jemenas
+Majotas
+Pietų Afrika
+Zambija
+Zimbabvė
+Anglų
+Afrikanų
+Amharų
+Arabų
+Azerbaidžaniečių
+Baltarusių
+Bulgarų
+Bengalų
+Bosnių
+Katalonų
+Čekų
+Danų
+Vokiečių
+Graikų
+Ispanų
+Estų
+Baskų
+Persų
+Suomių
+Filipiniečių
+Prancūzų
+Airių
+Galisų
+Gudžaratų
+Hausų
+Hebrajų
+Hindi
+Kroatų
+Prancūzų (Haitis)
+Vengrų
+Armėnų
+Indoneziečių
+Igbų
+Islandų
+Italų
+Japonų
+Gruzinų
+Kazachų
+Khmerų
+Kanadų
+Korėjiečių
+Kirgizų
+Liuksemburgiečių
+Laosiečių
+Lietuvių
+Latvių
+Malagasų
+Makedonų
+Malajalių
+Mongolų
+Maratų
+Malajiečių
+Maltiečių
+Birmiečių
+Norvegų bukmolas
+Nepaliečių
+Olandų
+Pendžabų
+Lenkų
+Puštūnų
+Portugalų (Brazilija)
+Portugalų (Portugalija)
+Retoromanų
+Rumunų
+Rusų
+Kinjaruandų
+Sinhalų
+Slovakų
+Slovėnų
+Somaliečių
+Albanų
+Serbų
+Švedų
+Suahilių
+Tamilų
+Telugų
+Tadžikų
+Tajų
+Turkmėnų
+Turkų
+Ukrainiečių
+Urdų
+Uzbekų
+Vietnamiečių
+Kosų
+Jorubų
+Kinų (supaprastinti)
+Kinų (tradiciniai)
+Zulų
+Sk
+Pr
+An
+Tr
+Kt
+Pn
+Št

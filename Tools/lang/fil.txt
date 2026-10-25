@@ -1,0 +1,659 @@
+# Filipino (fil). Machine translation by Claude.
+bd99124	Isang Dakot na Chips
+c7c6dc8	Isang Patong ng Chips
+7512cfd	Isang Tray ng Chips
+fa36588	Isang Rack ng Chips
+7994f65	PINAKASIKAT
+49dcc21	Isang Vault ng Chips
+0725283	Safe ng High Roller
+7658705	PINAKASULIT
+2f23432	Sparkling Water
+418b820	Espresso
+97b463c	Energy Drink
+43bbfda	Club Sandwich
+bce7a75	Burger Meal
+2832a8d	Steak Dinner
+dee8ee8	PUNO ULIT
+a7c2255	Swerteng Sunod-sunod
+7919163	Mainit na Sunod-sunod
+74fdfc2	PINAKAMARAMING SWERTE
+d79cd12	Bronze na Mesa
+2a8ff35	Pilak na Mesa
+51877b2	Gintong Mesa
+9282152	Diyamanteng Mesa
+0de8764	Pakilagay ang tamang taon.
+d4e14c9	Pakilagay ang tamang buwan (1-12).
+addd156	Pakilagay ang tamang araw.
+d78a4f4	Nasa hinaharap ang petsang iyan.
+787c7c6	Maligayang pagdating sa mesa ko! Handa ka na bang maglaro?
+8b0f93e	Ang saya kitang makita. Upo ka!
+8338021	Hi! Bago pa ang mga baraha, ako rin.
+75750f9	Maligayang pagdating! Gawin nating masaya ang gabing ito.
+95aac36	Ilagay mo ang taya mo kapag handa ka na.
+8bc63c1	Chips sa mesa, at tingnan natin ang mga baraha.
+984b7f3	Para saan tayo naglalaro?
+b74c769	Wow, malaking taya! Gusto ko ang istilo mo.
+77fc1fc	Ayan ang taya. Tara na!
+7779a5b	Matapang ka ngayong gabi, ha?
+479ff82	All in?! Kumakabog ang puso ko!
+7fb527c	Lahat sa isang kamay. Walang takot!
+7bf0c5d	Blackjack! Hindi kapani-paniwala!
+123f2d5	Dalawampu't isa, ganoon lang!
+cd850a7	Blackjack! Mahal ka ng mga baraha ngayong gabi.
+55f50ee	Ang galing ng laro mo!
+79594b1	Panalo! Magaling.
+0df710e	Sunod-sunod ang swerte mo!
+20a0c1e	Sa iyo na iyan.
+a45fe61	Ang laking panalo! Lahat ay nakatingin sa mesang ito!
+54d3982	Grabe! Nag-aapoy ka ngayong gabi!
+8da8f1e	Muntik na! Sa iyo na ang susunod.
+5d921e1	Sinuwerte ang casino sa pagkakataong iyon.
+f923af7	Hayaan mo na, may bagong kamay na darating.
+853e7ca	Aray, sobra ng isang baraha.
+daec44f	Bust! Nangyayari iyan kahit sa pinakamagaling.
+11ceaef	Tabla. Walang talo!
+911a289	Push. Ligtas ang chips mo.
+a89d9d9	Na-bust ako! Swerte mo.
+f76c8fd	Sobra para sa akin. Panalo ka!
+63f8d0b	Blackjack para sa casino, pasensya na!
+465c8bf	Blackjack ng dealer. Malas.
+6752f40	May Ace akong ipinapakita. Insurance?
+1920c5a	Hahatiin! Dalawang pagkakataong manalo.
+9f621da	Doble. Matapang na galaw!
+59da99d	Doblehin mo! Isang baraha ang darating.
+0b48017	Bagong shoe, magbabalasa ako!
+3fa7769	Paubos na? Mapupunuan ka ng kahera.
+4e5694b	Kumakaunti na ang chips mo. Gusto mo pa?
+d41f057	Ubos na ang chips! Pumunta sa kahera o kumuha ng libreng chips.
+15d90d3	Wala nang laman ang patong mo. Nasa likod mo lang ang kahera.
+a9eaae1	Mukha kang pagod na pagod! Kumain ka muna sa bar.
+5cd9e8b	Ubos na ang lakas? Sagot ka ng bar.
+37b9672	Dahan-dahan lang.
+c64df8c	Kapag handa ka na!
+b8dfc0a	Maaga pa ang gabi.
+8748560	Kasama mo ang swerte ng baguhan!
+e3def50	Pabor sa iyo ang deck ngayong gabi!
+506ade9	Tapos na ang swerte ng baguhan. Mula ngayon patas na ang laro!
+953d8b7	Maligayang pagdating sa casino! Naghihintay na ang upuan mo.
+9fd9844	Magandang gabi! Mainit ang mga mesa ngayong gabi.
+2d42aaf	Welcome back! Swerte ka ba ngayon?
+311bae7	I-tap ang isang mesa para magsimulang maglaro!
+3318099	Kailangan mo pa ng chips? Tamang bintana ang napuntahan mo.
+c5b3787	Mas malaking patong, mas malaking bonus!
+21ae665	Gutom ka? Pumili ng kahit ano sa menu.
+8b83cc0	Ang kaunting pagkain ay nagpapanatili ng lakas mo!
+35f4b0e	Maligayang pagdating sa mesa ko!
+8f90245	Ayan ka na! Parang lumiwanag agad ang lugar.
+909e4d6	Feel at home ka. Ikaw ang bida ngayong gabi.
+2477f78	Gusto ko ang ngiting iyan. Swerteng gabi?
+6ac2120	Relaks lang, nasa mabuting kamay ka rito.
+089f04b	Uy, ikaw! Umaasa akong dadaan ka sa bintana ko.
+3f2c3c9	Laging masarap makakita ng palakaibigang mukha.
+3021db8	Tingnan mo kung sino ang nandito! Nag-eenjoy ka ba?
+769980b	Hi diyan, guwapo!
+5361ffd	Gusto ko ang istilo mo ngayong gabi.
+56b40be	Uy, ang saya kitang makita ulit!
+3316019	Masaya ba ang gabi mo? Karapat-dapat ka roon.
+28283fd	Ingat, baka magsimula na akong mag-cheer para sa iyo.
+109ac94	Bumalik na ang paborito kong manlalaro!
+acba0e6	Umupo ka sa tabi ko, bibigyan kita ng magandang baraha.
+eb5ff2a	Mas masaya ang mesang ito dahil sa iyo.
+772a73c	Aalis ka na agad? Maaga pa ang gabi!
+178301a	Sige na, isang kamay pa. Maganda ang pakiramdam ko rito!
+816036a	Hindi mo ako puwedeng iwan ngayon, kasisimula pa lang natin!
+5c9b7e2	Huling pagkakataon! Baka ang susunod na kamay na ang malaki...
+20ce7b6	Sige, sige. Pananatilihin kong mainit ang upuan mo. Pangako mong babalik ka?
+51d1aeb	Wala pang sunod-sunod? Maglaro ng {2} round ngayon at magsisimula akong magbilang.
+10b25d9	Bagong simula! {2} round at sisindi ang apoy mo.
+0c10711	May maliit akong listahan ng mga pumupunta araw-araw. Wala ka pa roon... sa ngayon.
+5e7c431	Naghihintay sa iyo ang Araw {1}. {2} round na lang!
+b268d84	{0} araw nang sunod-sunod... hindi ka titigil ngayon, di ba?
+b32ae79	Medyo malamig ang apoy mo ngayon. Iinit iyan sa {2} round.
+a6f3fbd	Nagbibilang ako: {0} araw. Gawin nating {1}.
+1dc5c97	Huwag mong isiping hindi ko napansin. {2} round pa para mapanatili ang sunod-sunod mo!
+807b82c	{0} araw nang sunod-sunod? Mukhang gusto mo rito.
+6391923	Ligtas ang sunod-sunod mo ngayong araw. Nagpapasikat ka na lang ngayon.
+3bfbbf7	Araw {0}, tapos na. Bukas sa parehong oras?
+ca2a2c1	{0} araw! Dapat na yata kitang ipagtabi ng upuan.
+54f991f	Ayan na: unang araw ng sunod-sunod mo! Bumalik ka bukas at gagawin nating dalawa.
+a1e7ab0	Isang buong linggo nang sunod-sunod! Talagang humanga ako.
+96cee95	Tatlumpung araw! Para ka na ring nagtatrabaho rito.
+a9834cd	Isandaang araw. Ikinukuwento kita sa lahat.
+071317f	{0} araw na nang sunod-sunod! Tingnan mo ang sarili mo.
+0964027	Nailigtas ang sunod-sunod: Araw {0}! Alam kong kaya mo.
+c7f2a1f	Araw {0}! Pustahan, hindi mo aabutin ang {1}.
+a6ce2e2	{0} araw... sige na, mayabang.
+3ab91d0	Maglaro ng 10 kamay ng blackjack
+38e863d	Manalo ng 5 kamay ng blackjack
+6ac41cc	Makakuha ng blackjack
+74cf149	Manalo ng 500 chips sa blackjack
+66440e1	Paikutin ang slots nang 20 beses
+9205056	Manalo ng 5 ikot sa slots
+cd60e0c	Manalo ng 5× ng taya mo sa slots
+6f7ac28	Maglaro ng 5 round ng roulette
+6978cc0	Manalo ng 3 ikot sa roulette
+c8ebbcc	Tamaan ang isang numero nang diretso
+8a57c54	lokasyon ng GPS
+4919635	mobile network
+527b094	koneksyon sa internet
+f49ae82	mga setting ng device
+60827d3	test na bansa
+0b2f8d8	hindi beripikado (karaniwang presyo)
+50d8b4a	hindi alam
+4fb7a4e	Unang 12
+647a0eb	Ikalawang 12
+a934745	Ikatlong 12
+3de80ab	2 sa 1
+bb4e68e	PULA
+a9414ab	ITIM
+710756a	ODD
+70ca748	EVEN
+4d60d6c	PATAS NA PRESYO PARA SA BANSA MO
+1674d95	Iniaangkop ang mga presyo sa tindahan sa ekonomiya ng bansa mo, para patas ang binabayaran ng mga manlalaro saanman.
+4ec27ee	Para malaman ang bansa mo, minsan naming tinitingnan ang tinatayang lokasyon mo. Itinutugma ito sa isang bansa sa device mo at hindi kailanman ipinapadala kahit saan. Kung tatanggi ka, karaniwang presyo ang gagamitin.
+ff3dbb4	MAGPATULOY
+43a6a8d	Aalis sa casino?
+ad209a0	Nai-save na ang chips at progreso mo.
+5860c84	UMALIS
+f1e0808	MANATILI
+5b38c49	Na-unlock ang {0}
+15ae7ac	Nailigtas kahapon ng streak freeze ang {0}-araw na sunod-sunod mo.
+d375ffb	{0} streak freeze ang nagligtas sa {1}-araw na sunod-sunod mo.
+fd8ab39	Natapos ang {0}-araw na sunod-sunod mo. Maglaro ng {1} round ngayon para magsimula ng bago!
+7fa2db4	TAPOS ANG MISYON
+255325c	+{0} chips
+d205ece	TAPOS NA LAHAT NG MISYON!
+4acbed2	Pang-araw-araw na bonus +{0} chips. Bagong misyon bukas.
+ab2ceb3	LEVEL {0}!
+86e2afb	Milestone! +{0} chips
+9ae18ad	Bumalik bukas para ituloy
+7af7e7c	+1 streak freeze
+b5b9597	{0} ARAW NA SUNOD-SUNOD!
+62ec60d	Hindi available ang pagbili sa bersyong ito.
+1f9786c	Nabigo ang pagbili. Hindi ka siningil.
+3e4c600	+{0} chips ang naidagdag!
+1998202	{0}: {1} kamay na may {2}% swerte, pagkatapos ng Swerte ng Baguhan
+728ada5	{0}: {1} kamay na may {2}% swerte!
+af5e232	{0}: +{1}% lakas
+001a53b	Hindi available sa device na ito
+2607004	Hindi maglo-load ang mga video sa network na ito
+569c30d	Bumalik bukas
+ecae6ee	Handa sa loob ng {0}s
+9964820	+{0} chips ({1} pa ngayong araw)
+e1bd888	+{0} libreng chips!
+619bd5d	+1 streak freeze!
+f70d794	Walang video sa ngayon. Subukan ulit mamaya.
+264d71b	BRONZE
+462e839	PILAK
+81ff70a	GINTO
+50e122e	DIYAMANTE
+57f5f5e	Menu
+69bd4ef	View
+dbfe736	Cross
+1cc7820	Circle
+82810cb	Square
+73d3ae2	Triangle
+a42f608	Tinitingnan ang rehiyon mo...
+1db422c	Hindi beripikado ({0}): karaniwang presyo
+9bc0807	{0} ({1}): presyo sa {2}
+ae8c393	Mga Paalala
+aefd59b	Handa na ang libreng chips at mga paalala sa sunod-sunod
+3125838	Handa na ang libreng chips mo
+233027b	{0} chips ang naghihintay sa iyo sa Lucky Ace.
+b93976b	Panatilihin ang {0}-araw na sunod-sunod mo
+bd68038	Maglaro ng {0} round ngayon para hindi ito ma-reset pagsapit ng hatinggabi.
+0acfb6f	Maligayang pagdating! Kasama mo ang swerte ng baguhan ngayong gabi. Tumaya ka na!
+d589374	ANG BLACKJACK AY NAGBABAYAD NG 3 SA 2   •   TUMITIGIL ANG DEALER SA LAHAT NG 17   •   ANG INSURANCE AY NAGBABAYAD NG 2 SA 1
+b700b02	TAYA
+16ec74f	BURAHIN
+928226b	ULITIN
+55591e0	IBIGAY
+395ed46	HIT
+43e7971	STAND
+097274c	DOBLE
+6df63ca	HATIIN
+3e40f46	INSURE
+db82d3a	HINDI, SALAMAT
+28d6be8	TAYA {0}+
+9587b70	Naabot na ang maximum ng mesa
+b9ac47d	Kulang ang chips
+d237ade	May Ace ang dealer. Mag-insure sa halagang {0}?
+bf07c14	Nagbabayad ang insurance ng {0}
+b6e674a	Walang blackjack ang dealer. Talo ang insurance.
+0cc9679	BUST
+82ce89d	BUST ANG DEALER
+6e1e1a4	BLACKJACK!
+662fae5	PANALO
+8918d00	PUSH
+8df6be4	TALO
+9e69668	Tapos na ang swerte ng baguhan. Magsisimula na ngayon ang Swerteng Sunod-sunod mo.
+822f4f4	Tapos na ang swerte ng baguhan. Mula ngayon karaniwang blackjack na.
+b0377c7	Tapos na ang Swerteng Sunod-sunod mo. Balik sa karaniwang blackjack.
+824ad7c	UBOS NA ANG CHIPS
+ff1822d	Manood ng maikling video para sa {0} libreng chips, o pumunta sa kahera.
+e4cac2f	Pumunta sa kahera para punuan ang chips mo.
+c3df3e7	LIBRENG CHIPS
+b169d33	KAHERA
+4d38f66	MAMAYA
+cb8171b	Tapusin muna ang kamay na ito.
+3aa6941	“{0}”
+6f846f4	ISANG KAMAY PA
+a79d4f2	UMALIS
+693f697	SWERTE NG BAGUHAN
+641ad58	SWERTENG SUNOD-SUNOD
+fc45931	Welcome bonus para sa mga bagong manlalaro: sa unang <b>{0} kamay</b> mo, nakaayos pabor sa iyo ang shoe ng dealer, kaya mananalo ka sa halos bawat kamay.
+576c683	Sa susunod na <b>{0} kamay</b> unti-unting nawawala ang kalamangan, at pagkatapos ay karaniwan at patas na blackjack na ang bawat mesa mula sa binalasang shoe na may 6 na deck (nagbabayad ang blackjack ng 3 sa 2, tumitigil ang dealer sa lahat ng 17).
+7fb55b3	Kalamangan ngayon: <b><color=#7CFC9A>{0}%</color></b>   Natitirang kamay: <b>{1}</b>
+d4f8fe0	Sa susunod mong <b>{0} kamay ng blackjack</b> na may taya hanggang <b>{1} chips</b>, bawat baraha ay may <b>{2}%</b> tsansang maibigay pabor sa iyo (kaparehong kalamangan ng Swerte ng Baguhan).
+0a5fc06	Kung mahusay ang laro, nananalo iyon sa mga <b>{0}%</b> ng kamay, kumpara sa mga {1}% sa karaniwang blackjack. Karaniwang blackjack ang mas malalaking taya at hindi nauubos ang mga kamay. Kapag naubos ang mga kamay, karaniwan at patas na blackjack ulit ang bawat mesa.
+c3a8946	NAINTINDIHAN
+8dfc44a	GUSTO MO BANG BUMALIK ANG SWERTE MO?
+272a97f	Tapos na ang Swerte ng Baguhan: mula ngayon karaniwan at patas na blackjack ang bawat mesa. Ibinabalik ng Swerteng Sunod-sunod ang kalamangan nang ilang panahon.
+06b7689	ARAW-ARAW
+4035996	ARAW-ARAW NA SUNOD-SUNOD
+fbe7f18	ARAW NANG SUNOD-SUNOD
+7a46866	NGAYON
+4753707	MANOOD NG AD
+6bb45f3	BILHIN
+62a945f	STREAK FREEZE
+ba5b1de	Pinapanatiling buhay ng streak freeze ang sunod-sunod mo sa araw na hindi ka naglaro. Hanggang {0} ang puwede mong itabi.\n\nBumili ng isa sa halagang {1} chips?
+38c6090	Handa na ang streak freeze.
+8fe681f	Kulang ang chips para sa freeze.
+1507c40	KANSELAHIN
+457d20f	ARAW-ARAW NA IKOT
+9623247	IKOT
+ac5ef96	Tsansa:
+1200f20	{0}%
+003a689	Nanalo ka ng {0} chips!
+f757137	MGA MISYON NGAYON
+7b7f9e2	Pinakamahusay: {0} araw
+9554fea	Maglaro araw-araw para bumuo ng sunod-sunod
+5c8dbb8	Tapos na ang layunin ngayon! Kita tayo bukas.
+1aeb9a1	Ngayon: {0} / {1} round (kahit anong laro)
+bb92856	Streak freeze: {0} / {1}
+0ec6216	Iligtas ang sunod-sunod mo sa araw na makaligtaan mo. +1 kada 7 araw.
+cc0a745	PUNO
+419a962	WALANG VIDEO
+2dabd99	MAY AD NA SANDALI
+f12e166	Bonus sa sunod-sunod: premyo ×{0}
+80948a4	Isang libreng ikot araw-araw
+596b5e0	SUSUNOD  {0}
+7f7e7fc	Tapos na lahat! Nakuha na ang bonus.
+03a0f2a	Bagong misyon sa hatinggabi.
+4784874	Tapusin ang tatlo: +{0} bonus chips
+42c5cda	MAGLARO
+337211e	MGA LARO
+8f5e3bd	I-drag sa kaliwa para maglakad  •  I-drag sa kanan para tumingin  •  I-tap para pumunta
+d00d221	18+ lamang  •  Pang-libangan ang chips: walang halagang pera, hindi kailanman maipagpapalit sa pera o premyo
+b60f038	Binubuksan ang mga pinto...
+2e5bcce	Maligayang pagdating! Handa na ang {0} welcome chips mo. Diretso lang ang mga mesa!
+7ef7ae3	+{0} libreng chips! Mayroon pa pagkalipas ng {1} oras.
+5d82af9	Napupunuan ang libreng chips tuwing {0} oras. Ang susunod ay sa loob ng {1}.
+5469985	{0}o {1}m
+bb65beb	{0}m {1}s
+ac8ba93	PANATILIHIN ANG SUNOD-SUNOD
+560bfa1	Gusto mo ba ng paalala sa mga gabing hindi ka pa naglalaro, at kapag handa na ang libreng chips mo? Hindi hihigit doon, at puwede mo itong patayin sa Settings.
+b724a40	PAALALAHANAN MO AKO
+9e0c898	+{0} chips ang handa na!
+1207e28	Manood ng video: {0}
+db3655b	Susunod na libreng chips sa loob ng {0}
+4ca9be5	BLACKJACK
+9a612b1	4 na mesa  •  nagbabayad ng 3 sa 2
+1194439	SLOTS
+6555152	Lucky Ace 7s  •  10 linya
+255b1a1	ROULETTE
+6df1551	European na may iisang zero
+379b146	PAGOD NA PAGOD KA NA
+340e5c4	Ubos na ang energy bar mo. Kumuha ng kahit ano sa bar para makapaglaro pa, o bumalik mamaya: dahan-dahang bumabalik ang lakas habang wala ka.
+a517396	PUMUNTA SA BAR
+7c7227f	PUMILI NG MESA
+c963de3	MGA TAYA
+c433657	LEVEL {0}
+083ac39	UMUPO
+9698219	KAILANGAN {0}
+34b737e	Umabot sa level {0} para maglaro rito. Level {1} ka pa lang.
+6cc19a9	CASINO
+6e946b7	AA
+4a3a892	BB
+2857a6a	TTTT
+9d1fece	ARAW
+d3bb0c3	BUWAN
+c0f0cad	TAON
+43985ff	KAILAN KA IPINANGANAK?
+293fda2	Para sa libangan lamang ang chips. Wala itong halagang pera at hindi kailanman maipagpapalit sa pera o premyo.
+3e9128d	PASENSYA, HINDI KA PUWEDENG MAGLARO
+b5e8985	Para sa mga nasa hustong gulang lamang ang {0}.
+bb1b380	LUMABAS
+d9f9432	Magsasara sa loob ng {0}...
+c6e102d	KUWENTUHAN MO KAMI TUNGKOL SA IYO
+31120ce	Pipiliin namin ang mga host, dealer at staff ng bar na babagay. Puwede mo itong baguhin anumang oras sa Settings.
+49e8df9	LALAKI AKO
+85abe81	BABAE AKO
+76cc98c	MAS GUSTO KONG HUWAG SABIHIN
+964daf7	PUMASOK SA CASINO
+2efb69a	Ang staff mo ngayong gabi:
+c10e749	Pahina {0} ng {1}
+2a3ffd9	WIKA
+c673535	AWTOMATIKO
+d1245d2	BANSA
+15fc12b	Maligayang pagdating! Ilagay na po ang inyong mga taya.
+531fb3f	Kulang ang chips para sa tayang iyan.
+380eb75	Ang limit ng mesa ay {0} kada ikot.
+55ad592	I-UNDO
+8f191f9	KABUUANG TAYA  {0}
+82e1181	I-tap ang board para maglagay ng chips
+bb19a75	Wala nang taya!
+5becf07	BERDE
+bc74f4f	berde
+7898801	pula
+466bc8c	itim
+f2edfbf	Ang galing ng tama! Binabati kita!
+b252caf	Panalo! Nanalo ka ng {0}.
+8587d14	PANALO  +{0}
+b862a2b	{0} {1}. Bumabalik sa iyo ang {2}.
+a306d0a	IBINALIK  {0}
+af3134d	Walang panalo ngayon
+84122e7	Ilagay na po ang inyong mga taya.
+52205f4	Hintaying huminto ang bola.
+c4b9243	SETTINGS
+44d863e	PANGKALAHATAN
+2bbca79	GRAPHICS
+955c8b4	TUNOG
+c701f5f	TOUCH
+efcc94a	MOUSE
+8433628	CONTROLLER
+d868a50	VIBRATION
+f8692c7	18+ • Walang halagang pera ang chips • Mga font: Bebas Neue, Poppins, Noto (SIL OFL) • Hangganan: Natural Earth • Datos ng presyo: World Bank
+da46447	STAFF NG CASINO
+594b81e	BABAE
+69d3313	LALAKI
+b4325d3	HALO
+414594a	MGA PAALALA
+6cac87b	Handa na ang libreng chips, at paalala sa gabi bago matapos ang sunod-sunod.
+e43b2e0	TINGNAN ULIT
+7c9e8f9	REHIYON NG PRESYO
+495c70e	Pinakamabilis: ang casino gaya ng pagkakapinta, walang dagdag.
+b052523	Nagrereplekta ng silid ang makintab na sahig, kahoy at ginto.
+6bd30d7	Itsurang pelikula: graded na kulay, grain, kinang, sinag ng liwanag, buhay na balat.
+21b6e1d	Lente ng sinehan: sinusundan ng focus ang tingin mo, guhit sa mga ilaw, alikabok sa sinag.
+fb7c2e8	KALIDAD
+d8b9679	MABABA
+f68525a	KATAMTAMAN
+d77d0b2	MATAAS
+9289eee	ULTRA
+637e313	RESOLUTION
+2e7b141	Mas malambot ang mas mababa pero mas malamig at nakakatipid ng baterya.
+93dcfb5	DISPLAY MODE
+3c6eac3	FULLSCREEN
+f3690b1	WINDOWED
+cfa6200	ANTI-ALIASING
+ad50489	OFF
+f178804	Pinapakinis ang magagaspang na gilid sa casino.
+4266288	FRAME RATE
+d031ab0	{0} FPS
+a2b7514	Nakakatipid ng baterya ang 30 FPS at pinapanatiling malamig ang mga lumang telepono.
+0babcee	V-SYNC
+6656e25	FIELD OF VIEW
+244aadb	IPAKITA ANG FPS
+41c8f6e	MASTER VOLUME
+bf3af1f	MUSIKA
+bd80907	SOUND EFFECTS
+d098036	BOSES NG STAFF
+93c6484	Ang bulungan ng staff habang nag-uusap.
+16bf71a	I-MUTE SA BACKGROUND
+85b2ee7	Pinapatahimik ang casino habang nasa ibang window ka.
+8e3634e	SENSITIVITY NG TINGIN
+880dc05	Gaano kabilis iniikot ng pag-drag ang view.
+750c60f	Gaano kabilis iniikot ng pag-drag ng mouse ang view.
+8b988eb	BALIGTARIN ANG TINGIN KALIWA / KANAN
+cacf0cc	BALIGTARIN ANG TINGIN TAAS / BABA
+2d13b68	AYOS NG BUTTON
+50c3f10	AUTO
+b471e5c	PAGPALITIN ANG MENU / VIEW
+d9a59f1	SENSITIVITY NG STICK
+ec14343	Gaano kabilis iniikot ng kanang stick ang view.
+a79af23	BALIGTARIN ANG STICK KALIWA / KANAN
+acfc66e	BALIGTARIN ANG STICK TAAS / BABA
+56bb461	MGA PAHIWATIG SA CONTROLLER
+51cf49a	Ipinapakita kung ano ang ginagawa ng bawat button habang naglalaro ka gamit ang controller.
+dff7431	MAG-VIBRATE SA
+34139ab	TELEPONO
+15ee988	PAREHO
+465cc91	Auto: ang controller kapag nakakonekta, kung hindi ang telepono.
+f6fed84	VIBRATION NG TELEPONO
+8e97fa7	LAKAS SA TELEPONO
+486ba2d	VIBRATION NG CONTROLLER
+8008889	LAKAS SA CONTROLLER
+ea9233e	AWTOMATIKO ({0})
+167dda7	Binubuksan ng {0} ang Settings, binubuksan ng {1} ang Araw-araw.
+29a4ef9	Walang nakakonektang controller.
+558ecd2	Nakakonekta: {0}. Ipinapakita ang mga button ng {1} (A sa kanan ang pagkumpirma).
+d6eee9e	Nakakonekta: {0}. Ipinapakita ang mga button ng {1}.
+78525d5	ANG BAR
+099db9f	SWERTE
+b4a8b06	Ang chips, swerte at pagkain ay mga virtual na item para sa libangan lamang: walang halagang pera, hindi maipapalit sa pera o premyo.
+e2a28c9	May ganoong tsansa ang bawat baraha na maibigay pabor sa iyo, sa mga taya sa blackjack hanggang {0} chips (karaniwan ang mas malalaking taya at hindi nauubos ang kamay). Magsisimula pagkatapos ng Swerte ng Baguhan; inuuna ang mas malalakas na pack.
+04fbc6d	Payagan ang access sa lokasyon para makuha ang presyo ng bansa mo
+2ae87fc	Hindi available ang pagbili sa bersyong ito ng laro.
+8239a84	TEST STORE (walang totoong pera)
+173d916	lakas
+b2c67eb	+{0}% CHIPS
+58e8011	{0} kamay
+ce80712	nananalo sa mga {0}% ng mga ito
+c69e8ee	LUCKY ACE 7s
+fc99288	KABUUANG TAYA
+c1c00cd	PAYTABLE
+3930abd	GOOD LUCK!
+67b6973	Kailangan mo ng hindi bababa sa 10 chips para makaikot.
+5aa1edb	KUMUHA NG CHIPS
+f5a1812	Ibinaba ang taya sa kaya mong bayaran.
+5c63f61	MEGA PANALO!
+652544f	MALAKING PANALO!
+91bc41c	IBINALIK {0}
+3714283	WALANG PANALO
+33c0faa	LINYA {0}: {1} × {2} = {3}
+9f59e6e	{0} BITUIN = {1}
+d6eee90	Cherry
+4459b79	Lemon
+09fb6aa	Dalandan
+cb92e50	Plum
+d419866	Kampana
+e496fd2	Bar
+63abb56	Pito
+b3850e0	Diyamante
+fc2b5a9	Ace
+85a7de6	Bituin
+c31b035	Nagbabayad ang mga BITUIN kahit saan: 5 = {0}× taya, 4 = {1}× taya, 3 = {2}× taya.
+f97509c	Wild ang ACE: pumapalit ito sa lahat ng simbolo maliban sa bituin.
+3e8bc69	Ang bayad sa linya ay multiple ng taya sa linya (kabuuang taya ÷ 10), mula kaliwa pakanan simula sa unang reel.
+523f8dc	PAYBACK: {0}% sa pangmatagalan. Bawat ikot ay independyente at random.
+e0c705d	Lakad
+b8db515	Tingin
+503d46d	Mga Button
+c7f73bb	Settings
+728298d	Araw-araw
+ab166bd	Ayusin
+76cdb95	Galaw
+8598222	Piliin
+bbfa773	Isara
+b52b36b	Bumalik
+ab37588	PAGOD NA
+9b11a09	SWERTE NG BAGUHAN {0}%
+0c94e98	{0} KAMAY NA LANG
+51ed273	SWERTENG SUNOD-SUNOD {0}%
+3401470	{0} KAMAY  •  TAYA HANGGANG {1}
+f481cc6	LEVEL
+0139615	MALIGAYANG PAGDATING
+daad514	KAUSAPIN ANG HOST
+bcefb10	Direksyon at tips
+c28e782	CHIPS  •  BONUS
+0c69ec4	BUMILI NG CHIPS
+78c0727	Kahera
+1737fab	COCKTAILS  •  MERYENDA  •  LAKAS
+9e008ae	PAGKAIN AT INUMIN
+f7881e8	Ang Bar
+0e979ed	ANG BLACKJACK AY NAGBABAYAD NG 3 SA 2
+eea0d12	DAPAT TUMIGIL ANG DEALER SA 17
+4db37bf	MAGLARO NG BLACKJACK
+0ffdd99	Mesang {0}  •  taya {1} hanggang {2}
+b4f938b	MAGLARO NG SLOTS
+6b7caea	ILAGAY ANG INYONG TAYA
+26b1e39	MAGLARO NG ROULETTE
+910a1ed	European wheel  •  ang diretsong numero ay nagbabayad ng 35 sa 1
+7ef0215	UMORDER NG INUMIN
+fe38d73	Si {0} ang magdadala nito
+f7b6306	Bubukas ang {0} sa level {1}. Level {2} ka: bawat round na nilalaro mo ay binibilang.
+d85f1ad	Kailangan ng mesang ito ng hindi bababa sa {0} chips.
+cbfe016	Diretso lang ang mga mesa ng blackjack. Lapitan ang isa at umupo!
+64d9faf	Nandito lang sa kanan mo ang kahera, at nasa kaliwang pader ang bar.
+e4c6e0b	Pagod ka na? Isang meryenda sa bar ang agad na pupuno sa lakas mo.
+d5ab68f	I-tap kahit saan sa sahig at maglalakad ka roon. I-tap ang isang mesa para umupo.
+cc21f74	MALIIT
+dc01dec	MALAKI
+5fb90b0	KAHIT ANONG TRIPLE
+9c716f1	Mesa ng hold'em
+3b6ab84	Maglaro ng 8 kamay ng hold'em
+6c617ca	Manalo ng 4 na kamay ng hold'em
+44ce500	Maglaro ng 10 kamay ng baccarat
+b90cff7	Manalo ng 5 kamay ng baccarat
+3e4dfa9	Maglaro ng 15 kamay ng video poker
+854fe20	Maglaro ng 8 round ng sic bo
+dfddac1	Manalo ng 4 na round ng sic bo
+2973ea7	Ihagis ang dice nang 15 beses sa craps
+737be17	Manalo ng 4 na hagis sa craps
+4dbb81d	Makabuo ng flush o mas mataas sa video poker
+19aa07b	Royal flush
+cf83e72	Straight flush
+d27ba03	Four of a kind
+dbe8641	Full house
+7c936d7	Flush
+2501c65	Straight
+ca1a0d4	Three of a kind
+6876b40	Two pair
+2537f88	Pares
+b4b323e	High card
+f70bfdc	Jacks o mas mataas
+98fd5af	BACCARAT
+df66d5a	Maligayang pagdating sa baccarat! Player, Banker, o Tie?
+5055efd	PLAYER
+3f90696	TIE
+0d75f63	BANKER
+0ebd5a4	MGA HULING RESULTA
+511993d	P
+ae4f281	B
+c2c53d6	T
+781246e	Pumili ng chip, saka i-tap ang Player, Banker, o Tie
+11023a0	TIE  {0}
+503d5f1	PANALO ANG PLAYER  {0} LABAN SA {1}
+0eb4be5	PANALO ANG BANKER  {0} LABAN SA {1}
+7859af1	CRAPS
+4083dbd	Maligayang pagdating sa craps! Tumaya sa Pass Line at maghagis.
+d266326	ANIM
+c506f3a	SIYAM
+987f4e9	FIELD
+71c1b2b	2 3 4 9 10 11 12  •  doble ang bayad sa 2 at 12
+d0ac294	KAHIT ANONG 7
+9b2f0c3	KAHIT ANONG CRAPS
+f62ac59	DON'T PASS BAR
+6080ade	1:1  •  tabla ang 12
+c07247a	PASS LINE
+6229f78	ODDS
+29bf819	tunay na odds
+387d7a5	ON
+229c9cc	Inilalagay ang odds sa likod ng Pass Line kapag may point na.
+c2c8e82	Kailangan ng taya sa Pass Line para sa odds.
+1784d43	Nasa pinakamataas na ang odds mo.
+fdc3442	Ang mga taya sa linya ay inilalagay sa unang hagis.
+97ce95b	NASA MESA  {0}
+a895ec0	Ang point ay {0}: ihagis ulit ito bago ang 7. Ang odds sa likod ng Pass Line ay nagbabayad ng tunay na odds.
+d9f9d65	IHAGIS
+bcf32ef	Ang point ay {0}.
+5b450b4	{0}! Nakuha ang point. Panalo!
+9746e08	Seven out. Bagong manghahagis, bagong unang hagis.
+4fc4664	{0}, natural! Panalo ang Pass Line.
+203f466	{0}, craps. Talo ang linya.
+0f8e260	Hintayin munang huminto ang dice.
+6a98cfe	AALIS SA MESA?
+8430088	Tumatakbo pa ang taya mo sa linya sa point na {0}. Kapag umalis ka ngayon, mawawala ito.
+0e138d1	HOLD'EM
+5e023be	Maligayang pagdating sa hold'em! Ilagay ang ante at tingnan natin ang mga baraha.
+0cd62f5	ANTE
+5e9f331	BLIND
+3b935ab	BAYAD SA BLIND
+20713a4	Kwalipikado ang dealer kapag may pares o mas mataas
+d37267c	CHECK
+9a4e316	FOLD
+88313c4	TUMAYA {0}×
+42c6fea	Ante {0} + blind {0}. Magtabi pa ng {1} para sa raise.
+1abb2f2	I-tap ang mga chip para itakda ang ante. Pareho ang blind.
+f541cec	Check, o tumaya ng tatlo o apat na beses ng ante?
+fc74a79	Mag-raise na ng 4× o 3× ng ante, o mag-check at tingnan ang flop.
+b687501	Huling pagkakataon: tumaya ng 1× ng ante, o mag-fold at mawala ang ante at blind.
+400009c	Tumaya na ng 2× ng ante, o mag-check at tingnan ang huling dalawang baraha.
+f4abdf9	Heto ang flop.
+0e51f2c	Ang turn at ang river.
+cc856d3	Tingnan natin ang hawak ko.
+6ba1f3e	Hindi kwalipikado ang dealer: babalik sa iyo ang ante.
+cf1fdc5	Nag-fold ka. Iyo ang susunod na kamay.
+177fab0	Ultimate Texas Hold'em
+c4917b9	Player, Banker, o Tie
+6e4fe7b	VIDEO POKER
+73cabd3	Jacks or Better
+91c4555	SIC BO
+d810061	Tatlong dice  •  malaki o maliit
+85ab7ec	Pass Line  •  Field  •  Odds
+35d8db6	Maligayang pagdating sa sic bo! Malaki, maliit, o mas matapang?
+3d05514	Ang limitasyon ng mesa ay {0} bawat hagis.
+86ade94	ALUGIN
+b69304e	TRIPLE {0}!
+5d1bcc6	NAKATABI
+36a21ba	Mamigay, itabi ang mga barahang gusto mo, magpalit nang isang beses.
+99fa8e8	ITABI
+249d1c0	PAHIWATIG
+7aab1bd	PALITAN
+5595eb4	I-tap ang mga baraha para itabi, saka magpalit.
+1c05db9	MAGLARO NG HOLD'EM
+e353e5f	Ultimate Texas Hold'em  •  ante {0} hanggang {1}
+6470369	MAGLARO NG BACCARAT
+bbe0077	MALAKI  •  MALIIT  •  TRIPLE
+3ba448f	MAGLARO NG SIC BO
+097c59c	Tatlong dice  •  1 sa 1 ang malaki o maliit
+af2ca30	PASS LINE  •  FIELD  •  ODDS
+f18398e	MAGLARO NG CRAPS
+eeede6d	1 sa 1 ang Pass Line  •  tunay na odds ang odds
+34e5170	MAGLARO NG VIDEO POKER
+f71bdfb	Jacks or Better  •  buong 9/6 na talahanayan
+4a6c087	JACKS OR BETTER  •  800× ANG ROYAL FLUSH
+370a133	Nasa kanang dingding ang mga slot machine, nasa likod na dingding ang video poker, at nasa pinakalikod ang roulette.
+8298d28	Nasa kaliwang sulok sa likod ang hold'em, lampas sa bar.
+a2a111f	Nasa kaliwa agad ang baccarat pagpasok mo.
+b7193bc	Nasa sulok lampas sa cashier ang sic bo: tatlong dice, malaki o maliit.
+25320c8	Nasa kanan ang mesa ng craps, sa harap ng mga slot. Tumaya sa Pass Line at maghagis!
+dc81691	Sofia
+4d9936f	Elena
+3aa0674	Mia
+b724114	Valentina
+34d3f7f	Chloe
+0fc9dd6	Isabella
+bbd3e35	Nadia
+eac677d	Aria
+baaf10f	Luna
+8641381	Camila
+eeee9b7	Aurora
+8a59f05	Bianca
+5a0fc29	Serena
+bf38aa5	Marco
+cfaf50a	Leo
+5815f22	Adrian
+cbede02	Lucas
+f0b9995	Viktor
+7b37259	Daniel
+aaac72d	Gabriel
+2f8f37e	Ethan
+a01126e	Julian
+3e05c90	Rafael
+e1ae457	Mateo
+3398634	Nico
+7aa2d07	Enzo
+1920e2f	Unang hagis: tumaya sa Pass Line at ihagis. Ang 7 o 11 ang panalo, ang 2, 3 o 12 ang talo. Umaandar ang mga place bet kapag may point na.
+99f4934	LUCKY ACE 7s  •  NAGBABAYAD HANGGANG 2,500× NG IYONG TAYA SA LINYA

@@ -1,0 +1,1004 @@
+XỈU
+TÀI
+LẺ
+CHẴN
+BỘ BA BẤT KỲ
+Một nắm chip
+Một chồng chip
+Một khay chip
+Một giá chip
+PHỔ BIẾN NHẤT
+Một két chip
+Két sắt cao thủ
+GIÁ TRỊ NHẤT
+Nước có ga
+Espresso
+Nước tăng lực
+Sandwich câu lạc bộ
+Suất burger
+Bữa tối bít tết
+NẠP ĐẦY
+Chuỗi may mắn
+Chuỗi nóng
+MAY MẮN NHẤT
+Bàn Đồng
+Bàn Bạc
+Bàn Vàng
+Bàn Kim Cương
+Bàn hold'em
+Vui lòng nhập năm hợp lệ.
+Vui lòng nhập tháng hợp lệ (1-12).
+Vui lòng nhập ngày hợp lệ.
+Ngày đó nằm trong tương lai.
+Chào mừng đến bàn của mình! Sẵn sàng chơi chưa?
+Vui quá được gặp bạn. Mời ngồi!
+Xin chào! Bài còn mới, mình cũng vậy.
+Chào mừng! Cùng làm tối nay thật tuyệt nhé.
+Đặt cược bất cứ khi nào bạn sẵn sàng.
+Chip xuống bàn, rồi cùng xem bài nào.
+Mình chơi vì cái gì đây?
+Ồ, cược lớn! Mình thích phong cách của bạn.
+Đó mới gọi là cược. Chơi thôi!
+Tối nay thấy liều quá nhỉ?
+Tất tay?! Tim mình đập thình thịch!
+Tất cả vào một ván. Không sợ hãi!
+Blackjack! Không thể tin được!
+Hai mươi mốt, dễ như vậy!
+Blackjack! Tối nay quân bài yêu bạn lắm.
+Chơi hay lắm!
+Thắng rồi! Giỏi quá.
+Bạn đang vào phom đấy!
+Ván đó là của bạn.
+Thắng lớn quá! Cả sòng đang nhìn bàn này!
+Khủng thật! Tối nay bạn đang cháy!
+Suýt chút nữa! Ván sau là của bạn.
+Lần này nhà cái gặp may.
+Quên nó đi, ván mới tới rồi.
+Ui, quá một lá rồi.
+Quắc! Ai giỏi cũng có lúc bị.
+Hòa. Không ai thua!
+Hòa. Chip của bạn an toàn.
+Mình bị quắc! Bạn may thật.
+Quá nhiều với mình. Bạn thắng!
+Blackjack cho nhà cái, xin lỗi nhé!
+Nhà cái có blackjack. Xui quá.
+Mình đang lật át. Mua bảo hiểm không?
+Tách bài! Hai cơ hội để thắng.
+Gấp đôi. Nước đi dũng cảm!
+Gấp đôi đi! Một lá sắp tới.
+Hộp bài mới, mình xáo đây!
+Sắp hết rồi à? Quầy thu ngân có thể nạp thêm cho bạn.
+Chip đang vơi dần. Muốn lấy thêm không?
+Hết chip rồi! Ghé quầy thu ngân hoặc nhận chip miễn phí nhé.
+Chồng chip của bạn trống rồi. Quầy thu ngân ngay sau lưng bạn.
+Trông bạn mệt lắm! Ăn chút gì ở quầy bar đi.
+Cạn sức rồi à? Quầy bar lo cho bạn.
+Cứ từ từ.
+Khi nào bạn sẵn sàng!
+Đêm vẫn còn dài.
+May mắn của người mới đang đứng về phía bạn!
+Bộ bài tối nay đứng về phía bạn!
+May mắn người mới đã hết. Từ giờ trò chơi công bằng!
+Chào mừng đến sòng bài! Chỗ ngồi của bạn đang chờ.
+Chào buổi tối! Các bàn tối nay đang nóng.
+Chào mừng trở lại! Thấy hên không?
+Chạm vào một bàn để bắt đầu chơi!
+Cần thêm chip? Bạn đến đúng quầy rồi.
+Chồng to hơn, thưởng lớn hơn!
+Đói không? Chọn món gì cũng được trong thực đơn.
+Ăn chút gì giữ năng lượng luôn đầy!
+Chào mừng đến bàn của mình!
+Bạn đây rồi! Cả nơi này sáng hẳn lên.
+Cứ tự nhiên như ở nhà. Tối nay là của bạn.
+Mình thích nụ cười đó. Đêm may mắn hả?
+Thư giãn đi, bạn đang ở trong tay người giỏi.
+Này bạn! Mình đang mong bạn ghé quầy của mình.
+Luôn vui khi thấy một gương mặt thân thiện.
+Xem ai đến này! Chơi vui không?
+Chào người đẹp!
+Tối nay mình thích phong cách của bạn.
+Ôi, vui quá được gặp lại bạn!
+Tối nay vui không? Bạn xứng đáng mà.
+Cẩn thận đấy, mình có thể bắt đầu cổ vũ cho bạn.
+Người chơi yêu thích của mình trở lại rồi!
+Ngồi với mình đi, mình chia cho bạn lá đẹp.
+Có bạn, bàn này vui hơn hẳn.
+Về sớm vậy sao? Đêm vẫn còn dài!
+Thôi nào, thêm một ván nữa thôi. Mình có linh cảm tốt!
+Bạn không thể bỏ mình lúc này, mình mới bắt đầu thôi mà!
+Cơ hội cuối! Ván tới có thể là ván lớn...
+Thôi được, thôi được. Mình giữ chỗ ấm cho bạn. Hứa sẽ quay lại nhé?
+Chưa có chuỗi à? Chơi {2} vòng hôm nay và mình sẽ bắt đầu đếm.
+Khởi đầu mới! {2} vòng và ngọn lửa của bạn sẽ bùng lên.
+Mình có một danh sách nhỏ những người đến mỗi ngày. Bạn chưa có tên... chưa thôi.
+Ngày {1} đang chờ bạn. Chỉ còn {2} vòng!
+{0} ngày liên tiếp... bạn sẽ không dừng lại bây giờ chứ?
+Hôm nay ngọn lửa của bạn hơi nguội. {2} vòng sẽ làm nó ấm lên.
+Mình đếm rồi: {0} ngày. Mình làm thành {1} nhé.
+Đừng nghĩ mình không để ý. Còn {2} vòng để giữ chuỗi!
+{0} ngày liên tiếp? Mình bắt đầu nghĩ bạn thích nơi này rồi.
+Chuỗi của bạn hôm nay an toàn rồi. Giờ bạn chỉ đang khoe thôi.
+Ngày {0}, xong. Mai cùng giờ nhé?
+{0} ngày! Chắc mình nên giữ chỗ cho bạn.
+Đây rồi: ngày đầu tiên của chuỗi! Mai quay lại để thành hai nhé.
+Cả một tuần liên tiếp! Mình thật sự ấn tượng.
+Ba mươi ngày! Bạn gần như làm việc ở đây rồi.
+Một trăm ngày. Mình kể với mọi người về bạn.
+Đã {0} ngày liên tiếp! Nhìn bạn kìa.
+Chuỗi được cứu: ngày {0}! Mình biết bạn làm được mà.
+Ngày {0}! Cá là bạn không tới được {1}.
+{0} ngày... được rồi, đồ khoe khoang.
+Chơi 10 ván blackjack
+Thắng 5 ván blackjack
+Được một blackjack
+Thắng 500 chip ở blackjack
+Quay máy slot 20 lần
+Thắng 5 lượt quay slot
+Thắng gấp 5 lần cược ở slot
+Chơi 5 vòng roulette
+Thắng 3 lượt quay roulette
+Trúng một số đơn
+Chơi 8 ván hold'em
+Thắng 4 ván hold'em
+Chơi 10 ván baccarat
+Thắng 5 ván baccarat
+Chơi 15 ván video poker
+Chơi 8 lượt tài xỉu
+Thắng 4 lượt tài xỉu
+Gieo xúc xắc 15 lần ở craps
+Thắng 4 lần gieo ở craps
+Có thùng hoặc hơn ở video poker
+Thùng phá sảnh lớn
+Thùng phá sảnh
+Tứ quý
+Cù lũ
+Thùng
+Sảnh
+Bộ ba
+Hai đôi
+Một đôi
+Mậu thầu
+vị trí GPS
+mạng di động
+kết nối internet
+cài đặt thiết bị
+quốc gia thử nghiệm
+chưa xác minh (giá chuẩn)
+không rõ
+12 đầu
+12 giữa
+12 cuối
+2 ăn 1
+ĐỎ
+ĐEN
+Đôi J trở lên
+GIÁ CÔNG BẰNG CHO QUỐC GIA CỦA BẠN
+Giá trong cửa hàng được điều chỉnh theo nền kinh tế quốc gia của bạn, để người chơi ở mọi nơi đều trả mức giá công bằng.
+Để xác định quốc gia, chúng tôi kiểm tra vị trí gần đúng của bạn một lần. Vị trí được đối chiếu với quốc gia ngay trên thiết bị và không bao giờ được gửi đi đâu. Nếu bạn từ chối, giá chuẩn sẽ được áp dụng.
+TIẾP TỤC
+Rời sòng bài?
+Chip và tiến trình của bạn đã được lưu.
+THOÁT
+Ở LẠI
+Đã mở khóa {0}
+Một lượt đóng băng chuỗi đã cứu chuỗi {0} ngày của bạn hôm qua.
+{0} lượt đóng băng đã cứu chuỗi {1} ngày của bạn.
+Chuỗi {0} ngày của bạn đã kết thúc. Chơi {1} vòng hôm nay để bắt đầu chuỗi mới!
+HOÀN THÀNH NHIỆM VỤ
++{0} chip
+ĐÃ XONG MỌI NHIỆM VỤ!
+Thưởng hằng ngày +{0} chip. Nhiệm vụ mới vào ngày mai.
+CẤP {0}!
+Cột mốc! +{0} chip
+Quay lại vào ngày mai để tiếp tục
++1 lượt đóng băng chuỗi
+CHUỖI {0} NGÀY!
+Phiên bản này không hỗ trợ mua hàng.
+Mua thất bại. Bạn không bị trừ tiền.
+Đã thêm +{0} chip!
+{0}: {1} ván với {2}% may mắn, sau May mắn người mới
+{0}: {1} ván với {2}% may mắn!
+{0}: +{1}% năng lượng
+Không khả dụng trên thiết bị này
+Không thể tải video trên mạng này
+Quay lại vào ngày mai
+Sẵn sàng sau {0} giây
++{0} chip (hôm nay còn {1})
++{0} chip miễn phí!
++1 lượt đóng băng chuỗi!
+Hiện không có video. Hãy thử lại sau giây lát.
+ĐỒNG
+BẠC
+VÀNG
+KIM CƯƠNG
+Menu
+Xem
+Dấu nhân
+Tròn
+Vuông
+Tam giác
+Đang kiểm tra khu vực của bạn...
+Chưa xác minh ({0}): giá chuẩn
+{0} ({1}): giá bằng {2}
+Lời nhắc
+Chip miễn phí đã sẵn sàng và lời nhắc chuỗi
+Chip miễn phí của bạn đã sẵn sàng
+{0} chip đang chờ bạn tại Lucky Ace.
+Giữ chuỗi {0} ngày của bạn
+Chơi {0} vòng hôm nay để chuỗi không bị đặt lại lúc nửa đêm.
+BACCARAT
+Chào mừng đến với baccarat! Con, Cái hay Hòa?
+CON
+HÒA
+CÁI
+KẾT QUẢ GẦN ĐÂY
+C
+N
+H
+HOÀN TÁC
+XÓA
+CƯỢC LẠI
+CHIA BÀI
+Không đủ chip cho mức cược đó.
+Đã đạt mức tối đa của bàn
+TỔNG CƯỢC  {0}
+Chọn một chip rồi chạm Con, Cái hoặc Hòa
+HÒA  {0}
+CON THẮNG  {0} - {1}
+CÁI THẮNG  {0} - {1}
+THẮNG  +{0}
+HOÀN LẠI  {0}
+Lần này chưa thắng
+Hãy chơi xong ván này trước.
+Chào mừng! Tối nay may mắn người mới đứng về phía bạn. Đặt cược đi!
+BLACKJACK TRẢ 3 ĂN 2   •   NHÀ CÁI DỪNG Ở MỌI ĐIỂM 17   •   BẢO HIỂM TRẢ 2 ĂN 1
+CƯỢC
+RÚT
+DỪNG
+GẤP ĐÔI
+TÁCH
+BẢO HIỂM
+KHÔNG, CẢM ƠN
+CƯỢC {0}+
+Không đủ chip
+Nhà cái lật át. Mua bảo hiểm {0}?
+Bảo hiểm trả {0}
+Nhà cái không có blackjack. Mất tiền bảo hiểm.
+QUẮC
+NHÀ CÁI QUẮC
+BLACKJACK!
+THẮNG
+HÒA
+THUA
+May mắn người mới đã hết. Chuỗi may mắn của bạn bắt đầu ngay bây giờ.
+May mắn người mới đã hết. Từ giờ là blackjack chuẩn.
+Chuỗi may mắn của bạn đã hết. Trở lại blackjack chuẩn.
+HẾT CHIP
+Xem một video ngắn để nhận {0} chip miễn phí, hoặc ghé quầy thu ngân.
+Ghé quầy thu ngân để nạp thêm chip.
+CHIP MIỄN PHÍ
+THU NGÂN
+ĐỂ SAU
+“{0}”
+THÊM MỘT VÁN
+RỜI ĐI
+MAY MẮN NGƯỜI MỚI
+CHUỖI MAY MẮN
+Thưởng chào mừng người chơi mới: trong <b>{0} ván</b> đầu tiên, hộp bài của nhà cái được sắp xếp có lợi cho bạn, nên bạn sẽ thắng gần như mọi ván.
+Trong <b>{0} ván</b> tiếp theo, lợi thế giảm dần, sau đó mọi bàn đều là blackjack chuẩn, công bằng, chia từ hộp 6 bộ bài đã xáo (blackjack trả 3 ăn 2, nhà cái dừng ở mọi điểm 17).
+Lợi thế hiện tại: <b><color=#7CFC9A>{0}%</color></b>   Số ván còn lại: <b>{1}</b>
+Trong <b>{0} ván blackjack</b> tiếp theo với mức cược tối đa <b>{1} chip</b>, mỗi lá bài có <b>{2}%</b> khả năng được chia có lợi cho bạn (cùng lợi thế với May mắn người mới).
+Nếu chơi tốt, bạn thắng khoảng <b>{0}%</b> số ván, so với khoảng {1}% ở blackjack chuẩn. Cược lớn hơn là blackjack chuẩn và không tính vào số ván. Khi hết ván, mọi bàn lại là blackjack chuẩn, công bằng.
+ĐÃ HIỂU
+MUỐN LẤY LẠI MAY MẮN?
+May mắn người mới đã hết: từ giờ mọi bàn đều là blackjack chuẩn, công bằng. Chuỗi may mắn mang lợi thế trở lại trong một thời gian.
+CRAPS
+Chào mừng đến với craps! Đặt cược Pass Line rồi gieo.
+SÁU
+CHÍN
+FIELD
+2 3 4 9 10 11 12  •  2 và 12 trả gấp đôi
+BẤT KỲ 7
+BẤT KỲ CRAPS
+DON'T PASS BAR
+1:1  •  12 là hòa
+PASS LINE
+ODDS
+tỷ lệ thực
+TẮT
+BẬT
+Cược odds đặt sau Pass Line khi đã có điểm.
+Cược odds cần có cược Pass Line.
+Cược odds của bạn đã tối đa.
+Cược theo đường đặt ở lượt gieo mở đầu.
+TRÊN BÀN  {0}
+Lượt mở đầu: đặt cược Pass Line rồi gieo. 7 hoặc 11 thắng, 2, 3 hoặc 12 thua. Cược Place bắt đầu có hiệu lực khi đã có điểm.
+Điểm là {0}: gieo lại được số đó trước số 7. Cược odds sau Pass Line trả theo tỷ lệ thực.
+GIEO
+Điểm là {0}.
+{0}! Đạt điểm. Thắng rồi!
+Ra 7. Người gieo mới, lượt mở đầu mới.
+{0}, natural! Pass Line thắng.
+{0}, craps. Cược đường thua.
+Chờ xúc xắc dừng lại nhé.
+RỜI BÀN?
+Cược đường của bạn vẫn đang chơi với điểm {0}. Rời đi bây giờ sẽ mất cược.
+HẰNG NGÀY
+CHUỖI HẰNG NGÀY
+NGÀY LIÊN TIẾP
+HÔM NAY
+XEM QUẢNG CÁO
+MUA
+ĐÓNG BĂNG CHUỖI
+Đóng băng chuỗi giữ chuỗi của bạn vào ngày bạn không chơi. Bạn có thể giữ tối đa {0}.\n\nMua một lượt với giá {1} chip?
+Đóng băng chuỗi đã sẵn sàng.
+Không đủ chip để mua đóng băng.
+HỦY
+VÒNG QUAY HẰNG NGÀY
+QUAY
+Tỉ lệ:
+{0}%
+Bạn đã thắng {0} chip!
+NHIỆM VỤ HÔM NAY
+Kỷ lục: {0} ngày
+Chơi mỗi ngày để xây dựng chuỗi
+Đã đạt mục tiêu hôm nay! Hẹn gặp ngày mai.
+Hôm nay: {0} / {1} vòng (trò bất kỳ)
+Đóng băng chuỗi: {0} / {1}
+Cứu chuỗi vào ngày bạn bỏ lỡ. +1 mỗi 7 ngày.
+ĐẦY
+KHÔNG CÓ VIDEO
+SẮP CÓ QUẢNG CÁO
+Thưởng chuỗi: giải thưởng ×{0}
+Một lượt quay miễn phí mỗi ngày
+TIẾP THEO  {0}
+Xong hết! Đã nhận thưởng.
+Nhiệm vụ mới lúc nửa đêm.
+Hoàn thành cả ba: +{0} chip thưởng
+HOLD'EM
+Chào mừng đến với hold'em! Đặt ante rồi cùng xem bài nào.
+ANTE
+BLIND
+CHƠI
+BLIND TRẢ THƯỞNG
+Nhà cái đủ điều kiện khi có một đôi trở lên
+CHECK
+BỎ BÀI
+CƯỢC {0}×
+Ante {0} + blind {0}. Giữ thêm {1} để tố.
+Chạm chip để đặt ante. Blind bằng ante.
+Check, hay cược gấp ba hoặc gấp bốn ante?
+Tố ngay 4× hoặc 3× ante, hoặc check để xem flop.
+Cơ hội cuối: cược 1× ante, hoặc bỏ bài và mất ante cùng blind.
+Cược 2× ante ngay, hoặc check để xem hai lá cuối.
+Flop đây.
+Turn và river.
+Xem bài của mình nào.
+Nhà cái không đủ điều kiện: ante được trả lại.
+Đã bỏ bài. Ván sau là của bạn.
+TRÒ CHƠI
+Kéo bên trái để đi  •  Kéo bên phải để nhìn  •  Chạm để đến
+Chỉ dành cho 18+  •  Chip chỉ để giải trí: không có giá trị tiền mặt, không bao giờ đổi được thành tiền hoặc giải thưởng
+Đang mở cửa...
+Chào mừng! {0} chip chào mừng của bạn đã sẵn sàng. Các bàn ở ngay phía trước!
++{0} chip miễn phí! Thêm sau {1} giờ.
+Chip miễn phí được nạp lại mỗi {0} giờ. Lần tới sau {1}.
+{0} giờ {1} phút
+{0} phút {1} giây
+GIỮ CHUỖI CỦA BẠN
+Bạn muốn được nhắc vào những buổi tối chưa chơi, và khi chip miễn phí đã sẵn sàng? Không bao giờ nhiều hơn thế, và bạn có thể tắt trong Cài đặt.
+NHẮC TÔI
++{0} chip đã sẵn sàng!
+Xem video: {0}
+Chip miễn phí tiếp theo sau {0}
+BLACKJACK
+4 bàn  •  trả 3 ăn 2
+Ultimate Texas Hold'em
+Con, Cái hoặc Hòa
+MÁY SLOT
+Lucky Ace 7s  •  10 đường
+VIDEO POKER
+Jacks or Better
+TÀI XỈU
+Ba xúc xắc  •  tài hay xỉu
+Pass Line  •  Field  •  Odds
+ROULETTE
+Kiểu châu Âu một số 0
+BẠN KIỆT SỨC RỒI
+Thanh năng lượng đã cạn. Lấy gì đó ở quầy bar để chơi tiếp, hoặc quay lại sau: năng lượng hồi dần khi bạn vắng mặt.
+ĐẾN QUẦY BAR
+CHỌN BÀN CỦA BẠN
+MỨC CƯỢC
+CẤP {0}
+NGỒI XUỐNG
+CẦN {0}
+Đạt cấp {0} để chơi ở đây. Bạn đang ở cấp {1}.
+SÒNG BÀI
+NN
+TT
+NNNN
+NGÀY
+THÁNG
+NĂM
+BẠN SINH NGÀY NÀO?
+Chip chỉ dùng để giải trí. Chip không có giá trị tiền mặt và không bao giờ đổi được thành tiền hoặc giải thưởng.
+XIN LỖI, BẠN KHÔNG THỂ CHƠI
+{0} chỉ dành cho người trưởng thành.
+THOÁT
+Đóng sau {0}...
+HÃY CHO CHÚNG TÔI BIẾT VỀ BẠN
+Chúng tôi sẽ chọn nhân viên tiếp đón, chia bài và quầy bar phù hợp. Bạn có thể đổi bất cứ lúc nào trong Cài đặt.
+TÔI LÀ NAM
+TÔI LÀ NỮ
+KHÔNG MUỐN NÓI
+VÀO SÒNG BÀI
+Nhân viên của bạn tối nay:
+Trang {0}/{1}
+NGÔN NGỮ
+TỰ ĐỘNG
+QUỐC GIA
+Xin chào! Mời quý khách đặt cược.
+Giới hạn bàn là {0} mỗi lượt quay.
+Chạm vào bàn để đặt chip
+Ngừng đặt cược!
+XANH
+xanh
+đỏ
+đen
+Trúng rồi! Xin chúc mừng!
+Thắng! Bạn thắng {0}.
+{0} {1}. Bạn nhận lại {2}.
+Mời quý khách đặt cược.
+Hãy chờ bi dừng lại.
+CÀI ĐẶT
+CHUNG
+ĐỒ HỌA
+ÂM THANH
+CẢM ỨNG
+CHUỘT
+TAY CẦM
+RUNG
+18+ • Chip không có giá trị tiền mặt • Phông chữ: Bebas Neue, Poppins, Noto (SIL OFL) • Biên giới: Natural Earth • Dữ liệu giá: Ngân hàng Thế giới
+NHÂN VIÊN SÒNG BÀI
+NỮ
+NAM
+HỖN HỢP
+LỜI NHẮC
+Chip miễn phí đã sẵn sàng, và lời nhắc buổi tối trước khi chuỗi kết thúc.
+KIỂM TRA LẠI
+KHU VỰC GIÁ
+Nhanh nhất: sòng bài như tranh vẽ, không thêm gì.
+Sàn bóng, gỗ và vàng phản chiếu căn phòng.
+Chất điện ảnh: chỉnh màu, hạt phim, ánh sáng lan, tia sáng, làn da sống động.
+Ống kính điện ảnh: lấy nét theo ánh mắt, vệt sáng trên đèn, bụi trong tia sáng.
+CHẤT LƯỢNG
+THẤP
+TRUNG BÌNH
+CAO
+SIÊU CAO
+ĐỘ PHÂN GIẢI
+Thấp hơn thì mềm hơn nhưng mát máy và tiết kiệm pin.
+CHẾ ĐỘ HIỂN THỊ
+TOÀN MÀN HÌNH
+CỬA SỔ
+KHỬ RĂNG CƯA
+Làm mịn các cạnh răng cưa trong sòng bài.
+TỐC ĐỘ KHUNG HÌNH
+{0} FPS
+30 FPS tiết kiệm pin và giữ điện thoại cũ luôn mát.
+V-SYNC
+TRƯỜNG NHÌN
+HIỆN FPS
+ÂM LƯỢNG TỔNG
+NHẠC
+HIỆU ỨNG ÂM THANH
+GIỌNG NHÂN VIÊN
+Tiếng rì rầm của nhân viên khi trò chuyện.
+TẮT TIẾNG KHI CHẠY NỀN
+Tắt tiếng sòng bài khi bạn ở cửa sổ khác.
+ĐỘ NHẠY NHÌN
+Tốc độ xoay góc nhìn khi kéo.
+Tốc độ xoay góc nhìn khi kéo chuột.
+ĐẢO NHÌN TRÁI / PHẢI
+ĐẢO NHÌN LÊN / XUỐNG
+BỐ CỤC NÚT
+TỰ ĐỘNG
+ĐỔI MENU / XEM
+ĐỘ NHẠY CẦN ĐIỀU KHIỂN
+Tốc độ cần phải xoay góc nhìn.
+ĐẢO CẦN TRÁI / PHẢI
+ĐẢO CẦN LÊN / XUỐNG
+GỢI Ý TAY CẦM
+Hiện chức năng của từng nút khi bạn chơi bằng tay cầm.
+RUNG TRÊN
+ĐIỆN THOẠI
+CẢ HAI
+Tự động: tay cầm khi đã kết nối, nếu không thì điện thoại.
+RUNG ĐIỆN THOẠI
+ĐỘ MẠNH ĐIỆN THOẠI
+RUNG TAY CẦM
+ĐỘ MẠNH TAY CẦM
+TỰ ĐỘNG ({0})
+{0} mở Cài đặt, {1} mở Hằng ngày.
+Chưa kết nối tay cầm.
+Đã kết nối: {0}. Hiển thị nút {1} (A bên phải để xác nhận).
+Đã kết nối: {0}. Hiển thị nút {1}.
+QUẦY BAR
+MAY MẮN
+Chip, may mắn và đồ ăn là vật phẩm ảo chỉ để giải trí: không có giá trị tiền mặt, không đổi được thành tiền hoặc giải thưởng.
+Mỗi lá bài có khả năng đó để được chia có lợi cho bạn, với cược blackjack tối đa {0} chip (cược lớn hơn là chuẩn và không tính vào số ván). Bắt đầu sau May mắn người mới; gói mạnh hơn được dùng trước.
+Cho phép truy cập vị trí để nhận giá theo quốc gia của bạn
+Phiên bản trò chơi này không hỗ trợ mua hàng.
+CỬA HÀNG THỬ (không dùng tiền thật)
+năng lượng
++{0}% CHIP
+{0} ván
+thắng khoảng {0}% trong số đó
+Chào mừng đến với tài xỉu! Tài, xỉu hay thứ gì táo bạo hơn?
+Mức cược tối đa của bàn là {0} mỗi lượt.
+LẮC
+BỘ BA {0}!
+LUCKY ACE 7s
+TỔNG CƯỢC
+BẢNG TRẢ THƯỞNG
+CHÚC MAY MẮN!
+Bạn cần ít nhất 10 chip để quay.
+NHẬN CHIP
+Đã giảm cược xuống mức bạn có thể trả.
+THẮNG CỰC LỚN!
+THẮNG LỚN!
+HOÀN LẠI {0}
+KHÔNG THẮNG
+ĐƯỜNG {0}: {1} × {2} = {3}
+{0} NGÔI SAO = {1}
+Anh đào
+Chanh
+Cam
+Mận
+Chuông
+Bar
+Số Bảy
+Kim cương
+Át
+Ngôi sao
+NGÔI SAO trả thưởng ở bất kỳ vị trí nào: 5 = {0}× cược, 4 = {1}× cược, 3 = {2}× cược.
+ÁT là biểu tượng thay thế: thay cho mọi biểu tượng trừ ngôi sao.
+Thưởng đường là bội số của cược mỗi đường (tổng cược ÷ 10), tính từ trái sang phải bắt đầu từ cuộn đầu tiên.
+TỈ LỆ HOÀN TRẢ: {0}% về lâu dài. Mỗi lượt quay độc lập và ngẫu nhiên.
+GIỮ
+Chia bài, giữ những lá bạn muốn, đổi một lần.
+GIỮ
+GỢI Ý
+ĐỔI
+Chạm vào các lá để giữ, rồi đổi bài.
+Đi
+Nhìn
+Nút
+Cài đặt
+Hằng ngày
+Điều chỉnh
+Di chuyển
+Chọn
+Đóng
+Quay lại
+KIỆT SỨC
+MAY MẮN NGƯỜI MỚI {0}%
+CÒN {0} VÁN
+CHUỖI MAY MẮN {0}%
+{0} VÁN  •  CƯỢC TỐI ĐA {1}
+CẤP
+Sofia
+Elena
+Mia
+Valentina
+Chloe
+Isabella
+Nadia
+Aria
+Luna
+Camila
+Aurora
+Bianca
+Serena
+Marco
+Leo
+Adrian
+Lucas
+Viktor
+Daniel
+Gabriel
+Ethan
+Julian
+Rafael
+Mateo
+Nico
+Enzo
+CHÀO MỪNG
+TRÒ CHUYỆN VỚI LỄ TÂN
+Chỉ đường và mẹo
+CHIP  •  THƯỞNG
+MUA CHIP
+Thu ngân
+COCKTAIL  •  ĐỒ ĂN VẶT  •  NĂNG LƯỢNG
+ĐỒ ĂN & THỨC UỐNG
+Quầy bar
+BLACKJACK TRẢ 3 ĂN 2
+NHÀ CÁI PHẢI DỪNG Ở 17
+CHƠI BLACKJACK
+Bàn {0}  •  cược {1} đến {2}
+CHƠI HOLD'EM
+Ultimate Texas Hold'em  •  ante {0} đến {1}
+CHƠI BACCARAT
+TÀI  •  XỈU  •  BỘ BA
+CHƠI TÀI XỈU
+Ba xúc xắc  •  tài hoặc xỉu trả 1 ăn 1
+PASS LINE  •  FIELD  •  ODDS
+CHƠI CRAPS
+Pass Line trả 1 ăn 1  •  odds trả theo tỷ lệ thực
+CHƠI VIDEO POKER
+CHƠI SLOT
+Jacks or Better  •  bảng trả thưởng đầy đủ 9/6
+LUCKY ACE 7s  •  TRẢ ĐẾN 2.500× CƯỢC ĐƯỜNG CỦA BẠN
+JACKS OR BETTER  •  THÙNG PHÁ SẢNH LỚN TRẢ 800×
+MỜI ĐẶT CƯỢC
+CHƠI ROULETTE
+Vòng quay châu Âu  •  số đơn trả 35 ăn 1
+GỌI ĐỒ UỐNG
+{0} sẽ mang đến
+{0} mở ở cấp {1}. Bạn đang ở cấp {2}: mỗi vòng bạn chơi đều được tính.
+Bàn này cần ít nhất {0} chip.
+Các bàn blackjack ở ngay phía trước. Đến một bàn và ngồi xuống nhé!
+Máy slot ở tường bên phải, video poker ở tường phía sau, còn vòng quay roulette ở tận cùng.
+Hold'em ở góc trái phía sau, qua quầy bar.
+Baccarat ở ngay bên trái khi bạn bước vào.
+Tài xỉu ở góc sau quầy thu ngân: ba xúc xắc, tài hay xỉu.
+Bàn craps ở bên phải, trước các máy slot. Đặt cược Pass Line rồi gieo!
+Quầy thu ngân ngay đây bên phải bạn, còn quầy bar dọc theo tường bên trái.
+Mệt rồi à? Một món ăn vặt ở quầy bar sẽ nạp đầy năng lượng ngay.
+Chạm vào bất kỳ đâu trên sàn để đi đến đó. Chạm vào một bàn để ngồi xuống.
+Andorra
+Các Tiểu Vương quốc Ả Rập Thống nhất
+Afghanistan
+Antigua và Barbuda
+Anguilla
+Albania
+Armenia
+Angola
+Nam Cực
+Argentina
+Samoa thuộc Mỹ
+Áo
+Australia
+Aruba
+Quần đảo Åland
+Azerbaijan
+Bosnia và Herzegovina
+Barbados
+Bangladesh
+Bỉ
+Burkina Faso
+Bulgaria
+Bahrain
+Burundi
+Benin
+St. Barthélemy
+Bermuda
+Brunei
+Bolivia
+Ca-ri-bê Hà Lan
+Brazil
+Bahamas
+Bhutan
+Đảo Bouvet
+Botswana
+Belarus
+Belize
+Canada
+Quần đảo Cocos (Keeling)
+Congo - Kinshasa
+Cộng hòa Trung Phi
+Congo - Brazzaville
+Thụy Sĩ
+Côte d’Ivoire
+Quần đảo Cook
+Chile
+Cameroon
+Trung Quốc
+Colombia
+Costa Rica
+Cuba
+Cape Verde
+Curaçao
+Đảo Giáng Sinh
+Síp
+Séc
+Đức
+Djibouti
+Đan Mạch
+Dominica
+Cộng hòa Dominica
+Algeria
+Ecuador
+Estonia
+Ai Cập
+Tây Sahara
+Eritrea
+Tây Ban Nha
+Ethiopia
+Phần Lan
+Fiji
+Quần đảo Falkland
+Micronesia
+Quần đảo Faroe
+Pháp
+Gabon
+Vương quốc Anh
+Grenada
+Georgia
+Guiana thuộc Pháp
+Guernsey
+Ghana
+Gibraltar
+Greenland
+Gambia
+Guinea
+Guadeloupe
+Guinea Xích Đạo
+Hy Lạp
+Nam Georgia & Quần đảo Nam Sandwich
+Guatemala
+Guam
+Guinea-Bissau
+Guyana
+Đặc khu Hành chính Hồng Kông, Trung Quốc
+Quần đảo Heard và McDonald
+Honduras
+Croatia
+Haiti
+Hungary
+Indonesia
+Ireland
+Israel
+Đảo Man
+Ấn Độ
+Lãnh thổ Ấn Độ Dương thuộc Anh
+Iraq
+Iran
+Iceland
+Italy
+Jersey
+Jamaica
+Jordan
+Nhật Bản
+Kenya
+Kyrgyzstan
+Campuchia
+Kiribati
+Comoros
+St. Kitts và Nevis
+Triều Tiên
+Hàn Quốc
+Kuwait
+Quần đảo Cayman
+Kazakhstan
+Lào
+Li-băng
+St. Lucia
+Liechtenstein
+Sri Lanka
+Liberia
+Lesotho
+Litva
+Luxembourg
+Latvia
+Libya
+Ma-rốc
+Monaco
+Moldova
+Montenegro
+St. Martin
+Madagascar
+Quần đảo Marshall
+Bắc Macedonia
+Mali
+Myanmar (Miến Điện)
+Mông Cổ
+Đặc khu Hành chính Macao, Trung Quốc
+Quần đảo Bắc Mariana
+Martinique
+Mauritania
+Montserrat
+Malta
+Mauritius
+Maldives
+Malawi
+Mexico
+Malaysia
+Mozambique
+Namibia
+New Caledonia
+Niger
+Đảo Norfolk
+Nigeria
+Nicaragua
+Hà Lan
+Na Uy
+Nepal
+Nauru
+Niue
+New Zealand
+Oman
+Panama
+Peru
+Polynesia thuộc Pháp
+Papua New Guinea
+Philippines
+Pakistan
+Ba Lan
+Saint Pierre và Miquelon
+Quần đảo Pitcairn
+Puerto Rico
+Lãnh thổ Palestine
+Bồ Đào Nha
+Palau
+Paraguay
+Qatar
+Réunion
+Romania
+Serbia
+Nga
+Rwanda
+Ả Rập Xê-út
+Quần đảo Solomon
+Seychelles
+Sudan
+Thụy Điển
+Singapore
+St. Helena
+Slovenia
+Svalbard và Jan Mayen
+Slovakia
+Sierra Leone
+San Marino
+Senegal
+Somalia
+Suriname
+Nam Sudan
+São Tomé và Príncipe
+El Salvador
+Sint Maarten
+Syria
+Eswatini
+Quần đảo Turks và Caicos
+Chad
+Lãnh thổ phía Nam Thuộc Pháp
+Togo
+Thái Lan
+Tajikistan
+Tokelau
+Timor-Leste
+Turkmenistan
+Tunisia
+Tonga
+Thổ Nhĩ Kỳ
+Trinidad và Tobago
+Tuvalu
+Đài Loan
+Tanzania
+Ukraina
+Uganda
+Các tiểu đảo xa của Hoa Kỳ
+Hoa Kỳ
+Uruguay
+Uzbekistan
+Thành Vatican
+St. Vincent và Grenadines
+Venezuela
+Quần đảo Virgin thuộc Anh
+Quần đảo Virgin thuộc Hoa Kỳ
+Việt Nam
+Vanuatu
+Wallis và Futuna
+Samoa
+Kosovo
+Yemen
+Mayotte
+Nam Phi
+Zambia
+Zimbabwe
+Tiếng Anh
+Tiếng Hà Lan (Nam Phi)
+Tiếng Amharic
+Tiếng Ả Rập
+Tiếng Azerbaijan
+Tiếng Belarus
+Tiếng Bulgaria
+Tiếng Bangla
+Tiếng Bosnia
+Tiếng Catalan
+Tiếng Séc
+Tiếng Đan Mạch
+Tiếng Đức
+Tiếng Hy Lạp
+Tiếng Tây Ban Nha
+Tiếng Estonia
+Tiếng Basque
+Tiếng Ba Tư
+Tiếng Phần Lan
+Tiếng Philippines
+Tiếng Pháp
+Tiếng Ireland
+Tiếng Galician
+Tiếng Gujarati
+Tiếng Hausa
+Tiếng Do Thái
+Tiếng Hindi
+Tiếng Croatia
+Tiếng Pháp (Haiti)
+Tiếng Hungary
+Tiếng Armenia
+Tiếng Indonesia
+Tiếng Igbo
+Tiếng Iceland
+Tiếng Italy
+Tiếng Nhật
+Tiếng Georgia
+Tiếng Kazakh
+Tiếng Khmer
+Tiếng Kannada
+Tiếng Hàn
+Tiếng Kyrgyz
+Tiếng Luxembourg
+Tiếng Lào
+Tiếng Litva
+Tiếng Latvia
+Tiếng Malagasy
+Tiếng Macedonia
+Tiếng Malayalam
+Tiếng Mông Cổ
+Tiếng Marathi
+Tiếng Mã Lai
+Tiếng Malta
+Tiếng Miến Điện
+Tiếng Na Uy (Bokmål)
+Tiếng Nepal
+Tiếng Hà Lan
+Tiếng Punjab
+Tiếng Ba Lan
+Tiếng Pashto
+Tiếng Bồ Đào Nha (Brazil)
+Tiếng Bồ Đào Nha (Bồ Đào Nha)
+Tiếng Romansh
+Tiếng Romania
+Tiếng Nga
+Tiếng Kinyarwanda
+Tiếng Sinhala
+Tiếng Slovak
+Tiếng Slovenia
+Tiếng Somali
+Tiếng Albania
+Tiếng Serbia
+Tiếng Thụy Điển
+Tiếng Swahili
+Tiếng Tamil
+Tiếng Telugu
+Tiếng Tajik
+Tiếng Thái
+Tiếng Turkmen
+Tiếng Thổ Nhĩ Kỳ
+Tiếng Ukraina
+Tiếng Urdu
+Tiếng Uzbek
+Tiếng Việt
+Tiếng Xhosa
+Tiếng Yoruba
+Tiếng Trung (Giản thể)
+Tiếng Trung (Phồn thể)
+Tiếng Zulu
+CN
+Th 2
+Th 3
+Th 4
+Th 5
+Th 6
+Th 7

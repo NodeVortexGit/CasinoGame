@@ -1,0 +1,659 @@
+# French (fr). Machine translation by Claude.
+bd99124	Poignée de jetons
+c7c6dc8	Pile de jetons
+7512cfd	Plateau de jetons
+fa36588	Rack de jetons
+7994f65	LE PLUS POPULAIRE
+49dcc21	Coffre de jetons
+0725283	Coffre du flambeur
+7658705	MEILLEUR PRIX
+2f23432	Eau pétillante
+418b820	Expresso
+97b463c	Boisson énergisante
+43bbfda	Club sandwich
+bce7a75	Menu burger
+2832a8d	Dîner steak
+dee8ee8	RECHARGE TOTALE
+a7c2255	Série chanceuse
+7919163	Série brûlante
+74fdfc2	LE PLUS DE CHANCE
+d79cd12	Table bronze
+2a8ff35	Table argent
+51877b2	Table or
+9282152	Table diamant
+0de8764	Veuillez saisir une année valide.
+d4e14c9	Veuillez saisir un mois valide (1-12).
+addd156	Veuillez saisir un jour valide.
+d78a4f4	Cette date est dans le futur.
+787c7c6	Bienvenue à ma table ! Prêt à jouer ?
+8b0f93e	Ravie de vous voir. Installez-vous !
+8338021	Bonsoir ! Les cartes sont neuves, et moi aussi.
+75750f9	Bienvenue ! Faisons de ce soir une belle soirée.
+95aac36	Misez quand vous êtes prêt.
+8bc63c1	Les jetons sur la table, et voyons les cartes.
+984b7f3	On joue pour combien ?
+b74c769	Oh, une grosse mise ! J'aime votre style.
+77fc1fc	Ça, c'est une mise ! Allons-y !
+7779a5b	On se sent audacieux ce soir, hein ?
+479ff82	Tapis ?! Mon cœur s'emballe !
+7fb527c	Tout sur une seule main. Sans peur !
+7bf0c5d	Blackjack ! Incroyable !
+123f2d5	Vingt-et-un, comme ça !
+cd850a7	Blackjack ! Les cartes vous adorent ce soir.
+55f50ee	Bien joué !
+79594b1	Gagné ! Bravo.
+0df710e	Vous êtes en veine !
+20a0c1e	Celle-là est pour vous.
+a45fe61	Quel gain ! Tout le monde regarde cette table !
+54d3982	Énorme ! Vous êtes en feu ce soir !
+8da8f1e	C'était juste ! La prochaine est pour vous.
+5d921e1	La maison a eu de la chance cette fois.
+f923af7	Ce n'est rien, une nouvelle main arrive.
+853e7ca	Aïe, une carte de trop.
+daec44f	Sauté ! Ça arrive aux meilleurs.
+11ceaef	Égalité. Personne ne perd !
+911a289	Égalité. Vos jetons sont en sécurité.
+a89d9d9	J'ai sauté ! Quelle chance vous avez.
+f76c8fd	Trop pour moi. Vous gagnez !
+63f8d0b	Blackjack pour la maison, désolée !
+465c8bf	Blackjack du croupier. Pas de chance.
+6752f40	J'ai un as. Assurance ?
+1920c5a	Séparation ! Deux chances de gagner.
+9f621da	Doublé. Quel courage !
+59da99d	Doublez ! Une carte arrive.
+0b48017	Nouveau sabot, je mélange !
+3fa7769	Plus beaucoup de jetons ? La caisse peut vous recharger.
+4e5694b	Les jetons s'amenuisent. Vous en voulez d'autres ?
+d41f057	Plus de jetons ! Passez à la caisse ou prenez des jetons gratuits.
+15d90d3	Votre pile est vide. La caisse est juste derrière vous.
+a9eaae1	Vous avez l'air épuisé ! Mangez un morceau au bar.
+5cd9e8b	Plus d'énergie ? Le bar s'occupe de vous.
+37b9672	Prenez votre temps.
+c64df8c	Quand vous voulez !
+b8dfc0a	La nuit est jeune.
+8748560	La chance du débutant est avec vous !
+e3def50	Le paquet est en votre faveur ce soir !
+506ade9	La chance du débutant est terminée. Désormais, le jeu est équitable !
+953d8b7	Bienvenue au casino ! Votre place vous attend.
+9fd9844	Bonsoir ! Les tables sont chaudes ce soir.
+2d42aaf	Bon retour ! Vous vous sentez chanceux ?
+311bae7	Touchez une table pour commencer à jouer !
+3318099	Besoin de jetons ? Vous êtes au bon guichet.
+c5b3787	Plus de jetons, plus de bonus !
+21ae665	Une petite faim ? Choisissez ce que vous voulez à la carte.
+8b83cc0	Un en-cas garde votre énergie au top !
+35f4b0e	Bienvenue à ma table !
+8f90245	Vous voilà ! L'endroit est déjà plus lumineux.
+909e4d6	Faites comme chez vous. Ce soir, tout est pour vous.
+2477f78	J'adore ce sourire. Soirée chanceuse ?
+6ac2120	Détendez-vous, vous êtes entre de bonnes mains.
+089f04b	Coucou ! J'espérais que vous passeriez à mon guichet.
+3f2c3c9	Toujours agréable de voir un visage amical.
+3021db8	Regardez qui voilà ! Vous vous amusez ?
+769980b	Bonsoir, beau gosse !
+5361ffd	J'aime votre style ce soir.
+56b40be	Ravie de vous revoir !
+3316019	Bonne soirée ? Vous le méritez.
+28283fd	Attention, je pourrais commencer à vous encourager.
+109ac94	Mon joueur préféré est de retour !
+acba0e6	Asseyez-vous avec moi, je vais vous servir quelque chose de beau.
+eb5ff2a	Avec vous, cette table est bien plus amusante.
+772a73c	Vous partez déjà ? La nuit est jeune !
+178301a	Allez, juste une main de plus. Je la sens bien, celle-là !
+816036a	Vous ne pouvez pas me laisser maintenant, on commence à peine !
+5c9b7e2	Dernière chance ! La prochaine main pourrait être la bonne...
+20ce7b6	D'accord, d'accord. Je vous garde la place au chaud. Promis, vous revenez ?
+51d1aeb	Pas encore de série ? Jouez {2} manches aujourd'hui et je commence à compter.
+10b25d9	Nouveau départ ! {2} manches et votre flamme s'allume.
+0c10711	Je tiens une petite liste de ceux qui viennent chaque jour. Vous n'y êtes pas... pas encore.
+5e7c431	Le jour {1} vous attend. Plus que {2} manches !
+b268d84	{0} jours d'affilée... vous n'allez pas vous arrêter maintenant, si ?
+b32ae79	Votre flamme semble un peu froide aujourd'hui. {2} manches devraient la réchauffer.
+a6f3fbd	Je compte : {0} jours. Passons à {1}.
+1dc5c97	Ne croyez pas que je n'ai rien vu. Plus que {2} manches pour garder votre série !
+807b82c	{0} jours d'affilée ? Je commence à croire que vous vous plaisez ici.
+6391923	Votre série est sauve pour aujourd'hui. Maintenant, vous frimez.
+3bfbbf7	Jour {0}, validé. Demain, même heure ?
+ca2a2c1	{0} jours ! À ce stade, je devrais vous réserver une place.
+54f991f	Et voilà : le premier jour de votre série ! Revenez demain et ce sera deux.
+a1e7ab0	Une semaine entière d'affilée ! Je suis vraiment impressionnée.
+96cee95	Trente jours ! Vous travaillez presque ici.
+a9834cd	Cent jours. Je parle de vous à tout le monde.
+071317f	Ça fait {0} jours d'affilée ! Regardez-vous.
+0964027	Série sauvée : jour {0} ! Je savais que vous y arriveriez.
+c7f2a1f	Jour {0} ! Je parie que vous n'irez pas jusqu'à {1}.
+a6ce2e2	{0} jours... d'accord, le frimeur.
+3ab91d0	Jouez 10 mains de blackjack
+38e863d	Gagnez 5 mains de blackjack
+6ac41cc	Obtenez un blackjack
+74cf149	Gagnez 500 jetons au blackjack
+66440e1	Lancez les machines à sous 20 fois
+9205056	Gagnez 5 tours aux machines à sous
+cd60e0c	Gagnez 5× votre mise aux machines à sous
+6f7ac28	Jouez 5 manches de roulette
+6978cc0	Gagnez 3 tours de roulette
+c8ebbcc	Touchez un numéro plein
+8a57c54	position GPS
+4919635	réseau mobile
+527b094	connexion internet
+f49ae82	réglages de l'appareil
+60827d3	pays de test
+0b2f8d8	non vérifié (prix standard)
+50d8b4a	inconnu
+4fb7a4e	1re douzaine
+647a0eb	2e douzaine
+a934745	3e douzaine
+3de80ab	2 contre 1
+bb4e68e	ROUGE
+a9414ab	NOIR
+710756a	IMPAIR
+70ca748	PAIR
+4d60d6c	DES PRIX JUSTES POUR VOTRE PAYS
+1674d95	Les prix de la boutique sont adaptés à l'économie de votre pays, pour que les joueurs du monde entier paient un prix juste.
+4ec27ee	Pour connaître votre pays, nous vérifions une fois votre position approximative. Elle est associée à un pays sur votre appareil et n'est jamais envoyée nulle part. Si vous refusez, les prix standard s'appliquent.
+ff3dbb4	CONTINUER
+43a6a8d	Quitter le casino ?
+ad209a0	Vos jetons et votre progression sont enregistrés.
+5860c84	QUITTER
+f1e0808	RESTER
+5b38c49	{0} débloquée
+15ae7ac	Hier, un gel de série a sauvé votre série de {0} jours.
+d375ffb	{0} gels de série ont sauvé votre série de {1} jours.
+fd8ab39	Votre série de {0} jours est terminée. Jouez {1} manches aujourd'hui pour en commencer une nouvelle !
+7fa2db4	MISSION ACCOMPLIE
+255325c	+{0} jetons
+d205ece	TOUTES LES MISSIONS ACCOMPLIES !
+4acbed2	Bonus quotidien +{0} jetons. Nouvelles missions demain.
+ab2ceb3	NIVEAU {0} !
+86e2afb	Palier ! +{0} jetons
+9ae18ad	Revenez demain pour continuer
+7af7e7c	+1 gel de série
+b5b9597	SÉRIE DE {0} JOURS !
+62ec60d	Les achats ne sont pas disponibles dans cette version.
+1f9786c	L'achat a échoué. Vous n'avez pas été débité.
+3e4c600	+{0} jetons ajoutés !
+1998202	{0} : {1} mains à {2} % de chance, après la Chance du débutant
+728ada5	{0} : {1} mains à {2} % de chance !
+af5e232	{0} : +{1} % d'énergie
+001a53b	Non disponible sur cet appareil
+2607004	Les vidéos ne se chargent pas sur ce réseau
+569c30d	Revenez demain
+ecae6ee	Prêt dans {0} s
+9964820	+{0} jetons ({1} restantes aujourd'hui)
+e1bd888	+{0} jetons gratuits !
+619bd5d	+1 gel de série !
+f70d794	Aucune vidéo disponible pour le moment. Réessayez dans un instant.
+264d71b	BRONZE
+462e839	ARGENT
+81ff70a	OR
+50e122e	DIAMANT
+57f5f5e	Menu
+69bd4ef	Affichage
+dbfe736	Croix
+1cc7820	Rond
+82810cb	Carré
+73d3ae2	Triangle
+a42f608	Vérification de votre région...
+1db422c	Non vérifié ({0}) : prix standard
+9bc0807	{0} ({1}) : prix en {2}
+ae8c393	Rappels
+aefd59b	Jetons gratuits prêts et rappels de série
+3125838	Vos jetons gratuits sont prêts
+233027b	{0} jetons vous attendent au Lucky Ace.
+b93976b	Gardez votre série de {0} jours
+bd68038	Jouez {0} manches aujourd'hui pour qu'elle ne retombe pas à zéro à minuit.
+0acfb6f	Bienvenue ! La chance du débutant est avec vous ce soir. Faites vos jeux !
+d589374	LE BLACKJACK PAIE 3 CONTRE 2   •   LE CROUPIER RESTE SUR TOUS LES 17   •   L'ASSURANCE PAIE 2 CONTRE 1
+b700b02	MISE
+16ec74f	EFFACER
+928226b	REMISER
+55591e0	DISTRIBUER
+395ed46	CARTE
+43e7971	RESTER
+097274c	DOUBLER
+6df63ca	SÉPARER
+3e40f46	ASSURER
+db82d3a	NON MERCI
+28d6be8	MISE {0}+
+9587b70	Maximum de la table atteint
+b9ac47d	Pas assez de jetons
+d237ade	Le croupier montre un as. Vous assurer pour {0} ?
+bf07c14	L'assurance paie {0}
+b6e674a	Pas de blackjack pour le croupier. Assurance perdue.
+0cc9679	SAUTÉ
+82ce89d	LE CROUPIER SAUTE
+6e1e1a4	BLACKJACK !
+662fae5	GAGNÉ
+8918d00	ÉGALITÉ
+8df6be4	PERDU
+9e69668	La chance du débutant est terminée. Votre Série chanceuse commence maintenant.
+822f4f4	La chance du débutant est terminée. Désormais, c'est du blackjack standard.
+b0377c7	Votre Série chanceuse est terminée. Retour au blackjack standard.
+824ad7c	PLUS DE JETONS
+ff1822d	Regardez une courte vidéo pour {0} jetons gratuits, ou passez à la caisse.
+e4cac2f	Passez à la caisse pour recharger vos jetons.
+c3df3e7	JETONS GRATUITS
+b169d33	CAISSE
+4d38f66	PLUS TARD
+cb8171b	Terminez d'abord cette main.
+3aa6941	« {0} »
+6f846f4	ENCORE UNE MAIN
+a79d4f2	PARTIR
+693f697	CHANCE DU DÉBUTANT
+641ad58	SÉRIE CHANCEUSE
+fc45931	Bonus de bienvenue : pour vos <b>{0} premières mains</b>, le sabot du croupier est arrangé en votre faveur, vous gagnerez donc presque chaque main.
+576c683	Pendant les <b>{0} mains</b> suivantes, l'avantage s'estompe, puis chaque table est un blackjack standard et équitable, distribué depuis un sabot mélangé de 6 jeux (le blackjack paie 3 contre 2, le croupier reste sur tous les 17).
+7fb55b3	Avantage actuel : <b><color=#7CFC9A>{0} %</color></b>   Mains restantes : <b>{1}</b>
+d4f8fe0	Pour vos <b>{0} prochaines mains de blackjack</b> avec une mise jusqu'à <b>{1} jetons</b>, chaque carte a <b>{2} %</b> de chances d'être distribuée en votre faveur (le même avantage que la Chance du débutant).
+0a5fc06	Avec un bon jeu, cela gagne environ <b>{0} %</b> des mains, contre environ {1} % au blackjack standard. Les mises plus élevées sont du blackjack standard et n'utilisent pas de mains. Quand les mains sont épuisées, chaque table redevient un blackjack standard et équitable.
+c3a8946	COMPRIS
+8dfc44a	VOUS VOULEZ RETROUVER VOTRE CHANCE ?
+272a97f	La Chance du débutant est terminée : désormais, chaque table est un blackjack standard et équitable. Une Série chanceuse ramène l'avantage pendant un moment.
+06b7689	QUOTIDIEN
+4035996	SÉRIE QUOTIDIENNE
+fbe7f18	JOURS D'AFFILÉE
+7a46866	AUJ.
+4753707	VOIR UNE PUB
+6bb45f3	ACHETER
+62a945f	GEL DE SÉRIE
+ba5b1de	Un gel de série garde votre série en vie un jour où vous ne jouez pas. Vous pouvez en avoir {0}.\n\nEn acheter un pour {1} jetons ?
+38c6090	Gel de série prêt.
+8fe681f	Pas assez de jetons pour un gel.
+1507c40	ANNULER
+457d20f	ROUE DU JOUR
+9623247	TOURNER
+ac5ef96	Chances :
+1200f20	{0} %
+003a689	Vous avez gagné {0} jetons !
+f757137	MISSIONS DU JOUR
+7b7f9e2	Record : {0} jours
+9554fea	Jouez chaque jour pour construire une série
+5c8dbb8	Objectif du jour atteint ! À demain.
+1aeb9a1	Aujourd'hui : {0} / {1} manches (tous jeux)
+bb92856	Gels de série : {0} / {1}
+0ec6216	Sauvez votre série un jour où vous manquez. +1 tous les 7 jours.
+cc0a745	PLEIN
+419a962	PAS DE VIDÉO
+2dabd99	PUB BIENTÔT
+f12e166	Bonus de série : gains ×{0}
+80948a4	Un tour gratuit chaque jour
+596b5e0	PROCHAIN  {0}
+7f7e7fc	Tout est fait ! Bonus encaissé.
+03a0f2a	Nouvelles missions à minuit.
+4784874	Terminez les trois : +{0} jetons bonus
+42c5cda	JOUER
+337211e	JEUX
+8f5e3bd	Glissez à gauche pour marcher  •  Glissez à droite pour regarder  •  Touchez pour y aller
+d00d221	18 ans et plus  •  Les jetons sont pour le plaisir : sans valeur monétaire, jamais échangeables contre de l'argent ou des prix
+b60f038	Ouverture des portes...
+2e5bcce	Bienvenue ! Vos {0} jetons de bienvenue sont prêts. Les tables sont droit devant !
+7ef7ae3	+{0} jetons gratuits ! D'autres dans {1} heures.
+5d82af9	Les jetons gratuits se rechargent toutes les {0} heures. Les prochains dans {1}.
+5469985	{0} h {1} min
+bb65beb	{0} min {1} s
+ac8ba93	GARDEZ VOTRE SÉRIE
+560bfa1	Voulez-vous un rappel les soirs où vous n'avez pas encore joué, et quand vos jetons gratuits sont prêts ? Jamais plus que ça, et vous pouvez le désactiver dans les Réglages.
+b724a40	ME LE RAPPELER
+9e0c898	+{0} jetons prêts !
+1207e28	Regardez une vidéo : {0}
+db3655b	Prochains jetons gratuits dans {0}
+4ca9be5	BLACKJACK
+9a612b1	4 tables  •  paie 3 contre 2
+1194439	MACHINES À SOUS
+6555152	Lucky Ace 7s  •  10 lignes
+255b1a1	ROULETTE
+6df1551	Européenne à un seul zéro
+379b146	VOUS ÊTES ÉPUISÉ
+340e5c4	Votre barre d'énergie est vide. Prenez quelque chose au bar pour continuer à jouer, ou revenez plus tard : l'énergie remonte doucement pendant votre absence.
+a517396	ALLER AU BAR
+7c7227f	CHOISISSEZ VOTRE TABLE
+c963de3	MISES
+c433657	NIVEAU {0}
+083ac39	S'ASSEOIR
+9698219	IL FAUT {0}
+34b737e	Atteignez le niveau {0} pour jouer ici. Vous êtes niveau {1}.
+6e946b7	JJ
+4a3a892	MM
+2857a6a	AAAA
+9d1fece	JOUR
+d3bb0c3	MOIS
+c0f0cad	ANNÉE
+43985ff	QUELLE EST VOTRE DATE DE NAISSANCE ?
+293fda2	Les jetons servent uniquement au divertissement. Ils n'ont aucune valeur monétaire et ne peuvent jamais être échangés contre de l'argent ou des prix.
+3e9128d	DÉSOLÉ, VOUS NE POUVEZ PAS JOUER
+b5e8985	{0} est réservé aux adultes.
+bb1b380	QUITTER
+d9f9432	Fermeture dans {0}...
+c6e102d	PARLEZ-NOUS DE VOUS
+31120ce	Nous choisirons vos hôtes, croupiers et serveurs en conséquence. Vous pouvez changer cela à tout moment dans les Réglages.
+49e8df9	JE SUIS UN HOMME
+85abe81	JE SUIS UNE FEMME
+76cc98c	JE PRÉFÈRE NE PAS DIRE
+964daf7	ENTRER DANS LE CASINO
+2efb69a	Votre équipe ce soir :
+c10e749	Page {0} sur {1}
+2a3ffd9	LANGUE
+c673535	AUTOMATIQUE
+d1245d2	PAYS
+15fc12b	Bienvenue ! Faites vos jeux, s'il vous plaît.
+531fb3f	Pas assez de jetons pour cette mise.
+380eb75	La limite de la table est de {0} par tour.
+55ad592	ANNULER
+8f191f9	MISE TOTALE  {0}
+82e1181	Touchez le tapis pour placer des jetons
+bb19a75	Rien ne va plus !
+5becf07	VERT
+bc74f4f	vert
+7898801	rouge
+466bc8c	noir
+f2edfbf	Quel coup ! Félicitations !
+b252caf	Gagné ! Vous gagnez {0}.
+8587d14	GAGNÉ  +{0}
+b862a2b	{0} {1}. {2} vous reviennent.
+a306d0a	REMBOURSÉ  {0}
+af3134d	Pas de gain cette fois
+84122e7	Faites vos jeux, s'il vous plaît.
+52205f4	Attendez que la bille s'arrête.
+c4b9243	RÉGLAGES
+44d863e	GÉNÉRAL
+2bbca79	GRAPHISMES
+955c8b4	SON
+c701f5f	TACTILE
+efcc94a	SOURIS
+8433628	MANETTE
+d868a50	VIBRATIONS
+f8692c7	18+ • Les jetons n'ont aucune valeur monétaire • Polices : Bebas Neue, Poppins, Noto (SIL OFL) • Frontières : Natural Earth • Données de prix : Banque mondiale
+da46447	PERSONNEL DU CASINO
+594b81e	FEMMES
+69d3313	HOMMES
+b4325d3	MIXTE
+414594a	RAPPELS
+6cac87b	Jetons gratuits prêts, et un petit rappel le soir avant qu'une série ne s'arrête.
+e43b2e0	VÉRIFIER
+7c9e8f9	RÉGION DE PRIX
+495c70e	Le plus rapide : le casino tel qu'il est peint, rien de plus.
+b052523	Les sols cirés, le bois et l'or reflètent la salle.
+6bd30d7	Look cinéma : étalonnage, grain, halo, rayons de lumière, peau réaliste.
+21b6e1d	Objectif cinéma : la mise au point suit votre regard, traînées sur les lumières, poussière dans les rayons.
+fb7c2e8	QUALITÉ
+d8b9679	BASSE
+f68525a	MOYENNE
+d77d0b2	HAUTE
+9289eee	ULTRA
+637e313	RÉSOLUTION
+2e7b141	Plus basse, l'image est plus douce, mais le téléphone chauffe moins et économise la batterie.
+93dcfb5	MODE D'AFFICHAGE
+3c6eac3	PLEIN ÉCRAN
+f3690b1	FENÊTRÉ
+cfa6200	ANTICRÉNELAGE
+ad50489	NON
+f178804	Adoucit les bords crénelés du casino.
+4266288	IMAGES/S
+d031ab0	{0} FPS
+a2b7514	30 FPS économise la batterie et garde les vieux téléphones au frais.
+0babcee	SYNCHRO VERTICALE
+6656e25	CHAMP DE VISION
+244aadb	AFFICHER LES FPS
+41c8f6e	VOLUME GÉNÉRAL
+bf3af1f	MUSIQUE
+bd80907	EFFETS SONORES
+d098036	VOIX DU PERSONNEL
+93c6484	Le murmure du personnel quand il parle.
+16bf71a	MUET EN ARRIÈRE-PLAN
+85b2ee7	Coupe le son du casino quand vous êtes dans une autre fenêtre.
+8e3634e	SENSIBILITÉ DE LA VUE
+880dc05	Vitesse de rotation de la vue quand vous glissez.
+750c60f	Vitesse de rotation de la vue quand vous glissez avec la souris.
+8b988eb	INVERSER VUE GAUCHE / DROITE
+cacf0cc	INVERSER VUE HAUT / BAS
+2d13b68	DISPOSITION DES BOUTONS
+50c3f10	AUTO
+b471e5c	INVERSER MENU / AFFICHAGE
+d9a59f1	SENSIBILITÉ DU STICK
+ec14343	Vitesse de rotation de la vue avec le stick droit.
+a79af23	INVERSER STICK GAUCHE / DROITE
+acfc66e	INVERSER STICK HAUT / BAS
+56bb461	AIDES MANETTE
+51cf49a	Affiche le rôle de chaque bouton quand vous jouez à la manette.
+dff7431	VIBRER SUR
+34139ab	TÉLÉPHONE
+15ee988	LES DEUX
+465cc91	Auto : la manette quand elle est connectée, sinon le téléphone.
+f6fed84	VIBRATION DU TÉLÉPHONE
+8e97fa7	FORCE TÉLÉPHONE
+486ba2d	VIBRATION DE LA MANETTE
+8008889	FORCE MANETTE
+ea9233e	AUTOMATIQUE ({0})
+167dda7	{0} ouvre les Réglages, {1} ouvre le Quotidien.
+29a4ef9	Aucune manette connectée.
+558ecd2	Connectée : {0}. Boutons {1} affichés (A à droite pour valider).
+d6eee9e	Connectée : {0}. Boutons {1} affichés.
+78525d5	LE BAR
+099db9f	CHANCE
+b4a8b06	Les jetons, la chance et la nourriture sont des objets virtuels pour le divertissement uniquement : sans valeur monétaire, non échangeables contre de l'argent ou des prix.
+e2a28c9	Chaque carte a cette chance d'être distribuée en votre faveur, sur les mises de blackjack jusqu'à {0} jetons (les mises plus élevées sont standard et n'utilisent pas de mains). Commence après la Chance du débutant ; les packs les plus forts passent en premier.
+04fbc6d	Autorisez la localisation pour obtenir le prix de votre pays
+2ae87fc	Les achats ne sont pas disponibles dans cette version du jeu.
+8239a84	BOUTIQUE DE TEST (pas d'argent réel)
+173d916	énergie
+b2c67eb	+{0} % DE JETONS
+58e8011	{0} mains
+ce80712	en gagne environ {0} %
+c69e8ee	LUCKY ACE 7s
+fc99288	MISE TOTALE
+c1c00cd	TABLE DES GAINS
+3930abd	BONNE CHANCE !
+67b6973	Il vous faut au moins 10 jetons pour lancer.
+5aa1edb	OBTENIR DES JETONS
+f5a1812	Mise réduite à ce que vous pouvez couvrir.
+5c63f61	MÉGA GAIN !
+652544f	GROS GAIN !
+91bc41c	REMBOURSÉ {0}
+3714283	PAS DE GAIN
+33c0faa	LIGNE {0} : {1} × {2} = {3}
+9f59e6e	{0} ÉTOILES = {1}
+d6eee90	Cerise
+4459b79	Citron
+09fb6aa	Orange
+cb92e50	Prune
+d419866	Cloche
+e496fd2	Bar
+63abb56	Sept
+b3850e0	Diamant
+fc2b5a9	As
+85a7de6	Étoile
+c31b035	Les ÉTOILES paient n'importe où : 5 = {0}× la mise, 4 = {1}× la mise, 3 = {2}× la mise.
+f97509c	L'AS est joker : il remplace tous les symboles sauf l'étoile.
+3e8bc69	Les gains de ligne sont des multiples de la mise par ligne (mise totale ÷ 10), de gauche à droite depuis le premier rouleau.
+523f8dc	TAUX DE RETOUR : {0} % sur le long terme. Chaque tour est indépendant et aléatoire.
+e0c705d	Marcher
+b8db515	Regarder
+503d46d	Boutons
+c7f73bb	Réglages
+728298d	Quotidien
+ab166bd	Régler
+76cdb95	Déplacer
+8598222	Choisir
+bbfa773	Fermer
+b52b36b	Retour
+ab37588	ÉPUISÉ
+9b11a09	CHANCE DU DÉBUTANT {0} %
+0c94e98	ENCORE {0} MAINS
+51ed273	SÉRIE CHANCEUSE {0} %
+3401470	{0} MAINS  •  MISES JUSQU'À {1}
+f481cc6	NIVEAU
+0139615	BIENVENUE
+daad514	PARLER À L'HÔTESSE
+bcefb10	Indications et conseils
+c28e782	JETONS  •  BONUS
+0c69ec4	ACHETER DES JETONS
+78c0727	Caisse
+1737fab	COCKTAILS  •  EN-CAS  •  ÉNERGIE
+9e008ae	À BOIRE ET À MANGER
+f7881e8	Le bar
+0e979ed	LE BLACKJACK PAIE 3 CONTRE 2
+eea0d12	LE CROUPIER RESTE À 17
+4db37bf	JOUER AU BLACKJACK
+0ffdd99	Table {0}  •  mises de {1} à {2}
+b4f938b	JOUER AUX MACHINES À SOUS
+6b7caea	FAITES VOS JEUX
+26b1e39	JOUER À LA ROULETTE
+910a1ed	Roue européenne  •  le plein paie 35 contre 1
+7ef0215	COMMANDER UN VERRE
+fe38d73	{0} vous l'apporte
+f7b6306	La {0} s'ouvre au niveau {1}. Vous êtes niveau {2} : chaque manche jouée compte.
+d85f1ad	Cette table demande au moins {0} jetons.
+cbfe016	Les tables de blackjack sont droit devant. Approchez-vous de l'une d'elles et asseyez-vous !
+64d9faf	La caisse est juste ici sur votre droite, et le bar le long du mur de gauche.
+e4c6e0b	Fatigué ? Un en-cas au bar vous redonne toute votre énergie.
+d5ab68f	Touchez le sol n'importe où et vous y marcherez. Touchez une table pour vous asseoir.
+6cc19a9	CASINO
+cc21f74	PETIT
+dc01dec	GRAND
+5fb90b0	N'IMPORTE QUEL BRELAN
+9c716f1	Table de hold'em
+3b6ab84	Jouez 8 mains de hold'em
+6c617ca	Gagnez 4 mains de hold'em
+44ce500	Jouez 10 mains de baccara
+b90cff7	Gagnez 5 mains de baccara
+3e4dfa9	Jouez 15 mains de vidéo poker
+854fe20	Jouez 8 tours de sic bo
+dfddac1	Gagnez 4 tours de sic bo
+2973ea7	Lancez les dés 15 fois au craps
+737be17	Gagnez 4 lancers au craps
+4dbb81d	Faites une couleur ou mieux au vidéo poker
+19aa07b	Quinte flush royale
+cf83e72	Quinte flush
+d27ba03	Carré
+dbe8641	Full
+7c936d7	Couleur
+2501c65	Quinte
+ca1a0d4	Brelan
+6876b40	Double paire
+2537f88	Paire
+b4b323e	Carte haute
+f70bfdc	Valets ou mieux
+98fd5af	BACCARA
+df66d5a	Bienvenue au baccara ! Joueur, Banque ou Égalité ?
+5055efd	JOUEUR
+3f90696	ÉGALITÉ
+0d75f63	BANQUE
+0ebd5a4	DERNIERS RÉSULTATS
+511993d	J
+ae4f281	B
+c2c53d6	É
+781246e	Choisissez un jeton, puis touchez Joueur, Banque ou Égalité
+11023a0	ÉGALITÉ  {0}
+503d5f1	LE JOUEUR GAGNE  {0} À {1}
+0eb4be5	LA BANQUE GAGNE  {0} À {1}
+7859af1	CRAPS
+4083dbd	Bienvenue au craps ! Misez sur la Pass Line et lancez.
+d266326	SIX
+c506f3a	NEUF
+987f4e9	FIELD
+71c1b2b	2 3 4 9 10 11 12  •  le 2 et le 12 paient double
+d0ac294	N'IMPORTE QUEL 7
+9b2f0c3	N'IMPORTE QUEL CRAPS
+f62ac59	DON'T PASS BAR
+6080ade	1:1  •  le 12 fait égalité
+c07247a	PASS LINE
+6229f78	ODDS
+29bf819	cote réelle
+387d7a5	ON
+229c9cc	Les odds se placent derrière la Pass Line une fois le point établi.
+c2c8e82	Les odds demandent une mise sur la Pass Line.
+1784d43	Vos odds sont au maximum.
+fdc3442	Les mises de ligne se placent au lancer de sortie.
+97ce95b	SUR LA TABLE  {0}
+a895ec0	Le point est {0} : refaites-le avant un 7. Les odds derrière votre Pass Line paient la cote réelle.
+d9f9d65	LANCER
+bcf32ef	Le point est {0}.
+5b450b4	{0} ! Point réussi. Gagné !
+9746e08	Sept, c'est perdu. Nouveau lanceur, nouvelle sortie.
+4fc4664	{0}, un naturel ! La Pass Line gagne.
+203f466	{0}, craps. La ligne perd.
+0f8e260	Attendez que les dés s'arrêtent.
+6a98cfe	QUITTER LA TABLE ?
+8430088	Votre mise de ligne joue toujours sur le point {0}. Si vous partez maintenant, elle est perdue.
+0e138d1	HOLD'EM
+5e023be	Bienvenue au hold'em ! Misez l'ante et voyons les cartes.
+0cd62f5	ANTE
+5e9f331	BLIND
+3b935ab	LA BLIND PAIE
+20713a4	Le croupier se qualifie avec une paire ou mieux
+d37267c	CHECK
+9a4e316	SE COUCHER
+88313c4	MISER {0}×
+42c6fea	Ante {0} + blind {0}. Gardez {1} de plus pour relancer.
+1abb2f2	Touchez des jetons pour fixer l'ante. La blind est égale.
+f541cec	Check, ou misez trois ou quatre fois l'ante ?
+fc74a79	Relancez maintenant à 4× ou 3× l'ante, ou checkez et voyez le flop.
+b687501	Dernière chance : misez 1× l'ante, ou couchez-vous et perdez ante et blind.
+400009c	Misez 2× l'ante maintenant, ou checkez et voyez les deux dernières cartes.
+f4abdf9	Voici le flop.
+0e51f2c	Le turn et la river.
+cc856d3	Voyons ce que j'ai.
+6ba1f3e	Le croupier ne se qualifie pas : votre ante vous est rendue.
+cf1fdc5	Couché. La prochaine main est pour vous.
+177fab0	Ultimate Texas Hold'em
+c4917b9	Joueur, Banque ou Égalité
+6e4fe7b	VIDÉO POKER
+73cabd3	Jacks or Better
+91c4555	SIC BO
+d810061	Trois dés  •  grand ou petit
+85ab7ec	Pass Line  •  Field  •  Odds
+35d8db6	Bienvenue au sic bo ! Grand, petit ou plus audacieux ?
+3d05514	La limite de la table est de {0} par lancer.
+86ade94	SECOUER
+b69304e	BRELAN DE {0} !
+5d1bcc6	GARDÉE
+36a21ba	Distribuez, gardez les cartes voulues, tirez une fois.
+99fa8e8	GARDER
+249d1c0	CONSEIL
+7aab1bd	TIRER
+5595eb4	Touchez les cartes à garder, puis tirez.
+1c05db9	JOUER AU HOLD'EM
+e353e5f	Ultimate Texas Hold'em  •  ante de {0} à {1}
+6470369	JOUER AU BACCARA
+bbe0077	GRAND  •  PETIT  •  BRELANS
+3ba448f	JOUER AU SIC BO
+097c59c	Trois dés  •  grand ou petit paie 1 pour 1
+af2ca30	PASS LINE  •  FIELD  •  ODDS
+f18398e	JOUER AU CRAPS
+eeede6d	La Pass Line paie 1 pour 1  •  les odds paient la cote réelle
+34e5170	JOUER AU VIDÉO POKER
+f71bdfb	Jacks or Better  •  table complète 9/6
+4a6c087	JACKS OR BETTER  •  LA QUINTE FLUSH ROYALE PAIE 800×
+370a133	Les machines à sous sont le long du mur de droite, le vidéo poker au mur du fond, et la roulette au fond.
+8298d28	Le hold'em est dans le coin du fond à gauche, après le bar.
+a2a111f	Le baccara est juste à gauche en entrant.
+b7193bc	Le sic bo est dans le coin après la caisse : trois dés, grand ou petit.
+25320c8	La table de craps est à droite, devant les machines à sous. Misez sur la Pass Line et lancez !
+dc81691	Sofia
+4d9936f	Elena
+3aa0674	Mia
+b724114	Valentina
+34d3f7f	Chloé
+0fc9dd6	Isabelle
+bbd3e35	Nadia
+eac677d	Aria
+baaf10f	Luna
+8641381	Camila
+eeee9b7	Aurora
+8a59f05	Bianca
+5a0fc29	Serena
+bf38aa5	Marco
+cfaf50a	Léo
+5815f22	Adrien
+cbede02	Lucas
+f0b9995	Victor
+7b37259	Daniel
+aaac72d	Gabriel
+2f8f37e	Ethan
+a01126e	Julien
+3e05c90	Raphaël
+e1ae457	Mateo
+3398634	Nico
+7aa2d07	Enzo
+1920e2f	Lancer de sortie : misez sur la Pass Line et lancez. 7 ou 11 gagne, 2, 3 ou 12 perd. Les mises place comptent une fois le point établi.
+99f4934	LUCKY ACE 7s  •  JUSQU'À 2 500× VOTRE MISE PAR LIGNE

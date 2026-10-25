@@ -7,6 +7,7 @@ using Casino.Core.Region;
 using Casino.Platform;
 using Casino.Screens;
 using Casino.UI;
+using Casino.World;
 using UnityEngine;
 
 namespace Casino
@@ -21,6 +22,12 @@ namespace Casino
         public Wallet Wallet { get; private set; }
         public EnergyModel Energy { get; private set; }
         public BeginnerLuck Luck { get; private set; }
+
+        /// <summary>Paid luck packs, used once Beginner's Luck is over.</summary>
+        public LuckBoost Boost { get; private set; }
+
+        /// <summary>The boost a blackjack hand with this bet gets: Beginner's Luck first, then a paid pack, else none.</summary>
+        public double LuckFor(long bet) => Luck.IsActive ? Luck.Luck : Boost.LuckFor(bet);
         public MusicIntensity Intensity { get; private set; }
         public Progress Progress { get; private set; }
         public PersuasionTracker Persuasion { get; } = new PersuasionTracker();
@@ -84,6 +91,7 @@ namespace Casino
             };
             ApplyTimeAway();
             Luck = new BeginnerLuck(GameConfig.BeginnerLuckFullHands, GameConfig.BeginnerLuckFadeHands, Save.handsPlayed);
+            Boost = new LuckBoost(Save, GameConfig.LuckBoostMaxBet);
             Intensity = new MusicIntensity();
             Progress = new Progress(this);
             Reminders.Cancel();
@@ -93,6 +101,11 @@ namespace Casino
             ApplyAudio();
 
             SteamBootstrap.Create(transform);
+            // The player's language (Steam's on Steam, else the device's, unless they picked one), before any text is made.
+            Tr.Translate = Loc.T;
+            Loc.Init(Save.language);
+            gameObject.AddComponent<LocUpdater>();
+            Loc.Changed += Relocalize;
             Purchases = new Purchases(this);
             Store = StoreFactory.Create();
             Store.Initialize(Purchases.AllSkus(), Purchases.Fulfill);
@@ -100,13 +113,14 @@ namespace Casino
             Ads.Initialize();
 
             Region.RestoreCached(Save.countryCode, (RegionSource)Save.countrySource);
+            if (GameConfig.TestServices && !string.IsNullOrEmpty(Save.testCountry)) Region.SetDevOverride(Save.testCountry);
             Region.ExplainLocation = done =>
             {
-                var modal = UI.Modal<ConfirmModal>(m => m.Setup("FAIR PRICES FOR YOUR COUNTRY",
-                    "Shop prices are adjusted to your country's economy, so players everywhere pay a fair price.\n\n" +
-                    "To find your country we check your approximate location once. It is matched to a country on your device " +
-                    "and never sent anywhere. If you decline, standard prices apply.",
-                    "CONTINUE", null));
+                var modal = UI.Modal<ConfirmModal>(m => m.Setup(Loc.T("FAIR PRICES FOR YOUR COUNTRY"),
+                    Loc.T("Shop prices are adjusted to your country's economy, so players everywhere pay a fair price.") + "\n\n" +
+                    Loc.T("To find your country we check your approximate location once. It is matched to a country on your device " +
+                    "and never sent anywhere. If you decline, standard prices apply."),
+                    Loc.T("CONTINUE"), null));
                 modal.Closed += done;
             };
             Region.Changed += () =>
@@ -139,6 +153,27 @@ namespace Casino
                 return;
             }
             EnterCasino();
+        }
+
+        /// <summary>
+        /// The language changed: rebuild the screen in it (a game in progress keeps its table until you leave), redraw the
+        /// casino's signs, and reopen Settings if that's where it was changed.
+        /// </summary>
+        void Relocalize()
+        {
+            Save.language = Loc.Choice;
+            SaveSystem.MarkDirty();
+            if (CasinoWorld.Instance != null) CasinoWorld.Instance.Relabel();
+            bool settings = UI.FindModal<SettingsModal>() != null;
+            UI.CloseAllModals();
+            switch (UI.Current)
+            {
+                case LobbyScreen _: UI.Show<LobbyScreen>(); break;
+                case AgeGateScreen _: UI.Show<AgeGateScreen>(); break;
+                case ProfileScreen _: UI.Show<ProfileScreen>(); break;
+                case BlockedScreen _: UI.Show<BlockedScreen>(); break;
+            }
+            if (settings) UI.Modal<SettingsModal>();
         }
 
         public void EnterCasino()
@@ -250,7 +285,8 @@ namespace Casino
             }
 
             if (Input.GetKeyDown(KeyCode.Escape) && !Pad.BackJustHandled && !UI.Back() && UI.Current is LobbyScreen)
-                UI.Modal<ConfirmModal>(m => m.Setup("Leave the casino?", "Your chips and progress are saved.", "QUIT", Quit, "STAY"));
+                UI.Modal<ConfirmModal>(m => m.Setup(Loc.T("Leave the casino?"), Loc.T("Your chips and progress are saved."), Loc.T("QUIT"), Quit,
+                    Loc.T("STAY")));
 
             SaveSystem.Tick();
             Haptics.Tick();

@@ -1,0 +1,1004 @@
+KLENG
+GROUSS
+ONGRAD
+GRAD
+IERGENDEN DRILLING
+Eng Handvoll Jetonen
+E Koup Jetonen
+En Tablett Jetonen
+E Rack Jetonen
+AM BELÉIFSTEN
+E Coffre Jetonen
+Tresor vum High Roller
+BESTE PRÄIS
+Sprudelwaasser
+Espresso
+Energiedrénk
+Club-Sandwich
+Burger-Menü
+Steak-Owesiessen
+VOLL OPFÜLLEN
+Glécksstréck
+Waarme Stréck
+AM MEESCHTE GLÉCK
+Bronzendësch
+Sëlwerdësch
+Goldendësch
+Diamantendësch
+Hold'em-Dësch
+Gëff w.e.g. e gëltegt Joer an.
+Gëff w.e.g. e gëltege Mount an (1-12).
+Gëff w.e.g. e gëltegen Dag an.
+Dësen Datum läit an der Zukunft.
+Wëllkomm u mengem Dësch! Prett fir ze spillen?
+Schéin dech ze gesinn. Huel Plaz!
+Moien! D'Kaarte si frësch, an ech och.
+Wëllkomm! Loosse mer en flotten Owend draus maachen.
+Setz däin Asaz, wann s de prett bass.
+Jetonen op den Dësch, a mir kucken d'Kaarten.
+Ëm wat spille mer?
+Oh, e grousse Asaz! Ech hu däi Stil gär.
+Dat ass mol en Asaz. Lass!
+Haut den Owend mutteg, wat?
+Alles?! Mäin Häerz klappt!
+Alles op eng Hand. Ouni Angscht!
+Blackjack! Onheemlech!
+Eenanzwanzeg, einfach esou!
+Blackjack! D'Kaarte si gär mat dir haut den Owend.
+Schéi gespillt!
+Gewonnen! Gutt gemaach.
+Du bass gutt drun!
+Déi do ass deng.
+Wat e Gewënn! Jiddereen kuckt op dësen Dësch!
+Enorm! Du bass haut den Owend a Form!
+Sou knapp! Déi nächst ass deng.
+D'Spillbank hat dës Kéier Gléck.
+Vergiess et, eng nei Hand kënnt.
+Autsch, eng Kaart ze vill.
+Iwwerkaf! Dat geschitt de Beschten.
+Onentscheeden. Keen verléiert!
+Push. Deng Jetone si sécher.
+Ech sinn iwwerkaf! Gléck fir dech.
+Ze vill fir mech. Du gewënns!
+Blackjack fir d'Spillbank, deet mer leed!
+Blackjack beim Croupier. Pech.
+Ech weisen en As. Versécherung?
+Opdeelen! Zwou Chancen ze gewannen.
+Verduebelen. Mutteg!
+Verduebel! Eng Kaart kënnt.
+Neie Schung, ech mëschen!
+Bal eidel? D'Keess fëllt dech op.
+D'Jetone ginn rar. Wëlls de méi?
+Keng Jetone méi! Gëff bei d'Keess oder huel gratis Jetonen.
+Däi Koup ass eidel. D'Keess ass direkt hannert dir.
+Du gesäis erschöpft aus! Iess eppes un der Bar.
+Keng Kraaft méi? D'Bar këmmert sech ëm dech.
+Huel der Zäit.
+Wann s de prett bass!
+D'Nuecht ass nach jonk.
+Ufängergléck ass op denger Säit!
+D'Kaarten sinn haut op denger Säit!
+D'Ufängergléck ass eriwwer. Vun elo un ass d'Spill fair!
+Wëllkomm am Casino! Deng Plaz waart.
+Gudden Owend! D'Dëscher si waarm haut.
+Wëllkomm zréck! Fills de dech glécklech?
+Tipp op en Dësch fir ze spillen!
+Brauchs de méi Jetonen? Du bass um richtege Schalter.
+Méi grouss Koupen, méi grouss Bonussen!
+Honger? Wiel eppes vun der Kaart.
+E Bëssen iessen hält deng Energie héich!
+Wëllkomm u mengem Dësch!
+Do bass de! Et ass direkt méi hell.
+Fill dech wéi doheem. Haut den Owend dréint sech alles ëm dech.
+Ech hunn dee Laachen gär. Glécksowend?
+Entspann dech, du bass hei a gudden Hänn.
+Hei du! Ech hat gehofft, du kéims bei mäi Schalter.
+Ëmmer schéin, e frëndlecht Gesiicht ze gesinn.
+Kuck wien do ass! Hues de Spaass?
+Moien, Schéinen!
+Ech hunn däi Stil haut gär.
+Hei, schéin dech nees ze gesinn!
+E gudden Owend? Du hues en verdéngt.
+Opgepasst, soss fänken ech nach un, fir dech ze jubelen.
+Mäi Liiblingsspiller ass zréck!
+Setz dech bei mech, ech gi dir eppes Schéines.
+Mat dir mécht dësen Dësch vill méi Spaass.
+Gees de schonn? D'Nuecht ass nach jonk!
+Komm, just nach eng Hand. Ech hunn e gutt Gefill!
+Du kanns mech elo net eleng loossen, mir hu just ugefaangen!
+Lescht Chance! Déi nächst Hand kéint déi grouss sinn...
+Ok, ok. Ech halen deng Plaz waarm. Verspriechs de, datt s de zréckkënns?
+Nach keng Serie? Spill haut Ronnen ({2}) an ech fänken un ze zielen.
+Neien Ufank! Ronnen ({2}) an deng Flam brennt.
+Ech féieren eng kleng Lëscht vun deenen, déi all Dag kommen. Du bass net drop... nach net.
+Dag {1} waart op dech. Nach Ronnen: {2}!
+Deeg hannerenee: {0}... du héiers elo dach net op?
+Deng Flam gesäit haut e bësse kal aus. Ronnen ({2}) wäermen se op.
+Ech hu gezielt: {0} Deeg. Loosse mer {1} draus maachen.
+Mengs de, ech hätt et net gemierkt? Nach Ronne fir deng Serie: {2}!
+Deeg hannerenee: {0}? Ech mengen, et gefält dir hei.
+Deng Serie ass fir haut sécher. Elo gëss de just un.
+Dag {0}, gepackt. Muer zur selwechter Zäit?
+{0} Deeg! Ech sollt dir eng Plaz reservéieren.
+Do ass en: den éischten Dag vun denger Serie! Komm muer zréck, da sinn et zwee.
+Eng ganz Woch hannerenee! Ech si wierklech beandrockt.
+Drësseg Deeg! Du schaffs jo praktesch hei.
+Honnert Deeg. Ech verzielen allen iwwer dech.
+Dat sinn {0} Deeg hannerenee! Kuck dech mol un.
+Serie gerett: Dag {0}! Ech wousst, datt s de et packs.
+Dag {0}! Ech wetten, du packs keng {1}.
+{0} Deeg... ok, du Ugeber.
+Spill 10 Hänn Blackjack
+Gewann 5 Hänn Blackjack
+Kréi e Blackjack
+Gewann 500 Jetonen am Blackjack
+Dréi 20 Mol um Spillautomat
+Gewann 5 Dréiungen um Spillautomat
+Gewann 5× däin Asaz um Spillautomat
+Spill 5 Ronnen Roulette
+Gewann 3 Roulette-Dréiungen
+Triff eng Zuel plein
+Spill 8 Hänn Hold'em
+Gewann 4 Hänn Hold'em
+Spill 10 Hänn Baccarat
+Gewann 5 Hänn Baccarat
+Spill 15 Hänn Video-Poker
+Spill 8 Ronnen Sic Bo
+Gewann 4 Ronnen Sic Bo
+Werf 15 Mol d'Wierfelen um Craps
+Gewann 4 Wërf um Craps
+Maach e Flush oder besser beim Video-Poker
+Royal Flush
+Straight Flush
+Véierling
+Full House
+Flush
+Strooss
+Drilling
+Zwee Puer
+Puer
+Héchst Kaart
+GPS-Standuert
+Handysnetz
+Internetverbindung
+Apparatsastellungen
+Testland
+net verifizéiert (Standardpräis)
+onbekannt
+1. 12
+2. 12
+3. 12
+2 zu 1
+ROUT
+SCHWAARZ
+Buuwen oder besser
+FAIR PRÄISSER FIR DÄI LAND
+D'Präisser am Buttek si un d'Wirtschaft vun dengem Land ugepasst, sou datt Spiller iwwerall e faire Präis bezuelen.
+Fir däi Land ze fannen, kucke mir eemol däin ongeféiere Standuert. E gëtt op dengem Apparat engem Land zougeuerdent an ni iergendwou geschéckt. Wann s de refuséiers, gëllen d'Standardpräisser.
+WEIDER
+De Casino verloossen?
+Deng Jetonen an däi Fortschrëtt si gespäichert.
+OPHALEN
+BLEIWEN
+{0} fräigeschalt
+Eng Serie-Afréierung huet gëschter deng Serie vun {0} Deeg gerett.
+Afréierungen ({0}) hunn deng Serie vun {1} Deeg gerett.
+Deng Serie vun {0} Deeg ass eriwwer. Spill haut Ronnen ({1}) fir eng nei unzefänken!
+MISSIOUN ERFËLLT
++{0} Jetonen
+ALL MISSIOUNE GEMAACH!
+Dagesbonus +{0} Jetonen. Muer nei Missiounen.
+LEVEL {0}!
+Meilesteen! +{0} Jetonen
+Komm muer zréck fir weiderzemaachen
++1 Serie-Afréierung
+SERIE VUN {0} DEEG!
+Akeef sinn an dëser Versioun net disponibel.
+Akaf feelgeschloen. Et gouf näischt ofgebucht.
++{0} Jetonen derbäigesat!
+{0}: {1} Hänn mat {2} % Gléck, nom Ufängergléck
+{0}: {1} Hänn mat {2} % Gléck!
+{0}: +{1} % Energie
+Op dësem Apparat net disponibel
+Videoe luede net an dësem Netz
+Komm muer zréck
+Prett an {0} s
++{0} Jetonen (haut nach {1})
++{0} gratis Jetonen!
++1 Serie-Afréierung!
+Grad ass kee Video disponibel. Probéier et an engem Moment nach eng Kéier.
+BRONZE
+SËLWER
+GOLD
+DIAMANT
+Menü
+Usiicht
+Kräiz
+Krees
+Quadrat
+Dräieck
+Deng Regioun gëtt iwwerpréift...
+Net verifizéiert ({0}): Standardpräisser
+{0} ({1}): Präisser an {2}
+Erënnerungen
+Gratis Jetone prett an Erënnerunge fir d'Serie
+Deng gratis Jetone si prett
+{0} Jetonen waarden op dech bei Lucky Ace.
+Hal deng Serie vun {0} Deeg
+Spill haut Ronnen ({0}), sou datt se ëm Mëtternuecht net zréckgesat gëtt.
+BACCARAT
+Wëllkomm beim Baccarat! Spiller, Bank oder Onentschidden?
+SPILLER
+ONENTSCHIDDEN
+BANK
+LESCHT RESULTATER
+S
+B
+O
+RÉCKGÄNGEG
+LÄSCHEN
+NOCH EMOL
+GINN
+Net genuch Jetone fir dësen Asaz.
+Dëschmaximum erreecht
+GESAMTASAZ  {0}
+Wiel en Jeton a tipp op Spiller, Bank oder Onentschidden
+ONENTSCHIDDEN  {0}
+DE SPILLER GEWËNNT  {0} ZU {1}
+D'BANK GEWËNNT  {0} ZU {1}
+GEWËNN  +{0}
+ZRÉCK  {0}
+Dës Kéier kee Gewënn
+Spill fir d'éischt dës Hand fäerdeg.
+Wëllkomm! D'Ufängergléck ass haut op denger Säit. Setz en Asaz!
+BLACKJACK BEZILT 3 ZU 2   •   DEN CROUPIER BLEIFT BEI ALLE 17 STOEN   •   VERSÉCHERUNG BEZILT 2 ZU 1
+ASAZ
+KAART
+STOEN
+DUEBEL
+DEELEN
+VERSÉCHEREN
+NEE MERCI
+ASAZ {0}+
+Net genuch Jetonen
+De Croupier weist en As. Fir {0} versécheren?
+D'Versécherung bezilt {0}
+Kee Blackjack beim Croupier. Versécherung verluer.
+IWWERKAF
+CROUPIER IWWERKAF
+BLACKJACK!
+GEWONNEN
+PUSH
+VERLUER
+D'Ufängergléck ass eriwwer. Däi Glécksstréck fänkt elo un.
+D'Ufängergléck ass eriwwer. Vun elo un ass et normale Blackjack.
+Däi Glécksstréck ass eriwwer. Zréck bei normale Blackjack.
+KENG JETONEN MÉI
+Kuck e kuerze Video fir {0} gratis Jetonen, oder gëff bei d'Keess.
+Gëff bei d'Keess fir deng Jetonen opzefëllen.
+GRATIS JETONEN
+KEESS
+MÉI SPÉIT
+„{0}“
+NOCH ENG HAND
+GOEN
+UFÄNGERGLÉCK
+GLÉCKSSTRÉCK
+Wëllkommbonus fir nei Spiller: bei dengen éischten <b>{0} Hänn</b> ass de Schung vum Croupier zu dengem Virdeel gemëscht, sou datt s de bal all Hand gewënns.
+Während den nächsten <b>{0} Hänn</b> verschwënnt de Virdeel lues a lues, an duerno ass all Dësch normale, faire Blackjack aus engem gemëschte Schung mat 6 Spiller (Blackjack bezilt 3 zu 2, de Croupier bleift bei alle 17 stoen).
+Virdeel elo: <b><color=#7CFC9A>{0} %</color></b>   Hänn iwwreg: <b>{1}</b>
+Bei dengen nächsten <b>{0} Blackjack-Hänn</b> mat engem Asaz bis zu <b>{1} Jetonen</b> huet all Kaart eng Chance vu <b>{2} %</b>, zu dengem Virdeel ze kommen (dee selwechte Virdeel wéi d'Ufängergléck).
+Mat guddem Spill gewënns de domat ongeféier <b>{0} %</b> vun den Hänn, géint ongeféier {1} % beim normale Blackjack. Méi grouss Asäz si normale Blackjack a verbrauche keng Hänn. Wann d'Hänn opgebraucht sinn, ass all Dësch nees normale, faire Blackjack.
+VERSTANEN
+WËLLS DE DÄI GLÉCK ZRÉCK?
+D'Ufängergléck ass eriwwer: vun elo un ass all Dësch normale, faire Blackjack. E Glécksstréck bréngt de Virdeel fir eng Zäit zréck.
+CRAPS
+Wëllkomm beim Craps! Sëtz op d'Pass Line a werf.
+SECHS
+NÉNG
+FIELD
+2 3 4 9 10 11 12  •  2 an 12 bezuelen duebel
+IERGENDENG 7
+IERGENDEN CRAPS
+DON'T PASS BAR
+1:1  •  12 ass onentschidden
+PASS LINE
+ODDS
+richteg Quoten
+AUS
+UN
+Odds kommen hannert d'Pass Line, soubal et e Point gëtt.
+Fir Odds brauchs du en Asaz op der Pass Line.
+Deng Odds sinn um Maximum.
+Line-Asätz gi beim Come-out-Wuerf gesat.
+UM DËSCH  {0}
+Come-out: sëtz op d'Pass Line a werf. 7 oder 11 gewannen, 2, 3 oder 12 verléieren. Place-Wetten fänken un, soubal et e Point gëtt.
+De Point ass {0}: werf en nach eng Kéier virun enger 7. Odds hannert denger Pass Line bezuelen richteg Quoten.
+WERFEN
+De Point ass {0}.
+{0}! Point getraff. Gewonnen!
+Seven out. Neie Werfer, neien Come-out.
+{0}, en Natural! D'Pass Line gewënnt.
+{0}, Craps. D'Line verléiert.
+Waart, bis d'Wierfelen leien.
+DËSCH VERLOOSSEN?
+Däin Line-Asaz leeft nach um Point {0}. Wann s du elo gees, ass e verluer.
+DEEGLECH
+DEEGLECH SERIE
+DEEG HANNERENEE
+HAUT
+REKLAMM KUCKEN
+KAFEN
+SERIE-AFRÉIERUNG
+Eng Serie-Afréierung hält deng Serie un engem Dag, wou s de net spills. Du kanns der bis zu {0} hunn.\n\nEng fir {1} Jetone kafen?
+Serie-Afréierung prett.
+Net genuch Jetone fir eng Afréierung.
+OFBRIECHEN
+DEEGLECH DRÉIUNG
+DRÉINEN
+Chancen:
+{0} %
+Du hues {0} Jetone gewonnen!
+HAITEG MISSIOUNEN
+Rekord: {0} Deeg
+Spill all Dag fir eng Serie opzebauen
+D'Zil fir haut ass erreecht! Bis muer.
+Haut: {0} / {1} Ronnen (all Spill)
+Serie-Afréierungen: {0} / {1}
+Rett deng Serie un engem Dag, deen s de verpass. +1 all 7 Deeg.
+VOLL
+KEE VIDEO
+REKLAMM GESCHWËNN
+Seriebonus: Präisser ×{0}
+All Dag eng gratis Dréiung
+NÄCHST  {0}
+Alles gemaach! Bonus ofgeholl.
+Nei Missiounen ëm Mëtternuecht.
+Maach all dräi: +{0} Bonusjetonen
+HOLD'EM
+Wëllkomm beim Hold'em! Sëtz den Ante a mir kucken d'Kaarten.
+ANTE
+BLIND
+SPILLEN
+BLIND BEZUELT
+Den Dealer qualifizéiert sech mat engem Puer oder besser
+CHECK
+FOLD
+SËTZ {0}×
+Ante {0} + Blind {0}. Behal nach {1} fir däi Raise.
+Tipp op Jetonen fir den Ante. De Blind ass gläich.
+Checken oder dräi- bis véiermol den Ante setzen?
+Erhéich elo ëm 4× oder 3× den Ante, oder check a kuck de Flop.
+Lescht Chance: sëtz 1× den Ante oder fold a verléier Ante a Blind.
+Sëtz elo 2× den Ante, oder check a kuck déi lescht zwou Kaarten.
+Hei ass de Flop.
+Turn a River.
+Mol kucken, wat ech hunn.
+Den Dealer qualifizéiert sech net: däin Ante kënnt zréck.
+Gefoldet. Déi nächst Hand ass deng.
+SPILLER
+Lénks zéien fir ze goen  •  Riets zéien fir ze kucken  •  Tippen fir dohin ze goen
+Nëmme 18+  •  Jetone sinn zum Spaass: kee Geldwäert, ni a Geld oder Präisser ëmtauschbar
+D'Dieren ginn op...
+Wëllkomm! Deng {0} Wëllkommsjetone si prett. D'Dëscher si riichtaus!
++{0} gratis Jetonen! Méi an {1} Stonnen.
+Gratis Jetone fëllen all {0} Stonnen op. Déi nächst an {1}.
+{0} St. {1} Min.
+{0} Min. {1} s
+HAL DENG SERIE
+Wëlls de eng Erënnerung owes, wann s de nach net gespillt hues, a wann deng gratis Jetone prett sinn? Ni méi wéi dat, an du kanns et an den Astellungen ausschalten.
+ERËNNER MECH
++{0} Jetone prett!
+Kuck e Video: {0}
+Nächst gratis Jetonen an {0}
+BLACKJACK
+4 Dëscher  •  bezilt 3 zu 2
+Ultimate Texas Hold'em
+Spiller, Bank oder Onentschidden
+SPILLAUTOMATEN
+Lucky Ace 7s  •  10 Linnen
+VIDEO-POKER
+Jacks or Better
+SIC BO
+Dräi Wierfelen  •  grouss oder kleng
+Pass Line  •  Field  •  Odds
+ROULETTE
+Europäesch mat enger Null
+DU BASS ERSCHÖPFT
+Deng Energiebar ass eidel. Huel der eppes un der Bar fir weiderzespillen, oder komm méi spéit zréck: d'Energie kënnt lues zréck, wann s de net do bass.
+BEI D'BAR
+WIEL DÄIN DËSCH
+ASÄZ
+LEVEL {0}
+SETZEN
+BRAUCH {0}
+Erreech Level {0} fir hei ze spillen. Du bass Level {1}.
+CASINO
+DD
+MM
+JJJJ
+DAG
+MOUNT
+JOER
+WÉINI BASS DE GEBUER?
+Jetone sinn nëmmen zur Ënnerhalung. Si hu kee Geldwäert a kënnen ni a Geld oder Präisser ëmgetosch ginn.
+SORRY, DU DARFS NET SPILLEN
+{0} ass nëmme fir Erwuessener.
+ERAUS
+Gëtt an {0} zougemaach...
+VERZIEL EIS VUN DIR
+Mir wielen deng Hosten, Croupieren a Barpersonal passend aus. Du kanns dat all Moment an den Astellungen änneren.
+ECH SI MANN
+ECH SI FRA
+SOEN ET LÉIWER NET
+AN DE CASINO GOEN
+Däi Personal haut den Owend:
+Säit {0} vun {1}
+SPROOCH
+AUTOMATESCH
+LAND
+Wëllkomm! Faites vos jeux, w.e.g.
+D'Dëschlimit ass {0} pro Dréiung.
+Tipp op d'Spillfeld fir Jetonen ze setzen
+Rien ne va plus!
+GRÉNG
+gréng
+rout
+schwaarz
+Wat en Treffer! Felicitatiounen!
+Gewonnen! Du gewënns {0}.
+{0} {1}. {2} kënnt zréck bei dech.
+Faites vos jeux, w.e.g.
+Waart, bis d'Kugel stoe bleift.
+ASTELLUNGEN
+ALLGEMENG
+GRAFIK
+TOUN
+TOUCH
+MAUS
+CONTROLLER
+VIBRATIOUN
+18+ • Jetonen hu kee Geldwäert • Schrëften: Bebas Neue, Poppins, Noto (SIL OFL) • Grenzen: Natural Earth • Präisdaten: Weltbank
+CASINOPERSONAL
+FRAEN
+MÄNNER
+GEMËSCHT
+ERËNNERUNGEN
+Gratis Jetone prett, an e klengen Hiweis owes, ier eng Serie eriwwer wier.
+NOCH EMOL KUCKEN
+PRÄISREGIOUN
+Am séierste: de Casino wéi gemoolt, näischt extra.
+Poléiert Biedem, Holz a Gold spigelen de Sall.
+Filmlook: Faarfkorrektur, Kären, Glanz, Liichtstrahlen, liewensecht Haut.
+Kinoobjektiv: d'Schäerft follegt dengem Bléck, Sträifen op Luuchten, Stëbs an de Strahlen.
+QUALITÉIT
+NIDDREG
+MËTTEL
+HÉICH
+ULTRA
+OPLÉISUNG
+Méi niddreg ass méi mëll, bleift awer méi kill a spuert Batterie.
+ANZEIGEMODUS
+VOLLBILD
+FÉNSTER
+KANTEGLÄTTUNG
+Glätt zackeg Kanten am Casino.
+BILDRAT
+{0} FPS
+30 FPS spuert Batterie an hält eeler Handyen kill.
+V-SYNC
+SIICHTFELD
+FPS UWEISEN
+GESAMTLAUTSTÄERKT
+MUSEK
+TOUNEFFEKTER
+STËMME VUM PERSONAL
+D'Gemurmels vum Personal, wann et schwätzt.
+AM HANNERGRAND STUMM
+Mécht de Casino stëll, wann s de an enger anerer Fënster bass.
+BLÉCKEMPFINDLECHKEET
+Wéi séier Zéien d'Usiicht dréint.
+Wéi séier Zéie mat der Maus d'Usiicht dréint.
+BLÉCK LÉNKS / RIETS ËMDREINEN
+BLÉCK ROP / ROF ËMDREINEN
+KNÄPPLAYOUT
+AUTO
+MENÜ / USIICHT TAUSCHEN
+STICK-EMPFINDLECHKEET
+Wéi séier de rietse Stick d'Usiicht dréint.
+STICK LÉNKS / RIETS ËMDREINEN
+STICK ROP / ROF ËMDREINEN
+CONTROLLER-HIWEISER
+Weist, wat all Knäppchen mécht, wann s de mam Controller spills.
+VIBRÉIEREN OP
+HANDY
+BÉID
+Auto: de Controller, wann een ugeschloss ass, soss den Handy.
+HANDY-VIBRATIOUN
+HANDY-STÄERKT
+CONTROLLER-VIBRATIOUN
+CONTROLLER-STÄERKT
+AUTOMATESCH ({0})
+{0} mécht d'Astellungen op, {1} mécht Deeglech op.
+Kee Controller ugeschloss.
+Ugeschloss: {0}. {1}-Knäppercher ginn ugewisen (A riets bestätegt).
+Ugeschloss: {0}. {1}-Knäppercher ginn ugewisen.
+D'BAR
+GLÉCK
+Jetonen, Gléck an Iessen si virtuell Saachen nëmmen zur Ënnerhalung: kee Geldwäert, net a Geld oder Präisser ëmtauschbar.
+All Kaart huet dës Chance, zu dengem Virdeel ze kommen, bei Blackjack-Asäz bis zu {0} Jetonen (méi grouss Asäz si normal a verbrauche keng Hänn). Fänkt nom Ufängergléck un; méi staark Packe gi fir d'éischt benotzt.
+Erlaab den Zougrëff op de Standuert fir de Präis vun dengem Land
+Akeef sinn an dëser Versioun vum Spill net disponibel.
+TESTBUTTEK (kee richtegt Geld)
+Energie
++{0} % JETONEN
+{0} Hänn
+gewënnt ongeféier {0} % dovun
+Wëllkomm beim Sic Bo! Grouss, kleng oder eppes Méiges?
+D'Dëschlimit ass {0} pro Wuerf.
+RESELEN
+DRILLING {0}!
+LUCKY ACE 7s
+GESAMTASAZ
+GEWËNNTABELL
+VILL GLÉCK!
+Du brauchs mindestens 10 Jetone fir ze dréinen.
+JETONE KRÉIEN
+Asaz op dat erofgesat, wat s de bezuele kanns.
+MEGAGEWËNN!
+GROUSSE GEWËNN!
+ZRÉCK {0}
+KEE GEWËNN
+LINN {0}: {1} × {2} = {3}
+{0} STÄREN = {1}
+Kiischt
+Zitroun
+Orange
+Promm
+Klack
+Bar
+Siwen
+Diamant
+As
+Stär
+STÄRE bezuelen iwwerall: 5 = {0}× Asaz, 4 = {1}× Asaz, 3 = {2}× Asaz.
+Den AS ass Joker: en ersetzt all Symbol ausser dem Stär.
+Linnegewënner si Villfacher vum Linnenasaz (Gesamtasaz ÷ 10), vu lénks no riets vun der éischter Wal un.
+AUSZUELUNG: {0} % op laang Siicht. All Dréiung ass onofhängeg an zoufälleg.
+GEHALEN
+Ginn, déi Kaarte behalen, déi s du wëlls, eemol wiesselen.
+HALEN
+TIPP
+WIESSELEN
+Tipp op d'Kaarte fir se ze halen, da wiessel.
+Goen
+Kucken
+Knäppercher
+Astellungen
+Deeglech
+Upassen
+Beweegen
+Wielen
+Zoumaachen
+Zréck
+ERSCHÖPFT
+UFÄNGERGLÉCK {0} %
+NACH {0} HÄNN
+GLÉCKSSTRÉCK {0} %
+{0} HÄNN  •  ASÄZ BIS {1}
+LEVEL
+Sofia
+Elena
+Mia
+Valentina
+Chloe
+Isabella
+Nadia
+Aria
+Luna
+Camila
+Aurora
+Bianca
+Serena
+Marco
+Leo
+Adrian
+Lukas
+Viktor
+Daniel
+Gabriel
+Ethan
+Julian
+Rafael
+Mateo
+Nico
+Enzo
+WËLLKOMM
+MAT DER HOSTESS SCHWÄTZEN
+Wee a Tipps
+JETONEN  •  BONUSSEN
+JETONE KAFEN
+Keess
+COCKTAILEN  •  SNACKEN  •  ENERGIE
+IESSEN & DRÉNKEN
+D'Bar
+BLACKJACK BEZILT 3 ZU 2
+DE CROUPIER MUSS BEI 17 STOE BLEIWEN
+BLACKJACK SPILLEN
+{0}-Dësch  •  Asäz {1} bis {2}
+HOLD'EM SPILLEN
+Ultimate Texas Hold'em  •  Ante {0} bis {1}
+BACCARAT SPILLEN
+GROUSS  •  KLENG  •  DRILLINGEN
+SIC BO SPILLEN
+Dräi Wierfelen  •  grouss oder kleng bezuelt 1 zu 1
+PASS LINE  •  FIELD  •  ODDS
+CRAPS SPILLEN
+Pass Line bezuelt 1 zu 1  •  Odds bezuelen richteg Quoten
+VIDEO-POKER SPILLEN
+AM AUTOMAT SPILLEN
+Jacks or Better  •  voll 9/6-Tabell
+LUCKY ACE 7s  •  BEZILT BIS 2.500× VUN DÄINEM LINNEN-ASAZ
+JACKS OR BETTER  •  ROYAL FLUSH BEZUELT 800×
+FAITES VOS JEUX
+ROULETTE SPILLEN
+Europäescht Rad  •  Plein bezilt 35 zu 1
+EN DRÉNK BESTELLEN
+{0} bréngt en
+{0} mécht op Level {1} op. Du bass Level {2}: all gespillte Ronn zielt.
+Fir dësen Dësch brauchs de mindestens {0} Jetonen.
+D'Blackjack-Dëscher si riichtaus. Gëff bei een a setz dech!
+D'Spillautomate stinn un der rietser Mauer, de Video-Poker un der hënneschter an d'Roulette ganz hannen.
+Hold'em ass am Eck hannen lénks, hannert der Bar.
+Baccarat ass direkt lénks, wann s de erakënns.
+Sic Bo ass am Eck hannert der Keess: dräi Wierfelen, grouss oder kleng.
+De Craps-Dësch steet riets virun den Automaten. Sëtz op d'Pass Line a werf!
+D'Keess ass hei op denger rietser Säit, an d'Bar ass un der lénkser Mauer.
+Midd? E Snack un der Bar fëllt deng Energie direkt op.
+Tipp iergendwou op de Buedem a du gees dohin. Tipp op en Dësch fir dech ze setzen.
+Andorra
+Vereenegt Arabesch Emirater
+Afghanistan
+Antigua a Barbuda
+Anguilla
+Albanien
+Armenien
+Angola
+Antarktis
+Argentinien
+Amerikanesch-Samoa
+Éisträich
+Australien
+Aruba
+Ålandinselen
+Aserbaidschan
+Bosnien an Herzegowina
+Barbados
+Bangladesch
+Belsch
+Burkina Faso
+Bulgarien
+Bahrain
+Burundi
+Benin
+Saint-Barthélemy
+Bermuda
+Brunei
+Bolivien
+Karibescht Holland
+Brasilien
+Bahamas
+Bhutan
+Bouvetinsel
+Botsuana
+Wäissrussland
+Belize
+Kanada
+Kokosinselen
+Kongo-Kinshasa
+Zentralafrikanesch Republik
+Kongo-Brazzaville
+Schwäiz
+Côte d’Ivoire
+Cookinselen
+Chile
+Kamerun
+China
+Kolumbien
+Costa Rica
+Kuba
+Kap Verde
+Curaçao
+Chrëschtdagsinsel
+Zypern
+Tschechien
+Däitschland
+Dschibuti
+Dänemark
+Dominica
+Dominikanesch Republik
+Algerien
+Ecuador
+Estland
+Egypten
+Westsahara
+Eritrea
+Spanien
+Ethiopien
+Finnland
+Fidschi
+Falklandinselen
+Mikronesien
+Färöer
+Frankräich
+Gabun
+Groussbritannien
+Grenada
+Georgien
+Guayane
+Guernsey
+Ghana
+Gibraltar
+Grönland
+Gambia
+Guinea
+Guadeloupe
+Equatorialguinea
+Griicheland
+Südgeorgien an déi Südlech Sandwichinselen
+Guatemala
+Guam
+Guinea-Bissau
+Guyana
+Spezialverwaltungszon Hong Kong
+Heard- a McDonald-Inselen
+Honduras
+Kroatien
+Haiti
+Ungarn
+Indonesien
+Irland
+Israel
+Isle of Man
+Indien
+Britescht Territorium am Indeschen Ozean
+Irak
+Iran
+Island
+Italien
+Jersey
+Jamaika
+Jordanien
+Japan
+Kenia
+Kirgisistan
+Kambodscha
+Kiribati
+Komoren
+St. Kitts an Nevis
+Nordkorea
+Südkorea
+Kuwait
+Kaimaninselen
+Kasachstan
+Laos
+Libanon
+St. Lucia
+Liechtenstein
+Sri Lanka
+Liberia
+Lesotho
+Litauen
+Lëtzebuerg
+Lettland
+Libyen
+Marokko
+Monaco
+Moldawien
+Montenegro
+St. Martin
+Madagaskar
+Marshallinselen
+Nordmazedonien
+Mali
+Myanmar
+Mongolei
+Spezialverwaltungszon Macau
+Nërdlech Marianen
+Martinique
+Mauretanien
+Montserrat
+Malta
+Mauritius
+Maldiven
+Malawi
+Mexiko
+Malaysia
+Mosambik
+Namibia
+Neikaledonien
+Niger
+Norfolkinsel
+Nigeria
+Nicaragua
+Holland
+Norwegen
+Nepal
+Nauru
+Niue
+Neiséiland
+Oman
+Panama
+Peru
+Franséisch-Polynesien
+Papua-Neiguinea
+Philippinnen
+Pakistan
+Polen
+St. Pierre a Miquelon
+Pitcairninselen
+Puerto Rico
+Palestinensesch Autonomiegebidder
+Portugal
+Palau
+Paraguay
+Katar
+Réunion
+Rumänien
+Serbien
+Russland
+Ruanda
+Saudi-Arabien
+Salomonen
+Seychellen
+Sudan
+Schweden
+Singapur
+St. Helena
+Slowenien
+Svalbard a Jan Mayen
+Slowakei
+Sierra Leone
+San Marino
+Senegal
+Somalia
+Suriname
+Südsudan
+São Tomé a Príncipe
+El Salvador
+Sint Maarten
+Syrien
+Swasiland
+Turks- a Caicosinselen
+Tschad
+Franséisch Süd- an Antarktisgebidder
+Togo
+Thailand
+Tadschikistan
+Tokelau
+Osttimor
+Turkmenistan
+Tunesien
+Tonga
+Tierkei
+Trinidad an Tobago
+Tuvalu
+Taiwan
+Tansania
+Ukrain
+Uganda
+Amerikanesch-Ozeanien
+Vereenegt Staaten
+Uruguay
+Usbekistan
+Vatikanstad
+St. Vincent an d’Grenadinnen
+Venezuela
+Britesch Joffereninselen
+Amerikanesch Joffereninselen
+Vietnam
+Vanuatu
+Wallis a Futuna
+Samoa
+Kosovo
+Jemen
+Mayotte
+Südafrika
+Sambia
+Simbabwe
+Englesch
+Afrikaans
+Amharesch
+Arabesch
+Aserbaidschanesch
+Wäissrussesch
+Bulgaresch
+Bengalesch
+Bosnesch
+Katalanesch
+Tschechesch
+Dänesch
+Däitsch
+Griichesch
+Spuenesch
+Estnesch
+Baskesch
+Persesch
+Finnesch
+Filipino
+Franséisch
+Iresch
+Galizesch
+Gujarati
+Hausa
+Hebräesch
+Hindi
+Kroatesch
+Franséisch (Haiti)
+Ungaresch
+Armenesch
+Indonesesch
+Igbo-Sprooch
+Islännesch
+Italienesch
+Japanesch
+Georgesch
+Kasachesch
+Kambodschanesch
+Kannada
+Koreanesch
+Kirgisesch
+Lëtzebuergesch
+Laotesch
+Litauesch
+Lettesch
+Malagassi-Sprooch
+Mazedonesch
+Malayalam
+Mongolesch
+Marathi
+Malaiesch
+Maltesesch
+Birmanesch
+Norwegesch Bokmål
+Nepalesesch
+Hollännesch
+Pandschabesch
+Polnesch
+Paschtu
+Portugisesch (Brasilien)
+Portugisesch (Portugal)
+Rätoromanesch
+Rumänesch
+Russesch
+Ruandesch
+Singhalesesch
+Slowakesch
+Slowenesch
+Somali
+Albanesch
+Serbesch
+Schwedesch
+Suaheli
+Tamilesch
+Telugu
+Tadschikesch
+Thailännesch
+Turkmenesch
+Tierkesch
+Ukrainesch
+Urdu
+Usbekesch
+Vietnamesesch
+Xhosa
+Yoruba
+Chinesesch (Vereinfacht)
+Chinesesch (Traditionell)
+Zulu
+Son.
+Méi.
+Dën.
+Mët.
+Don.
+Fre.
+Sam.

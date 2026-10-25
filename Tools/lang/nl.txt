@@ -1,0 +1,659 @@
+# Dutch (nl). Machine translation by Claude.
+bd99124	Handvol fiches
+c7c6dc8	Stapel fiches
+7512cfd	Dienblad fiches
+fa36588	Rek fiches
+7994f65	MEEST GEKOZEN
+49dcc21	Kluis vol fiches
+0725283	Highroller-kluis
+7658705	BESTE DEAL
+2f23432	Bruiswater
+418b820	Espresso
+97b463c	Energiedrank
+43bbfda	Clubsandwich
+bce7a75	Burgermenu
+2832a8d	Steakdiner
+dee8ee8	HELEMAAL VOL
+a7c2255	Geluksreeks
+7919163	Hete reeks
+74fdfc2	MEESTE GELUK
+d79cd12	Bronzen tafel
+2a8ff35	Zilveren tafel
+51877b2	Gouden tafel
+9282152	Diamanten tafel
+0de8764	Vul een geldig jaar in.
+d4e14c9	Vul een geldige maand in (1-12).
+addd156	Vul een geldige dag in.
+d78a4f4	Die datum ligt in de toekomst.
+787c7c6	Welkom aan mijn tafel! Klaar om te spelen?
+8b0f93e	Fijn je te zien. Ga zitten!
+8338021	Hallo! De kaarten zijn vers, en ik ook.
+75750f9	Welkom! Laten we er een mooie avond van maken.
+95aac36	Plaats je inzet wanneer je klaar bent.
+8bc63c1	Fiches neer, en laten we wat kaarten zien.
+984b7f3	Waar spelen we om?
+b74c769	Oeh, een grote inzet! Ik hou van je stijl.
+77fc1fc	Dat noem ik een inzet. Kom op!
+7779a5b	Je voelt je dapper vanavond, hè?
+479ff82	Alles inzetten?! Mijn hart gaat tekeer!
+7fb527c	Alles op één hand. Onbevreesd!
+7bf0c5d	Blackjack! Ongelooflijk!
+123f2d5	Eenentwintig, zomaar!
+cd850a7	Blackjack! De kaarten zijn dol op je vanavond.
+55f50ee	Mooi gespeeld!
+79594b1	Gewonnen! Goed gedaan.
+0df710e	Je bent goed op dreef!
+20a0c1e	Die is voor jou.
+a45fe61	Wat een winst! Iedereen kijkt naar deze tafel!
+54d3982	Enorm! Je bent vanavond on fire!
+8da8f1e	Zo dichtbij! De volgende is voor jou.
+5d921e1	Het huis had deze keer geluk.
+f923af7	Schud het van je af, er komt een nieuwe hand.
+853e7ca	Au, één kaart te veel.
+daec44f	Dood! Het overkomt de besten.
+11ceaef	Gelijkspel. Niemand verliest!
+911a289	Push. Je fiches zijn veilig.
+a89d9d9	Ik ben dood! Bofkont.
+f76c8fd	Te veel voor mij. Jij wint!
+63f8d0b	Blackjack voor het huis, sorry!
+465c8bf	Blackjack voor de dealer. Pech.
+6752f40	Ik laat een aas zien. Verzekering?
+1920c5a	Splitsen! Twee kansen om te winnen.
+9f621da	Verdubbelen. Moedige zet!
+59da99d	Verdubbel het! Er komt één kaart.
+0b48017	Nieuwe schoen, ik schud!
+3fa7769	Bijna op? De kassa vult je zo aan.
+4e5694b	De fiches raken op. Wil je er meer?
+d41f057	Geen fiches meer! Ga naar de kassa of pak gratis fiches.
+15d90d3	Je stapel is leeg. De kassa staat vlak achter je.
+a9eaae1	Je ziet er uitgeput uit! Haal iets te eten aan de bar.
+5cd9e8b	Op de reservetank? De bar helpt je verder.
+37b9672	Neem je tijd.
+c64df8c	Wanneer je maar klaar bent!
+b8dfc0a	De avond is nog jong.
+8748560	Beginnersgeluk staat aan jouw kant!
+e3def50	Het spel kaarten is vanavond in je voordeel!
+506ade9	Het beginnersgeluk is voorbij. Vanaf nu is het een eerlijk spel!
+953d8b7	Welkom in het casino! Je plek staat klaar.
+9fd9844	Goedenavond! De tafels zijn vanavond heet.
+2d42aaf	Welkom terug! Voel je je gelukkig?
+311bae7	Tik op een tafel om te gaan spelen!
+3318099	Meer fiches nodig? Dan ben je hier aan het juiste loket.
+c5b3787	Grotere stapels, grotere bonussen!
+21ae665	Honger? Kies iets van de kaart.
+8b83cc0	Een hapje houdt je energie op peil!
+35f4b0e	Welkom aan mijn tafel!
+8f90245	Daar ben je! Het voelt hier meteen lichter.
+909e4d6	Voel je thuis. Vanavond draait alles om jou.
+2477f78	Ik hou van die glimlach. Geluksavond?
+6ac2120	Ontspan, je bent hier in goede handen.
+089f04b	Hé jij! Ik hoopte al dat je langs mijn loket zou komen.
+3f2c3c9	Altijd fijn om een bekend gezicht te zien.
+3021db8	Kijk eens wie we daar hebben! Heb je het naar je zin?
+769980b	Hallo daar, knapperd!
+5361ffd	Ik vind je stijl vanavond leuk.
+56b40be	Hé, leuk je weer te zien!
+3316019	Heb je een goede avond? Die verdien je.
+28283fd	Pas op, straks ga ik nog voor jou juichen.
+109ac94	Mijn favoriete speler is terug!
+acba0e6	Kom bij me zitten, ik deel je iets moois.
+eb5ff2a	Met jou is deze tafel een stuk leuker.
+772a73c	Ga je nu al? De avond is nog jong!
+178301a	Kom op, nog één hand. Ik heb er een goed gevoel over!
+816036a	Je kunt me nu niet laten zitten, we zijn net begonnen!
+5c9b7e2	Laatste kans! De volgende hand kan de grote zijn...
+20ce7b6	Oké, oké. Ik houd je plek warm. Beloof je dat je terugkomt?
+51d1aeb	Nog geen reeks? Speel vandaag {2} rondes en ik begin te tellen.
+10b25d9	Nieuwe start! {2} rondes en je vlam brandt.
+0c10711	Ik houd een lijstje bij van wie er elke dag komt. Jij staat er niet op... nog niet.
+5e7c431	Dag {1} wacht op je. Nog maar {2} rondes te gaan!
+b268d84	{0} dagen op rij... je gaat nu toch niet stoppen?
+b32ae79	Je vlam ziet er vandaag wat koud uit. {2} rondes warmen hem wel op.
+a6f3fbd	Ik heb geteld: {0} dagen. Laten we er {1} van maken.
+1dc5c97	Denk niet dat ik het niet zag. Nog {2} rondes om je reeks te houden!
+807b82c	{0} dagen op rij? Ik begin te denken dat je het hier leuk vindt.
+6391923	Je reeks is veilig voor vandaag. Nu ben je gewoon aan het opscheppen.
+3bfbbf7	Dag {0}, klaar. Morgen zelfde tijd?
+ca2a2c1	{0} dagen! Ik zou nu wel een plekje voor je mogen vrijhouden.
+54f991f	Daar is hij: dag één van je reeks! Kom morgen terug, dan maken we er twee van.
+a1e7ab0	Een hele week op rij! Ik ben oprecht onder de indruk.
+96cee95	Dertig dagen! Je werkt hier zo goed als.
+a9834cd	Honderd dagen. Ik vertel iedereen over je.
+071317f	Dat is {0} dagen op rij! Moet je jou zien.
+0964027	Reeks gered: dag {0}! Ik wist dat je het zou halen.
+c7f2a1f	Dag {0}! Wedden dat je {1} niet haalt?
+a6ce2e2	{0} dagen... oké, uitslover.
+3ab91d0	Speel 10 handen blackjack
+38e863d	Win 5 handen blackjack
+6ac41cc	Haal een blackjack
+74cf149	Win 500 fiches bij blackjack
+66440e1	Draai 20 keer aan de gokkast
+9205056	Win 5 draaien op de gokkast
+cd60e0c	Win 5× je inzet op de gokkast
+6f7ac28	Speel 5 rondes roulette
+6978cc0	Win 3 roulettedraaien
+c8ebbcc	Raak een getal plein
+8a57c54	gps-locatie
+4919635	mobiel netwerk
+527b094	internetverbinding
+f49ae82	apparaatinstellingen
+60827d3	testland
+0b2f8d8	niet geverifieerd (standaardprijs)
+50d8b4a	onbekend
+4fb7a4e	1e 12
+647a0eb	2e 12
+a934745	3e 12
+3de80ab	2 tegen 1
+bb4e68e	ROOD
+a9414ab	ZWART
+710756a	ONEVEN
+70ca748	EVEN
+4d60d6c	EERLIJKE PRIJZEN VOOR JOUW LAND
+1674d95	De prijzen in de winkel zijn afgestemd op de economie van je land, zodat spelers overal een eerlijke prijs betalen.
+4ec27ee	Om je land te bepalen, controleren we één keer je globale locatie. Die wordt op je apparaat aan een land gekoppeld en nergens naartoe gestuurd. Als je weigert, gelden de standaardprijzen.
+ff3dbb4	DOORGAAN
+43a6a8d	Het casino verlaten?
+ad209a0	Je fiches en voortgang zijn opgeslagen.
+5860c84	STOPPEN
+f1e0808	BLIJVEN
+5b38c49	{0} ontgrendeld
+15ae7ac	Een reeksbevriezing heeft gisteren je reeks van {0} dagen gered.
+d375ffb	{0} reeksbevriezingen hebben je reeks van {1} dagen gered.
+fd8ab39	Je reeks van {0} dagen is voorbij. Speel vandaag {1} rondes om een nieuwe te beginnen!
+7fa2db4	MISSIE VOLTOOID
+255325c	+{0} fiches
+d205ece	ALLE MISSIES VOLTOOID!
+4acbed2	Dagbonus +{0} fiches. Morgen nieuwe missies.
+ab2ceb3	LEVEL {0}!
+86e2afb	Mijlpaal! +{0} fiches
+9ae18ad	Kom morgen terug om door te gaan
+7af7e7c	+1 reeksbevriezing
+b5b9597	REEKS VAN {0} DAGEN!
+62ec60d	Aankopen zijn niet beschikbaar in deze versie.
+1f9786c	Aankoop mislukt. Er is niets afgeschreven.
+3e4c600	+{0} fiches toegevoegd!
+1998202	{0}: {1} handen met {2}% geluk, na het beginnersgeluk
+728ada5	{0}: {1} handen met {2}% geluk!
+af5e232	{0}: +{1}% energie
+001a53b	Niet beschikbaar op dit apparaat
+2607004	Video's laden niet op dit netwerk
+569c30d	Kom morgen terug
+ecae6ee	Klaar over {0} s
+9964820	+{0} fiches (nog {1} vandaag)
+e1bd888	+{0} gratis fiches!
+619bd5d	+1 reeksbevriezing!
+f70d794	Er is nu geen video beschikbaar. Probeer het zo opnieuw.
+264d71b	BRONS
+462e839	ZILVER
+81ff70a	GOUD
+50e122e	DIAMANT
+57f5f5e	Menu
+69bd4ef	Weergave
+dbfe736	Kruis
+1cc7820	Cirkel
+82810cb	Vierkant
+73d3ae2	Driehoek
+a42f608	Je regio controleren...
+1db422c	Niet geverifieerd ({0}): standaardprijzen
+9bc0807	{0} ({1}): prijzen in {2}
+ae8c393	Herinneringen
+aefd59b	Gratis fiches klaar en herinneringen voor je reeks
+3125838	Je gratis fiches staan klaar
+233027b	Er wachten {0} fiches op je bij Lucky Ace.
+b93976b	Houd je reeks van {0} dagen vast
+bd68038	Speel vandaag {0} rondes, zodat hij om middernacht niet terugspringt.
+0acfb6f	Welkom! Het beginnersgeluk staat vanavond aan jouw kant. Plaats een inzet!
+d589374	BLACKJACK BETAALT 3 TEGEN 2   •   DEALER PAST OP ALLE 17   •   VERZEKERING BETAALT 2 TEGEN 1
+b700b02	INZET
+16ec74f	WISSEN
+928226b	OPNIEUW
+55591e0	DELEN
+395ed46	KAART
+43e7971	PASSEN
+097274c	DUBBEL
+6df63ca	SPLITS
+3e40f46	VERZEKER
+db82d3a	NEE, BEDANKT
+28d6be8	INZET {0}+
+9587b70	Tafelmaximum bereikt
+b9ac47d	Niet genoeg fiches
+d237ade	De dealer toont een aas. Verzekeren voor {0}?
+bf07c14	Verzekering betaalt {0}
+b6e674a	Geen blackjack voor de dealer. Verzekering verloren.
+0cc9679	DOOD
+82ce89d	DEALER DOOD
+6e1e1a4	BLACKJACK!
+662fae5	WINST
+8918d00	PUSH
+8df6be4	VERLIES
+9e69668	Het beginnersgeluk is voorbij. Je Geluksreeks begint nu.
+822f4f4	Het beginnersgeluk is voorbij. Vanaf nu is het standaard blackjack.
+b0377c7	Je Geluksreeks is voorbij. Terug naar standaard blackjack.
+824ad7c	GEEN FICHES MEER
+ff1822d	Bekijk een korte video voor {0} gratis fiches, of ga naar de kassa.
+e4cac2f	Ga naar de kassa om je fiches aan te vullen.
+c3df3e7	GRATIS FICHES
+b169d33	KASSA
+4d38f66	LATER
+cb8171b	Maak eerst deze hand af.
+3aa6941	‘{0}’
+6f846f4	NOG ÉÉN HAND
+a79d4f2	VERTREKKEN
+693f697	BEGINNERSGELUK
+641ad58	GELUKSREEKS
+fc45931	Welkomstbonus voor nieuwe spelers: bij je eerste <b>{0} handen</b> is de schoen van de dealer in jouw voordeel geschud, dus je wint bijna elke hand.
+576c683	In de volgende <b>{0} handen</b> verdwijnt het voordeel geleidelijk, en daarna speelt elke tafel standaard, eerlijk blackjack uit een geschudde schoen met 6 spellen (blackjack betaalt 3 tegen 2, dealer past op alle 17).
+7fb55b3	Voordeel nu: <b><color=#7CFC9A>{0}%</color></b>   Handen over: <b>{1}</b>
+d4f8fe0	Bij je volgende <b>{0} handen blackjack</b> met een inzet tot <b>{1} fiches</b> heeft elke kaart <b>{2}%</b> kans om in jouw voordeel te vallen (hetzelfde voordeel als het beginnersgeluk).
+0a5fc06	Met goed spel win je zo ongeveer <b>{0}%</b> van de handen, tegenover zo'n {1}% bij standaard blackjack. Hogere inzetten zijn standaard blackjack en kosten geen handen. Als de handen op zijn, is elke tafel weer standaard, eerlijk blackjack.
+c3a8946	BEGREPEN
+8dfc44a	JE GELUK TERUG?
+272a97f	Het beginnersgeluk is voorbij: vanaf nu is elke tafel standaard, eerlijk blackjack. Een Geluksreeks brengt het voordeel een tijdje terug.
+06b7689	DAGELIJKS
+4035996	DAGREEKS
+fbe7f18	DAGEN OP RIJ
+7a46866	VANDAAG
+4753707	BEKIJK RECLAME
+6bb45f3	KOPEN
+62a945f	REEKSBEVRIEZING
+ba5b1de	Een reeksbevriezing houdt je reeks in leven op een dag dat je niet speelt. Je kunt er {0} bewaren.\n\nEén kopen voor {1} fiches?
+38c6090	Reeksbevriezing klaar.
+8fe681f	Niet genoeg fiches voor een bevriezing.
+1507c40	ANNULEREN
+457d20f	DAGELIJKSE DRAAI
+9623247	DRAAIEN
+ac5ef96	Kansen:
+1200f20	{0}%
+003a689	Je hebt {0} fiches gewonnen!
+f757137	MISSIES VAN VANDAAG
+7b7f9e2	Record: {0} dagen
+9554fea	Speel elke dag om een reeks op te bouwen
+5c8dbb8	Doel van vandaag gehaald! Tot morgen.
+1aeb9a1	Vandaag: {0} / {1} rondes (elk spel)
+bb92856	Reeksbevriezingen: {0} / {1}
+0ec6216	Red je reeks op een dag dat je mist. +1 elke 7 dagen.
+cc0a745	VOL
+419a962	GEEN VIDEO
+2dabd99	RECLAME ZO
+f12e166	Reeksbonus: prijzen ×{0}
+80948a4	Elke dag één gratis draai
+596b5e0	VOLGENDE  {0}
+7f7e7fc	Alles klaar! Bonus ontvangen.
+03a0f2a	Nieuwe missies om middernacht.
+4784874	Maak alle drie af: +{0} bonusfiches
+42c5cda	SPELEN
+337211e	SPELLEN
+8f5e3bd	Sleep links om te lopen  •  Sleep rechts om rond te kijken  •  Tik om te gaan
+d00d221	Alleen 18+  •  Fiches zijn voor de lol: geen geldwaarde, nooit in te wisselen voor geld of prijzen
+b60f038	De deuren gaan open...
+2e5bcce	Welkom! Je {0} welkomstfiches staan klaar. De tafels zijn recht vooruit!
+7ef7ae3	+{0} gratis fiches! Meer over {1} uur.
+5d82af9	Gratis fiches vullen elke {0} uur bij. Volgende over {1}.
+5469985	{0} u {1} m
+bb65beb	{0} m {1} s
+ac8ba93	HOUD JE REEKS VAST
+560bfa1	Wil je een herinnering op avonden dat je nog niet hebt gespeeld, en als je gratis fiches klaarstaan? Nooit meer dan dat, en je zet het uit in Instellingen.
+b724a40	HERINNER ME
+9e0c898	+{0} fiches klaar!
+1207e28	Bekijk een video: {0}
+db3655b	Volgende gratis fiches over {0}
+4ca9be5	BLACKJACK
+9a612b1	4 tafels  •  betaalt 3 tegen 2
+1194439	GOKKASTEN
+6555152	Lucky Ace 7s  •  10 lijnen
+255b1a1	ROULETTE
+6df1551	Europees met één nul
+379b146	JE BENT UITGEPUT
+340e5c4	Je energiebalk is leeg. Haal iets aan de bar om door te spelen, of kom later terug: je energie herstelt langzaam als je weg bent.
+a517396	NAAR DE BAR
+7c7227f	KIES JE TAFEL
+c963de3	INZETTEN
+c433657	LEVEL {0}
+083ac39	GA ZITTEN
+9698219	{0} NODIG
+34b737e	Bereik level {0} om hier te spelen. Jij bent level {1}.
+6cc19a9	CASINO
+6e946b7	DD
+4a3a892	MM
+2857a6a	JJJJ
+9d1fece	DAG
+d3bb0c3	MAAND
+c0f0cad	JAAR
+43985ff	WANNEER BEN JE GEBOREN?
+293fda2	Fiches zijn alleen voor vermaak. Ze hebben geen geldwaarde en kunnen nooit worden ingewisseld voor geld of prijzen.
+3e9128d	SORRY, JE MAG NIET SPELEN
+b5e8985	{0} is alleen beschikbaar voor volwassenen.
+bb1b380	AFSLUITEN
+d9f9432	Sluit over {0}...
+c6e102d	VERTEL OVER JEZELF
+31120ce	We kiezen je hosts, dealers en barpersoneel die daarbij passen. Je kunt dit altijd wijzigen in Instellingen.
+49e8df9	IK BEN EEN MAN
+85abe81	IK BEN EEN VROUW
+76cc98c	ZEG IK LIEVER NIET
+964daf7	BETREED HET CASINO
+2efb69a	Je personeel vanavond:
+c10e749	Pagina {0} van {1}
+2a3ffd9	TAAL
+c673535	AUTOMATISCH
+d1245d2	LAND
+15fc12b	Welkom! Plaats uw inzetten, alstublieft.
+531fb3f	Niet genoeg fiches voor die inzet.
+380eb75	De tafellimiet is {0} per draai.
+55ad592	ONGEDAAN
+8f191f9	TOTALE INZET  {0}
+82e1181	Tik op het bord om fiches te plaatsen
+bb19a75	Rien ne va plus!
+5becf07	GROEN
+bc74f4f	groen
+7898801	rood
+466bc8c	zwart
+f2edfbf	Wat een treffer! Gefeliciteerd!
+b252caf	Gewonnen! Je wint {0}.
+8587d14	WINST  +{0}
+b862a2b	{0} {1}. {2} komt terug naar jou.
+a306d0a	TERUG  {0}
+af3134d	Deze keer geen winst
+84122e7	Plaats uw inzetten, alstublieft.
+52205f4	Wacht tot de bal stilligt.
+c4b9243	INSTELLINGEN
+44d863e	ALGEMEEN
+2bbca79	GRAPHICS
+955c8b4	GELUID
+c701f5f	AANRAKEN
+efcc94a	MUIS
+8433628	CONTROLLER
+d868a50	TRILLEN
+f8692c7	18+ • Fiches hebben geen geldwaarde • Lettertypen: Bebas Neue, Poppins, Noto (SIL OFL) • Grenzen: Natural Earth • Prijsgegevens: Wereldbank
+da46447	CASINOPERSONEEL
+594b81e	VROUWEN
+69d3313	MANNEN
+b4325d3	GEMENGD
+414594a	HERINNERINGEN
+6cac87b	Gratis fiches klaar, en 's avonds een seintje voordat een reeks zou aflopen.
+e43b2e0	OPNIEUW CONTROLEREN
+7c9e8f9	PRIJSREGIO
+495c70e	Snelst: het casino zoals geschilderd, niets extra's.
+b052523	Gepolijste vloeren, hout en goud weerspiegelen de zaal.
+6bd30d7	Filmlook: kleurcorrectie, korrel, gloed, lichtbundels, levensechte huid.
+21b6e1d	Bioscooplens: scherpte volgt je blik, strepen op lampen, stof in de lichtbundels.
+fb7c2e8	KWALITEIT
+d8b9679	LAAG
+f68525a	GEMIDDELD
+d77d0b2	HOOG
+9289eee	ULTRA
+637e313	RESOLUTIE
+2e7b141	Lager is zachter, maar blijft koeler en spaart de batterij.
+93dcfb5	WEERGAVEMODUS
+3c6eac3	VOLLEDIG SCHERM
+f3690b1	IN VENSTER
+cfa6200	ANTI-ALIASING
+ad50489	UIT
+f178804	Maakt gekartelde randen in het casino glad.
+4266288	BEELDSNELHEID
+d031ab0	{0} FPS
+a2b7514	30 FPS spaart de batterij en houdt oudere telefoons koel.
+0babcee	V-SYNC
+6656e25	GEZICHTSVELD
+244aadb	FPS TONEN
+41c8f6e	HOOFDVOLUME
+bf3af1f	MUZIEK
+bd80907	GELUIDSEFFECTEN
+d098036	STEMMEN PERSONEEL
+93c6484	Het gemurmel van het personeel als het praat.
+16bf71a	DEMPEN OP ACHTERGROND
+85b2ee7	Zet het casino stil terwijl je in een ander venster bent.
+8e3634e	KIJKGEVOELIGHEID
+880dc05	Hoe snel slepen het beeld draait.
+750c60f	Hoe snel slepen met de muis het beeld draait.
+8b988eb	KIJKEN LINKS / RECHTS OMKEREN
+cacf0cc	KIJKEN OMHOOG / OMLAAG OMKEREN
+2d13b68	KNOPINDELING
+50c3f10	AUTO
+b471e5c	MENU / WEERGAVE WISSELEN
+d9a59f1	STICKGEVOELIGHEID
+ec14343	Hoe snel de rechterstick het beeld draait.
+a79af23	STICK LINKS / RECHTS OMKEREN
+acfc66e	STICK OMHOOG / OMLAAG OMKEREN
+56bb461	CONTROLLERHINTS
+51cf49a	Laat zien wat elke knop doet terwijl je met een controller speelt.
+dff7431	TRILLEN OP
+34139ab	TELEFOON
+15ee988	BEIDE
+465cc91	Auto: de controller als die verbonden is, anders de telefoon.
+f6fed84	TRILLEN TELEFOON
+8e97fa7	STERKTE TELEFOON
+486ba2d	TRILLEN CONTROLLER
+8008889	STERKTE CONTROLLER
+ea9233e	AUTOMATISCH ({0})
+167dda7	{0} opent Instellingen, {1} opent Dagelijks.
+29a4ef9	Geen controller verbonden.
+558ecd2	Verbonden: {0}. {1}-knoppen worden getoond (A rechts bevestigt).
+d6eee9e	Verbonden: {0}. {1}-knoppen worden getoond.
+78525d5	DE BAR
+099db9f	GELUK
+b4a8b06	Fiches, geluk en eten zijn virtuele items, alleen voor vermaak: geen geldwaarde, niet in te wisselen voor geld of prijzen.
+e2a28c9	Elke kaart heeft die kans om in jouw voordeel te vallen, bij blackjackinzetten tot {0} fiches (hogere inzetten zijn standaard en kosten geen handen). Begint na het beginnersgeluk; sterkere pakketten worden eerst gebruikt.
+04fbc6d	Sta locatietoegang toe voor de prijs van je land
+2ae87fc	Aankopen zijn niet beschikbaar in deze versie van het spel.
+8239a84	TESTWINKEL (geen echt geld)
+173d916	energie
+b2c67eb	+{0}% FICHES
+58e8011	{0} handen
+ce80712	wint er zo'n {0}% van
+c69e8ee	LUCKY ACE 7s
+fc99288	TOTALE INZET
+c1c00cd	UITBETALINGEN
+3930abd	VEEL GELUK!
+67b6973	Je hebt minstens 10 fiches nodig om te draaien.
+5aa1edb	FICHES HALEN
+f5a1812	Inzet verlaagd tot wat je kunt betalen.
+5c63f61	MEGAWINST!
+652544f	GROTE WINST!
+91bc41c	TERUG {0}
+3714283	GEEN WINST
+33c0faa	LIJN {0}: {1} × {2} = {3}
+9f59e6e	{0} STERREN = {1}
+d6eee90	Kers
+4459b79	Citroen
+09fb6aa	Sinaasappel
+cb92e50	Pruim
+d419866	Bel
+e496fd2	Bar
+63abb56	Zeven
+b3850e0	Diamant
+fc2b5a9	Aas
+85a7de6	Ster
+c31b035	STERREN betalen overal: 5 = {0}× inzet, 4 = {1}× inzet, 3 = {2}× inzet.
+f97509c	De AAS is joker: hij vervangt elk symbool behalve de ster.
+3e8bc69	Lijnwinsten zijn veelvouden van de lijninzet (totale inzet ÷ 10), van links naar rechts vanaf de eerste rol.
+523f8dc	UITBETALING: {0}% op de lange termijn. Elke draai is onafhankelijk en willekeurig.
+e0c705d	Lopen
+b8db515	Kijken
+503d46d	Knoppen
+c7f73bb	Instellingen
+728298d	Dagelijks
+ab166bd	Aanpassen
+76cdb95	Bewegen
+8598222	Kiezen
+bbfa773	Sluiten
+b52b36b	Terug
+ab37588	UITGEPUT
+9b11a09	BEGINNERSGELUK {0}%
+0c94e98	NOG {0} HANDEN
+51ed273	GELUKSREEKS {0}%
+3401470	{0} HANDEN  •  INZET TOT {1}
+f481cc6	LEVEL
+0139615	WELKOM
+daad514	PRAAT MET DE HOST
+bcefb10	Route en tips
+c28e782	FICHES  •  BONUSSEN
+0c69ec4	FICHES KOPEN
+78c0727	Kassa
+1737fab	COCKTAILS  •  SNACKS  •  ENERGIE
+9e008ae	ETEN & DRINKEN
+f7881e8	De bar
+0e979ed	BLACKJACK BETAALT 3 TEGEN 2
+eea0d12	DEALER MOET PASSEN OP 17
+4db37bf	SPEEL BLACKJACK
+0ffdd99	Tafel {0}  •  inzet {1} tot {2}
+b4f938b	SPEEL OP DE GOKKAST
+6b7caea	PLAATS UW INZETTEN
+26b1e39	SPEEL ROULETTE
+910a1ed	Europees wiel  •  plein betaalt 35 tegen 1
+7ef0215	BESTEL EEN DRANKJE
+fe38d73	{0} brengt het
+f7b6306	De {0} opent op level {1}. Jij bent level {2}: elke ronde die je speelt telt.
+d85f1ad	Voor deze tafel heb je minstens {0} fiches nodig.
+cbfe016	De blackjacktafels zijn recht vooruit. Loop naar een tafel en ga zitten!
+64d9faf	De kassa is hier rechts van je, en de bar staat langs de linkermuur.
+e4c6e0b	Moe? Een snack aan de bar vult je energie meteen aan.
+d5ab68f	Tik ergens op de vloer en je loopt erheen. Tik op een tafel om te gaan zitten.
+cc21f74	KLEIN
+dc01dec	GROOT
+5fb90b0	ELKE TRIPLE
+9c716f1	Hold'em-tafel
+3b6ab84	Speel 8 handen hold'em
+6c617ca	Win 4 handen hold'em
+44ce500	Speel 10 handen baccarat
+b90cff7	Win 5 handen baccarat
+3e4dfa9	Speel 15 handen videopoker
+854fe20	Speel 8 rondes sic bo
+dfddac1	Win 4 rondes sic bo
+2973ea7	Gooi 15 keer bij craps
+737be17	Win 4 worpen bij craps
+4dbb81d	Maak een flush of beter bij videopoker
+19aa07b	Royal flush
+cf83e72	Straight flush
+d27ba03	Four of a kind
+dbe8641	Full house
+7c936d7	Flush
+2501c65	Straat
+ca1a0d4	Three of a kind
+6876b40	Twee paar
+2537f88	Paar
+b4b323e	Hoge kaart
+f70bfdc	Boeren of beter
+98fd5af	BACCARAT
+df66d5a	Welkom bij baccarat! Speler, Bank of Gelijkspel?
+5055efd	SPELER
+3f90696	GELIJK
+0d75f63	BANK
+0ebd5a4	LAATSTE UITSLAGEN
+511993d	S
+ae4f281	B
+c2c53d6	G
+781246e	Kies een fiche en tik op Speler, Bank of Gelijk
+11023a0	GELIJK  {0}
+503d5f1	SPELER WINT  {0} TEGEN {1}
+0eb4be5	BANK WINT  {0} TEGEN {1}
+7859af1	CRAPS
+4083dbd	Welkom bij craps! Zet in op de Pass Line en gooi.
+d266326	ZES
+c506f3a	NEGEN
+987f4e9	FIELD
+71c1b2b	2 3 4 9 10 11 12  •  2 en 12 betalen dubbel
+d0ac294	ELKE 7
+9b2f0c3	ELKE CRAPS
+f62ac59	DON'T PASS BAR
+6080ade	1:1  •  12 is gelijk
+c07247a	PASS LINE
+6229f78	ODDS
+29bf819	echte odds
+387d7a5	AAN
+229c9cc	Odds komen achter de Pass Line zodra er een punt is.
+c2c8e82	Voor odds heb je een inzet op de Pass Line nodig.
+1784d43	Je odds staan op het maximum.
+fdc3442	Line-inzetten plaats je bij de come-out.
+97ce95b	OP TAFEL  {0}
+a895ec0	Het punt is {0}: gooi het nog eens vóór een 7. Odds achter je Pass Line betalen echte odds.
+d9f9d65	GOOIEN
+bcf32ef	Het punt is {0}.
+5b450b4	{0}! Punt gehaald. Gewonnen!
+9746e08	Seven out. Nieuwe werper, nieuwe come-out.
+4fc4664	{0}, een natural! De Pass Line wint.
+203f466	{0}, craps. De line verliest.
+0f8e260	Wacht tot de dobbelstenen stilliggen.
+6a98cfe	TAFEL VERLATEN?
+8430088	Je line-inzet loopt nog op het punt {0}. Als je nu weggaat, ben je hem kwijt.
+0e138d1	HOLD'EM
+5e023be	Welkom bij hold'em! Zet je ante in en laten we kaarten zien.
+0cd62f5	ANTE
+5e9f331	BLIND
+3b935ab	BLIND BETAALT
+20713a4	De dealer kwalificeert met een paar of beter
+d37267c	CHECK
+9a4e316	FOLD
+88313c4	ZET {0}×
+42c6fea	Ante {0} + blind {0}. Houd nog {1} achter voor je raise.
+1abb2f2	Tik op fiches voor je ante. De blind is even hoog.
+f541cec	Check, of drie of vier keer je ante inzetten?
+fc74a79	Raise nu 4× of 3× je ante, of check en bekijk de flop.
+b687501	Laatste kans: zet 1× je ante in, of fold en verlies ante en blind.
+400009c	Zet nu 2× je ante in, of check en bekijk de laatste twee kaarten.
+f4abdf9	Hier is de flop.
+0e51f2c	De turn en de river.
+cc856d3	Eens kijken wat ik heb.
+6ba1f3e	De dealer kwalificeert niet: je ante komt terug.
+cf1fdc5	Gefold. De volgende hand is voor jou.
+177fab0	Ultimate Texas Hold'em
+c4917b9	Speler, Bank of Gelijk
+6e4fe7b	VIDEOPOKER
+73cabd3	Jacks or Better
+91c4555	SIC BO
+d810061	Drie dobbelstenen  •  groot of klein
+85ab7ec	Pass Line  •  Field  •  Odds
+35d8db6	Welkom bij sic bo! Groot, klein of iets gewaagders?
+3d05514	De tafellimiet is {0} per worp.
+86ade94	SCHUDDEN
+b69304e	TRIPLE {0}!
+5d1bcc6	VAST
+36a21ba	Delen, houd de kaarten die je wilt, één keer wisselen.
+99fa8e8	HOUDEN
+249d1c0	TIP
+7aab1bd	WISSELEN
+5595eb4	Tik op kaarten om ze te houden en wissel dan.
+1c05db9	SPEEL HOLD'EM
+e353e5f	Ultimate Texas Hold'em  •  ante {0} tot {1}
+6470369	SPEEL BACCARAT
+bbe0077	GROOT  •  KLEIN  •  TRIPLES
+3ba448f	SPEEL SIC BO
+097c59c	Drie dobbelstenen  •  groot of klein betaalt 1 op 1
+af2ca30	PASS LINE  •  FIELD  •  ODDS
+f18398e	SPEEL CRAPS
+eeede6d	Pass Line betaalt 1 op 1  •  odds betalen echte odds
+34e5170	SPEEL VIDEOPOKER
+f71bdfb	Jacks or Better  •  volle 9/6-tabel
+4a6c087	JACKS OR BETTER  •  ROYAL FLUSH BETAALT 800×
+370a133	De gokkasten staan langs de rechtermuur, videopoker langs de achtermuur en de roulette achterin.
+8298d28	Hold'em is in de hoek linksachter, voorbij de bar.
+a2a111f	Baccarat is meteen links als je binnenkomt.
+b7193bc	Sic bo is in de hoek voorbij de kassa: drie dobbelstenen, groot of klein.
+25320c8	De crapstafel staat rechts, vóór de gokkasten. Zet in op de Pass Line en gooi!
+dc81691	Sofie
+4d9936f	Elena
+3aa0674	Mia
+b724114	Valentina
+34d3f7f	Chloe
+0fc9dd6	Isabella
+bbd3e35	Nadia
+eac677d	Aria
+baaf10f	Luna
+8641381	Camila
+eeee9b7	Aurora
+8a59f05	Bianca
+5a0fc29	Serena
+bf38aa5	Marco
+cfaf50a	Leo
+5815f22	Adrian
+cbede02	Lucas
+f0b9995	Viktor
+7b37259	Daniel
+aaac72d	Gabriel
+2f8f37e	Ethan
+a01126e	Julian
+3e05c90	Rafael
+e1ae457	Mateo
+3398634	Nico
+7aa2d07	Enzo
+1920e2f	Come-out-roll: zet in op de Pass Line en gooi. 7 of 11 wint, 2, 3 of 12 verliest. Place bets werken pas zodra er een punt is.
+99f4934	LUCKY ACE 7s  •  BETAALT TOT 2.500× JE LIJNNZET

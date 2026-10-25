@@ -1,0 +1,659 @@
+# Danish (da). Machine translation by Claude.
+bd99124	En håndfuld jetoner
+c7c6dc8	En stak jetoner
+7512cfd	En bakke jetoner
+fa36588	Et stativ jetoner
+7994f65	MEST POPULÆR
+49dcc21	En boks jetoner
+0725283	High roller-pengeskab
+7658705	BEDSTE KØB
+2f23432	Danskvand
+418b820	Espresso
+97b463c	Energidrik
+43bbfda	Clubsandwich
+bce7a75	Burgermenu
+2832a8d	Bøfmiddag
+dee8ee8	FULD OPFYLDNING
+a7c2255	Heldig stime
+7919163	Varm stime
+74fdfc2	MEST HELD
+d79cd12	Bronzebord
+2a8ff35	Sølvbord
+51877b2	Guldbord
+9282152	Diamantbord
+0de8764	Angiv et gyldigt år.
+d4e14c9	Angiv en gyldig måned (1-12).
+addd156	Angiv en gyldig dag.
+d78a4f4	Den dato ligger i fremtiden.
+787c7c6	Velkommen til mit bord! Klar til at spille?
+8b0f93e	Godt at se dig. Sæt dig!
+8338021	Hej! Kortene er friske, og det er jeg også.
+75750f9	Velkommen! Lad os gøre det til en god aften.
+95aac36	Placér din indsats, når du er klar.
+8bc63c1	Jetoner på bordet, så ser vi nogle kort.
+984b7f3	Hvad spiller vi om?
+b74c769	Uh, en stor indsats! Jeg kan lide din stil.
+77fc1fc	Det kalder jeg en indsats. Lad os køre!
+7779a5b	Modig i aften, hva'?
+479ff82	Det hele?! Mit hjerte hamrer!
+7fb527c	Alt på én hånd. Frygtløs!
+7bf0c5d	Blackjack! Utroligt!
+123f2d5	Enogtyve, bare sådan!
+cd850a7	Blackjack! Kortene elsker dig i aften.
+55f50ee	Flot spillet!
+79594b1	Gevinst! Godt gået.
+0df710e	Du er godt kørende!
+20a0c1e	Den er din.
+a45fe61	Sikken en gevinst! Alle kigger på det her bord!
+54d3982	Kæmpe! Du er on fire i aften!
+8da8f1e	Så tæt på! Den næste er din.
+5d921e1	Huset var heldigt den gang.
+f923af7	Ryst det af dig, en ny hånd er på vej.
+853e7ca	Av, ét kort for meget.
+daec44f	Bust! Det sker for de bedste.
+11ceaef	Uafgjort. Ingen taber!
+911a289	Push. Dine jetoner er i sikkerhed.
+a89d9d9	Jeg gik bust! Heldig dig.
+f76c8fd	For mange til mig. Du vinder!
+63f8d0b	Blackjack til huset, beklager!
+465c8bf	Dealeren har blackjack. Uheld.
+6752f40	Jeg viser et es. Forsikring?
+1920c5a	Vi splitter! To chancer for at vinde.
+9f621da	Fordobling. Modigt træk!
+59da99d	Fordobl! Ét kort på vej.
+0b48017	Ny sko, jeg blander!
+3fa7769	Ved at løbe tør? Kassen kan fylde op for dig.
+4e5694b	Jetonerne er ved at slippe op. Vil du have flere?
+d41f057	Ikke flere jetoner! Gå til kassen eller hent gratis jetoner.
+15d90d3	Din stak er tom. Kassen er lige bag dig.
+a9eaae1	Du ser udmattet ud! Få en bid mad i baren.
+5cd9e8b	Kører du på reserven? Baren klarer det.
+37b9672	Tag dig god tid.
+c64df8c	Når du er klar!
+b8dfc0a	Natten er ung.
+8748560	Begynderheldet er på din side!
+e3def50	Kortene er med dig i aften!
+506ade9	Begynderheldet er slut. Herfra er det et fair spil!
+953d8b7	Velkommen til kasinoet! Din plads venter.
+9fd9844	Godaften! Bordene er varme i aften.
+2d42aaf	Velkommen tilbage! Føler du dig heldig?
+311bae7	Tryk på et bord for at begynde at spille!
+3318099	Brug for flere jetoner? Du er kommet til den rigtige luge.
+c5b3787	Større stakke, større bonusser!
+21ae665	Sulten? Vælg hvad som helst fra menuen.
+8b83cc0	Lidt mad holder energien oppe!
+35f4b0e	Velkommen til mit bord!
+8f90245	Der er du! Her føles allerede lysere.
+909e4d6	Føl dig hjemme. I aften handler det hele om dig.
+2477f78	Jeg elsker det smil. Heldig aften?
+6ac2120	Slap af, du er i gode hænder her.
+089f04b	Hej du! Jeg håbede, du ville kigge forbi min luge.
+3f2c3c9	Altid rart at se et venligt ansigt.
+3021db8	Se, hvem det er! Har du det sjovt derude?
+769980b	Hej med dig, smukke!
+5361ffd	Jeg kan lide din stil i aften.
+56b40be	Hej, dejligt at se dig igen!
+3316019	Har du en god aften? Det fortjener du.
+28283fd	Pas på, jeg begynder måske at heppe på dig.
+109ac94	Min yndlingsspiller er tilbage!
+acba0e6	Sæt dig hos mig, så giver jeg dig noget pænt.
+eb5ff2a	Du gør det her bord meget sjovere.
+772a73c	Går du allerede? Natten er ung!
+178301a	Kom nu, bare én hånd til. Jeg har en god fornemmelse for den her!
+816036a	Du kan ikke forlade mig nu, vi er lige begyndt!
+5c9b7e2	Sidste chance! Den næste hånd kan blive den store...
+20ce7b6	Okay, okay. Jeg holder din plads varm. Lover du at komme tilbage?
+51d1aeb	Ingen stime endnu? Spil {2} runder i dag, så begynder jeg at tælle.
+10b25d9	Ny start! {2} runder, og din flamme er tændt.
+0c10711	Jeg har en lille liste over, hvem der kommer hver dag. Du står ikke på den... endnu.
+5e7c431	Dag {1} venter på dig. Kun {2} runder tilbage!
+b268d84	{0} dage i træk... du stopper vel ikke nu?
+b32ae79	Din flamme ser lidt kold ud i dag. {2} runder burde varme den op.
+a6f3fbd	Jeg har talt: {0} dage. Lad os gøre det til {1}.
+1dc5c97	Tro ikke, jeg ikke har lagt mærke til det. {2} runder tilbage for at holde din stime!
+807b82c	{0} dage i træk? Jeg begynder at tro, du kan lide at være her.
+6391923	Din stime er sikret for i dag. Nu viser du dig bare.
+3bfbbf7	Dag {0}, klaret. Samme tid i morgen?
+ca2a2c1	{0} dage! Nu burde jeg holde en plads til dig.
+54f991f	Der er den: dag ét af din stime! Kom tilbage i morgen, så gør vi det til to.
+a1e7ab0	En hel uge i træk! Jeg er virkelig imponeret.
+96cee95	Tredive dage! Du arbejder nærmest her nu.
+a9834cd	Hundrede dage. Jeg fortæller alle om dig.
+071317f	Det er {0} dage i træk! Se lige dig.
+0964027	Stime reddet: dag {0}! Jeg vidste, du ville klare den.
+c7f2a1f	Dag {0}! Jeg vædder på, at du ikke når {1}.
+a6ce2e2	{0} dage... okay, blærerøv.
+3ab91d0	Spil 10 hænder blackjack
+38e863d	Vind 5 hænder blackjack
+6ac41cc	Få en blackjack
+74cf149	Vind 500 jetoner i blackjack
+66440e1	Spin på spilleautomaten 20 gange
+9205056	Vind 5 spins på spilleautomaten
+cd60e0c	Vind 5× din indsats på spilleautomaten
+6f7ac28	Spil 5 runder roulette
+6978cc0	Vind 3 roulettespins
+c8ebbcc	Ram et tal direkte
+8a57c54	GPS-placering
+4919635	mobilnetværk
+527b094	internetforbindelse
+f49ae82	enhedsindstillinger
+60827d3	testland
+0b2f8d8	ikke bekræftet (standardpris)
+50d8b4a	ukendt
+4fb7a4e	1. 12
+647a0eb	2. 12
+a934745	3. 12
+3de80ab	2 til 1
+bb4e68e	RØD
+a9414ab	SORT
+710756a	ULIGE
+70ca748	LIGE
+4d60d6c	FAIRE PRISER FOR DIT LAND
+1674d95	Priserne i butikken er tilpasset dit lands økonomi, så spillere overalt betaler en fair pris.
+4ec27ee	For at finde dit land tjekker vi din omtrentlige placering én gang. Den matches med et land på din enhed og sendes aldrig nogen steder hen. Hvis du siger nej, gælder standardpriserne.
+ff3dbb4	FORTSÆT
+43a6a8d	Forlade kasinoet?
+ad209a0	Dine jetoner og fremskridt er gemt.
+5860c84	AFSLUT
+f1e0808	BLIV
+5b38c49	{0} låst op
+15ae7ac	En stimefrysning reddede din stime på {0} dage i går.
+d375ffb	{0} stimefrysninger reddede din stime på {1} dage.
+fd8ab39	Din stime på {0} dage er slut. Spil {1} runder i dag for at starte en ny!
+7fa2db4	MISSION FULDFØRT
+255325c	+{0} jetoner
+d205ece	ALLE MISSIONER KLARET!
+4acbed2	Daglig bonus +{0} jetoner. Nye missioner i morgen.
+ab2ceb3	NIVEAU {0}!
+86e2afb	Milepæl! +{0} jetoner
+9ae18ad	Kom tilbage i morgen for at fortsætte
+7af7e7c	+1 stimefrysning
+b5b9597	{0} DAGE I TRÆK!
+62ec60d	Køb er ikke tilgængelige i denne version.
+1f9786c	Købet mislykkedes. Du er ikke blevet opkrævet.
+3e4c600	+{0} jetoner tilføjet!
+1998202	{0}: {1} hænder med {2}% held, efter begynderheldet
+728ada5	{0}: {1} hænder med {2}% held!
+af5e232	{0}: +{1}% energi
+001a53b	Ikke tilgængelig på denne enhed
+2607004	Videoer kan ikke indlæses på dette netværk
+569c30d	Kom tilbage i morgen
+ecae6ee	Klar om {0} s
+9964820	+{0} jetoner ({1} tilbage i dag)
+e1bd888	+{0} gratis jetoner!
+619bd5d	+1 stimefrysning!
+f70d794	Ingen video tilgængelig lige nu. Prøv igen om lidt.
+264d71b	BRONZE
+462e839	SØLV
+81ff70a	GULD
+50e122e	DIAMANT
+57f5f5e	Menu
+69bd4ef	Visning
+dbfe736	Kryds
+1cc7820	Cirkel
+82810cb	Firkant
+73d3ae2	Trekant
+a42f608	Tjekker din region...
+1db422c	Ikke bekræftet ({0}): standardpriser
+9bc0807	{0} ({1}): priser i {2}
+ae8c393	Påmindelser
+aefd59b	Gratis jetoner klar og stimepåmindelser
+3125838	Dine gratis jetoner er klar
+233027b	{0} jetoner venter på dig hos Lucky Ace.
+b93976b	Hold din stime på {0} dage
+bd68038	Spil {0} runder i dag, så den ikke nulstilles ved midnat.
+0acfb6f	Velkommen! Begynderheldet er på din side i aften. Placér en indsats!
+d589374	BLACKJACK BETALER 3 TIL 2   •   DEALEREN STÅR PÅ ALLE 17   •   FORSIKRING BETALER 2 TIL 1
+b700b02	INDSATS
+16ec74f	RYD
+928226b	SAMME IGEN
+55591e0	GIV KORT
+395ed46	KORT
+43e7971	STÅ
+097274c	FORDOBL
+6df63ca	SPLIT
+3e40f46	FORSIKR
+db82d3a	NEJ TAK
+28d6be8	INDSATS {0}+
+9587b70	Bordets maksimum er nået
+b9ac47d	Ikke nok jetoner
+d237ade	Dealeren viser et es. Forsikre for {0}?
+bf07c14	Forsikringen betaler {0}
+b6e674a	Ingen blackjack til dealeren. Forsikringen er tabt.
+0cc9679	BUST
+82ce89d	DEALER BUST
+6e1e1a4	BLACKJACK!
+662fae5	GEVINST
+8918d00	PUSH
+8df6be4	TAB
+9e69668	Begynderheldet er slut. Din Heldige stime starter nu.
+822f4f4	Begynderheldet er slut. Fra nu af er det almindelig blackjack.
+b0377c7	Din Heldige stime er slut. Tilbage til almindelig blackjack.
+824ad7c	INGEN JETONER
+ff1822d	Se en kort video for {0} gratis jetoner, eller gå til kassen.
+e4cac2f	Gå til kassen for at fylde op med jetoner.
+c3df3e7	GRATIS JETONER
+b169d33	KASSE
+4d38f66	SENERE
+cb8171b	Spil denne hånd færdig først.
+3aa6941	»{0}«
+6f846f4	ÉN HÅND TIL
+a79d4f2	GÅ
+693f697	BEGYNDERHELD
+641ad58	HELDIG STIME
+fc45931	Velkomstbonus til nye spillere: i dine første <b>{0} hænder</b> er dealerens sko blandet til din fordel, så du vinder næsten hver hånd.
+576c683	I løbet af de næste <b>{0} hænder</b> aftager fordelen, og derefter er hvert bord almindelig, fair blackjack fra en blandet sko med 6 spil kort (blackjack betaler 3 til 2, dealeren står på alle 17).
+7fb55b3	Fordel lige nu: <b><color=#7CFC9A>{0}%</color></b>   Hænder tilbage: <b>{1}</b>
+d4f8fe0	I dine næste <b>{0} blackjackhænder</b> med en indsats på op til <b>{1} jetoner</b> har hvert kort <b>{2}%</b> chance for at blive givet til din fordel (samme fordel som begynderheldet).
+0a5fc06	Med godt spil vinder det omkring <b>{0}%</b> af hænderne, mod omkring {1}% i almindelig blackjack. Større indsatser er almindelig blackjack og bruger ikke hænder. Når hænderne er brugt, er hvert bord igen almindelig, fair blackjack.
+c3a8946	FORSTÅET
+8dfc44a	VIL DU HAVE HELDET TILBAGE?
+272a97f	Begynderheldet er slut: herfra er hvert bord almindelig, fair blackjack. En Heldig stime bringer fordelen tilbage for en tid.
+06b7689	DAGLIGT
+4035996	DAGLIG STIME
+fbe7f18	DAGE I TRÆK
+7a46866	I DAG
+4753707	SE REKLAME
+6bb45f3	KØB
+62a945f	STIMEFRYSNING
+ba5b1de	En stimefrysning holder din stime i live på en dag, hvor du ikke spiller. Du kan have {0}.\n\nKøb én for {1} jetoner?
+38c6090	Stimefrysning klar.
+8fe681f	Ikke nok jetoner til en frysning.
+1507c40	ANNULLER
+457d20f	DAGLIGT SPIN
+9623247	SPIN
+ac5ef96	Chancer:
+1200f20	{0} %
+003a689	Du vandt {0} jetoner!
+f757137	DAGENS MISSIONER
+7b7f9e2	Rekord: {0} dage
+9554fea	Spil hver dag for at bygge en stime op
+5c8dbb8	Dagens mål er nået! Vi ses i morgen.
+1aeb9a1	I dag: {0} / {1} runder (et hvilket som helst spil)
+bb92856	Stimefrysninger: {0} / {1}
+0ec6216	Red din stime på en dag, du misser. +1 hver 7. dag.
+cc0a745	FULD
+419a962	INGEN VIDEO
+2dabd99	REKLAME SNART
+f12e166	Stimebonus: præmier ×{0}
+80948a4	Ét gratis spin hver dag
+596b5e0	NÆSTE  {0}
+7f7e7fc	Alt klaret! Bonus indsamlet.
+03a0f2a	Nye missioner ved midnat.
+4784874	Klar alle tre: +{0} bonusjetoner
+42c5cda	SPIL
+337211e	SPIL
+8f5e3bd	Træk i venstre side for at gå  •  Træk i højre side for at se dig om  •  Tryk for at gå derhen
+d00d221	Kun 18+  •  Jetonerne er for sjov: ingen pengeværdi, kan aldrig veksles til penge eller præmier
+b60f038	Dørene åbnes...
+2e5bcce	Velkommen! Dine {0} velkomstjetoner er klar. Bordene er lige frem!
+7ef7ae3	+{0} gratis jetoner! Flere om {1} timer.
+5d82af9	Gratis jetoner fyldes op hver {0}. time. Næste om {1}.
+5469985	{0} t {1} min
+bb65beb	{0} min {1} s
+ac8ba93	HOLD DIN STIME
+560bfa1	Vil du have en påmindelse de aftener, du ikke har spillet endnu, og når dine gratis jetoner er klar? Aldrig mere end det, og du kan slå det fra i Indstillinger.
+b724a40	MIND MIG OM DET
+9e0c898	+{0} jetoner klar!
+1207e28	Se en video: {0}
+db3655b	Næste gratis jetoner om {0}
+4ca9be5	BLACKJACK
+9a612b1	4 borde  •  betaler 3 til 2
+1194439	SPILLEAUTOMATER
+6555152	Lucky Ace 7s  •  10 linjer
+255b1a1	ROULETTE
+6df1551	Europæisk med ét nul
+379b146	DU ER UDMATTET
+340e5c4	Din energibjælke er tom. Hent noget i baren for at spille videre, eller kom tilbage senere: energien genvindes langsomt, mens du er væk.
+a517396	GÅ TIL BAREN
+7c7227f	VÆLG DIT BORD
+c963de3	INDSATSER
+c433657	NIVEAU {0}
+083ac39	SÆT DIG
+9698219	KRÆVER {0}
+34b737e	Nå niveau {0} for at spille her. Du er på niveau {1}.
+6cc19a9	KASINO
+6e946b7	DD
+4a3a892	MM
+2857a6a	ÅÅÅÅ
+9d1fece	DAG
+d3bb0c3	MÅNED
+c0f0cad	ÅR
+43985ff	HVORNÅR ER DU FØDT?
+293fda2	Jetonerne er kun til underholdning. De har ingen pengeværdi og kan aldrig veksles til penge eller præmier.
+3e9128d	BEKLAGER, DU KAN IKKE SPILLE
+b5e8985	{0} er kun for voksne.
+bb1b380	AFSLUT
+d9f9432	Lukker om {0}...
+c6e102d	FORTÆL OM DIG SELV
+31120ce	Vi vælger værter, dealere og barpersonale, der passer. Du kan ændre det når som helst i Indstillinger.
+49e8df9	JEG ER EN MAND
+85abe81	JEG ER EN KVINDE
+76cc98c	VIL HELST IKKE SIGE DET
+964daf7	GÅ IND I KASINOET
+2efb69a	Dit personale i aften:
+c10e749	Side {0} af {1}
+2a3ffd9	SPROG
+c673535	AUTOMATISK
+d1245d2	LAND
+15fc12b	Velkommen! Placér venligst jeres indsatser.
+531fb3f	Ikke nok jetoner til den indsats.
+380eb75	Bordgrænsen er {0} pr. spin.
+55ad592	FORTRYD
+8f191f9	SAMLET INDSATS  {0}
+82e1181	Tryk på bordet for at placere jetoner
+bb19a75	Ikke flere indsatser!
+5becf07	GRØN
+bc74f4f	grøn
+7898801	rød
+466bc8c	sort
+f2edfbf	Sikken et træf! Tillykke!
+b252caf	Gevinst! Du vinder {0}.
+8587d14	GEVINST  +{0}
+b862a2b	{0} {1}. {2} kommer tilbage til dig.
+a306d0a	RETUR  {0}
+af3134d	Ingen gevinst denne gang
+84122e7	Placér venligst jeres indsatser.
+52205f4	Vent, til kuglen lander.
+c4b9243	INDSTILLINGER
+44d863e	GENERELT
+2bbca79	GRAFIK
+955c8b4	LYD
+c701f5f	BERØRING
+efcc94a	MUS
+8433628	CONTROLLER
+d868a50	VIBRATION
+f8692c7	18+ • Jetonerne har ingen pengeværdi • Skrifttyper: Bebas Neue, Poppins, Noto (SIL OFL) • Grænser: Natural Earth • Prisdata: Verdensbanken
+da46447	KASINOPERSONALE
+594b81e	KVINDER
+69d3313	MÆND
+b4325d3	BLANDET
+414594a	PÅMINDELSER
+6cac87b	Gratis jetoner klar, og et lille puf om aftenen, før en stime ville slutte.
+e43b2e0	TJEK IGEN
+7c9e8f9	PRISREGION
+495c70e	Hurtigst: kasinoet som malet, intet ekstra.
+b052523	Polerede gulve, træ og guld spejler salen.
+6bd30d7	Filmlook: farvekorrektion, kornethed, glød, lysstråler, naturtro hud.
+21b6e1d	Biograflinse: skarpheden følger dit blik, striber på lamper, støv i lysstrålerne.
+fb7c2e8	KVALITET
+d8b9679	LAV
+f68525a	MELLEM
+d77d0b2	HØJ
+9289eee	ULTRA
+637e313	OPLØSNING
+2e7b141	Lavere er blødere, men kører køligere og sparer batteri.
+93dcfb5	VISNINGSTILSTAND
+3c6eac3	FULD SKÆRM
+f3690b1	VINDUE
+cfa6200	KANTUTJÆVNING
+ad50489	FRA
+f178804	Udglatter takkede kanter i kasinoet.
+4266288	BILLEDHASTIGHED
+d031ab0	{0} FPS
+a2b7514	30 FPS sparer batteri og holder ældre telefoner kølige.
+0babcee	V-SYNC
+6656e25	SYNSFELT
+244aadb	VIS FPS
+41c8f6e	HOVEDLYDSTYRKE
+bf3af1f	MUSIK
+bd80907	LYDEFFEKTER
+d098036	PERSONALETS STEMMER
+93c6484	Den mumlen, personalet laver, når de taler.
+16bf71a	LYDLØS I BAGGRUNDEN
+85b2ee7	Gør kasinoet stille, mens du er i et andet vindue.
+8e3634e	SEFØLSOMHED
+880dc05	Hvor hurtigt et træk drejer visningen.
+750c60f	Hvor hurtigt et træk med musen drejer visningen.
+8b988eb	VEND SE VENSTRE / HØJRE
+cacf0cc	VEND SE OP / NED
+2d13b68	KNAPLAYOUT
+50c3f10	AUTO
+b471e5c	BYT MENU / VISNING
+d9a59f1	STIKFØLSOMHED
+ec14343	Hvor hurtigt højre stik drejer visningen.
+a79af23	VEND STIK VENSTRE / HØJRE
+acfc66e	VEND STIK OP / NED
+56bb461	CONTROLLERTIPS
+51cf49a	Viser, hvad hver knap gør, mens du spiller med en controller.
+dff7431	VIBRÉR PÅ
+34139ab	TELEFON
+15ee988	BEGGE
+465cc91	Auto: controlleren, når en er tilsluttet, ellers telefonen.
+f6fed84	TELEFONVIBRATION
+8e97fa7	STYRKE PÅ TELEFON
+486ba2d	CONTROLLERVIBRATION
+8008889	STYRKE PÅ CONTROLLER
+ea9233e	AUTOMATISK ({0})
+167dda7	{0} åbner Indstillinger, {1} åbner Dagligt.
+29a4ef9	Ingen controller tilsluttet.
+558ecd2	Tilsluttet: {0}. Viser {1}-knapper (A til højre bekræfter).
+d6eee9e	Tilsluttet: {0}. Viser {1}-knapper.
+78525d5	BAREN
+099db9f	HELD
+b4a8b06	Jetoner, held og mad er virtuelle genstande kun til underholdning: ingen pengeværdi, kan ikke indløses til penge eller præmier.
+e2a28c9	Hvert kort har den chance for at blive givet til din fordel, ved blackjackindsatser op til {0} jetoner (større indsatser er almindelige og bruger ikke hænder). Starter efter begynderheldet; stærkere pakker bruges først.
+04fbc6d	Tillad adgang til placering for at få dit lands pris
+2ae87fc	Køb er ikke tilgængelige i denne version af spillet.
+8239a84	TESTBUTIK (ingen rigtige penge)
+173d916	energi
+b2c67eb	+{0} % JETONER
+58e8011	{0} hænder
+ce80712	vinder omkring {0} % af dem
+c69e8ee	LUCKY ACE 7s
+fc99288	SAMLET INDSATS
+c1c00cd	GEVINSTTABEL
+3930abd	HELD OG LYKKE!
+67b6973	Du skal have mindst 10 jetoner for at spinne.
+5aa1edb	HENT JETONER
+f5a1812	Indsatsen er sænket til det, du har råd til.
+5c63f61	MEGAGEVINST!
+652544f	STOR GEVINST!
+91bc41c	RETUR {0}
+3714283	INGEN GEVINST
+33c0faa	LINJE {0}: {1} × {2} = {3}
+9f59e6e	{0} STJERNER = {1}
+d6eee90	Kirsebær
+4459b79	Citron
+09fb6aa	Appelsin
+cb92e50	Blomme
+d419866	Klokke
+e496fd2	Bar
+63abb56	Syver
+b3850e0	Diamant
+fc2b5a9	Es
+85a7de6	Stjerne
+c31b035	STJERNER betaler overalt: 5 = {0}× indsats, 4 = {1}× indsats, 3 = {2}× indsats.
+f97509c	ESSET er wild: det erstatter alle symboler undtagen stjernen.
+3e8bc69	Linjegevinster er multipla af linjeindsatsen (samlet indsats ÷ 10), fra venstre mod højre fra første hjul.
+523f8dc	TILBAGEBETALING: {0} % på lang sigt. Hvert spin er uafhængigt og tilfældigt.
+e0c705d	Gå
+b8db515	Se
+503d46d	Knapper
+c7f73bb	Indstillinger
+728298d	Dagligt
+ab166bd	Justér
+76cdb95	Flyt
+8598222	Vælg
+bbfa773	Luk
+b52b36b	Tilbage
+ab37588	UDMATTET
+9b11a09	BEGYNDERHELD {0} %
+0c94e98	{0} HÆNDER TILBAGE
+51ed273	HELDIG STIME {0} %
+3401470	{0} HÆNDER  •  INDSATSER OP TIL {1}
+f481cc6	NIVEAU
+0139615	VELKOMMEN
+daad514	TAL MED VÆRTINDEN
+bcefb10	Vejvisning og tips
+c28e782	JETONER  •  BONUSSER
+0c69ec4	KØB JETONER
+78c0727	Kasse
+1737fab	COCKTAILS  •  SNACKS  •  ENERGI
+9e008ae	MAD & DRIKKE
+f7881e8	Baren
+0e979ed	BLACKJACK BETALER 3 TIL 2
+eea0d12	DEALEREN SKAL STÅ PÅ 17
+4db37bf	SPIL BLACKJACK
+0ffdd99	Bord {0}  •  indsatser {1} til {2}
+b4f938b	SPIL PÅ AUTOMATERNE
+6b7caea	PLACÉR JERES INDSATSER
+26b1e39	SPIL ROULETTE
+910a1ed	Europæisk hjul  •  direkte tal betaler 35 til 1
+7ef0215	BESTIL EN DRINK
+fe38d73	{0} kommer med den
+f7b6306	{0} åbner på niveau {1}. Du er på niveau {2}: hver runde, du spiller, tæller.
+d85f1ad	Dette bord kræver mindst {0} jetoner.
+cbfe016	Blackjackbordene er lige frem. Gå hen til et og sæt dig!
+64d9faf	Kassen er lige her til højre for dig, og baren er langs venstre væg.
+e4c6e0b	Træt? En snack i baren fylder energien helt op.
+d5ab68f	Tryk et vilkårligt sted på gulvet, så går du derhen. Tryk på et bord for at sætte dig.
+cc21f74	LILLE
+dc01dec	STOR
+5fb90b0	ENHVER TRIPLE
+9c716f1	Hold'em-bord
+3b6ab84	Spil 8 hænder hold'em
+6c617ca	Vind 4 hænder hold'em
+44ce500	Spil 10 hænder baccarat
+b90cff7	Vind 5 hænder baccarat
+3e4dfa9	Spil 15 hænder videopoker
+854fe20	Spil 8 runder sic bo
+dfddac1	Vind 4 runder sic bo
+2973ea7	Slå med terningerne 15 gange i craps
+737be17	Vind 4 kast i craps
+4dbb81d	Få en flush eller bedre i videopoker
+19aa07b	Royal flush
+cf83e72	Straight flush
+d27ba03	Fire ens
+dbe8641	Fuldt hus
+7c936d7	Flush
+2501c65	Straight
+ca1a0d4	Tre ens
+6876b40	To par
+2537f88	Et par
+b4b323e	Højt kort
+f70bfdc	Knægte eller bedre
+98fd5af	BACCARAT
+df66d5a	Velkommen til baccarat! Spiller, Bank eller Uafgjort?
+5055efd	SPILLER
+3f90696	UAFGJORT
+0d75f63	BANK
+0ebd5a4	SENESTE RESULTATER
+511993d	S
+ae4f281	B
+c2c53d6	U
+781246e	Vælg en jeton, og tryk så på Spiller, Bank eller Uafgjort
+11023a0	UAFGJORT  {0}
+503d5f1	SPILLEREN VINDER  {0} MOD {1}
+0eb4be5	BANKEN VINDER  {0} MOD {1}
+7859af1	CRAPS
+4083dbd	Velkommen til craps! Sats på Pass Line og kast.
+d266326	SEKS
+c506f3a	NI
+987f4e9	FIELD
+71c1b2b	2 3 4 9 10 11 12  •  2 og 12 betaler dobbelt
+d0ac294	ENHVER 7
+9b2f0c3	ENHVER CRAPS
+f62ac59	DON'T PASS BAR
+6080ade	1:1  •  12 er uafgjort
+c07247a	PASS LINE
+6229f78	ODDS
+29bf819	ægte odds
+387d7a5	TIL
+229c9cc	Odds lægges bag Pass Line, når der er et point.
+c2c8e82	Odds kræver en indsats på Pass Line.
+1784d43	Dine odds er på maksimum.
+fdc3442	Line-indsatser lægges ved come-out-kastet.
+97ce95b	PÅ BORDET  {0}
+a895ec0	Pointet er {0}: slå det igen før en 7'er. Odds bag din Pass Line betaler ægte odds.
+d9f9d65	KAST
+bcf32ef	Pointet er {0}.
+5b450b4	{0}! Pointet er ramt. Gevinst!
+9746e08	Seven out. Ny kaster, nyt come-out.
+4fc4664	{0}, en natural! Pass Line vinder.
+203f466	{0}, craps. Linjen taber.
+0f8e260	Vent, til terningerne ligger stille.
+6a98cfe	FORLAD BORDET?
+8430088	Din line-indsats spiller stadig på pointet {0}. Går du nu, er den tabt.
+0e138d1	HOLD'EM
+5e023be	Velkommen til hold'em! Læg din ante, så ser vi kort.
+0cd62f5	ANTE
+5e9f331	BLIND
+3b935ab	BLIND BETALER
+20713a4	Dealeren kvalificerer sig med et par eller bedre
+d37267c	CHECK
+9a4e316	FOLD
+88313c4	SATS {0}×
+42c6fea	Ante {0} + blind {0}. Hold {1} mere klar til din forhøjelse.
+1abb2f2	Tryk på jetoner for at vælge din ante. Blinden er den samme.
+f541cec	Check, eller sats tre eller fire gange din ante?
+fc74a79	Forhøj nu med 4× eller 3× din ante, eller check og se floppet.
+b687501	Sidste chance: sats 1× din ante, eller fold og tab ante og blind.
+400009c	Sats 2× din ante nu, eller check og se de sidste to kort.
+f4abdf9	Her er floppet.
+0e51f2c	Turn og river.
+cc856d3	Lad os se, hvad jeg har.
+6ba1f3e	Dealeren kvalificerer sig ikke: din ante kommer tilbage.
+cf1fdc5	Foldet. Næste hånd er din.
+177fab0	Ultimate Texas Hold'em
+c4917b9	Spiller, Bank eller Uafgjort
+6e4fe7b	VIDEOPOKER
+73cabd3	Jacks or Better
+91c4555	SIC BO
+d810061	Tre terninger  •  stor eller lille
+85ab7ec	Pass Line  •  Field  •  Odds
+35d8db6	Velkommen til sic bo! Stor, lille eller noget mere modigt?
+3d05514	Bordets grænse er {0} pr. kast.
+86ade94	RYST
+b69304e	TRE {0}'ERE!
+5d1bcc6	HOLDT
+36a21ba	Giv kort, hold dem, du vil have, og byt én gang.
+99fa8e8	HOLD
+249d1c0	TIP
+7aab1bd	BYT
+5595eb4	Tryk på kortene for at holde dem, og byt så.
+1c05db9	SPIL HOLD'EM
+e353e5f	Ultimate Texas Hold'em  •  ante {0} til {1}
+6470369	SPIL BACCARAT
+bbe0077	STOR  •  LILLE  •  TRIPLES
+3ba448f	SPIL SIC BO
+097c59c	Tre terninger  •  stor eller lille betaler 1 til 1
+af2ca30	PASS LINE  •  FIELD  •  ODDS
+f18398e	SPIL CRAPS
+eeede6d	Pass Line betaler 1 til 1  •  odds betaler ægte odds
+34e5170	SPIL VIDEOPOKER
+f71bdfb	Jacks or Better  •  fuld 9/6-tabel
+4a6c087	JACKS OR BETTER  •  ROYAL FLUSH BETALER 800×
+370a133	Spilleautomaterne står langs højre væg, videopoker langs bagvæggen og rouletten bagerst.
+8298d28	Hold'em er i hjørnet bagerst til venstre, forbi baren.
+a2a111f	Baccarat er lige til venstre, når du kommer ind.
+b7193bc	Sic bo er i hjørnet forbi kassen: tre terninger, stor eller lille.
+25320c8	Crapsbordet står til højre foran automaterne. Sats på Pass Line og kast!
+dc81691	Sofia
+4d9936f	Elena
+3aa0674	Mia
+b724114	Valentina
+34d3f7f	Chloe
+0fc9dd6	Isabella
+bbd3e35	Nadia
+eac677d	Aria
+baaf10f	Luna
+8641381	Camilla
+eeee9b7	Aurora
+8a59f05	Bianca
+5a0fc29	Serena
+bf38aa5	Marco
+cfaf50a	Leo
+5815f22	Adrian
+cbede02	Lucas
+f0b9995	Viktor
+7b37259	Daniel
+aaac72d	Gabriel
+2f8f37e	Ethan
+a01126e	Julian
+3e05c90	Rafael
+e1ae457	Mateo
+3398634	Nico
+7aa2d07	Enzo
+1920e2f	Come-out: sats på Pass Line og kast. 7 eller 11 vinder, 2, 3 eller 12 taber. Place-indsatser gælder først, når der er et point.
+99f4934	LUCKY ACE 7s  •  BETALER OP TIL 2.500× DIN LINJEINDSATS

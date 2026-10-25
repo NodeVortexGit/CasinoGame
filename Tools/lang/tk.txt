@@ -1,0 +1,659 @@
+# Turkmen (tk). Machine translation by Claude.
+bd99124	Bir penje fişka
+c7c6dc8	Bir üýşmek fişka
+7512cfd	Bir bulgur fişka
+fa36588	Bir tekje fişka
+7994f65	IŇ MEŞHUR
+49dcc21	Fişka hazynasy
+0725283	Uly oýunçynyň seýfi
+7658705	IŇ BAHALY
+2f23432	Gazly suw
+418b820	Espresso
+97b463c	Energetik içgi
+43bbfda	Klub sendwiçi
+bce7a75	Burger nahary
+2832a8d	Steýk agşam nahary
+dee8ee8	DOLY DOLDURMAK
+a7c2255	Bagtly hatar
+7919163	Gyzgyn hatar
+74fdfc2	IŇ KÖP BAGT
+d79cd12	Bürünç stol
+2a8ff35	Kümüş stol
+51877b2	Altyn stol
+9282152	Almaz stol
+0de8764	Dogry ýyly giriziň.
+d4e14c9	Dogry aýy giriziň (1-12).
+addd156	Dogry güni giriziň.
+d78a4f4	Bu sene geljekde.
+787c7c6	Stolyma hoş geldiň! Oýnamaga taýynmy?
+8b0f93e	Seni görenime şat. Otur!
+8338021	Salam! Kartlar täze, menem şeýle.
+75750f9	Hoş geldiň! Gel, bu agşamy ajaýyp edeli.
+95aac36	Taýyn bolanyňda bäsiňi goý.
+8bc63c1	Fişkalary stola goý, kartlara seredeli.
+984b7f3	Näme üçin oýnaýarys?
+b74c769	Wah, uly bäs! Stiliň maňa ýaraýar.
+77fc1fc	Ine, bu bäs. Başladyk!
+7779a5b	Şu agşam batyr, şeýle dälmi?
+479ff82	Hemmesini?! Ýüregim ýarylýar!
+7fb527c	Hemme zat bir ele. Gorkman!
+7bf0c5d	Blackjack! Ajaýyp!
+123f2d5	Ýigrimi bir, şeýle bir!
+cd850a7	Blackjack! Kartlar şu agşam seni söýýär.
+55f50ee	Gowy oýnadyň!
+79594b1	Ýeňiji! Berekella.
+0df710e	Işiň oňuna barýar!
+20a0c1e	Ol seniňki.
+a45fe61	Nähili ýeňiş! Hemmeler bu stola seredýär!
+54d3982	Ullakan! Şu agşam ýanýarsyň!
+8da8f1e	Gaty ýakyn! Indikisi seniňki.
+5d921e1	Bu gezek kazino bagtly boldy.
+f923af7	Üns berme, täze el gelýär.
+853e7ca	Waý, bir kart artyk.
+daec44f	Geçdiň! Iň gowulara-da bolýar.
+11ceaef	Deňme-deň. Hiç kim utulmaýar!
+911a289	Deňme-deň. Fişkalaryň howpsuz.
+a89d9d9	Men geçdim! Bagtyň bar.
+f76c8fd	Maňa köp boldy. Sen ýeňdiň!
+63f8d0b	Kazino üçin blackjack, bagyşla!
+465c8bf	Dilerde blackjack. Bagtsyzlyk.
+6752f40	Tuz görkezýärin. Ätiýaçlandyryş?
+1920c5a	Bölýäris! Ýeňmek üçin iki mümkinçilik.
+9f621da	Iki esse. Batyr ädim!
+59da99d	Iki esse et! Bir kart gelýär.
+0b48017	Täze aýakgap, garyşdyrýaryn!
+3fa7769	Azalýarmy? Kassa seni doldurar.
+4e5694b	Fişkalar azalýar. Ýene isleýäňmi?
+d41f057	Fişkalar gutardy! Kassa bar ýa-da mugt fişka al.
+15d90d3	Üýşmegiň boş. Kassa edil arkaňda.
+a9eaae1	Gaty ýadaw görünýärsiň! Barda bir zat iý.
+5cd9e8b	Güýjüň gutardymy? Bar saňa ideg eder.
+37b9672	Howlukma.
+c64df8c	Haçan taýyn bolsaň!
+b8dfc0a	Gije entek ýaş.
+8748560	Täze başlaýanyň bagty seniň bilen!
+e3def50	Şu agşam kartlar seniň tarapyňda!
+506ade9	Täze başlaýanyň bagty gutardy. Mundan beýläk oýun adalatly!
+953d8b7	Kazinoa hoş geldiň! Ýeriň seni garaşýar.
+9fd9844	Agşamyňyz haýyrly! Şu agşam stollar gyzgyn.
+2d42aaf	Ýene hoş geldiň! Özüňi bagtly duýýarsyňmy?
+311bae7	Oýna başlamak üçin stola bas!
+3318099	Köpräk fişka gerekmi? Dogry penjirä geldiň.
+c5b3787	Has uly üýşmekler, has uly bonuslar!
+21ae665	Açmy? Menýudan isleýäniňi saýla.
+8b83cc0	Azajyk nahar energiýaňy ýokary saklaýar!
+35f4b0e	Stolyma hoş geldiň!
+8f90245	Ine sen! Bu ýer eýýäm has ýagty.
+909e4d6	Özüňi öýdäki ýaly duý. Şu agşam hemme zat seniň üçin.
+2477f78	Şol ýylgyryşy söýýärin. Bagtly agşammy?
+6ac2120	Rahatlan, bu ýerde ygtybarly ellerde.
+089f04b	Heý, sen! Penjireme sowlarsyň diýip umyt edýärdim.
+3f2c3c9	Mähirli ýüzi görmek hemişe ýakymly.
+3021db8	Seret, kim gelipdir! Keýpiň kökmi?
+769980b	Salam, owadan!
+5361ffd	Şu agşam stiliň maňa ýaraýar.
+56b40be	Heý, seni ýene görenime şat!
+3316019	Agşamyň gowumy? Muňa mynasyp.
+28283fd	Seresap bol, saňa janköýerlik edip başlamagym mümkin.
+109ac94	Iň halaýan oýunçym gaýdyp geldi!
+acba0e6	Ýanymda otur, saňa owadan bir zat paýlaýyn.
+eb5ff2a	Sen bilen bu stol has gyzykly.
+772a73c	Eýýäm gidýärsiňmi? Gije entek ýaş!
+178301a	Gel, ýene bir el. Gowy duýgym bar!
+816036a	Meni häzir taşlap gidip bilmersiň, ýaňy başladyk!
+5c9b7e2	Soňky mümkinçilik! Indiki el uly bolup biler...
+20ce7b6	Bolýar, bolýar. Ýeriňi ýyly saklaryn. Gaýdyp geljekdigiňe söz berýärmiň?
+51d1aeb	Heniz hatar ýokmy? Şu gün tapgyr oýna ({2}), men sanap başlaryn.
+10b25d9	Täze başlangyç! Tapgyrlar ({2}) we ýalnyň ýanýar.
+0c10711	Her gün gelýänleriň kiçijik sanawyny saklaýaryn. Sen onda ýok... häzirlikçe.
+5e7c431	{1}-nji gün seni garaşýar. Galan tapgyrlar: {2}!
+b268d84	Yzygiderli günler: {0}... indi duruzmarsyň-a?
+b32ae79	Ýalnyň şu gün biraz sowuk görünýär. Tapgyrlar ({2}) ony gyzdyrar.
+a6f3fbd	Sanaýaryn: {0} gün. Gel, {1} edeli.
+1dc5c97	Üns bermedim öýtme. Hataryňy saklamak üçin galan tapgyrlar: {2}!
+807b82c	Yzygiderli günler: {0}? Bu ýer saňa ýaraýana meňzeýär.
+6391923	Hataryň şu gün howpsuz. Indi diňe öwünýärsiň.
+3bfbbf7	{0}-nji gün tamam. Ertir şol wagt?
+ca2a2c1	{0} gün! Saňa ýer saklamaly.
+54f991f	Ine: hataryňyň ilkinji güni! Ertir gaýdyp gel, iki ederis.
+a1e7ab0	Bütin bir hepde yzygiderli! Hakykatdanam haýran galdym.
+96cee95	Otuz gün! Diýen ýaly şu ýerde işleýärsiň.
+a9834cd	Ýüz gün. Hemmelere seniň barada gürrüň berýärin.
+071317f	Eýýäm yzygiderli {0} gün! Özüňe seret.
+0964027	Hatar halas edildi: {0}-nji gün! Başarjakdygyňy bilýärdim.
+c7f2a1f	{0}-nji gün! Bäs tutuşýaryn, {1}-e ýetmersiň.
+a6ce2e2	{0} gün... bolýar, öwünjeň.
+3ab91d0	10 el blackjack oýna
+38e863d	5 el blackjackda ýeň
+6ac41cc	Blackjack ýygna
+74cf149	Blackjackda 500 fişka utup al
+66440e1	Slotlary 20 gezek aýla
+9205056	5 slot aýlawynda ýeň
+cd60e0c	Slotlarda bäsiňiň 5 essesini utup al
+6f7ac28	5 tapgyr rulet oýna
+6978cc0	3 rulet aýlawynda ýeň
+c8ebbcc	Bir sany göni tap
+8a57c54	GPS ýerleşişi
+4919635	ykjam ulgam
+527b094	internet baglanyşygy
+f49ae82	enjam sazlamalary
+60827d3	synag ýurdy
+0b2f8d8	tassyklanmadyk (adaty baha)
+50d8b4a	näbelli
+4fb7a4e	1-nji 12
+647a0eb	2-nji 12
+a934745	3-nji 12
+3de80ab	2-ä 1
+bb4e68e	GYZYL
+a9414ab	GARA
+710756a	TAK
+70ca748	JÜBÜT
+4d60d6c	ÝURDUŇ ÜÇIN ADALATLY BAHALAR
+1674d95	Dükan bahalary ýurduňyň ykdysadyýetine laýyklaşdyrylýar, şeýdip oýunçylar hemme ýerde adalatly baha töleýär.
+4ec27ee	Ýurduňy tapmak üçin takmynan ýerleşişiňi bir gezek barlaýarys. Ol enjamyňda ýurt bilen deňeşdirilýär we hiç ýere iberilmeýär. Ret etseň, adaty bahalar ulanylýar.
+ff3dbb4	DOWAM ET
+43a6a8d	Kazinodan çykýarsyňmy?
+ad209a0	Fişkalaryň we ösüşiň ýatda saklandy.
+5860c84	ÇYK
+f1e0808	GAL
+5b38c49	Açyldy: {0}
+15ae7ac	Hatar doňduryjy düýn {0} günlük hataryňy halas etdi.
+d375ffb	Doňduryjylar ({0}) {1} günlük hataryňy halas etdi.
+fd8ab39	{0} günlük hataryň gutardy. Täzesine başlamak üçin şu gün tapgyr oýna ({1})!
+7fa2db4	WEZIPE ÝERINE ÝETIRILDI
+255325c	+{0} fişka
+d205ece	ÄHLI WEZIPELER ÝERINE ÝETIRILDI!
+4acbed2	Gündelik bonus +{0} fişka. Täze wezipeler ertir.
+ab2ceb3	DEREJE {0}!
+86e2afb	Möhüm tapgyr! +{0} fişka
+9ae18ad	Dowam etmek üçin ertir gaýdyp gel
+7af7e7c	+1 hatar doňduryjy
+b5b9597	{0} GÜNLÜK HATAR!
+62ec60d	Bu wersiýada satyn almak elýeterli däl.
+1f9786c	Satyn alyş başa barmady. Senden pul alynmady.
+3e4c600	+{0} fişka goşuldy!
+1998202	{0}: {1} el, {2}% bagt, täze başlaýanyň bagtyndan soň
+728ada5	{0}: {1} el, {2}% bagt!
+af5e232	{0}: +{1}% energiýa
+001a53b	Bu enjamda elýeterli däl
+2607004	Bu ulgamda wideolar ýüklenmeýär
+569c30d	Ertir gaýdyp gel
+ecae6ee	{0} sekuntdan taýyn
+9964820	+{0} fişka (şu gün {1} galdy)
+e1bd888	+{0} mugt fişka!
+619bd5d	+1 hatar doňduryjy!
+f70d794	Häzir wideo ýok. Biraz soň gaýtadan synanyş.
+264d71b	BÜRÜNÇ
+462e839	KÜMÜŞ
+81ff70a	ALTYN
+50e122e	ALMAZ
+57f5f5e	Menýu
+69bd4ef	Görnüş
+dbfe736	Haç
+1cc7820	Tegelek
+82810cb	Inedördül
+73d3ae2	Üçburçluk
+a42f608	Sebitiň barlanýar...
+1db422c	Tassyklanmadyk ({0}): adaty bahalar
+9bc0807	{0} ({1}): bahalar {2} bilen
+ae8c393	Ýatlatmalar
+aefd59b	Mugt fişkalar taýyn we hatar ýatlatmalary
+3125838	Mugt fişkalaryň taýyn
+233027b	Lucky Ace-de seni {0} fişka garaşýar.
+b93976b	{0} günlük hataryňy sakla
+bd68038	Ýary gijede nola düşmez ýaly şu gün tapgyr oýna ({0}).
+0acfb6f	Hoş geldiň! Şu agşam täze başlaýanyň bagty seniň bilen. Bäs goý!
+d589374	BLACKJACK 3-E 2 TÖLEÝÄR   •   DILER ÄHLI 17-DE DURÝAR   •   ÄTIÝAÇLANDYRYŞ 2-Ä 1 TÖLEÝÄR
+b700b02	BÄS
+16ec74f	ARASSALA
+928226b	GAÝTADAN BÄS
+55591e0	PAÝLA
+395ed46	KART
+43e7971	DUR
+097274c	IKI ESSE
+6df63ca	BÖL
+3e40f46	ÄTIÝAÇLANDYR
+db82d3a	ÝOK, SAG BOL
+28d6be8	BÄS {0}+
+9587b70	Stoluň iň ýokarysyna ýetildi
+b9ac47d	Fişka ýeterlik däl
+d237ade	Diler tuz görkezýär. {0} bilen ätiýaçlandyrmaly?
+bf07c14	Ätiýaçlandyryş töleýär: {0}
+b6e674a	Dilerde blackjack ýok. Ätiýaçlandyryş ýitdi.
+0cc9679	GEÇDIŇ
+82ce89d	DILER GEÇDI
+6e1e1a4	BLACKJACK!
+662fae5	ÝEŇIŞ
+8918d00	DEŇME-DEŇ
+8df6be4	UTULYŞ
+9e69668	Täze başlaýanyň bagty gutardy. Bagtly hataryň indi başlaýar.
+822f4f4	Täze başlaýanyň bagty gutardy. Mundan beýläk adaty blackjack.
+b0377c7	Bagtly hataryň gutardy. Adaty blackjacka gaýdýarys.
+824ad7c	FIŞKALAR GUTARDY
+ff1822d	{0} mugt fişka üçin gysga wideo gör ýa-da kassa bar.
+e4cac2f	Fişkalaryňy doldurmak üçin kassa bar.
+c3df3e7	MUGT FIŞKALAR
+b169d33	KASSA
+4d38f66	SOŇRA
+cb8171b	Ilki bu eli tamamla.
+3aa6941	“{0}”
+6f846f4	ÝENE BIR EL
+a79d4f2	GIT
+693f697	TÄZE BAŞLAÝANYŇ BAGTY
+641ad58	BAGTLY HATAR
+fc45931	Täze oýunçylar üçin hoş geldiň bonusy: ilkinji <b>{0} el</b> dowamynda dileriň aýakgaby seniň peýdaňa düzülen, şonuň üçin diýen ýaly her eli utarsyň.
+576c683	Indiki <b>{0} el</b> dowamynda artykmaçlyk kem-kemden azalýar, soňra her stol garyşdyrylan 6 desseli aýakgapdan paýlanýan adaty, adalatly blackjack bolýar (blackjack 3-e 2 töleýär, diler ähli 17-de durýar).
+7fb55b3	Häzirki artykmaçlyk: <b><color=#7CFC9A>{0}%</color></b>   Galan eller: <b>{1}</b>
+d4f8fe0	Indiki <b>{0} blackjack elinde</b> <b>{1} fişka</b> çenli bäs bilen her kartyň seniň peýdaňa düşmek mümkinçiligi <b>{2}%</b> (täze başlaýanyň bagty bilen birmeňzeş artykmaçlyk).
+0a5fc06	Gowy oýun bilen bu elleriň takmynan <b>{0}%</b>-ini utýar, adaty blackjackda bolsa takmynan {1}%. Has uly bäsler adaty blackjack bolup, elleri harçlamaýar. Eller gutaranda her stol ýene adaty, adalatly blackjack bolýar.
+c3a8946	DÜŞÜNDIM
+8dfc44a	BAGTYŇY YZYNA ISLEÝÄŇMI?
+272a97f	Täze başlaýanyň bagty gutardy: mundan beýläk her stol adaty, adalatly blackjack. Bagtly hatar artykmaçlygy birnäçe wagtlyk gaýtaryp berýär.
+06b7689	GÜNDELIK
+4035996	GÜNDELIK HATAR
+fbe7f18	YZYGIDERLI GÜN
+7a46866	ŞU GÜN
+4753707	MAHABATA SERET
+6bb45f3	SATYN AL
+62a945f	HATAR DOŇDURYJY
+ba5b1de	Hatar doňduryjy oýnamadyk güniňde hataryňy saklaýar. {0} sanysyna çenli saklap bilersiň.\n\n{1} fişka birini satyn almalymy?
+38c6090	Hatar doňduryjy taýyn.
+8fe681f	Doňduryjy üçin fişka ýeterlik däl.
+1507c40	ÝATYR
+457d20f	GÜNDELIK AÝLAW
+9623247	AÝLA
+ac5ef96	Mümkinçilikler:
+1200f20	{0}%
+003a689	Sen {0} fişka utduň!
+f757137	ŞU GÜNKI WEZIPELER
+7b7f9e2	Rekord: {0} gün
+9554fea	Hatar gurmak üçin her gün oýna
+5c8dbb8	Şu günki maksat ýerine ýetirildi! Ertir görüşeris.
+1aeb9a1	Şu gün: {0} / {1} tapgyr (islendik oýun)
+bb92856	Hatar doňduryjylar: {0} / {1}
+0ec6216	Sypdyran güniňde hataryňy halas et. Her 7 günden +1.
+cc0a745	DOLY
+419a962	WIDEO ÝOK
+2dabd99	MAHABAT ÝAKYNDA
+f12e166	Hatar bonusy: baýraklar ×{0}
+80948a4	Her gün bir mugt aýlaw
+596b5e0	INDIKI  {0}
+7f7e7fc	Hemmesi tamam! Bonus alyndy.
+03a0f2a	Täze wezipeler ýary gijede.
+4784874	Üçüsini-de tamamla: +{0} bonus fişka
+42c5cda	OÝNA
+337211e	OÝUNLAR
+8f5e3bd	Ýöremek üçin çepde süýşür  •  Seretmek üçin sagda süýşür  •  Gitmek üçin bas
+d00d221	Diňe 18+  •  Fişkalar güýmenje üçin: pul gymmaty ýok, hiç haçan pula ýa-da baýraga çalşylmaýar
+b60f038	Gapylar açylýar...
+2e5bcce	Hoş geldiň! {0} hoş geldiň fişkaň taýyn. Stollar edil öňüňde!
+7ef7ae3	+{0} mugt fişka! Ýene {1} sagatdan.
+5d82af9	Mugt fişkalar her {0} sagatdan dolýar. Indikisi {1} soň.
+5469985	{0} sag {1} min
+bb65beb	{0} min {1} sek
+ac8ba93	HATARYŇY SAKLA
+560bfa1	Entek oýnamadyk agşamlaryňda we mugt fişkalaryň taýyn bolanda ýatlatma isleýäňmi? Mundan artyk hiç haçan, we ony Sazlamalarda öçürip bilersiň.
+b724a40	ÝATLAT
+9e0c898	+{0} fişka taýyn!
+1207e28	Wideo gör: {0}
+db3655b	Indiki mugt fişkalar {0} soň
+4ca9be5	BLACKJACK
+9a612b1	4 stol  •  3-e 2 töleýär
+1194439	SLOTLAR
+6555152	Lucky Ace 7s  •  10 çyzyk
+255b1a1	RULET
+6df1551	Ýewropa, bir nolly
+379b146	SEN GATY ÝADADYŇ
+340e5c4	Energiýa zolagyň boş. Oýnamagy dowam etmek üçin bardan bir zat al ýa-da soňra gaýdyp gel: sen ýok wagtyň energiýa haýal dikelýär.
+a517396	BARA GIT
+7c7227f	STOLUŇY SAÝLA
+c963de3	BÄSLER
+c433657	DEREJE {0}
+083ac39	OTUR
+9698219	GEREK: {0}
+34b737e	Bu ýerde oýnamak üçin {0} derejä ýet. Seniň derejäň {1}.
+6cc19a9	KAZINO
+6e946b7	GG
+4a3a892	AA
+2857a6a	ÝÝÝÝ
+9d1fece	GÜN
+d3bb0c3	AÝ
+c0f0cad	ÝYL
+43985ff	HAÇAN DOGLUŇ?
+293fda2	Fişkalar diňe güýmenje üçin. Olaryň pul gymmaty ýok we hiç haçan pula ýa-da baýraga çalşyp bolmaýar.
+3e9128d	BAGYŞLA, OÝNAP BILMERSIŇ
+b5e8985	{0} diňe ulular üçin.
+bb1b380	ÇYKYŞ
+d9f9432	{0} soň ýapylýar...
+c6e102d	ÖZÜŇ BARADA AÝT
+31120ce	Saňa laýyk alyp baryjylary, dilerleri we bar işgärlerini saýlarys. Muny islendik wagt Sazlamalarda üýtgedip bilersiň.
+49e8df9	MEN ERKEK
+85abe81	MEN AÝAL
+76cc98c	AÝTMAZLYGY ÜSTÜN GÖRÝÄRIN
+964daf7	KAZINOA GIR
+2efb69a	Şu agşamky işgärleriň:
+c10e749	Sahypa {0} / {1}
+2a3ffd9	DIL
+c673535	AWTOMATIK
+d1245d2	ÝURT
+15fc12b	Hoş geldiňiz! Bäsleriňizi goýuň, haýyş edýärin.
+531fb3f	Bu bäs üçin fişka ýeterlik däl.
+380eb75	Stol çägi her aýlaw üçin {0}.
+55ad592	YZA AL
+8f191f9	JEMI BÄS  {0}
+82e1181	Fişka goýmak üçin tagta bas
+bb19a75	Bäsler kabul edilmeýär!
+5becf07	ÝAŞYL
+bc74f4f	ýaşyl
+7898801	gyzyl
+466bc8c	gara
+f2edfbf	Nähili urgy! Gutlaýarys!
+b252caf	Ýeňiji! Utuşyň: {0}.
+8587d14	UTUŞ  +{0}
+b862a2b	{0} {1}. Saňa gaýdyp gelýär: {2}.
+a306d0a	GAÝTARYLDY  {0}
+af3134d	Bu gezek utuş ýok
+84122e7	Bäsleriňizi goýuň, haýyş edýärin.
+52205f4	Top durýança garaş.
+c4b9243	SAZLAMALAR
+44d863e	UMUMY
+2bbca79	GRAFIKA
+955c8b4	SES
+c701f5f	DEGMEK
+efcc94a	SYÇAN
+8433628	KONTROLLER
+d868a50	TITREME
+f8692c7	18+ • Fişkalaryň pul gymmaty ýok • Şriftler: Bebas Neue, Poppins, Noto (SIL OFL) • Serhetler: Natural Earth • Baha maglumatlary: Bütindünýä banky
+da46447	KAZINO IŞGÄRLERI
+594b81e	AÝALLAR
+69d3313	ERKEKLER
+b4325d3	GARYŞYK
+414594a	ÝATLATMALAR
+6cac87b	Mugt fişkalar taýyn, we hatar gutarmazdan öň agşamky ýatlatma.
+e43b2e0	GAÝTADAN BARLA
+7c9e8f9	BAHA SEBITI
+495c70e	Iň çalt: kazino çekilişi ýaly, artykmaç zat ýok.
+b052523	Ýalpyldawuk pol, agaç we altyn zaly şöhlelendirýär.
+6bd30d7	Kino görnüşi: reňk düzedişi, dänejik, ýalkym, ýagtylyk şöhleleri, janly deri.
+21b6e1d	Kino obýektiwi: fokus nazaryňy yzarlaýar, çyralarda zolaklar, şöhlelerde tozan.
+fb7c2e8	HIL
+d8b9679	PES
+f68525a	ORTA
+d77d0b2	ÝOKARY
+9289eee	ULTRA
+637e313	ÇÖZGÜDI
+2e7b141	Pesi has ýumşak, emma telefon az gyzýar we batareýa tygşytlaýar.
+93dcfb5	EKRAN REŽIMI
+3c6eac3	DOLY EKRAN
+f3690b1	PENJIRE
+cfa6200	GYRALARY ÝYLMANAKLAMAK
+ad50489	ÖÇÜK
+f178804	Kazinodaky gädik gyralary ýylmanaklaýar.
+4266288	KADR TIZLIGI
+d031ab0	{0} FPS
+a2b7514	30 FPS batareýany tygşytlaýar we köne telefonlary salkyn saklaýar.
+0babcee	V-SYNC
+6656e25	GÖRÜŞ MEÝDANY
+244aadb	FPS GÖRKEZ
+41c8f6e	UMUMY SES
+bf3af1f	SAZ
+bd80907	SES EFFEKTLERI
+d098036	IŞGÄRLERIŇ SESLERI
+93c6484	Işgärleriň gürleşende çykarýan hümürdisi.
+16bf71a	FONDA SESSIZ
+85b2ee7	Başga penjirede wagtyň kazinonyň sesini öçürýär.
+8e3634e	SERETMEK DUÝGURLYGY
+880dc05	Süýşürmegiň görnüşi näçe çalt öwürýändigi.
+750c60f	Syçan bilen süýşürmegiň görnüşi näçe çalt öwürýändigi.
+8b988eb	SERETMEGI TERS ET ÇEP / SAG
+cacf0cc	SERETMEGI TERS ET ÝOKARY / AŞAK
+2d13b68	DÜWME ÝERLEŞIŞI
+50c3f10	AWTO
+b471e5c	MENÝU / GÖRNÜŞ ÇALŞ
+d9a59f1	TAÝAKJYK DUÝGURLYGY
+ec14343	Sag taýakjygyň görnüşi näçe çalt öwürýändigi.
+a79af23	TAÝAKJYGY TERS ET ÇEP / SAG
+acfc66e	TAÝAKJYGY TERS ET ÝOKARY / AŞAK
+56bb461	KONTROLLER MASLAHATLARY
+51cf49a	Kontroller bilen oýnanyňda her düwmäniň näme edýändigini görkezýär.
+dff7431	TITRET
+34139ab	TELEFON
+15ee988	IKISI HEM
+465cc91	Awto: birikdirilen bolsa kontroller, bolmasa telefon.
+f6fed84	TELEFON TITREMESI
+8e97fa7	TELEFON GÜÝJI
+486ba2d	KONTROLLER TITREMESI
+8008889	KONTROLLER GÜÝJI
+ea9233e	AWTOMATIK ({0})
+167dda7	{0} Sazlamalary açýar, {1} Gündeligi açýar.
+29a4ef9	Kontroller birikdirilmedik.
+558ecd2	Birikdirildi: {0}. {1} düwmeleri görkezilýär (sagdaky A tassyklaýar).
+d6eee9e	Birikdirildi: {0}. {1} düwmeleri görkezilýär.
+78525d5	BAR
+099db9f	BAGT
+b4a8b06	Fişkalar, bagt we nahar diňe güýmenje üçin wirtual zatlar: pul gymmaty ýok, pula ýa-da baýraga çalşylmaýar.
+e2a28c9	Her kartyň seniň peýdaňa düşmek üçin şeýle mümkinçiligi bar, {0} fişka çenli blackjack bäslerinde (has uly bäsler adaty we elleri harçlamaýar). Täze başlaýanyň bagtyndan soň başlaýar; has güýçli toplumlar ilki ulanylýar.
+04fbc6d	Ýurduňyň bahasyny almak üçin ýerleşişe rugsat ber
+2ae87fc	Oýnuň bu wersiýasynda satyn almak elýeterli däl.
+8239a84	SYNAG DÜKANY (hakyky pul däl)
+173d916	energiýa
+b2c67eb	+{0}% FIŞKA
+58e8011	{0} el
+ce80712	olaryň takmynan {0}%-ini utýar
+c69e8ee	LUCKY ACE 7s
+fc99288	JEMI BÄS
+c1c00cd	TÖLEG TABLISASY
+3930abd	ÜSTÜNLIK!
+67b6973	Aýlamak üçin azyndan 10 fişka gerek.
+5aa1edb	FIŞKA AL
+f5a1812	Bäs töläp biljek mukdaryňa çenli azaldyldy.
+5c63f61	MEGA UTUŞ!
+652544f	ULY UTUŞ!
+91bc41c	GAÝTARYLDY {0}
+3714283	UTUŞ ÝOK
+33c0faa	ÇYZYK {0}: {1} × {2} = {3}
+9f59e6e	{0} ÝYLDYZ = {1}
+d6eee90	Alça
+4459b79	Limon
+09fb6aa	Apelsin
+cb92e50	Garaly
+d419866	Jaň
+e496fd2	Bar
+63abb56	Ýedi
+b3850e0	Almaz
+fc2b5a9	Tuz
+85a7de6	Ýyldyz
+c31b035	ÝYLDYZLAR islendik ýerde töleýär: 5 = bäs ×{0}, 4 = bäs ×{1}, 3 = bäs ×{2}.
+f97509c	TUZ joker: ýyldyzdan başga her nyşanyň ornuny tutýar.
+3e8bc69	Çyzyk tölegleri çyzyk bäsiniň (jemi bäs ÷ 10) essesi, birinji barabandan çepden saga.
+523f8dc	GAÝTARYŞ: uzak möhletde {0}%. Her aýlaw garaşsyz we tötänleýin.
+e0c705d	Ýöre
+b8db515	Seret
+503d46d	Düwmeler
+c7f73bb	Sazlamalar
+728298d	Gündelik
+ab166bd	Sazla
+76cdb95	Hereket
+8598222	Saýla
+bbfa773	Ýap
+b52b36b	Yza
+ab37588	ÝADAW
+9b11a09	TÄZE BAŞLAÝANYŇ BAGTY {0}%
+0c94e98	{0} EL GALDY
+51ed273	BAGTLY HATAR {0}%
+3401470	{0} EL  •  BÄSLER {1} ÇENLI
+f481cc6	DEREJE
+0139615	HOŞ GELDIŇIZ
+daad514	ALYP BARYJY BILEN GÜRLEŞ
+bcefb10	Ugurlar we maslahatlar
+c28e782	FIŞKALAR  •  BONUSLAR
+0c69ec4	FIŞKA SATYN AL
+78c0727	Kassa
+1737fab	KOKTEÝLLER  •  ÝEŇIL NAHARLAR  •  ENERGIÝA
+9e008ae	NAHAR WE IÇGILER
+f7881e8	Bar
+0e979ed	BLACKJACK 3-E 2 TÖLEÝÄR
+eea0d12	DILER 17-DE DURMALY
+4db37bf	BLACKJACK OÝNA
+0ffdd99	{0} stol  •  bäsler {1}–{2}
+b4f938b	SLOT OÝNA
+6b7caea	BÄSLERIŇIZI GOÝUŇ
+26b1e39	RULET OÝNA
+910a1ed	Ýewropa tigirli  •  göni san 35-e 1 töleýär
+7ef0215	IÇGI SARGYT ET
+fe38d73	Getirer: {0}
+f7b6306	{0} {1}-nji derejede açylýar. Seniň derejäň {2}: oýnan her tapgyryň hasaplanýar.
+d85f1ad	Bu stol azyndan {0} fişka talap edýär.
+cbfe016	Blackjack stollary edil öňüňde. Birine ýakynlaş-da otur!
+64d9faf	Kassa şu ýerde, sag tarapyňda, bar bolsa çep diwar boýunça.
+e4c6e0b	Ýadadyňmy? Bardaky ýeňil nahar energiýaňy derrew doldurýar.
+d5ab68f	Poluň islendik ýerine bas, şol ýere gidersiň. Oturmak üçin stola bas.
+cc21f74	KIÇI
+dc01dec	ULY
+5fb90b0	ISLENDIK ÜÇLÜK
+9c716f1	Hold'em stoly
+3b6ab84	8 gezek hold'em oýna
+6c617ca	4 gezek hold'emde ut
+44ce500	10 gezek bakkara oýna
+b90cff7	5 gezek bakkarada ut
+3e4dfa9	15 gezek wideo poker oýna
+854fe20	8 tapgyr sic bo oýna
+dfddac1	4 tapgyr sic boda ut
+2973ea7	Crapsda süýekleri 15 gezek at
+737be17	Crapsda 4 zyňyşda ut
+4dbb81d	Wideo pokerde fleş ýa-da has gowusyny ýygna
+19aa07b	Roýal fleş
+cf83e72	Strit fleş
+d27ba03	Kare
+dbe8641	Ful haus
+7c936d7	Fleş
+2501c65	Strit
+ca1a0d4	Üçlük
+6876b40	Iki jübüt
+2537f88	Jübüt
+b4b323e	Ýokary karta
+f70bfdc	Walet ýa-da ýokary
+98fd5af	BAKKARA
+df66d5a	Bakkara hoş geldiň! Oýunçy, Bankir ýa-da Deňme-deň?
+5055efd	OÝUNÇY
+3f90696	DEŇME-DEŇ
+0d75f63	BANKIR
+0ebd5a4	SOŇKY NETIJELER
+511993d	O
+ae4f281	B
+c2c53d6	D
+781246e	Fişka saýla, soňra Oýunçy, Bankir ýa-da Deňme-deň bas
+11023a0	DEŇME-DEŇ  {0}
+503d5f1	OÝUNÇY UTDY  {0}–{1}
+0eb4be5	BANKIR UTDY  {0}–{1}
+7859af1	CRAPS
+4083dbd	Craps hoş geldiň! Pass Line-a goý we at.
+d266326	ALTY
+c506f3a	DOKUZ
+987f4e9	FIELD
+71c1b2b	2 3 4 9 10 11 12  •  2 we 12 iki esse tölär
+d0ac294	ISLENDIK 7
+9b2f0c3	ISLENDIK CRAPS
+f62ac59	DON'T PASS BAR
+6080ade	1:1  •  12 deňme-deň
+c07247a	PASS LINE
+6229f78	ODDS
+29bf819	hakyky koeffisiýent
+387d7a5	AÇYK
+229c9cc	Bal bar bolanda odds Pass Line-yň aňyrsyna goýulýar.
+c2c8e82	Odds üçin Pass Line-a goýum gerek.
+1784d43	Odds goýumyň iň ýokarda.
+fdc3442	Çyzyk goýumlary ilkinji zyňyşda goýulýar.
+97ce95b	STOLDA  {0}
+a895ec0	Bal {0}: ony 7-den öň ýene at. Pass Line-yň aňyrsyndaky odds hakyky koeffisiýentde tölär.
+d9f9d65	AT
+bcf32ef	Bal {0}.
+5b450b4	{0}! Bal gazanyldy. Utuş!
+9746e08	Ýedi çykdy. Täze zyňyjy, täze ilkinji zyňyş.
+4fc4664	{0}, natural! Pass Line utýar.
+203f466	{0}, craps. Çyzyk utulýar.
+0f8e260	Süýekler durýança garaş.
+6a98cfe	STOLDAN GIDÝÄŇMI?
+8430088	Çyzyk goýumyň entek {0} balda oýnaýar. Häzir gitseň, ony ýitirersiň.
+0e138d1	HOLD'EM
+5e023be	Hold'em hoş geldiň! Ante goý, kartlara seredeliň.
+0cd62f5	ANTE
+5e9f331	BLIND
+3b935ab	BLIND TÖLEÝÄR
+20713a4	Diler jübüt ýa-da has gowusy bilen saýlanýar
+d37267c	CHECK
+9a4e316	FOLD
+88313c4	GOÝ {0}×
+42c6fea	Ante {0} + blind {0}. Galdyrmak üçin ýene {1} sakla.
+1abb2f2	Ante üçin fişkalara bas. Blind deň.
+f541cec	Check, ýa-da antäniň üç ýa-da dört essesi?
+fc74a79	Häzir antäniň 4× ýa-da 3× essesine galdyr ýa-da check edip flopa seret.
+b687501	Soňky mümkinçilik: antäniň 1× essesini goý ýa-da fold et we ante bilen blind-i ýitir.
+400009c	Häzir antäniň 2× essesini goý ýa-da check edip soňky iki karta seret.
+f4abdf9	Ine flop.
+0e51f2c	Turn we river.
+cc856d3	Görüp göreli, mende näme bar.
+6ba1f3e	Diler saýlanmady: anteň yzyna gaýdýar.
+cf1fdc5	Fold etdiň. Indiki el seniňki.
+177fab0	Ultimate Texas Hold'em
+c4917b9	Oýunçy, Bankir ýa-da Deňme-deň
+6e4fe7b	WIDEO POKER
+73cabd3	Jacks or Better
+91c4555	SIC BO
+d810061	Üç süýek  •  uly ýa-da kiçi
+85ab7ec	Pass Line  •  Field  •  Odds
+35d8db6	Sic bo hoş geldiň! Uly, kiçi ýa-da has batyrgaý bir zat?
+3d05514	Stol çägi her zyňyşa {0}.
+86ade94	SILKELE
+b69304e	ÜÇLÜK {0}!
+5d1bcc6	SAKLANDY
+36a21ba	Paýla, isleýän kartlaryňy sakla, bir gezek çalyş.
+99fa8e8	SAKLA
+249d1c0	MASLAHAT
+7aab1bd	ÇALYŞ
+5595eb4	Saklamak üçin kartlara bas, soňra çalyş.
+1c05db9	HOLD'EM OÝNA
+e353e5f	Ultimate Texas Hold'em  •  ante {0}–{1}
+6470369	BAKKARA OÝNA
+bbe0077	ULY  •  KIÇI  •  ÜÇLÜKLER
+3ba448f	SIC BO OÝNA
+097c59c	Üç süýek  •  uly ýa-da kiçi 1-e 1 tölär
+af2ca30	PASS LINE  •  FIELD  •  ODDS
+f18398e	CRAPS OÝNA
+eeede6d	Pass Line 1-e 1 tölär  •  odds hakyky koeffisiýentde tölär
+34e5170	WIDEO POKER OÝNA
+f71bdfb	Jacks or Better  •  doly 9/6 tablisa
+4a6c087	JACKS OR BETTER  •  ROÝAL FLEŞ 800× TÖLEÝÄR
+370a133	Slot maşynlary sag diwarda, wideo poker yzky diwarda, rulet bolsa iň yzda.
+8298d28	Hold'em çep yzky burçda, bardan soň.
+a2a111f	Bakkara girelgede derrew çepde.
+b7193bc	Sic bo kassadan soňky burçda: üç süýek, uly ýa-da kiçi.
+25320c8	Craps stoly sagda, slotlaryň öňünde. Pass Line-a goý we at!
+dc81691	Sofia
+4d9936f	Elena
+3aa0674	Mia
+b724114	Valentina
+34d3f7f	Chloe
+0fc9dd6	Isabella
+bbd3e35	Nadia
+eac677d	Aria
+baaf10f	Luna
+8641381	Camila
+eeee9b7	Aurora
+8a59f05	Bianca
+5a0fc29	Serena
+bf38aa5	Marco
+cfaf50a	Leo
+5815f22	Adrian
+cbede02	Lucas
+f0b9995	Wiktor
+7b37259	Daniel
+aaac72d	Gabriel
+2f8f37e	Ethan
+a01126e	Julian
+3e05c90	Rafael
+e1ae457	Mateo
+3398634	Nico
+7aa2d07	Enzo
+1920e2f	Ilkinji zyňyş: Pass Line-a goý, soňra at. 7 ýa-da 11 utýar, 2, 3 ýa-da 12 utulýar. Place goýumlary bal bar bolanok işläp başlaýar.
+99f4934	LUCKY ACE 7s  •  ÇYZYK BÄSIŇ 2 500× ÇENLI TÖLEÝÄR

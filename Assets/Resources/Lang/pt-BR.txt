@@ -1,0 +1,1004 @@
+PEQUENO
+GRANDE
+ÍMPAR
+PAR
+QUALQUER TRINCA
+Punhado de fichas
+Pilha de fichas
+Bandeja de fichas
+Rack de fichas
+MAIS POPULAR
+Cofre de fichas
+Cofre VIP
+MELHOR CUSTO
+Água com gás
+Expresso
+Energético
+Sanduíche club
+Combo de hambúrguer
+Jantar com bife
+RECARGA TOTAL
+Maré de Sorte
+Maré Quente
+MAIS SORTE
+Mesa Bronze
+Mesa Prata
+Mesa Ouro
+Mesa Diamante
+Mesa de hold'em
+Digite um ano válido.
+Digite um mês válido (1-12).
+Digite um dia válido.
+Essa data está no futuro.
+Boas-vindas à minha mesa! Vamos jogar?
+Que bom te ver. Sente-se!
+Oi! As cartas estão fresquinhas, e eu também.
+Boas-vindas! Vamos fazer desta noite uma ótima noite.
+Faça sua aposta quando quiser.
+Fichas na mesa, e vamos ver as cartas.
+Vamos jogar por quanto?
+Uau, aposta alta! Gostei do seu estilo.
+Isso sim é uma aposta! Vamos lá!
+Está ousado hoje, hein?
+Tudo?! Meu coração disparou!
+Tudo numa mão só. Sem medo!
+Blackjack! Incrível!
+Vinte e um, assim do nada!
+Blackjack! As cartas te amam hoje.
+Bela jogada!
+Vencedor! Muito bem.
+Você está numa boa fase!
+Essa é sua.
+Que vitória! Todo mundo está olhando esta mesa!
+Enorme! Você está pegando fogo hoje!
+Quase! A próxima é sua.
+A casa teve sorte dessa vez.
+Deixa pra lá, vem mão nova aí.
+Ai, uma carta a mais.
+Estourou! Acontece com os melhores.
+Empate. Ninguém perde!
+Empate. Suas fichas estão seguras.
+Eu estourei! Sorte sua.
+Demais pra mim. Você ganhou!
+Blackjack da casa, desculpe!
+Blackjack do crupiê. Que azar.
+Tenho um ás. Quer seguro?
+Dividindo! Duas chances de ganhar.
+Dobrando. Que coragem!
+Dobre! Vem uma carta.
+Sapato novo, embaralhando!
+Pouca ficha? A caixa pode te recarregar.
+As fichas estão acabando. Quer pegar mais?
+Sem fichas! Vá ao caixa ou pegue fichas grátis.
+Sua pilha acabou. O caixa está logo atrás de você.
+Você parece exausto! Coma algo no bar.
+Sem energia? O bar te ajuda.
+Sem pressa.
+Quando quiser!
+A noite é uma criança.
+A sorte de principiante está do seu lado!
+O baralho está a seu favor hoje!
+A sorte de principiante acabou. Daqui pra frente o jogo é justo!
+Boas-vindas ao cassino! Seu lugar está esperando.
+Boa noite! As mesas estão quentes hoje.
+Que bom te ver de volta! Está com sorte?
+Toque em uma mesa para começar a jogar!
+Precisa de mais fichas? Veio ao guichê certo.
+Pilhas maiores, bônus maiores!
+Com fome? Escolha o que quiser do cardápio.
+Um lanchinho mantém sua energia!
+Boas-vindas à minha mesa!
+Aí está você! O lugar já ficou mais iluminado.
+Fique à vontade. Esta noite é toda sua.
+Adoro esse sorriso. Noite de sorte?
+Relaxe, você está em boas mãos.
+Ei, você! Eu esperava que você passasse no meu guichê.
+É sempre bom ver um rosto amigo.
+Olha quem chegou! Está se divertindo?
+Oi, lindo!
+Gostei do seu estilo hoje.
+Ei, que bom te ver de novo!
+Está tendo uma boa noite? Você merece.
+Cuidado, posso começar a torcer por você.
+Meu jogador favorito voltou!
+Sente comigo, vou te dar umas cartas boas.
+Com você esta mesa fica bem mais divertida.
+Já vai? A noite é uma criança!
+Vamos, só mais uma mão. Estou com um bom pressentimento!
+Você não pode me deixar agora, estamos só começando!
+Última chance! A próxima mão pode ser a grande...
+Tá bom, tá bom. Vou guardar seu lugar quentinho. Promete que volta?
+Ainda sem sequência? Jogue {2} rodadas hoje e eu começo a contar.
+Recomeço! {2} rodadas e sua chama acende.
+Tenho uma listinha de quem aparece todo dia. Você ainda não está nela... ainda.
+O dia {1} está te esperando. Só faltam {2} rodadas!
+{0} dias seguidos... não vai parar agora, né?
+Sua chama está meio fria hoje. {2} rodadas vão esquentá-la.
+Estou contando: {0} dias. Vamos chegar a {1}.
+Não pense que eu não reparei. Faltam {2} rodadas para manter sua sequência!
+{0} dias seguidos? Começo a achar que você gosta daqui.
+Sua sequência está garantida hoje. Agora é só exibição.
+Dia {0}, feito. Amanhã no mesmo horário?
+{0} dias! A essa altura eu deveria guardar um lugar pra você.
+Aí está: o primeiro dia da sua sequência! Volte amanhã e serão dois.
+Uma semana inteira seguida! Estou impressionada de verdade.
+Trinta dias! Você praticamente trabalha aqui.
+Cem dias. Estou falando de você pra todo mundo.
+São {0} dias seguidos! Olha só você.
+Sequência salva: dia {0}! Eu sabia que você conseguiria.
+Dia {0}! Aposto que você não chega a {1}.
+{0} dias... tá bom, exibido.
+Jogue 10 mãos de blackjack
+Vença 5 mãos de blackjack
+Faça um blackjack
+Ganhe 500 fichas no blackjack
+Gire o caça-níquel 20 vezes
+Vença 5 giros no caça-níquel
+Ganhe 5× sua aposta no caça-níquel
+Jogue 5 rodadas de roleta
+Vença 3 giros de roleta
+Acerte um número em cheio
+Jogue 8 mãos de hold'em
+Vença 4 mãos de hold'em
+Jogue 10 mãos de bacará
+Vença 5 mãos de bacará
+Jogue 15 mãos de video pôquer
+Jogue 8 rodadas de sic bo
+Vença 4 rodadas de sic bo
+Role os dados 15 vezes no craps
+Vença 4 rolagens no craps
+Faça um flush ou melhor no video pôquer
+Royal flush
+Straight flush
+Quadra
+Full house
+Flush
+Sequência
+Trinca
+Dois pares
+Par
+Carta alta
+localização GPS
+rede móvel
+conexão de internet
+configurações do aparelho
+país de teste
+não verificado (preço padrão)
+desconhecido
+1ª dúzia
+2ª dúzia
+3ª dúzia
+2 para 1
+VERMELHO
+PRETO
+Valetes ou melhor
+PREÇOS JUSTOS PARA O SEU PAÍS
+Os preços da loja são ajustados à economia do seu país, para que jogadores de todos os lugares paguem um preço justo.
+Para saber seu país, verificamos sua localização aproximada uma vez. Ela é comparada a um país no seu aparelho e nunca é enviada a lugar nenhum. Se você recusar, valem os preços padrão.
+CONTINUAR
+Sair do cassino?
+Suas fichas e seu progresso estão salvos.
+SAIR
+FICAR
+{0} desbloqueada
+Ontem um congelamento salvou sua sequência de {0} dias.
+{0} congelamentos salvaram sua sequência de {1} dias.
+Sua sequência de {0} dias acabou. Jogue {1} rodadas hoje para começar outra!
+MISSÃO CUMPRIDA
++{0} fichas
+TODAS AS MISSÕES CUMPRIDAS!
+Bônus diário +{0} fichas. Novas missões amanhã.
+NÍVEL {0}!
+Marco! +{0} fichas
+Volte amanhã para continuar
++1 congelamento de sequência
+SEQUÊNCIA DE {0} DIAS!
+Compras não estão disponíveis nesta versão.
+A compra falhou. Nada foi cobrado.
++{0} fichas adicionadas!
+{0}: {1} mãos com {2}% de sorte, depois da Sorte de Principiante
+{0}: {1} mãos com {2}% de sorte!
+{0}: +{1}% de energia
+Indisponível neste aparelho
+Os vídeos não carregam nesta rede
+Volte amanhã
+Pronto em {0} s
++{0} fichas (restam {1} hoje)
++{0} fichas grátis!
++1 congelamento de sequência!
+Nenhum vídeo disponível agora. Tente de novo daqui a pouco.
+BRONZE
+PRATA
+OURO
+DIAMANTE
+Menu
+Exibir
+Xis
+Círculo
+Quadrado
+Triângulo
+Verificando sua região...
+Não verificado ({0}): preços padrão
+{0} ({1}): preços em {2}
+Lembretes
+Fichas grátis prontas e lembretes de sequência
+Suas fichas grátis estão prontas
+{0} fichas estão te esperando no Lucky Ace.
+Mantenha sua sequência de {0} dias
+Jogue {0} rodadas hoje para ela não zerar à meia-noite.
+BACARÁ
+Boas-vindas ao bacará! Jogador, Banca ou Empate?
+JOGADOR
+EMPATE
+BANCA
+ÚLTIMOS RESULTADOS
+J
+B
+E
+DESFAZER
+LIMPAR
+REPETIR
+DAR CARTAS
+Fichas insuficientes para essa aposta.
+Limite máximo da mesa atingido
+APOSTA TOTAL  {0}
+Escolha uma ficha e toque em Jogador, Banca ou Empate
+EMPATE  {0}
+JOGADOR VENCE  {0} A {1}
+BANCA VENCE  {0} A {1}
+VITÓRIA  +{0}
+DEVOLVIDO  {0}
+Sem prêmio desta vez
+Termine esta mão primeiro.
+Boas-vindas! A sorte de principiante está do seu lado hoje. Faça uma aposta!
+BLACKJACK PAGA 3 PARA 2   •   O CRUPIÊ PARA EM TODOS OS 17   •   O SEGURO PAGA 2 PARA 1
+APOSTA
+PEDIR
+PARAR
+DOBRAR
+DIVIDIR
+SEGURAR
+NÃO, OBRIGADO
+APOSTA {0}+
+Fichas insuficientes
+O crupiê mostra um ás. Fazer seguro por {0}?
+O seguro paga {0}
+O crupiê não tem blackjack. Seguro perdido.
+ESTOUROU
+CRUPIÊ ESTOUROU
+BLACKJACK!
+VITÓRIA
+EMPATE
+DERROTA
+A sorte de principiante acabou. Sua Maré de Sorte começa agora.
+A sorte de principiante acabou. A partir de agora é blackjack padrão.
+Sua Maré de Sorte acabou. De volta ao blackjack padrão.
+SEM FICHAS
+Assista a um vídeo curto por {0} fichas grátis ou vá ao caixa.
+Vá ao caixa para recarregar suas fichas.
+FICHAS GRÁTIS
+CAIXA
+DEPOIS
+“{0}”
+MAIS UMA MÃO
+SAIR
+SORTE DE PRINCIPIANTE
+MARÉ DE SORTE
+Bônus de boas-vindas para novos jogadores: nas suas primeiras <b>{0} mãos</b> o sapato do crupiê é arrumado a seu favor, então você vai ganhar quase todas as mãos.
+Nas próximas <b>{0} mãos</b> a vantagem vai sumindo e, depois disso, toda mesa é blackjack padrão e justo, com um sapato embaralhado de 6 baralhos (blackjack paga 3 para 2, o crupiê para em todos os 17).
+Vantagem agora: <b><color=#7CFC9A>{0}%</color></b>   Mãos restantes: <b>{1}</b>
+Nas suas próximas <b>{0} mãos de blackjack</b> com aposta de até <b>{1} fichas</b>, cada carta tem <b>{2}%</b> de chance de vir a seu favor (a mesma vantagem da Sorte de Principiante).
+Jogando bem, isso vence cerca de <b>{0}%</b> das mãos, contra cerca de {1}% no blackjack padrão. Apostas maiores são blackjack padrão e não gastam mãos. Quando as mãos acabam, toda mesa volta a ser blackjack padrão e justo.
+ENTENDI
+QUER SUA SORTE DE VOLTA?
+A Sorte de Principiante acabou: daqui pra frente toda mesa é blackjack padrão e justo. Uma Maré de Sorte traz a vantagem de volta por um tempo.
+CRAPS
+Boas-vindas ao craps! Aposte na Pass Line e role.
+SEIS
+NOVE
+CAMPO
+2 3 4 9 10 11 12  •  2 e 12 pagam em dobro
+QUALQUER 7
+QUALQUER CRAPS
+DON'T PASS BAR
+1:1  •  12 empata
+PASS LINE
+ODDS
+odds reais
+DESLIGADO
+ON
+As odds vão atrás da Pass Line quando há um ponto.
+As odds precisam de uma aposta na Pass Line.
+Suas odds estão no máximo.
+Apostas de linha entram na rolagem de saída.
+NA MESA  {0}
+Rolagem de saída: aposte na Pass Line e role. 7 ou 11 ganham; 2, 3 ou 12 perdem. As apostas Place começam a valer quando há um ponto.
+O ponto é {0}: tire-o de novo antes de um 7. As odds atrás da sua Pass Line pagam odds reais.
+ROLAR
+O ponto é {0}.
+{0}! Ponto feito. Vitória!
+Sete fora. Novo lançador, nova saída.
+{0}, natural! A Pass Line ganha.
+{0}, craps. A linha perde.
+Espere os dados pararem.
+SAIR DA MESA?
+Sua aposta de linha ainda está valendo no ponto {0}. Se sair agora, ela é perdida.
+DIÁRIO
+SEQUÊNCIA DIÁRIA
+DIAS SEGUIDOS
+HOJE
+VER ANÚNCIO
+COMPRAR
+CONGELAMENTO DE SEQUÊNCIA
+Um congelamento mantém sua sequência viva num dia em que você não jogar. Você pode ter até {0}.\n\nComprar um por {1} fichas?
+Congelamento pronto.
+Fichas insuficientes para um congelamento.
+CANCELAR
+GIRO DIÁRIO
+GIRAR
+Chances:
+{0}%
+Você ganhou {0} fichas!
+MISSÕES DE HOJE
+Recorde: {0} dias
+Jogue todo dia para criar uma sequência
+Meta de hoje cumprida! Até amanhã.
+Hoje: {0} / {1} rodadas (qualquer jogo)
+Congelamentos: {0} / {1}
+Salve sua sequência num dia em que faltar. +1 a cada 7 dias.
+CHEIO
+SEM VÍDEO
+ANÚNCIO EM BREVE
+Bônus de sequência: prêmios ×{0}
+Um giro grátis por dia
+PRÓXIMO  {0}
+Tudo feito! Bônus recebido.
+Novas missões à meia-noite.
+Complete as três: +{0} fichas de bônus
+HOLD'EM
+Boas-vindas ao hold'em! Coloque o ante e vamos às cartas.
+ANTE
+BLIND
+JOGAR
+O BLIND PAGA
+O crupiê se qualifica com par ou melhor
+PASSAR
+DESISTIR
+APOSTAR {0}×
+Ante {0} + blind {0}. Guarde mais {1} para o aumento.
+Toque nas fichas para definir o ante. O blind é igual.
+Passar ou apostar três ou quatro vezes o ante?
+Aumente agora 4× ou 3× o ante, ou passe e veja o flop.
+Última chance: aposte 1× o ante ou desista e perca ante e blind.
+Aposte 2× o ante agora, ou passe e veja as duas últimas cartas.
+Aqui está o flop.
+O turn e o river.
+Vamos ver o que eu tenho.
+O crupiê não se qualifica: seu ante volta.
+Você desistiu. A próxima mão é sua.
+JOGOS
+Arraste à esquerda para andar  •  Arraste à direita para olhar  •  Toque para ir
+Somente +18  •  As fichas são para diversão: sem valor em dinheiro, nunca trocáveis por dinheiro ou prêmios
+Abrindo as portas...
+Boas-vindas! Suas {0} fichas de boas-vindas estão prontas. As mesas estão logo em frente!
++{0} fichas grátis! Mais em {1} horas.
+As fichas grátis recarregam a cada {0} horas. Próximas em {1}.
+{0} h {1} min
+{0} min {1} s
+MANTENHA SUA SEQUÊNCIA
+Quer um lembrete nas noites em que ainda não jogou e quando suas fichas grátis estiverem prontas? Nada além disso, e você pode desativar em Configurações.
+ME LEMBRE
++{0} fichas prontas!
+Assista a um vídeo: {0}
+Próximas fichas grátis em {0}
+BLACKJACK
+4 mesas  •  paga 3 para 2
+Ultimate Texas Hold'em
+Jogador, Banca ou Empate
+CAÇA-NÍQUEIS
+Lucky Ace 7s  •  10 linhas
+VIDEO PÔQUER
+Jacks or Better
+SIC BO
+Três dados  •  grande ou pequeno
+Pass Line  •  Campo  •  Odds
+ROLETA
+Europeia de zero único
+VOCÊ ESTÁ EXAUSTO
+Sua barra de energia está vazia. Pegue algo no bar para continuar jogando ou volte mais tarde: a energia se recupera devagar enquanto você está fora.
+IR AO BAR
+ESCOLHA SUA MESA
+APOSTAS
+NÍVEL {0}
+SENTAR
+PRECISA {0}
+Chegue ao nível {0} para jogar aqui. Você está no nível {1}.
+CASSINO
+DD
+MM
+AAAA
+DIA
+MÊS
+ANO
+QUANDO VOCÊ NASCEU?
+As fichas são apenas para diversão. Não têm valor em dinheiro e nunca podem ser trocadas por dinheiro ou prêmios.
+DESCULPE, VOCÊ NÃO PODE JOGAR
+{0} é só para adultos.
+SAIR
+Fechando em {0}...
+FALE SOBRE VOCÊ
+Vamos escolher seus anfitriões, crupiês e equipe do bar de acordo. Você pode mudar isso quando quiser em Configurações.
+SOU HOMEM
+SOU MULHER
+PREFIRO NÃO DIZER
+ENTRAR NO CASSINO
+Sua equipe hoje:
+Página {0} de {1}
+IDIOMA
+AUTOMÁTICO
+PAÍS
+Boas-vindas! Façam suas apostas, por favor.
+O limite da mesa é {0} por giro.
+Toque no pano para colocar fichas
+Apostas encerradas!
+VERDE
+verde
+vermelho
+preto
+Que acerto! Parabéns!
+Vencedor! Você ganha {0}.
+{0} {1}. {2} voltam para você.
+Façam suas apostas, por favor.
+Espere a bola parar.
+CONFIGURAÇÕES
+GERAL
+GRÁFICOS
+SOM
+TOQUE
+MOUSE
+CONTROLE
+VIBRAÇÃO
+18+ • As fichas não têm valor em dinheiro • Fontes: Bebas Neue, Poppins, Noto (SIL OFL) • Fronteiras: Natural Earth • Dados de preços: Banco Mundial
+EQUIPE DO CASSINO
+MULHERES
+HOMENS
+MISTO
+LEMBRETES
+Fichas grátis prontas e um aviso à noite antes de a sequência acabar.
+VERIFICAR DE NOVO
+REGIÃO DE PREÇOS
+Mais rápido: o cassino como foi pintado, nada a mais.
+Pisos polidos, madeira e ouro refletem o salão.
+Visual de cinema: cores tratadas, granulação, brilho, feixes de luz, pele realista.
+Lente de cinema: o foco segue seu olhar, rastros nas luzes, poeira nos feixes.
+QUALIDADE
+BAIXA
+MÉDIA
+ALTA
+ULTRA
+RESOLUÇÃO
+Mais baixa fica mais suave, mas esquenta menos e economiza bateria.
+MODO DE TELA
+TELA CHEIA
+JANELA
+ANTISSERRILHAMENTO
+Suaviza as bordas serrilhadas do cassino.
+TAXA DE QUADROS
+{0} FPS
+30 FPS economiza bateria e mantém celulares antigos frescos.
+V-SYNC
+CAMPO DE VISÃO
+MOSTRAR FPS
+VOLUME GERAL
+MÚSICA
+EFEITOS SONOROS
+VOZES DA EQUIPE
+O murmúrio da equipe enquanto fala.
+MUDO EM SEGUNDO PLANO
+Silencia o cassino enquanto você está em outra janela.
+SENSIBILIDADE DA VISÃO
+Velocidade com que arrastar gira a visão.
+Velocidade com que arrastar o mouse gira a visão.
+INVERTER VISÃO ESQUERDA / DIREITA
+INVERTER VISÃO CIMA / BAIXO
+LAYOUT DOS BOTÕES
+AUTO
+TROCAR MENU / EXIBIR
+SENSIBILIDADE DO ANALÓGICO
+Velocidade com que o analógico direito gira a visão.
+INVERTER ANALÓGICO ESQUERDA / DIREITA
+INVERTER ANALÓGICO CIMA / BAIXO
+DICAS DO CONTROLE
+Mostra o que cada botão faz enquanto você joga com controle.
+VIBRAR NO
+CELULAR
+AMBOS
+Auto: o controle enquanto estiver conectado, senão o celular.
+VIBRAÇÃO DO CELULAR
+FORÇA NO CELULAR
+VIBRAÇÃO DO CONTROLE
+FORÇA NO CONTROLE
+AUTOMÁTICO ({0})
+{0} abre Configurações, {1} abre Diário.
+Nenhum controle conectado.
+Conectado: {0}. Mostrando botões de {1} (A à direita confirma).
+Conectado: {0}. Mostrando botões de {1}.
+O BAR
+SORTE
+Fichas, sorte e comida são itens virtuais só para diversão: sem valor em dinheiro, não trocáveis por dinheiro ou prêmios.
+Cada carta tem essa chance de vir a seu favor em apostas de blackjack de até {0} fichas (apostas maiores são padrão e não gastam mãos). Começa depois da Sorte de Principiante; pacotes mais fortes são usados primeiro.
+Permita o acesso à localização para ter o preço do seu país
+Compras não estão disponíveis nesta versão do jogo.
+LOJA DE TESTE (sem dinheiro real)
+energia
++{0}% FICHAS
+{0} mãos
+vence cerca de {0}% delas
+Boas-vindas ao sic bo! Grande, pequeno ou algo mais ousado?
+O limite da mesa é {0} por rolagem.
+AGITAR
+TRINCA DE {0}!
+LUCKY ACE 7s
+APOSTA TOTAL
+TABELA DE PAGAMENTOS
+BOA SORTE!
+Você precisa de pelo menos 10 fichas para girar.
+PEGAR FICHAS
+Aposta reduzida ao que você pode cobrir.
+MEGA VITÓRIA!
+GRANDE VITÓRIA!
+DEVOLVIDO {0}
+SEM PRÊMIO
+LINHA {0}: {1} × {2} = {3}
+{0} ESTRELAS = {1}
+Cereja
+Limão
+Laranja
+Ameixa
+Sino
+Bar
+Sete
+Diamante
+Ás
+Estrela
+As ESTRELAS pagam em qualquer lugar: 5 = {0}× a aposta, 4 = {1}× a aposta, 3 = {2}× a aposta.
+O ÁS é coringa: substitui todos os símbolos, menos a estrela.
+Os pagamentos de linha são múltiplos da aposta por linha (aposta total ÷ 10), da esquerda para a direita a partir do primeiro rolo.
+RETORNO: {0}% a longo prazo. Cada giro é independente e aleatório.
+SEGURADA
+Distribua, segure as cartas que quiser e troque uma vez.
+SEGURAR
+DICA
+TROCAR
+Toque nas cartas para segurar e depois troque.
+Andar
+Olhar
+Botões
+Configurações
+Diário
+Ajustar
+Mover
+Escolher
+Fechar
+Voltar
+EXAUSTO
+SORTE DE PRINCIPIANTE {0}%
+FALTAM {0} MÃOS
+MARÉ DE SORTE {0}%
+{0} MÃOS  •  APOSTAS ATÉ {1}
+NÍVEL
+Sofia
+Elena
+Mia
+Valentina
+Chloe
+Isabela
+Nadia
+Aria
+Luna
+Camila
+Aurora
+Bianca
+Serena
+Marco
+Leo
+Adrian
+Lucas
+Viktor
+Daniel
+Gabriel
+Ethan
+Julian
+Rafael
+Mateo
+Nico
+Enzo
+BEM-VINDO
+FALAR COM A ANFITRIÃ
+Direções e dicas
+FICHAS  •  BÔNUS
+COMPRAR FICHAS
+Caixa
+COQUETÉIS  •  PETISCOS  •  ENERGIA
+COMIDA E BEBIDA
+O bar
+BLACKJACK PAGA 3 PARA 2
+O CRUPIÊ PARA NO 17
+JOGAR BLACKJACK
+Mesa {0}  •  apostas de {1} a {2}
+JOGAR HOLD'EM
+Ultimate Texas Hold'em  •  ante de {0} a {1}
+JOGAR BACARÁ
+GRANDE  •  PEQUENO  •  TRINCAS
+JOGAR SIC BO
+Três dados  •  grande ou pequeno paga 1 para 1
+PASS LINE  •  CAMPO  •  ODDS
+JOGAR CRAPS
+A Pass Line paga 1 para 1  •  as odds pagam odds reais
+JOGAR VIDEO PÔQUER
+JOGAR CAÇA-NÍQUEL
+Jacks or Better  •  tabela completa 9/6
+LUCKY ACE 7s  •  PAGA ATÉ 2.500× A SUA APOSTA POR LINHA
+JACKS OR BETTER  •  ROYAL FLUSH PAGA 800×
+FAÇAM SUAS APOSTAS
+JOGAR ROLETA
+Roda europeia  •  número em cheio paga 35 para 1
+PEDIR UMA BEBIDA
+{0} traz para você
+A {0} abre no nível {1}. Você está no nível {2}: cada rodada que você joga conta.
+Esta mesa exige pelo menos {0} fichas.
+As mesas de blackjack estão logo em frente. Vá até uma e sente-se!
+Os caça-níqueis ficam na parede direita, o video pôquer na parede do fundo e a roleta lá atrás.
+O hold'em fica no canto do fundo à esquerda, depois do bar.
+O bacará fica logo à esquerda de quem entra.
+O sic bo fica no canto depois do caixa: três dados, grande ou pequeno.
+A mesa de craps fica à direita, na frente dos caça-níqueis. Aposte na Pass Line e role!
+O caixa fica aqui à sua direita, e o bar na parede esquerda.
+Cansado? Um lanche no bar enche sua energia.
+Toque em qualquer lugar do chão e você anda até lá. Toque numa mesa para sentar.
+Andorra
+Emirados Árabes Unidos
+Afeganistão
+Antígua e Barbuda
+Anguila
+Albânia
+Armênia
+Angola
+Antártida
+Argentina
+Samoa Americana
+Áustria
+Austrália
+Aruba
+Ilhas Aland
+Azerbaijão
+Bósnia e Herzegovina
+Barbados
+Bangladesh
+Bélgica
+Burquina Faso
+Bulgária
+Barein
+Burundi
+Benin
+São Bartolomeu
+Bermudas
+Brunei
+Bolívia
+Países Baixos Caribenhos
+Brasil
+Bahamas
+Butão
+Ilha Bouvet
+Botsuana
+Bielorrússia
+Belize
+Canadá
+Ilhas Cocos (Keeling)
+Congo - Kinshasa
+República Centro-Africana
+República do Congo
+Suíça
+Costa do Marfim
+Ilhas Cook
+Chile
+Camarões
+China
+Colômbia
+Costa Rica
+Cuba
+Cabo Verde
+Curaçao
+Ilha Christmas
+Chipre
+Tchéquia
+Alemanha
+Djibuti
+Dinamarca
+Dominica
+República Dominicana
+Argélia
+Equador
+Estônia
+Egito
+Saara Ocidental
+Eritreia
+Espanha
+Etiópia
+Finlândia
+Fiji
+Ilhas Malvinas
+Micronésia
+Ilhas Faroé
+França
+Gabão
+Reino Unido
+Granada
+Geórgia
+Guiana Francesa
+Guernsey
+Gana
+Gibraltar
+Groenlândia
+Gâmbia
+Guiné
+Guadalupe
+Guiné Equatorial
+Grécia
+Ilhas Geórgia do Sul e Sandwich do Sul
+Guatemala
+Guam
+Guiné-Bissau
+Guiana
+Hong Kong, RAE da China
+Ilhas Heard e McDonald
+Honduras
+Croácia
+Haiti
+Hungria
+Indonésia
+Irlanda
+Israel
+Ilha de Man
+Índia
+Território Britânico do Oceano Índico
+Iraque
+Irã
+Islândia
+Itália
+Jersey
+Jamaica
+Jordânia
+Japão
+Quênia
+Quirguistão
+Camboja
+Quiribati
+Comores
+São Cristóvão e Névis
+Coreia do Norte
+Coreia do Sul
+Kuwait
+Ilhas Cayman
+Cazaquistão
+Laos
+Líbano
+Santa Lúcia
+Liechtenstein
+Sri Lanka
+Libéria
+Lesoto
+Lituânia
+Luxemburgo
+Letônia
+Líbia
+Marrocos
+Mônaco
+Moldávia
+Montenegro
+São Martinho
+Madagascar
+Ilhas Marshall
+Macedônia do Norte
+Mali
+Mianmar (Birmânia)
+Mongólia
+Macau, RAE da China
+Ilhas Marianas do Norte
+Martinica
+Mauritânia
+Montserrat
+Malta
+Maurício
+Maldivas
+Malaui
+México
+Malásia
+Moçambique
+Namíbia
+Nova Caledônia
+Níger
+Ilha Norfolk
+Nigéria
+Nicarágua
+Países Baixos
+Noruega
+Nepal
+Nauru
+Niue
+Nova Zelândia
+Omã
+Panamá
+Peru
+Polinésia Francesa
+Papua-Nova Guiné
+Filipinas
+Paquistão
+Polônia
+São Pedro e Miquelão
+Ilhas Pitcairn
+Porto Rico
+Territórios palestinos
+Portugal
+Palau
+Paraguai
+Catar
+Reunião
+Romênia
+Sérvia
+Rússia
+Ruanda
+Arábia Saudita
+Ilhas Salomão
+Seicheles
+Sudão
+Suécia
+Singapura
+Santa Helena
+Eslovênia
+Svalbard e Jan Mayen
+Eslováquia
+Serra Leoa
+San Marino
+Senegal
+Somália
+Suriname
+Sudão do Sul
+São Tomé e Príncipe
+El Salvador
+Sint Maarten
+Síria
+Essuatíni
+Ilhas Turcas e Caicos
+Chade
+Territórios Franceses do Sul
+Togo
+Tailândia
+Tadjiquistão
+Tokelau
+Timor-Leste
+Turcomenistão
+Tunísia
+Tonga
+Turquia
+Trinidad e Tobago
+Tuvalu
+Taiwan
+Tanzânia
+Ucrânia
+Uganda
+Ilhas Menores Distantes dos EUA
+Estados Unidos
+Uruguai
+Uzbequistão
+Cidade do Vaticano
+São Vicente e Granadinas
+Venezuela
+Ilhas Virgens Britânicas
+Ilhas Virgens Americanas
+Vietnã
+Vanuatu
+Wallis e Futuna
+Samoa
+Kosovo
+Iêmen
+Mayotte
+África do Sul
+Zâmbia
+Zimbábue
+Inglês
+Africâner
+Amárico
+Árabe
+Azerbaijano
+Bielorrusso
+Búlgaro
+Bengali
+Bósnio
+Catalão
+Tcheco
+Dinamarquês
+Alemão
+Grego
+Espanhol
+Estoniano
+Basco
+Persa
+Finlandês
+Filipino
+Francês
+Irlandês
+Galego
+Guzerate
+Hauçá
+Hebraico
+Híndi
+Croata
+Francês (Haiti)
+Húngaro
+Armênio
+Indonésio
+Igbo
+Islandês
+Italiano
+Japonês
+Georgiano
+Cazaque
+Khmer
+Canarim
+Coreano
+Quirguiz
+Luxemburguês
+Laosiano
+Lituano
+Letão
+Malgaxe
+Macedônio
+Malaiala
+Mongol
+Marati
+Malaio
+Maltês
+Birmanês
+Bokmål norueguês
+Nepalês
+Holandês
+Panjabi
+Polonês
+Pashto
+Português (Brasil)
+Português (Portugal)
+Romanche
+Romeno
+Russo
+Quiniaruanda
+Cingalês
+Eslovaco
+Esloveno
+Somali
+Albanês
+Sérvio
+Sueco
+Suaíli
+Tâmil
+Télugo
+Tadjique
+Tailandês
+Turcomeno
+Turco
+Ucraniano
+Urdu
+Uzbeque
+Vietnamita
+Xhosa
+Iorubá
+Chinês (simplificado)
+Chinês (tradicional)
+Zulu
+Dom.
+Seg.
+Ter.
+Qua.
+Qui.
+Sex.
+Sáb.

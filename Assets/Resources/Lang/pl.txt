@@ -1,0 +1,1004 @@
+MAŁE
+DUŻE
+NIEPARZYSTE
+PARZYSTE
+DOWOLNA TRÓJKA
+Garść żetonów
+Stos żetonów
+Taca żetonów
+Stojak żetonów
+NAJPOPULARNIEJSZE
+Skarbiec żetonów
+Sejf high rollera
+NAJLEPSZA CENA
+Woda gazowana
+Espresso
+Napój energetyczny
+Club sandwich
+Zestaw z burgerem
+Kolacja ze stekiem
+PEŁNE DOŁADOWANIE
+Szczęśliwa passa
+Gorąca passa
+NAJWIĘCEJ SZCZĘŚCIA
+Stół brązowy
+Stół srebrny
+Stół złoty
+Stół diamentowy
+Stół do hold'em
+Podaj poprawny rok.
+Podaj poprawny miesiąc (1-12).
+Podaj poprawny dzień.
+Ta data jest w przyszłości.
+Witaj przy moim stole! Gotowy do gry?
+Miło cię widzieć. Siadaj!
+Cześć! Karty są świeże, ja też.
+Witaj! Niech ten wieczór będzie wspaniały.
+Postaw zakład, kiedy będziesz gotowy.
+Żetony na stół i zobaczmy karty.
+O co gramy?
+Ojej, duży zakład! Podoba mi się twój styl.
+To się nazywa zakład! Do dzieła!
+Dziś jesteś odważny, co?
+Wszystko?! Serce mi wali!
+Wszystko na jedno rozdanie. Bez strachu!
+Blackjack! Niesamowite!
+Dwadzieścia jeden, tak po prostu!
+Blackjack! Karty cię dziś kochają.
+Świetnie zagrane!
+Wygrana! Brawo.
+Idzie ci świetnie!
+Ta jest twoja.
+Co za wygrana! Wszyscy patrzą na ten stół!
+Ogromna! Jesteś dziś w formie!
+Blisko! Następna jest twoja.
+Tym razem kasyno miało szczęście.
+Nie przejmuj się, nadchodzi nowe rozdanie.
+Auć, o jedną kartę za dużo.
+Fura! Zdarza się najlepszym.
+Remis. Nikt nie przegrywa!
+Remis. Twoje żetony są bezpieczne.
+Mam furę! Masz szczęście.
+Za dużo dla mnie. Wygrywasz!
+Blackjack dla kasyna, przykro mi!
+Blackjack krupiera. Pech.
+Mam asa. Ubezpieczenie?
+Rozdzielamy! Dwie szanse na wygraną.
+Podwojenie. Odważny ruch!
+Podwój! Leci jedna karta.
+Nowy but, tasuję!
+Kończą się żetony? Kasjerka cię doładuje.
+Żetonów ubywa. Chcesz więcej?
+Koniec żetonów! Odwiedź kasę albo weź darmowe żetony.
+Twój stos jest pusty. Kasa jest tuż za tobą.
+Wyglądasz na wyczerpanego! Zjedz coś w barze.
+Brak energii? Bar się tobą zajmie.
+Nie spiesz się.
+Kiedy tylko zechcesz!
+Noc jest jeszcze młoda.
+Szczęście początkującego jest po twojej stronie!
+Talia jest dziś po twojej stronie!
+Szczęście początkującego się skończyło. Od teraz gra jest uczciwa!
+Witaj w kasynie! Twoje miejsce czeka.
+Dobry wieczór! Stoły są dziś gorące.
+Witaj z powrotem! Czujesz szczęście?
+Dotknij stołu, aby zacząć grać!
+Potrzebujesz żetonów? Dobrze trafiłeś.
+Większe stosy, większe bonusy!
+Głodny? Wybierz cokolwiek z menu.
+Przekąska utrzymuje energię!
+Witaj przy moim stole!
+Jesteś! Od razu zrobiło się jaśniej.
+Czuj się jak u siebie. Ten wieczór jest twój.
+Uwielbiam ten uśmiech. Szczęśliwy wieczór?
+Odpręż się, jesteś w dobrych rękach.
+Hej, ty! Liczyłam, że zajrzysz do mojego okienka.
+Zawsze miło zobaczyć znajomą twarz.
+Patrzcie, kto przyszedł! Dobrze się bawisz?
+Cześć, przystojniaku!
+Podoba mi się dziś twój styl.
+Hej, miło cię znowu widzieć!
+Udany wieczór? Zasługujesz na niego.
+Uważaj, mogę zacząć ci kibicować.
+Mój ulubiony gracz wrócił!
+Usiądź przy mnie, rozdam ci coś ładnego.
+Z tobą przy tym stole jest dużo weselej.
+Już wychodzisz? Noc jest młoda!
+No dalej, jeszcze jedno rozdanie. Mam dobre przeczucie!
+Nie możesz mnie teraz zostawić, dopiero zaczynamy!
+Ostatnia szansa! Następne rozdanie może być tym wielkim...
+Dobrze, dobrze. Zostawię ci ciepłe miejsce. Obiecujesz wrócić?
+Jeszcze bez serii? Zagraj dziś rundy ({2}), a zacznę liczyć.
+Nowy start! Rundy ({2}) i twój płomień zapłonie.
+Prowadzę małą listę tych, którzy przychodzą codziennie. Ciebie na niej nie ma... jeszcze.
+Dzień {1} czeka na ciebie. Zostało rund: {2}!
+Dni z rzędu: {0}... chyba nie przestaniesz teraz?
+Twój płomień jest dziś trochę chłodny. Rund do ogrzania: {2}.
+Liczę: dni {0}. Niech będzie {1}.
+Nie myśl, że nie zauważyłam. Rund do utrzymania serii: {2}!
+Dni z rzędu: {0}? Zaczynam myśleć, że ci się tu podoba.
+Seria na dziś bezpieczna. Teraz po prostu się popisujesz.
+Dzień {0} zaliczony. Jutro o tej samej porze?
+Dni: {0}! Pora rezerwować ci miejsce.
+Jest: pierwszy dzień twojej serii! Wróć jutro, będą dwa.
+Cały tydzień z rzędu! Naprawdę jestem pod wrażeniem.
+Trzydzieści dni! Praktycznie tu pracujesz.
+Sto dni. Wszystkim o tobie opowiadam.
+To już dni z rzędu: {0}! Spójrz na siebie.
+Seria uratowana: dzień {0}! Wiedziałam, że dasz radę.
+Dzień {0}! Założę się, że nie dotrwasz do {1}.
+Dni: {0}... dobra, chwalipięto.
+Zagraj 10 rozdań blackjacka
+Wygraj 5 rozdań blackjacka
+Zdobądź blackjacka
+Wygraj 500 żetonów w blackjacku
+Zakręć automatami 20 razy
+Wygraj 5 obrotów na automatach
+Wygraj 5× stawkę na automatach
+Zagraj 5 rund ruletki
+Wygraj 3 obroty ruletki
+Traf liczbę pełnym zakładem
+Zagraj 8 rozdań hold'em
+Wygraj 4 rozdania hold'em
+Zagraj 10 rozdań bakarata
+Wygraj 5 rozdań bakarata
+Zagraj 15 rozdań video pokera
+Zagraj 8 rund sic bo
+Wygraj 4 rundy sic bo
+Rzuć kośćmi 15 razy w crapsa
+Wygraj 4 rzuty w crapsa
+Zrób kolor lub lepiej w video pokerze
+Poker królewski
+Poker
+Kareta
+Full
+Kolor
+Strit
+Trójka
+Dwie pary
+Para
+Wysoka karta
+lokalizacja GPS
+sieć komórkowa
+połączenie z internetem
+ustawienia urządzenia
+kraj testowy
+niezweryfikowany (cena standardowa)
+nieznany
+1. tuzin
+2. tuzin
+3. tuzin
+2 do 1
+CZERWONE
+CZARNE
+Walety lub lepiej
+UCZCIWE CENY DLA TWOJEGO KRAJU
+Ceny w sklepie są dopasowane do gospodarki twojego kraju, aby gracze wszędzie płacili uczciwą cenę.
+Aby ustalić twój kraj, raz sprawdzamy twoją przybliżoną lokalizację. Jest dopasowywana do kraju na twoim urządzeniu i nigdzie nie jest wysyłana. Jeśli odmówisz, obowiązują ceny standardowe.
+DALEJ
+Opuścić kasyno?
+Twoje żetony i postępy są zapisane.
+WYJDŹ
+ZOSTAŃ
+Odblokowano: {0}
+Wczoraj zamrożenie uratowało twoją serię dni: {0}.
+Zamrożenia ({0}) uratowały twoją serię dni: {1}.
+Twoja seria dni ({0}) się skończyła. Zagraj dziś rundy ({1}), aby zacząć nową!
+MISJA WYKONANA
++{0} żetonów
+WSZYSTKIE MISJE WYKONANE!
+Dzienny bonus +{0} żetonów. Nowe misje jutro.
+POZIOM {0}!
+Kamień milowy! +{0} żetonów
+Wróć jutro, aby kontynuować
++1 zamrożenie serii
+SERIA DNI: {0}!
+Zakupy są niedostępne w tej wersji.
+Zakup się nie powiódł. Nic nie zostało pobrane.
+Dodano +{0} żetonów!
+{0}: rozdań {1} z {2}% szczęścia, po Szczęściu początkującego
+{0}: rozdań {1} z {2}% szczęścia!
+{0}: +{1}% energii
+Niedostępne na tym urządzeniu
+Filmy nie ładują się w tej sieci
+Wróć jutro
+Gotowe za {0} s
++{0} żetonów (dziś zostało {1})
++{0} darmowych żetonów!
++1 zamrożenie serii!
+Brak dostępnych filmów. Spróbuj za chwilę.
+BRĄZ
+SREBRO
+ZŁOTO
+DIAMENT
+Menu
+Widok
+Krzyżyk
+Kółko
+Kwadrat
+Trójkąt
+Sprawdzanie regionu...
+Niezweryfikowany ({0}): ceny standardowe
+{0} ({1}): ceny w {2}
+Przypomnienia
+Darmowe żetony gotowe i przypomnienia o serii
+Twoje darmowe żetony są gotowe
+{0} żetonów czeka na ciebie w Lucky Ace.
+Utrzymaj serię dni: {0}
+Zagraj dziś rundy ({0}), aby seria nie wyzerowała się o północy.
+BAKARAT
+Witaj przy bakaracie! Gracz, Bankier czy Remis?
+GRACZ
+REMIS
+BANKIER
+OSTATNIE WYNIKI
+G
+B
+R
+COFNIJ
+WYCZYŚĆ
+POWTÓRZ
+ROZDAJ
+Za mało żetonów na ten zakład.
+Osiągnięto maksimum stołu
+ŁĄCZNY ZAKŁAD  {0}
+Wybierz żeton, potem dotknij Gracz, Bankier lub Remis
+REMIS  {0}
+WYGRYWA GRACZ  {0} DO {1}
+WYGRYWA BANKIER  {0} DO {1}
+WYGRANA  +{0}
+ZWROT  {0}
+Tym razem bez wygranej
+Najpierw dokończ to rozdanie.
+Witaj! Szczęście początkującego jest dziś po twojej stronie. Postaw zakład!
+BLACKJACK PŁACI 3 DO 2   •   KRUPIER STOI NA WSZYSTKICH 17   •   UBEZPIECZENIE PŁACI 2 DO 1
+ZAKŁAD
+DOBIERZ
+STÓJ
+PODWÓJ
+ROZDZIEL
+UBEZPIECZ
+NIE, DZIĘKUJĘ
+ZAKŁAD {0}+
+Za mało żetonów
+Krupier pokazuje asa. Ubezpieczyć za {0}?
+Ubezpieczenie płaci {0}
+Krupier nie ma blackjacka. Ubezpieczenie przepadło.
+FURA
+KRUPIER MA FURĘ
+BLACKJACK!
+WYGRANA
+REMIS
+PRZEGRANA
+Szczęście początkującego się skończyło. Twoja Szczęśliwa passa zaczyna się teraz.
+Szczęście początkującego się skończyło. Od teraz standardowy blackjack.
+Twoja Szczęśliwa passa się skończyła. Wracamy do standardowego blackjacka.
+BRAK ŻETONÓW
+Obejrzyj krótki film za {0} darmowych żetonów albo odwiedź kasę.
+Odwiedź kasę, aby doładować żetony.
+DARMOWE ŻETONY
+KASA
+PÓŹNIEJ
+„{0}”
+JESZCZE JEDNO
+ODEJDŹ
+SZCZĘŚCIE POCZĄTKUJĄCEGO
+SZCZĘŚLIWA PASSA
+Bonus powitalny dla nowych graczy: przez pierwsze <b>{0} rozdań</b> but krupiera jest ułożony na twoją korzyść, więc wygrasz prawie każde rozdanie.
+Przez kolejne <b>{0} rozdań</b> przewaga stopniowo znika, a potem przy każdym stole jest standardowy, uczciwy blackjack z potasowanego buta 6 talii (blackjack płaci 3 do 2, krupier stoi na wszystkich 17).
+Przewaga teraz: <b><color=#7CFC9A>{0}%</color></b>   Pozostałe rozdania: <b>{1}</b>
+Przez następne <b>{0} rozdań blackjacka</b> ze stawką do <b>{1} żetonów</b> każda karta ma <b>{2}%</b> szans, że przyjdzie na twoją korzyść (ta sama przewaga co Szczęście początkującego).
+Przy dobrej grze to około <b>{0}%</b> wygranych rozdań, wobec około {1}% w standardowym blackjacku. Większe stawki to standardowy blackjack i nie zużywają rozdań. Gdy rozdania się skończą, każdy stół znów jest standardowym, uczciwym blackjackiem.
+ROZUMIEM
+CHCESZ ODZYSKAĆ SZCZĘŚCIE?
+Szczęście początkującego się skończyło: od teraz każdy stół to standardowy, uczciwy blackjack. Szczęśliwa passa na jakiś czas przywraca przewagę.
+CRAPS
+Witaj przy crapsie! Postaw na Pass Line i rzucaj.
+SZÓSTKA
+DZIEWIĄTKA
+POLE
+2 3 4 9 10 11 12  •  2 i 12 płacą podwójnie
+DOWOLNA 7
+DOWOLNY CRAPS
+DON'T PASS BAR
+1:1  •  12 to remis
+PASS LINE
+ODDS
+prawdziwe kursy
+WYŁ.
+WŁ
+Odds stawia się za Pass Line, gdy jest punkt.
+Odds wymagają zakładu na Pass Line.
+Twoje odds są na maksimum.
+Zakłady na linię stawia się przy pierwszym rzucie.
+NA STOLE  {0}
+Pierwszy rzut: postaw na Pass Line i rzucaj. 7 lub 11 wygrywają; 2, 3 lub 12 przegrywają. Zakłady Place zaczynają działać, gdy jest punkt.
+Punkt to {0}: wyrzuć go znowu przed 7. Odds za twoją Pass Line płacą prawdziwe kursy.
+RZUĆ
+Punkt to {0}.
+{0}! Punkt zdobyty. Wygrana!
+Siódemka. Nowy rzucający, nowy pierwszy rzut.
+{0}, naturalny! Pass Line wygrywa.
+{0}, craps. Linia przegrywa.
+Poczekaj, aż kości się zatrzymają.
+ODEJŚĆ OD STOŁU?
+Twój zakład na linię wciąż gra na punkt {0}. Jeśli teraz odejdziesz, przepadnie.
+CODZIENNIE
+CODZIENNA SERIA
+DNI Z RZĘDU
+DZIŚ
+OBEJRZYJ REKLAMĘ
+KUP
+ZAMROŻENIE SERII
+Zamrożenie utrzymuje twoją serię w dniu, w którym nie grasz. Możesz mieć ich do {0}.\n\nKupić jedno za {1} żetonów?
+Zamrożenie serii gotowe.
+Za mało żetonów na zamrożenie.
+ANULUJ
+CODZIENNY OBRÓT
+ZAKRĘĆ
+Szanse:
+{0}%
+Wygrywasz {0} żetonów!
+DZISIEJSZE MISJE
+Rekord: dni {0}
+Graj codziennie, aby zbudować serię
+Dzisiejszy cel osiągnięty! Do jutra.
+Dziś: {0} / {1} rund (dowolna gra)
+Zamrożenia serii: {0} / {1}
+Uratuj serię w dniu, który opuścisz. +1 co 7 dni.
+PEŁNE
+BRAK FILMU
+REKLAMA WKRÓTCE
+Bonus za serię: nagrody ×{0}
+Jeden darmowy obrót dziennie
+NASTĘPNY  {0}
+Wszystko zrobione! Bonus odebrany.
+Nowe misje o północy.
+Ukończ wszystkie trzy: +{0} żetonów bonusu
+HOLD'EM
+Witaj przy hold'em! Postaw ante i zobaczmy karty.
+ANTE
+BLIND
+GRAJ
+BLIND PŁACI
+Krupier kwalifikuje się z parą lub lepiej
+CZEKAJ
+PASUJ
+STAWIAJ {0}×
+Ante {0} + blind {0}. Zostaw jeszcze {1} na podbicie.
+Dotknij żetonów, aby ustawić ante. Blind jest taki sam.
+Czekasz czy stawiasz trzy lub cztery razy ante?
+Podbij teraz o 4× lub 3× ante albo czekaj i zobacz flop.
+Ostatnia szansa: postaw 1× ante albo pasuj i strać ante oraz blind.
+Postaw teraz 2× ante albo czekaj i zobacz dwie ostatnie karty.
+Oto flop.
+Turn i river.
+Zobaczmy, co mam.
+Krupier się nie kwalifikuje: ante wraca do ciebie.
+Spasowano. Następne rozdanie jest twoje.
+GRY
+Przeciągnij po lewej, aby iść  •  Przeciągnij po prawej, aby się rozglądać  •  Dotknij, aby pójść
+Tylko 18+  •  Żetony są dla zabawy: bez wartości pieniężnej, nigdy niewymienialne na pieniądze ani nagrody
+Otwieramy drzwi...
+Witaj! Twoje {0} żetonów powitalnych czeka. Stoły są na wprost!
++{0} darmowych żetonów! Kolejne za {1} godz.
+Darmowe żetony odnawiają się co {0} godz. Następne za {1}.
+{0} godz. {1} min
+{0} min {1} s
+UTRZYMAJ SERIĘ
+Chcesz przypomnienie w wieczory, kiedy jeszcze nie grałeś, i gdy darmowe żetony będą gotowe? Nigdy więcej niż to, a wyłączysz je w Ustawieniach.
+PRZYPOMNIJ MI
++{0} żetonów gotowe!
+Obejrzyj film: {0}
+Następne darmowe żetony za {0}
+BLACKJACK
+4 stoły  •  płaci 3 do 2
+Ultimate Texas Hold'em
+Gracz, Bankier lub Remis
+AUTOMATY
+Lucky Ace 7s  •  10 linii
+VIDEO POKER
+Jacks or Better
+SIC BO
+Trzy kości  •  duże lub małe
+Pass Line  •  Pole  •  Odds
+RULETKA
+Europejska z jednym zerem
+JESTEŚ WYCZERPANY
+Twój pasek energii jest pusty. Weź coś z baru, aby grać dalej, albo wróć później: energia powoli odnawia się, gdy cię nie ma.
+DO BARU
+WYBIERZ STÓŁ
+ZAKŁADY
+POZIOM {0}
+USIĄDŹ
+POTRZEBA {0}
+Osiągnij poziom {0}, aby tu grać. Masz poziom {1}.
+KASYNO
+DD
+MM
+RRRR
+DZIEŃ
+MIESIĄC
+ROK
+KIEDY SIĘ URODZIŁEŚ?
+Żetony służą wyłącznie rozrywce. Nie mają wartości pieniężnej i nigdy nie można ich wymienić na pieniądze ani nagrody.
+PRZYKRO NAM, NIE MOŻESZ GRAĆ
+{0} jest dostępne tylko dla dorosłych.
+WYJDŹ
+Zamknięcie za {0}...
+OPOWIEDZ NAM O SOBIE
+Dobierzemy do ciebie hostessy, krupierów i obsługę baru. Możesz to zmienić w każdej chwili w Ustawieniach.
+JESTEM MĘŻCZYZNĄ
+JESTEM KOBIETĄ
+WOLĘ NIE MÓWIĆ
+WEJDŹ DO KASYNA
+Twoja obsługa dziś wieczorem:
+Strona {0} z {1}
+JĘZYK
+AUTOMATYCZNY
+KRAJ
+Witaj! Proszę obstawiać.
+Limit stołu to {0} na obrót.
+Dotknij planszy, aby postawić żetony
+Koniec zakładów!
+ZIELONE
+zielone
+czerwone
+czarne
+Co za trafienie! Gratulacje!
+Wygrana! Wygrywasz {0}.
+{0} {1}. Wraca do ciebie {2}.
+Proszę obstawiać.
+Poczekaj, aż kulka się zatrzyma.
+USTAWIENIA
+OGÓLNE
+GRAFIKA
+DŹWIĘK
+DOTYK
+MYSZ
+KONTROLER
+WIBRACJE
+18+ • Żetony nie mają wartości pieniężnej • Czcionki: Bebas Neue, Poppins, Noto (SIL OFL) • Granice: Natural Earth • Dane o cenach: Bank Światowy
+OBSŁUGA KASYNA
+KOBIETY
+MĘŻCZYŹNI
+MIESZANA
+PRZYPOMNIENIA
+Gotowe darmowe żetony i wieczorne przypomnienie, zanim seria się skończy.
+SPRAWDŹ PONOWNIE
+REGION CEN
+Najszybciej: kasyno takie, jak namalowane, nic więcej.
+Wypolerowane podłogi, drewno i złoto odbijają salę.
+Wygląd filmowy: korekcja barw, ziarno, poświata, smugi światła, żywa skóra.
+Obiektyw kinowy: ostrość podąża za wzrokiem, smugi na światłach, kurz w promieniach.
+JAKOŚĆ
+NISKA
+ŚREDNIA
+WYSOKA
+ULTRA
+ROZDZIELCZOŚĆ
+Niższa jest bardziej miękka, ale telefon mniej się grzeje i oszczędza baterię.
+TRYB EKRANU
+PEŁNY EKRAN
+W OKNIE
+WYGŁADZANIE KRAWĘDZI
+Wygładza poszarpane krawędzie w kasynie.
+LICZBA KLATEK
+{0} FPS
+30 FPS oszczędza baterię i nie przegrzewa starszych telefonów.
+V-SYNC
+POLE WIDZENIA
+POKAŻ FPS
+GŁOŚNOŚĆ OGÓLNA
+MUZYKA
+EFEKTY DŹWIĘKOWE
+GŁOSY OBSŁUGI
+Szmer obsługi podczas rozmowy.
+WYCISZ W TLE
+Wycisza kasyno, gdy jesteś w innym oknie.
+CZUŁOŚĆ WIDOKU
+Jak szybko przeciąganie obraca widok.
+Jak szybko przeciąganie myszą obraca widok.
+ODWRÓĆ WIDOK LEWO / PRAWO
+ODWRÓĆ WIDOK GÓRA / DÓŁ
+UKŁAD PRZYCISKÓW
+AUTO
+ZAMIEŃ MENU / WIDOK
+CZUŁOŚĆ GAŁKI
+Jak szybko prawa gałka obraca widok.
+ODWRÓĆ GAŁKĘ LEWO / PRAWO
+ODWRÓĆ GAŁKĘ GÓRA / DÓŁ
+PODPOWIEDZI KONTROLERA
+Pokazuje, co robi każdy przycisk, gdy grasz na kontrolerze.
+WIBRACJE NA
+TELEFON
+OBA
+Auto: kontroler, gdy jest podłączony, w przeciwnym razie telefon.
+WIBRACJE TELEFONU
+SIŁA W TELEFONIE
+WIBRACJE KONTROLERA
+SIŁA W KONTROLERZE
+AUTOMATYCZNY ({0})
+{0} otwiera Ustawienia, {1} otwiera Codziennie.
+Brak podłączonego kontrolera.
+Podłączono: {0}. Pokazuję przyciski {1} (A po prawej zatwierdza).
+Podłączono: {0}. Pokazuję przyciski {1}.
+BAR
+SZCZĘŚCIE
+Żetony, szczęście i jedzenie to wirtualne przedmioty wyłącznie dla rozrywki: bez wartości pieniężnej, niewymienialne na pieniądze ani nagrody.
+Każda karta ma taką szansę, że przyjdzie na twoją korzyść, przy zakładach w blackjacku do {0} żetonów (wyższe zakłady są standardowe i nie zużywają rozdań). Zaczyna się po Szczęściu początkującego; mocniejsze pakiety są używane jako pierwsze.
+Zezwól na dostęp do lokalizacji, aby otrzymać cenę dla swojego kraju
+Zakupy są niedostępne w tej wersji gry.
+SKLEP TESTOWY (bez prawdziwych pieniędzy)
+energia
++{0}% ŻETONÓW
+rozdań: {0}
+wygrywa około {0}% z nich
+Witaj przy sic bo! Duże, małe czy coś odważniejszego?
+Limit stołu to {0} na rzut.
+POTRZĄŚNIJ
+TRÓJKA {0}!
+LUCKY ACE 7s
+ŁĄCZNY ZAKŁAD
+TABELA WYPŁAT
+POWODZENIA!
+Do zakręcenia potrzeba co najmniej 10 żetonów.
+WEŹ ŻETONY
+Zakład obniżony do kwoty, którą możesz pokryć.
+MEGA WYGRANA!
+WIELKA WYGRANA!
+ZWROT {0}
+BEZ WYGRANEJ
+LINIA {0}: {1} × {2} = {3}
+GWIAZDY ×{0} = {1}
+Wiśnia
+Cytryna
+Pomarańcza
+Śliwka
+Dzwonek
+Bar
+Siódemka
+Diament
+As
+Gwiazda
+GWIAZDY płacą wszędzie: 5 = {0}× zakład, 4 = {1}× zakład, 3 = {2}× zakład.
+AS jest dżokerem: zastępuje każdy symbol oprócz gwiazdy.
+Wypłaty z linii to wielokrotności zakładu na linię (łączny zakład ÷ 10), od lewej do prawej od pierwszego bębna.
+ZWROT: {0}% w długim okresie. Każdy obrót jest niezależny i losowy.
+TRZYMANA
+Rozdaj, zatrzymaj wybrane karty, wymień raz.
+TRZYMAJ
+PODPOWIEDŹ
+WYMIEŃ
+Dotknij kart, aby je zatrzymać, potem wymień.
+Chodź
+Rozglądaj się
+Przyciski
+Ustawienia
+Codziennie
+Dostosuj
+Ruch
+Wybierz
+Zamknij
+Wstecz
+WYCZERPANY
+SZCZĘŚCIE POCZĄTKUJĄCEGO {0}%
+POZOSTAŁO ROZDAŃ: {0}
+SZCZĘŚLIWA PASSA {0}%
+ROZDAŃ: {0}  •  ZAKŁADY DO {1}
+POZIOM
+Zofia
+Elena
+Mia
+Walentyna
+Chloe
+Izabela
+Nadia
+Aria
+Luna
+Kamila
+Aurora
+Bianka
+Serena
+Marco
+Leo
+Adrian
+Łukasz
+Wiktor
+Daniel
+Gabriel
+Ethan
+Julian
+Rafał
+Mateo
+Nico
+Enzo
+WITAMY
+POROZMAWIAJ Z HOSTESSĄ
+Wskazówki i porady
+ŻETONY  •  BONUSY
+KUP ŻETONY
+Kasa
+KOKTAJLE  •  PRZEKĄSKI  •  ENERGIA
+JEDZENIE I NAPOJE
+Bar
+BLACKJACK PŁACI 3 DO 2
+KRUPIER STOI NA 17
+ZAGRAJ W BLACKJACKA
+Stół {0}  •  zakłady od {1} do {2}
+ZAGRAJ W HOLD'EM
+Ultimate Texas Hold'em  •  ante od {0} do {1}
+ZAGRAJ W BAKARATA
+DUŻE  •  MAŁE  •  TRÓJKI
+ZAGRAJ W SIC BO
+Trzy kości  •  duże lub małe płaci 1 do 1
+PASS LINE  •  POLE  •  ODDS
+ZAGRAJ W CRAPSA
+Pass Line płaci 1 do 1  •  odds płacą prawdziwe kursy
+ZAGRAJ W VIDEO POKERA
+ZAGRAJ NA AUTOMATACH
+Jacks or Better  •  pełna tabela 9/6
+LUCKY ACE 7s  •  WYPŁATY DO 2500× ZAKŁADU NA LINIĘ
+JACKS OR BETTER  •  POKER KRÓLEWSKI PŁACI 800×
+PROSZĘ OBSTAWIAĆ
+ZAGRAJ W RULETKĘ
+Koło europejskie  •  liczba pełna płaci 35 do 1
+ZAMÓW DRINKA
+{0} go przyniesie
+{0} otwiera się na poziomie {1}. Masz poziom {2}: liczy się każda zagrana runda.
+Ten stół wymaga co najmniej {0} żetonów.
+Stoły do blackjacka są na wprost. Podejdź do jednego i usiądź!
+Automaty stoją przy prawej ścianie, video poker przy tylnej, a ruletka w głębi.
+Hold'em jest w lewym tylnym rogu, za barem.
+Bakarat jest zaraz po lewej przy wejściu.
+Sic bo jest w rogu za kasą: trzy kości, duże lub małe.
+Stół do crapsa jest po prawej, przed automatami. Postaw na Pass Line i rzucaj!
+Kasa jest tu, po twojej prawej, a bar przy lewej ścianie.
+Zmęczony? Przekąska w barze napełni cię energią.
+Dotknij dowolnego miejsca na podłodze, a tam pójdziesz. Dotknij stołu, aby usiąść.
+Andora
+Zjednoczone Emiraty Arabskie
+Afganistan
+Antigua i Barbuda
+Anguilla
+Albania
+Armenia
+Angola
+Antarktyda
+Argentyna
+Samoa Amerykańskie
+Austria
+Australia
+Aruba
+Wyspy Alandzkie
+Azerbejdżan
+Bośnia i Hercegowina
+Barbados
+Bangladesz
+Belgia
+Burkina Faso
+Bułgaria
+Bahrajn
+Burundi
+Benin
+Saint-Barthélemy
+Bermudy
+Brunei
+Boliwia
+Niderlandy Karaibskie
+Brazylia
+Bahamy
+Bhutan
+Wyspa Bouveta
+Botswana
+Białoruś
+Belize
+Kanada
+Wyspy Kokosowe
+Demokratyczna Republika Konga
+Republika Środkowoafrykańska
+Kongo
+Szwajcaria
+Côte d’Ivoire
+Wyspy Cooka
+Chile
+Kamerun
+Chiny
+Kolumbia
+Kostaryka
+Kuba
+Republika Zielonego Przylądka
+Curaçao
+Wyspa Bożego Narodzenia
+Cypr
+Czechy
+Niemcy
+Dżibuti
+Dania
+Dominika
+Dominikana
+Algieria
+Ekwador
+Estonia
+Egipt
+Sahara Zachodnia
+Erytrea
+Hiszpania
+Etiopia
+Finlandia
+Fidżi
+Falklandy
+Mikronezja
+Wyspy Owcze
+Francja
+Gabon
+Wielka Brytania
+Grenada
+Gruzja
+Gujana Francuska
+Guernsey
+Ghana
+Gibraltar
+Grenlandia
+Gambia
+Gwinea
+Gwadelupa
+Gwinea Równikowa
+Grecja
+Georgia Południowa i Sandwich Południowy
+Gwatemala
+Guam
+Gwinea Bissau
+Gujana
+SRA Hongkong (Chiny)
+Wyspy Heard i McDonalda
+Honduras
+Chorwacja
+Haiti
+Węgry
+Indonezja
+Irlandia
+Izrael
+Wyspa Man
+Indie
+Brytyjskie Terytorium Oceanu Indyjskiego
+Irak
+Iran
+Islandia
+Włochy
+Jersey
+Jamajka
+Jordania
+Japonia
+Kenia
+Kirgistan
+Kambodża
+Kiribati
+Komory
+Saint Kitts i Nevis
+Korea Północna
+Korea Południowa
+Kuwejt
+Kajmany
+Kazachstan
+Laos
+Liban
+Saint Lucia
+Liechtenstein
+Sri Lanka
+Liberia
+Lesotho
+Litwa
+Luksemburg
+Łotwa
+Libia
+Maroko
+Monako
+Mołdawia
+Czarnogóra
+Saint-Martin
+Madagaskar
+Wyspy Marshalla
+Macedonia Północna
+Mali
+Mjanma (Birma)
+Mongolia
+SRA Makau (Chiny)
+Mariany Północne
+Martynika
+Mauretania
+Montserrat
+Malta
+Mauritius
+Malediwy
+Malawi
+Meksyk
+Malezja
+Mozambik
+Namibia
+Nowa Kaledonia
+Niger
+Norfolk
+Nigeria
+Nikaragua
+Holandia
+Norwegia
+Nepal
+Nauru
+Niue
+Nowa Zelandia
+Oman
+Panama
+Peru
+Polinezja Francuska
+Papua-Nowa Gwinea
+Filipiny
+Pakistan
+Polska
+Saint-Pierre i Miquelon
+Pitcairn
+Portoryko
+Terytoria Palestyńskie
+Portugalia
+Palau
+Paragwaj
+Katar
+Reunion
+Rumunia
+Serbia
+Rosja
+Rwanda
+Arabia Saudyjska
+Wyspy Salomona
+Seszele
+Sudan
+Szwecja
+Singapur
+Wyspa Świętej Heleny
+Słowenia
+Svalbard i Jan Mayen
+Słowacja
+Sierra Leone
+San Marino
+Senegal
+Somalia
+Surinam
+Sudan Południowy
+Wyspy Świętego Tomasza i Książęca
+Salwador
+Sint Maarten
+Syria
+Eswatini
+Turks i Caicos
+Czad
+Francuskie Terytoria Południowe i Antarktyczne
+Togo
+Tajlandia
+Tadżykistan
+Tokelau
+Timor Wschodni
+Turkmenistan
+Tunezja
+Tonga
+Turcja
+Trynidad i Tobago
+Tuvalu
+Tajwan
+Tanzania
+Ukraina
+Uganda
+Dalekie Wyspy Mniejsze Stanów Zjednoczonych
+Stany Zjednoczone
+Urugwaj
+Uzbekistan
+Watykan
+Saint Vincent i Grenadyny
+Wenezuela
+Brytyjskie Wyspy Dziewicze
+Wyspy Dziewicze Stanów Zjednoczonych
+Wietnam
+Vanuatu
+Wallis i Futuna
+Samoa
+Kosowo
+Jemen
+Majotta
+Republika Południowej Afryki
+Zambia
+Zimbabwe
+Angielski
+Afrikaans
+Amharski
+Arabski
+Azerbejdżański
+Białoruski
+Bułgarski
+Bengalski
+Bośniacki
+Kataloński
+Czeski
+Duński
+Niemiecki
+Grecki
+Hiszpański
+Estoński
+Baskijski
+Perski
+Fiński
+Filipiński
+Francuski
+Irlandzki
+Galicyjski
+Gudżarati
+Hausa
+Hebrajski
+Hindi
+Chorwacki
+Francuski (Haiti)
+Węgierski
+Ormiański
+Indonezyjski
+Igbo
+Islandzki
+Włoski
+Japoński
+Gruziński
+Kazachski
+Khmerski
+Kannada
+Koreański
+Kirgiski
+Luksemburski
+Laotański
+Litewski
+Łotewski
+Malgaski
+Macedoński
+Malajalam
+Mongolski
+Marathi
+Malajski
+Maltański
+Birmański
+Norweski (bokmål)
+Nepalski
+Niderlandzki
+Pendżabski
+Polski
+Paszto
+Portugalski (Brazylia)
+Portugalski (Portugalia)
+Retoromański
+Rumuński
+Rosyjski
+Kinya-ruanda
+Syngaleski
+Słowacki
+Słoweński
+Somalijski
+Albański
+Serbski
+Szwedzki
+Suahili
+Tamilski
+Telugu
+Tadżycki
+Tajski
+Turkmeński
+Turecki
+Ukraiński
+Urdu
+Uzbecki
+Wietnamski
+Khosa
+Joruba
+Chiński (uproszczone)
+Chiński (tradycyjne)
+Zulu
+Niedz.
+Pon.
+Wt.
+Śr.
+Czw.
+Pt.
+Sob.

@@ -1,0 +1,1004 @@
+LITEN
+STOR
+ODDE
+PARTALL
+HVILKEN SOM HELST TRIPPEL
+En neve sjetonger
+En stabel sjetonger
+Et brett sjetonger
+Et stativ sjetonger
+MEST POPULÆR
+Et hvelv sjetonger
+High roller-safe
+BESTE VERDI
+Kullsyrevann
+Espresso
+Energidrikk
+Clubsandwich
+Burgermeny
+Biffmiddag
+FULL PÅFYLLING
+Lykkerekke
+Het rekke
+MEST FLAKS
+Bronsebord
+Sølvbord
+Gullbord
+Diamantbord
+Hold'em-bord
+Skriv inn et gyldig år.
+Skriv inn en gyldig måned (1-12).
+Skriv inn en gyldig dag.
+Den datoen er i fremtiden.
+Velkommen til bordet mitt! Klar til å spille?
+Godt å se deg. Sett deg!
+Hei! Kortene er ferske, og det er jeg også.
+Velkommen! La oss gjøre dette til en god kveld.
+Legg innsatsen når du er klar.
+Sjetonger på bordet, så ser vi på kortene.
+Hva spiller vi om?
+Oi, en stor innsats! Jeg liker stilen din.
+Det kaller jeg en innsats. Kjør på!
+Modig i kveld, hva?
+Alt?! Hjertet mitt hamrer!
+Alt på én hånd. Fryktløs!
+Blackjack! Utrolig!
+Tjueen, bare sånn!
+Blackjack! Kortene elsker deg i kveld.
+Godt spilt!
+Gevinst! Bra jobbet.
+Du er i siget!
+Den er din.
+For en gevinst! Alle ser på dette bordet!
+Enormt! Du er on fire i kveld!
+Så nære! Den neste er din.
+Huset hadde flaks den gangen.
+Rist det av deg, en ny hånd er på vei.
+Au, ett kort for mye.
+Bust! Det skjer med de beste.
+Uavgjort. Ingen taper!
+Push. Sjetongene dine er trygge.
+Jeg gikk bust! Flaks for deg.
+For mye for meg. Du vinner!
+Blackjack til huset, beklager!
+Dealeren har blackjack. Uflaks.
+Jeg viser et ess. Forsikring?
+Vi splitter! To sjanser til å vinne.
+Dobling. Modig trekk!
+Doble! Ett kort på vei.
+Ny sko, jeg stokker!
+Begynner det å bli lite? Kassen fyller på for deg.
+Sjetongene begynner å ta slutt. Vil du hente flere?
+Tom for sjetonger! Gå til kassen eller hent gratis sjetonger.
+Stabelen din er tom. Kassen er rett bak deg.
+Du ser utslitt ut! Ta en matbit i baren.
+Går du på tomgang? Baren ordner det.
+Ta den tiden du trenger.
+Når du er klar!
+Kvelden er ung.
+Nybegynnerflaksen er på din side!
+Kortstokken er på din side i kveld!
+Nybegynnerflaksen er over. Herfra er det et rettferdig spill!
+Velkommen til kasinoet! Plassen din venter.
+God kveld! Bordene er hete i kveld.
+Velkommen tilbake! Føler du deg heldig?
+Trykk på et bord for å begynne å spille!
+Trenger du flere sjetonger? Du har kommet til riktig luke.
+Større stabler, større bonuser!
+Sulten? Velg hva du vil fra menyen.
+Litt mat holder energien oppe!
+Velkommen til bordet mitt!
+Der er du! Det føles lysere her allerede.
+Føl deg som hjemme. I kveld handler alt om deg.
+Jeg elsker det smilet. Heldig kveld?
+Slapp av, du er i gode hender her.
+Hei du! Jeg håpet du ville stikke innom luken min.
+Alltid hyggelig å se et vennlig ansikt.
+Se hvem det er! Har du det gøy der ute?
+Hei der, kjekken!
+Jeg liker stilen din i kveld.
+Hei, hyggelig å se deg igjen!
+Har du en god kveld? Det fortjener du.
+Pass deg, jeg kan begynne å heie på deg.
+Favorittspilleren min er tilbake!
+Sett deg hos meg, så deler jeg ut noe fint.
+Du gjør dette bordet mye morsommere.
+Går du allerede? Kvelden er ung!
+Kom igjen, bare én hånd til. Jeg har en god følelse for denne!
+Du kan ikke forlate meg nå, vi har jo så vidt begynt!
+Siste sjanse! Den neste hånden kan bli den store...
+Ok, ok. Jeg holder plassen din varm. Lover du å komme tilbake?
+Ingen rekke ennå? Spill {2} runder i dag, så begynner jeg å telle.
+Ny start! {2} runder, og flammen din er tent.
+Jeg har en liten liste over hvem som dukker opp hver dag. Du står ikke på den... ennå.
+Dag {1} venter på deg. Bare {2} runder igjen!
+{0} dager på rad... du har vel ikke tenkt å stoppe nå?
+Flammen din ser litt kald ut i dag. {2} runder burde varme den opp.
+Jeg har telt: {0} dager. La oss gjøre det til {1}.
+Ikke tro at jeg ikke la merke til det. {2} runder igjen for å holde rekken!
+{0} dager på rad? Jeg begynner å tro at du trives her.
+Rekken din er trygg for i dag. Nå viser du deg bare.
+Dag {0}, ferdig. Samme tid i morgen?
+{0} dager! Nå burde jeg holde av en plass til deg.
+Der er den: dag én av rekken din! Kom tilbake i morgen, så blir det to.
+En hel uke på rad! Jeg er virkelig imponert.
+Tretti dager! Du jobber nesten her nå.
+Hundre dager. Jeg forteller alle om deg.
+Det er {0} dager på rad! Se på deg.
+Rekke reddet: dag {0}! Jeg visste at du ville klare det.
+Dag {0}! Vedder på at du ikke klarer {1}.
+{0} dager... ok, din viktigper.
+Spill 10 hender blackjack
+Vinn 5 hender blackjack
+Få en blackjack
+Vinn 500 sjetonger i blackjack
+Spinn spilleautomaten 20 ganger
+Vinn 5 spinn på spilleautomaten
+Vinn 5× innsatsen på spilleautomaten
+Spill 5 runder rulett
+Vinn 3 rulettspinn
+Treff et tall rett
+Spill 8 hender hold'em
+Vinn 4 hender hold'em
+Spill 10 hender baccarat
+Vinn 5 hender baccarat
+Spill 15 hender videopoker
+Spill 8 runder sic bo
+Vinn 4 runder sic bo
+Kast terningene 15 ganger i craps
+Vinn 4 kast i craps
+Få flush eller bedre i videopoker
+Royal flush
+Straight flush
+Fire like
+Hus
+Flush
+Straight
+Tre like
+To par
+Ett par
+Høyt kort
+GPS-posisjon
+mobilnett
+internettilkobling
+enhetsinnstillinger
+testland
+ikke bekreftet (standardpris)
+ukjent
+1. 12
+2. 12
+3. 12
+2 til 1
+RØDT
+SVART
+Knekter eller bedre
+RETTFERDIGE PRISER FOR LANDET DITT
+Prisene i butikken er tilpasset økonomien i landet ditt, slik at spillere overalt betaler en rettferdig pris.
+For å finne landet ditt sjekker vi din omtrentlige posisjon én gang. Den matches mot et land på enheten din og sendes aldri noe sted. Hvis du takker nei, gjelder standardpriser.
+FORTSETT
+Forlate kasinoet?
+Sjetongene og fremgangen din er lagret.
+AVSLUTT
+BLI
+{0} låst opp
+En rekkefrys reddet rekken din på {0} dager i går.
+{0} rekkefryser reddet rekken din på {1} dager.
+Rekken din på {0} dager er over. Spill {1} runder i dag for å starte en ny!
+OPPDRAG FULLFØRT
++{0} sjetonger
+ALLE OPPDRAG FULLFØRT!
+Daglig bonus +{0} sjetonger. Nye oppdrag i morgen.
+NIVÅ {0}!
+Milepæl! +{0} sjetonger
+Kom tilbake i morgen for å fortsette
++1 rekkefrys
+{0} DAGER PÅ RAD!
+Kjøp er ikke tilgjengelig i denne versjonen.
+Kjøpet mislyktes. Du har ikke blitt belastet.
++{0} sjetonger lagt til!
+{0}: {1} hender med {2} % flaks, etter nybegynnerflaksen
+{0}: {1} hender med {2} % flaks!
+{0}: +{1} % energi
+Ikke tilgjengelig på denne enheten
+Videoer kan ikke lastes inn på dette nettverket
+Kom tilbake i morgen
+Klar om {0} s
++{0} sjetonger ({1} igjen i dag)
++{0} gratis sjetonger!
++1 rekkefrys!
+Ingen video tilgjengelig akkurat nå. Prøv igjen om litt.
+BRONSE
+SØLV
+GULL
+DIAMANT
+Meny
+Visning
+Kryss
+Sirkel
+Firkant
+Trekant
+Sjekker regionen din...
+Ikke bekreftet ({0}): standardpriser
+{0} ({1}): priser i {2}
+Påminnelser
+Gratis sjetonger klare og påminnelser om rekken
+Gratis sjetonger er klare
+{0} sjetonger venter på deg hos Lucky Ace.
+Behold rekken din på {0} dager
+Spill {0} runder i dag, så den ikke nullstilles ved midnatt.
+BACCARAT
+Velkommen til baccarat! Spiller, Bank eller Uavgjort?
+SPILLER
+UAVGJORT
+BANK
+SISTE RESULTATER
+S
+B
+U
+ANGRE
+FJERN
+SAMME IGJEN
+DEL UT
+Ikke nok sjetonger til den innsatsen.
+Bordets maksimum er nådd
+TOTAL INNSATS  {0}
+Velg en sjetong og trykk på Spiller, Bank eller Uavgjort
+UAVGJORT  {0}
+SPILLEREN VINNER  {0} MOT {1}
+BANKEN VINNER  {0} MOT {1}
+GEVINST  +{0}
+TILBAKEBETALT  {0}
+Ingen gevinst denne gangen
+Spill ferdig denne hånden først.
+Velkommen! Nybegynnerflaksen er på din side i kveld. Legg en innsats!
+BLACKJACK BETALER 3 TIL 2   •   DEALEREN STÅR PÅ ALLE 17   •   FORSIKRING BETALER 2 TIL 1
+INNSATS
+KORT
+STÅ
+DOBLE
+SPLITT
+FORSIKRE
+NEI TAKK
+INNSATS {0}+
+Ikke nok sjetonger
+Dealeren viser et ess. Forsikre for {0}?
+Forsikringen betaler {0}
+Ingen blackjack til dealeren. Forsikringen er tapt.
+BUST
+DEALER BUST
+BLACKJACK!
+GEVINST
+PUSH
+TAP
+Nybegynnerflaksen er over. Lykkerekken din starter nå.
+Nybegynnerflaksen er over. Fra nå av er det vanlig blackjack.
+Lykkerekken din er over. Tilbake til vanlig blackjack.
+TOM FOR SJETONGER
+Se en kort video for {0} gratis sjetonger, eller gå til kassen.
+Gå til kassen for å fylle på sjetonger.
+GRATIS SJETONGER
+KASSE
+SENERE
+«{0}»
+ÉN HÅND TIL
+GÅ
+NYBEGYNNERFLAKS
+LYKKEREKKE
+Velkomstbonus for nye spillere: i dine første <b>{0} hender</b> er dealerens sko stokket til din fordel, så du vinner nesten hver hånd.
+I løpet av de neste <b>{0} hendene</b> avtar fordelen, og etter det er hvert bord vanlig, rettferdig blackjack fra en stokket sko med 6 kortstokker (blackjack betaler 3 til 2, dealeren står på alle 17).
+Fordel akkurat nå: <b><color=#7CFC9A>{0} %</color></b>   Hender igjen: <b>{1}</b>
+I dine neste <b>{0} blackjackhender</b> med en innsats på opptil <b>{1} sjetonger</b> har hvert kort <b>{2} %</b> sjanse for å bli delt ut til din fordel (samme fordel som nybegynnerflaksen).
+Med godt spill vinner det omtrent <b>{0} %</b> av hendene, mot omtrent {1} % i vanlig blackjack. Større innsatser er vanlig blackjack og bruker ikke opp hender. Når hendene er brukt opp, er hvert bord vanlig, rettferdig blackjack igjen.
+SKJØNNER
+VIL DU HA FLAKSEN TILBAKE?
+Nybegynnerflaksen er over: herfra er hvert bord vanlig, rettferdig blackjack. En Lykkerekke gir deg fordelen tilbake en stund.
+CRAPS
+Velkommen til craps! Sats på Pass Line og kast.
+SEKS
+NI
+FIELD
+2 3 4 9 10 11 12  •  2 og 12 betaler dobbelt
+HVILKEN SOM HELST 7
+HVILKEN SOM HELST CRAPS
+DON'T PASS BAR
+1:1  •  12 er uavgjort
+PASS LINE
+ODDS
+ekte odds
+AV
+PÅ
+Odds legges bak Pass Line når det finnes et point.
+Odds krever en innsats på Pass Line.
+Oddsen din er på maks.
+Line-innsatser legges på come-out-kastet.
+PÅ BORDET  {0}
+Come-out-kast: sats på Pass Line, så kast. 7 eller 11 vinner, 2, 3 eller 12 taper. Place-innsatser begynner å gjelde når det finnes et point.
+Pointet er {0}: kast det igjen før en 7-er. Odds bak Pass Line betaler ekte odds.
+KAST
+Pointet er {0}.
+{0}! Pointet er truffet. Gevinst!
+Seven out. Ny kaster, nytt come-out.
+{0}, en natural! Pass Line vinner.
+{0}, craps. Linjen taper.
+Vent til terningene ligger stille.
+FORLATE BORDET?
+Line-innsatsen din spiller fortsatt på pointet {0}. Går du nå, er den tapt.
+DAGLIG
+DAGLIG REKKE
+DAGER PÅ RAD
+I DAG
+SE REKLAME
+KJØP
+REKKEFRYS
+En rekkefrys holder rekken din i live på en dag du ikke spiller. Du kan ha {0}.\n\nKjøpe én for {1} sjetonger?
+Rekkefrys klar.
+Ikke nok sjetonger til en frys.
+AVBRYT
+DAGLIG SPINN
+SPINN
+Sjanser:
+{0} %
+Du vant {0} sjetonger!
+DAGENS OPPDRAG
+Rekord: {0} dager
+Spill hver dag for å bygge en rekke
+Dagens mål er nådd! Vi ses i morgen.
+I dag: {0} / {1} runder (hvilket som helst spill)
+Rekkefryser: {0} / {1}
+Redd rekken din på en dag du går glipp av. +1 hver 7. dag.
+FULL
+INGEN VIDEO
+REKLAME SNART
+Rekkebonus: premier ×{0}
+Ett gratis spinn hver dag
+NESTE  {0}
+Alt ferdig! Bonus hentet.
+Nye oppdrag ved midnatt.
+Fullfør alle tre: +{0} bonussjetonger
+HOLD'EM
+Velkommen til hold'em! Legg ante, så ser vi kort.
+ANTE
+BLIND
+SPILL
+BLIND BETALER
+Dealeren kvalifiserer med et par eller bedre
+CHECK
+FOLD
+SATS {0}×
+Ante {0} + blind {0}. Hold av {1} til for høyningen.
+Trykk på sjetonger for å velge ante. Blind er lik.
+Check, eller sats tre eller fire ganger ante?
+Høy nå med 4× eller 3× ante, eller check og se floppen.
+Siste sjanse: sats 1× ante, eller fold og tap ante og blind.
+Sats 2× ante nå, eller check og se de to siste kortene.
+Her er floppen.
+Turn og river.
+La oss se hva jeg har.
+Dealeren kvalifiserer ikke: anten din kommer tilbake.
+Du foldet. Neste hånd er din.
+SPILL
+Dra på venstre side for å gå  •  Dra på høyre side for å se deg rundt  •  Trykk for å gå dit
+Kun 18+  •  Sjetongene er for moro skyld: ingen pengeverdi, kan aldri veksles inn i penger eller premier
+Åpner dørene...
+Velkommen! Dine {0} velkomstsjetonger er klare. Bordene er rett frem!
++{0} gratis sjetonger! Flere om {1} timer.
+Gratis sjetonger fylles på hver {0}. time. Neste om {1}.
+{0} t {1} min
+{0} min {1} s
+BEHOLD REKKEN DIN
+Vil du ha en påminnelse de kveldene du ikke har spilt ennå, og når gratis sjetonger er klare? Aldri mer enn det, og du kan slå det av i Innstillinger.
+MINN MEG PÅ DET
++{0} sjetonger klare!
+Se en video: {0}
+Neste gratis sjetonger om {0}
+BLACKJACK
+4 bord  •  betaler 3 til 2
+Ultimate Texas Hold'em
+Spiller, Bank eller Uavgjort
+SPILLEAUTOMATER
+Lucky Ace 7s  •  10 linjer
+VIDEOPOKER
+Jacks or Better
+SIC BO
+Tre terninger  •  stor eller liten
+Pass Line  •  Field  •  Odds
+RULETT
+Europeisk med én null
+DU ER UTSLITT
+Energilinjen din er tom. Hent noe i baren for å fortsette å spille, eller kom tilbake senere: energien kommer sakte tilbake mens du er borte.
+GÅ TIL BAREN
+VELG BORDET DITT
+INNSATSER
+NIVÅ {0}
+SETT DEG
+KREVER {0}
+Nå nivå {0} for å spille her. Du er på nivå {1}.
+KASINO
+DD
+MM
+ÅÅÅÅ
+DAG
+MÅNED
+ÅR
+NÅR ER DU FØDT?
+Sjetongene er kun for underholdning. De har ingen pengeverdi og kan aldri veksles inn i penger eller premier.
+BEKLAGER, DU KAN IKKE SPILLE
+{0} er bare tilgjengelig for voksne.
+AVSLUTT
+Lukkes om {0}...
+FORTELL OSS OM DEG
+Vi velger verter, dealere og barpersonale som passer. Du kan endre dette når som helst i Innstillinger.
+JEG ER MANN
+JEG ER KVINNE
+VIL HELST IKKE SI
+GÅ INN I KASINOET
+Personalet ditt i kveld:
+Side {0} av {1}
+SPRÅK
+AUTOMATISK
+LAND
+Velkommen! Plasser innsatsene, takk.
+Bordgrensen er {0} per spinn.
+Trykk på bordet for å plassere sjetonger
+Ingen flere innsatser!
+GRØNT
+grønt
+rødt
+svart
+For et treff! Gratulerer!
+Gevinst! Du vinner {0}.
+{0} {1}. {2} kommer tilbake til deg.
+Plasser innsatsene, takk.
+Vent til kulen stopper.
+INNSTILLINGER
+GENERELT
+GRAFIKK
+LYD
+BERØRING
+MUS
+KONTROLLER
+VIBRASJON
+18+ • Sjetongene har ingen pengeverdi • Skrifter: Bebas Neue, Poppins, Noto (SIL OFL) • Grenser: Natural Earth • Prisdata: Verdensbanken
+KASINOPERSONALE
+KVINNER
+MENN
+BLANDET
+PÅMINNELSER
+Gratis sjetonger klare, og et lite dytt om kvelden før en rekke ville ta slutt.
+SJEKK PÅ NYTT
+PRISREGION
+Raskest: kasinoet som malt, ingenting ekstra.
+Polerte gulv, tre og gull speiler salen.
+Filmpreg: fargegradering, korn, glød, lysstråler, naturtro hud.
+Kinolinse: skarpheten følger blikket ditt, striper på lys, støv i lysstrålene.
+KVALITET
+LAV
+MIDDELS
+HØY
+ULTRA
+OPPLØSNING
+Lavere er mykere, men går kjøligere og sparer batteri.
+VISNINGSMODUS
+FULLSKJERM
+VINDU
+KANTUTJEVNING
+Glatter ut hakkete kanter i kasinoet.
+BILDEFREKVENS
+{0} FPS
+30 FPS sparer batteri og holder eldre telefoner kjølige.
+V-SYNC
+SYNSFELT
+VIS FPS
+HOVEDVOLUM
+MUSIKK
+LYDEFFEKTER
+PERSONALETS STEMMER
+Mumlingen personalet lager når de snakker.
+DEMP I BAKGRUNNEN
+Gjør kasinoet stille mens du er i et annet vindu.
+SEFØLSOMHET
+Hvor raskt dra-bevegelser snur visningen.
+Hvor raskt dra med musen snur visningen.
+SNU SE VENSTRE / HØYRE
+SNU SE OPP / NED
+KNAPPEOPPSETT
+AUTO
+BYTT MENY / VISNING
+STIKKEFØLSOMHET
+Hvor raskt høyre stikke snur visningen.
+SNU STIKKE VENSTRE / HØYRE
+SNU STIKKE OPP / NED
+KONTROLLERTIPS
+Viser hva hver knapp gjør mens du spiller med kontroller.
+VIBRER PÅ
+TELEFON
+BEGGE
+Auto: kontrolleren når en er tilkoblet, ellers telefonen.
+TELEFONVIBRASJON
+STYRKE PÅ TELEFON
+KONTROLLERVIBRASJON
+STYRKE PÅ KONTROLLER
+AUTOMATISK ({0})
+{0} åpner Innstillinger, {1} åpner Daglig.
+Ingen kontroller tilkoblet.
+Tilkoblet: {0}. Viser {1}-knapper (A til høyre bekrefter).
+Tilkoblet: {0}. Viser {1}-knapper.
+BAREN
+FLAKS
+Sjetonger, flaks og mat er virtuelle gjenstander kun for underholdning: ingen pengeverdi, kan ikke løses inn i penger eller premier.
+Hvert kort har den sjansen for å bli delt ut til din fordel, på blackjackinnsatser opptil {0} sjetonger (større innsatser er vanlige og bruker ikke opp hender). Starter etter nybegynnerflaksen; sterkere pakker brukes først.
+Tillat posisjonstilgang for å få prisen for landet ditt
+Kjøp er ikke tilgjengelig i denne versjonen av spillet.
+TESTBUTIKK (ingen ekte penger)
+energi
++{0} % SJETONGER
+{0} hender
+vinner omtrent {0} % av dem
+Velkommen til sic bo! Stor, liten eller noe dristigere?
+Bordgrensen er {0} per kast.
+RIST
+TRE {0}-ERE!
+LUCKY ACE 7s
+TOTAL INNSATS
+GEVINSTTABELL
+LYKKE TIL!
+Du trenger minst 10 sjetonger for å spinne.
+HENT SJETONGER
+Innsatsen er senket til det du har råd til.
+MEGAGEVINST!
+STOR GEVINST!
+TILBAKEBETALT {0}
+INGEN GEVINST
+LINJE {0}: {1} × {2} = {3}
+{0} STJERNER = {1}
+Kirsebær
+Sitron
+Appelsin
+Plomme
+Bjelle
+Bar
+Sjuer
+Diamant
+Ess
+Stjerne
+STJERNER betaler hvor som helst: 5 = {0}× innsats, 4 = {1}× innsats, 3 = {2}× innsats.
+ESSET er wild: det erstatter alle symboler unntatt stjernen.
+Linjegevinster er multipler av linjeinnsatsen (total innsats ÷ 10), fra venstre mot høyre fra første hjul.
+TILBAKEBETALING: {0} % over tid. Hvert spinn er uavhengig og tilfeldig.
+HOLDT
+Del ut, hold kortene du vil ha, bytt én gang.
+HOLD
+TIPS
+BYTT
+Trykk på kortene for å holde dem, og bytt så.
+Gå
+Se
+Knapper
+Innstillinger
+Daglig
+Juster
+Flytt
+Velg
+Lukk
+Tilbake
+UTSLITT
+NYBEGYNNERFLAKS {0} %
+{0} HENDER IGJEN
+LYKKEREKKE {0} %
+{0} HENDER  •  INNSATS OPPTIL {1}
+NIVÅ
+Sofie
+Elena
+Mia
+Valentina
+Chloe
+Isabella
+Nadia
+Aria
+Luna
+Camilla
+Aurora
+Bianca
+Serena
+Marco
+Leo
+Adrian
+Lucas
+Viktor
+Daniel
+Gabriel
+Ethan
+Julian
+Rafael
+Mateo
+Nico
+Enzo
+VELKOMMEN
+SNAKK MED VERTINNEN
+Veibeskrivelse og tips
+SJETONGER  •  BONUSER
+KJØP SJETONGER
+Kasse
+COCKTAILER  •  SNACKS  •  ENERGI
+MAT OG DRIKKE
+Baren
+BLACKJACK BETALER 3 TIL 2
+DEALEREN MÅ STÅ PÅ 17
+SPILL BLACKJACK
+Bord {0}  •  innsats {1} til {2}
+SPILL HOLD'EM
+Ultimate Texas Hold'em  •  ante {0} til {1}
+SPILL BACCARAT
+STOR  •  LITEN  •  TRIPLER
+SPILL SIC BO
+Tre terninger  •  stor eller liten betaler 1 til 1
+PASS LINE  •  FIELD  •  ODDS
+SPILL CRAPS
+Pass Line betaler 1 til 1  •  odds betaler ekte odds
+SPILL VIDEOPOKER
+SPILL PÅ AUTOMATENE
+Jacks or Better  •  full 9/6-tabell
+LUCKY ACE 7s  •  BETALER OPPTIL 2 500× LINJEINNSATSEN DIN
+JACKS OR BETTER  •  ROYAL FLUSH BETALER 800×
+PLASSER INNSATSENE
+SPILL RULETT
+Europeisk hjul  •  rett tall betaler 35 til 1
+BESTILL EN DRINK
+{0} kommer med den
+{0} åpner på nivå {1}. Du er på nivå {2}: hver runde du spiller teller.
+Dette bordet krever minst {0} sjetonger.
+Blackjackbordene er rett frem. Gå bort til ett og sett deg!
+Spilleautomatene står langs høyre vegg, videopoker langs bakveggen og ruletten innerst.
+Hold'em er i hjørnet innerst til venstre, forbi baren.
+Baccarat er rett til venstre når du kommer inn.
+Sic bo er i hjørnet forbi kassen: tre terninger, stor eller liten.
+Crapsbordet står til høyre foran automatene. Sats på Pass Line og kast!
+Kassen er rett her til høyre for deg, og baren er langs venstre vegg.
+Sliten? En snack i baren fyller opp energien med en gang.
+Trykk hvor som helst på gulvet, så går du dit. Trykk på et bord for å sette deg.
+Andorra
+De forente arabiske emirater
+Afghanistan
+Antigua og Barbuda
+Anguilla
+Albania
+Armenia
+Angola
+Antarktis
+Argentina
+Amerikansk Samoa
+Østerrike
+Australia
+Aruba
+Åland
+Aserbajdsjan
+Bosnia-Hercegovina
+Barbados
+Bangladesh
+Belgia
+Burkina Faso
+Bulgaria
+Bahrain
+Burundi
+Benin
+Saint-Barthélemy
+Bermuda
+Brunei
+Bolivia
+Karibisk Nederland
+Brasil
+Bahamas
+Bhutan
+Bouvetøya
+Botswana
+Belarus
+Belize
+Canada
+Kokosøyene
+Kongo
+Den sentralafrikanske republikk
+Kongo-Brazzaville
+Sveits
+Elfenbenskysten
+Cookøyene
+Chile
+Kamerun
+Kina
+Colombia
+Costa Rica
+Cuba
+Kapp Verde
+Curaçao
+Christmasøya
+Kypros
+Tsjekkia
+Tyskland
+Djibouti
+Danmark
+Dominica
+Den dominikanske republikk
+Algerie
+Ecuador
+Estland
+Egypt
+Vest-Sahara
+Eritrea
+Spania
+Etiopia
+Finland
+Fiji
+Falklandsøyene
+Mikronesiaføderasjonen
+Færøyene
+Frankrike
+Gabon
+Storbritannia
+Grenada
+Georgia
+Fransk Guyana
+Guernsey
+Ghana
+Gibraltar
+Grønland
+Gambia
+Guinea
+Guadeloupe
+Ekvatorial-Guinea
+Hellas
+Sør-Georgia og Sør-Sandwichøyene
+Guatemala
+Guam
+Guinea-Bissau
+Guyana
+Hongkong SAR Kina
+Heard- og McDonaldøyene
+Honduras
+Kroatia
+Haiti
+Ungarn
+Indonesia
+Irland
+Israel
+Man
+India
+Det britiske territoriet i Indiahavet
+Irak
+Iran
+Island
+Italia
+Jersey
+Jamaica
+Jordan
+Japan
+Kenya
+Kirgisistan
+Kambodsja
+Kiribati
+Komorene
+Saint Kitts og Nevis
+Nord-Korea
+Sør-Korea
+Kuwait
+Caymanøyene
+Kasakhstan
+Laos
+Libanon
+St. Lucia
+Liechtenstein
+Sri Lanka
+Liberia
+Lesotho
+Litauen
+Luxemburg
+Latvia
+Libya
+Marokko
+Monaco
+Moldova
+Montenegro
+Saint-Martin
+Madagaskar
+Marshalløyene
+Nord-Makedonia
+Mali
+Myanmar (Burma)
+Mongolia
+Macao SAR Kina
+Nord-Marianene
+Martinique
+Mauritania
+Montserrat
+Malta
+Mauritius
+Maldivene
+Malawi
+Mexico
+Malaysia
+Mosambik
+Namibia
+Ny-Caledonia
+Niger
+Norfolkøya
+Nigeria
+Nicaragua
+Nederland
+Norge
+Nepal
+Nauru
+Niue
+New Zealand
+Oman
+Panama
+Peru
+Fransk Polynesia
+Papua Ny-Guinea
+Filippinene
+Pakistan
+Polen
+Saint-Pierre-et-Miquelon
+Pitcairnøyene
+Puerto Rico
+Det palestinske området
+Portugal
+Palau
+Paraguay
+Qatar
+Réunion
+Romania
+Serbia
+Russland
+Rwanda
+Saudi-Arabia
+Salomonøyene
+Seychellene
+Sudan
+Sverige
+Singapore
+St. Helena
+Slovenia
+Svalbard og Jan Mayen
+Slovakia
+Sierra Leone
+San Marino
+Senegal
+Somalia
+Surinam
+Sør-Sudan
+São Tomé og Príncipe
+El Salvador
+Sint Maarten
+Syria
+Eswatini
+Turks- og Caicosøyene
+Tsjad
+De franske sørterritorier
+Togo
+Thailand
+Tadsjikistan
+Tokelau
+Øst-Timor
+Turkmenistan
+Tunisia
+Tonga
+Tyrkia
+Trinidad og Tobago
+Tuvalu
+Taiwan
+Tanzania
+Ukraina
+Uganda
+USAs ytre øyer
+USA
+Uruguay
+Usbekistan
+Vatikanstaten
+St. Vincent og Grenadinene
+Venezuela
+De britiske jomfruøyene
+De amerikanske jomfruøyene
+Vietnam
+Vanuatu
+Wallis og Futuna
+Samoa
+Kosovo
+Jemen
+Mayotte
+Sør-Afrika
+Zambia
+Zimbabwe
+Engelsk
+Afrikaans
+Amharisk
+Arabisk
+Aserbajdsjansk
+Belarusisk
+Bulgarsk
+Bengali
+Bosnisk
+Katalansk
+Tsjekkisk
+Dansk
+Tysk
+Gresk
+Spansk
+Estisk
+Baskisk
+Persisk
+Finsk
+Filipino
+Fransk
+Irsk
+Galisisk
+Gujarati
+Hausa
+Hebraisk
+Hindi
+Kroatisk
+Fransk (Haiti)
+Ungarsk
+Armensk
+Indonesisk
+Ibo
+Islandsk
+Italiensk
+Japansk
+Georgisk
+Kasakhisk
+Khmer
+Kannada
+Koreansk
+Kirgisisk
+Luxemburgsk
+Laotisk
+Litauisk
+Latvisk
+Gassisk
+Makedonsk
+Malayalam
+Mongolsk
+Marathi
+Malayisk
+Maltesisk
+Burmesisk
+Norsk bokmål
+Nepali
+Nederlandsk
+Panjabi
+Polsk
+Pashto
+Portugisisk (Brasil)
+Portugisisk (Portugal)
+Retoromansk
+Rumensk
+Russisk
+Kinyarwanda
+Singalesisk
+Slovakisk
+Slovensk
+Somali
+Albansk
+Serbisk
+Svensk
+Swahili
+Tamil
+Telugu
+Tadsjikisk
+Thai
+Turkmensk
+Tyrkisk
+Ukrainsk
+Urdu
+Usbekisk
+Vietnamesisk
+Xhosa
+Joruba
+Kinesisk (forenklet)
+Kinesisk (tradisjonell)
+Zulu
+Søn.
+Man.
+Tir.
+Ons.
+Tor.
+Fre.
+Lør.

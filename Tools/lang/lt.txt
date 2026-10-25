@@ -1,0 +1,659 @@
+# Lithuanian (lt). Machine translation by Claude.
+bd99124	Sauja žetonų
+c7c6dc8	Krūvelė žetonų
+7512cfd	Padėklas žetonų
+fa36588	Stovas žetonų
+7994f65	POPULIARIAUSIA
+49dcc21	Seifas žetonų
+0725283	Didžiojo lošėjo seifas
+7658705	GERIAUSIA VERTĖ
+2f23432	Gazuotas vanduo
+418b820	Espresas
+97b463c	Energinis gėrimas
+43bbfda	Klubinis sumuštinis
+bce7a75	Mėsainio rinkinys
+2832a8d	Kepsnio vakarienė
+dee8ee8	PILNAS PAPILDYMAS
+a7c2255	Sėkmės serija
+7919163	Karšta serija
+74fdfc2	DAUGIAUSIA SĖKMĖS
+d79cd12	Bronzinis stalas
+2a8ff35	Sidabrinis stalas
+51877b2	Auksinis stalas
+9282152	Deimantinis stalas
+0de8764	Įveskite tinkamus metus.
+d4e14c9	Įveskite tinkamą mėnesį (1-12).
+addd156	Įveskite tinkamą dieną.
+d78a4f4	Ši data yra ateityje.
+787c7c6	Sveiki atvykę prie mano stalo! Pasiruošę žaisti?
+8b0f93e	Malonu tave matyti. Sėskis!
+8338021	Labas! Kortos šviežios, aš irgi.
+75750f9	Sveikas! Tegul šis vakaras būna puikus.
+95aac36	Statyk, kai būsi pasiruošęs.
+8bc63c1	Žetonus ant stalo ir pažiūrėkim kortas.
+984b7f3	Iš ko žaidžiam?
+b74c769	Oho, didelis statymas! Man patinka tavo stilius.
+77fc1fc	Štai čia tai statymas. Pirmyn!
+7779a5b	Šįvakar drąsus, ar ne?
+479ff82	Viską?! Širdis daužosi!
+7fb527c	Viskas ant vienos rankos. Bebaimis!
+7bf0c5d	Blackjack! Neįtikėtina!
+123f2d5	Dvidešimt vienas, štai taip paprastai!
+cd850a7	Blackjack! Kortos tave šįvakar dievina.
+55f50ee	Gražiai sužaista!
+79594b1	Laimėjai! Šaunu.
+0df710e	Tau sekasi!
+20a0c1e	Ši tavo.
+a45fe61	Koks laimėjimas! Visi žiūri į šį stalą!
+54d3982	Milžiniška! Šįvakar tu liepsnoji!
+8da8f1e	Taip arti! Kita tavo.
+5d921e1	Šįkart kazino pasisekė.
+f923af7	Nusipurtyk, ateina nauja ranka.
+853e7ca	Oi, viena korta per daug.
+daec44f	Perlenkta! Taip nutinka net geriausiems.
+11ceaef	Lygiosios. Niekas nepralaimi!
+911a289	Lygiosios. Tavo žetonai saugūs.
+a89d9d9	Perlenkiau! Tau pasisekė.
+f76c8fd	Per daug man. Tu laimi!
+63f8d0b	Blackjack kazino, atsiprašau!
+465c8bf	Dalytojas turi blackjack. Nesėkmė.
+6752f40	Rodau tūzą. Draudimas?
+1920c5a	Skeliam! Dvi galimybės laimėti.
+9f621da	Dvigubinam. Drąsus ėjimas!
+59da99d	Dvigubink! Ateina viena korta.
+0b48017	Naujas batas, maišau!
+3fa7769	Baigiasi? Kasa tave papildys.
+4e5694b	Žetonų mažėja. Nori daugiau?
+d41f057	Žetonai baigėsi! Užsuk į kasą arba pasiimk nemokamų žetonų.
+15d90d3	Tavo krūvelė tuščia. Kasa tiesiai už tavęs.
+a9eaae1	Atrodai išsekęs! Užkąsk ką nors bare.
+5cd9e8b	Jėgos baigiasi? Baras tavimi pasirūpins.
+37b9672	Neskubėk.
+c64df8c	Kai tik būsi pasiruošęs!
+b8dfc0a	Naktis dar jauna.
+8748560	Pradedančiojo sėkmė tavo pusėje!
+e3def50	Kaladė šįvakar tavo pusėje!
+506ade9	Pradedančiojo sėkmė baigėsi. Nuo šiol žaidimas sąžiningas!
+953d8b7	Sveiki atvykę į kazino! Tavo vieta laukia.
+9fd9844	Labas vakaras! Stalai šįvakar karšti.
+2d42aaf	Sveikas sugrįžęs! Jauti sėkmę?
+311bae7	Paliesk stalą ir pradėk žaisti!
+3318099	Reikia daugiau žetonų? Atėjai prie tinkamo langelio.
+c5b3787	Didesnės krūvos, didesnės premijos!
+21ae665	Alkanas? Rinkis bet ką iš meniu.
+8b83cc0	Užkandis palaiko energiją!
+35f4b0e	Sveiki atvykę prie mano stalo!
+8f90245	Štai ir tu! Iškart šviesiau.
+909e4d6	Jauskis kaip namie. Šis vakaras skirtas tau.
+2477f78	Dievinu tą šypseną. Sėkmingas vakaras?
+6ac2120	Atsipalaiduok, esi geromis rankomis.
+089f04b	Ei, tu! Tikėjausi, kad užsuksi prie mano langelio.
+3f2c3c9	Visada malonu matyti draugišką veidą.
+3021db8	Žiūrėk, kas čia! Smagu?
+769980b	Labas, gražuoli!
+5361ffd	Šįvakar man patinka tavo stilius.
+56b40be	Ei, malonu vėl tave matyti!
+3316019	Geras vakaras? Tu jo nusipelnei.
+28283fd	Atsargiai, galiu pradėti tau sirgti.
+109ac94	Mano mėgstamiausias žaidėjas grįžo!
+acba0e6	Sėskis šalia, padalinsiu tau kažką gražaus.
+eb5ff2a	Su tavimi prie šio stalo daug smagiau.
+772a73c	Jau eini? Naktis dar jauna!
+178301a	Nagi, dar viena ranka. Turiu gerą nuojautą!
+816036a	Negali manęs dabar palikti, mes tik pradėjom!
+5c9b7e2	Paskutinė galimybė! Kita ranka gali būti ta didžioji...
+20ce7b6	Gerai, gerai. Saugosiu tavo vietą šiltą. Pažadi grįžti?
+51d1aeb	Dar neturi serijos? Sužaisk šiandien raundų ({2}) ir pradėsiu skaičiuoti.
+10b25d9	Nauja pradžia! Raundai ({2}) ir tavo liepsna užsidegs.
+0c10711	Vedu nedidelį sąrašą tų, kurie ateina kasdien. Tavęs ten nėra... kol kas.
+5e7c431	Diena {1} tavęs laukia. Liko raundų: {2}!
+b268d84	Dienų iš eilės: {0}... juk dabar nesustosi?
+b32ae79	Tavo liepsna šiandien atrodo kiek atvėsusi. Raundai ({2}) ją sušildys.
+a6f3fbd	Skaičiuoju: dienų {0}. Tegul būna {1}.
+1dc5c97	Negalvok, kad nepastebėjau. Liko raundų serijai išlaikyti: {2}!
+807b82c	Dienų iš eilės: {0}? Pradedu manyti, kad tau čia patinka.
+6391923	Tavo serija šiandien saugi. Dabar tu tiesiog giriesi.
+3bfbbf7	Diena {0} įveikta. Rytoj tuo pačiu laiku?
+ca2a2c1	Dienų: {0}! Laikas tau rezervuoti vietą.
+54f991f	Štai ji: pirmoji tavo serijos diena! Grįžk rytoj ir bus dvi.
+a1e7ab0	Visa savaitė iš eilės! Tikrai esu sužavėta.
+96cee95	Trisdešimt dienų! Tu praktiškai čia dirbi.
+a9834cd	Šimtas dienų. Visiems apie tave pasakoju.
+071317f	Jau dienų iš eilės: {0}! Tik pažiūrėk į save.
+0964027	Serija išgelbėta: diena {0}! Žinojau, kad pavyks.
+c7f2a1f	Diena {0}! Lažinuosi, kad iki {1} neištversi.
+a6ce2e2	Dienų: {0}... gerai jau, pasipūtėli.
+3ab91d0	Sužaisk 10 blackjack rankų
+38e863d	Laimėk 5 blackjack rankas
+6ac41cc	Surink blackjack
+74cf149	Laimėk 500 žetonų žaisdamas blackjack
+66440e1	Pasuk lošimo automatą 20 kartų
+9205056	Laimėk 5 lošimo automato sukimus
+cd60e0c	Laimėk 5× statymą lošimo automate
+6f7ac28	Sužaisk 5 ruletės raundus
+6978cc0	Laimėk 3 ruletės sukimus
+c8ebbcc	Atspėk skaičių tiesioginiu statymu
+8a57c54	GPS vieta
+4919635	mobilusis tinklas
+527b094	interneto ryšys
+f49ae82	įrenginio nustatymai
+60827d3	bandomoji šalis
+0b2f8d8	nepatvirtinta (standartinė kaina)
+50d8b4a	nežinoma
+4fb7a4e	1-as 12
+647a0eb	2-as 12
+a934745	3-ias 12
+3de80ab	2 prieš 1
+bb4e68e	RAUDONA
+a9414ab	JUODA
+710756a	NELYGINIAI
+70ca748	LYGINIAI
+4d60d6c	SĄŽININGOS KAINOS TAVO ŠALIAI
+1674d95	Parduotuvės kainos pritaikytos tavo šalies ekonomikai, kad žaidėjai visur mokėtų sąžiningą kainą.
+4ec27ee	Kad nustatytume tavo šalį, vieną kartą patikriname apytikslę tavo vietą. Ji susiejama su šalimi tavo įrenginyje ir niekur nesiunčiama. Jei atsisakysi, taikomos standartinės kainos.
+ff3dbb4	TĘSTI
+43a6a8d	Palikti kazino?
+ad209a0	Tavo žetonai ir pažanga išsaugoti.
+5860c84	IŠEITI
+f1e0808	LIKTI
+5b38c49	Atrakinta: {0}
+15ae7ac	Serijos užšaldymas vakar išgelbėjo tavo seriją (dienų: {0}).
+d375ffb	Užšaldymai ({0}) išgelbėjo tavo seriją (dienų: {1}).
+fd8ab39	Tavo serija (dienų: {0}) baigėsi. Sužaisk šiandien raundų ({1}) ir pradėk naują!
+7fa2db4	UŽDUOTIS ĮVYKDYTA
+255325c	+{0} žetonų
+d205ece	VISOS UŽDUOTYS ĮVYKDYTOS!
+4acbed2	Dienos premija +{0} žetonų. Naujos užduotys rytoj.
+ab2ceb3	{0} LYGIS!
+86e2afb	Etapas! +{0} žetonų
+9ae18ad	Grįžk rytoj ir tęsk
+7af7e7c	+1 serijos užšaldymas
+b5b9597	SERIJA: {0} D.!
+62ec60d	Pirkimai šioje versijoje negalimi.
+1f9786c	Pirkimas nepavyko. Pinigai nenuskaičiuoti.
+3e4c600	Pridėta +{0} žetonų!
+1998202	{0}: rankų {1} su {2}% sėkme, po Pradedančiojo sėkmės
+728ada5	{0}: rankų {1} su {2}% sėkme!
+af5e232	{0}: +{1}% energijos
+001a53b	Negalima šiame įrenginyje
+2607004	Šiame tinkle vaizdo įrašai neįkeliami
+569c30d	Grįžk rytoj
+ecae6ee	Paruošta po {0} s
+9964820	+{0} žetonų (šiandien liko {1})
+e1bd888	+{0} nemokamų žetonų!
+619bd5d	+1 serijos užšaldymas!
+f70d794	Šiuo metu vaizdo įrašų nėra. Pabandyk po akimirkos.
+264d71b	BRONZA
+462e839	SIDABRAS
+81ff70a	AUKSAS
+50e122e	DEIMANTAS
+57f5f5e	Meniu
+69bd4ef	Vaizdas
+dbfe736	Kryžiukas
+1cc7820	Apskritimas
+82810cb	Kvadratas
+73d3ae2	Trikampis
+a42f608	Tikriname tavo regioną...
+1db422c	Nepatvirtinta ({0}): standartinės kainos
+9bc0807	{0} ({1}): kainos {2}
+ae8c393	Priminimai
+aefd59b	Nemokami žetonai paruošti ir serijos priminimai
+3125838	Tavo nemokami žetonai paruošti
+233027b	Lucky Ace tavęs laukia {0} žetonų.
+b93976b	Išlaikyk savo seriją (dienų: {0})
+bd68038	Sužaisk šiandien raundų ({0}), kad vidurnaktį ji nenusinulintų.
+0acfb6f	Sveikas! Šįvakar pradedančiojo sėkmė tavo pusėje. Statyk!
+d589374	BLACKJACK MOKA 3 PRIEŠ 2   •   DALYTOJAS SUSTOJA ESANT 17   •   DRAUDIMAS MOKA 2 PRIEŠ 1
+b700b02	STATYMAS
+16ec74f	IŠVALYTI
+928226b	KARTOTI
+55591e0	DALYTI
+395ed46	DAR
+43e7971	UŽTENKA
+097274c	DVIGUBINTI
+6df63ca	SKELTI
+3e40f46	APDRAUSTI
+db82d3a	NE, AČIŪ
+28d6be8	STATYMAS {0}+
+9587b70	Pasiektas stalo maksimumas
+b9ac47d	Nepakanka žetonų
+d237ade	Dalytojas rodo tūzą. Apdrausti už {0}?
+bf07c14	Draudimas išmoka {0}
+b6e674a	Dalytojas neturi blackjack. Draudimas prarastas.
+0cc9679	PERLENKTA
+82ce89d	DALYTOJAS PERLENKĖ
+6e1e1a4	BLACKJACK!
+662fae5	LAIMĖJIMAS
+8918d00	LYGIOSIOS
+8df6be4	PRALAIMĖJIMAS
+9e69668	Pradedančiojo sėkmė baigėsi. Tavo Sėkmės serija prasideda dabar.
+822f4f4	Pradedančiojo sėkmė baigėsi. Nuo šiol standartinis blackjack.
+b0377c7	Tavo Sėkmės serija baigėsi. Grįžtame prie standartinio blackjack.
+824ad7c	ŽETONAI BAIGĖSI
+ff1822d	Pažiūrėk trumpą vaizdo įrašą ir gauk {0} nemokamų žetonų arba užsuk į kasą.
+e4cac2f	Užsuk į kasą papildyti žetonų.
+c3df3e7	NEMOKAMI ŽETONAI
+b169d33	KASA
+4d38f66	VĖLIAU
+cb8171b	Pirmiausia baik šią ranką.
+3aa6941	„{0}“
+6f846f4	DAR VIENA RANKA
+a79d4f2	IŠEITI
+693f697	PRADEDANČIOJO SĖKMĖ
+641ad58	SĖKMĖS SERIJA
+fc45931	Sveikinimo premija naujiems žaidėjams: per pirmąsias <b>{0} rankų</b> dalytojo batas sudėliotas tau palankiai, todėl laimėsi beveik kiekvieną ranką.
+576c683	Per kitas <b>{0} rankų</b> pranašumas pamažu išnyksta, o po to prie kiekvieno stalo – standartinis, sąžiningas blackjack iš sumaišyto 6 kaladžių bato (blackjack moka 3 prieš 2, dalytojas sustoja esant 17).
+7fb55b3	Pranašumas dabar: <b><color=#7CFC9A>{0}%</color></b>   Liko rankų: <b>{1}</b>
+d4f8fe0	Per kitas <b>{0} blackjack rankų</b>, kai statymas iki <b>{1} žetonų</b>, kiekviena korta turi <b>{2}%</b> tikimybę būti išdalyta tau palankiai (toks pat pranašumas kaip Pradedančiojo sėkmė).
+0a5fc06	Žaidžiant gerai, laimima apie <b>{0}%</b> rankų, palyginti su maždaug {1}% standartiniame blackjack. Didesni statymai yra standartinis blackjack ir rankų nenaudoja. Kai rankos baigiasi, prie kiekvieno stalo vėl standartinis, sąžiningas blackjack.
+c3a8946	SUPRATAU
+8dfc44a	NORI SUSIGRĄŽINTI SĖKMĘ?
+272a97f	Pradedančiojo sėkmė baigėsi: nuo šiol prie kiekvieno stalo standartinis, sąžiningas blackjack. Sėkmės serija kuriam laikui grąžina pranašumą.
+06b7689	KASDIEN
+4035996	DIENOS SERIJA
+fbe7f18	DIENŲ IŠ EILĖS
+7a46866	ŠIANDIEN
+4753707	ŽIŪRĖTI REKLAMĄ
+6bb45f3	PIRKTI
+62a945f	SERIJOS UŽŠALDYMAS
+ba5b1de	Užšaldymas išlaiko tavo seriją dieną, kai nežaidi. Gali turėti iki {0}.\n\nPirkti vieną už {1} žetonų?
+38c6090	Serijos užšaldymas paruoštas.
+8fe681f	Nepakanka žetonų užšaldymui.
+1507c40	ATŠAUKTI
+457d20f	DIENOS SUKIMAS
+9623247	SUKTI
+ac5ef96	Tikimybės:
+1200f20	{0}%
+003a689	Laimėjai {0} žetonų!
+f757137	ŠIANDIENOS UŽDUOTYS
+7b7f9e2	Rekordas: {0} d.
+9554fea	Žaisk kasdien ir kurk seriją
+5c8dbb8	Šiandienos tikslas pasiektas! Iki rytojaus.
+1aeb9a1	Šiandien: {0} / {1} raundų (bet kuris žaidimas)
+bb92856	Serijos užšaldymai: {0} / {1}
+0ec6216	Išgelbėk seriją dieną, kurią praleisi. +1 kas 7 dienas.
+cc0a745	PILNA
+419a962	NĖRA VAIZDO ĮRAŠO
+2dabd99	REKLAMA NETRUKUS
+f12e166	Serijos premija: prizai ×{0}
+80948a4	Vienas nemokamas sukimas kasdien
+596b5e0	KITAS  {0}
+7f7e7fc	Viskas atlikta! Premija gauta.
+03a0f2a	Naujos užduotys vidurnaktį.
+4784874	Įvykdyk visas tris: +{0} premijinių žetonų
+42c5cda	ŽAISTI
+337211e	ŽAIDIMAI
+8f5e3bd	Vilk kairėje, kad eitum  •  Vilk dešinėje, kad apsidairytum  •  Paliesk, kad nueitum
+d00d221	Tik 18+  •  Žetonai skirti pramogai: neturi piniginės vertės, niekada nekeičiami į pinigus ar prizus
+b60f038	Atidarome duris...
+2e5bcce	Sveikas! Tavo sveikinimo žetonai ({0}) paruošti. Stalai tiesiai priekyje!
+7ef7ae3	+{0} nemokamų žetonų! Daugiau po {1} val.
+5d82af9	Nemokami žetonai pasipildo kas {0} val. Kiti po {1}.
+5469985	{0} val. {1} min.
+bb65beb	{0} min. {1} s
+ac8ba93	IŠLAIKYK SERIJĄ
+560bfa1	Nori priminimo vakarais, kai dar nežaidei, ir kai paruošti nemokami žetonai? Niekada daugiau, o išjungti gali Nustatymuose.
+b724a40	PRIMINK MAN
+9e0c898	+{0} žetonų paruošta!
+1207e28	Žiūrėk vaizdo įrašą: {0}
+db3655b	Kiti nemokami žetonai po {0}
+4ca9be5	BLACKJACK
+9a612b1	4 stalai  •  moka 3 prieš 2
+1194439	LOŠIMO AUTOMATAI
+6555152	Lucky Ace 7s  •  10 linijų
+255b1a1	RULETĖ
+6df1551	Europietiška su vienu nuliu
+379b146	TU IŠSEKĘS
+340e5c4	Tavo energija išseko. Pasiimk ką nors bare ir žaisk toliau arba grįžk vėliau: energija pamažu atsistato, kol tavęs nėra.
+a517396	Į BARĄ
+7c7227f	PASIRINK STALĄ
+c963de3	STATYMAI
+c433657	{0} LYGIS
+083ac39	SĖSTIS
+9698219	REIKIA {0}
+34b737e	Pasiek {0} lygį, kad galėtum čia žaisti. Tavo lygis {1}.
+6cc19a9	KAZINO
+6e946b7	DD
+4a3a892	MM
+2857a6a	MMMM
+9d1fece	DIENA
+d3bb0c3	MĖNUO
+c0f0cad	METAI
+43985ff	KADA GIMEI?
+293fda2	Žetonai skirti tik pramogai. Jie neturi piniginės vertės ir niekada negali būti iškeisti į pinigus ar prizus.
+3e9128d	ATSIPRAŠOME, NEGALI ŽAISTI
+b5e8985	{0} skirtas tik suaugusiesiems.
+bb1b380	IŠEITI
+d9f9432	Užsidaro po {0}...
+c6e102d	PAPASAKOK APIE SAVE
+31120ce	Pagal tai parinksime šeimininkus, dalytojus ir baro darbuotojus. Tai gali bet kada pakeisti Nustatymuose.
+49e8df9	ESU VYRAS
+85abe81	ESU MOTERIS
+76cc98c	NENORIU SAKYTI
+964daf7	ĮEITI Į KAZINO
+2efb69a	Tavo personalas šįvakar:
+c10e749	Puslapis {0} iš {1}
+2a3ffd9	KALBA
+c673535	AUTOMATIŠKAI
+d1245d2	ŠALIS
+15fc12b	Sveiki! Prašome statyti.
+531fb3f	Šiam statymui nepakanka žetonų.
+380eb75	Stalo limitas – {0} vienam sukimui.
+55ad592	ATŠAUKTI
+8f191f9	BENDRAS STATYMAS  {0}
+82e1181	Paliesk lentą, kad padėtum žetonus
+bb19a75	Statymai baigti!
+5becf07	ŽALIA
+bc74f4f	žalia
+7898801	raudona
+466bc8c	juoda
+f2edfbf	Koks pataikymas! Sveikinu!
+b252caf	Laimėjai! Tavo laimėjimas {0}.
+8587d14	LAIMĖJIMAS  +{0}
+b862a2b	{0} {1}. Tau grąžinama {2}.
+a306d0a	GRĄŽINTA  {0}
+af3134d	Šįkart be laimėjimo
+84122e7	Prašome statyti.
+52205f4	Palauk, kol rutuliukas sustos.
+c4b9243	NUSTATYMAI
+44d863e	BENDRIEJI
+2bbca79	GRAFIKA
+955c8b4	GARSAS
+c701f5f	LIETIMAS
+efcc94a	PELĖ
+8433628	VALDIKLIS
+d868a50	VIBRACIJA
+f8692c7	18+ • Žetonai neturi piniginės vertės • Šriftai: Bebas Neue, Poppins, Noto (SIL OFL) • Sienos: Natural Earth • Kainų duomenys: Pasaulio bankas
+da46447	KAZINO PERSONALAS
+594b81e	MOTERYS
+69d3313	VYRAI
+b4325d3	MIŠRUS
+414594a	PRIMINIMAI
+6cac87b	Nemokami žetonai paruošti ir vakarinis priminimas, kol serija nesibaigė.
+e43b2e0	TIKRINTI DAR KARTĄ
+7c9e8f9	KAINŲ REGIONAS
+495c70e	Greičiausia: kazino toks, koks nupieštas, nieko papildomo.
+b052523	Poliruotos grindys, mediena ir auksas atspindi salę.
+6bd30d7	Kino vaizdas: spalvų korekcija, grūdėtumas, švytėjimas, šviesos spinduliai, gyva oda.
+21b6e1d	Kino objektyvas: ryškumas seka tavo žvilgsnį, šviesų ruožai, dulkės spinduliuose.
+fb7c2e8	KOKYBĖ
+d8b9679	ŽEMA
+f68525a	VIDUTINĖ
+d77d0b2	AUKŠTA
+9289eee	ULTRA
+637e313	RAIŠKA
+2e7b141	Žemesnė yra minkštesnė, bet telefonas mažiau kaista ir taupo bateriją.
+93dcfb5	EKRANO REŽIMAS
+3c6eac3	VISAS EKRANAS
+f3690b1	LANGE
+cfa6200	KRAŠTŲ GLODINIMAS
+ad50489	IŠJ.
+f178804	Išlygina dantytus kraštus kazino.
+4266288	KADRŲ DAŽNIS
+d031ab0	{0} FPS
+a2b7514	30 FPS taupo bateriją ir neleidžia senesniems telefonams perkaisti.
+0babcee	V-SYNC
+6656e25	MATYMO LAUKAS
+244aadb	RODYTI FPS
+41c8f6e	BENDRAS GARSUMAS
+bf3af1f	MUZIKA
+bd80907	GARSO EFEKTAI
+d098036	PERSONALO BALSAI
+93c6484	Personalo murmėjimas kalbant.
+16bf71a	NUTILDYTI FONE
+85b2ee7	Nutildo kazino, kai esi kitame lange.
+8e3634e	ŽVILGSNIO JAUTRUMAS
+880dc05	Kaip greitai vilkimas suka vaizdą.
+750c60f	Kaip greitai vilkimas pele suka vaizdą.
+8b988eb	APVERSTI ŽVILGSNĮ KAIRĖN / DEŠINĖN
+cacf0cc	APVERSTI ŽVILGSNĮ AUKŠTYN / ŽEMYN
+2d13b68	MYGTUKŲ IŠDĖSTYMAS
+50c3f10	AUTO
+b471e5c	SUKEISTI MENIU / VAIZDĄ
+d9a59f1	SVIRTELĖS JAUTRUMAS
+ec14343	Kaip greitai dešinė svirtelė suka vaizdą.
+a79af23	APVERSTI SVIRTELĘ KAIRĖN / DEŠINĖN
+acfc66e	APVERSTI SVIRTELĘ AUKŠTYN / ŽEMYN
+56bb461	VALDIKLIO UŽUOMINOS
+51cf49a	Rodo, ką daro kiekvienas mygtukas, kai žaidi su valdikliu.
+dff7431	VIBRUOTI
+34139ab	TELEFONAS
+15ee988	ABU
+465cc91	Auto: valdiklis, kai jis prijungtas, kitaip telefonas.
+f6fed84	TELEFONO VIBRACIJA
+8e97fa7	TELEFONO STIPRUMAS
+486ba2d	VALDIKLIO VIBRACIJA
+8008889	VALDIKLIO STIPRUMAS
+ea9233e	AUTOMATIŠKAI ({0})
+167dda7	{0} atidaro Nustatymus, {1} atidaro Kasdien.
+29a4ef9	Valdiklis neprijungtas.
+558ecd2	Prijungta: {0}. Rodomi {1} mygtukai (A dešinėje patvirtina).
+d6eee9e	Prijungta: {0}. Rodomi {1} mygtukai.
+78525d5	BARAS
+099db9f	SĖKMĖ
+b4a8b06	Žetonai, sėkmė ir maistas yra virtualūs daiktai, skirti tik pramogai: neturi piniginės vertės, negali būti iškeisti į pinigus ar prizus.
+e2a28c9	Kiekviena korta turi tokią tikimybę būti išdalyta tau palankiai, kai blackjack statymas iki {0} žetonų (didesni statymai standartiniai ir rankų nenaudoja). Prasideda po Pradedančiojo sėkmės; stipresni paketai naudojami pirmiausia.
+04fbc6d	Leisk pasiekti vietą, kad gautum savo šalies kainą
+2ae87fc	Pirkimai šioje žaidimo versijoje negalimi.
+8239a84	BANDOMOJI PARDUOTUVĖ (be tikrų pinigų)
+173d916	energija
+b2c67eb	+{0}% ŽETONŲ
+58e8011	rankų: {0}
+ce80712	laimima apie {0}% iš jų
+c69e8ee	LUCKY ACE 7s
+fc99288	BENDRAS STATYMAS
+c1c00cd	IŠMOKŲ LENTELĖ
+3930abd	SĖKMĖS!
+67b6973	Sukimui reikia bent 10 žetonų.
+5aa1edb	GAUTI ŽETONŲ
+f5a1812	Statymas sumažintas iki sumos, kurią gali padengti.
+5c63f61	MEGA LAIMĖJIMAS!
+652544f	DIDELIS LAIMĖJIMAS!
+91bc41c	GRĄŽINTA {0}
+3714283	BE LAIMĖJIMO
+33c0faa	LINIJA {0}: {1} × {2} = {3}
+9f59e6e	ŽVAIGŽDĖS ×{0} = {1}
+d6eee90	Vyšnia
+4459b79	Citrina
+09fb6aa	Apelsinas
+cb92e50	Slyva
+d419866	Varpelis
+e496fd2	Bar
+63abb56	Septynetas
+b3850e0	Deimantas
+fc2b5a9	Tūzas
+85a7de6	Žvaigždė
+c31b035	ŽVAIGŽDĖS moka bet kur: 5 = {0}× statymas, 4 = {1}× statymas, 3 = {2}× statymas.
+f97509c	TŪZAS yra laukinis: jis pakeičia bet kurį simbolį, išskyrus žvaigždę.
+3e8bc69	Linijų išmokos yra linijos statymo (bendras statymas ÷ 10) kartotiniai, iš kairės į dešinę nuo pirmojo būgno.
+523f8dc	GRĄŽA: {0}% ilguoju laikotarpiu. Kiekvienas sukimas nepriklausomas ir atsitiktinis.
+e0c705d	Eiti
+b8db515	Dairytis
+503d46d	Mygtukai
+c7f73bb	Nustatymai
+728298d	Kasdien
+ab166bd	Reguliuoti
+76cdb95	Judėti
+8598222	Pasirinkti
+bbfa773	Uždaryti
+b52b36b	Atgal
+ab37588	IŠSEKĘS
+9b11a09	PRADEDANČIOJO SĖKMĖ {0}%
+0c94e98	LIKO RANKŲ: {0}
+51ed273	SĖKMĖS SERIJA {0}%
+3401470	RANKŲ: {0}  •  STATYMAI IKI {1}
+f481cc6	LYGIS
+0139615	SVEIKI ATVYKĘ
+daad514	PASIKALBĖK SU ŠEIMININKE
+bcefb10	Nuorodos ir patarimai
+c28e782	ŽETONAI  •  PREMIJOS
+0c69ec4	PIRKTI ŽETONŲ
+78c0727	Kasa
+1737fab	KOKTEILIAI  •  UŽKANDŽIAI  •  ENERGIJA
+9e008ae	MAISTAS IR GĖRIMAI
+f7881e8	Baras
+0e979ed	BLACKJACK MOKA 3 PRIEŠ 2
+eea0d12	DALYTOJAS PRIVALO SUSTOTI ESANT 17
+4db37bf	ŽAISTI BLACKJACK
+0ffdd99	Stalas {0}  •  statymai nuo {1} iki {2}
+b4f938b	ŽAISTI AUTOMATAIS
+6b7caea	PRAŠOME STATYTI
+26b1e39	ŽAISTI RULETĘ
+910a1ed	Europietiškas ratas  •  tiesioginis statymas moka 35 prieš 1
+7ef0215	UŽSISAKYK GĖRIMĄ
+fe38d73	Atneš: {0}
+f7b6306	{0} atsidaro nuo {1} lygio. Tavo lygis {2}: skaičiuojamas kiekvienas sužaistas raundas.
+d85f1ad	Prie šio stalo reikia bent {0} žetonų.
+cbfe016	Blackjack stalai tiesiai priekyje. Prieik prie bet kurio ir sėskis!
+64d9faf	Kasa čia pat tavo dešinėje, o baras palei kairę sieną.
+e4c6e0b	Pavargai? Užkandis bare akimirksniu papildys energiją.
+d5ab68f	Paliesk bet kur ant grindų ir ten nueisi. Paliesk stalą, kad atsisėstum.
+cc21f74	MAŽAI
+dc01dec	DAUG
+5fb90b0	BET KOKS TRIGUBAS
+9c716f1	Hold'em stalas
+3b6ab84	Sužaisk 8 hold'em dalijimus
+6c617ca	Laimėk 4 hold'em dalijimus
+44ce500	Sužaisk 10 bakaros dalijimų
+b90cff7	Laimėk 5 bakaros dalijimus
+3e4dfa9	Sužaisk 15 vaizdo pokerio dalijimų
+854fe20	Sužaisk 8 sic bo raundus
+dfddac1	Laimėk 4 sic bo raundus
+2973ea7	Mesk kauliukus 15 kartų craps žaidime
+737be17	Laimėk 4 metimus craps žaidime
+4dbb81d	Surink spalvą ar geriau vaizdo pokeryje
+19aa07b	Karališkoji eilė
+cf83e72	Spalvota eilė
+d27ba03	Keturi vienodi
+dbe8641	Pilnas namas
+7c936d7	Spalva
+2501c65	Eilė
+ca1a0d4	Trys vienodi
+6876b40	Dvi poros
+2537f88	Pora
+b4b323e	Aukščiausia korta
+f70bfdc	Valetai ar geriau
+98fd5af	BAKARA
+df66d5a	Sveiki atvykę į bakarą! Žaidėjas, Bankininkas ar Lygiosios?
+5055efd	ŽAIDĖJAS
+3f90696	LYGIOSIOS
+0d75f63	BANKININKAS
+0ebd5a4	PASKUTINIAI REZULTATAI
+511993d	Ž
+ae4f281	B
+c2c53d6	L
+781246e	Pasirink žetoną ir paliesk Žaidėjas, Bankininkas ar Lygiosios
+11023a0	LYGIOSIOS  {0}
+503d5f1	LAIMI ŽAIDĖJAS  {0} PRIEŠ {1}
+0eb4be5	LAIMI BANKININKAS  {0} PRIEŠ {1}
+7859af1	CRAPS
+4083dbd	Sveiki atvykę į craps! Statyk ant Pass Line ir mesk.
+d266326	ŠEŠI
+c506f3a	DEVYNI
+987f4e9	FIELD
+71c1b2b	2 3 4 9 10 11 12  •  2 ir 12 moka dvigubai
+d0ac294	BET KOKS 7
+9b2f0c3	BET KOKS CRAPS
+f62ac59	DON'T PASS BAR
+6080ade	1:1  •  12 – lygiosios
+c07247a	PASS LINE
+6229f78	ODDS
+29bf819	tikri koeficientai
+387d7a5	ĮJ
+229c9cc	Odds statomi už Pass Line, kai yra taškas.
+c2c8e82	Odds reikia statymo ant Pass Line.
+1784d43	Tavo odds jau maksimalūs.
+fdc3442	Linijos statymai daromi pirmuoju metimu.
+97ce95b	ANT STALO  {0}
+a895ec0	Taškas yra {0}: išmesk jį vėl anksčiau nei 7. Odds už tavo Pass Line moka tikrais koeficientais.
+d9f9d65	MESTI
+bcf32ef	Taškas yra {0}.
+5b450b4	{0}! Taškas pasiektas. Laimėjimas!
+9746e08	Septynetas. Naujas metikas, naujas pirmasis metimas.
+4fc4664	{0}, natūralus! Pass Line laimi.
+203f466	{0}, craps. Linija pralaimi.
+0f8e260	Palauk, kol kauliukai sustos.
+6a98cfe	PALIKTI STALĄ?
+8430088	Tavo linijos statymas dar žaidžia ant taško {0}. Jei išeisi dabar, jį prarasi.
+0e138d1	HOLD'EM
+5e023be	Sveiki atvykę į hold'em! Statyk ante ir pažiūrėkim kortas.
+0cd62f5	ANTE
+5e9f331	BLIND
+3b935ab	BLIND MOKA
+20713a4	Dalintojas kvalifikuojasi su pora ar geriau
+d37267c	CHECK
+9a4e316	FOLD
+88313c4	STATYTI {0}×
+42c6fea	Ante {0} + blind {0}. Pasilik dar {1} pakėlimui.
+1abb2f2	Paliesk žetonus, kad nustatytum ante. Blind toks pat.
+f541cec	Check ar statyti tris ar keturis kartus ante?
+fc74a79	Pakelk dabar 4× ar 3× ante, arba check ir pažiūrėk flopą.
+b687501	Paskutinė proga: statyk 1× ante arba fold ir prarask ante bei blind.
+400009c	Statyk dabar 2× ante, arba check ir pažiūrėk paskutines dvi kortas.
+f4abdf9	Štai flopas.
+0e51f2c	Turn ir river.
+cc856d3	Pažiūrėkim, ką aš turiu.
+6ba1f3e	Dalintojas nesikvalifikuoja: tavo ante grįžta.
+cf1fdc5	Fold. Kitas dalijimas – tavo.
+177fab0	Ultimate Texas Hold'em
+c4917b9	Žaidėjas, Bankininkas ar Lygiosios
+6e4fe7b	VAIZDO POKERIS
+73cabd3	Jacks or Better
+91c4555	SIC BO
+d810061	Trys kauliukai  •  daug ar mažai
+85ab7ec	Pass Line  •  Field  •  Odds
+35d8db6	Sveiki atvykę į sic bo! Daug, mažai ar kas nors drąsesnio?
+3d05514	Stalo limitas – {0} vienam metimui.
+86ade94	PAKRATYTI
+b69304e	TRIGUBAS {0}!
+5d1bcc6	PALIKTA
+36a21ba	Išdalyk, palik norimas kortas, keisk vieną kartą.
+99fa8e8	PALIKTI
+249d1c0	PATARIMAS
+7aab1bd	KEISTI
+5595eb4	Paliesk kortas, kurias paliksi, tada keisk.
+1c05db9	ŽAISTI HOLD'EM
+e353e5f	Ultimate Texas Hold'em  •  ante nuo {0} iki {1}
+6470369	ŽAISTI BAKARĄ
+bbe0077	DAUG  •  MAŽAI  •  TRIGUBI
+3ba448f	ŽAISTI SIC BO
+097c59c	Trys kauliukai  •  daug ar mažai moka 1 su 1
+af2ca30	PASS LINE  •  FIELD  •  ODDS
+f18398e	ŽAISTI CRAPS
+eeede6d	Pass Line moka 1 su 1  •  odds moka tikrais koeficientais
+34e5170	ŽAISTI VAIZDO POKERĮ
+f71bdfb	Jacks or Better  •  pilna 9/6 lentelė
+4a6c087	JACKS OR BETTER  •  KARALIŠKOJI EILĖ MOKA 800×
+370a133	Lošimo automatai prie dešinės sienos, vaizdo pokeris prie galinės, o ruletė pačiame gale.
+8298d28	Hold'em yra kairiajame galiniame kampe, už baro.
+a2a111f	Bakara iškart kairėje, vos įėjus.
+b7193bc	Sic bo yra kampe už kasos: trys kauliukai, daug ar mažai.
+25320c8	Craps stalas dešinėje, prieš automatus. Statyk ant Pass Line ir mesk!
+dc81691	Sofija
+4d9936f	Elena
+3aa0674	Mia
+b724114	Valentina
+34d3f7f	Chloe
+0fc9dd6	Izabelė
+bbd3e35	Nadija
+eac677d	Arija
+baaf10f	Luna
+8641381	Kamila
+eeee9b7	Aurora
+8a59f05	Bianka
+5a0fc29	Serena
+bf38aa5	Markas
+cfaf50a	Leonas
+5815f22	Adrianas
+cbede02	Lukas
+f0b9995	Viktoras
+7b37259	Danielius
+aaac72d	Gabrielius
+2f8f37e	Etanas
+a01126e	Julijonas
+3e05c90	Rafaelis
+e1ae457	Mateusas
+3398634	Nikas
+7aa2d07	Enzas
+1920e2f	Pirmasis metimas: statyk ant Pass Line ir mesk. 7 ar 11 laimi, 2, 3 ar 12 pralaimi. Place statymai pradeda galioti, kai yra taškas.
+99f4934	LUCKY ACE 7s  •  MOKA IKI 2 500× TAVO LINIJOS STATYMO

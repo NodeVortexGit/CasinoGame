@@ -1,0 +1,659 @@
+# Finnish (fi). Machine translation by Claude.
+bd99124	Kourallinen pelimerkkejä
+c7c6dc8	Pino pelimerkkejä
+7512cfd	Tarjottimellinen pelimerkkejä
+fa36588	Teline pelimerkkejä
+7994f65	SUOSITUIN
+49dcc21	Holvillinen pelimerkkejä
+0725283	Suurpelaajan kassakaappi
+7658705	PARAS HINTA
+2f23432	Kivennäisvesi
+418b820	Espresso
+97b463c	Energiajuoma
+43bbfda	Klubileipä
+bce7a75	Hampurilaisateria
+2832a8d	Pihvi-illallinen
+dee8ee8	TÄYSI LATAUS
+a7c2255	Onnenputki
+7919163	Kuuma putki
+74fdfc2	ENITEN ONNEA
+d79cd12	Pronssipöytä
+2a8ff35	Hopeapöytä
+51877b2	Kultapöytä
+9282152	Timanttipöytä
+0de8764	Anna kelvollinen vuosi.
+d4e14c9	Anna kelvollinen kuukausi (1-12).
+addd156	Anna kelvollinen päivä.
+d78a4f4	Päivämäärä on tulevaisuudessa.
+787c7c6	Tervetuloa pöytääni! Valmiina pelaamaan?
+8b0f93e	Kiva nähdä sinua. Istu alas!
+8338021	Hei! Kortit ovat tuoreita, ja niin olen minäkin.
+75750f9	Tervetuloa! Tehdään tästä hyvä ilta.
+95aac36	Aseta panoksesi, kun olet valmis.
+8bc63c1	Pelimerkit pöytään, katsotaan kortteja.
+984b7f3	Mistä pelataan?
+b74c769	Oho, iso panos! Pidän tyylistäsi.
+77fc1fc	Tuota sanon panokseksi. Mennään!
+7779a5b	Rohkealla tuulella tänään, vai mitä?
+479ff82	Kaikki peliin?! Sydämeni hakkaa!
+7fb527c	Kaikki yhteen käteen. Peloton!
+7bf0c5d	Blackjack! Uskomatonta!
+123f2d5	Kaksikymmentäyksi, noin vain!
+cd850a7	Blackjack! Kortit rakastavat sinua tänään.
+55f50ee	Hienosti pelattu!
+79594b1	Voitto! Hyvin tehty.
+0df710e	Olet vauhdissa!
+20a0c1e	Tuo on sinun.
+a45fe61	Mikä voitto! Kaikki katsovat tätä pöytää!
+54d3982	Valtava! Olet tulessa tänään!
+8da8f1e	Niin lähellä! Seuraava on sinun.
+5d921e1	Talolla kävi tuuri sillä kertaa.
+f923af7	Ravista se pois, uusi käsi tulossa.
+853e7ca	Auts, yksi kortti liikaa.
+daec44f	Yli! Sattuu parhaillekin.
+11ceaef	Tasapeli. Kukaan ei häviä!
+911a289	Tasapeli. Pelimerkkisi ovat turvassa.
+a89d9d9	Menin yli! Onnekas sinä.
+f76c8fd	Liikaa minulle. Sinä voitat!
+63f8d0b	Blackjack talolle, pahoittelut!
+465c8bf	Jakajan blackjack. Huonoa tuuria.
+6752f40	Näytän ässää. Vakuutus?
+1920c5a	Jaetaan! Kaksi mahdollisuutta voittaa.
+9f621da	Tuplaus. Rohkea siirto!
+59da99d	Tuplaa! Yksi kortti tulossa.
+0b48017	Uusi kenkä, sekoitan!
+3fa7769	Vähissä? Kassa täydentää sinut.
+4e5694b	Pelimerkit vähenevät. Haluatko lisää?
+d41f057	Pelimerkit loppu! Käy kassalla tai hae ilmaisia pelimerkkejä.
+15d90d3	Pinosi on tyhjä. Kassa on aivan takanasi.
+a9eaae1	Näytät uupuneelta! Hae syötävää baarista.
+5cd9e8b	Akku tyhjänä? Baari hoitaa sinut.
+37b9672	Ota rauhallisesti.
+c64df8c	Kun vain olet valmis!
+b8dfc0a	Ilta on vielä nuori.
+8748560	Aloittelijan onni on puolellasi!
+e3def50	Pakka on tänään puolellasi!
+506ade9	Aloittelijan onni on ohi. Tästä eteenpäin peli on reilu!
+953d8b7	Tervetuloa kasinolle! Paikkasi odottaa.
+9fd9844	Hyvää iltaa! Pöydät ovat kuumina tänään.
+2d42aaf	Tervetuloa takaisin! Onnekas olo?
+311bae7	Napauta pöytää aloittaaksesi!
+3318099	Tarvitsetko lisää pelimerkkejä? Tulit oikealle luukulle.
+c5b3787	Isommat pinot, isommat bonukset!
+21ae665	Nälkä? Valitse mitä tahansa ruokalistalta.
+8b83cc0	Pieni välipala pitää energian yllä!
+35f4b0e	Tervetuloa pöytääni!
+8f90245	Siinä olet! Paikka tuntuu heti valoisammalta.
+909e4d6	Ole kuin kotonasi. Tänä iltana kaikki pyörii sinun ympärilläsi.
+2477f78	Rakastan tuota hymyä. Onnen ilta?
+6ac2120	Rentoudu, olet hyvissä käsissä.
+089f04b	Hei sinä! Toivoin, että poikkeaisit luukulleni.
+3f2c3c9	Aina kiva nähdä ystävälliset kasvot.
+3021db8	Katsos ketä! Onko hauskaa?
+769980b	Hei siellä, komistus!
+5361ffd	Pidän tyylistäsi tänä iltana.
+56b40be	Hei, kiva nähdä taas!
+3316019	Onko hyvä ilta? Ansaitset sen.
+28283fd	Varo, saatan alkaa kannustaa sinua.
+109ac94	Lempipelaajani on palannut!
+acba0e6	Istu viereeni, jaan sinulle jotain mukavaa.
+eb5ff2a	Teet tästä pöydästä paljon hauskemman.
+772a73c	Lähdetkö jo? Ilta on vielä nuori!
+178301a	No niin, vielä yksi käsi. Minulla on hyvä tunne tästä!
+816036a	Et voi jättää minua nyt, vasta aloitimme!
+5c9b7e2	Viimeinen tilaisuus! Seuraava käsi voi olla se iso...
+20ce7b6	Selvä, selvä. Pidän paikkasi lämpimänä. Lupaatko palata?
+51d1aeb	Ei vielä putkea? Pelaa tänään kierroksia: {2}, niin alan laskea.
+10b25d9	Uusi alku! Kierroksia {2}, ja liekkisi syttyy.
+0c10711	Pidän pientä listaa niistä, jotka tulevat joka päivä. Sinä et ole siinä... vielä.
+5e7c431	Päivä {1} odottaa sinua. Kierroksia jäljellä: {2}!
+b268d84	Putki {0} päivää... et kai aio lopettaa nyt?
+b32ae79	Liekkisi näyttää tänään vähän viileältä. Kierrokset ({2}) lämmittävät sen.
+a6f3fbd	Olen laskenut: {0} päivää. Tehdään siitä {1}.
+1dc5c97	Älä luule, etten huomannut. Putken pitämiseen kierroksia jäljellä: {2}!
+807b82c	Putki {0} päivää? Alan uskoa, että viihdyt täällä.
+6391923	Putkesi on turvassa tältä päivältä. Nyt vain esittelet taitojasi.
+3bfbbf7	Päivä {0} tehty. Huomenna samaan aikaan?
+ca2a2c1	{0} päivää! Tässä vaiheessa minun pitäisi varata sinulle paikka.
+54f991f	Siinä se: putkesi ensimmäinen päivä! Tule huomenna takaisin, niin niitä on kaksi.
+a1e7ab0	Kokonainen viikko putkeen! Olen aidosti vaikuttunut.
+96cee95	Kolmekymmentä päivää! Käytännössä työskentelet täällä.
+a9834cd	Sata päivää. Kerron sinusta kaikille.
+071317f	Putki {0} päivää! Katsopa itseäsi.
+0964027	Putki pelastettu: päivä {0}! Tiesin, että onnistut.
+c7f2a1f	Päivä {0}! Lyön vetoa, ettet pääse päivään {1}.
+a6ce2e2	{0} päivää... selvä, leveilijä.
+3ab91d0	Pelaa 10 kättä blackjackia
+38e863d	Voita 5 kättä blackjackissa
+6ac41cc	Saa blackjack
+74cf149	Voita 500 pelimerkkiä blackjackissa
+66440e1	Pyöritä kolikkopeliä 20 kertaa
+9205056	Voita 5 kolikkopelin pyöräytystä
+cd60e0c	Voita 5× panoksesi kolikkopelissä
+6f7ac28	Pelaa 5 kierrosta rulettia
+6978cc0	Voita 3 ruletin pyöräytystä
+c8ebbcc	Osu numeroon suoraan
+8a57c54	GPS-sijainti
+4919635	matkapuhelinverkko
+527b094	internetyhteys
+f49ae82	laitteen asetukset
+60827d3	testimaa
+0b2f8d8	ei vahvistettu (vakiohinta)
+50d8b4a	tuntematon
+4fb7a4e	1. 12
+647a0eb	2. 12
+a934745	3. 12
+3de80ab	2 : 1
+bb4e68e	PUNAINEN
+a9414ab	MUSTA
+710756a	PARITON
+70ca748	PARILLINEN
+4d60d6c	REILUT HINNAT MAALLESI
+1674d95	Kaupan hinnat on sovitettu maasi talouteen, jotta pelaajat kaikkialla maksavat reilun hinnan.
+4ec27ee	Selvittääksemme maasi tarkistamme likimääräisen sijaintisi kerran. Se yhdistetään maahan laitteellasi eikä sitä lähetetä minnekään. Jos kieltäydyt, käytetään vakiohintoja.
+ff3dbb4	JATKA
+43a6a8d	Poistutaanko kasinolta?
+ad209a0	Pelimerkkisi ja edistymisesi on tallennettu.
+5860c84	LOPETA
+f1e0808	JÄÄ
+5b38c49	Avattu: {0}
+15ae7ac	Putken jäädytys pelasti eilen {0} päivän putkesi.
+d375ffb	Jäädytykset ({0}) pelastivat {1} päivän putkesi.
+fd8ab39	{0} päivän putkesi päättyi. Pelaa tänään kierroksia: {1}, niin aloitat uuden!
+7fa2db4	TEHTÄVÄ SUORITETTU
+255325c	+{0} pelimerkkiä
+d205ece	KAIKKI TEHTÄVÄT SUORITETTU!
+4acbed2	Päivän bonus +{0} pelimerkkiä. Uudet tehtävät huomenna.
+ab2ceb3	TASO {0}!
+86e2afb	Virstanpylväs! +{0} pelimerkkiä
+9ae18ad	Palaa huomenna jatkaaksesi
+7af7e7c	+1 putken jäädytys
+b5b9597	{0} PÄIVÄN PUTKI!
+62ec60d	Ostot eivät ole käytettävissä tässä versiossa.
+1f9786c	Osto epäonnistui. Sinua ei veloitettu.
+3e4c600	+{0} pelimerkkiä lisätty!
+1998202	{0}: {1} kättä {2} %:n onnella, aloittelijan onnen jälkeen
+728ada5	{0}: {1} kättä {2} %:n onnella!
+af5e232	{0}: +{1} % energiaa
+001a53b	Ei käytettävissä tällä laitteella
+2607004	Videot eivät lataudu tässä verkossa
+569c30d	Palaa huomenna
+ecae6ee	Valmis {0} s kuluttua
+9964820	+{0} pelimerkkiä (tänään jäljellä {1})
+e1bd888	+{0} ilmaista pelimerkkiä!
+619bd5d	+1 putken jäädytys!
+f70d794	Videota ei ole juuri nyt saatavilla. Yritä hetken päästä uudelleen.
+264d71b	PRONSSI
+462e839	HOPEA
+81ff70a	KULTA
+50e122e	TIMANTTI
+57f5f5e	Valikko
+69bd4ef	Näkymä
+dbfe736	Risti
+1cc7820	Ympyrä
+82810cb	Neliö
+73d3ae2	Kolmio
+a42f608	Tarkistetaan aluettasi...
+1db422c	Ei vahvistettu ({0}): vakiohinnat
+9bc0807	{0} ({1}): hinnat valuutassa {2}
+ae8c393	Muistutukset
+aefd59b	Ilmaiset pelimerkit valmiina ja putkimuistutukset
+3125838	Ilmaiset pelimerkkisi ovat valmiina
+233027b	Lucky Acessa odottaa sinua {0} pelimerkkiä.
+b93976b	Pidä {0} päivän putkesi
+bd68038	Pelaa tänään kierroksia: {0}, ettei putki nollaudu keskiyöllä.
+0acfb6f	Tervetuloa! Aloittelijan onni on tänään puolellasi. Aseta panos!
+d589374	BLACKJACK MAKSAA 3:2   •   JAKAJA JÄÄ KAIKILLA 17:LLÄ   •   VAKUUTUS MAKSAA 2:1
+b700b02	PANOS
+16ec74f	TYHJENNÄ
+928226b	SAMA UUDESTAAN
+55591e0	JAA
+395ed46	OTA
+43e7971	JÄÄ
+097274c	TUPLAA
+6df63ca	JAA KÄSI
+3e40f46	VAKUUTA
+db82d3a	EI KIITOS
+28d6be8	PANOS {0}+
+9587b70	Pöydän maksimi saavutettu
+b9ac47d	Ei tarpeeksi pelimerkkejä
+d237ade	Jakajalla on ässä. Vakuutetaanko hintaan {0}?
+bf07c14	Vakuutus maksaa {0}
+b6e674a	Jakajalla ei blackjackia. Vakuutus menetetty.
+0cc9679	YLI
+82ce89d	JAKAJA YLI
+6e1e1a4	BLACKJACK!
+662fae5	VOITTO
+8918d00	TASAPELI
+8df6be4	HÄVIÖ
+9e69668	Aloittelijan onni on ohi. Onnenputkesi alkaa nyt.
+822f4f4	Aloittelijan onni on ohi. Tästä eteenpäin pelataan tavallista blackjackia.
+b0377c7	Onnenputkesi on ohi. Takaisin tavalliseen blackjackiin.
+824ad7c	PELIMERKIT LOPPU
+ff1822d	Katso lyhyt video ja saat {0} ilmaista pelimerkkiä, tai käy kassalla.
+e4cac2f	Käy kassalla täydentämässä pelimerkkejä.
+c3df3e7	ILMAISET PELIMERKIT
+b169d33	KASSA
+4d38f66	MYÖHEMMIN
+cb8171b	Pelaa ensin tämä käsi loppuun.
+3aa6941	”{0}”
+6f846f4	VIELÄ YKSI KÄSI
+a79d4f2	LÄHDE
+693f697	ALOITTELIJAN ONNI
+641ad58	ONNENPUTKI
+fc45931	Tervetuliaisbonus uusille pelaajille: ensimmäisissä <b>{0} kädessä</b> jakajan kenkä on järjestetty sinun eduksesi, joten voitat lähes jokaisen käden.
+576c683	Seuraavien <b>{0} käden</b> aikana etu hiipuu, ja sen jälkeen jokainen pöytä on tavallista, reilua blackjackia sekoitetusta 6 pakan kengästä (blackjack maksaa 3:2, jakaja jää kaikilla 17:llä).
+7fb55b3	Etu nyt: <b><color=#7CFC9A>{0} %</color></b>   Käsiä jäljellä: <b>{1}</b>
+d4f8fe0	Seuraavissa <b>{0} blackjack-kädessä</b>, kun panos on enintään <b>{1} pelimerkkiä</b>, jokaisella kortilla on <b>{2} %</b> mahdollisuus tulla sinun eduksesi (sama etu kuin aloittelijan onnessa).
+0a5fc06	Hyvällä pelillä se voittaa noin <b>{0} %</b> käsistä, kun tavallisessa blackjackissa osuus on noin {1} %. Isommat panokset ovat tavallista blackjackia eivätkä kuluta käsiä. Kun kädet loppuvat, jokainen pöytä on taas tavallista, reilua blackjackia.
+c3a8946	SELVÄ
+8dfc44a	HALUATKO ONNESI TAKAISIN?
+272a97f	Aloittelijan onni on ohi: tästä eteenpäin jokainen pöytä on tavallista, reilua blackjackia. Onnenputki tuo edun takaisin hetkeksi.
+06b7689	PÄIVITTÄIN
+4035996	PÄIVÄPUTKI
+fbe7f18	PÄIVÄN PUTKI
+7a46866	TÄNÄÄN
+4753707	KATSO MAINOS
+6bb45f3	OSTA
+62a945f	PUTKEN JÄÄDYTYS
+ba5b1de	Putken jäädytys pitää putkesi hengissä päivänä, jona et pelaa. Voit pitää niitä enintään {0}.\n\nOstetaanko yksi hintaan {1} pelimerkkiä?
+38c6090	Putken jäädytys valmiina.
+8fe681f	Ei tarpeeksi pelimerkkejä jäädytykseen.
+1507c40	PERUUTA
+457d20f	PÄIVÄN PYÖRÄYTYS
+9623247	PYÖRÄYTÄ
+ac5ef96	Todennäköisyydet:
+1200f20	{0} %
+003a689	Voitit {0} pelimerkkiä!
+f757137	PÄIVÄN TEHTÄVÄT
+7b7f9e2	Ennätys: {0} päivää
+9554fea	Pelaa joka päivä kerryttääksesi putkea
+5c8dbb8	Päivän tavoite saavutettu! Nähdään huomenna.
+1aeb9a1	Tänään: {0} / {1} kierrosta (mikä tahansa peli)
+bb92856	Putken jäädytykset: {0} / {1}
+0ec6216	Pelasta putkesi päivänä, jonka jätät väliin. +1 joka 7. päivä.
+cc0a745	TÄYNNÄ
+419a962	EI VIDEOTA
+2dabd99	MAINOS PIAN
+f12e166	Putkibonus: palkinnot ×{0}
+80948a4	Yksi ilmainen pyöräytys joka päivä
+596b5e0	SEURAAVA  {0}
+7f7e7fc	Kaikki tehty! Bonus lunastettu.
+03a0f2a	Uudet tehtävät keskiyöllä.
+4784874	Suorita kaikki kolme: +{0} bonuspelimerkkiä
+42c5cda	PELAA
+337211e	PELIT
+8f5e3bd	Vedä vasemmalla kävelläksesi  •  Vedä oikealla katsellaksesi  •  Napauta mennäksesi
+d00d221	Vain 18+  •  Pelimerkit ovat huvia varten: ei rahallista arvoa, ei koskaan vaihdettavissa rahaan tai palkintoihin
+b60f038	Ovet aukeavat...
+2e5bcce	Tervetuloa! {0} tervetuliaispelimerkkiäsi on valmiina. Pöydät ovat suoraan edessä!
+7ef7ae3	+{0} ilmaista pelimerkkiä! Lisää {1} tunnin kuluttua.
+5d82af9	Ilmaiset pelimerkit täyttyvät {0} tunnin välein. Seuraavat: {1}.
+5469985	{0} h {1} min
+bb65beb	{0} min {1} s
+ac8ba93	PIDÄ PUTKESI
+560bfa1	Haluatko muistutuksen iltaisin, kun et ole vielä pelannut, ja kun ilmaiset pelimerkkisi ovat valmiina? Ei koskaan enempää, ja voit poistaa sen käytöstä asetuksista.
+b724a40	MUISTUTA MINUA
+9e0c898	+{0} pelimerkkiä valmiina!
+1207e28	Katso video: {0}
+db3655b	Seuraavat ilmaiset pelimerkit: {0}
+4ca9be5	BLACKJACK
+9a612b1	4 pöytää  •  maksaa 3:2
+1194439	KOLIKKOPELIT
+6555152	Lucky Ace 7s  •  10 linjaa
+255b1a1	RULETTI
+6df1551	Eurooppalainen, yksi nolla
+379b146	OLET UUPUNUT
+340e5c4	Energiapalkkisi on tyhjä. Hae jotain baarista jatkaaksesi pelaamista, tai palaa myöhemmin: energia palautuu hitaasti, kun olet poissa.
+a517396	MENE BAARIIN
+7c7227f	VALITSE PÖYTÄSI
+c963de3	PANOKSET
+c433657	TASO {0}
+083ac39	ISTU ALAS
+9698219	VAATII {0}
+34b737e	Saavuta taso {0} pelataksesi täällä. Olet tasolla {1}.
+6cc19a9	KASINO
+6e946b7	PP
+4a3a892	KK
+2857a6a	VVVV
+9d1fece	PÄIVÄ
+d3bb0c3	KUUKAUSI
+c0f0cad	VUOSI
+43985ff	MILLOIN OLET SYNTYNYT?
+293fda2	Pelimerkit ovat vain viihdettä varten. Niillä ei ole rahallista arvoa, eikä niitä voi koskaan vaihtaa rahaan tai palkintoihin.
+3e9128d	VALITETTAVASTI ET VOI PELATA
+b5e8985	{0} on vain aikuisille.
+bb1b380	POISTU
+d9f9432	Sulkeutuu {0} kuluttua...
+c6e102d	KERRO MEILLE ITSESTÄSI
+31120ce	Valitsemme sinulle sopivat isännät, jakajat ja baarihenkilökunnan. Voit muuttaa tätä milloin tahansa asetuksista.
+49e8df9	OLEN MIES
+85abe81	OLEN NAINEN
+76cc98c	EN HALUA SANOA
+964daf7	ASTU KASINOLLE
+2efb69a	Henkilökuntasi tänä iltana:
+c10e749	Sivu {0}/{1}
+2a3ffd9	KIELI
+c673535	AUTOMAATTINEN
+d1245d2	MAA
+15fc12b	Tervetuloa! Panokset, olkaa hyvä.
+531fb3f	Ei tarpeeksi pelimerkkejä tuohon panokseen.
+380eb75	Pöydän raja on {0} pyöräytystä kohden.
+55ad592	KUMOA
+8f191f9	KOKONAISPANOS  {0}
+82e1181	Napauta pöytää asettaaksesi pelimerkkejä
+bb19a75	Ei enää panoksia!
+5becf07	VIHREÄ
+bc74f4f	vihreä
+7898801	punainen
+466bc8c	musta
+f2edfbf	Mikä osuma! Onnittelut!
+b252caf	Voitto! Voitat {0}.
+8587d14	VOITTO  +{0}
+b862a2b	{0} {1}. Saat takaisin {2}.
+a306d0a	PALAUTETTU  {0}
+af3134d	Ei voittoa tällä kertaa
+84122e7	Panokset, olkaa hyvä.
+52205f4	Odota, että kuula pysähtyy.
+c4b9243	ASETUKSET
+44d863e	YLEISET
+2bbca79	GRAFIIKKA
+955c8b4	ÄÄNI
+c701f5f	KOSKETUS
+efcc94a	HIIRI
+8433628	OHJAIN
+d868a50	VÄRINÄ
+f8692c7	18+ • Pelimerkeillä ei ole rahallista arvoa • Fontit: Bebas Neue, Poppins, Noto (SIL OFL) • Rajat: Natural Earth • Hintatiedot: Maailmanpankki
+da46447	KASINON HENKILÖKUNTA
+594b81e	NAISET
+69d3313	MIEHET
+b4325d3	SEKALAINEN
+414594a	MUISTUTUKSET
+6cac87b	Ilmaiset pelimerkit valmiina, ja iltainen tönäisy ennen kuin putki päättyisi.
+e43b2e0	TARKISTA UUDELLEEN
+7c9e8f9	HINTA-ALUE
+495c70e	Nopein: kasino maalattuna, ei mitään ylimääräistä.
+b052523	Kiillotetut lattiat, puu ja kulta heijastavat salia.
+6bd30d7	Elokuvamainen: värimäärittely, rakeisuus, hehku, valokeilat, elävä iho.
+21b6e1d	Elokuvaobjektiivi: tarkennus seuraa katsettasi, juovat valoissa, pölyä valokeiloissa.
+fb7c2e8	LAATU
+d8b9679	MATALA
+f68525a	KESKITASO
+d77d0b2	KORKEA
+9289eee	ULTRA
+637e313	TARKKUUS
+2e7b141	Matalampi on pehmeämpi, mutta pysyy viileämpänä ja säästää akkua.
+93dcfb5	NÄYTTÖTILA
+3c6eac3	KOKO NÄYTTÖ
+f3690b1	IKKUNA
+cfa6200	REUNOJEN PEHMENNYS
+ad50489	POIS
+f178804	Pehmentää rosoiset reunat kasinolla.
+4266288	RUUDUNPÄIVITYS
+d031ab0	{0} FPS
+a2b7514	30 FPS säästää akkua ja pitää vanhemmat puhelimet viileinä.
+0babcee	V-SYNC
+6656e25	NÄKÖKENTTÄ
+244aadb	NÄYTÄ FPS
+41c8f6e	PÄÄÄÄNENVOIMAKKUUS
+bf3af1f	MUSIIKKI
+bd80907	ÄÄNITEHOSTEET
+d098036	HENKILÖKUNNAN ÄÄNET
+93c6484	Henkilökunnan puheensorina.
+16bf71a	MYKISTÄ TAUSTALLA
+85b2ee7	Hiljentää kasinon, kun olet toisessa ikkunassa.
+8e3634e	KATSEEN HERKKYYS
+880dc05	Kuinka nopeasti vetäminen kääntää näkymää.
+750c60f	Kuinka nopeasti hiirellä vetäminen kääntää näkymää.
+8b988eb	KÄÄNNÄ KATSE VASEN / OIKEA
+cacf0cc	KÄÄNNÄ KATSE YLÖS / ALAS
+2d13b68	PAINIKEASETTELU
+50c3f10	AUTO
+b471e5c	VAIHDA VALIKKO / NÄKYMÄ
+d9a59f1	SAUVAN HERKKYYS
+ec14343	Kuinka nopeasti oikea sauva kääntää näkymää.
+a79af23	KÄÄNNÄ SAUVA VASEN / OIKEA
+acfc66e	KÄÄNNÄ SAUVA YLÖS / ALAS
+56bb461	OHJAIMEN VIHJEET
+51cf49a	Näyttää, mitä kukin painike tekee, kun pelaat ohjaimella.
+dff7431	VÄRINÄ LAITTEESSA
+34139ab	PUHELIN
+15ee988	MOLEMMAT
+465cc91	Auto: ohjain, kun se on yhdistetty, muuten puhelin.
+f6fed84	PUHELIMEN VÄRINÄ
+8e97fa7	PUHELIMEN VOIMAKKUUS
+486ba2d	OHJAIMEN VÄRINÄ
+8008889	OHJAIMEN VOIMAKKUUS
+ea9233e	AUTOMAATTINEN ({0})
+167dda7	{0} avaa asetukset, {1} avaa päivittäiset.
+29a4ef9	Ohjainta ei ole yhdistetty.
+558ecd2	Yhdistetty: {0}. Näytetään {1}-painikkeet (oikealla oleva A vahvistaa).
+d6eee9e	Yhdistetty: {0}. Näytetään {1}-painikkeet.
+78525d5	BAARI
+099db9f	ONNI
+b4a8b06	Pelimerkit, onni ja ruoka ovat virtuaalisia esineitä vain viihdekäyttöön: ei rahallista arvoa, ei lunastettavissa rahaksi tai palkinnoiksi.
+e2a28c9	Jokaisella kortilla on tuo mahdollisuus tulla sinun eduksesi, kun blackjack-panos on enintään {0} pelimerkkiä (isommat panokset ovat tavallisia eivätkä kuluta käsiä). Alkaa aloittelijan onnen jälkeen; vahvemmat paketit käytetään ensin.
+04fbc6d	Salli sijainnin käyttö saadaksesi maasi hinnan
+2ae87fc	Ostot eivät ole käytettävissä tässä peliversiossa.
+8239a84	TESTIKAUPPA (ei oikeaa rahaa)
+173d916	energia
+b2c67eb	+{0} % PELIMERKKEJÄ
+58e8011	{0} kättä
+ce80712	voittaa niistä noin {0} %
+c69e8ee	LUCKY ACE 7s
+fc99288	KOKONAISPANOS
+c1c00cd	VOITTOTAULUKKO
+3930abd	ONNEA!
+67b6973	Tarvitset vähintään 10 pelimerkkiä pyöräyttääksesi.
+5aa1edb	HAE PELIMERKKEJÄ
+f5a1812	Panosta laskettu siihen, mihin sinulla on varaa.
+5c63f61	MEGAVOITTO!
+652544f	ISO VOITTO!
+91bc41c	PALAUTETTU {0}
+3714283	EI VOITTOA
+33c0faa	LINJA {0}: {1} × {2} = {3}
+9f59e6e	{0} TÄHTEÄ = {1}
+d6eee90	Kirsikka
+4459b79	Sitruuna
+09fb6aa	Appelsiini
+cb92e50	Luumu
+d419866	Kello
+e496fd2	Bar
+63abb56	Seitsemän
+b3850e0	Timantti
+fc2b5a9	Ässä
+85a7de6	Tähti
+c31b035	TÄHDET maksavat missä tahansa: 5 = {0}× panos, 4 = {1}× panos, 3 = {2}× panos.
+f97509c	ÄSSÄ on jokeri: se korvaa kaikki symbolit paitsi tähden.
+3e8bc69	Linjavoitot ovat linjapanoksen (kokonaispanos ÷ 10) monikertoja, vasemmalta oikealle ensimmäisestä rullasta alkaen.
+523f8dc	PALAUTUS: {0} % pitkällä aikavälillä. Jokainen pyöräytys on riippumaton ja satunnainen.
+e0c705d	Kävele
+b8db515	Katso
+503d46d	Painikkeet
+c7f73bb	Asetukset
+728298d	Päivittäiset
+ab166bd	Säädä
+76cdb95	Liiku
+8598222	Valitse
+bbfa773	Sulje
+b52b36b	Takaisin
+ab37588	UUPUNUT
+9b11a09	ALOITTELIJAN ONNI {0} %
+0c94e98	KÄSIÄ JÄLJELLÄ {0}
+51ed273	ONNENPUTKI {0} %
+3401470	{0} KÄTTÄ  •  PANOS ENINTÄÄN {1}
+f481cc6	TASO
+0139615	TERVETULOA
+daad514	PUHU EMÄNNÄN KANSSA
+bcefb10	Reittiohjeet ja vinkit
+c28e782	PELIMERKIT  •  BONUKSET
+0c69ec4	OSTA PELIMERKKEJÄ
+78c0727	Kassa
+1737fab	COCKTAILIT  •  NAPOSTELTAVAT  •  ENERGIA
+9e008ae	RUOKA & JUOMA
+f7881e8	Baari
+0e979ed	BLACKJACK MAKSAA 3:2
+eea0d12	JAKAJAN ON JÄÄTÄVÄ 17:LLÄ
+4db37bf	PELAA BLACKJACKIA
+0ffdd99	Pöytä {0}  •  panokset {1}–{2}
+b4f938b	PELAA KOLIKKOPELIÄ
+6b7caea	PANOKSET, OLKAA HYVÄ
+26b1e39	PELAA RULETTIA
+910a1ed	Eurooppalainen pyörä  •  suora numero maksaa 35:1
+7ef0215	TILAA JUOMA
+fe38d73	{0} tuo sen
+f7b6306	{0} avautuu tasolla {1}. Olet tasolla {2}: jokainen pelaamasi kierros lasketaan.
+d85f1ad	Tähän pöytään tarvitaan vähintään {0} pelimerkkiä.
+cbfe016	Blackjack-pöydät ovat suoraan edessä. Kävele yhden luo ja istu alas!
+64d9faf	Kassa on tässä oikealla puolellasi, ja baari on vasemman seinän vieressä.
+e4c6e0b	Väsyttääkö? Välipala baarissa täyttää energiasi heti.
+d5ab68f	Napauta mitä tahansa kohtaa lattiassa, niin kävelet sinne. Napauta pöytää istuaksesi.
+cc21f74	PIENI
+dc01dec	ISO
+5fb90b0	MIKÄ TAHANSA KOLMOINEN
+9c716f1	Hold'em-pöytä
+3b6ab84	Pelaa 8 kättä hold'emia
+6c617ca	Voita 4 kättä hold'emissa
+44ce500	Pelaa 10 kättä baccaratia
+b90cff7	Voita 5 kättä baccaratissa
+3e4dfa9	Pelaa 15 kättä videopokeria
+854fe20	Pelaa 8 kierrosta sic boa
+dfddac1	Voita 4 kierrosta sic bossa
+2973ea7	Heitä noppia 15 kertaa crapsissa
+737be17	Voita 4 heittoa crapsissa
+4dbb81d	Saa väri tai parempi videopokerissa
+19aa07b	Kuningasvärisuora
+cf83e72	Värisuora
+d27ba03	Neloset
+dbe8641	Täyskäsi
+7c936d7	Väri
+2501c65	Suora
+ca1a0d4	Kolmoset
+6876b40	Kaksi paria
+2537f88	Pari
+b4b323e	Hai
+f70bfdc	Jätkät tai parempi
+98fd5af	BACCARAT
+df66d5a	Tervetuloa baccaratiin! Pelaaja, Pankki vai Tasapeli?
+5055efd	PELAAJA
+3f90696	TASAPELI
+0d75f63	PANKKI
+0ebd5a4	VIIMEISET TULOKSET
+511993d	P
+ae4f281	K
+c2c53d6	T
+781246e	Valitse pelimerkki ja napauta Pelaaja, Pankki tai Tasapeli
+11023a0	TASAPELI  {0}
+503d5f1	PELAAJA VOITTAA  {0}–{1}
+0eb4be5	PANKKI VOITTAA  {0}–{1}
+7859af1	CRAPS
+4083dbd	Tervetuloa crapsiin! Panosta Pass Lineen ja heitä.
+d266326	KUUSI
+c506f3a	YHDEKSÄN
+987f4e9	FIELD
+71c1b2b	2 3 4 9 10 11 12  •  2 ja 12 maksavat tuplana
+d0ac294	MIKÄ TAHANSA 7
+9b2f0c3	MIKÄ TAHANSA CRAPS
+f62ac59	DON'T PASS BAR
+6080ade	1:1  •  12 on tasapeli
+c07247a	PASS LINE
+6229f78	ODDS
+29bf819	todelliset kertoimet
+387d7a5	PÄÄLLÄ
+229c9cc	Odds-panos menee Pass Linen taakse, kun piste on olemassa.
+c2c8e82	Odds vaatii Pass Line -panoksen.
+1784d43	Odds-panoksesi on maksimissa.
+fdc3442	Linjapanokset asetetaan avausheitossa.
+97ce95b	PÖYDÄLLÄ  {0}
+a895ec0	Piste on {0}: heitä se uudelleen ennen seiskaa. Pass Linen takana oleva odds maksaa todelliset kertoimet.
+d9f9d65	HEITÄ
+bcf32ef	Piste on {0}.
+5b450b4	{0}! Piste osui. Voitto!
+9746e08	Seiska. Uusi heittäjä, uusi avausheitto.
+4fc4664	{0}, natural! Pass Line voittaa.
+203f466	{0}, craps. Linja häviää.
+0f8e260	Odota, että nopat pysähtyvät.
+6a98cfe	POISTUTAANKO PÖYDÄSTÄ?
+8430088	Linjapanoksesi on yhä pelissä pisteellä {0}. Jos lähdet nyt, menetät sen.
+0e138d1	HOLD'EM
+5e023be	Tervetuloa hold'emiin! Aseta ante, niin katsotaan kortteja.
+0cd62f5	ANTE
+5e9f331	BLIND
+3b935ab	BLIND MAKSAA
+20713a4	Jakaja pääsee jatkoon parilla tai paremmalla
+d37267c	CHECK
+9a4e316	FOLD
+88313c4	PANOSTA {0}×
+42c6fea	Ante {0} + blind {0}. Pidä vielä {1} korotusta varten.
+1abb2f2	Napauta pelimerkkejä asettaaksesi anten. Blind on sama.
+f541cec	Check vai kolmin- tai nelinkertainen ante?
+fc74a79	Korota nyt 4× tai 3× ante tai sano check ja katso flop.
+b687501	Viimeinen tilaisuus: panosta 1× ante tai foldaa ja menetä ante ja blind.
+400009c	Panosta nyt 2× ante tai sano check ja katso kaksi viimeistä korttia.
+f4abdf9	Tässä flop.
+0e51f2c	Turn ja river.
+cc856d3	Katsotaan, mitä minulla on.
+6ba1f3e	Jakaja ei pääse jatkoon: antesi palautetaan.
+cf1fdc5	Foldasit. Seuraava käsi on sinun.
+177fab0	Ultimate Texas Hold'em
+c4917b9	Pelaaja, Pankki tai Tasapeli
+6e4fe7b	VIDEOPOKERI
+73cabd3	Jacks or Better
+91c4555	SIC BO
+d810061	Kolme noppaa  •  iso tai pieni
+85ab7ec	Pass Line  •  Field  •  Odds
+35d8db6	Tervetuloa sic bohon! Iso, pieni vai jotain rohkeampaa?
+3d05514	Pöydän raja on {0} heittoa kohden.
+86ade94	RAVISTA
+b69304e	KOLME {0}:STA!
+5d1bcc6	PIDETTY
+36a21ba	Jaa, pidä haluamasi kortit ja vaihda kerran.
+99fa8e8	PIDÄ
+249d1c0	VIHJE
+7aab1bd	VAIHDA
+5595eb4	Napauta kortteja pitääksesi ne ja vaihda sitten.
+1c05db9	PELAA HOLD'EMIA
+e353e5f	Ultimate Texas Hold'em  •  ante {0}–{1}
+6470369	PELAA BACCARATIA
+bbe0077	ISO  •  PIENI  •  KOLMOSET
+3ba448f	PELAA SIC BOA
+097c59c	Kolme noppaa  •  iso tai pieni maksaa 1:1
+af2ca30	PASS LINE  •  FIELD  •  ODDS
+f18398e	PELAA CRAPSIA
+eeede6d	Pass Line maksaa 1:1  •  odds maksaa todelliset kertoimet
+34e5170	PELAA VIDEOPOKERIA
+f71bdfb	Jacks or Better  •  täysi 9/6-taulukko
+4a6c087	JACKS OR BETTER  •  KUNINGASVÄRISUORA MAKSAA 800×
+370a133	Kolikkopelit ovat oikealla seinällä, videopokeri takaseinällä ja ruletti perällä.
+8298d28	Hold'em on vasemmassa takanurkassa baarin takana.
+a2a111f	Baccarat on heti vasemmalla sisään tullessa.
+b7193bc	Sic bo on nurkassa kassan takana: kolme noppaa, iso tai pieni.
+25320c8	Craps-pöytä on oikealla kolikkopelien edessä. Panosta Pass Lineen ja heitä!
+dc81691	Sofia
+4d9936f	Elena
+3aa0674	Mia
+b724114	Valentina
+34d3f7f	Chloe
+0fc9dd6	Isabella
+bbd3e35	Nadia
+eac677d	Aria
+baaf10f	Luna
+8641381	Camilla
+eeee9b7	Aurora
+8a59f05	Bianca
+5a0fc29	Serena
+bf38aa5	Marco
+cfaf50a	Leo
+5815f22	Adrian
+cbede02	Lucas
+f0b9995	Viktor
+7b37259	Daniel
+aaac72d	Gabriel
+2f8f37e	Ethan
+a01126e	Julian
+3e05c90	Rafael
+e1ae457	Mateo
+3398634	Nico
+7aa2d07	Enzo
+1920e2f	Avausheitto: panosta Pass Lineen ja heitä. 7 tai 11 voittaa, 2, 3 tai 12 häviää. Place-panokset astuvat voimaan, kun piste on olemassa.
+99f4934	LUCKY ACE 7s  •  MAKSAA JOPA 2 500× LINJAPANOKSESI

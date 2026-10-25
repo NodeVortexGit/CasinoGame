@@ -36,20 +36,24 @@ namespace Casino
         {
             string store = app.Store.LocalizedPrice(SkuFor(p));
             if (!string.IsNullOrEmpty(store)) return store;
-            return RegionalPricing.FormatUsd(RegionalPricing.PriceUsd(p, app.Region.PricingCountry, GameConfig.Pricing));
+            return LocalPrice(p, app.Region.PricingCountry);
         }
+
+        /// <summary>A product's regional price in a country's own money, written the way the player's language writes prices.</summary>
+        public static string LocalPrice(ProductDef p, string country) =>
+            RegionalPricing.Format(RegionalPricing.LocalPrice(p, country, GameConfig.Pricing), RegionalPricing.Currency(country), Loc.PriceStyle);
 
         public void Buy(ProductDef p, Action<PurchaseResult> done = null)
         {
             if (!app.Store.IsAvailable)
             {
-                app.UI.Toast("Purchases are not available in this version.", Casino.Art.Palette.Red, Casino.Art.Icon.Lock);
+                app.UI.Toast(Loc.T("Purchases are not available in this version."), Casino.Art.Palette.Red, Casino.Art.Icon.Lock);
                 done?.Invoke(PurchaseResult.Unavailable);
                 return;
             }
             app.Store.Purchase(SkuFor(p), result =>
             {
-                if (result == PurchaseResult.Failed) app.UI.Toast("Purchase failed. You were not charged.", Casino.Art.Palette.Red, Casino.Art.Icon.Close);
+                if (result == PurchaseResult.Failed) app.UI.Toast(Loc.T("Purchase failed. You were not charged."), Casino.Art.Palette.Red, Casino.Art.Icon.Close);
                 done?.Invoke(result);
             });
         }
@@ -70,13 +74,22 @@ namespace Casino
             {
                 app.Wallet.Credit(product.Chips);
                 Sfx.Play(SfxId.Coins);
-                app.UI.Toast($"+{ChipFormat.Full(product.Chips)} chips added!", Casino.Art.Palette.Gold, Casino.Art.Icon.Coin);
+                app.UI.Toast(Loc.F("+{0} chips added!", ChipFormat.Full(product.Chips)), Casino.Art.Palette.Gold, Casino.Art.Icon.Coin);
+            }
+            else if (product.Kind == ProductKind.Luck)
+            {
+                app.Boost.Add(product.LuckHands, product.LuckPercent);
+                Sfx.Play(SfxId.Ding);
+                app.UI.Toast(app.Luck.IsActive
+                        ? Loc.F("{0}: {1} hands at {2}% luck, after Beginner's Luck", Loc.T(product.Title), product.LuckHands, product.LuckPercent)
+                        : Loc.F("{0}: {1} hands at {2}% luck!", Loc.T(product.Title), product.LuckHands, product.LuckPercent),
+                    Casino.Art.Palette.Hex("7CFC9A"), Casino.Art.Icon.Sparkle);
             }
             else
             {
                 app.Energy.Add(product.Energy);
                 Sfx.Play(SfxId.Eat);
-                app.UI.Toast($"{product.Title}: +{Mathf.RoundToInt(product.Energy * 100)}% energy", Casino.Art.Palette.Energy, Casino.Art.Icon.Bolt);
+                app.UI.Toast(Loc.F("{0}: +{1}% energy", Loc.T(product.Title), Mathf.RoundToInt(product.Energy * 100)), Casino.Art.Palette.Energy, Casino.Art.Icon.Bolt);
             }
             save.MarkGranted(transactionId);
             app.SaveSystem.SaveNow();
@@ -113,19 +126,19 @@ namespace Casino
 
         public string AdStatus()
         {
-            if (!AdsSupported) return "Not available on this device";
-            if (app.Ads.IsBlocked) return "Videos can't load on this network";
-            if (AdsLeftToday <= 0) return "Come back tomorrow";
+            if (!AdsSupported) return Loc.T("Not available on this device");
+            if (app.Ads.IsBlocked) return Loc.T("Videos can't load on this network");
+            if (AdsLeftToday <= 0) return Loc.T("Come back tomorrow");
             double cd = AdCooldownRemaining;
-            if (cd > 0) return $"Ready in {Mathf.CeilToInt((float)cd)}s";
-            return $"+{ChipFormat.Full(GameConfig.AdRewardChips)} chips ({AdsLeftToday} left today)";
+            if (cd > 0) return Loc.F("Ready in {0}s", Mathf.CeilToInt((float)cd));
+            return Loc.F("+{0} chips ({1} left today)", ChipFormat.Full(GameConfig.AdRewardChips), AdsLeftToday);
         }
 
         public void WatchAdForChips(Action<bool> done = null) => WatchAd(() =>
         {
             app.Wallet.Credit(GameConfig.AdRewardChips);
             Sfx.Play(SfxId.Coins);
-            app.UI.Toast($"+{ChipFormat.Full(GameConfig.AdRewardChips)} free chips!", Casino.Art.Palette.Gold, Casino.Art.Icon.Gift);
+            app.UI.Toast(Loc.F("+{0} free chips!", ChipFormat.Full(GameConfig.AdRewardChips)), Casino.Art.Palette.Gold, Casino.Art.Icon.Gift);
         }, done);
 
         /// <summary>A rewarded video for a streak freeze (counts towards the same daily allowance as free chips).</summary>
@@ -133,7 +146,7 @@ namespace Casino
         {
             app.Progress.AddFreeze();
             Sfx.Play(SfxId.Ding);
-            app.UI.Toast("+1 streak freeze!", Casino.Art.Palette.Hex("8FD8FF"), Casino.Art.Icon.Freeze);
+            app.UI.Toast(Loc.T("+1 streak freeze!"), Casino.Art.Palette.Hex("8FD8FF"), Casino.Art.Icon.Freeze);
         }, done);
 
         void WatchAd(Action reward, Action<bool> done)
@@ -146,7 +159,7 @@ namespace Casino
             }
             if (!app.Ads.IsReady)
             {
-                app.UI.Toast("No video available right now. Try again in a moment.", Casino.Art.Palette.TextMuted, Casino.Art.Icon.Video);
+                app.UI.Toast(Loc.T("No video available right now. Try again in a moment."), Casino.Art.Palette.TextMuted, Casino.Art.Icon.Video);
                 done?.Invoke(false);
                 return;
             }

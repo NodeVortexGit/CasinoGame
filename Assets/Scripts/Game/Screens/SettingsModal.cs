@@ -34,7 +34,7 @@ namespace Casino.Screens
 
         protected override void Build()
         {
-            MakePanel(1500, 960, "SETTINGS");
+            MakePanel(1500, 960, Loc.T("SETTINGS"));
             AddCloseButton();
             App.I.Region.Changed += RefreshRegion;
             Pad.Changed += RefreshPad;
@@ -58,7 +58,19 @@ namespace Casino.Screens
             return tabs;
         }
 
-        static string TabName(Tab t) => t == Tab.Touch ? (Mobile ? "TOUCH" : "MOUSE") : t.ToString().ToUpperInvariant();
+        static string TabName(Tab t)
+        {
+            switch (t)
+            {
+                case Tab.General: return Loc.T("GENERAL");
+                case Tab.Graphics: return Loc.T("GRAPHICS");
+                case Tab.Sound: return Loc.T("SOUND");
+                case Tab.Touch: return Mobile ? Loc.T("TOUCH") : Loc.T("MOUSE");
+                case Tab.Controller: return Loc.T("CONTROLLER");
+                case Tab.Vibration: return Loc.T("VIBRATION");
+                default: return "DEV";
+            }
+        }
 
         void Rebuild()
         {
@@ -99,7 +111,7 @@ namespace Casino.Screens
             ShowTab(tab);
 
             var credits = UIKit.Label(body,
-                "18+ • Chips have no cash value • Fonts: Bebas Neue, Poppins (SIL OFL) • Borders: Natural Earth • Price data: World Bank",
+                Loc.T("18+ • Chips have no cash value • Fonts: Bebas Neue, Poppins, Noto (SIL OFL) • Borders: Natural Earth • Price data: World Bank"),
                 18, Palette.WithAlpha(Palette.TextMuted, 0.7f), TextAnchor.MiddleRight);
             ((RectTransform)credits.transform).At(1f, 0f, -50, 26, 1100, 40, 1f, 0f);
             credits.horizontalOverflow = HorizontalWrapMode.Overflow;
@@ -119,7 +131,12 @@ namespace Casino.Screens
         void GeneralTab()
         {
             var save = App.I.Save;
-            Row("CASINO STAFF", Segmented.Create(page, new[] { "WOMEN", "MEN", "MIXED" }, save.npcStyle, i =>
+            var language = UIKit.Button(page, LanguageLabel(), ButtonStyle.Dark, () => App.I.UI.Modal<LanguagePickerModal>(), 30,
+                Icon.Globe, FontKind.Semi);
+            language.Rect.sizeDelta = new Vector2(520, 70);
+            Row(Loc.T("LANGUAGE"), language.transform);
+
+            Row(Loc.T("CASINO STAFF"), Segmented.Create(page, new[] { Loc.T("WOMEN"), Loc.T("MEN"), Loc.T("MIXED") }, save.npcStyle, i =>
             {
                 save.npcStyle = i;
                 App.I.SaveSystem.MarkDirty();
@@ -128,79 +145,90 @@ namespace Casino.Screens
                 Closed += ReloadLobby;
             }, 520));
 
-            Row("REMINDERS", Switch.Create(page, save.remindersEnabled, on =>
+            Row(Loc.T("REMINDERS"), Switch.Create(page, save.remindersEnabled, on =>
             {
                 save.remindersEnabled = on;
                 save.remindersAsked = true;
                 App.I.SaveSystem.MarkDirty();
                 if (on) App.I.StartCoroutine(Reminders.AskPermission(null));
-            }).transform, "Free chips ready, and an evening nudge before a streak would end.");
+            }).transform, Loc.T("Free chips ready, and an evening nudge before a streak would end."));
 
-            var recheck = UIKit.Button(page, "CHECK AGAIN", ButtonStyle.Dark, () =>
+            var recheck = UIKit.Button(page, Loc.T("CHECK AGAIN"), ButtonStyle.Dark, () =>
             {
                 App.I.StartCoroutine(App.I.Region.Resolve());
                 RefreshRegion();
             }, 32, Icon.Globe, FontKind.Display);
             recheck.Rect.sizeDelta = new Vector2(300, 70);
-            regionText = Row("PRICING REGION", recheck.transform, " ");
+            regionText = Row(Loc.T("PRICING REGION"), recheck.transform, " ");
         }
+
+        /// <summary>What each quality adds to the one below (CasinoWorld.Look.cs).</summary>
+        static readonly string[] QualityHints =
+        {
+            Loc.N("Fastest: the casino as painted, nothing extra."),
+            Loc.N("Polished floors, wood and gold reflect the room."),
+            Loc.N("Film look: graded colour, grain, glow, beams of light, lifelike skin."),
+            Loc.N("Cinema lens: focus follows your eye, streaks on lights, dust in beams."),
+        };
 
         void GraphicsTab()
         {
             var save = App.I.Save;
-            Row("QUALITY", Segmented.Create(page, new[] { "LOW", "MEDIUM", "HIGH", "ULTRA" }, App.I.GraphicsQuality, i =>
+            Text qualityHint = null;
+            qualityHint = Row(Loc.T("QUALITY"), Segmented.Create(page, new[] { Loc.T("LOW"), Loc.T("MEDIUM"), Loc.T("HIGH"), Loc.T("ULTRA") }, App.I.GraphicsQuality, i =>
             {
                 save.graphicsQuality = i;
+                qualityHint.text = Loc.T(QualityHints[i]);
                 Changed(true);
-            }, 640), "Texture detail, filtering and character detail.");
+            }, 640), Loc.T(QualityHints[App.I.GraphicsQuality]));
 
             if (Mobile)
             {
                 float[] scales = { 0.5f, 0.67f, 0.75f, 0.85f, 1f };
-                Row("RESOLUTION", Segmented.Create(page, new[] { "50%", "67%", "75%", "85%", "100%" }, Nearest(scales, save.renderScale), i =>
+                Row(Loc.T("RESOLUTION"), Segmented.Create(page, new[] { "50%", "67%", "75%", "85%", "100%" }, Nearest(scales, save.renderScale), i =>
                 {
                     save.renderScale = scales[i];
                     Changed(true);
-                }, 640), "Lower is softer but runs cooler and saves battery.");
+                }, 640), Loc.T("Lower is softer but runs cooler and saves battery."));
             }
             else
             {
-                Row("DISPLAY MODE", Segmented.Create(page, new[] { "FULLSCREEN", "WINDOWED" }, save.windowed ? 1 : 0, i =>
+                Row(Loc.T("DISPLAY MODE"), Segmented.Create(page, new[] { Loc.T("FULLSCREEN"), Loc.T("WINDOWED") }, save.windowed ? 1 : 0, i =>
                 {
                     save.windowed = i == 1;
                     Changed(true);
                 }, 520));
             }
 
-            Row("ANTI-ALIASING", Segmented.Create(page, new[] { "OFF", "2×", "4×" }, save.antiAliasing >= 4 ? 2 : save.antiAliasing >= 2 ? 1 : 0, i =>
+            Row(Loc.T("ANTI-ALIASING"), Segmented.Create(page, new[] { Loc.T("OFF"), "2×", "4×" }, save.antiAliasing >= 4 ? 2 : save.antiAliasing >= 2 ? 1 : 0, i =>
             {
                 save.antiAliasing = i == 0 ? 0 : i == 1 ? 2 : 4;
                 Changed(true);
-            }, 480), "Smooths jagged edges in the casino.");
+            }, 480), Loc.T("Smooths jagged edges in the casino."));
 
             bool fast = App.HighRefreshScreen;
             var rates = fast ? new[] { "30", "60", "120" } : new[] { "30", "60" };
             int rate = save.targetFps >= 120 && fast ? 2 : save.targetFps <= 30 ? 0 : 1;
-            Row("FRAME RATE", Segmented.Create(page, Array.ConvertAll(rates, r => r + " FPS"), rate, i =>
+            Row(Loc.T("FRAME RATE"), Segmented.Create(page, Array.ConvertAll(rates, r => Loc.F("{0} FPS", r)), rate, i =>
             {
                 save.targetFps = i == 0 ? 30 : i == 1 ? 60 : 120;
                 Changed(true);
-            }, fast ? 600 : 420), Mobile ? "30 FPS saves battery and keeps older phones cool." : null);
+            }, fast ? 600 : 420), Mobile ? Loc.T("30 FPS saves battery and keeps older phones cool.") : null);
 
             if (!Mobile)
-                Row("V-SYNC", Switch.Create(page, save.vSync, on =>
+                Row(Loc.T("V-SYNC"), Switch.Create(page, save.vSync, on =>
                 {
                     save.vSync = on;
                     Changed(true);
                 }).transform);
 
-            Row("FIELD OF VIEW", ValueSlider(Mathf.InverseLerp(70f, 110f, save.fieldOfView), v => Mathf.RoundToInt(Mathf.Lerp(70f, 110f, v)) + "°", v =>
+            Row(Loc.T("FIELD OF VIEW"), ValueSlider(Mathf.InverseLerp(70f, 110f, save.fieldOfView), v => Mathf.RoundToInt(Mathf.Lerp(70f, 110f, v)) + "°", v =>
             {
                 save.fieldOfView = Mathf.Round(Mathf.Lerp(70f, 110f, v));
                 Changed(false);
             }));
 
-            Row("SHOW FPS", Switch.Create(page, save.showFps, on =>
+            Row(Loc.T("SHOW FPS"), Switch.Create(page, save.showFps, on =>
             {
                 save.showFps = on;
                 Changed(true);
@@ -210,22 +238,22 @@ namespace Casino.Screens
         void SoundTab()
         {
             var save = App.I.Save;
-            Row("MASTER VOLUME", ValueSlider(save.masterVolume, Percent, v =>
+            Row(Loc.T("MASTER VOLUME"), ValueSlider(save.masterVolume, Percent, v =>
             {
                 save.masterVolume = v;
                 AudioChanged();
             }));
-            Row("MUSIC", ValueSlider(save.musicVolume, Percent, v =>
+            Row(Loc.T("MUSIC"), ValueSlider(save.musicVolume, Percent, v =>
             {
                 save.musicVolume = v;
                 AudioChanged();
             }));
-            Row("SOUND EFFECTS", ValueSlider(save.sfxVolume, Percent, v =>
+            Row(Loc.T("SOUND EFFECTS"), ValueSlider(save.sfxVolume, Percent, v =>
             {
                 save.sfxVolume = v;
                 AudioChanged();
             }));
-            Row("STAFF VOICES", ValueSlider(save.voiceVolume, Percent, v =>
+            Row(Loc.T("STAFF VOICES"), ValueSlider(save.voiceVolume, Percent, v =>
             {
                 save.voiceVolume = v;
                 AudioChanged();
@@ -234,26 +262,26 @@ namespace Casino.Screens
                     nextPreview = Time.unscaledTime + 0.15f;
                     Casino.Audio.Sfx.Voice(Casino.Audio.VoicePitch.High);
                 }
-            }), "The murmur staff make while they talk.");
+            }), Loc.T("The murmur staff make while they talk."));
             if (!Mobile)
-                Row("MUTE IN BACKGROUND", Switch.Create(page, save.muteInBackground, on =>
+                Row(Loc.T("MUTE IN BACKGROUND"), Switch.Create(page, save.muteInBackground, on =>
                 {
                     save.muteInBackground = on;
                     AudioChanged();
-                }).transform, "Silence the casino while you're in another window.");
+                }).transform, Loc.T("Silence the casino while you're in another window."));
         }
 
         void TouchTab()
         {
             var save = App.I.Save;
-            string what = Mobile ? "dragging" : "dragging with the mouse";
-            Row("LOOK SENSITIVITY", SpeedSlider(save.lookSensitivity, k => save.lookSensitivity = k), $"How fast {what} turns the view.");
-            Row("INVERT LOOK LEFT / RIGHT", Switch.Create(page, save.invertLookX, on =>
+            Row(Loc.T("LOOK SENSITIVITY"), SpeedSlider(save.lookSensitivity, k => save.lookSensitivity = k),
+                Mobile ? Loc.T("How fast dragging turns the view.") : Loc.T("How fast dragging with the mouse turns the view."));
+            Row(Loc.T("INVERT LOOK LEFT / RIGHT"), Switch.Create(page, save.invertLookX, on =>
             {
                 save.invertLookX = on;
                 App.I.SaveSystem.MarkDirty();
             }).transform);
-            Row("INVERT LOOK UP / DOWN", Switch.Create(page, save.invertLookY, on =>
+            Row(Loc.T("INVERT LOOK UP / DOWN"), Switch.Create(page, save.invertLookY, on =>
             {
                 save.invertLookY = on;
                 App.I.SaveSystem.MarkDirty();
@@ -263,13 +291,13 @@ namespace Casino.Screens
         void ControllerTab()
         {
             var save = App.I.Save;
-            padText = Row("BUTTON LAYOUT", Segmented.Create(page, new[] { "AUTO", "XBOX", "PS", "NINTENDO" }, Mathf.Clamp(save.padLayout, 0, 3), i =>
+            padText = Row(Loc.T("BUTTON LAYOUT"), Segmented.Create(page, new[] { Loc.T("AUTO"), "XBOX", "PS", "NINTENDO" }, Mathf.Clamp(save.padLayout, 0, 3), i =>
             {
                 save.padLayout = i;
                 App.I.SaveSystem.MarkDirty();
                 Pad.NotifyChanged();
             }, 720), " ");
-            swapText = Row("SWAP MENU / VIEW", Switch.Create(page, save.padSwapMenuView, on =>
+            swapText = Row(Loc.T("SWAP MENU / VIEW"), Switch.Create(page, save.padSwapMenuView, on =>
             {
                 save.padSwapMenuView = on;
                 App.I.SaveSystem.MarkDirty();
@@ -277,22 +305,22 @@ namespace Casino.Screens
                 RefreshSwap();
             }).transform, " ");
             RefreshSwap();
-            Row("STICK SENSITIVITY", SpeedSlider(save.padLookSensitivity, k => save.padLookSensitivity = k), "How fast the right stick turns the view.");
-            Row("INVERT STICK LEFT / RIGHT", Switch.Create(page, save.padInvertX, on =>
+            Row(Loc.T("STICK SENSITIVITY"), SpeedSlider(save.padLookSensitivity, k => save.padLookSensitivity = k), Loc.T("How fast the right stick turns the view."));
+            Row(Loc.T("INVERT STICK LEFT / RIGHT"), Switch.Create(page, save.padInvertX, on =>
             {
                 save.padInvertX = on;
                 App.I.SaveSystem.MarkDirty();
             }).transform);
-            Row("INVERT STICK UP / DOWN", Switch.Create(page, save.padInvertY, on =>
+            Row(Loc.T("INVERT STICK UP / DOWN"), Switch.Create(page, save.padInvertY, on =>
             {
                 save.padInvertY = on;
                 App.I.SaveSystem.MarkDirty();
             }).transform);
-            Row("CONTROLLER HINTS", Switch.Create(page, save.padHints, on =>
+            Row(Loc.T("CONTROLLER HINTS"), Switch.Create(page, save.padHints, on =>
             {
                 save.padHints = on;
                 App.I.SaveSystem.MarkDirty();
-            }).transform, "Shows what each button does while you play with a controller.");
+            }).transform, Loc.T("Shows what each button does while you play with a controller."));
         }
 
         void VibrationTab()
@@ -300,20 +328,20 @@ namespace Casino.Screens
             var save = App.I.Save;
             bool phone = Haptics.PhoneSupported, pad = Pad.Connected;
             if (phone && pad)
-                Row("VIBRATE ON", Segmented.Create(page, new[] { "AUTO", "PHONE", "CONTROLLER", "BOTH" }, Mathf.Clamp(save.vibrateOn, 0, 3), i =>
+                Row(Loc.T("VIBRATE ON"), Segmented.Create(page, new[] { Loc.T("AUTO"), Loc.T("PHONE"), Loc.T("CONTROLLER"), Loc.T("BOTH") }, Mathf.Clamp(save.vibrateOn, 0, 3), i =>
                 {
                     save.vibrateOn = i;
                     App.I.SaveSystem.MarkDirty();
                     Haptics.Play(Haptic.Success);
-                }, 820), "Auto: the controller while one is connected, otherwise the phone.");
+                }, 820), Loc.T("Auto: the controller while one is connected, otherwise the phone."));
             if (phone)
             {
-                Row("PHONE VIBRATION", Switch.Create(page, save.phoneVibration, on =>
+                Row(Loc.T("PHONE VIBRATION"), Switch.Create(page, save.phoneVibration, on =>
                 {
                     save.phoneVibration = on;
                     App.I.SaveSystem.MarkDirty();
                 }).transform);
-                Row("PHONE STRENGTH", ValueSlider(save.phoneVibrationStrength, Percent, v =>
+                Row(Loc.T("PHONE STRENGTH"), ValueSlider(save.phoneVibrationStrength, Percent, v =>
                 {
                     save.phoneVibrationStrength = v;
                     App.I.SaveSystem.MarkDirty();
@@ -322,12 +350,12 @@ namespace Casino.Screens
             }
             if (pad)
             {
-                Row("CONTROLLER VIBRATION", Switch.Create(page, save.padVibration, on =>
+                Row(Loc.T("CONTROLLER VIBRATION"), Switch.Create(page, save.padVibration, on =>
                 {
                     save.padVibration = on;
                     App.I.SaveSystem.MarkDirty();
                 }).transform);
-                Row("CONTROLLER STRENGTH", ValueSlider(save.padVibrationStrength, Percent, v =>
+                Row(Loc.T("CONTROLLER STRENGTH"), ValueSlider(save.padVibrationStrength, Percent, v =>
                 {
                     save.padVibrationStrength = v;
                     App.I.SaveSystem.MarkDirty();
@@ -338,11 +366,18 @@ namespace Casino.Screens
 
         void DevTab()
         {
-            Row("TEST COUNTRY", Segmented.Create(page, new[] { "AUTO", "US", "BG", "IN" }, 0, i =>
-            {
-                if (i == 0) App.I.StartCoroutine(App.I.Region.Resolve());
-                else App.I.Region.SetDevOverride(new[] { "", "US", "BG", "IN" }[i]);
-            }, 520));
+            UIButton country = null;
+            country = UIKit.Button(page, TestCountryLabel(), ButtonStyle.Dark, () =>
+                App.I.UI.Modal<CountryPickerModal>(m => m.Picked = code =>
+                {
+                    App.I.Save.testCountry = code ?? "";
+                    App.I.SaveSystem.MarkDirty();
+                    if (string.IsNullOrEmpty(code)) App.I.StartCoroutine(App.I.Region.Resolve());
+                    else App.I.Region.SetDevOverride(code);
+                    if (country != null) country.SetLabel(TestCountryLabel());
+                }), 30, Icon.Globe, FontKind.Semi);
+            country.Rect.sizeDelta = new Vector2(520, 70);
+            Row("TEST COUNTRY", country.transform, "Every country, with its currency and regional price.");
             var reset = UIKit.Button(page, "RESET PROGRESS", ButtonStyle.Red, () =>
                 App.I.UI.Modal<ConfirmModal>(m => m.Setup("Reset everything?", "Deletes chips, stats and your profile (test builds only).",
                     "RESET", () =>
@@ -380,7 +415,7 @@ namespace Casino.Screens
             Haptics.Preview(phone, strength);
         }
 
-        static string Percent(float v) => Mathf.RoundToInt(v * 100f) + "%";
+        static string Percent(float v) => Loc.F("{0}%", Mathf.RoundToInt(v * 100f));
 
         static int Nearest(float[] values, float v)
         {
@@ -427,6 +462,12 @@ namespace Casino.Screens
             if (App.I.UI.Current is LobbyScreen) App.I.UI.Show<LobbyScreen>();
         }
 
+        static string LanguageLabel() =>
+            string.IsNullOrEmpty(Loc.Choice) ? Loc.F("AUTOMATIC ({0})", Loc.LanguageName(Loc.Current)) : Loc.LanguageName(Loc.Current);
+
+        static string TestCountryLabel() =>
+            string.IsNullOrEmpty(App.I.Save.testCountry) ? "AUTO (DETECTED)" : App.I.Save.testCountry + "  " + Loc.Country(App.I.Save.testCountry);
+
         void RefreshRegion()
         {
             if (regionText != null) regionText.text = App.I.Region.Describe();
@@ -435,7 +476,7 @@ namespace Casino.Screens
         void RefreshSwap()
         {
             if (swapText != null)
-                swapText.text = $"{Pad.Name(PadButton.Menu)} opens Settings, {Pad.Name(PadButton.View)} opens Daily.";
+                swapText.text = Loc.F("{0} opens Settings, {1} opens Daily.", Pad.Name(PadButton.Menu), Pad.Name(PadButton.View));
         }
 
         void RefreshPad()
@@ -443,20 +484,23 @@ namespace Casino.Screens
             RefreshSwap();
             if (padText == null) return;
             string family = Pad.FamilyName(Pad.Family);
-            padText.text = !Pad.Connected ? "No controller connected."
-                : $"Connected: {Pad.DeviceName}. Showing {family} buttons" + (Pad.Family == PadFamily.Nintendo ? " (A on the right confirms)." : ".");
+            padText.text = !Pad.Connected ? Loc.T("No controller connected.")
+                : Pad.Family == PadFamily.Nintendo ? Loc.F("Connected: {0}. Showing {1} buttons (A on the right confirms).", Pad.DeviceName, family)
+                : Loc.F("Connected: {0}. Showing {1} buttons.", Pad.DeviceName, family);
         }
 
         /// <summary>One setting: its name on the left, the control right-aligned, and an optional hint underneath.</summary>
         Text Row(string label, Transform control, string hint = null)
         {
             Text h = null;
+            // Right-to-left languages read the row the other way: the setting's name on the right, its control on the left.
+            bool rtl = Loc.RightToLeft;
             var t = UIKit.Label(page, label, 40, Color.white, TextAnchor.MiddleLeft, FontKind.Display);
-            ((RectTransform)t.transform).At(0.5f, 0.5f, ContentLeft, y, 640, 60, 0f, 0.5f);
+            ((RectTransform)t.transform).At(0.5f, 0.5f, rtl ? ContentRight : ContentLeft, y, 640, 60, rtl ? 1f : 0f, 0.5f);
             var crt = (RectTransform)control;
             crt.anchorMin = crt.anchorMax = new Vector2(0.5f, 0.5f);
-            crt.pivot = new Vector2(1f, 0.5f);
-            crt.anchoredPosition = new Vector2(ContentRight, y);
+            crt.pivot = new Vector2(rtl ? 0f : 1f, 0.5f);
+            crt.anchoredPosition = new Vector2(rtl ? ContentLeft : ContentRight, y);
             if (hint != null)
             {
                 h = UIKit.Label(page, hint, 22, Palette.TextMuted, TextAnchor.MiddleLeft);

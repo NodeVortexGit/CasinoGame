@@ -1,0 +1,659 @@
+# Kinyarwanda (rw). Machine translation by Claude.
+bd99124	Urushyi rw'Amachipu
+c7c6dc8	Ikirundo cy'Amachipu
+7512cfd	Isahani y'Amachipu
+fa36588	Akabati k'Amachipu
+7994f65	IKUNZWE CYANE
+49dcc21	Ububiko bw'Amachipu
+0725283	Isanduku y'Umukinnyi Ukomeye
+2f23432	Amazi arimo Gazi
+418b820	Espresso
+97b463c	Ikinyobwa cy'Imbaraga
+43bbfda	Sandwich ya Kirabu
+bce7a75	Ifunguro rya Burger
+2832a8d	Ifunguro rya Nimugoroba ry'Inyama
+dee8ee8	KUZUZA BYOSE
+a7c2255	Urukurikirane rw'Amahirwe
+7919163	Urukurikirane Rushyushye
+74fdfc2	AMAHIRWE MENSHI
+d79cd12	Ameza y'Umuringa
+2a8ff35	Ameza y'Ifeza
+51877b2	Ameza ya Zahabu
+9282152	Ameza ya Diyama
+0de8764	Andika umwaka nyawo.
+addd156	Andika umunsi nyawo.
+d78a4f4	Iyo tariki iri mu gihe kizaza.
+787c7c6	Murakaza neza ku meza yanjye! Witeguye gukina?
+8b0f93e	Nishimiye kukubona. Icara!
+75750f9	Murakaza neza! Reka iri joro ribe ryiza.
+95aac36	Shyira ubutege bwawe igihe witeguye.
+8bc63c1	Amachipu ku meza, reka turebe amakarita.
+984b7f3	Turakinira iki?
+b74c769	Wow, ubutege bunini! Nkunda uburyo bwawe.
+77fc1fc	Ubwo ni ubutege nyabwo. Tugende!
+7779a5b	Ufite ubutwari muri iri joro, si byo?
+479ff82	Byose?! Umutima wanjye uradunda!
+7bf0c5d	Blackjack! Ni igitangaza!
+123f2d5	Makumyabiri na rimwe, gutyo gusa!
+cd850a7	Blackjack! Amakarita agukunda muri iri joro.
+55f50ee	Wakinnye neza!
+0df710e	Uri mu nzira nziza!
+20a0c1e	Icyo ni icyawe.
+a45fe61	Mbega intsinzi! Abantu bose bareba aya meza!
+54d3982	Ni byinshi! Urashya muri iri joro!
+8da8f1e	Byegereye cyane! Igikurikira ni icyawe.
+5d921e1	Kazino yagize amahirwe iki gihe.
+853e7ca	Ayi, ikarita imwe irenze.
+daec44f	Warenze! Bibaho no ku beza kurusha abandi.
+11ceaef	Kunganya. Nta wutsinzwe!
+911a289	Kunganya. Amachipu yawe ari amahoro.
+a89d9d9	Narenze! Ufite amahirwe.
+f76c8fd	Ni menshi kuri njye. Watsinze!
+63f8d0b	Blackjack ya kazino, mbabarira!
+465c8bf	Utanga amakarita afite blackjack. Amahirwe make.
+6752f40	Ndagaragaza Ace. Ubwishingizi?
+1920c5a	Turagabanya! Amahirwe abiri yo gutsinda.
+9f621da	Gukuba kabiri. Intambwe y'ubutwari!
+59da99d	Kuba kabiri! Ikarita imwe iraje.
+3fa7769	Biragabanuka? Umubitsi ashobora kukongerera.
+4e5694b	Amachipu aragabanuka. Urashaka andi?
+d41f057	Amachipu yashize! Jya ku mubitsi cyangwa ufate amachipu y'ubuntu.
+15d90d3	Ikirundo cyawe ntacyo kirimo. Umubitsi ari inyuma yawe.
+a9eaae1	Usa n'unaniwe cyane! Fata icyo kurya ku kabari.
+5cd9e8b	Imbaraga zashize? Akabari kazakwitaho.
+37b9672	Fata umwanya wawe.
+c64df8c	Igihe cyose witeguye!
+b8dfc0a	Ijoro riracyari rito.
+8748560	Amahirwe y'umutangizi ari ku ruhande rwawe!
+e3def50	Amakarita ari ku ruhande rwawe muri iri joro!
+953d8b7	Murakaza neza muri kazino! Intebe yawe iragutegereje.
+2d42aaf	Murakaza neza nanone! Wumva ufite amahirwe?
+311bae7	Kanda ku meza kugira ngo utangire gukina!
+3318099	Ukeneye andi machipu? Waje ku idirishya rikwiye.
+c5b3787	Ibirundo binini, ibihembo binini!
+21ae665	Ushonje? Hitamo icyo ushaka kuri menu.
+8b83cc0	Kurya gato bikomeza imbaraga zawe!
+35f4b0e	Murakaza neza ku meza yanjye!
+8f90245	Dore uraje! Aha hamaze kumurika kurushaho.
+909e4d6	Iyumve nk'uri mu rugo. Iri joro ni iryawe.
+089f04b	Wowe! Nari nizeye ko uzanyura ku idirishya ryanjye.
+3f2c3c9	Buri gihe biranezeza kubona isura y'inshuti.
+3021db8	Reba uwaje! Urishimye?
+769980b	Muraho, mwiza!
+5361ffd	Nkunda uburyo bwawe muri iri joro.
+56b40be	Yewe, nishimiye kongera kukubona!
+3316019	Ufite ijoro ryiza? Urarikwiye.
+28283fd	Witonde, nshobora gutangira kugushyigikira.
+109ac94	Umukinnyi nkunda cyane yagarutse!
+acba0e6	Icara iruhande rwanjye, ndaguha ikintu cyiza.
+eb5ff2a	Utuma aya meza arushaho kunezeza.
+772a73c	Uragiye ubu? Ijoro riracyari rito!
+816036a	Ntushobora kunsiga ubu, tumaze gutangira gusa!
+20ce7b6	Ni byiza, ni byiza. Nzakubikira intebe ishyushye. Wasezeranya kugaruka?
+51d1aeb	Nta rukurikirane uragira? Kina inshuro {2} uyu munsi nanjye ntangire kubara.
+5e7c431	Umunsi wa {1} uragutegereje. Hasigaye inshuro {2} gusa!
+b268d84	Iminsi {0} ikurikiranye... ntuzahagarara ubu, si byo?
+a6f3fbd	Nabaze: iminsi {0}. Reka tuyigire {1}.
+1dc5c97	Ntutekereze ko ntabibonye. Hasigaye inshuro {2} zo kubungabunga urukurikirane rwawe!
+807b82c	Iminsi {0} ikurikiranye? Ntangiye gutekereza ko ukunda hano.
+6391923	Urukurikirane rwawe rufite umutekano uyu munsi. Ubu wiyerekana gusa.
+3bfbbf7	Umunsi wa {0}, birarangiye. Ejo ku isaha imwe?
+ca2a2c1	Iminsi {0}! Nkwiye kukubikira intebe.
+54f991f	Dore: umunsi wa mbere w'urukurikirane rwawe! Garuka ejo tuyigire ibiri.
+96cee95	Iminsi mirongo itatu! Hafi ukora hano ubu.
+071317f	Iyo ni iminsi {0} ikurikiranye! Irebe.
+0964027	Urukurikirane rwakijijwe: umunsi wa {0}! Nari nzi ko uzabishobora.
+c7f2a1f	Umunsi wa {0}! Ndateze ko utazagera kuri {1}.
+a6ce2e2	Iminsi {0}... ni byiza, wa mwirasi we.
+6ac41cc	Bona blackjack
+74cf149	Tsinda amachipu 500 muri blackjack
+66440e1	Zunguza slot inshuro 20
+9205056	Tsinda inzunguruko 5 za slot
+cd60e0c	Tsinda inshuro 5 z'ubutege bwawe kuri slot
+6f7ac28	Kina inshuro 5 za roulette
+6978cc0	Tsinda inzunguruko 3 za roulette
+8a57c54	aho uherereye kuri GPS
+4919635	umuyoboro wa telefoni
+527b094	murandasi
+f49ae82	igenamiterere ry'igikoresho
+60827d3	igihugu cy'igerageza
+0b2f8d8	ntibyemejwe (igiciro gisanzwe)
+50d8b4a	ntibizwi
+4fb7a4e	12 za mbere
+647a0eb	12 za kabiri
+a934745	12 za gatatu
+3de80ab	2 kuri 1
+bb4e68e	UMUTUKU
+a9414ab	UMUKARA
+4d60d6c	IBICIRO BIBEREYE IGIHUGU CYAWE
+1674d95	Ibiciro by'iduka bihuzwa n'ubukungu bw'igihugu cyawe, kugira ngo abakinnyi aho bari hose bishyure igiciro kiboneye.
+4ec27ee	Kugira ngo tumenye igihugu cyawe, turebe aho uherereye hafi rimwe. Bihuzwa n'igihugu ku gikoresho cyawe kandi ntibyoherezwa ahandi. Niba wanze, ibiciro bisanzwe birakurikizwa.
+ff3dbb4	KOMEZA
+43a6a8d	Kuva muri kazino?
+ad209a0	Amachipu yawe n'aho ugeze byabitswe.
+f1e0808	GUMAHO
+5b38c49	{0} yafunguwe
+15ae7ac	Gukonjesha urukurikirane byarokoye urukurikirane rwawe rw'iminsi {0} ejo hashize.
+d375ffb	Gukonjesha {0} byarokoye urukurikirane rwawe rw'iminsi {1}.
+fd8ab39	Urukurikirane rwawe rw'iminsi {0} rwarangiye. Kina inshuro {1} uyu munsi kugira ngo utangire urundi!
+7fa2db4	INSHINGANO YARANGIYE
+255325c	+amachipu {0}
+d205ece	INSHINGANO ZOSE ZARANGIYE!
+4acbed2	Igihembo cya buri munsi +amachipu {0}. Inshingano nshya ejo.
+ab2ceb3	URWEGO {0}!
+86e2afb	Intambwe ikomeye! +amachipu {0}
+9ae18ad	Garuka ejo kugira ngo ukomeze
+7af7e7c	+1 gukonjesha urukurikirane
+b5b9597	URUKURIKIRANE RW'IMINSI {0}!
+62ec60d	Kugura ntibiboneka muri iyi verisiyo.
+1f9786c	Kugura byanze. Ntiwishyujwe.
+3e4c600	Hongewemo +amachipu {0}!
+af5e232	{0}: +{1}% imbaraga
+001a53b	Ntibiboneka kuri iki gikoresho
+2607004	Amashusho ntashobora gufunguka kuri uyu muyoboro
+569c30d	Garuka ejo
+ecae6ee	Biriteguye mu masegonda {0}
+9964820	+amachipu {0} (hasigaye {1} uyu munsi)
+e1bd888	+amachipu {0} y'ubuntu!
+619bd5d	+1 gukonjesha urukurikirane!
+f70d794	Nta mashusho ahari ubu. Ongera ugerageze nyuma gato.
+264d71b	UMURINGA
+462e839	IFEZA
+81ff70a	ZAHABU
+50e122e	DIYAMA
+57f5f5e	Menu
+69bd4ef	Kureba
+a42f608	Turimo kugenzura akarere kawe...
+1db422c	Ntibyemejwe ({0}): ibiciro bisanzwe
+9bc0807	{0} ({1}): ibiciro mu {2}
+ae8c393	Ibyibutsa
+aefd59b	Amachipu y'ubuntu yiteguye n'ibyibutsa by'urukurikirane
+3125838	Amachipu yawe y'ubuntu yiteguye
+233027b	Amachipu {0} agutegereje kuri Lucky Ace.
+b93976b	Bungabunga urukurikirane rwawe rw'iminsi {0}
+bd68038	Kina inshuro {0} uyu munsi kugira ngo rudasubira ku busa saa sita z'ijoro.
+0acfb6f	Murakaza neza! Amahirwe y'umutangizi ari ku ruhande rwawe muri iri joro. Shyira ubutege!
+d589374	BLACKJACK YISHYURA 3 KURI 2   •   UTANGA AMAKARITA AHAGARARA KURI 17 ZOSE   •   UBWISHINGIZI BWISHYURA 2 KURI 1
+b700b02	UBUTEGE
+16ec74f	SIBA
+928226b	SUBIRAMO
+43e7971	HAGARARA
+097274c	KUBA KABIRI
+6df63ca	GABANYA
+3e40f46	ISHINGIRE
+db82d3a	OYA, MURAKOZE
+9587b70	Wageze ku ntarengwa y'ameza
+b9ac47d	Amachipu ntahagije
+d237ade	Utanga amakarita agaragaza Ace. Kwishingira kuri {0}?
+bf07c14	Ubwishingizi bwishyura {0}
+b6e674a	Utanga amakarita nta blackjack afite. Ubwishingizi bwatakaye.
+0cc9679	WARENZE
+82ce89d	UTANGA AMAKARITA YARENZE
+6e1e1a4	BLACKJACK!
+662fae5	INTSINZI
+8918d00	KUNGANYA
+8df6be4	GUTSINDWA
+9e69668	Amahirwe y'umutangizi yarangiye. Urukurikirane rw'Amahirwe rwawe rutangiye ubu.
+822f4f4	Amahirwe y'umutangizi yarangiye. Kuva ubu ni blackjack isanzwe.
+b0377c7	Urukurikirane rw'Amahirwe rwawe rwarangiye. Dusubiye kuri blackjack isanzwe.
+824ad7c	AMACHIPU YASHIZE
+ff1822d	Reba amashusho magufi ubone amachipu {0} y'ubuntu, cyangwa ujye ku mubitsi.
+e4cac2f	Jya ku mubitsi kugira ngo wongere amachipu yawe.
+c3df3e7	AMACHIPU Y'UBUNTU
+b169d33	UMUBITSI
+4d38f66	NYUMA
+3aa6941	“{0}”
+a79d4f2	GENDA
+693f697	AMAHIRWE Y'UMUTANGIZI
+641ad58	URUKURIKIRANE RW'AMAHIRWE
+c3a8946	NDABYUMVISE
+8dfc44a	URASHAKA KO AMAHIRWE YAWE AGARUKA?
+06b7689	BURI MUNSI
+4035996	URUKURIKIRANE RWA BURI MUNSI
+fbe7f18	IMINSI IKURIKIRANYE
+7a46866	UYU MUNSI
+4753707	REBA IYAMAMAZA
+6bb45f3	GURA
+62a945f	GUKONJESHA URUKURIKIRANE
+ba5b1de	Gukonjesha urukurikirane bigumisha urukurikirane rwawe ku munsi udakina. Ushobora kugira kugeza kuri {0}.\n\nGura kimwe ku machipu {1}?
+38c6090	Gukonjesha urukurikirane biriteguye.
+8fe681f	Amachipu ntahagije yo gukonjesha.
+1507c40	HAGARIKA
+457d20f	INZUNGURUKO YA BURI MUNSI
+9623247	ZUNGUZA
+ac5ef96	Amahirwe:
+1200f20	{0}%
+003a689	Watsinze amachipu {0}!
+f757137	INSHINGANO Z'UYU MUNSI
+9554fea	Kina buri munsi kugira ngo wubake urukurikirane
+5c8dbb8	Intego y'uyu munsi yagezweho! Tuzabonana ejo.
+1aeb9a1	Uyu munsi: inshuro {0} / {1} (umukino uwo ari wo wose)
+bb92856	Gukonjesha urukurikirane: {0} / {1}
+cc0a745	BYUZUYE
+419a962	NTA MASHUSHO
+2dabd99	IYAMAMAZA RIRAJE
+f12e166	Igihembo cy'urukurikirane: ibihembo ×{0}
+80948a4	Inzunguruko imwe y'ubuntu buri munsi
+596b5e0	IKURIKIRA  {0}
+7f7e7fc	Byose byarangiye! Igihembo cyafashwe.
+03a0f2a	Inshingano nshya saa sita z'ijoro.
+4784874	Rangiza zose uko ari eshatu: +amachipu {0} y'igihembo
+42c5cda	KINA
+337211e	IMIKINO
+8f5e3bd	Kurura ibumoso kugira ngo ugende  •  Kurura iburyo kugira ngo urebe  •  Kanda kugira ngo ujyeyo
+d00d221	Gusa 18+  •  Amachipu ni ayo kwishimisha: nta gaciro k'amafaranga, ntashobora na rimwe kuvunjwamo amafaranga cyangwa ibihembo
+b60f038	Turimo gufungura imiryango...
+2e5bcce	Murakaza neza! Amachipu yawe {0} yo kwakirwa ariteguye. Ameza ari imbere yawe!
+7ef7ae3	+amachipu {0} y'ubuntu! Andi mu masaha {1}.
+5d82af9	Amachipu y'ubuntu yuzuzwa buri masaha {0}. Akurikira mu {1}.
+5469985	{0}h {1}m
+bb65beb	{0}m {1}s
+ac8ba93	BUNGABUNGA URUKURIKIRANE RWAWE
+560bfa1	Urashaka icyibutsa nimugoroba utarakina, n'igihe amachipu yawe y'ubuntu yiteguye? Nta kirenze ibyo, kandi ushobora kubihagarika mu Igenamiterere.
+b724a40	NYIBUTSA
+9e0c898	+amachipu {0} yiteguye!
+1207e28	Reba amashusho: {0}
+db3655b	Amachipu y'ubuntu akurikira mu {0}
+4ca9be5	BLACKJACK
+9a612b1	Ameza 4  •  yishyura 3 kuri 2
+1194439	SLOT
+6555152	Lucky Ace 7s  •  imirongo 10
+255b1a1	ROULETTE
+6df1551	Iy'i Burayi ifite zeru imwe
+379b146	URANANIWE CYANE
+340e5c4	Imbaraga zawe zashize. Fata ikintu ku kabari kugira ngo ukomeze gukina, cyangwa ugaruke nyuma: imbaraga zigaruka buhoro igihe udahari.
+a517396	JYA KU KABARI
+7c7227f	HITAMO AMEZA YAWE
+c963de3	UBUTEGE
+c433657	URWEGO {0}
+083ac39	ICARA
+9698219	BIKENEWE {0}
+34b737e	Gera ku rwego {0} kugira ngo ukine hano. Uri ku rwego {1}.
+6cc19a9	KAZINO
+6e946b7	UU
+4a3a892	KK
+2857a6a	UUUU
+9d1fece	UMUNSI
+d3bb0c3	UKWEZI
+c0f0cad	UMWAKA
+43985ff	WAVUTSE RYARI?
+293fda2	Amachipu ni ayo kwishimisha gusa. Nta gaciro k'amafaranga afite kandi ntashobora na rimwe kuvunjwamo amafaranga cyangwa ibihembo.
+3e9128d	MBABARIRA, NTUSHOBORA GUKINA
+b5e8985	{0} iboneka ku bantu bakuru gusa.
+bb1b380	SOHOKA
+d9f9432	Birafunga mu {0}...
+c6e102d	TUBWIRE IBYAWE
+31120ce	Tuzahitamo abakira abashyitsi, abatanga amakarita n'abakozi b'akabari bakubereye. Ushobora kubihindura igihe icyo ari cyo cyose mu Igenamiterere.
+49e8df9	NDI UMUGABO
+85abe81	NDI UMUGORE
+76cc98c	NHITAMO KUTABIVUGA
+964daf7	INJIRA MURI KAZINO
+2efb69a	Abakozi bawe muri iri joro:
+c10e749	Paji {0} kuri {1}
+2a3ffd9	URURIMI
+c673535	BYIKORA
+d1245d2	IGIHUGU
+531fb3f	Amachipu ntahagije kuri ubwo butege.
+380eb75	Intarengwa y'ameza ni {0} kuri buri nzunguruko.
+8f191f9	UBUTEGE BWOSE  {0}
+82e1181	Kanda ku kibaho kugira ngo ushyireho amachipu
+bb19a75	Nta butege bundi!
+5becf07	ICYATSI
+bc74f4f	icyatsi
+7898801	umutuku
+466bc8c	umukara
+b252caf	Watsinze! Utsindiye {0}.
+8587d14	INTSINZI  +{0}
+b862a2b	{0} {1}. {2} agarutse kuri wowe.
+a306d0a	BYASUBIJWE  {0}
+af3134d	Nta ntsinzi iki gihe
+52205f4	Tegereza umupira uhagarare.
+c4b9243	IGENAMITERERE
+44d863e	RUSANGE
+2bbca79	AMASHUSHO
+955c8b4	IJWI
+c701f5f	GUKORAHO
+efcc94a	IMBEBA
+8433628	IGENZURA
+d868a50	KUNYEGANYEGA
+f8692c7	18+ • Amachipu nta gaciro k'amafaranga afite • Imyandikire: Bebas Neue, Poppins, Noto (SIL OFL) • Imipaka: Natural Earth • Amakuru y'ibiciro: Banki y'Isi
+da46447	ABAKOZI BA KAZINO
+594b81e	ABAGORE
+69d3313	ABAGABO
+b4325d3	IVANGE
+414594a	IBYIBUTSA
+6cac87b	Amachipu y'ubuntu yiteguye, n'icyibutsa cya nimugoroba mbere y'uko urukurikirane rurangira.
+e43b2e0	ONGERA UGENZURE
+7c9e8f9	AKARERE K'IBICIRO
+b052523	Hasi harabagirana, ibiti na zahabu byerekana icyumba.
+6bd30d7	Isura ya filime: amabara atunganyijwe, utunyangingo, kurabagirana, imirasire y'urumuri, uruhu rufite ubuzima.
+21b6e1d	Lens ya sinema: kwibanda bikurikira ijisho ryawe, imirongo ku matara, ivumbi mu mirasire.
+fb7c2e8	UBWIZA
+d8b9679	HASI
+f68525a	HAGATI
+d77d0b2	HEJURU
+9289eee	ULTRA
+637e313	UBUSOBANUTSE
+2e7b141	Hasi horoshye ariko hakonja kandi hazigama bateri.
+93dcfb5	UBURYO BWO KWEREKANA
+3c6eac3	EKRANI YOSE
+f3690b1	IDIRISHYA
+cfa6200	KOROSHYA IMPANDE
+ad50489	BIZIMYE
+f178804	Byoroshya impande zikomeye muri kazino.
+4266288	UMUVUDUKO W'AMASHUSHO
+d031ab0	{0} FPS
+a2b7514	FPS 30 izigama bateri kandi igumisha telefoni zishaje zikonje.
+0babcee	V-SYNC
+6656e25	UBUGARI BWO KUREBA
+41c8f6e	IJWI RUSANGE
+bf3af1f	UMUZIKI
+bd80907	IJWI RY'INGARUKA
+d098036	AMAJWI Y'ABAKOZI
+93c6484	Ukwongorera kw'abakozi iyo bavuga.
+16bf71a	CECEKESHA INYUMA
+85b2ee7	Icecekesha kazino igihe uri mu rindi dirishya.
+8e3634e	UBWUMVA BWO KUREBA
+880dc05	Uko gukurura bihindura kureba vuba.
+750c60f	Uko gukurura n'imbeba bihindura kureba vuba.
+8b988eb	HINDURA KUREBA IBUMOSO / IBURYO
+cacf0cc	HINDURA KUREBA HEJURU / HASI
+2d13b68	IMITERERE Y'UTUBUTO
+50c3f10	BYIKORA
+b471e5c	GUHINDURANYA MENU / KUREBA
+d9a59f1	UBWUMVA BW'AKABAHO
+ec14343	Uko akabaho k'iburyo gahindura kureba vuba.
+a79af23	HINDURA AKABAHO IBUMOSO / IBURYO
+acfc66e	HINDURA AKABAHO HEJURU / HASI
+56bb461	INAMA Z'IGENZURA
+51cf49a	Yerekana icyo buri kabuto gakora igihe ukina ukoresheje igenzura.
+dff7431	NYEGANYEZA KURI
+34139ab	TELEFONI
+15ee988	BYOMBI
+465cc91	Byikora: igenzura iyo rihujwe, bitabaye ibyo telefoni.
+f6fed84	KUNYEGANYEGA KWA TELEFONI
+8e97fa7	IMBARAGA ZA TELEFONI
+486ba2d	KUNYEGANYEGA KW'IGENZURA
+8008889	IMBARAGA Z'IGENZURA
+ea9233e	BYIKORA ({0})
+167dda7	{0} ifungura Igenamiterere, {1} ifungura Buri Munsi.
+29a4ef9	Nta genzura rihujwe.
+558ecd2	Byahujwe: {0}. Herekanwa utubuto twa {1} (A iburyo iremeza).
+d6eee9e	Byahujwe: {0}. Herekanwa utubuto twa {1}.
+78525d5	AKABARI
+099db9f	AMAHIRWE
+b4a8b06	Amachipu, amahirwe n'ibiryo ni ibintu by'ikoranabuhanga byo kwishimisha gusa: nta gaciro k'amafaranga, ntibivunjwamo amafaranga cyangwa ibihembo.
+04fbc6d	Emerera kugera aho uherereye kugira ngo ubone igiciro cy'igihugu cyawe
+2ae87fc	Kugura ntibiboneka muri iyi verisiyo y'umukino.
+8239a84	IDUKA RY'IGERAGEZA (si amafaranga nyayo)
+173d916	imbaraga
+b2c67eb	+{0}% AMACHIPU
+c69e8ee	LUCKY ACE 7s
+fc99288	UBUTEGE BWOSE
+c1c00cd	IMBONERAHAMWE Y'IBIHEMBO
+3930abd	AMAHIRWE MASA!
+67b6973	Ukeneye nibura amachipu 10 kugira ngo uzunguze.
+5aa1edb	BONA AMACHIPU
+f5a1812	Ubutege bwagabanyijwe ku cyo ushobora kwishyura.
+5c63f61	INTSINZI IKOMEYE CYANE!
+652544f	INTSINZI IKOMEYE!
+91bc41c	BYASUBIJWE {0}
+3714283	NTA NTSINZI
+33c0faa	UMURONGO {0}: {1} × {2} = {3}
+9f59e6e	INYENYERI {0} = {1}
+d6eee90	Sheri
+4459b79	Indimu
+09fb6aa	Icunga
+cb92e50	Pulamu
+d419866	Inzogera
+e496fd2	Bar
+63abb56	Karindwi
+b3850e0	Diyama
+fc2b5a9	Ace
+85a7de6	Inyenyeri
+c31b035	INYENYERI zishyura ahantu hose: 5 = ubutege ×{0}, 4 = ubutege ×{1}, 3 = ubutege ×{2}.
+f97509c	ACE ni wild: isimbura ikimenyetso cyose usibye inyenyeri.
+3e8bc69	Ibihembo by'imirongo ni inshuro z'ubutege bw'umurongo (ubutege bwose ÷ 10), uhereye ibumoso ujya iburyo uhereye ku ruziga rwa mbere.
+e0c705d	Genda
+b8db515	Reba
+503d46d	Utubuto
+c7f73bb	Igenamiterere
+728298d	Buri munsi
+ab166bd	Hindura
+76cdb95	Igendere
+8598222	Hitamo
+bbfa773	Funga
+b52b36b	Subira inyuma
+ab37588	URANANIWE
+9b11a09	AMAHIRWE Y'UMUTANGIZI {0}%
+51ed273	URUKURIKIRANE RW'AMAHIRWE {0}%
+f481cc6	URWEGO
+0139615	MURAKAZA NEZA
+daad514	VUGANA N'UWAKIRA ABASHYITSI
+bcefb10	Icyerekezo n'inama
+c28e782	AMACHIPU  •  IBIHEMBO
+0c69ec4	GURA AMACHIPU
+78c0727	Umubitsi
+1737fab	IBINYOBWA  •  UTURYO  •  IMBARAGA
+9e008ae	IBIRYO N'IBINYOBWA
+f7881e8	Akabari
+0e979ed	BLACKJACK YISHYURA 3 KURI 2
+eea0d12	UTANGA AMAKARITA AGOMBA GUHAGARARA KURI 17
+4db37bf	KINA BLACKJACK
+0ffdd99	Ameza {0}  •  ubutege kuva kuri {1} kugeza kuri {2}
+b4f938b	KINA SLOT
+26b1e39	KINA ROULETTE
+910a1ed	Uruziga rw'i Burayi  •  umubare umwe wishyura 35 kuri 1
+7ef0215	TUMIZA IKINYOBWA
+f7b6306	{0} ifunguka ku rwego {1}. Uri ku rwego {2}: buri nshuro ukina irabarwa.
+d85f1ad	Aya meza akenera nibura amachipu {0}.
+cbfe016	Ameza ya blackjack ari imbere yawe. Jya kuri amwe wicare!
+64d9faf	Umubitsi ari hano iburyo bwawe, akabari kari ku ruhande rw'urukuta rw'ibumoso.
+e4c6e0b	Urananiwe? Uturyo ku kabari twuzuza imbaraga zawe ako kanya.
+d5ab68f	Kanda aho ari ho hose hasi uragenda ujyeyo. Kanda ku meza kugira ngo wicare.
+cc21f74	GITO
+dc01dec	KININI
+5fb90b0	ITATU IYO ARI YO YOSE
+9c716f1	Ameza ya hold'em
+854fe20	Kina inshuro 8 za sic bo
+dfddac1	Tsinda inshuro 4 za sic bo
+2973ea7	Tera amadado inshuro 15 muri craps
+4dbb81d	Bona flush cyangwa ibirenzeho muri video poker
+19aa07b	Royal flush
+cf83e72	Straight flush
+dbe8641	Full house
+7c936d7	Flush
+2501c65	Ikurikirana
+ca1a0d4	Eshatu zisa
+2537f88	Ebyiri zisa
+b4b323e	Ikarita yo hejuru
+f70bfdc	Jack cyangwa ibirenzeho
+98fd5af	BACCARAT
+df66d5a	Murakaza neza kuri baccarat! Umukinnyi, Banki cyangwa Kunganya?
+5055efd	UMUKINNYI
+3f90696	KUNGANYA
+0d75f63	BANKI
+0ebd5a4	IBYAVUYE VUBA
+511993d	U
+ae4f281	B
+c2c53d6	K
+11023a0	KUNGANYA  {0}
+503d5f1	UMUKINNYI ATSINZE  {0} KURI {1}
+0eb4be5	BANKI ITSINZE  {0} KURI {1}
+7859af1	CRAPS
+4083dbd	Murakaza neza kuri craps! Tega kuri Pass Line hanyuma utere.
+d266326	GATANDATU
+c506f3a	ICYENDA
+987f4e9	FIELD
+71c1b2b	2 3 4 9 10 11 12  •  2 na 12 byishyura kabiri
+d0ac294	7 IYO ARI YO YOSE
+9b2f0c3	CRAPS IYO ARI YO YOSE
+f62ac59	DON'T PASS BAR
+6080ade	1:1  •  12 ni ukunganya
+c07247a	PASS LINE
+6229f78	ODDS
+29bf819	amahirwe nyayo
+387d7a5	BIRAKORA
+229c9cc	Odds zishyirwa inyuma ya Pass Line iyo hari point.
+c2c8e82	Odds zisaba gutega kuri Pass Line.
+fdc3442	Gutega ku murongo bikorwa ku gutera kwa mbere.
+97ce95b	KU MEZA  {0}
+a895ec0	Point ni {0}: yongere uyitere mbere ya 7. Odds ziri inyuma ya Pass Line zishyura amahirwe nyayo.
+d9f9d65	TERA
+bcf32ef	Point ni {0}.
+5b450b4	{0}! Point yabonetse. Watsinze!
+9746e08	Hasohotse 7. Uwutera mushya, gutera kwa mbere gushya.
+4fc4664	{0}, natural! Pass Line iratsinze.
+203f466	{0}, craps. Umurongo uratsinzwe.
+0f8e260	Tegereza amadado ahagarare.
+0e138d1	HOLD'EM
+5e023be	Murakaza neza kuri hold'em! Shyiraho ante turebe amakarita.
+0cd62f5	ANTE
+5e9f331	BLIND
+3b935ab	BLIND YISHYURA
+20713a4	Utanga amakarita yemerwa afite ebyiri zisa cyangwa ibirenzeho
+d37267c	CHECK
+9a4e316	FOLD
+88313c4	TEGA {0}×
+f541cec	Check, cyangwa utege inshuro eshatu cyangwa enye za ante?
+fc74a79	Zamura ubu ku 4× cyangwa 3× za ante, cyangwa ukore check urebe flop.
+b687501	Amahirwe ya nyuma: tega 1× ya ante, cyangwa ukore fold utakaze ante na blind.
+400009c	Tega 2× ya ante ubu, cyangwa ukore check urebe amakarita abiri ya nyuma.
+f4abdf9	Dore flop.
+0e51f2c	Turn na river.
+cc856d3	Reka turebe ibyo mfite.
+6ba1f3e	Utanga amakarita ntiyemewe: ante yawe iragaruka.
+177fab0	Ultimate Texas Hold'em
+c4917b9	Umukinnyi, Banki cyangwa Kunganya
+6e4fe7b	VIDEO POKER
+73cabd3	Jacks or Better
+91c4555	SIC BO
+d810061	Amadado atatu  •  kinini cyangwa gito
+85ab7ec	Pass Line  •  Field  •  Odds
+35d8db6	Murakaza neza kuri sic bo! Kinini, gito cyangwa ikindi gisaba ubutwari?
+86ade94	NYEGANYEZA
+b69304e	ITATU ZA {0}!
+5d1bcc6	YAFASHWE
+36a21ba	Gabura, fata amakarita ushaka, uhindure rimwe.
+99fa8e8	FATA
+249d1c0	INAMA
+7aab1bd	HINDURA
+5595eb4	Kanda amakarita kugira ngo uyafate, hanyuma uhindure.
+1c05db9	KINA HOLD'EM
+e353e5f	Ultimate Texas Hold'em  •  ante kuva {0} kugeza {1}
+6470369	KINA BACCARAT
+bbe0077	KININI  •  GITO  •  ITATU ZISA
+3ba448f	KINA SIC BO
+097c59c	Amadado atatu  •  kinini cyangwa gito byishyura 1 kuri 1
+af2ca30	PASS LINE  •  FIELD  •  ODDS
+f18398e	KINA CRAPS
+eeede6d	Pass Line yishyura 1 kuri 1  •  odds zishyura amahirwe nyayo
+34e5170	KINA VIDEO POKER
+f71bdfb	Jacks or Better  •  imbonerahamwe yuzuye 9/6
+4a6c087	JACKS OR BETTER  •  ROYAL FLUSH YISHYURA 800×
+370a133	Imashini za slot ziri ku rukuta rw'iburyo, video poker ku rukuta rw'inyuma, naho roulette iri inyuma rwose.
+8298d28	Hold'em iri mu mfuruka y'inyuma ibumoso, nyuma y'akabari.
+a2a111f	Baccarat iri ibumoso ukimara kwinjira.
+b7193bc	Sic bo iri mu mfuruka nyuma y'umubitsi: amadado atatu, kinini cyangwa gito.
+25320c8	Ameza ya craps ari iburyo, imbere y'imashini za slot. Tega kuri Pass Line hanyuma utere!
+dc81691	Sofia
+4d9936f	Elena
+3aa0674	Mia
+b724114	Valentina
+34d3f7f	Chloe
+0fc9dd6	Isabella
+bbd3e35	Nadia
+eac677d	Aria
+baaf10f	Luna
+8641381	Camila
+eeee9b7	Aurora
+8a59f05	Bianca
+5a0fc29	Serena
+bf38aa5	Marco
+cfaf50a	Leo
+5815f22	Adrian
+cbede02	Lucas
+f0b9995	Viktor
+7b37259	Daniel
+aaac72d	Gabriel
+2f8f37e	Ethan
+a01126e	Julian
+3e05c90	Rafael
+e1ae457	Mateo
+3398634	Nico
+7aa2d07	Enzo
+84122e7	Shyira ubutege bwawe, nyabuneka.
+15fc12b	Murakaza neza! Shyira ubutege bwawe, nyabuneka.
+5860c84	SOHOKA
+d4e14c9	Andika ukwezi nyawo (1-12).
+395ed46	KURA IKARITA
+6a98cfe	URAVA KU MEZA?
+f2edfbf	Wakubise neza! Turakwishimiye!
+9fd9844	Mugoroba mwiza! Ameza arashyushye muri iri joro.
+55ad592	KURAHO UBUTEGE
+710756a	UTAGABANYWA NA 2
+70ca748	UGABANYWA NA 2
+7658705	AGACIRO KEZA CYANE
+8338021	Muraho! Amakarita ni mashya, nanjye mfite imbaraga nyinshi.
+7fb527c	Byose ku mukino umwe. Nta bwoba!
+79594b1	Watsinze! Wakoze neza.
+f923af7	Bireke, umukino mushya uraje.
+0b48017	Amakarita mashya, ndayavanga!
+506ade9	Amahirwe y'umutangizi yarangiye. Kuva ubu ni umukino uboneye!
+2477f78	Nkunda uko wumwenyura. Ijoro ry'amahirwe?
+178301a	Ngwino, umukino umwe gusa. Mfite icyizere cyiza kuri uyu!
+5c9b7e2	Amahirwe ya nyuma! Umukino ukurikira ushobora kuba munini...
+10b25d9	Intangiriro nshya! Kina inshuro {2} maze umuriro wawe uraka.
+0c10711	Mfite urutonde ruto rw'abaza buri munsi. Nturi kuri rwo... kugeza ubu.
+b32ae79	Umuriro wawe usa n'ukonje gato uyu munsi. Inshuro {2} zizawushyushya.
+a1e7ab0	Icyumweru cyose gikurikiranye! Ndatangaye by'ukuri.
+a9834cd	Iminsi ijana. Ndabwira buri wese ibyawe.
+3ab91d0	Kina imikino 10 ya blackjack
+38e863d	Tsinda imikino 5 ya blackjack
+c8ebbcc	Tsinda utegeye ku mubare umwe
+3b6ab84	Kina imikino 8 ya hold'em
+6c617ca	Tsinda imikino 4 ya hold'em
+44ce500	Kina imikino 10 ya baccarat
+b90cff7	Tsinda imikino 5 ya baccarat
+3e4dfa9	Kina imikino 15 ya video poker
+737be17	Tsinda inshuro 4 zo gutera amadado muri craps
+d27ba03	Enye zisa
+6876b40	Ebyiri zisa kabiri
+dbfe736	Cross
+1cc7820	Circle
+82810cb	Square
+73d3ae2	Triangle
+1998202	{0}: imikino {1} ifite amahirwe {2}%, nyuma y'Amahirwe y'Umutangizi
+728ada5	{0}: imikino {1} ifite amahirwe {2}%!
+55591e0	GABURA
+781246e	Hitamo ichipu, hanyuma ukande Umukinnyi, Banki cyangwa Kunganya
+cb8171b	Banza urangize uyu mukino.
+28d6be8	TEGA {0}+
+6f846f4	UMUKINO UMWE UNDI
+fc45931	Igihembo cyo kwakira abakinnyi bashya: mu mikino <b>{0}</b> ya mbere, amakarita y'utanga amakarita ateguwe ku nyungu zawe, bityo uzatsinda hafi buri mukino.
+576c683	Mu mikino <b>{0}</b> ikurikira inyungu igenda igabanuka, hanyuma ameza yose akaba blackjack isanzwe kandi iboneye, ivuye mu mapaki 6 y'amakarita yavanzwe (blackjack yishyura 3 kuri 2, utanga amakarita ahagarara kuri 17 zose).
+7fb55b3	Inyungu ubu: <b><color=#7CFC9A>{0}%</color></b>   Imikino isigaye: <b>{1}</b>
+d4f8fe0	Mu <b>mikino {0} ya blackjack</b> ikurikira ifite ubutege bugera ku <b>machipu {1}</b>, buri karita ifite amahirwe ya <b>{2}%</b> yo gutangwa ku nyungu zawe (inyungu ingana n'iy'Amahirwe y'Umutangizi).
+0a5fc06	Ukinnye neza, ibyo bitsinda hafi <b>{0}%</b> by'imikino, ugereranyije na hafi {1}% muri blackjack isanzwe. Ubutege bunini ni blackjack isanzwe kandi ntibukoresha imikino. Imikino nirangira, ameza yose yongera kuba blackjack isanzwe kandi iboneye.
+272a97f	Amahirwe y'Umutangizi yarangiye: kuva ubu ameza yose ni blackjack isanzwe kandi iboneye. Urukurikirane rw'Amahirwe rugarura inyungu mu gihe gito.
+1784d43	Odds zawe zageze ku ntarengwa.
+8430088	Ubutege bwawe ku murongo buracyakora kuri point {0}. Nugenda ubu, buzatakara.
+7b7f9e2	Ibyiza cyane: iminsi {0}
+0ec6216	Rokora urukurikirane rwawe ku munsi utakinnye. +1 buri minsi 7.
+42c6fea	Ante {0} + blind {0}. Bika andi {1} yo kuzamura.
+1abb2f2	Kanda amachipu ushyireho ante. Blind ingana na yo.
+cf1fdc5	Wataye amakarita. Umukino ukurikira ni uwawe.
+244aadb	EREKANA FPS
+495c70e	Byihuta cyane: kazino uko ishushanyije, nta kindi kirenzeho.
+58e8011	imikino {0}
+ce80712	itsinda hafi {0}% yayo
+3d05514	Intarengwa y'ameza ni {0} kuri buri gutera.
+523f8dc	AMACHIPU ASUBIZWA: {0}% mu gihe kirekire. Buri nzunguruko yigenga kandi ntiyateganywa.
+0c94e98	HASIGAYE IMIKINO {0}
+3401470	IMIKINO {0}  •  UBUTEGE KUGEZA KURI {1}
+fe38d73	{0} arakizana
+6b7caea	SHYIRA UBUTEGE BWAWE
+e2a28c9	Buri karita ifite ayo mahirwe yo gutangwa ku nyungu zawe, ku butege bwa blackjack bugera ku machipu {0} (ubutege bunini ni busanzwe kandi ntibukoresha imikino). Bitangira nyuma y'Amahirwe y'Umutangizi; amapaki akomeye akoreshwa mbere.
+6ac2120	Humura, uri mu maboko meza hano.
+1920e2f	Gutera kwa mbere: tega kuri Pass Line, hanyuma utere. 7 cyangwa 11 biratsinda; 2, 3 cyangwa 12 biratsindwa. Gutega kwa Place bitangira gukora iyo hari point.
+99f4934	LUCKY ACE 7s  •  YISHYURA KUGEZA KURI 2,500× UBUTEGE BW'UMURONGO BWAWE

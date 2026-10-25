@@ -1,0 +1,659 @@
+# Vietnamese (vi). Machine translation by Claude.
+bd99124	Một nắm chip
+c7c6dc8	Một chồng chip
+7512cfd	Một khay chip
+fa36588	Một giá chip
+7994f65	PHỔ BIẾN NHẤT
+49dcc21	Một két chip
+0725283	Két sắt cao thủ
+7658705	GIÁ TRỊ NHẤT
+2f23432	Nước có ga
+418b820	Espresso
+97b463c	Nước tăng lực
+43bbfda	Sandwich câu lạc bộ
+bce7a75	Suất burger
+2832a8d	Bữa tối bít tết
+dee8ee8	NẠP ĐẦY
+a7c2255	Chuỗi may mắn
+7919163	Chuỗi nóng
+74fdfc2	MAY MẮN NHẤT
+d79cd12	Bàn Đồng
+2a8ff35	Bàn Bạc
+51877b2	Bàn Vàng
+9282152	Bàn Kim Cương
+0de8764	Vui lòng nhập năm hợp lệ.
+d4e14c9	Vui lòng nhập tháng hợp lệ (1-12).
+addd156	Vui lòng nhập ngày hợp lệ.
+d78a4f4	Ngày đó nằm trong tương lai.
+787c7c6	Chào mừng đến bàn của mình! Sẵn sàng chơi chưa?
+8b0f93e	Vui quá được gặp bạn. Mời ngồi!
+8338021	Xin chào! Bài còn mới, mình cũng vậy.
+75750f9	Chào mừng! Cùng làm tối nay thật tuyệt nhé.
+95aac36	Đặt cược bất cứ khi nào bạn sẵn sàng.
+8bc63c1	Chip xuống bàn, rồi cùng xem bài nào.
+984b7f3	Mình chơi vì cái gì đây?
+b74c769	Ồ, cược lớn! Mình thích phong cách của bạn.
+77fc1fc	Đó mới gọi là cược. Chơi thôi!
+7779a5b	Tối nay thấy liều quá nhỉ?
+479ff82	Tất tay?! Tim mình đập thình thịch!
+7fb527c	Tất cả vào một ván. Không sợ hãi!
+7bf0c5d	Blackjack! Không thể tin được!
+123f2d5	Hai mươi mốt, dễ như vậy!
+cd850a7	Blackjack! Tối nay quân bài yêu bạn lắm.
+55f50ee	Chơi hay lắm!
+79594b1	Thắng rồi! Giỏi quá.
+0df710e	Bạn đang vào phom đấy!
+20a0c1e	Ván đó là của bạn.
+a45fe61	Thắng lớn quá! Cả sòng đang nhìn bàn này!
+54d3982	Khủng thật! Tối nay bạn đang cháy!
+8da8f1e	Suýt chút nữa! Ván sau là của bạn.
+5d921e1	Lần này nhà cái gặp may.
+f923af7	Quên nó đi, ván mới tới rồi.
+853e7ca	Ui, quá một lá rồi.
+daec44f	Quắc! Ai giỏi cũng có lúc bị.
+11ceaef	Hòa. Không ai thua!
+911a289	Hòa. Chip của bạn an toàn.
+a89d9d9	Mình bị quắc! Bạn may thật.
+f76c8fd	Quá nhiều với mình. Bạn thắng!
+63f8d0b	Blackjack cho nhà cái, xin lỗi nhé!
+465c8bf	Nhà cái có blackjack. Xui quá.
+6752f40	Mình đang lật át. Mua bảo hiểm không?
+1920c5a	Tách bài! Hai cơ hội để thắng.
+9f621da	Gấp đôi. Nước đi dũng cảm!
+59da99d	Gấp đôi đi! Một lá sắp tới.
+0b48017	Hộp bài mới, mình xáo đây!
+3fa7769	Sắp hết rồi à? Quầy thu ngân có thể nạp thêm cho bạn.
+4e5694b	Chip đang vơi dần. Muốn lấy thêm không?
+d41f057	Hết chip rồi! Ghé quầy thu ngân hoặc nhận chip miễn phí nhé.
+15d90d3	Chồng chip của bạn trống rồi. Quầy thu ngân ngay sau lưng bạn.
+a9eaae1	Trông bạn mệt lắm! Ăn chút gì ở quầy bar đi.
+5cd9e8b	Cạn sức rồi à? Quầy bar lo cho bạn.
+37b9672	Cứ từ từ.
+c64df8c	Khi nào bạn sẵn sàng!
+b8dfc0a	Đêm vẫn còn dài.
+8748560	May mắn của người mới đang đứng về phía bạn!
+e3def50	Bộ bài tối nay đứng về phía bạn!
+506ade9	May mắn người mới đã hết. Từ giờ trò chơi công bằng!
+953d8b7	Chào mừng đến sòng bài! Chỗ ngồi của bạn đang chờ.
+9fd9844	Chào buổi tối! Các bàn tối nay đang nóng.
+2d42aaf	Chào mừng trở lại! Thấy hên không?
+311bae7	Chạm vào một bàn để bắt đầu chơi!
+3318099	Cần thêm chip? Bạn đến đúng quầy rồi.
+c5b3787	Chồng to hơn, thưởng lớn hơn!
+21ae665	Đói không? Chọn món gì cũng được trong thực đơn.
+8b83cc0	Ăn chút gì giữ năng lượng luôn đầy!
+35f4b0e	Chào mừng đến bàn của mình!
+8f90245	Bạn đây rồi! Cả nơi này sáng hẳn lên.
+909e4d6	Cứ tự nhiên như ở nhà. Tối nay là của bạn.
+2477f78	Mình thích nụ cười đó. Đêm may mắn hả?
+6ac2120	Thư giãn đi, bạn đang ở trong tay người giỏi.
+089f04b	Này bạn! Mình đang mong bạn ghé quầy của mình.
+3f2c3c9	Luôn vui khi thấy một gương mặt thân thiện.
+3021db8	Xem ai đến này! Chơi vui không?
+769980b	Chào người đẹp!
+5361ffd	Tối nay mình thích phong cách của bạn.
+56b40be	Ôi, vui quá được gặp lại bạn!
+3316019	Tối nay vui không? Bạn xứng đáng mà.
+28283fd	Cẩn thận đấy, mình có thể bắt đầu cổ vũ cho bạn.
+109ac94	Người chơi yêu thích của mình trở lại rồi!
+acba0e6	Ngồi với mình đi, mình chia cho bạn lá đẹp.
+eb5ff2a	Có bạn, bàn này vui hơn hẳn.
+772a73c	Về sớm vậy sao? Đêm vẫn còn dài!
+178301a	Thôi nào, thêm một ván nữa thôi. Mình có linh cảm tốt!
+816036a	Bạn không thể bỏ mình lúc này, mình mới bắt đầu thôi mà!
+5c9b7e2	Cơ hội cuối! Ván tới có thể là ván lớn...
+20ce7b6	Thôi được, thôi được. Mình giữ chỗ ấm cho bạn. Hứa sẽ quay lại nhé?
+51d1aeb	Chưa có chuỗi à? Chơi {2} vòng hôm nay và mình sẽ bắt đầu đếm.
+10b25d9	Khởi đầu mới! {2} vòng và ngọn lửa của bạn sẽ bùng lên.
+0c10711	Mình có một danh sách nhỏ những người đến mỗi ngày. Bạn chưa có tên... chưa thôi.
+5e7c431	Ngày {1} đang chờ bạn. Chỉ còn {2} vòng!
+b268d84	{0} ngày liên tiếp... bạn sẽ không dừng lại bây giờ chứ?
+b32ae79	Hôm nay ngọn lửa của bạn hơi nguội. {2} vòng sẽ làm nó ấm lên.
+a6f3fbd	Mình đếm rồi: {0} ngày. Mình làm thành {1} nhé.
+1dc5c97	Đừng nghĩ mình không để ý. Còn {2} vòng để giữ chuỗi!
+807b82c	{0} ngày liên tiếp? Mình bắt đầu nghĩ bạn thích nơi này rồi.
+6391923	Chuỗi của bạn hôm nay an toàn rồi. Giờ bạn chỉ đang khoe thôi.
+3bfbbf7	Ngày {0}, xong. Mai cùng giờ nhé?
+ca2a2c1	{0} ngày! Chắc mình nên giữ chỗ cho bạn.
+54f991f	Đây rồi: ngày đầu tiên của chuỗi! Mai quay lại để thành hai nhé.
+a1e7ab0	Cả một tuần liên tiếp! Mình thật sự ấn tượng.
+96cee95	Ba mươi ngày! Bạn gần như làm việc ở đây rồi.
+a9834cd	Một trăm ngày. Mình kể với mọi người về bạn.
+071317f	Đã {0} ngày liên tiếp! Nhìn bạn kìa.
+0964027	Chuỗi được cứu: ngày {0}! Mình biết bạn làm được mà.
+c7f2a1f	Ngày {0}! Cá là bạn không tới được {1}.
+a6ce2e2	{0} ngày... được rồi, đồ khoe khoang.
+3ab91d0	Chơi 10 ván blackjack
+38e863d	Thắng 5 ván blackjack
+6ac41cc	Được một blackjack
+74cf149	Thắng 500 chip ở blackjack
+66440e1	Quay máy slot 20 lần
+9205056	Thắng 5 lượt quay slot
+cd60e0c	Thắng gấp 5 lần cược ở slot
+6f7ac28	Chơi 5 vòng roulette
+6978cc0	Thắng 3 lượt quay roulette
+c8ebbcc	Trúng một số đơn
+8a57c54	vị trí GPS
+4919635	mạng di động
+527b094	kết nối internet
+f49ae82	cài đặt thiết bị
+60827d3	quốc gia thử nghiệm
+0b2f8d8	chưa xác minh (giá chuẩn)
+50d8b4a	không rõ
+4fb7a4e	12 đầu
+647a0eb	12 giữa
+a934745	12 cuối
+3de80ab	2 ăn 1
+bb4e68e	ĐỎ
+a9414ab	ĐEN
+710756a	LẺ
+70ca748	CHẴN
+4d60d6c	GIÁ CÔNG BẰNG CHO QUỐC GIA CỦA BẠN
+1674d95	Giá trong cửa hàng được điều chỉnh theo nền kinh tế quốc gia của bạn, để người chơi ở mọi nơi đều trả mức giá công bằng.
+4ec27ee	Để xác định quốc gia, chúng tôi kiểm tra vị trí gần đúng của bạn một lần. Vị trí được đối chiếu với quốc gia ngay trên thiết bị và không bao giờ được gửi đi đâu. Nếu bạn từ chối, giá chuẩn sẽ được áp dụng.
+ff3dbb4	TIẾP TỤC
+43a6a8d	Rời sòng bài?
+ad209a0	Chip và tiến trình của bạn đã được lưu.
+5860c84	THOÁT
+f1e0808	Ở LẠI
+5b38c49	Đã mở khóa {0}
+15ae7ac	Một lượt đóng băng chuỗi đã cứu chuỗi {0} ngày của bạn hôm qua.
+d375ffb	{0} lượt đóng băng đã cứu chuỗi {1} ngày của bạn.
+fd8ab39	Chuỗi {0} ngày của bạn đã kết thúc. Chơi {1} vòng hôm nay để bắt đầu chuỗi mới!
+7fa2db4	HOÀN THÀNH NHIỆM VỤ
+255325c	+{0} chip
+d205ece	ĐÃ XONG MỌI NHIỆM VỤ!
+4acbed2	Thưởng hằng ngày +{0} chip. Nhiệm vụ mới vào ngày mai.
+ab2ceb3	CẤP {0}!
+86e2afb	Cột mốc! +{0} chip
+9ae18ad	Quay lại vào ngày mai để tiếp tục
+7af7e7c	+1 lượt đóng băng chuỗi
+b5b9597	CHUỖI {0} NGÀY!
+62ec60d	Phiên bản này không hỗ trợ mua hàng.
+1f9786c	Mua thất bại. Bạn không bị trừ tiền.
+3e4c600	Đã thêm +{0} chip!
+1998202	{0}: {1} ván với {2}% may mắn, sau May mắn người mới
+728ada5	{0}: {1} ván với {2}% may mắn!
+af5e232	{0}: +{1}% năng lượng
+001a53b	Không khả dụng trên thiết bị này
+2607004	Không thể tải video trên mạng này
+569c30d	Quay lại vào ngày mai
+ecae6ee	Sẵn sàng sau {0} giây
+9964820	+{0} chip (hôm nay còn {1})
+e1bd888	+{0} chip miễn phí!
+619bd5d	+1 lượt đóng băng chuỗi!
+f70d794	Hiện không có video. Hãy thử lại sau giây lát.
+264d71b	ĐỒNG
+462e839	BẠC
+81ff70a	VÀNG
+50e122e	KIM CƯƠNG
+57f5f5e	Menu
+69bd4ef	Xem
+dbfe736	Dấu nhân
+1cc7820	Tròn
+82810cb	Vuông
+73d3ae2	Tam giác
+a42f608	Đang kiểm tra khu vực của bạn...
+1db422c	Chưa xác minh ({0}): giá chuẩn
+9bc0807	{0} ({1}): giá bằng {2}
+ae8c393	Lời nhắc
+aefd59b	Chip miễn phí đã sẵn sàng và lời nhắc chuỗi
+3125838	Chip miễn phí của bạn đã sẵn sàng
+233027b	{0} chip đang chờ bạn tại Lucky Ace.
+b93976b	Giữ chuỗi {0} ngày của bạn
+bd68038	Chơi {0} vòng hôm nay để chuỗi không bị đặt lại lúc nửa đêm.
+0acfb6f	Chào mừng! Tối nay may mắn người mới đứng về phía bạn. Đặt cược đi!
+d589374	BLACKJACK TRẢ 3 ĂN 2   •   NHÀ CÁI DỪNG Ở MỌI ĐIỂM 17   •   BẢO HIỂM TRẢ 2 ĂN 1
+b700b02	CƯỢC
+16ec74f	XÓA
+928226b	CƯỢC LẠI
+55591e0	CHIA BÀI
+395ed46	RÚT
+43e7971	DỪNG
+097274c	GẤP ĐÔI
+6df63ca	TÁCH
+3e40f46	BẢO HIỂM
+db82d3a	KHÔNG, CẢM ƠN
+28d6be8	CƯỢC {0}+
+9587b70	Đã đạt mức tối đa của bàn
+b9ac47d	Không đủ chip
+d237ade	Nhà cái lật át. Mua bảo hiểm {0}?
+bf07c14	Bảo hiểm trả {0}
+b6e674a	Nhà cái không có blackjack. Mất tiền bảo hiểm.
+0cc9679	QUẮC
+82ce89d	NHÀ CÁI QUẮC
+6e1e1a4	BLACKJACK!
+662fae5	THẮNG
+8918d00	HÒA
+8df6be4	THUA
+9e69668	May mắn người mới đã hết. Chuỗi may mắn của bạn bắt đầu ngay bây giờ.
+822f4f4	May mắn người mới đã hết. Từ giờ là blackjack chuẩn.
+b0377c7	Chuỗi may mắn của bạn đã hết. Trở lại blackjack chuẩn.
+824ad7c	HẾT CHIP
+ff1822d	Xem một video ngắn để nhận {0} chip miễn phí, hoặc ghé quầy thu ngân.
+e4cac2f	Ghé quầy thu ngân để nạp thêm chip.
+c3df3e7	CHIP MIỄN PHÍ
+b169d33	THU NGÂN
+4d38f66	ĐỂ SAU
+cb8171b	Hãy chơi xong ván này trước.
+3aa6941	“{0}”
+6f846f4	THÊM MỘT VÁN
+a79d4f2	RỜI ĐI
+693f697	MAY MẮN NGƯỜI MỚI
+641ad58	CHUỖI MAY MẮN
+fc45931	Thưởng chào mừng người chơi mới: trong <b>{0} ván</b> đầu tiên, hộp bài của nhà cái được sắp xếp có lợi cho bạn, nên bạn sẽ thắng gần như mọi ván.
+576c683	Trong <b>{0} ván</b> tiếp theo, lợi thế giảm dần, sau đó mọi bàn đều là blackjack chuẩn, công bằng, chia từ hộp 6 bộ bài đã xáo (blackjack trả 3 ăn 2, nhà cái dừng ở mọi điểm 17).
+7fb55b3	Lợi thế hiện tại: <b><color=#7CFC9A>{0}%</color></b>   Số ván còn lại: <b>{1}</b>
+d4f8fe0	Trong <b>{0} ván blackjack</b> tiếp theo với mức cược tối đa <b>{1} chip</b>, mỗi lá bài có <b>{2}%</b> khả năng được chia có lợi cho bạn (cùng lợi thế với May mắn người mới).
+0a5fc06	Nếu chơi tốt, bạn thắng khoảng <b>{0}%</b> số ván, so với khoảng {1}% ở blackjack chuẩn. Cược lớn hơn là blackjack chuẩn và không tính vào số ván. Khi hết ván, mọi bàn lại là blackjack chuẩn, công bằng.
+c3a8946	ĐÃ HIỂU
+8dfc44a	MUỐN LẤY LẠI MAY MẮN?
+272a97f	May mắn người mới đã hết: từ giờ mọi bàn đều là blackjack chuẩn, công bằng. Chuỗi may mắn mang lợi thế trở lại trong một thời gian.
+06b7689	HẰNG NGÀY
+4035996	CHUỖI HẰNG NGÀY
+fbe7f18	NGÀY LIÊN TIẾP
+7a46866	HÔM NAY
+4753707	XEM QUẢNG CÁO
+6bb45f3	MUA
+62a945f	ĐÓNG BĂNG CHUỖI
+ba5b1de	Đóng băng chuỗi giữ chuỗi của bạn vào ngày bạn không chơi. Bạn có thể giữ tối đa {0}.\n\nMua một lượt với giá {1} chip?
+38c6090	Đóng băng chuỗi đã sẵn sàng.
+8fe681f	Không đủ chip để mua đóng băng.
+1507c40	HỦY
+457d20f	VÒNG QUAY HẰNG NGÀY
+9623247	QUAY
+ac5ef96	Tỉ lệ:
+1200f20	{0}%
+003a689	Bạn đã thắng {0} chip!
+f757137	NHIỆM VỤ HÔM NAY
+7b7f9e2	Kỷ lục: {0} ngày
+9554fea	Chơi mỗi ngày để xây dựng chuỗi
+5c8dbb8	Đã đạt mục tiêu hôm nay! Hẹn gặp ngày mai.
+1aeb9a1	Hôm nay: {0} / {1} vòng (trò bất kỳ)
+bb92856	Đóng băng chuỗi: {0} / {1}
+0ec6216	Cứu chuỗi vào ngày bạn bỏ lỡ. +1 mỗi 7 ngày.
+cc0a745	ĐẦY
+419a962	KHÔNG CÓ VIDEO
+2dabd99	SẮP CÓ QUẢNG CÁO
+f12e166	Thưởng chuỗi: giải thưởng ×{0}
+80948a4	Một lượt quay miễn phí mỗi ngày
+596b5e0	TIẾP THEO  {0}
+7f7e7fc	Xong hết! Đã nhận thưởng.
+03a0f2a	Nhiệm vụ mới lúc nửa đêm.
+4784874	Hoàn thành cả ba: +{0} chip thưởng
+42c5cda	CHƠI
+337211e	TRÒ CHƠI
+8f5e3bd	Kéo bên trái để đi  •  Kéo bên phải để nhìn  •  Chạm để đến
+d00d221	Chỉ dành cho 18+  •  Chip chỉ để giải trí: không có giá trị tiền mặt, không bao giờ đổi được thành tiền hoặc giải thưởng
+b60f038	Đang mở cửa...
+2e5bcce	Chào mừng! {0} chip chào mừng của bạn đã sẵn sàng. Các bàn ở ngay phía trước!
+7ef7ae3	+{0} chip miễn phí! Thêm sau {1} giờ.
+5d82af9	Chip miễn phí được nạp lại mỗi {0} giờ. Lần tới sau {1}.
+5469985	{0} giờ {1} phút
+bb65beb	{0} phút {1} giây
+ac8ba93	GIỮ CHUỖI CỦA BẠN
+560bfa1	Bạn muốn được nhắc vào những buổi tối chưa chơi, và khi chip miễn phí đã sẵn sàng? Không bao giờ nhiều hơn thế, và bạn có thể tắt trong Cài đặt.
+b724a40	NHẮC TÔI
+9e0c898	+{0} chip đã sẵn sàng!
+1207e28	Xem video: {0}
+db3655b	Chip miễn phí tiếp theo sau {0}
+4ca9be5	BLACKJACK
+9a612b1	4 bàn  •  trả 3 ăn 2
+1194439	MÁY SLOT
+6555152	Lucky Ace 7s  •  10 đường
+255b1a1	ROULETTE
+6df1551	Kiểu châu Âu một số 0
+379b146	BẠN KIỆT SỨC RỒI
+340e5c4	Thanh năng lượng đã cạn. Lấy gì đó ở quầy bar để chơi tiếp, hoặc quay lại sau: năng lượng hồi dần khi bạn vắng mặt.
+a517396	ĐẾN QUẦY BAR
+7c7227f	CHỌN BÀN CỦA BẠN
+c963de3	MỨC CƯỢC
+c433657	CẤP {0}
+083ac39	NGỒI XUỐNG
+9698219	CẦN {0}
+34b737e	Đạt cấp {0} để chơi ở đây. Bạn đang ở cấp {1}.
+6cc19a9	SÒNG BÀI
+6e946b7	NN
+4a3a892	TT
+2857a6a	NNNN
+9d1fece	NGÀY
+d3bb0c3	THÁNG
+c0f0cad	NĂM
+43985ff	BẠN SINH NGÀY NÀO?
+293fda2	Chip chỉ dùng để giải trí. Chip không có giá trị tiền mặt và không bao giờ đổi được thành tiền hoặc giải thưởng.
+3e9128d	XIN LỖI, BẠN KHÔNG THỂ CHƠI
+b5e8985	{0} chỉ dành cho người trưởng thành.
+bb1b380	THOÁT
+d9f9432	Đóng sau {0}...
+c6e102d	HÃY CHO CHÚNG TÔI BIẾT VỀ BẠN
+31120ce	Chúng tôi sẽ chọn nhân viên tiếp đón, chia bài và quầy bar phù hợp. Bạn có thể đổi bất cứ lúc nào trong Cài đặt.
+49e8df9	TÔI LÀ NAM
+85abe81	TÔI LÀ NỮ
+76cc98c	KHÔNG MUỐN NÓI
+964daf7	VÀO SÒNG BÀI
+2efb69a	Nhân viên của bạn tối nay:
+c10e749	Trang {0}/{1}
+2a3ffd9	NGÔN NGỮ
+c673535	TỰ ĐỘNG
+d1245d2	QUỐC GIA
+15fc12b	Xin chào! Mời quý khách đặt cược.
+531fb3f	Không đủ chip cho mức cược đó.
+380eb75	Giới hạn bàn là {0} mỗi lượt quay.
+55ad592	HOÀN TÁC
+8f191f9	TỔNG CƯỢC  {0}
+82e1181	Chạm vào bàn để đặt chip
+bb19a75	Ngừng đặt cược!
+5becf07	XANH
+bc74f4f	xanh
+7898801	đỏ
+466bc8c	đen
+f2edfbf	Trúng rồi! Xin chúc mừng!
+b252caf	Thắng! Bạn thắng {0}.
+8587d14	THẮNG  +{0}
+b862a2b	{0} {1}. Bạn nhận lại {2}.
+a306d0a	HOÀN LẠI  {0}
+af3134d	Lần này chưa thắng
+84122e7	Mời quý khách đặt cược.
+52205f4	Hãy chờ bi dừng lại.
+c4b9243	CÀI ĐẶT
+44d863e	CHUNG
+2bbca79	ĐỒ HỌA
+955c8b4	ÂM THANH
+c701f5f	CẢM ỨNG
+efcc94a	CHUỘT
+8433628	TAY CẦM
+d868a50	RUNG
+f8692c7	18+ • Chip không có giá trị tiền mặt • Phông chữ: Bebas Neue, Poppins, Noto (SIL OFL) • Biên giới: Natural Earth • Dữ liệu giá: Ngân hàng Thế giới
+da46447	NHÂN VIÊN SÒNG BÀI
+594b81e	NỮ
+69d3313	NAM
+b4325d3	HỖN HỢP
+414594a	LỜI NHẮC
+6cac87b	Chip miễn phí đã sẵn sàng, và lời nhắc buổi tối trước khi chuỗi kết thúc.
+e43b2e0	KIỂM TRA LẠI
+7c9e8f9	KHU VỰC GIÁ
+495c70e	Nhanh nhất: sòng bài như tranh vẽ, không thêm gì.
+b052523	Sàn bóng, gỗ và vàng phản chiếu căn phòng.
+6bd30d7	Chất điện ảnh: chỉnh màu, hạt phim, ánh sáng lan, tia sáng, làn da sống động.
+21b6e1d	Ống kính điện ảnh: lấy nét theo ánh mắt, vệt sáng trên đèn, bụi trong tia sáng.
+fb7c2e8	CHẤT LƯỢNG
+d8b9679	THẤP
+f68525a	TRUNG BÌNH
+d77d0b2	CAO
+9289eee	SIÊU CAO
+637e313	ĐỘ PHÂN GIẢI
+2e7b141	Thấp hơn thì mềm hơn nhưng mát máy và tiết kiệm pin.
+93dcfb5	CHẾ ĐỘ HIỂN THỊ
+3c6eac3	TOÀN MÀN HÌNH
+f3690b1	CỬA SỔ
+cfa6200	KHỬ RĂNG CƯA
+ad50489	TẮT
+f178804	Làm mịn các cạnh răng cưa trong sòng bài.
+4266288	TỐC ĐỘ KHUNG HÌNH
+d031ab0	{0} FPS
+a2b7514	30 FPS tiết kiệm pin và giữ điện thoại cũ luôn mát.
+0babcee	V-SYNC
+6656e25	TRƯỜNG NHÌN
+244aadb	HIỆN FPS
+41c8f6e	ÂM LƯỢNG TỔNG
+bf3af1f	NHẠC
+bd80907	HIỆU ỨNG ÂM THANH
+d098036	GIỌNG NHÂN VIÊN
+93c6484	Tiếng rì rầm của nhân viên khi trò chuyện.
+16bf71a	TẮT TIẾNG KHI CHẠY NỀN
+85b2ee7	Tắt tiếng sòng bài khi bạn ở cửa sổ khác.
+8e3634e	ĐỘ NHẠY NHÌN
+880dc05	Tốc độ xoay góc nhìn khi kéo.
+750c60f	Tốc độ xoay góc nhìn khi kéo chuột.
+8b988eb	ĐẢO NHÌN TRÁI / PHẢI
+cacf0cc	ĐẢO NHÌN LÊN / XUỐNG
+2d13b68	BỐ CỤC NÚT
+50c3f10	TỰ ĐỘNG
+b471e5c	ĐỔI MENU / XEM
+d9a59f1	ĐỘ NHẠY CẦN ĐIỀU KHIỂN
+ec14343	Tốc độ cần phải xoay góc nhìn.
+a79af23	ĐẢO CẦN TRÁI / PHẢI
+acfc66e	ĐẢO CẦN LÊN / XUỐNG
+56bb461	GỢI Ý TAY CẦM
+51cf49a	Hiện chức năng của từng nút khi bạn chơi bằng tay cầm.
+dff7431	RUNG TRÊN
+34139ab	ĐIỆN THOẠI
+15ee988	CẢ HAI
+465cc91	Tự động: tay cầm khi đã kết nối, nếu không thì điện thoại.
+f6fed84	RUNG ĐIỆN THOẠI
+8e97fa7	ĐỘ MẠNH ĐIỆN THOẠI
+486ba2d	RUNG TAY CẦM
+8008889	ĐỘ MẠNH TAY CẦM
+ea9233e	TỰ ĐỘNG ({0})
+167dda7	{0} mở Cài đặt, {1} mở Hằng ngày.
+29a4ef9	Chưa kết nối tay cầm.
+558ecd2	Đã kết nối: {0}. Hiển thị nút {1} (A bên phải để xác nhận).
+d6eee9e	Đã kết nối: {0}. Hiển thị nút {1}.
+78525d5	QUẦY BAR
+099db9f	MAY MẮN
+b4a8b06	Chip, may mắn và đồ ăn là vật phẩm ảo chỉ để giải trí: không có giá trị tiền mặt, không đổi được thành tiền hoặc giải thưởng.
+e2a28c9	Mỗi lá bài có khả năng đó để được chia có lợi cho bạn, với cược blackjack tối đa {0} chip (cược lớn hơn là chuẩn và không tính vào số ván). Bắt đầu sau May mắn người mới; gói mạnh hơn được dùng trước.
+04fbc6d	Cho phép truy cập vị trí để nhận giá theo quốc gia của bạn
+2ae87fc	Phiên bản trò chơi này không hỗ trợ mua hàng.
+8239a84	CỬA HÀNG THỬ (không dùng tiền thật)
+173d916	năng lượng
+b2c67eb	+{0}% CHIP
+58e8011	{0} ván
+ce80712	thắng khoảng {0}% trong số đó
+c69e8ee	LUCKY ACE 7s
+fc99288	TỔNG CƯỢC
+c1c00cd	BẢNG TRẢ THƯỞNG
+3930abd	CHÚC MAY MẮN!
+67b6973	Bạn cần ít nhất 10 chip để quay.
+5aa1edb	NHẬN CHIP
+f5a1812	Đã giảm cược xuống mức bạn có thể trả.
+5c63f61	THẮNG CỰC LỚN!
+652544f	THẮNG LỚN!
+91bc41c	HOÀN LẠI {0}
+3714283	KHÔNG THẮNG
+33c0faa	ĐƯỜNG {0}: {1} × {2} = {3}
+9f59e6e	{0} NGÔI SAO = {1}
+d6eee90	Anh đào
+4459b79	Chanh
+09fb6aa	Cam
+cb92e50	Mận
+d419866	Chuông
+e496fd2	Bar
+63abb56	Số Bảy
+b3850e0	Kim cương
+fc2b5a9	Át
+85a7de6	Ngôi sao
+c31b035	NGÔI SAO trả thưởng ở bất kỳ vị trí nào: 5 = {0}× cược, 4 = {1}× cược, 3 = {2}× cược.
+f97509c	ÁT là biểu tượng thay thế: thay cho mọi biểu tượng trừ ngôi sao.
+3e8bc69	Thưởng đường là bội số của cược mỗi đường (tổng cược ÷ 10), tính từ trái sang phải bắt đầu từ cuộn đầu tiên.
+523f8dc	TỈ LỆ HOÀN TRẢ: {0}% về lâu dài. Mỗi lượt quay độc lập và ngẫu nhiên.
+e0c705d	Đi
+b8db515	Nhìn
+503d46d	Nút
+c7f73bb	Cài đặt
+728298d	Hằng ngày
+ab166bd	Điều chỉnh
+76cdb95	Di chuyển
+8598222	Chọn
+bbfa773	Đóng
+b52b36b	Quay lại
+ab37588	KIỆT SỨC
+9b11a09	MAY MẮN NGƯỜI MỚI {0}%
+0c94e98	CÒN {0} VÁN
+51ed273	CHUỖI MAY MẮN {0}%
+3401470	{0} VÁN  •  CƯỢC TỐI ĐA {1}
+f481cc6	CẤP
+0139615	CHÀO MỪNG
+daad514	TRÒ CHUYỆN VỚI LỄ TÂN
+bcefb10	Chỉ đường và mẹo
+c28e782	CHIP  •  THƯỞNG
+0c69ec4	MUA CHIP
+78c0727	Thu ngân
+1737fab	COCKTAIL  •  ĐỒ ĂN VẶT  •  NĂNG LƯỢNG
+9e008ae	ĐỒ ĂN & THỨC UỐNG
+f7881e8	Quầy bar
+0e979ed	BLACKJACK TRẢ 3 ĂN 2
+eea0d12	NHÀ CÁI PHẢI DỪNG Ở 17
+4db37bf	CHƠI BLACKJACK
+0ffdd99	Bàn {0}  •  cược {1} đến {2}
+b4f938b	CHƠI SLOT
+6b7caea	MỜI ĐẶT CƯỢC
+26b1e39	CHƠI ROULETTE
+910a1ed	Vòng quay châu Âu  •  số đơn trả 35 ăn 1
+7ef0215	GỌI ĐỒ UỐNG
+fe38d73	{0} sẽ mang đến
+f7b6306	{0} mở ở cấp {1}. Bạn đang ở cấp {2}: mỗi vòng bạn chơi đều được tính.
+d85f1ad	Bàn này cần ít nhất {0} chip.
+cbfe016	Các bàn blackjack ở ngay phía trước. Đến một bàn và ngồi xuống nhé!
+64d9faf	Quầy thu ngân ngay đây bên phải bạn, còn quầy bar dọc theo tường bên trái.
+e4c6e0b	Mệt rồi à? Một món ăn vặt ở quầy bar sẽ nạp đầy năng lượng ngay.
+d5ab68f	Chạm vào bất kỳ đâu trên sàn để đi đến đó. Chạm vào một bàn để ngồi xuống.
+cc21f74	XỈU
+dc01dec	TÀI
+5fb90b0	BỘ BA BẤT KỲ
+9c716f1	Bàn hold'em
+3b6ab84	Chơi 8 ván hold'em
+6c617ca	Thắng 4 ván hold'em
+44ce500	Chơi 10 ván baccarat
+b90cff7	Thắng 5 ván baccarat
+3e4dfa9	Chơi 15 ván video poker
+854fe20	Chơi 8 lượt tài xỉu
+dfddac1	Thắng 4 lượt tài xỉu
+2973ea7	Gieo xúc xắc 15 lần ở craps
+737be17	Thắng 4 lần gieo ở craps
+4dbb81d	Có thùng hoặc hơn ở video poker
+19aa07b	Thùng phá sảnh lớn
+cf83e72	Thùng phá sảnh
+d27ba03	Tứ quý
+dbe8641	Cù lũ
+7c936d7	Thùng
+2501c65	Sảnh
+ca1a0d4	Bộ ba
+6876b40	Hai đôi
+2537f88	Một đôi
+b4b323e	Mậu thầu
+f70bfdc	Đôi J trở lên
+98fd5af	BACCARAT
+df66d5a	Chào mừng đến với baccarat! Con, Cái hay Hòa?
+5055efd	CON
+3f90696	HÒA
+0d75f63	CÁI
+0ebd5a4	KẾT QUẢ GẦN ĐÂY
+511993d	C
+ae4f281	N
+c2c53d6	H
+781246e	Chọn một chip rồi chạm Con, Cái hoặc Hòa
+11023a0	HÒA  {0}
+503d5f1	CON THẮNG  {0} - {1}
+0eb4be5	CÁI THẮNG  {0} - {1}
+7859af1	CRAPS
+4083dbd	Chào mừng đến với craps! Đặt cược Pass Line rồi gieo.
+d266326	SÁU
+c506f3a	CHÍN
+987f4e9	FIELD
+71c1b2b	2 3 4 9 10 11 12  •  2 và 12 trả gấp đôi
+d0ac294	BẤT KỲ 7
+9b2f0c3	BẤT KỲ CRAPS
+f62ac59	DON'T PASS BAR
+6080ade	1:1  •  12 là hòa
+c07247a	PASS LINE
+6229f78	ODDS
+29bf819	tỷ lệ thực
+387d7a5	BẬT
+229c9cc	Cược odds đặt sau Pass Line khi đã có điểm.
+c2c8e82	Cược odds cần có cược Pass Line.
+1784d43	Cược odds của bạn đã tối đa.
+fdc3442	Cược theo đường đặt ở lượt gieo mở đầu.
+97ce95b	TRÊN BÀN  {0}
+a895ec0	Điểm là {0}: gieo lại được số đó trước số 7. Cược odds sau Pass Line trả theo tỷ lệ thực.
+d9f9d65	GIEO
+bcf32ef	Điểm là {0}.
+5b450b4	{0}! Đạt điểm. Thắng rồi!
+9746e08	Ra 7. Người gieo mới, lượt mở đầu mới.
+4fc4664	{0}, natural! Pass Line thắng.
+203f466	{0}, craps. Cược đường thua.
+0f8e260	Chờ xúc xắc dừng lại nhé.
+6a98cfe	RỜI BÀN?
+8430088	Cược đường của bạn vẫn đang chơi với điểm {0}. Rời đi bây giờ sẽ mất cược.
+0e138d1	HOLD'EM
+5e023be	Chào mừng đến với hold'em! Đặt ante rồi cùng xem bài nào.
+0cd62f5	ANTE
+5e9f331	BLIND
+3b935ab	BLIND TRẢ THƯỞNG
+20713a4	Nhà cái đủ điều kiện khi có một đôi trở lên
+d37267c	CHECK
+9a4e316	BỎ BÀI
+88313c4	CƯỢC {0}×
+42c6fea	Ante {0} + blind {0}. Giữ thêm {1} để tố.
+1abb2f2	Chạm chip để đặt ante. Blind bằng ante.
+f541cec	Check, hay cược gấp ba hoặc gấp bốn ante?
+fc74a79	Tố ngay 4× hoặc 3× ante, hoặc check để xem flop.
+b687501	Cơ hội cuối: cược 1× ante, hoặc bỏ bài và mất ante cùng blind.
+400009c	Cược 2× ante ngay, hoặc check để xem hai lá cuối.
+f4abdf9	Flop đây.
+0e51f2c	Turn và river.
+cc856d3	Xem bài của mình nào.
+6ba1f3e	Nhà cái không đủ điều kiện: ante được trả lại.
+cf1fdc5	Đã bỏ bài. Ván sau là của bạn.
+177fab0	Ultimate Texas Hold'em
+c4917b9	Con, Cái hoặc Hòa
+6e4fe7b	VIDEO POKER
+73cabd3	Jacks or Better
+91c4555	TÀI XỈU
+d810061	Ba xúc xắc  •  tài hay xỉu
+85ab7ec	Pass Line  •  Field  •  Odds
+35d8db6	Chào mừng đến với tài xỉu! Tài, xỉu hay thứ gì táo bạo hơn?
+3d05514	Mức cược tối đa của bàn là {0} mỗi lượt.
+86ade94	LẮC
+b69304e	BỘ BA {0}!
+5d1bcc6	GIỮ
+36a21ba	Chia bài, giữ những lá bạn muốn, đổi một lần.
+99fa8e8	GIỮ
+249d1c0	GỢI Ý
+7aab1bd	ĐỔI
+5595eb4	Chạm vào các lá để giữ, rồi đổi bài.
+1c05db9	CHƠI HOLD'EM
+e353e5f	Ultimate Texas Hold'em  •  ante {0} đến {1}
+6470369	CHƠI BACCARAT
+bbe0077	TÀI  •  XỈU  •  BỘ BA
+3ba448f	CHƠI TÀI XỈU
+097c59c	Ba xúc xắc  •  tài hoặc xỉu trả 1 ăn 1
+af2ca30	PASS LINE  •  FIELD  •  ODDS
+f18398e	CHƠI CRAPS
+eeede6d	Pass Line trả 1 ăn 1  •  odds trả theo tỷ lệ thực
+34e5170	CHƠI VIDEO POKER
+f71bdfb	Jacks or Better  •  bảng trả thưởng đầy đủ 9/6
+4a6c087	JACKS OR BETTER  •  THÙNG PHÁ SẢNH LỚN TRẢ 800×
+370a133	Máy slot ở tường bên phải, video poker ở tường phía sau, còn vòng quay roulette ở tận cùng.
+8298d28	Hold'em ở góc trái phía sau, qua quầy bar.
+a2a111f	Baccarat ở ngay bên trái khi bạn bước vào.
+b7193bc	Tài xỉu ở góc sau quầy thu ngân: ba xúc xắc, tài hay xỉu.
+25320c8	Bàn craps ở bên phải, trước các máy slot. Đặt cược Pass Line rồi gieo!
+dc81691	Sofia
+4d9936f	Elena
+3aa0674	Mia
+b724114	Valentina
+34d3f7f	Chloe
+0fc9dd6	Isabella
+bbd3e35	Nadia
+eac677d	Aria
+baaf10f	Luna
+8641381	Camila
+eeee9b7	Aurora
+8a59f05	Bianca
+5a0fc29	Serena
+bf38aa5	Marco
+cfaf50a	Leo
+5815f22	Adrian
+cbede02	Lucas
+f0b9995	Viktor
+7b37259	Daniel
+aaac72d	Gabriel
+2f8f37e	Ethan
+a01126e	Julian
+3e05c90	Rafael
+e1ae457	Mateo
+3398634	Nico
+7aa2d07	Enzo
+1920e2f	Lượt mở đầu: đặt cược Pass Line rồi gieo. 7 hoặc 11 thắng, 2, 3 hoặc 12 thua. Cược Place bắt đầu có hiệu lực khi đã có điểm.
+99f4934	LUCKY ACE 7s  •  TRẢ ĐẾN 2.500× CƯỢC ĐƯỜNG CỦA BẠN

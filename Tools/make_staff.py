@@ -1,6 +1,6 @@
 """
 Generates the casino staff as realistic, rigged 3D people with MakeHuman (MPFB2 add-on, CC0 assets) and exports
-each one as an FBX for Unity (Humanoid-ready "game_engine" rig, low-poly body proxy, small textures).
+each one as an FBX for Unity (Humanoid-ready "game_engine" rig, detailed head on a lighter body, small textures).
 
 Run with the portable Blender in Tools/.external (see README, "Regenerating the staff"):
   blender -b --python Tools/make_staff.py -- <out_dir> [name ...] [--preview]
@@ -16,6 +16,8 @@ from bl_ext.user_default.mpfb.services.locationservice import LocationService
 from bl_ext.user_default.mpfb.services.rigservice import RigService
 
 TEXTURE_SIZE = 512
+SKIN_SIZE = 2048   # the face only gets a small corner of the body's skin texture, so the skin is sharper than the rest
+BODY_RATIO = 0.3   # below the neck the detailed body keeps this share of its triangles; the head keeps all of them
 
 FEMALE = dict(gender=0.0, age=0.5, muscle=0.5, weight=0.42, proportions=0.85, height=0.55, cupsize=0.62, firmness=0.7)
 MALE = dict(gender=1.0, age=0.52, muscle=0.62, weight=0.48, proportions=0.85, height=0.62, cupsize=0.5, firmness=0.5)
@@ -26,20 +28,67 @@ RACES = {
     "latin": dict(asian=0.15, caucasian=0.6, african=0.25),
 }
 
+
+
+def both(name, value):
+    return [{"target": "l-" + name, "value": value}, {"target": "r-" + name, "value": value}]
+
+
+# Face shaping with MakeHuman's targets (on top of each race's own face): glamorous for the women, handsome for the
+# men, and never extreme, so the races still look like themselves.
+FEMALE_FACE = [
+    {"target": "head-oval", "value": 0.5},
+    {"target": "head-scale-horiz-decr", "value": 0.12},
+    {"target": "chin-width-decr", "value": 0.3},
+    {"target": "chin-prominent-incr", "value": 0.15},
+    {"target": "forehead-scale-vert-decr", "value": 0.15},
+    *both("cheek-bones-incr", 0.45),
+    *both("cheek-volume-decr", 0.2),
+    *both("eye-scale-incr", 0.25),
+    *both("eye-corner2-up", 0.3),
+    *both("eye-height2-incr", 0.2),
+    *both("eye-bag-decr", 0.5),
+    {"target": "eyebrows-angle-up", "value": 0.2},
+    {"target": "nose-scale-horiz-decr", "value": 0.35},
+    {"target": "nose-scale-vert-decr", "value": 0.15},
+    {"target": "nose-nostrils-width-decr", "value": 0.3},
+    {"target": "nose-point-width-decr", "value": 0.3},
+    {"target": "nose-point-up", "value": 0.15},
+    {"target": "mouth-upperlip-volume-incr", "value": 0.4},
+    {"target": "mouth-lowerlip-volume-incr", "value": 0.45},
+    {"target": "mouth-cupidsbow-incr", "value": 0.3},
+    {"target": "mouth-angles-up", "value": 0.15},
+    {"target": "neck-scale-horiz-decr", "value": 0.25},
+]
+MALE_FACE = [
+    {"target": "head-square", "value": 0.35},
+    {"target": "chin-width-incr", "value": 0.25},
+    {"target": "chin-prominent-incr", "value": 0.25},
+    {"target": "chin-bones-incr", "value": 0.3},
+    *both("cheek-bones-incr", 0.3),
+    *both("cheek-volume-decr", 0.25),
+    *both("eye-bag-decr", 0.5),
+    {"target": "eyebrows-trans-down", "value": 0.15},
+    {"target": "nose-scale-horiz-decr", "value": 0.15},
+    {"target": "nose-hump-decr", "value": 0.3},
+    {"target": "mouth-lowerlip-volume-incr", "value": 0.15},
+    {"target": "mouth-angles-up", "value": 0.1},
+]
+
 # name: (female, race, skin, hair, eyebrows, eye colour, outfit, shoes)
 STAFF = {
-    "f_host":      (True, "caucasian", "young_caucasian_female", "long01", "eyebrow010", "bluegreen", None, "shoes06"),
-    "f_cashier":   (True, "asian", "young_asian_female", "ponytail01", "eyebrow010", "brownlight", None, "shoes06"),
-    "f_server":    (True, "latin", "young_caucasian_female2", "long01", "eyebrow010", "brown", None, "shoes06"),
-    "f_dealer1":   (True, "caucasian", "young_caucasian_female", "bob02", "eyebrow010", "blue", None, "shoes06"),
-    "f_dealer2":   (True, "african", "young_african_female", "long01", "eyebrow010", "brown", None, "shoes06"),
-    "f_dealer3":   (True, "asian", "young_asian_female", "bob01", "eyebrow010", "brown", None, "shoes06"),
-    "m_host":      (False, "caucasian", "young_caucasian_male", "short02", "eyebrow001", "blue", "male_elegantsuit01", "shoes02"),
-    "m_cashier":   (False, "african", "young_african_male", "short04", "eyebrow001", "brown", "male_elegantsuit01", "shoes02"),
-    "m_server":    (False, "latin", "young_caucasian_male2", "short03", "eyebrow001", "brownlight", "male_elegantsuit01", "shoes02"),
-    "m_dealer1":   (False, "caucasian", "young_caucasian_male", "short01", "eyebrow001", "bluegreen", "male_elegantsuit01", "shoes02"),
-    "m_dealer2":   (False, "asian", "young_asian_male", "short02", "eyebrow001", "brown", "male_elegantsuit01", "shoes02"),
-    "m_dealer3":   (False, "african", "young_african_male", "short04", "eyebrow001", "brown", "male_elegantsuit01", "shoes02"),
+    "f_host":      (True, "caucasian", "young_caucasian_female", "long01", "eyebrow002", "bluegreen", None, "shoes06"),
+    "f_cashier":   (True, "asian", "young_asian_female", "ponytail01", "eyebrow002", "brownlight", None, "shoes06"),
+    "f_server":    (True, "latin", "young_caucasian_female2", "long01", "eyebrow002", "brown", None, "shoes06"),
+    "f_dealer1":   (True, "caucasian", "young_caucasian_female", "bob02", "eyebrow002", "blue", None, "shoes06"),
+    "f_dealer2":   (True, "african", "young_african_female", "long01", "eyebrow002", "brown", None, "shoes06"),
+    "f_dealer3":   (True, "asian", "young_asian_female", "bob01", "eyebrow002", "brown", None, "shoes06"),
+    "m_host":      (False, "caucasian", "young_caucasian_male", "short02", "eyebrow012", "blue", "male_elegantsuit01", "shoes02"),
+    "m_cashier":   (False, "african", "young_african_male", "short04", "eyebrow012", "brown", "male_elegantsuit01", "shoes02"),
+    "m_server":    (False, "latin", "young_caucasian_male2", "short03", "eyebrow012", "brownlight", "male_elegantsuit01", "shoes02"),
+    "m_dealer1":   (False, "caucasian", "young_caucasian_male", "short01", "eyebrow012", "bluegreen", "male_elegantsuit01", "shoes02"),
+    "m_dealer2":   (False, "asian", "young_asian_male", "short02", "eyebrow012", "brown", "male_elegantsuit01", "shoes02"),
+    "m_dealer3":   (False, "african", "young_african_male", "short04", "eyebrow012", "brown", "male_elegantsuit01", "shoes02"),
 }
 
 
@@ -55,14 +104,15 @@ def build(name, spec):
         "name": name,
         "phenotype": phenotype,
         "rig": "mixamo_unity",
-        "eyes": "low-poly/low-poly.mhclo",
+        "eyes": "high-poly/high-poly.mhclo",
         "eyebrows": asset("eyebrows", brows),
         "eyelashes": "eyelashes02/eyelashes02.mhclo" if female else "eyelashes01/eyelashes01.mhclo",
-        "teeth": "",
+        "teeth": "teeth_base/teeth_base.mhclo",
         "tongue": "",
         "hair": asset("hair", hair),
-        "proxy": "female1605/female1605.proxy" if female else "male1591/male1591.proxy",
-        "targets": [],
+        # The detailed body (about 13,800 vertices): the low-poly one smeared the faces. Thinned below the neck on export.
+        "proxy": "female_generic/female_generic.proxy" if female else "male_generic/male_generic.proxy",
+        "targets": list(FEMALE_FACE if female else MALE_FACE),
         "clothes": ([asset("clothes", outfit)] if outfit else []) + [asset("clothes", shoes)],
         "skin_mhmat": "%s/%s.mhmat" % (skin, skin),
         "skin_material_type": "GAMEENGINE",
@@ -280,7 +330,7 @@ def simplify_materials(objects, out_dir, char, eyes_png=None):
             nt = new.node_tree
             bsdf = nt.nodes.get("Principled BSDF")
             if img is not None:
-                size = TEXTURE_SIZE * 2 if obj.get("mpfb_object_type") == "Proxymeshes" or "skin" in img.name.lower() else TEXTURE_SIZE
+                size = SKIN_SIZE if obj.get("mpfb_object_type") == "Proxymeshes" or "skin" in img.name.lower() else TEXTURE_SIZE
                 if max(img.size[0], img.size[1]) > size:
                     img.scale(size, size)
                 path = os.path.join(out_dir, "%s_%s.png" % (char, bpy.path.clean_name(img.name.rsplit(".", 1)[0])))
@@ -292,6 +342,29 @@ def simplify_materials(objects, out_dir, char, eyes_png=None):
                 nt.links.new(tex.outputs["Color"], bsdf.inputs["Base Color"])
                 nt.links.new(tex.outputs["Alpha"], bsdf.inputs["Alpha"])
             slot.material = new
+
+
+def thin_below_neck(body, ratio):
+    """Decimates everything below the neck; the head and neck keep every triangle (faces need the detail)."""
+    mw = body.matrix_world
+    zs = [(mw @ v.co).z for v in body.data.vertices]
+    top, bottom = max(zs), min(zs)
+    neck = top - (top - bottom) * 0.17
+    before = len(body.data.vertices)
+    bpy.ops.object.select_all(action='DESELECT')
+    body.select_set(True)
+    bpy.context.view_layer.objects.active = body
+    bpy.ops.object.mode_set(mode='EDIT')
+    bpy.ops.mesh.select_mode(type='FACE')
+    bpy.ops.mesh.select_all(action='DESELECT')
+    bm = bmesh.from_edit_mesh(body.data)
+    for f in bm.faces:
+        f.select_set(all((mw @ v.co).z < neck for v in f.verts))
+    bm.select_flush_mode()
+    bmesh.update_edit_mesh(body.data)
+    bpy.ops.mesh.decimate(ratio=ratio)
+    bpy.ops.object.mode_set(mode='OBJECT')
+    print("THINNED", body.name, before, "->", len(body.data.vertices), "vertices")
 
 
 def export(basemesh, out_dir, name, eyes_png=None, dress=False):
@@ -320,6 +393,7 @@ def export(basemesh, out_dir, name, eyes_png=None, dress=False):
     # Lighter clothes for phones, then one mesh per character (one skinning pass, one renderer).
     meshes = [o for o in children if o.type == 'MESH']
     body = proxy if proxy is not None else meshes[0]
+    thin_below_neck(body, BODY_RATIO)
     for o in meshes:
         if o is not body and len(o.data.vertices) > 4000:
             dec = o.modifiers.new("decimate", 'DECIMATE')

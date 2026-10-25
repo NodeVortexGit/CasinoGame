@@ -32,6 +32,27 @@ namespace Casino.Platform
             return null;
         }
 
+        /// <summary>The language Steam runs the game in, as a language tag ("bg", "pt-BR"), or null outside Steam.</summary>
+        public static string Language()
+        {
+#if CASINO_STEAMWORKS && UNITY_STANDALONE
+            if (!Running) return null;
+            string api = SteamApps.GetCurrentGameLanguage();
+            switch (api)
+            {
+                case "schinese": return "zh-Hans";
+                case "tchinese": return "zh-Hant";
+                case "brazilian": return "pt-BR";
+                case "portuguese": return "pt-PT";
+                case "latam": case "spanish": return "es";
+                case "koreana": return "ko";
+            }
+            foreach (var c in System.Globalization.CultureInfo.GetCultures(System.Globalization.CultureTypes.NeutralCultures))
+                if (string.Equals(c.EnglishName, api, StringComparison.OrdinalIgnoreCase)) return c.Name;
+#endif
+            return null;
+        }
+
 #if CASINO_STEAMWORKS && UNITY_STANDALONE
         void Awake()
         {

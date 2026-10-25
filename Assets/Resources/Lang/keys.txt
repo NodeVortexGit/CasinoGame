@@ -1,0 +1,1004 @@
+SMALL
+BIG
+ODD
+EVEN
+ANY TRIPLE
+Handful of Chips
+Stack of Chips
+Tray of Chips
+Rack of Chips
+MOST POPULAR
+Vault of Chips
+High Roller Safe
+BEST VALUE
+Sparkling Water
+Espresso
+Energy Drink
+Club Sandwich
+Burger Meal
+Steak Dinner
+FULL REFILL
+Lucky Streak
+Hot Streak
+MOST LUCK
+Bronze Table
+Silver Table
+Gold Table
+Diamond Table
+Hold'em Table
+Please enter a valid year.
+Please enter a valid month (1-12).
+Please enter a valid day.
+That date is in the future.
+Welcome to my table! Ready to play?
+Good to see you. Take a seat!
+Hi there! Cards are fresh and so am I.
+Welcome! Let's make tonight a good one.
+Place your bet whenever you're ready.
+Chips down, and let's see some cards.
+What are we playing for?
+Ooh, a big bet! I like your style.
+Now that's a bet. Let's do this!
+Feeling bold tonight, aren't we?
+All in?! My heart is racing!
+Everything on one hand. Fearless!
+Blackjack! Incredible!
+Twenty-one, just like that!
+Blackjack! The cards love you tonight.
+Nicely played!
+Winner! Well done.
+You're on a roll!
+That one's yours.
+What a win! Everyone's watching this table!
+Huge! You're on fire tonight!
+So close! The next one's yours.
+The house got lucky that time.
+Shake it off, new hand coming up.
+Ouch, one card too many.
+Bust! It happens to the best of us.
+A tie. Nobody loses!
+Push. Your chips are safe.
+I busted! Lucky you.
+Too many for me. You win!
+Blackjack for the house, sorry!
+Dealer blackjack. Rough luck.
+I'm showing an ace. Insurance?
+Splitting! Two chances to win.
+Doubling down. Brave move!
+Double it! One card coming up.
+Fresh shoe, shuffling up!
+Running low? The cashier can top you up.
+Chips getting thin. Want to grab more?
+Out of chips! Visit the cashier or grab free chips.
+Your stack is empty. The cashier is right behind you.
+You look exhausted! Grab a bite at the bar.
+Running on empty? The bar has you covered.
+Take your time.
+Whenever you're ready!
+The night is young.
+Beginner's luck is on your side!
+The deck is in your favor tonight!
+Beginner's luck is over. From here it's a fair game!
+Welcome to the casino! Your seat is waiting.
+Good evening! The tables are hot tonight.
+Welcome back! Feeling lucky?
+Tap a table to start playing!
+Need more chips? You came to the right window.
+Bigger stacks, bigger bonuses!
+Hungry? Pick anything from the menu.
+A bite to eat keeps your energy up!
+Welcome to my table!
+There you are! The place feels brighter already.
+Make yourself at home. Tonight is all about you.
+I love that smile. Lucky night?
+Relax, you're in good hands here.
+Hey you! I was hoping you'd stop by my window.
+Always nice to see a friendly face.
+Look who it is! Having fun out there?
+Hi there, gorgeous!
+I like your style tonight.
+Hey, nice to see you again!
+Having a good night? You deserve one.
+Careful, I might start rooting for you.
+My favourite player is back!
+Sit with me, I'll deal you something nice.
+You make this table a lot more fun.
+Leaving already? The night is young!
+Come on, just one more hand. I have a good feeling about this one!
+You can't leave me now, we're just getting started!
+Last chance! The next hand could be the big one...
+Okay, okay. I'll keep your seat warm. Promise you'll be back?
+No streak yet? Play {2} rounds today and I'll start counting.
+Fresh start! {2} rounds and your flame is lit.
+I keep a little list of who shows up every day. You're not on it... yet.
+Day {1} is waiting for you. Just {2} rounds to go!
+{0} days in a row... you're not going to stop now, are you?
+Your flame looks a little cold today. {2} rounds should warm it up.
+I've been counting: {0} days. Let's make it {1}.
+Don't think I didn't notice. {2} rounds left to keep your streak!
+{0} days in a row? I'm starting to think you like it here.
+Your streak is safe for today. Now you're just showing off.
+Day {0}, done. Same time tomorrow?
+{0} days! At this point I should save you a seat.
+There it is: day one of your streak! Come back tomorrow and we'll make it two.
+A whole week in a row! I'm genuinely impressed.
+Thirty days! You practically work here now.
+One hundred days. I'm telling everyone about you.
+That's {0} days in a row! Look at you.
+Streak saved: day {0}! I knew you'd make it.
+Day {0}! Bet you can't make it {1}.
+{0} days... okay, show-off.
+Play 10 hands of blackjack
+Win 5 hands of blackjack
+Get a blackjack
+Win 500 chips at blackjack
+Spin the slots 20 times
+Win 5 slot spins
+Win 5× your bet on the slots
+Play 5 rounds of roulette
+Win 3 roulette spins
+Hit a number straight up
+Play 8 hands of hold'em
+Win 4 hands of hold'em
+Play 10 hands of baccarat
+Win 5 hands of baccarat
+Play 15 hands of video poker
+Play 8 rounds of sic bo
+Win 4 rounds of sic bo
+Roll the dice 15 times at craps
+Win 4 rolls at craps
+Make a flush or better at video poker
+Royal flush
+Straight flush
+Four of a kind
+Full house
+Flush
+Straight
+Three of a kind
+Two pair
+Pair
+High card
+GPS location
+mobile network
+internet connection
+device settings
+test country
+not verified (standard price)
+unknown
+1st 12
+2nd 12
+3rd 12
+2 to 1
+RED
+BLACK
+Jacks or better
+FAIR PRICES FOR YOUR COUNTRY
+Shop prices are adjusted to your country's economy, so players everywhere pay a fair price.
+To find your country we check your approximate location once. It is matched to a country on your device and never sent anywhere. If you decline, standard prices apply.
+CONTINUE
+Leave the casino?
+Your chips and progress are saved.
+QUIT
+STAY
+{0} unlocked
+A streak freeze saved your {0}-day streak yesterday.
+{0} streak freezes saved your {1}-day streak.
+Your {0}-day streak ended. Play {1} rounds today to start a new one!
+MISSION COMPLETE
++{0} chips
+ALL MISSIONS DONE!
+Daily bonus +{0} chips. New missions tomorrow.
+LEVEL {0}!
+Milestone! +{0} chips
+Come back tomorrow to keep it going
++1 streak freeze
+{0} DAY STREAK!
+Purchases are not available in this version.
+Purchase failed. You were not charged.
++{0} chips added!
+{0}: {1} hands at {2}% luck, after Beginner's Luck
+{0}: {1} hands at {2}% luck!
+{0}: +{1}% energy
+Not available on this device
+Videos can't load on this network
+Come back tomorrow
+Ready in {0}s
++{0} chips ({1} left today)
++{0} free chips!
++1 streak freeze!
+No video available right now. Try again in a moment.
+BRONZE
+SILVER
+GOLD
+DIAMOND
+Menu
+View
+Cross
+Circle
+Square
+Triangle
+Checking your region...
+Not verified ({0}): standard prices
+{0} ({1}): prices in {2}
+Reminders
+Free chips ready and streak reminders
+Your free chips are ready
+{0} chips are waiting for you at Lucky Ace.
+Keep your {0}-day streak
+Play {0} rounds today so it doesn't reset at midnight.
+BACCARAT
+Welcome to baccarat! Player, Banker or Tie?
+PLAYER
+TIE
+BANKER
+LAST RESULTS
+P
+B
+T
+UNDO
+CLEAR
+REBET
+DEAL
+Not enough chips for that bet.
+Table maximum reached
+TOTAL BET  {0}
+Pick a chip, then tap Player, Banker or Tie
+TIE  {0}
+PLAYER WINS  {0} TO {1}
+BANKER WINS  {0} TO {1}
+WIN  +{0}
+RETURNED  {0}
+No win this time
+Finish this hand first.
+Welcome! Beginner's luck is on your side tonight. Place a bet!
+BLACKJACK PAYS 3 TO 2   •   DEALER STANDS ON ALL 17s   •   INSURANCE PAYS 2 TO 1
+BET
+HIT
+STAND
+DOUBLE
+SPLIT
+INSURE
+NO THANKS
+BET {0}+
+Not enough chips
+Dealer shows an ace. Insure for {0}?
+Insurance pays {0}
+No dealer blackjack. Insurance lost.
+BUST
+DEALER BUST
+BLACKJACK!
+WIN
+PUSH
+LOSE
+Beginner's luck is over. Your Lucky Streak starts now.
+Beginner's luck is over. From now on it's standard blackjack.
+Your Lucky Streak is over. Back to standard blackjack.
+OUT OF CHIPS
+Watch a short video for {0} free chips, or visit the cashier.
+Visit the cashier to top up your chips.
+FREE CHIPS
+CASHIER
+LATER
+“{0}”
+ONE MORE HAND
+LEAVE
+BEGINNER'S LUCK
+LUCKY STREAK
+Welcome bonus for new players: for your first <b>{0} hands</b> the dealer's shoe is stacked in your favor, so you will win almost every hand.
+Over the next <b>{0} hands</b> the boost fades out, and after that every table is standard, fair blackjack dealt from a shuffled 6-deck shoe (blackjack pays 3 to 2, dealer stands on all 17s).
+Boost right now: <b><color=#7CFC9A>{0}%</color></b>   Hands left: <b>{1}</b>
+For your next <b>{0} blackjack hands</b> with a bet of up to <b>{1} chips</b>, each card has a <b>{2}%</b> chance of being dealt in your favor (the same boost as Beginner's Luck).
+With good play that wins about <b>{0}%</b> of hands, against about {1}% in standard blackjack. Bigger bets are standard blackjack and don't use up hands. When the hands run out, every table is standard, fair blackjack again.
+GOT IT
+WANT YOUR LUCK BACK?
+Beginner's Luck is over: from here every table is standard, fair blackjack. A Lucky Streak brings the boost back for a while.
+CRAPS
+Welcome to craps! Put a bet on the Pass Line and roll.
+SIX
+NINE
+FIELD
+2 3 4 9 10 11 12  •  2 and 12 pay double
+ANY 7
+ANY CRAPS
+DON'T PASS BAR
+1:1  •  12 pushes
+PASS LINE
+ODDS
+true odds
+OFF
+ON
+Odds go behind the Pass Line once there's a point.
+Odds need a Pass Line bet.
+Your odds are at the maximum.
+Line bets go down on the come-out roll.
+ON THE TABLE  {0}
+Come-out roll: bet the Pass Line, then roll. 7 or 11 wins, 2, 3 or 12 loses. Place bets start working once there's a point.
+The point is {0}: roll it again before a 7. Odds behind your Pass Line pay true odds.
+ROLL
+The point is {0}.
+{0}! The point is made. Winner!
+Seven out. New shooter, new come-out.
+{0}, a natural! Pass Line wins.
+{0}, craps. Line away.
+Wait for the dice to land.
+LEAVE THE TABLE?
+Your line bet is still working on the point of {0}. If you leave now, it's lost.
+DAILY
+DAILY STREAK
+DAY STREAK
+TODAY
+WATCH AD
+BUY
+STREAK FREEZE
+A streak freeze keeps your streak alive on a day you don't play. You can hold {0}.\n\nBuy one for {1} chips?
+Streak freeze ready.
+Not enough chips for a freeze.
+CANCEL
+DAILY SPIN
+SPIN
+Chances:
+{0}%
+You won {0} chips!
+TODAY'S MISSIONS
+Best: {0} days
+Play every day to build a streak
+Today's goal done! See you tomorrow.
+Today: {0} / {1} rounds (any game)
+Streak freezes: {0} / {1}
+Save your streak on a day you miss. +1 every 7 days.
+FULL
+NO VIDEO
+AD SOON
+Streak bonus: prizes ×{0}
+One free spin every day
+NEXT  {0}
+All done! Bonus collected.
+New missions at midnight.
+Finish all three: +{0} bonus chips
+HOLD'EM
+Welcome to Hold'em! Ante up and let's see some cards.
+ANTE
+BLIND
+PLAY
+BLIND PAYS
+Dealer qualifies with a pair or better
+CHECK
+FOLD
+BET {0}×
+Ante {0} + Blind {0}. Keep {1} more for your raise.
+Tap chips to set your ante. The blind matches it.
+Check, or bet three or four times your ante?
+Raise now for 4× or 3× your ante, or check and see the flop.
+Last chance: bet 1× your ante, or fold and lose the ante and blind.
+Bet 2× your ante now, or check and see the last two cards.
+Here's the flop.
+The turn and the river.
+Let's see what I have.
+The dealer doesn't qualify: your ante comes back.
+Folded. The next hand is yours.
+GAMES
+Drag left side to walk  •  Drag right side to look  •  Tap to go
+18+ only  •  Chips are for fun: no cash value, never exchangeable for money or prizes
+Opening the doors...
+Welcome! Your {0} welcome chips are ready. The tables are straight ahead!
++{0} free chips! More in {1} hours.
+Free chips refill every {0} hours. Next in {1}.
+{0}h {1}m
+{0}m {1}s
+KEEP YOUR STREAK
+Want a reminder on evenings you haven't played yet, and when your free chips are ready? Never more than that, and you can turn it off in Settings.
+REMIND ME
++{0} chips ready!
+Watch a video: {0}
+Next free chips in {0}
+BLACKJACK
+4 tables  •  pays 3 to 2
+Ultimate Texas Hold'em
+Player, Banker or Tie
+SLOTS
+Lucky Ace 7s  •  10 lines
+VIDEO POKER
+Jacks or Better
+SIC BO
+Three dice  •  big or small
+Pass Line  •  Field  •  Odds
+ROULETTE
+European single zero
+YOU'RE EXHAUSTED
+Your energy bar is empty. Grab something from the bar to keep playing, or come back later: energy recovers slowly while you're away.
+VISIT THE BAR
+CHOOSE YOUR TABLE
+BETS
+LEVEL {0}
+SIT DOWN
+NEED {0}
+Reach level {0} to play here. You're level {1}.
+CASINO
+DD
+MM
+YYYY
+DAY
+MONTH
+YEAR
+WHEN WERE YOU BORN?
+Chips are for entertainment only. They have no cash value and can never be exchanged for money or prizes.
+SORRY, YOU CAN'T PLAY
+{0} is only available to adults.
+EXIT
+Closing in {0}...
+TELL US ABOUT YOU
+We'll pick your hosts, dealers and bar staff to match. You can change this any time in Settings.
+I'M A MAN
+I'M A WOMAN
+PREFER NOT TO SAY
+ENTER THE CASINO
+Your staff tonight:
+Page {0} of {1}
+LANGUAGE
+AUTOMATIC
+COUNTRY
+Welcome! Place your bets, please.
+Table limit is {0} per spin.
+Tap the board to place chips
+No more bets!
+GREEN
+green
+red
+black
+What a hit! Congratulations!
+Winner! You win {0}.
+{0} {1}. {2} comes back to you.
+Place your bets, please.
+Wait for the ball to land.
+SETTINGS
+GENERAL
+GRAPHICS
+SOUND
+TOUCH
+MOUSE
+CONTROLLER
+VIBRATION
+18+ • Chips have no cash value • Fonts: Bebas Neue, Poppins, Noto (SIL OFL) • Borders: Natural Earth • Price data: World Bank
+CASINO STAFF
+WOMEN
+MEN
+MIXED
+REMINDERS
+Free chips ready, and an evening nudge before a streak would end.
+CHECK AGAIN
+PRICING REGION
+Fastest: the casino as painted, nothing extra.
+Polished floors, wood and gold reflect the room.
+Film look: graded colour, grain, glow, beams of light, lifelike skin.
+Cinema lens: focus follows your eye, streaks on lights, dust in beams.
+QUALITY
+LOW
+MEDIUM
+HIGH
+ULTRA
+RESOLUTION
+Lower is softer but runs cooler and saves battery.
+DISPLAY MODE
+FULLSCREEN
+WINDOWED
+ANTI-ALIASING
+Smooths jagged edges in the casino.
+FRAME RATE
+{0} FPS
+30 FPS saves battery and keeps older phones cool.
+V-SYNC
+FIELD OF VIEW
+SHOW FPS
+MASTER VOLUME
+MUSIC
+SOUND EFFECTS
+STAFF VOICES
+The murmur staff make while they talk.
+MUTE IN BACKGROUND
+Silence the casino while you're in another window.
+LOOK SENSITIVITY
+How fast dragging turns the view.
+How fast dragging with the mouse turns the view.
+INVERT LOOK LEFT / RIGHT
+INVERT LOOK UP / DOWN
+BUTTON LAYOUT
+AUTO
+SWAP MENU / VIEW
+STICK SENSITIVITY
+How fast the right stick turns the view.
+INVERT STICK LEFT / RIGHT
+INVERT STICK UP / DOWN
+CONTROLLER HINTS
+Shows what each button does while you play with a controller.
+VIBRATE ON
+PHONE
+BOTH
+Auto: the controller while one is connected, otherwise the phone.
+PHONE VIBRATION
+PHONE STRENGTH
+CONTROLLER VIBRATION
+CONTROLLER STRENGTH
+AUTOMATIC ({0})
+{0} opens Settings, {1} opens Daily.
+No controller connected.
+Connected: {0}. Showing {1} buttons (A on the right confirms).
+Connected: {0}. Showing {1} buttons.
+THE BAR
+LUCK
+Chips, luck and food are virtual items for entertainment only: no cash value, not redeemable for money or prizes.
+Each card has that chance of being dealt in your favor, on blackjack bets up to {0} chips (bigger bets are standard and don't use up hands). Starts after Beginner's Luck; stronger packs are used first.
+Allow location access to get your country's price
+Purchases are not available in this version of the game.
+TEST STORE (no real money)
+energy
++{0}% CHIPS
+{0} hands
+wins about {0}% of them
+Welcome to sic bo! Big, small, or something bolder?
+Table limit is {0} per roll.
+SHAKE
+TRIPLE {0}!
+LUCKY ACE 7s
+TOTAL BET
+PAYTABLE
+GOOD LUCK!
+You need at least 10 chips to spin.
+GET CHIPS
+Bet lowered to what you can cover.
+MEGA WIN!
+BIG WIN!
+RETURNED {0}
+NO WIN
+LINE {0}: {1} × {2} = {3}
+{0} STARS = {1}
+Cherry
+Lemon
+Orange
+Plum
+Bell
+Bar
+Seven
+Diamond
+Ace
+Star
+STARS pay anywhere: 5 = {0}× bet, 4 = {1}× bet, 3 = {2}× bet.
+The ACE is wild: it stands in for every symbol except the star.
+Line pays are multiples of the line bet (total bet ÷ 10), left to right from the first reel.
+PAYBACK: {0}% over the long run. Every spin is independent and random.
+HELD
+Deal, hold the cards you want, draw once.
+HOLD
+HINT
+DRAW
+Tap the cards to hold, then draw.
+Walk
+Look
+Buttons
+Settings
+Daily
+Adjust
+Move
+Select
+Close
+Back
+EXHAUSTED
+BEGINNER'S LUCK {0}%
+{0} HANDS LEFT
+LUCKY STREAK {0}%
+{0} HANDS  •  BETS UP TO {1}
+LEVEL
+Sofia
+Elena
+Mia
+Valentina
+Chloe
+Isabella
+Nadia
+Aria
+Luna
+Camila
+Aurora
+Bianca
+Serena
+Marco
+Leo
+Adrian
+Lucas
+Viktor
+Daniel
+Gabriel
+Ethan
+Julian
+Rafael
+Mateo
+Nico
+Enzo
+WELCOME
+TALK TO THE HOST
+Directions and tips
+CHIPS  •  BONUSES
+BUY CHIPS
+Cashier
+COCKTAILS  •  SNACKS  •  ENERGY
+FOOD & DRINKS
+The Bar
+BLACKJACK PAYS 3 TO 2
+DEALER MUST STAND ON 17
+PLAY BLACKJACK
+{0} table  •  bets {1} to {2}
+PLAY HOLD'EM
+Ultimate Texas Hold'em  •  ante {0} to {1}
+PLAY BACCARAT
+BIG  •  SMALL  •  TRIPLES
+PLAY SIC BO
+Three dice  •  big or small pays 1 to 1
+PASS LINE  •  FIELD  •  ODDS
+PLAY CRAPS
+Pass Line pays 1 to 1  •  odds pay true odds
+PLAY VIDEO POKER
+PLAY SLOTS
+Jacks or Better  •  9/6 full pay
+LUCKY ACE 7s  •  PAYS UP TO 2,500× YOUR LINE BET
+JACKS OR BETTER  •  ROYAL FLUSH PAYS 800×
+PLACE YOUR BETS
+PLAY ROULETTE
+European wheel  •  straight up pays 35 to 1
+ORDER A DRINK
+{0} brings it over
+The {0} opens at level {1}. You're level {2}: every round you play counts.
+This table needs at least {0} chips.
+Blackjack tables are straight ahead. Walk up to one and take a seat!
+Slot machines line the right wall, video poker the back wall, and the roulette wheel is at the back.
+Hold'em is in the back left corner, past the bar.
+Baccarat is just to the left as you come in.
+Sic bo is in the corner past the cashier: three dice, big or small.
+The craps table is on the right, in front of the slots. Bet the Pass Line and roll!
+The cashier is right here on your right, and the bar is along the left wall.
+Feeling tired? A snack at the bar fills your energy right up.
+Tap anywhere on the floor and you'll walk there. Tap a table to sit down.
+@country:AD
+@country:AE
+@country:AF
+@country:AG
+@country:AI
+@country:AL
+@country:AM
+@country:AO
+@country:AQ
+@country:AR
+@country:AS
+@country:AT
+@country:AU
+@country:AW
+@country:AX
+@country:AZ
+@country:BA
+@country:BB
+@country:BD
+@country:BE
+@country:BF
+@country:BG
+@country:BH
+@country:BI
+@country:BJ
+@country:BL
+@country:BM
+@country:BN
+@country:BO
+@country:BQ
+@country:BR
+@country:BS
+@country:BT
+@country:BV
+@country:BW
+@country:BY
+@country:BZ
+@country:CA
+@country:CC
+@country:CD
+@country:CF
+@country:CG
+@country:CH
+@country:CI
+@country:CK
+@country:CL
+@country:CM
+@country:CN
+@country:CO
+@country:CR
+@country:CU
+@country:CV
+@country:CW
+@country:CX
+@country:CY
+@country:CZ
+@country:DE
+@country:DJ
+@country:DK
+@country:DM
+@country:DO
+@country:DZ
+@country:EC
+@country:EE
+@country:EG
+@country:EH
+@country:ER
+@country:ES
+@country:ET
+@country:FI
+@country:FJ
+@country:FK
+@country:FM
+@country:FO
+@country:FR
+@country:GA
+@country:GB
+@country:GD
+@country:GE
+@country:GF
+@country:GG
+@country:GH
+@country:GI
+@country:GL
+@country:GM
+@country:GN
+@country:GP
+@country:GQ
+@country:GR
+@country:GS
+@country:GT
+@country:GU
+@country:GW
+@country:GY
+@country:HK
+@country:HM
+@country:HN
+@country:HR
+@country:HT
+@country:HU
+@country:ID
+@country:IE
+@country:IL
+@country:IM
+@country:IN
+@country:IO
+@country:IQ
+@country:IR
+@country:IS
+@country:IT
+@country:JE
+@country:JM
+@country:JO
+@country:JP
+@country:KE
+@country:KG
+@country:KH
+@country:KI
+@country:KM
+@country:KN
+@country:KP
+@country:KR
+@country:KW
+@country:KY
+@country:KZ
+@country:LA
+@country:LB
+@country:LC
+@country:LI
+@country:LK
+@country:LR
+@country:LS
+@country:LT
+@country:LU
+@country:LV
+@country:LY
+@country:MA
+@country:MC
+@country:MD
+@country:ME
+@country:MF
+@country:MG
+@country:MH
+@country:MK
+@country:ML
+@country:MM
+@country:MN
+@country:MO
+@country:MP
+@country:MQ
+@country:MR
+@country:MS
+@country:MT
+@country:MU
+@country:MV
+@country:MW
+@country:MX
+@country:MY
+@country:MZ
+@country:NA
+@country:NC
+@country:NE
+@country:NF
+@country:NG
+@country:NI
+@country:NL
+@country:NO
+@country:NP
+@country:NR
+@country:NU
+@country:NZ
+@country:OM
+@country:PA
+@country:PE
+@country:PF
+@country:PG
+@country:PH
+@country:PK
+@country:PL
+@country:PM
+@country:PN
+@country:PR
+@country:PS
+@country:PT
+@country:PW
+@country:PY
+@country:QA
+@country:RE
+@country:RO
+@country:RS
+@country:RU
+@country:RW
+@country:SA
+@country:SB
+@country:SC
+@country:SD
+@country:SE
+@country:SG
+@country:SH
+@country:SI
+@country:SJ
+@country:SK
+@country:SL
+@country:SM
+@country:SN
+@country:SO
+@country:SR
+@country:SS
+@country:ST
+@country:SV
+@country:SX
+@country:SY
+@country:SZ
+@country:TC
+@country:TD
+@country:TF
+@country:TG
+@country:TH
+@country:TJ
+@country:TK
+@country:TL
+@country:TM
+@country:TN
+@country:TO
+@country:TR
+@country:TT
+@country:TV
+@country:TW
+@country:TZ
+@country:UA
+@country:UG
+@country:UM
+@country:US
+@country:UY
+@country:UZ
+@country:VA
+@country:VC
+@country:VE
+@country:VG
+@country:VI
+@country:VN
+@country:VU
+@country:WF
+@country:WS
+@country:XK
+@country:YE
+@country:YT
+@country:ZA
+@country:ZM
+@country:ZW
+@language:en
+@language:af
+@language:am
+@language:ar
+@language:az
+@language:be
+@language:bg
+@language:bn
+@language:bs
+@language:ca
+@language:cs
+@language:da
+@language:de
+@language:el
+@language:es
+@language:et
+@language:eu
+@language:fa
+@language:fi
+@language:fil
+@language:fr
+@language:ga
+@language:gl
+@language:gu
+@language:ha
+@language:he
+@language:hi
+@language:hr
+@language:ht
+@language:hu
+@language:hy
+@language:id
+@language:ig
+@language:is
+@language:it
+@language:ja
+@language:ka
+@language:kk
+@language:km
+@language:kn
+@language:ko
+@language:ky
+@language:lb
+@language:lo
+@language:lt
+@language:lv
+@language:mg
+@language:mk
+@language:ml
+@language:mn
+@language:mr
+@language:ms
+@language:mt
+@language:my
+@language:nb
+@language:ne
+@language:nl
+@language:pa
+@language:pl
+@language:ps
+@language:pt-BR
+@language:pt-PT
+@language:rm
+@language:ro
+@language:ru
+@language:rw
+@language:si
+@language:sk
+@language:sl
+@language:so
+@language:sq
+@language:sr
+@language:sv
+@language:sw
+@language:ta
+@language:te
+@language:tg
+@language:th
+@language:tk
+@language:tr
+@language:uk
+@language:ur
+@language:uz
+@language:vi
+@language:xh
+@language:yo
+@language:zh-Hans
+@language:zh-Hant
+@language:zu
+@weekday:0
+@weekday:1
+@weekday:2
+@weekday:3
+@weekday:4
+@weekday:5
+@weekday:6

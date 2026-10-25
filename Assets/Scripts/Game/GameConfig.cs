@@ -19,7 +19,6 @@ namespace Casino
 
         /// <summary>Editor, development and demo builds use the simulated store and ads and show developer settings.</summary>
         public static bool TestServices => UnityEngine.Application.isEditor || UnityEngine.Debug.isDebugBuild || DemoMode;
-        public const string CasinoSubtitle = "CASINO";
 
         // Economy
         public const long StartingChips = 1_000;
@@ -39,6 +38,9 @@ namespace Casino
         // Beginner's Luck: full boost for the first hands, then fades to fair blackjack. Always visible on screen.
         public const int BeginnerLuckFullHands = 3;
         public const int BeginnerLuckFadeHands = 12;
+
+        // Paid luck packs (after Beginner's Luck) only boost blackjack bets up to this; bigger bets play fair.
+        public const long LuckBoostMaxBet = Casino.Core.Player.LuckBoost.DefaultMaxBet;
 
         // Age gate
         public const int MinimumAge = Casino.Core.Player.AgeGate.MinimumAge;
@@ -80,6 +82,8 @@ namespace Casino
                 case "food_sandwich": return 2004;
                 case "food_burger": return 2005;
                 case "food_steak": return 2006;
+                case "luck_25": return 3001;
+                case "luck_50": return 3002;
                 default: return 0;
             }
         }

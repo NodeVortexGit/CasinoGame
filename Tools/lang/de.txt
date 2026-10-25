@@ -1,0 +1,659 @@
+# German (de). Machine translation by Claude.
+bd99124	Handvoll Chips
+c7c6dc8	Stapel Chips
+7512cfd	Tablett Chips
+fa36588	Chip-Rack
+7994f65	AM BELIEBTESTEN
+49dcc21	Chip-Tresor
+0725283	High-Roller-Safe
+7658705	BESTER WERT
+2f23432	Sprudelwasser
+418b820	Espresso
+97b463c	Energy-Drink
+43bbfda	Clubsandwich
+bce7a75	Burger-Menü
+2832a8d	Steak-Dinner
+dee8ee8	VOLL AUFGELADEN
+a7c2255	Glückssträhne
+7919163	Heiße Strähne
+74fdfc2	AM MEISTEN GLÜCK
+d79cd12	Bronzetisch
+2a8ff35	Silbertisch
+51877b2	Goldtisch
+9282152	Diamanttisch
+0de8764	Bitte gib ein gültiges Jahr ein.
+d4e14c9	Bitte gib einen gültigen Monat ein (1-12).
+addd156	Bitte gib einen gültigen Tag ein.
+d78a4f4	Dieses Datum liegt in der Zukunft.
+787c7c6	Willkommen an meinem Tisch! Bereit zu spielen?
+8b0f93e	Schön, dich zu sehen. Setz dich!
+8338021	Hallo! Die Karten sind frisch, und ich auch.
+75750f9	Willkommen! Machen wir einen schönen Abend daraus.
+95aac36	Setz, wann immer du bereit bist.
+8bc63c1	Chips auf den Tisch, und dann sehen wir uns die Karten an.
+984b7f3	Um was spielen wir?
+b74c769	Oh, ein großer Einsatz! Dein Stil gefällt mir.
+77fc1fc	Das nenne ich einen Einsatz! Los geht's!
+7779a5b	Heute Abend ganz schön mutig, was?
+479ff82	Alles?! Mein Herz rast!
+7fb527c	Alles auf eine Hand. Furchtlos!
+7bf0c5d	Blackjack! Unglaublich!
+123f2d5	Einundzwanzig, einfach so!
+cd850a7	Blackjack! Die Karten lieben dich heute.
+55f50ee	Schön gespielt!
+79594b1	Gewonnen! Gut gemacht.
+0df710e	Du hast einen Lauf!
+20a0c1e	Die gehört dir.
+a45fe61	Was für ein Gewinn! Alle schauen auf diesen Tisch!
+54d3982	Riesig! Du bist heute Abend on fire!
+8da8f1e	Knapp! Die nächste gehört dir.
+5d921e1	Diesmal hatte das Haus Glück.
+f923af7	Kopf hoch, die nächste Hand kommt.
+853e7ca	Autsch, eine Karte zu viel.
+daec44f	Überkauft! Passiert den Besten.
+11ceaef	Unentschieden. Niemand verliert!
+911a289	Push. Deine Chips sind sicher.
+a89d9d9	Ich habe mich überkauft! Glück gehabt.
+f76c8fd	Zu viel für mich. Du gewinnst!
+63f8d0b	Blackjack für das Haus, tut mir leid!
+465c8bf	Blackjack beim Dealer. Pech gehabt.
+6752f40	Ich zeige ein Ass. Versicherung?
+1920c5a	Splitten! Zwei Chancen auf den Sieg.
+9f621da	Verdoppeln. Mutiger Zug!
+59da99d	Verdopple! Eine Karte kommt.
+0b48017	Neuer Schlitten, ich mische!
+3fa7769	Knapp bei Kasse? Die Kassiererin hilft dir.
+4e5694b	Die Chips werden knapp. Willst du Nachschub?
+d41f057	Keine Chips mehr! Geh zur Kasse oder hol dir Gratis-Chips.
+15d90d3	Dein Stapel ist leer. Die Kasse ist direkt hinter dir.
+a9eaae1	Du siehst erschöpft aus! Iss etwas an der Bar.
+5cd9e8b	Keine Energie mehr? Die Bar hilft dir.
+37b9672	Lass dir Zeit.
+c64df8c	Wann immer du bereit bist!
+b8dfc0a	Die Nacht ist noch jung.
+8748560	Das Anfängerglück ist auf deiner Seite!
+e3def50	Das Deck ist heute Abend auf deiner Seite!
+506ade9	Das Anfängerglück ist vorbei. Ab jetzt ist es ein faires Spiel!
+953d8b7	Willkommen im Casino! Dein Platz wartet.
+9fd9844	Guten Abend! Die Tische sind heute heiß.
+2d42aaf	Willkommen zurück! Fühlst du dich glücklich?
+311bae7	Tippe auf einen Tisch, um zu spielen!
+3318099	Mehr Chips? Du bist am richtigen Schalter.
+c5b3787	Größere Stapel, größere Boni!
+21ae665	Hunger? Such dir etwas von der Karte aus.
+8b83cc0	Ein Happen hält deine Energie oben!
+35f4b0e	Willkommen an meinem Tisch!
+8f90245	Da bist du ja! Gleich wirkt alles heller.
+909e4d6	Fühl dich wie zu Hause. Heute Abend dreht sich alles um dich.
+2477f78	Ich liebe dieses Lächeln. Glücksnacht?
+6ac2120	Entspann dich, du bist in guten Händen.
+089f04b	Hey du! Ich hatte gehofft, du kommst an meinen Schalter.
+3f2c3c9	Immer schön, ein freundliches Gesicht zu sehen.
+3021db8	Schau mal, wer da ist! Hast du Spaß?
+769980b	Hallo, Hübscher!
+5361ffd	Dein Stil gefällt mir heute Abend.
+56b40be	Hey, schön, dich wiederzusehen!
+3316019	Hast du einen schönen Abend? Du hast ihn verdient.
+28283fd	Vorsicht, ich könnte anfangen, dir die Daumen zu drücken.
+109ac94	Mein Lieblingsspieler ist zurück!
+acba0e6	Setz dich zu mir, ich teile dir etwas Schönes aus.
+eb5ff2a	Mit dir macht dieser Tisch viel mehr Spaß.
+772a73c	Schon gehen? Die Nacht ist noch jung!
+178301a	Komm schon, nur noch eine Hand. Ich habe ein gutes Gefühl!
+816036a	Du kannst mich jetzt nicht verlassen, wir fangen gerade erst an!
+5c9b7e2	Letzte Chance! Die nächste Hand könnte die große sein...
+20ce7b6	Okay, okay. Ich halte deinen Platz warm. Versprichst du, wiederzukommen?
+51d1aeb	Noch keine Serie? Spiel heute {2} Runden und ich fange an zu zählen.
+10b25d9	Neuanfang! {2} Runden und deine Flamme brennt.
+0c10711	Ich führe eine kleine Liste, wer jeden Tag kommt. Du stehst nicht drauf... noch nicht.
+5e7c431	Tag {1} wartet auf dich. Nur noch {2} Runden!
+b268d84	{0} Tage in Folge... du hörst doch jetzt nicht auf, oder?
+b32ae79	Deine Flamme wirkt heute etwas kalt. {2} Runden wärmen sie auf.
+a6f3fbd	Ich zähle mit: {0} Tage. Machen wir {1} daraus.
+1dc5c97	Glaub nicht, ich hätte es nicht bemerkt. Noch {2} Runden, um deine Serie zu halten!
+807b82c	{0} Tage in Folge? Langsam glaube ich, es gefällt dir hier.
+6391923	Deine Serie ist für heute sicher. Jetzt gibst du nur noch an.
+3bfbbf7	Tag {0}, geschafft. Morgen um dieselbe Zeit?
+ca2a2c1	{0} Tage! Langsam sollte ich dir einen Platz reservieren.
+54f991f	Da ist er: Tag eins deiner Serie! Komm morgen wieder, dann sind es zwei.
+a1e7ab0	Eine ganze Woche am Stück! Ich bin ehrlich beeindruckt.
+96cee95	Dreißig Tage! Du arbeitest ja praktisch hier.
+a9834cd	Hundert Tage. Ich erzähle allen von dir.
+071317f	Das sind {0} Tage in Folge! Sieh dich an.
+0964027	Serie gerettet: Tag {0}! Ich wusste, du schaffst es.
+c7f2a1f	Tag {0}! Wetten, du schaffst keine {1}?
+a6ce2e2	{0} Tage... schon gut, Angeber.
+3ab91d0	Spiele 10 Hände Blackjack
+38e863d	Gewinne 5 Hände Blackjack
+6ac41cc	Erziele einen Blackjack
+74cf149	Gewinne 500 Chips beim Blackjack
+66440e1	Drehe die Slots 20-mal
+9205056	Gewinne 5 Slot-Drehungen
+cd60e0c	Gewinne das 5-Fache deines Einsatzes an den Slots
+6f7ac28	Spiele 5 Runden Roulette
+6978cc0	Gewinne 3 Roulette-Drehungen
+c8ebbcc	Triff eine Zahl direkt (Plein)
+8a57c54	GPS-Standort
+4919635	Mobilfunknetz
+527b094	Internetverbindung
+f49ae82	Geräteeinstellungen
+60827d3	Testland
+0b2f8d8	nicht bestätigt (Standardpreis)
+50d8b4a	unbekannt
+4fb7a4e	1. Dutzend
+647a0eb	2. Dutzend
+a934745	3. Dutzend
+3de80ab	2 zu 1
+bb4e68e	ROT
+a9414ab	SCHWARZ
+710756a	UNGERADE
+70ca748	GERADE
+4d60d6c	FAIRE PREISE FÜR DEIN LAND
+1674d95	Die Shop-Preise sind an die Wirtschaft deines Landes angepasst, damit Spieler überall einen fairen Preis zahlen.
+4ec27ee	Um dein Land zu bestimmen, prüfen wir einmal deinen ungefähren Standort. Er wird auf deinem Gerät einem Land zugeordnet und nirgendwohin gesendet. Wenn du ablehnst, gelten die Standardpreise.
+ff3dbb4	WEITER
+43a6a8d	Das Casino verlassen?
+ad209a0	Deine Chips und dein Fortschritt sind gespeichert.
+5860c84	BEENDEN
+f1e0808	BLEIBEN
+5b38c49	{0} freigeschaltet
+15ae7ac	Gestern hat ein Serien-Schutz deine {0}-Tage-Serie gerettet.
+d375ffb	{0} Serien-Schutze haben deine {1}-Tage-Serie gerettet.
+fd8ab39	Deine {0}-Tage-Serie ist vorbei. Spiel heute {1} Runden, um eine neue zu starten!
+7fa2db4	MISSION ERFÜLLT
+255325c	+{0} Chips
+d205ece	ALLE MISSIONEN ERFÜLLT!
+4acbed2	Tagesbonus +{0} Chips. Neue Missionen morgen.
+ab2ceb3	LEVEL {0}!
+86e2afb	Meilenstein! +{0} Chips
+9ae18ad	Komm morgen wieder, um weiterzumachen
+7af7e7c	+1 Serien-Schutz
+b5b9597	{0}-TAGE-SERIE!
+62ec60d	Käufe sind in dieser Version nicht verfügbar.
+1f9786c	Kauf fehlgeschlagen. Dir wurde nichts berechnet.
+3e4c600	+{0} Chips hinzugefügt!
+1998202	{0}: {1} Hände mit {2} % Glück, nach dem Anfängerglück
+728ada5	{0}: {1} Hände mit {2} % Glück!
+af5e232	{0}: +{1} % Energie
+001a53b	Auf diesem Gerät nicht verfügbar
+2607004	Videos laden in diesem Netzwerk nicht
+569c30d	Komm morgen wieder
+ecae6ee	Bereit in {0} s
+9964820	+{0} Chips (heute noch {1})
+e1bd888	+{0} Gratis-Chips!
+619bd5d	+1 Serien-Schutz!
+f70d794	Gerade ist kein Video verfügbar. Versuch es gleich noch einmal.
+264d71b	BRONZE
+462e839	SILBER
+81ff70a	GOLD
+50e122e	DIAMANT
+57f5f5e	Menü
+69bd4ef	Ansicht
+dbfe736	Kreuz
+1cc7820	Kreis
+82810cb	Quadrat
+73d3ae2	Dreieck
+a42f608	Deine Region wird geprüft...
+1db422c	Nicht bestätigt ({0}): Standardpreise
+9bc0807	{0} ({1}): Preise in {2}
+ae8c393	Erinnerungen
+aefd59b	Gratis-Chips bereit und Serien-Erinnerungen
+3125838	Deine Gratis-Chips sind bereit
+233027b	{0} Chips warten im Lucky Ace auf dich.
+b93976b	Halte deine {0}-Tage-Serie
+bd68038	Spiel heute {0} Runden, damit sie um Mitternacht nicht zurückgesetzt wird.
+0acfb6f	Willkommen! Das Anfängerglück ist heute auf deiner Seite. Platzier einen Einsatz!
+d589374	BLACKJACK ZAHLT 3 ZU 2   •   DEALER STEHT BEI ALLEN 17   •   VERSICHERUNG ZAHLT 2 ZU 1
+b700b02	EINSATZ
+16ec74f	LÖSCHEN
+928226b	ERNEUT
+55591e0	AUSTEILEN
+395ed46	KARTE
+43e7971	STEHEN
+097274c	VERDOPPELN
+6df63ca	SPLITTEN
+3e40f46	VERSICHERN
+db82d3a	NEIN, DANKE
+28d6be8	EINSATZ {0}+
+9587b70	Tischmaximum erreicht
+b9ac47d	Nicht genug Chips
+d237ade	Der Dealer zeigt ein Ass. Für {0} versichern?
+bf07c14	Versicherung zahlt {0}
+b6e674a	Kein Blackjack beim Dealer. Versicherung verloren.
+0cc9679	ÜBERKAUFT
+82ce89d	DEALER ÜBERKAUFT
+6e1e1a4	BLACKJACK!
+662fae5	GEWONNEN
+8918d00	PUSH
+8df6be4	VERLOREN
+9e69668	Das Anfängerglück ist vorbei. Deine Glückssträhne beginnt jetzt.
+822f4f4	Das Anfängerglück ist vorbei. Ab jetzt ist es normales Blackjack.
+b0377c7	Deine Glückssträhne ist vorbei. Zurück zum normalen Blackjack.
+824ad7c	KEINE CHIPS MEHR
+ff1822d	Schau ein kurzes Video für {0} Gratis-Chips oder geh zur Kasse.
+e4cac2f	Geh zur Kasse, um Chips nachzuladen.
+c3df3e7	GRATIS-CHIPS
+b169d33	KASSE
+4d38f66	SPÄTER
+cb8171b	Beende zuerst diese Hand.
+3aa6941	„{0}“
+6f846f4	NOCH EINE HAND
+a79d4f2	GEHEN
+693f697	ANFÄNGERGLÜCK
+641ad58	GLÜCKSSTRÄHNE
+fc45931	Willkommensbonus für neue Spieler: Bei deinen ersten <b>{0} Händen</b> ist der Schlitten des Dealers zu deinen Gunsten sortiert, du gewinnst also fast jede Hand.
+576c683	In den nächsten <b>{0} Händen</b> lässt der Vorteil nach, danach ist jeder Tisch normales, faires Blackjack aus einem gemischten Schlitten mit 6 Decks (Blackjack zahlt 3 zu 2, der Dealer steht bei allen 17).
+7fb55b3	Vorteil gerade: <b><color=#7CFC9A>{0} %</color></b>   Verbleibende Hände: <b>{1}</b>
+d4f8fe0	Bei deinen nächsten <b>{0} Blackjack-Händen</b> mit einem Einsatz bis <b>{1} Chips</b> hat jede Karte eine Chance von <b>{2} %</b>, zu deinen Gunsten ausgeteilt zu werden (derselbe Vorteil wie beim Anfängerglück).
+0a5fc06	Bei gutem Spiel gewinnt das etwa <b>{0} %</b> der Hände, gegenüber etwa {1} % beim normalen Blackjack. Höhere Einsätze sind normales Blackjack und verbrauchen keine Hände. Wenn die Hände aufgebraucht sind, ist jeder Tisch wieder normales, faires Blackjack.
+c3a8946	VERSTANDEN
+8dfc44a	WILLST DU DEIN GLÜCK ZURÜCK?
+272a97f	Das Anfängerglück ist vorbei: Ab jetzt ist jeder Tisch normales, faires Blackjack. Eine Glückssträhne bringt den Vorteil für eine Weile zurück.
+06b7689	TÄGLICH
+4035996	TAGESSERIE
+fbe7f18	TAGE IN FOLGE
+7a46866	HEUTE
+4753707	WERBUNG ANSEHEN
+6bb45f3	KAUFEN
+62a945f	SERIEN-SCHUTZ
+ba5b1de	Ein Serien-Schutz hält deine Serie an einem Tag am Leben, an dem du nicht spielst. Du kannst bis zu {0} haben.\n\nEinen für {1} Chips kaufen?
+38c6090	Serien-Schutz bereit.
+8fe681f	Nicht genug Chips für einen Serien-Schutz.
+1507c40	ABBRECHEN
+457d20f	TÄGLICHES DREHEN
+9623247	DREHEN
+ac5ef96	Chancen:
+1200f20	{0} %
+003a689	Du hast {0} Chips gewonnen!
+f757137	HEUTIGE MISSIONEN
+7b7f9e2	Rekord: {0} Tage
+9554fea	Spiel jeden Tag, um eine Serie aufzubauen
+5c8dbb8	Tagesziel erreicht! Bis morgen.
+1aeb9a1	Heute: {0} / {1} Runden (beliebiges Spiel)
+bb92856	Serien-Schutze: {0} / {1}
+0ec6216	Rette deine Serie an einem verpassten Tag. +1 alle 7 Tage.
+cc0a745	VOLL
+419a962	KEIN VIDEO
+2dabd99	WERBUNG GLEICH
+f12e166	Serienbonus: Preise ×{0}
+80948a4	Jeden Tag einmal gratis drehen
+596b5e0	NÄCHSTES  {0}
+7f7e7fc	Alles erledigt! Bonus kassiert.
+03a0f2a	Neue Missionen um Mitternacht.
+4784874	Schaffe alle drei: +{0} Bonus-Chips
+42c5cda	SPIELEN
+337211e	SPIELE
+8f5e3bd	Links ziehen zum Gehen  •  Rechts ziehen zum Umsehen  •  Tippen zum Hingehen
+d00d221	Nur ab 18  •  Chips sind zum Spaß: kein Geldwert, nie gegen Geld oder Preise eintauschbar
+b60f038	Die Türen öffnen sich...
+2e5bcce	Willkommen! Deine {0} Willkommens-Chips sind bereit. Die Tische sind direkt vor dir!
+7ef7ae3	+{0} Gratis-Chips! Mehr in {1} Stunden.
+5d82af9	Gratis-Chips gibt es alle {0} Stunden. Die nächsten in {1}.
+5469985	{0} Std. {1} Min.
+bb65beb	{0} Min. {1} Sek.
+ac8ba93	HALTE DEINE SERIE
+560bfa1	Möchtest du eine Erinnerung an Abenden, an denen du noch nicht gespielt hast, und wenn deine Gratis-Chips bereit sind? Nie mehr als das, und du kannst es in den Einstellungen ausschalten.
+b724a40	ERINNERE MICH
+9e0c898	+{0} Chips bereit!
+1207e28	Video ansehen: {0}
+db3655b	Nächste Gratis-Chips in {0}
+4ca9be5	BLACKJACK
+9a612b1	4 Tische  •  zahlt 3 zu 2
+1194439	SLOTS
+6555152	Lucky Ace 7s  •  10 Linien
+255b1a1	ROULETTE
+6df1551	Europäisch mit einer Null
+379b146	DU BIST ERSCHÖPFT
+340e5c4	Deine Energie ist leer. Hol dir etwas an der Bar, um weiterzuspielen, oder komm später wieder: Energie erholt sich langsam, während du weg bist.
+a517396	ZUR BAR
+7c7227f	WÄHLE DEINEN TISCH
+c963de3	EINSÄTZE
+c433657	LEVEL {0}
+083ac39	HINSETZEN
+9698219	BRAUCHT {0}
+34b737e	Erreiche Level {0}, um hier zu spielen. Du bist Level {1}.
+6e946b7	TT
+4a3a892	MM
+2857a6a	JJJJ
+9d1fece	TAG
+d3bb0c3	MONAT
+c0f0cad	JAHR
+43985ff	WANN BIST DU GEBOREN?
+293fda2	Chips dienen nur der Unterhaltung. Sie haben keinen Geldwert und können niemals gegen Geld oder Preise eingetauscht werden.
+3e9128d	LEIDER DARFST DU NICHT SPIELEN
+b5e8985	{0} ist nur für Erwachsene.
+bb1b380	BEENDEN
+d9f9432	Wird in {0} geschlossen...
+c6e102d	ERZÄHL UNS VON DIR
+31120ce	Wir wählen deine Gastgeber, Dealer und das Barpersonal passend aus. Du kannst das jederzeit in den Einstellungen ändern.
+49e8df9	ICH BIN EIN MANN
+85abe81	ICH BIN EINE FRAU
+76cc98c	KEINE ANGABE
+964daf7	CASINO BETRETEN
+2efb69a	Dein Personal heute Abend:
+c10e749	Seite {0} von {1}
+2a3ffd9	SPRACHE
+c673535	AUTOMATISCH
+d1245d2	LAND
+15fc12b	Willkommen! Machen Sie Ihr Spiel, bitte.
+531fb3f	Nicht genug Chips für diesen Einsatz.
+380eb75	Das Tischlimit ist {0} pro Dreh.
+55ad592	RÜCKGÄNGIG
+8f191f9	GESAMTEINSATZ  {0}
+82e1181	Tippe aufs Tableau, um Chips zu setzen
+bb19a75	Nichts geht mehr!
+5becf07	GRÜN
+bc74f4f	grün
+7898801	rot
+466bc8c	schwarz
+f2edfbf	Was für ein Treffer! Glückwunsch!
+b252caf	Gewonnen! Du gewinnst {0}.
+8587d14	GEWINN  +{0}
+b862a2b	{0} {1}. {2} gehen an dich zurück.
+a306d0a	ZURÜCK  {0}
+af3134d	Diesmal kein Gewinn
+84122e7	Machen Sie Ihr Spiel, bitte.
+52205f4	Warte, bis die Kugel liegt.
+c4b9243	EINSTELLUNGEN
+44d863e	ALLGEMEIN
+2bbca79	GRAFIK
+955c8b4	TON
+c701f5f	TOUCH
+efcc94a	MAUS
+8433628	CONTROLLER
+d868a50	VIBRATION
+f8692c7	18+ • Chips haben keinen Geldwert • Schriften: Bebas Neue, Poppins, Noto (SIL OFL) • Grenzen: Natural Earth • Preisdaten: Weltbank
+da46447	CASINO-PERSONAL
+594b81e	FRAUEN
+69d3313	MÄNNER
+b4325d3	GEMISCHT
+414594a	ERINNERUNGEN
+6cac87b	Gratis-Chips bereit und ein abendlicher Hinweis, bevor eine Serie endet.
+e43b2e0	ERNEUT PRÜFEN
+7c9e8f9	PREISREGION
+495c70e	Am schnellsten: das Casino wie gemalt, nichts extra.
+b052523	Polierte Böden, Holz und Gold spiegeln den Raum.
+6bd30d7	Filmlook: Farbkorrektur, Körnung, Leuchten, Lichtstrahlen, lebensechte Haut.
+21b6e1d	Kinoobjektiv: Fokus folgt deinem Blick, Lichtschlieren, Staub in den Strahlen.
+fb7c2e8	QUALITÄT
+d8b9679	NIEDRIG
+f68525a	MITTEL
+d77d0b2	HOCH
+9289eee	ULTRA
+637e313	AUFLÖSUNG
+2e7b141	Niedriger ist weicher, aber kühler und spart Akku.
+93dcfb5	ANZEIGEMODUS
+3c6eac3	VOLLBILD
+f3690b1	FENSTER
+cfa6200	KANTENGLÄTTUNG
+ad50489	AUS
+f178804	Glättet gezackte Kanten im Casino.
+4266288	BILDRATE
+d031ab0	{0} FPS
+a2b7514	30 FPS spart Akku und hält ältere Handys kühl.
+0babcee	V-SYNC
+6656e25	SICHTFELD
+244aadb	FPS ANZEIGEN
+41c8f6e	GESAMTLAUTSTÄRKE
+bf3af1f	MUSIK
+bd80907	SOUNDEFFEKTE
+d098036	STIMMEN DES PERSONALS
+93c6484	Das Murmeln des Personals beim Sprechen.
+16bf71a	IM HINTERGRUND STUMM
+85b2ee7	Schaltet das Casino stumm, wenn du in einem anderen Fenster bist.
+8e3634e	BLICK-EMPFINDLICHKEIT
+880dc05	Wie schnell Ziehen die Ansicht dreht.
+750c60f	Wie schnell Ziehen mit der Maus die Ansicht dreht.
+8b988eb	BLICK LINKS / RECHTS UMKEHREN
+cacf0cc	BLICK OBEN / UNTEN UMKEHREN
+2d13b68	TASTENBELEGUNG
+50c3f10	AUTO
+b471e5c	MENÜ / ANSICHT TAUSCHEN
+d9a59f1	STICK-EMPFINDLICHKEIT
+ec14343	Wie schnell der rechte Stick die Ansicht dreht.
+a79af23	STICK LINKS / RECHTS UMKEHREN
+acfc66e	STICK OBEN / UNTEN UMKEHREN
+56bb461	CONTROLLER-HINWEISE
+51cf49a	Zeigt, was jede Taste macht, während du mit Controller spielst.
+dff7431	VIBRIEREN AUF
+34139ab	HANDY
+15ee988	BEIDE
+465cc91	Auto: der Controller, solange einer verbunden ist, sonst das Handy.
+f6fed84	HANDY-VIBRATION
+8e97fa7	HANDY-STÄRKE
+486ba2d	CONTROLLER-VIBRATION
+8008889	CONTROLLER-STÄRKE
+ea9233e	AUTOMATISCH ({0})
+167dda7	{0} öffnet die Einstellungen, {1} öffnet Täglich.
+29a4ef9	Kein Controller verbunden.
+558ecd2	Verbunden: {0}. {1}-Tasten werden angezeigt (A rechts bestätigt).
+d6eee9e	Verbunden: {0}. {1}-Tasten werden angezeigt.
+78525d5	DIE BAR
+099db9f	GLÜCK
+b4a8b06	Chips, Glück und Essen sind virtuelle Gegenstände nur zur Unterhaltung: kein Geldwert, nicht gegen Geld oder Preise einlösbar.
+e2a28c9	Jede Karte hat diese Chance, zu deinen Gunsten ausgeteilt zu werden, bei Blackjack-Einsätzen bis {0} Chips (höhere Einsätze sind normal und verbrauchen keine Hände). Beginnt nach dem Anfängerglück; stärkere Pakete werden zuerst verwendet.
+04fbc6d	Erlaube den Standortzugriff, um den Preis für dein Land zu bekommen
+2ae87fc	Käufe sind in dieser Version des Spiels nicht verfügbar.
+8239a84	TEST-SHOP (kein echtes Geld)
+173d916	Energie
+b2c67eb	+{0} % CHIPS
+58e8011	{0} Hände
+ce80712	gewinnt etwa {0} % davon
+c69e8ee	LUCKY ACE 7s
+fc99288	GESAMTEINSATZ
+c1c00cd	GEWINNTABELLE
+3930abd	VIEL GLÜCK!
+67b6973	Du brauchst mindestens 10 Chips zum Drehen.
+5aa1edb	CHIPS HOLEN
+f5a1812	Einsatz auf das gesenkt, was du decken kannst.
+5c63f61	MEGAGEWINN!
+652544f	GROSSER GEWINN!
+91bc41c	ZURÜCK {0}
+3714283	KEIN GEWINN
+33c0faa	LINIE {0}: {1} × {2} = {3}
+9f59e6e	{0} STERNE = {1}
+d6eee90	Kirsche
+4459b79	Zitrone
+09fb6aa	Orange
+cb92e50	Pflaume
+d419866	Glocke
+e496fd2	Bar
+63abb56	Sieben
+b3850e0	Diamant
+fc2b5a9	Ass
+85a7de6	Stern
+c31b035	STERNE zahlen überall: 5 = {0}× Einsatz, 4 = {1}× Einsatz, 3 = {2}× Einsatz.
+f97509c	Das ASS ist Joker: Es ersetzt jedes Symbol außer dem Stern.
+3e8bc69	Liniengewinne sind Vielfache des Linieneinsatzes (Gesamteinsatz ÷ 10), von links nach rechts ab der ersten Walze.
+523f8dc	AUSZAHLUNG: {0} % auf lange Sicht. Jeder Dreh ist unabhängig und zufällig.
+e0c705d	Gehen
+b8db515	Umsehen
+503d46d	Tasten
+c7f73bb	Einstellungen
+728298d	Täglich
+ab166bd	Anpassen
+76cdb95	Bewegen
+8598222	Auswählen
+bbfa773	Schließen
+b52b36b	Zurück
+ab37588	ERSCHÖPFT
+9b11a09	ANFÄNGERGLÜCK {0} %
+0c94e98	NOCH {0} HÄNDE
+51ed273	GLÜCKSSTRÄHNE {0} %
+3401470	{0} HÄNDE  •  EINSÄTZE BIS {1}
+f481cc6	LEVEL
+0139615	WILLKOMMEN
+daad514	MIT DER GASTGEBERIN SPRECHEN
+bcefb10	Wegbeschreibung und Tipps
+c28e782	CHIPS  •  BONI
+0c69ec4	CHIPS KAUFEN
+78c0727	Kasse
+1737fab	COCKTAILS  •  SNACKS  •  ENERGIE
+9e008ae	ESSEN & GETRÄNKE
+f7881e8	Die Bar
+0e979ed	BLACKJACK ZAHLT 3 ZU 2
+eea0d12	DEALER MUSS BEI 17 STEHEN
+4db37bf	BLACKJACK SPIELEN
+0ffdd99	{0}-Tisch  •  Einsätze {1} bis {2}
+b4f938b	SLOTS SPIELEN
+6b7caea	MACHEN SIE IHR SPIEL
+26b1e39	ROULETTE SPIELEN
+910a1ed	Europäischer Kessel  •  Plein zahlt 35 zu 1
+7ef0215	GETRÄNK BESTELLEN
+fe38d73	{0} bringt es dir
+f7b6306	Der {0} öffnet ab Level {1}. Du bist Level {2}: Jede gespielte Runde zählt.
+d85f1ad	Dieser Tisch braucht mindestens {0} Chips.
+cbfe016	Die Blackjack-Tische sind direkt vor dir. Geh zu einem und setz dich!
+64d9faf	Die Kasse ist hier rechts von dir, die Bar an der linken Wand.
+e4c6e0b	Müde? Ein Snack an der Bar füllt deine Energie wieder auf.
+d5ab68f	Tippe irgendwo auf den Boden und du gehst dorthin. Tippe auf einen Tisch, um dich zu setzen.
+6cc19a9	CASINO
+cc21f74	KLEIN
+dc01dec	GROSS
+5fb90b0	BELIEBIGER DRILLING
+9c716f1	Hold'em-Tisch
+3b6ab84	Spiele 8 Hände Hold'em
+6c617ca	Gewinne 4 Hände Hold'em
+44ce500	Spiele 10 Hände Baccarat
+b90cff7	Gewinne 5 Hände Baccarat
+3e4dfa9	Spiele 15 Hände Video-Poker
+854fe20	Spiele 8 Runden Sic Bo
+dfddac1	Gewinne 4 Runden Sic Bo
+2973ea7	Würfle 15-mal beim Craps
+737be17	Gewinne 4 Würfe beim Craps
+4dbb81d	Mach beim Video-Poker einen Flush oder besser
+19aa07b	Royal Flush
+cf83e72	Straight Flush
+d27ba03	Vierling
+dbe8641	Full House
+7c936d7	Flush
+2501c65	Straße
+ca1a0d4	Drilling
+6876b40	Zwei Paare
+2537f88	Paar
+b4b323e	Höchste Karte
+f70bfdc	Buben oder besser
+98fd5af	BACCARAT
+df66d5a	Willkommen beim Baccarat! Spieler, Bank oder Unentschieden?
+5055efd	SPIELER
+3f90696	UNENTSCHIEDEN
+0d75f63	BANK
+0ebd5a4	LETZTE ERGEBNISSE
+511993d	S
+ae4f281	B
+c2c53d6	U
+781246e	Wähle einen Chip und tippe auf Spieler, Bank oder Unentschieden
+11023a0	UNENTSCHIEDEN  {0}
+503d5f1	SPIELER GEWINNT  {0} ZU {1}
+0eb4be5	BANK GEWINNT  {0} ZU {1}
+7859af1	CRAPS
+4083dbd	Willkommen beim Craps! Setz auf die Pass Line und würfle.
+d266326	SECHS
+c506f3a	NEUN
+987f4e9	FIELD
+71c1b2b	2 3 4 9 10 11 12  •  2 und 12 zahlen doppelt
+d0ac294	JEDE 7
+9b2f0c3	JEDES CRAPS
+f62ac59	DON'T PASS BAR
+6080ade	1:1  •  bei 12 unentschieden
+c07247a	PASS LINE
+6229f78	ODDS
+29bf819	echte Quoten
+387d7a5	ON
+229c9cc	Odds kommen hinter die Pass Line, sobald es einen Point gibt.
+c2c8e82	Für Odds brauchst du einen Einsatz auf der Pass Line.
+1784d43	Deine Odds sind am Maximum.
+fdc3442	Line-Einsätze gibt es beim Come-out-Wurf.
+97ce95b	AUF DEM TISCH  {0}
+a895ec0	Der Point ist {0}: würfle ihn noch einmal vor einer 7. Odds hinter deiner Pass Line zahlen echte Quoten.
+d9f9d65	WÜRFELN
+bcf32ef	Der Point ist {0}.
+5b450b4	{0}! Point getroffen. Gewonnen!
+9746e08	Seven out. Neuer Werfer, neuer Come-out.
+4fc4664	{0}, ein Natural! Die Pass Line gewinnt.
+203f466	{0}, Craps. Die Line verliert.
+0f8e260	Warte, bis die Würfel liegen.
+6a98cfe	TISCH VERLASSEN?
+8430088	Dein Line-Einsatz läuft noch auf den Point {0}. Wenn du jetzt gehst, ist er verloren.
+0e138d1	HOLD'EM
+5e023be	Willkommen beim Hold'em! Ante setzen und Karten sehen.
+0cd62f5	ANTE
+5e9f331	BLIND
+3b935ab	BLIND ZAHLT
+20713a4	Der Dealer qualifiziert sich mit einem Paar oder besser
+d37267c	CHECKEN
+9a4e316	FOLDEN
+88313c4	SETZE {0}×
+42c6fea	Ante {0} + Blind {0}. Halte {1} mehr für dein Raise bereit.
+1abb2f2	Tippe auf Chips für dein Ante. Das Blind ist gleich hoch.
+f541cec	Checken oder drei- bis vierfach dein Ante setzen?
+fc74a79	Erhöhe jetzt um 4× oder 3× dein Ante, oder checke und sieh den Flop.
+b687501	Letzte Chance: setz 1× dein Ante, oder folde und verlier Ante und Blind.
+400009c	Setz jetzt 2× dein Ante, oder checke und sieh die letzten zwei Karten.
+f4abdf9	Hier ist der Flop.
+0e51f2c	Turn und River.
+cc856d3	Mal sehen, was ich habe.
+6ba1f3e	Der Dealer qualifiziert sich nicht: dein Ante kommt zurück.
+cf1fdc5	Gefoldet. Die nächste Hand gehört dir.
+177fab0	Ultimate Texas Hold'em
+c4917b9	Spieler, Bank oder Unentschieden
+6e4fe7b	VIDEO-POKER
+73cabd3	Jacks or Better
+91c4555	SIC BO
+d810061	Drei Würfel  •  groß oder klein
+85ab7ec	Pass Line  •  Field  •  Odds
+35d8db6	Willkommen beim Sic Bo! Groß, klein oder etwas Mutigeres?
+3d05514	Das Tischlimit liegt bei {0} pro Wurf.
+86ade94	SCHÜTTELN
+b69304e	DRILLING {0}!
+5d1bcc6	GEHALTEN
+36a21ba	Geben, gewünschte Karten halten, einmal ziehen.
+99fa8e8	HALTEN
+249d1c0	TIPP
+7aab1bd	ZIEHEN
+5595eb4	Tippe auf Karten, um sie zu halten, dann zieh.
+1c05db9	HOLD'EM SPIELEN
+e353e5f	Ultimate Texas Hold'em  •  Ante {0} bis {1}
+6470369	BACCARAT SPIELEN
+bbe0077	GROSS  •  KLEIN  •  DRILLINGE
+3ba448f	SIC BO SPIELEN
+097c59c	Drei Würfel  •  groß oder klein zahlt 1 zu 1
+af2ca30	PASS LINE  •  FIELD  •  ODDS
+f18398e	CRAPS SPIELEN
+eeede6d	Pass Line zahlt 1 zu 1  •  Odds zahlen echte Quoten
+34e5170	VIDEO-POKER SPIELEN
+f71bdfb	Jacks or Better  •  volle 9/6-Tabelle
+4a6c087	JACKS OR BETTER  •  ROYAL FLUSH ZAHLT 800×
+370a133	Die Spielautomaten stehen an der rechten Wand, Video-Poker an der Rückwand, das Roulette hinten.
+8298d28	Hold'em ist hinten links in der Ecke, hinter der Bar.
+a2a111f	Baccarat ist gleich links, wenn du hereinkommst.
+b7193bc	Sic Bo ist in der Ecke hinter der Kasse: drei Würfel, groß oder klein.
+25320c8	Der Craps-Tisch steht rechts vor den Automaten. Setz auf die Pass Line und würfle!
+dc81691	Sofia
+4d9936f	Elena
+3aa0674	Mia
+b724114	Valentina
+34d3f7f	Chloe
+0fc9dd6	Isabella
+bbd3e35	Nadia
+eac677d	Aria
+baaf10f	Luna
+8641381	Camila
+eeee9b7	Aurora
+8a59f05	Bianca
+5a0fc29	Serena
+bf38aa5	Marco
+cfaf50a	Leo
+5815f22	Adrian
+cbede02	Lucas
+f0b9995	Viktor
+7b37259	Daniel
+aaac72d	Gabriel
+2f8f37e	Ethan
+a01126e	Julian
+3e05c90	Rafael
+e1ae457	Mateo
+3398634	Nico
+7aa2d07	Enzo
+1920e2f	Come-out-Wurf: setz auf die Pass Line und würfle. 7 oder 11 gewinnt, 2, 3 oder 12 verliert. Place-Einsätze gelten, sobald es einen Point gibt.
+99f4934	LUCKY ACE 7s  •  ZAHLT BIS ZU 2.500× DEINES LINIENEINSATZES

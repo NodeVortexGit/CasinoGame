@@ -1,0 +1,659 @@
+# Irish (ga). Machine translation by Claude.
+bd99124	Dornán sliseanna
+c7c6dc8	Carn sliseanna
+7512cfd	Tráidire sliseanna
+fa36588	Raca sliseanna
+7994f65	IS COITIANTA
+49dcc21	Cruinneachán sliseanna
+0725283	Taisceadán an Imreora Mhóir
+7658705	LUACH IS FEARR
+2f23432	Uisce súilíneach
+418b820	Espresso
+97b463c	Deoch fuinnimh
+43bbfda	Ceapaire club
+bce7a75	Béile burgar
+2832a8d	Dinnéar stéige
+dee8ee8	ATHLÍONADH IOMLÁN
+a7c2255	Sraith Ádhúil
+7919163	Sraith Te
+74fdfc2	AN T-ÁDH IS MÓ
+d79cd12	Bord Cré-umha
+2a8ff35	Bord Airgid
+51877b2	Bord Óir
+9282152	Bord Diamaint
+0de8764	Cuir isteach bliain bhailí.
+d4e14c9	Cuir isteach mí bhailí (1-12).
+addd156	Cuir isteach lá bailí.
+d78a4f4	Tá an dáta sin sa todhchaí.
+787c7c6	Fáilte chuig mo bhord! Réidh le himirt?
+8b0f93e	Is breá liom tú a fheiceáil. Suigh síos!
+8338021	Dia duit! Tá na cártaí úr, agus mise freisin.
+75750f9	Fáilte! Bíodh oíche iontach againn.
+95aac36	Cuir do gheall síos nuair atá tú réidh.
+8bc63c1	Sliseanna ar an mbord, agus feicimis na cártaí.
+984b7f3	Cad air a bhfuilimid ag imirt?
+b74c769	Ó, geall mór! Is maith liom do stíl.
+77fc1fc	Sin geall ceart. Ar aghaidh linn!
+7779a5b	Tá tú dána anocht, nach bhfuil?
+479ff82	Gach rud isteach?! Tá mo chroí ag preabadh!
+7fb527c	Gach rud ar lámh amháin. Gan eagla!
+7bf0c5d	Blackjack! Dochreidte!
+123f2d5	Fiche a haon, díreach mar sin!
+cd850a7	Blackjack! Tá grá ag na cártaí duit anocht.
+55f50ee	Imeartha go maith!
+79594b1	Bua! Maith thú.
+0df710e	Tá an t-ádh ag rith leat!
+20a0c1e	Is leatsa an ceann sin.
+a45fe61	A leithéid de bhua! Tá gach duine ag féachaint ar an mbord seo!
+54d3982	Ollmhór! Tá tú trí thine anocht!
+8da8f1e	Chomh gar sin! Is leatsa an chéad cheann eile.
+5d921e1	Bhí an t-ádh ar an teach an uair sin.
+f923af7	Ná bac leis, tá lámh nua ag teacht.
+853e7ca	Úch, cárta amháin rómhór.
+daec44f	Briste! Tarlaíonn sé do na daoine is fearr.
+11ceaef	Comhionannas. Ní chailleann aon duine!
+911a289	Comhionannas. Tá do shliseanna slán.
+a89d9d9	Bhris mé! Tá an t-ádh ort.
+f76c8fd	Barraíocht dom. Bhuaigh tú!
+63f8d0b	Blackjack don teach, tá brón orm!
+465c8bf	Blackjack ag an déileálaí. Mí-ádh.
+6752f40	Tá aon á thaispeáint agam. Árachas?
+1920c5a	Ag scoilt! Dhá sheans le buachan.
+9f621da	Ag dúbailt. Beart cróga!
+59da99d	Dúbail é! Cárta amháin ag teacht.
+0b48017	Bróg nua, ag suaitheadh!
+3fa7769	Ag éirí gann? Líonfaidh an t-airgeadóir suas thú.
+4e5694b	Tá na sliseanna ag éirí tanaí. Ar mhaith leat tuilleadh?
+d41f057	Gan sliseanna! Tabhair cuairt ar an airgeadóir nó faigh sliseanna saor in aisce.
+15d90d3	Tá do charn folamh. Tá an t-airgeadóir díreach taobh thiar díot.
+a9eaae1	Tá cuma traochta ort! Faigh greim le hithe ag an mbeár.
+5cd9e8b	Ag rith ar folús? Tabharfaidh an beár aire duit.
+37b9672	Tóg do chuid ama.
+c64df8c	Aon uair a bhíonn tú réidh!
+b8dfc0a	Tá an oíche óg.
+8748560	Tá ádh an tosaitheora ar do thaobh!
+e3def50	Tá an paca ar do thaobh anocht!
+506ade9	Tá ádh an tosaitheora thart. Ón áit seo amach is cluiche cothrom é!
+953d8b7	Fáilte go dtí an ceasaíneo! Tá do shuíochán ag fanacht.
+9fd9844	Tráthnóna maith! Tá na boird te anocht.
+2d42aaf	Fáilte ar ais! An mbraitheann tú ádhúil?
+311bae7	Tapáil bord chun tosú ag imirt!
+3318099	An bhfuil tuilleadh sliseanna uait? Tháinig tú go dtí an fhuinneog cheart.
+c5b3787	Carnáin níos mó, bónais níos mó!
+21ae665	Ocras ort? Roghnaigh rud ar bith ón mbiachlár.
+8b83cc0	Coinníonn greim bia do chuid fuinnimh suas!
+35f4b0e	Fáilte chuig mo bhord!
+8f90245	Seo tú! Tá an áit níos gile cheana féin.
+909e4d6	Déan do bhaile féin den áit. Tá an oíche anocht ar fad fútsa.
+2477f78	Is breá liom an gáire sin. Oíche ádhúil?
+6ac2120	Bí ar do shuaimhneas, tá tú i lámha maithe anseo.
+089f04b	Hóigh, tusa! Bhí súil agam go dtiocfá chuig m'fhuinneog.
+3f2c3c9	Is deas i gcónaí aghaidh chairdiúil a fheiceáil.
+3021db8	Féach cé atá ann! An bhfuil spraoi agat?
+769980b	Dia duit, a stór!
+5361ffd	Is maith liom do stíl anocht.
+56b40be	Hóigh, is deas tú a fheiceáil arís!
+3316019	Oíche mhaith agat? Tá sí tuillte agat.
+28283fd	Bí cúramach, b'fhéidir go dtosóidh mé ag tacú leat.
+109ac94	Tá an t-imreoir is fearr liom ar ais!
+acba0e6	Suigh liom, déileálfaidh mé rud deas duit.
+eb5ff2a	Is mó i bhfad an spraoi atá ag an mbord seo leatsa.
+772a73c	Ag imeacht cheana? Tá an oíche óg!
+178301a	Ar aghaidh leat, lámh amháin eile. Tá mothú maith agam faoin gceann seo!
+816036a	Ní féidir leat mé a fhágáil anois, níl muid ach ag tosú!
+5c9b7e2	Seans deireanach! D'fhéadfadh an chéad lámh eile a bheith ar an gceann mór...
+20ce7b6	Ceart go leor, ceart go leor. Coinneoidh mé do shuíochán te. An ngeallann tú go bhfillfidh tú?
+51d1aeb	Gan sraith fós? Imir babhtaí ({2}) inniu agus tosóidh mé ag comhaireamh.
+10b25d9	Tús nua! Babhtaí ({2}) agus lasfaidh do lasair.
+0c10711	Coinním liosta beag de na daoine a thagann gach lá. Níl tusa air... fós.
+5e7c431	Tá lá {1} ag fanacht leat. Babhtaí fágtha: {2}!
+b268d84	Laethanta as a chéile: {0}... ní stopfaidh tú anois, an stopfaidh?
+b32ae79	Tá cuma beagán fuar ar do lasair inniu. Téifidh na babhtaí ({2}) í.
+a6f3fbd	Bhí mé ag comhaireamh: {0} lá. Déanaimis {1} de.
+1dc5c97	Ná ceap nár thug mé faoi deara é. Babhtaí fágtha chun do shraith a choinneáil: {2}!
+807b82c	Laethanta as a chéile: {0}? Táim ag tosú ag ceapadh gur maith leat an áit seo.
+6391923	Tá do shraith slán don lá inniu. Níl tú ach ag déanamh gaisce anois.
+3bfbbf7	Lá {0}, déanta. An t-am céanna amárach?
+ca2a2c1	{0} lá! Ba chóir dom suíochán a choinneáil duit.
+54f991f	Sin é: an chéad lá de do shraith! Fill amárach agus déanfaimid dhá lá de.
+a1e7ab0	Seachtain iomlán as a chéile! Tá mé an-tógtha leis.
+96cee95	Tríocha lá! Is beag nach n-oibríonn tú anseo anois.
+a9834cd	Céad lá. Táim ag insint do chách fútsa.
+071317f	Sin {0} lá as a chéile! Féach ort.
+0964027	Sraith sábháilte: lá {0}! Bhí a fhios agam go n-éireodh leat.
+c7f2a1f	Lá {0}! Geallaim nach sroichfidh tú lá {1}.
+a6ce2e2	{0} lá... ceart go leor, a ghaiscígh.
+3ab91d0	Imir 10 lámh blackjack
+38e863d	Buaigh 5 lámh blackjack
+6ac41cc	Faigh blackjack
+74cf149	Buaigh 500 slis ag blackjack
+66440e1	Cas na meaisíní sliotáin 20 uair
+9205056	Buaigh 5 chasadh ar na sliotáin
+cd60e0c	Buaigh 5× do gheall ar na sliotáin
+6f7ac28	Imir 5 bhabhta rúiléid
+6978cc0	Buaigh 3 chasadh rúiléid
+c8ebbcc	Aimsigh uimhir go díreach
+8a57c54	suíomh GPS
+4919635	líonra soghluaiste
+527b094	nasc idirlín
+f49ae82	socruithe gléis
+60827d3	tír thástála
+0b2f8d8	gan fíorú (praghas caighdeánach)
+50d8b4a	anaithnid
+4fb7a4e	1ú 12
+647a0eb	2ú 12
+a934745	3ú 12
+3de80ab	2 le 1
+bb4e68e	DEARG
+a9414ab	DUBH
+710756a	CORR
+70ca748	COTHROM
+4d60d6c	PRAGHSANNA COTHROMA DO DO THÍR
+1674d95	Tá praghsanna an tsiopa curtha in oiriúint do gheilleagar do thíre, ionas go n-íocann imreoirí i ngach áit praghas cothrom.
+4ec27ee	Chun do thír a aimsiú seiceálaimid do shuíomh garbh uair amháin. Meaitseáiltear é le tír ar do ghléas agus ní sheoltar áit ar bith é. Má dhiúltaíonn tú, beidh praghsanna caighdeánacha i bhfeidhm.
+ff3dbb4	AR AGHAIDH
+43a6a8d	An ceasaíneo a fhágáil?
+ad209a0	Tá do shliseanna agus do dhul chun cinn sábháilte.
+5860c84	SCOR
+f1e0808	FAN
+5b38c49	Díghlasáilte: {0}
+15ae7ac	Shábháil reo sraithe do shraith ({0} lá) inné.
+d375ffb	Shábháil reonna ({0}) do shraith ({1} lá).
+fd8ab39	Tá do shraith ({0} lá) thart. Imir babhtaí ({1}) inniu chun ceann nua a thosú!
+7fa2db4	MISEAN CURTHA I GCRÍCH
+255325c	+{0} slis
+d205ece	GACH MISEAN DÉANTA!
+4acbed2	Bónas laethúil +{0} slis. Misin nua amárach.
+ab2ceb3	LEIBHÉAL {0}!
+86e2afb	Cloch mhíle! +{0} slis
+9ae18ad	Fill amárach chun leanúint ar aghaidh
+7af7e7c	+1 reo sraithe
+b5b9597	SRAITH {0} LÁ!
+62ec60d	Níl ceannacháin ar fáil sa leagan seo.
+1f9786c	Theip ar an gceannach. Níor gearradh táille ort.
+3e4c600	+{0} slis curtha leis!
+1998202	{0}: {1} lámh le {2}% ádh, i ndiaidh ádh an tosaitheora
+728ada5	{0}: {1} lámh le {2}% ádh!
+af5e232	{0}: +{1}% fuinnimh
+001a53b	Níl sé ar fáil ar an ngléas seo
+2607004	Ní féidir físeáin a lódáil ar an líonra seo
+569c30d	Fill amárach
+ecae6ee	Réidh i gceann {0} s
+9964820	+{0} slis ({1} fágtha inniu)
+e1bd888	+{0} slis saor in aisce!
+619bd5d	+1 reo sraithe!
+f70d794	Níl físeán ar fáil faoi láthair. Bain triail eile as i gceann tamaillín.
+264d71b	CRÉ-UMHA
+462e839	AIRGEAD
+81ff70a	ÓR
+50e122e	DIAMANT
+57f5f5e	Roghchlár
+69bd4ef	Amharc
+dbfe736	Cros
+1cc7820	Ciorcal
+82810cb	Cearnóg
+73d3ae2	Triantán
+a42f608	Do réigiún á sheiceáil...
+1db422c	Gan fíorú ({0}): praghsanna caighdeánacha
+9bc0807	{0} ({1}): praghsanna in {2}
+ae8c393	Meabhrúcháin
+aefd59b	Sliseanna saor réidh agus meabhrúcháin sraithe
+3125838	Tá do shliseanna saor in aisce réidh
+233027b	Tá {0} slis ag fanacht leat ag Lucky Ace.
+b93976b	Coinnigh do shraith ({0} lá)
+bd68038	Imir babhtaí ({0}) inniu ionas nach n-athshocrófar í ag meán oíche.
+0acfb6f	Fáilte! Tá ádh an tosaitheora ar do thaobh anocht. Cuir geall síos!
+d589374	ÍOCANN BLACKJACK 3 LE 2   •   SEASANN AN DÉILEÁLAÍ AR GACH 17   •   ÍOCANN ÁRACHAS 2 LE 1
+b700b02	GEALL
+16ec74f	GLAN
+928226b	ATHGHEALL
+55591e0	DÉILEÁIL
+395ed46	CÁRTA
+43e7971	SEAS
+097274c	DÚBAIL
+6df63ca	SCOILT
+3e40f46	ÁRACHAS
+db82d3a	NÍ GÁ, GO RAIBH MAITH AGAT
+28d6be8	GEALL {0}+
+9587b70	Uasmhéid an bhoird bainte amach
+b9ac47d	Níl dóthain sliseanna agat
+d237ade	Tá aon ag an déileálaí. Árachas ar {0}?
+bf07c14	Íocann an t-árachas {0}
+b6e674a	Níl blackjack ag an déileálaí. Árachas caillte.
+0cc9679	BRISTE
+82ce89d	DÉILEÁLAÍ BRISTE
+6e1e1a4	BLACKJACK!
+662fae5	BUA
+8918d00	COMHIONANNAS
+8df6be4	CAILLTEANAS
+9e69668	Tá ádh an tosaitheora thart. Tosaíonn do Shraith Ádhúil anois.
+822f4f4	Tá ádh an tosaitheora thart. Blackjack caighdeánach as seo amach.
+b0377c7	Tá do Shraith Ádhúil thart. Ar ais chuig blackjack caighdeánach.
+824ad7c	GAN SLISEANNA
+ff1822d	Féach ar fhíseán gearr le haghaidh {0} slis saor in aisce, nó tabhair cuairt ar an airgeadóir.
+e4cac2f	Tabhair cuairt ar an airgeadóir chun do shliseanna a athlíonadh.
+c3df3e7	SLISEANNA SAOR
+b169d33	AIRGEADÓIR
+4d38f66	NÍOS DÉANAÍ
+cb8171b	Críochnaigh an lámh seo ar dtús.
+3aa6941	“{0}”
+6f846f4	LÁMH AMHÁIN EILE
+a79d4f2	IMIGH
+693f697	ÁDH AN TOSAITHEORA
+641ad58	SRAITH ÁDHÚIL
+fc45931	Bónas fáilte d'imreoirí nua: i do chéad <b>{0} lámh</b> tá bróg an déileálaí socraithe chun do leasa, mar sin buafaidh tú beagnach gach lámh.
+576c683	Thar na <b>{0} lámh</b> eile imíonn an buntáiste de réir a chéile, agus ina dhiaidh sin is blackjack caighdeánach cothrom é ag gach bord, déileáilte ó bhróg shuaite 6 phaca (íocann blackjack 3 le 2, seasann an déileálaí ar gach 17).
+7fb55b3	Buntáiste anois: <b><color=#7CFC9A>{0}%</color></b>   Lámha fágtha: <b>{1}</b>
+d4f8fe0	I do chéad <b>{0} lámh blackjack</b> eile le geall suas le <b>{1} slis</b>, tá seans <b>{2}%</b> ag gach cárta go ndéileálfar chun do leasa é (an buntáiste céanna le hádh an tosaitheora).
+0a5fc06	Le himirt mhaith buann sé sin thart ar <b>{0}%</b> de na lámha, i gcomparáid le thart ar {1}% i mblackjack caighdeánach. Is blackjack caighdeánach iad geallta níos mó agus ní úsáideann siad lámha. Nuair a bhíonn na lámha ídithe, is blackjack caighdeánach cothrom é ag gach bord arís.
+c3a8946	TUIGIM
+8dfc44a	AN DTEASTAÍONN DO CHUID ÁDH UAIT AR AIS?
+272a97f	Tá ádh an tosaitheora thart: ón áit seo amach is blackjack caighdeánach cothrom é ag gach bord. Tugann Sraith Ádhúil an buntáiste ar ais ar feadh tamaill.
+06b7689	LAETHÚIL
+4035996	SRAITH LAETHÚIL
+fbe7f18	LÁ AS A CHÉILE
+7a46866	INNIU
+4753707	FÉACH AR FHÓGRA
+6bb45f3	CEANNAIGH
+62a945f	REO SRAITHE
+ba5b1de	Coinníonn reo sraithe do shraith beo ar lá nach n-imríonn tú. Is féidir leat suas le {0} a choinneáil.\n\nCeann a cheannach ar {1} slis?
+38c6090	Reo sraithe réidh.
+8fe681f	Níl dóthain sliseanna agat le haghaidh reo.
+1507c40	CEALAIGH
+457d20f	CASADH LAETHÚIL
+9623247	CAS
+ac5ef96	Seansanna:
+1200f20	{0}%
+003a689	Bhuaigh tú {0} slis!
+f757137	MISIN AN LAE INNIU
+7b7f9e2	Is fearr: {0} lá
+9554fea	Imir gach lá chun sraith a thógáil
+5c8dbb8	Sprioc an lae bainte amach! Feicfidh mé amárach thú.
+1aeb9a1	Inniu: {0} / {1} babhta (cluiche ar bith)
+bb92856	Reonna sraithe: {0} / {1}
+0ec6216	Sábháil do shraith ar lá a chailleann tú. +1 gach 7 lá.
+cc0a745	LÁN
+419a962	GAN FHÍSEÁN
+2dabd99	FÓGRA GO LUATH
+f12e166	Bónas sraithe: duaiseanna ×{0}
+80948a4	Casadh saor amháin gach lá
+596b5e0	AN CHÉAD CHEANN EILE  {0}
+7f7e7fc	Gach rud déanta! Bónas bailithe.
+03a0f2a	Misin nua ag meán oíche.
+4784874	Críochnaigh na trí cinn: +{0} slis bhónais
+42c5cda	IMIR
+337211e	CLUICHÍ
+8f5e3bd	Tarraing ar chlé chun siúl  •  Tarraing ar dheis chun féachaint  •  Tapáil chun dul ann
+d00d221	18+ amháin  •  Is le haghaidh spraoi iad na sliseanna: gan luach airgid, ní féidir iad a mhalartú ar airgead ná duaiseanna riamh
+b60f038	Na doirse á n-oscailt...
+2e5bcce	Fáilte! Tá do {0} slis fáilte réidh. Tá na boird díreach romhat!
+7ef7ae3	+{0} slis saor in aisce! Tuilleadh i gceann {1} uair an chloig.
+5d82af9	Athlíontar sliseanna saor gach {0} uair an chloig. An chéad bhaisc eile i gceann {1}.
+5469985	{0}u {1}n
+bb65beb	{0}n {1}s
+ac8ba93	COINNIGH DO SHRAITH
+560bfa1	Ar mhaith leat meabhrúchán sna tráthnónta nár imir tú fós, agus nuair a bhíonn do shliseanna saor réidh? Ní bheidh níos mó ná sin, agus is féidir é a mhúchadh sna Socruithe.
+b724a40	CUIR I GCUIMHNE DOM
+9e0c898	+{0} slis réidh!
+1207e28	Féach ar fhíseán: {0}
+db3655b	Sliseanna saor eile i gceann {0}
+4ca9be5	BLACKJACK
+9a612b1	4 bhord  •  íocann 3 le 2
+1194439	SLIOTÁIN
+6555152	Lucky Ace 7s  •  10 líne
+255b1a1	RÚILÉID
+6df1551	Eorpach le náid amháin
+379b146	TÁ TÚ TRAOCHTA
+340e5c4	Tá do bharra fuinnimh folamh. Faigh rud éigin ón mbeár chun leanúint ag imirt, nó fill níos déanaí: tagann an fuinneamh ar ais go mall agus tú as láthair.
+a517396	TÉIGH CHUIG AN MBEÁR
+7c7227f	ROGHNAIGH DO BHORD
+c963de3	GEALLTA
+c433657	LEIBHÉAL {0}
+083ac39	SUIGH SÍOS
+9698219	{0} DE DHÍTH
+34b737e	Sroich leibhéal {0} chun imirt anseo. Tá tú ar leibhéal {1}.
+6cc19a9	CEASAÍNEO
+6e946b7	LL
+4a3a892	MM
+2857a6a	BBBB
+9d1fece	LÁ
+d3bb0c3	MÍ
+c0f0cad	BLIAIN
+43985ff	CATHAIN A RUGADH THÚ?
+293fda2	Is le haghaidh siamsaíochta amháin iad na sliseanna. Níl luach airgid acu agus ní féidir iad a mhalartú ar airgead ná duaiseanna riamh.
+3e9128d	TÁ BRÓN ORAINN, NÍ FÉIDIR LEAT IMIRT
+b5e8985	Níl {0} ar fáil ach do dhaoine fásta.
+bb1b380	SCOR
+d9f9432	Ag dúnadh i gceann {0}...
+c6e102d	INIS DÚINN FÚT FÉIN
+31120ce	Roghnóimid óstaigh, déileálaithe agus foireann beáir a oireann duit. Is féidir é seo a athrú am ar bith sna Socruithe.
+49e8df9	IS FEAR MÉ
+85abe81	IS BEAN MÉ
+76cc98c	B'FHEARR LIOM GAN RÁ
+964daf7	TÉIGH ISTEACH SA CHEASAÍNEO
+2efb69a	Do chuid foirne anocht:
+c10e749	Leathanach {0} de {1}
+2a3ffd9	TEANGA
+c673535	UATHOIBRÍOCH
+d1245d2	TÍR
+15fc12b	Fáilte! Cuirigí bhur ngeallta síos, le bhur dtoil.
+531fb3f	Níl dóthain sliseanna agat don gheall sin.
+380eb75	Is é {0} teorainn an bhoird in aghaidh an chasta.
+55ad592	CEALAIGH É
+8f191f9	GEALL IOMLÁN  {0}
+82e1181	Tapáil an clár chun sliseanna a chur síos
+bb19a75	Níl a thuilleadh geallta!
+5becf07	GLAS
+bc74f4f	glas
+7898801	dearg
+466bc8c	dubh
+f2edfbf	A leithéid de bhuille! Comhghairdeas!
+b252caf	Bua! Buann tú {0}.
+8587d14	BUA  +{0}
+b862a2b	{0} {1}. Tagann {2} ar ais chugat.
+a306d0a	AISEAGTHA  {0}
+af3134d	Gan bua an uair seo
+84122e7	Cuirigí bhur ngeallta síos, le bhur dtoil.
+52205f4	Fan go dtuirlingeoidh an liathróid.
+c4b9243	SOCRUITHE
+44d863e	GINEARÁLTA
+2bbca79	GRAFAIC
+955c8b4	FUAIM
+c701f5f	TADHALL
+efcc94a	LUCH
+8433628	RIALAITHEOIR
+d868a50	CREATHADH
+f8692c7	18+ • Níl luach airgid ag sliseanna • Clónna: Bebas Neue, Poppins, Noto (SIL OFL) • Teorainneacha: Natural Earth • Sonraí praghsanna: An Banc Domhanda
+da46447	FOIREANN AN CHEASAÍNEO
+594b81e	MNÁ
+69d3313	FIR
+b4325d3	MEASCTHA
+414594a	MEABHRÚCHÁIN
+6cac87b	Sliseanna saor réidh, agus sonc tráthnóna sula dtiocfadh deireadh le sraith.
+e43b2e0	SEICEÁIL ARÍS
+7c9e8f9	RÉIGIÚN PRAGHSÁLA
+495c70e	Is tapúla: an ceasaíneo mar atá péinteáilte, gan aon rud breise.
+b052523	Léiríonn urláir snasta, adhmad agus ór an seomra.
+6bd30d7	Cuma scannáin: dathú grádaithe, gráinne, lonradh, gathanna solais, craiceann beo.
+21b6e1d	Lionsa pictiúrlainne: leanann an fócas do shúil, stríoca ar shoilse, deannach sna gathanna.
+fb7c2e8	CAIGHDEÁN
+d8b9679	ÍSEAL
+f68525a	MEÁNACH
+d77d0b2	ARD
+9289eee	ULTRA
+637e313	TAIFEACH
+2e7b141	Bíonn níos ísle níos boige ach ritheann sé níos fuaire agus sábhálann sé an ceallra.
+93dcfb5	MÓD TAISPEÁNA
+3c6eac3	LÁNSCÁILEÁN
+f3690b1	I bhFUINNEOG
+cfa6200	FRITHAILIASÁIL
+ad50489	AS
+f178804	Déanann sé imill gharbha sa cheasaíneo a shlíocadh.
+4266288	RÁTA FRÁMAÍ
+d031ab0	{0} FPS
+a2b7514	Sábhálann 30 FPS an ceallra agus coinníonn sé seanfhóin fionnuar.
+0babcee	V-SYNC
+6656e25	RÉIMSE RADHAIRC
+244aadb	TAISPEÁIN FPS
+41c8f6e	PRÍOMH-AIRDE FUAIME
+bf3af1f	CEOL
+bd80907	MAISÍOCHTAÍ FUAIME
+d098036	GUTHANNA NA FOIRNE
+93c6484	An monabhar a dhéanann an fhoireann agus iad ag caint.
+16bf71a	BALBHAIGH SA CHÚLRA
+85b2ee7	Cuireann sé an ceasaíneo ina thost agus tú i bhfuinneog eile.
+8e3634e	ÍOGAIREACHT AN AMHARCA
+880dc05	Cé chomh tapa a chasann tarraingt an t-amharc.
+750c60f	Cé chomh tapa a chasann tarraingt leis an luch an t-amharc.
+8b988eb	INBHÉARTAIGH AMHARC CLÉ / DEAS
+cacf0cc	INBHÉARTAIGH AMHARC SUAS / SÍOS
+2d13b68	LEAGAN AMACH NA gCNAIPÍ
+50c3f10	UATH
+b471e5c	MALARTAIGH ROGHCHLÁR / AMHARC
+d9a59f1	ÍOGAIREACHT AN BHATA
+ec14343	Cé chomh tapa a chasann an bata deas an t-amharc.
+a79af23	INBHÉARTAIGH BATA CLÉ / DEAS
+acfc66e	INBHÉARTAIGH BATA SUAS / SÍOS
+56bb461	LEIDEANNA RIALAITHEORA
+51cf49a	Taispeánann sé cad a dhéanann gach cnaipe agus tú ag imirt le rialaitheoir.
+dff7431	CREATH AR
+34139ab	FÓN
+15ee988	AN DÁ CHEANN
+465cc91	Uath: an rialaitheoir nuair atá ceann ceangailte, an fón murach sin.
+f6fed84	CREATHADH AN FHÓIN
+8e97fa7	NEART AN FHÓIN
+486ba2d	CREATHADH AN RIALAITHEORA
+8008889	NEART AN RIALAITHEORA
+ea9233e	UATHOIBRÍOCH ({0})
+167dda7	Osclaíonn {0} na Socruithe, osclaíonn {1} an Laethúil.
+29a4ef9	Níl aon rialaitheoir ceangailte.
+558ecd2	Ceangailte: {0}. Cnaipí {1} á dtaispeáint (deimhníonn A ar dheis).
+d6eee9e	Ceangailte: {0}. Cnaipí {1} á dtaispeáint.
+78525d5	AN BEÁR
+099db9f	ÁDH
+b4a8b06	Is earraí fíorúla le haghaidh siamsaíochta amháin iad sliseanna, ádh agus bia: gan luach airgid, ní féidir iad a fhuascailt ar airgead ná duaiseanna.
+e2a28c9	Tá an seans sin ag gach cárta go ndéileálfar chun do leasa é, ar gheallta blackjack suas le {0} slis (is caighdeánach iad geallta níos mó agus ní úsáideann siad lámha). Tosaíonn sé i ndiaidh ádh an tosaitheora; úsáidtear na pacáistí is láidre ar dtús.
+04fbc6d	Ceadaigh rochtain ar shuíomh chun praghas do thíre a fháil
+2ae87fc	Níl ceannacháin ar fáil sa leagan seo den chluiche.
+8239a84	SIOPA TÁSTÁLA (gan fíor-airgead)
+173d916	fuinneamh
+b2c67eb	+{0}% SLISEANNA
+58e8011	{0} lámh
+ce80712	buann sé thart ar {0}% acu
+c69e8ee	LUCKY ACE 7s
+fc99288	GEALL IOMLÁN
+c1c00cd	TÁBLA ÍOCAÍOCHTA
+3930abd	ÁDH MÓR!
+67b6973	Teastaíonn 10 slis ar a laghad uait chun casadh.
+5aa1edb	FAIGH SLISEANNA
+f5a1812	Ísliú ar an ngeall go dtí an méid is féidir leat a chlúdach.
+5c63f61	MEGA-BHUA!
+652544f	BUA MÓR!
+91bc41c	AISEAGTHA {0}
+3714283	GAN BHUA
+33c0faa	LÍNE {0}: {1} × {2} = {3}
+9f59e6e	{0} RÉALTA = {1}
+d6eee90	Silín
+4459b79	Líomóid
+09fb6aa	Oráiste
+cb92e50	Pluma
+d419866	Clog
+e496fd2	Bar
+63abb56	Seacht
+b3850e0	Diamant
+fc2b5a9	Aon
+85a7de6	Réalta
+c31b035	Íocann RÉALTAÍ áit ar bith: 5 = {0}× geall, 4 = {1}× geall, 3 = {2}× geall.
+f97509c	Is fiáin é an tAON: seasann sé in áit gach siombail seachas an réalta.
+3e8bc69	Is iolraithe den gheall líne (geall iomlán ÷ 10) iad íocaíochtaí líne, ó chlé go deas ón gcéad ríl.
+523f8dc	AISÍOCAÍOCHT: {0}% san fhadtréimhse. Tá gach casadh neamhspleách agus randamach.
+e0c705d	Siúil
+b8db515	Féach
+503d46d	Cnaipí
+c7f73bb	Socruithe
+728298d	Laethúil
+ab166bd	Coigeartaigh
+76cdb95	Bog
+8598222	Roghnaigh
+bbfa773	Dún
+b52b36b	Ar ais
+ab37588	TRAOCHTA
+9b11a09	ÁDH AN TOSAITHEORA {0}%
+0c94e98	{0} LÁMH FÁGTHA
+51ed273	SRAITH ÁDHÚIL {0}%
+3401470	{0} LÁMH  •  GEALLTA SUAS LE {1}
+f481cc6	LEIBHÉAL
+0139615	FÁILTE
+daad514	LABHAIR LEIS AN ÓSTACH
+bcefb10	Treoracha agus leideanna
+c28e782	SLISEANNA  •  BÓNAIS
+0c69ec4	CEANNAIGH SLISEANNA
+78c0727	Airgeadóir
+1737fab	MANGAILÍNÍ  •  SNEAIC  •  FUINNEAMH
+9e008ae	BIA AGUS DEOCH
+f7881e8	An Beár
+0e979ed	ÍOCANN BLACKJACK 3 LE 2
+eea0d12	CAITHFIDH AN DÉILEÁLAÍ SEASAMH AR 17
+4db37bf	IMIR BLACKJACK
+0ffdd99	Bord {0}  •  geallta {1} go {2}
+b4f938b	IMIR NA SLIOTÁIN
+6b7caea	CUIRIGÍ BHUR nGEALLTA SÍOS
+26b1e39	IMIR RÚILÉID
+910a1ed	Roth Eorpach  •  íocann uimhir dhíreach 35 le 1
+7ef0215	ORDAIGH DEOCH
+fe38d73	Tabharfaidh {0} chugat é
+f7b6306	Osclaíonn an {0} ag leibhéal {1}. Tá tú ar leibhéal {2}: áirítear gach babhta a imríonn tú.
+d85f1ad	Teastaíonn {0} slis ar a laghad don bhord seo.
+cbfe016	Tá na boird blackjack díreach romhat. Siúil suas chuig ceann acu agus suigh síos!
+64d9faf	Tá an t-airgeadóir anseo ar do dheis, agus tá an beár feadh an bhalla chlé.
+e4c6e0b	Tuirseach? Líonann sneaic ag an mbeár do chuid fuinnimh láithreach.
+d5ab68f	Tapáil áit ar bith ar an urlár agus siúlfaidh tú ann. Tapáil bord chun suí síos.
+cc21f74	BEAG
+dc01dec	MÓR
+5fb90b0	TRÍREACH AR BITH
+9c716f1	Bord hold'em
+3b6ab84	Imir 8 lámh hold'em
+6c617ca	Buaigh 4 lámh hold'em
+44ce500	Imir 10 lámh baccarat
+b90cff7	Buaigh 5 lámh baccarat
+3e4dfa9	Imir 15 lámh físphócair
+854fe20	Imir 8 mbabhta sic bo
+dfddac1	Buaigh 4 bhabhta sic bo
+2973ea7	Caith na díslí 15 uair ag craps
+737be17	Buaigh 4 chaitheamh ag craps
+4dbb81d	Déan flush nó níos fearr ag físphócar
+19aa07b	Royal flush
+cf83e72	Straight flush
+d27ba03	Ceithre cinn chomhionanna
+dbe8641	Lánteach
+7c936d7	Flush
+2501c65	Sraith
+ca1a0d4	Trí cinn chomhionanna
+6876b40	Dhá phéire
+2537f88	Péire
+b4b323e	Cárta ard
+f70bfdc	Cnáfaí nó níos fearr
+98fd5af	BACCARAT
+df66d5a	Fáilte go baccarat! Imreoir, Baincéir nó Comhscór?
+5055efd	IMREOIR
+3f90696	COMHSCÓR
+0d75f63	BAINCÉIR
+0ebd5a4	TORTHAÍ DEIREANACHA
+511993d	I
+ae4f281	B
+c2c53d6	C
+781246e	Roghnaigh comhartha agus tapáil Imreoir, Baincéir nó Comhscór
+11023a0	COMHSCÓR  {0}
+503d5f1	BUANN AN T-IMREOIR  {0} IN AGHAIDH {1}
+0eb4be5	BUANN AN BAINCÉIR  {0} IN AGHAIDH {1}
+7859af1	CRAPS
+4083dbd	Fáilte go craps! Cuir geall ar an Pass Line agus caith.
+d266326	SÉ
+c506f3a	NAOI
+987f4e9	FIELD
+71c1b2b	2 3 4 9 10 11 12  •  íocann 2 agus 12 faoi dhó
+d0ac294	7 AR BITH
+9b2f0c3	CRAPS AR BITH
+f62ac59	DON'T PASS BAR
+6080ade	1:1  •  is comhscór é 12
+c07247a	PASS LINE
+6229f78	ODDS
+29bf819	fíor-odds
+387d7a5	AIR
+229c9cc	Téann odds taobh thiar den Pass Line nuair atá pointe ann.
+c2c8e82	Teastaíonn geall ar an Pass Line le haghaidh odds.
+1784d43	Tá do odds ag an uasmhéid.
+fdc3442	Cuirtear geallta líne ar an gcéad chaitheamh.
+97ce95b	AR AN MBORD  {0}
+a895ec0	Is é {0} an pointe: caith arís é roimh 7. Íocann odds taobh thiar de do Pass Line fíor-odds.
+d9f9d65	CAITH
+bcf32ef	Is é {0} an pointe.
+5b450b4	{0}! Pointe déanta. Bua!
+9746e08	Seacht amach. Caiteoir nua, céad chaitheamh nua.
+4fc4664	{0}, nádúrtha! Buann an Pass Line.
+203f466	{0}, craps. Cailleann an líne.
+0f8e260	Fan go stopfaidh na díslí.
+6a98cfe	AN BORD A FHÁGÁIL?
+8430088	Tá do gheall líne fós ag imirt ar an bpointe {0}. Má imíonn tú anois, caillfidh tú é.
+0e138d1	HOLD'EM
+5e023be	Fáilte go hold'em! Cuir an ante síos agus féachaimis ar na cártaí.
+0cd62f5	ANTE
+5e9f331	BLIND
+3b935ab	ÍOCANN AN BLIND
+20713a4	Cáilíonn an déileálaí le péire nó níos fearr
+d37267c	SEICEÁIL
+9a4e316	FILL
+88313c4	GEALL {0}×
+42c6fea	Ante {0} + blind {0}. Coinnigh {1} eile don ardú.
+1abb2f2	Tapáil comharthaí chun an ante a shocrú. Tá an blind mar an gcéanna.
+f541cec	Seiceáil, nó geall trí nó ceithre huaire an ante?
+fc74a79	Ardaigh anois 4× nó 3× an ante, nó seiceáil agus féach ar an flop.
+b687501	An seans deireanach: geall 1× an ante, nó fill agus caill an ante agus an blind.
+400009c	Geall 2× an ante anois, nó seiceáil agus féach ar an dá chárta dheireanacha.
+f4abdf9	Seo an flop.
+0e51f2c	An turn agus an river.
+cc856d3	Feicimis cad atá agam.
+6ba1f3e	Ní cháilíonn an déileálaí: tagann do ante ar ais.
+cf1fdc5	D'fhill tú. Is leatsa an chéad lámh eile.
+177fab0	Ultimate Texas Hold'em
+c4917b9	Imreoir, Baincéir nó Comhscór
+6e4fe7b	FÍSPHÓCAR
+73cabd3	Jacks or Better
+91c4555	SIC BO
+d810061	Trí dhísle  •  mór nó beag
+85ab7ec	Pass Line  •  Field  •  Odds
+35d8db6	Fáilte go sic bo! Mór, beag nó rud éigin níos dána?
+3d05514	Is é {0} teorainn an bhoird in aghaidh an chaitheamh.
+86ade94	CROITH
+b69304e	TRÍ {0}!
+5d1bcc6	COINNITHE
+36a21ba	Déileáil, coinnigh na cártaí atá uait, malartaigh uair amháin.
+99fa8e8	COINNIGH
+249d1c0	LEID
+7aab1bd	MALARTAIGH
+5595eb4	Tapáil na cártaí chun iad a choinneáil, ansin malartaigh.
+1c05db9	IMIR HOLD'EM
+e353e5f	Ultimate Texas Hold'em  •  ante {0} go {1}
+6470369	IMIR BACCARAT
+bbe0077	MÓR  •  BEAG  •  TRÍREACHA
+3ba448f	IMIR SIC BO
+097c59c	Trí dhísle  •  íocann mór nó beag 1 le 1
+af2ca30	PASS LINE  •  FIELD  •  ODDS
+f18398e	IMIR CRAPS
+eeede6d	Íocann an Pass Line 1 le 1  •  íocann odds fíor-odds
+34e5170	IMIR FÍSPHÓCAR
+f71bdfb	Jacks or Better  •  tábla iomlán 9/6
+4a6c087	JACKS OR BETTER  •  ÍOCANN ROYAL FLUSH 800×
+370a133	Tá na meaisíní sliotáin feadh an bhalla ar dheis, an físphócar feadh an bhalla cúil, agus an roulette ag an gcúl.
+8298d28	Tá hold'em sa chúinne cúil ar chlé, tar éis an bheáir.
+a2a111f	Tá baccarat díreach ar chlé agus tú ag teacht isteach.
+b7193bc	Tá sic bo sa chúinne tar éis an airgeadóra: trí dhísle, mór nó beag.
+25320c8	Tá bord craps ar dheis, os comhair na sliotán. Cuir geall ar an Pass Line agus caith!
+dc81691	Sofia
+4d9936f	Elena
+3aa0674	Mia
+b724114	Valentina
+34d3f7f	Clóe
+0fc9dd6	Ísabella
+bbd3e35	Nadia
+eac677d	Aria
+baaf10f	Luna
+8641381	Camila
+eeee9b7	Aurora
+8a59f05	Bianca
+5a0fc29	Serena
+bf38aa5	Marco
+cfaf50a	Leo
+5815f22	Adrián
+cbede02	Lúcás
+f0b9995	Viktor
+7b37259	Daniel
+aaac72d	Gabriel
+2f8f37e	Ethan
+a01126e	Julian
+3e05c90	Rafael
+e1ae457	Mateo
+3398634	Nico
+7aa2d07	Enzo
+1920e2f	Céad chaitheamh: cuir geall ar an Pass Line agus caith. Buann 7 nó 11, cailleann 2, 3 nó 12. Tagann geallta place i bhfeidhm nuair atá pointe ann.
+99f4934	LUCKY ACE 7s  •  ÍOCANN SUAS LE 2,500× DO GHEALL LÍNE

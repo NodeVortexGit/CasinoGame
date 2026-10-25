@@ -21,13 +21,24 @@ namespace Casino.World
         const string Idle = "Idle_Loop", Walk = "Walk_Formal_Loop",
             Interact = "Interact", Beckon = "Idle_Rail_Call", Nod = "Yes";
 
+        /// <summary>
+        /// The staff's render layer: the world camera draws it, the snapshot of the room for reflections doesn't (people
+        /// move, so a frozen copy of them would haunt the floor).
+        /// </summary>
+        public const int Layer = 8;
+
         public StaffRole Role { get; private set; }
         public bool Female { get; private set; }
-        public string StaffName { get; private set; }
+        /// <summary>The name, in the player's language.</summary>
+        public string StaffName => Loc.T(EnglishName);
+        public string EnglishName { get; private set; }
         public StaffPose Pose { get; private set; }
 
         /// <summary>World position just above the head, for speech bubbles.</summary>
         public Vector3 HeadPoint => (head != null ? head.position : transform.position + Vector3.up * 1.6f) + Vector3.up * 0.28f;
+
+        /// <summary>World position of the face (about eye height), for the camera's focus.</summary>
+        public Vector3 Face => head != null ? head.position + Vector3.up * 0.07f : transform.position + Vector3.up * 1.55f;
 
         static RuntimeAnimatorController controller;
 
@@ -36,8 +47,9 @@ namespace Casino.World
         Quaternion jawRest;
         Arm leftArm, rightArm;
         Joint[] fingers = new Joint[0];
-        Material[] hairMaterials = new Material[0];
+        Material[] hairMaterials = new Material[0], materials = new Material[0];
         Transform tray;
+        Renderer contactShadow;
         readonly SpringChain hair = new SpringChain(3) { Stiffness = 38f, Damping = 3f, MaxOffset = 0.07f };
         float baseYaw, bodyYaw, phase, talkUntil, waveUntil, nodUntil, nextGesture, gestureUntil;
         const float TalkGestureTime = 1.5f;
@@ -151,12 +163,13 @@ namespace Casino.World
             var fig = go.AddComponent<StaffFigure>();
             fig.Role = role;
             fig.Female = female;
-            fig.StaffName = staffName;
+            fig.EnglishName = staffName;
             fig.Pose = pose;
             fig.phase = Mathf.Abs(staffName.GetHashCode() % 1000) * 0.01f;
             fig.nextGesture = Time.time + 3f + fig.phase;
             fig.baseYaw = fig.bodyYaw = yaw;
             fig.Setup(look, tint);
+            foreach (var t in go.GetComponentsInChildren<Transform>(true)) t.gameObject.layer = Layer;
             return fig;
         }
 
@@ -220,6 +233,7 @@ namespace Casino.World
         {
             var shader = Resources.Load<Shader>("Shaders/CasinoPerson");
             var hairList = new System.Collections.Generic.List<Material>();
+            var all = new System.Collections.Generic.List<Material>();
             Color rim = Female ? new Color(1f, 0.42f, 0.78f) : new Color(0.45f, 0.75f, 1f);
             foreach (var r in GetComponentsInChildren<SkinnedMeshRenderer>())
             {
@@ -242,7 +256,8 @@ namespace Casino.World
                     bool fringe = n.Contains("eyebrow") || n.Contains("eyelash");
                     if (hairLike || fringe)
                     {
-                        m.SetFloat("_Cutoff", 0.45f);
+                        // Brows and lashes are fine hairs: a lower cut-off keeps them solid instead of dashed.
+                        m.SetFloat("_Cutoff", fringe ? 0.3f : 0.45f);
                         m.SetFloat("_Cull", 0f);
                         m.renderQueue = 2450;
                         if (hairLike)
@@ -267,20 +282,70 @@ namespace Casino.World
                         m.SetColor("_Color", Female ? ShoeColor(Role) : new Color(0.25f, 0.22f, 0.24f));
                         m.SetFloat("_Gloss", 0.6f);
                     }
-                    else if (n.Contains("eye"))
+                    else if (n.Contains("eye") || n.Contains("high-poly") || n.Contains("low-poly"))
                     {
+                        // The detailed eyes have a cornea shell that is transparent in the texture: cut it out, or it
+                        // covers the eye in black.
                         m.SetFloat("_Gloss", 0.9f);
+                        m.SetFloat("_Cutoff", 0.5f);
+                    }
+                    else if (n.Contains("teeth"))
+                    {
+                        m.SetFloat("_Gloss", 0.4f);
                     }
                     else
                     {
                         m.SetFloat("_Gloss", 0.12f); // skin
+                        m.SetFloat("_Skin", 1f);
                     }
                     m.name = src[i] != null ? src[i].name : "mat";
                     mats[i] = m;
+                    all.Add(m);
                 }
                 r.sharedMaterials = mats;
             }
             hairMaterials = hairList.ToArray();
+            materials = all.ToArray();
+        }
+
+        /// <summary>
+        /// The room's lamp nearest in effect (direction towards it, colour times strength), which the high graphics
+        /// settings light them with; walkers get it updated as they go.
+        /// </summary>
+        public void SetRoomLight(Vector3 direction, Color color)
+        {
+            // Softened and capped, so a bright lamp shapes the face without bleaching it.
+            float peak = Mathf.Max(color.r, Mathf.Max(color.g, color.b));
+            if (peak > 0.55f) color *= 0.55f / peak;
+            var dir = new Vector4(direction.x, direction.y, direction.z, 0f);
+            foreach (var m in materials)
+            {
+                m.SetVector("_RoomLightDir", dir);
+                m.SetColor("_RoomLightColor", color);
+            }
+        }
+
+        /// <summary>A soft shadow on the floor under them, for anyone walking around (standing staff have theirs baked).</summary>
+        public void ShowContactShadow(bool on, Texture falloff)
+        {
+            if (contactShadow == null)
+            {
+                if (!on) return;
+                var go = GameObject.CreatePrimitive(PrimitiveType.Quad);
+                Destroy(go.GetComponent<Collider>());
+                go.name = "Contact shadow";
+                go.layer = Layer;
+                go.transform.SetParent(transform, false);
+                go.transform.localPosition = Vector3.up * 0.012f;
+                go.transform.localRotation = Quaternion.Euler(90f, 0f, 0f);
+                go.transform.localScale = new Vector3(0.95f, 0.8f, 1f);
+                contactShadow = go.GetComponent<Renderer>();
+                contactShadow.sharedMaterial = new Material(Resources.Load<Shader>("Shaders/CasinoShadow")) { mainTexture = falloff };
+                contactShadow.sharedMaterial.SetFloat("_Strength", 0.55f);
+                contactShadow.shadowCastingMode = UnityEngine.Rendering.ShadowCastingMode.Off;
+                contactShadow.receiveShadows = false;
+            }
+            contactShadow.enabled = on;
         }
 
         static Color SuitColor(StaffRole role)
@@ -332,8 +397,10 @@ namespace Casino.World
         void BuildTray()
         {
             var kit = new MeshKit { Emission = 1f };
-            Color glass = new Color(0.85f, 0.95f, 1f);
-            kit.Cylinder(Vector3.zero, 0.17f, 0.012f, 18, new Color(0.82f, 0.84f, 0.9f));
+            Color glass = new Color(0.85f, 0.95f, 1f), silver = new Color(0.82f, 0.84f, 0.9f);
+            kit.Finish(silver, 0.75f, true);
+            kit.Finish(glass, 0.85f);
+            kit.Cylinder(Vector3.zero, 0.17f, 0.012f, 18, silver);
             var m = new Vector3(-0.06f, 0.012f, 0.02f);
             kit.Cylinder(m, 0.03f, 0.004f, 10, glass);
             kit.Cylinder(m, 0.004f, 0.07f, 6, glass, false);

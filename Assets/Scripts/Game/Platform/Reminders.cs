@@ -27,8 +27,8 @@ namespace Casino.Platform
         {
             if (initialized) return true;
             if (!AndroidNotificationCenter.Initialize()) return false;
-            AndroidNotificationCenter.RegisterNotificationChannel(new AndroidNotificationChannel(Channel, "Reminders",
-                "Free chips ready and streak reminders", Importance.Default));
+            AndroidNotificationCenter.RegisterNotificationChannel(new AndroidNotificationChannel(Channel, Loc.Plain("Reminders"),
+                Loc.Plain("Free chips ready and streak reminders"), Importance.Default));
             initialized = true;
             return true;
         }
@@ -71,7 +71,8 @@ namespace Casino.Platform
 
             var bonusAt = new DateTime(save.bonusReadyUtcTicks, DateTimeKind.Utc).ToLocalTime();
             if (bonusAt > now.AddMinutes(1))
-                Send(BonusId, "Your free chips are ready", $"{ChipFormat.Full(p.BonusAmount)} chips are waiting for you at Lucky Ace.", bonusAt);
+                Send(BonusId, Loc.Plain("Your free chips are ready"),
+                    Loc.PlainF("{0} chips are waiting for you at Lucky Ace.", ChipFormat.Full(p.BonusAmount)), bonusAt);
 
             int streak = p.Streak.Count;
             if (streak > 0)
@@ -80,7 +81,8 @@ namespace Casino.Platform
                 var day = p.Streak.DoneToday(p.Day) ? now.Date.AddDays(1) : now.Date;
                 var at = day.AddHours(EveningHour);
                 if (at > now.AddMinutes(5))
-                    Send(StreakId, $"Keep your {streak}-day streak", $"Play {p.Streak.DailyGoal} rounds today so it doesn't reset at midnight.", at);
+                    Send(StreakId, Loc.PlainF("Keep your {0}-day streak", streak),
+                        Loc.PlainF("Play {0} rounds today so it doesn't reset at midnight.", p.Streak.DailyGoal), at);
             }
 #endif
         }

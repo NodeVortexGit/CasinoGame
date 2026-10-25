@@ -51,18 +51,19 @@ namespace Casino.Core.Region
         /// <summary>Sources that a VPN cannot influence.</summary>
         public static bool IsPhysical(RegionSource source) => source == RegionSource.Gps || source == RegionSource.CellNetwork;
 
+        /// <summary>Where the country came from, in the player's language.</summary>
         public static string Describe(RegionSource source)
         {
             switch (source)
             {
-                case RegionSource.Gps: return "GPS location";
-                case RegionSource.CellNetwork: return "mobile network";
+                case RegionSource.Gps: return Tr.T("GPS location");
+                case RegionSource.CellNetwork: return Tr.T("mobile network");
                 case RegionSource.Steam: return "Steam";
-                case RegionSource.IpLookup: return "internet connection";
-                case RegionSource.DeviceLocale: return "device settings";
-                case RegionSource.DevOverride: return "developer override";
-                case RegionSource.Default: return "not verified (standard price)";
-                default: return "unknown";
+                case RegionSource.IpLookup: return Tr.T("internet connection");
+                case RegionSource.DeviceLocale: return Tr.T("device settings");
+                case RegionSource.DevOverride: return Tr.T("test country");
+                case RegionSource.Default: return Tr.T("not verified (standard price)");
+                default: return Tr.T("unknown");
             }
         }
     }

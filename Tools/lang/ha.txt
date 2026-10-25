@@ -1,0 +1,659 @@
+# Hausa (ha). Machine translation by Claude.
+bd99124	Ɗan Dintsi na Cip
+c7c6dc8	Tari na Cip
+7512cfd	Tire na Cip
+fa36588	Kantoci na Cip
+7994f65	MAFI SHAHARA
+49dcc21	Taskar Cip
+0725283	Akwatin Ƙarfe na Babban Ɗan Caca
+7658705	MAFI ARHA
+2f23432	Ruwan Gas
+418b820	Espresso
+97b463c	Abin Sha na Kuzari
+43bbfda	Sanwicin Kulob
+bce7a75	Abincin Baga
+2832a8d	Abincin Dare na Nama
+dee8ee8	CIKAWA GABA ƊAYA
+a7c2255	Jerin Sa'a
+7919163	Jerin Zafi
+74fdfc2	MAFI YAWAN SA'A
+d79cd12	Teburin Tagulla
+2a8ff35	Teburin Azurfa
+51877b2	Teburin Zinariya
+9282152	Teburin Lu'u-lu'u
+0de8764	Da fatan za a shigar da shekara mai inganci.
+d4e14c9	Da fatan za a shigar da wata mai inganci (1-12).
+addd156	Da fatan za a shigar da rana mai inganci.
+d78a4f4	Wannan kwanan wata yana nan gaba.
+787c7c6	Barka da zuwa teburina! A shirye kake ka yi wasa?
+8b0f93e	Na yi farin cikin ganinka. Zauna!
+8338021	Sannu! Katunan sababbi ne, ni ma haka.
+75750f9	Barka da zuwa! Mu sa daren nan ya yi kyau.
+95aac36	Sanya cacarka a duk lokacin da ka shirya.
+8bc63c1	Cip a kan tebur, mu ga katunan.
+984b7f3	Me muke wasa domin shi?
+b74c769	Kai, babbar caca! Ina son salonka.
+77fc1fc	Wannan ita ce caca. Mu tafi!
+7779a5b	Kana da ƙarfin hali yau da dare, ko?
+479ff82	Duka?! Zuciyata tana bugawa!
+7fb527c	Komai a hannu ɗaya. Ba tsoro!
+7bf0c5d	Blackjack! Abin mamaki!
+123f2d5	Ashirin da ɗaya, haka kawai!
+cd850a7	Blackjack! Katunan suna sonka yau da dare.
+55f50ee	Ka yi wasa da kyau!
+79594b1	Ka ci! Madalla.
+0df710e	Kana kan nasara!
+20a0c1e	Wannan naka ne.
+a45fe61	Wace irin nasara! Kowa yana kallon wannan teburin!
+54d3982	Babba! Kana da zafi yau da dare!
+8da8f1e	Kusa sosai! Na gaba naka ne.
+5d921e1	Gidan caca ya yi sa'a wannan karon.
+f923af7	Ka bar shi, sabon hannu yana zuwa.
+853e7ca	Wayyo, kati ɗaya ya yi yawa.
+daec44f	Ka wuce! Yana faruwa ga mafi ƙwararru.
+11ceaef	Kunnen doki. Babu wanda ya yi rashi!
+911a289	Kunnen doki. Cip ɗinka yana nan lafiya.
+a89d9d9	Na wuce! Ka yi sa'a.
+f76c8fd	Ya yi mini yawa. Ka ci!
+63f8d0b	Blackjack ga gidan caca, yi haƙuri!
+465c8bf	Mai rabawa yana da blackjack. Rashin sa'a.
+6752f40	Ina nuna Ace. Inshora?
+1920c5a	Muna raba! Damarmaki biyu na cin nasara.
+9f621da	Ninka biyu. Mataki mai ƙarfin hali!
+59da99d	Ninka shi! Kati ɗaya yana zuwa.
+0b48017	Sabon takalmi, ina gauraya!
+3fa7769	Yana ƙarewa? Mai karɓar kuɗi zai ƙara maka.
+4e5694b	Cip yana raguwa. Kana son ƙari?
+d41f057	Cip ya ƙare! Ziyarci mai karɓar kuɗi ko ka ɗauki cip kyauta.
+15d90d3	Tarinka babu komai. Mai karɓar kuɗi yana bayanka.
+a9eaae1	Ka gaji sosai! Ka ci abu a mashaya.
+5cd9e8b	Ƙarfi ya ƙare? Mashaya za ta kula da kai.
+37b9672	Kar ka yi gaggawa.
+c64df8c	Duk lokacin da ka shirya!
+b8dfc0a	Dare har yanzu yana farko.
+8748560	Sa'ar mai farawa tana tare da kai!
+e3def50	Katunan suna gefenka yau da dare!
+506ade9	Sa'ar mai farawa ta ƙare. Daga yanzu wasan adalci ne!
+953d8b7	Barka da zuwa gidan caca! Kujerarka tana jira.
+9fd9844	Barka da yamma! Teburan suna da zafi yau da dare.
+2d42aaf	Barka da dawowa! Kana jin sa'a?
+311bae7	Taɓa tebur don fara wasa!
+3318099	Kana buƙatar ƙarin cip? Ka zo tagar da ta dace.
+c5b3787	Manyan tari, manyan kyaututtuka!
+21ae665	Kana jin yunwa? Zaɓi komai daga menu.
+8b83cc0	Ɗan abinci yana riƙe kuzarinka!
+35f4b0e	Barka da zuwa teburina!
+8f90245	Ga ka nan! Wurin ya ƙara haske tuni.
+909e4d6	Ka ɗauki wurin kamar gida. Yau da dare duka naka ne.
+2477f78	Ina son wannan murmushin. Daren sa'a?
+6ac2120	Ka huta, kana hannun da ya dace a nan.
+089f04b	Kai! Ina fatan za ka zo tagata.
+3f2c3c9	Kullum yana da daɗi ganin fuska mai fara'a.
+3021db8	Duba wanda ya zo! Kana jin daɗi?
+769980b	Sannu, kyakkyawa!
+5361ffd	Ina son salonka yau da dare.
+56b40be	Kai, na yi farin cikin sake ganinka!
+3316019	Kana jin daɗin daren? Ka cancanta.
+28283fd	A kula, zan iya fara goyon bayanka.
+109ac94	Ɗan wasana da na fi so ya dawo!
+acba0e6	Zauna tare da ni, zan raba maka abu mai kyau.
+eb5ff2a	Kana sa wannan teburin ya fi daɗi sosai.
+772a73c	Kana tafiya tuni? Dare har yanzu yana farko!
+178301a	Kai dai, hannu ɗaya kawai. Ina jin wannan zai yi kyau!
+816036a	Ba za ka bar ni yanzu ba, yanzu muka fara!
+5c9b7e2	Dama ta ƙarshe! Hannu na gaba zai iya zama babba...
+20ce7b6	To, to. Zan riƙe maka kujerarka da ɗumi. Ka yi alƙawarin dawowa?
+51d1aeb	Babu jerin kwanaki tukuna? Yi wasan zagaye {2} yau zan fara ƙirgawa.
+10b25d9	Sabon farawa! Zagaye {2} kuma wutarka za ta kunna.
+0c10711	Ina da ƙaramin jerin waɗanda ke zuwa kowace rana. Ba ka cikinsa... tukuna.
+5e7c431	Rana ta {1} tana jiranka. Saura zagaye {2} kawai!
+b268d84	Kwanaki {0} a jere... ba za ka tsaya yanzu ba, ko?
+b32ae79	Wutarka ta ɗan yi sanyi yau. Zagaye {2} za su ɗumama ta.
+a6f3fbd	Ina ƙirgawa: kwanaki {0}. Mu mai da su {1}.
+1dc5c97	Kada ka ɗauka ban lura ba. Saura zagaye {2} don riƙe jerinka!
+807b82c	Kwanaki {0} a jere? Na fara tunanin kana son wurin nan.
+6391923	Jerinka yana lafiya yau. Yanzu kana nuna kanka ne kawai.
+3bfbbf7	Rana ta {0}, an gama. Gobe a lokaci ɗaya?
+ca2a2c1	Kwanaki {0}! Ya kamata in ajiye maka kujera.
+54f991f	Ga shi: rana ta farko na jerinka! Dawo gobe mu mai da shi biyu.
+a1e7ab0	Mako guda cikakke a jere! Na burge sosai.
+96cee95	Kwanaki talatin! Kamar kana aiki a nan yanzu.
+a9834cd	Kwanaki ɗari. Ina gaya wa kowa game da kai.
+071317f	Kwanaki {0} a jere ke nan! Ka duba kanka.
+0964027	An ceci jerin: rana ta {0}! Na san za ka iya.
+c7f2a1f	Rana ta {0}! Na ci amana ba za ka kai {1} ba.
+a6ce2e2	Kwanaki {0}... to, mai alfahari.
+3ab91d0	Yi hannaye 10 na blackjack
+38e863d	Ci hannaye 5 na blackjack
+6ac41cc	Samu blackjack
+74cf149	Ci cip 500 a blackjack
+66440e1	Juya injin sloti sau 20
+9205056	Ci juyi 5 na sloti
+cd60e0c	Ci ninki 5 na cacarka a sloti
+6f7ac28	Yi zagaye 5 na rulet
+6978cc0	Ci juyi 3 na rulet
+c8ebbcc	Buga lamba kai tsaye
+8a57c54	wurin GPS
+4919635	hanyar sadarwar wayar hannu
+527b094	haɗin intanet
+f49ae82	saitunan na'ura
+60827d3	ƙasar gwaji
+0b2f8d8	ba a tabbatar ba (farashi na yau da kullum)
+50d8b4a	ba a sani ba
+4fb7a4e	12 na 1
+647a0eb	12 na 2
+a934745	12 na 3
+3de80ab	2 zuwa 1
+bb4e68e	JA
+a9414ab	BAƘI
+710756a	MARA CIKA
+70ca748	CIKA
+4d60d6c	FARASHI NA ADALCI GA ƘASARKA
+1674d95	Ana daidaita farashin shago da tattalin arzikin ƙasarka, don 'yan wasa a ko'ina su biya farashi na adalci.
+4ec27ee	Don gano ƙasarka muna duba wurinka na kusan sau ɗaya. Ana daidaita shi da ƙasa a kan na'urarka kuma ba a aika shi ko'ina. Idan ka ƙi, farashi na yau da kullum zai yi aiki.
+ff3dbb4	CI GABA
+43a6a8d	Za ka bar gidan caca?
+ad209a0	An adana cip da cigabanka.
+5860c84	FITA
+f1e0808	ZAUNA
+5b38c49	An buɗe {0}
+15ae7ac	Daskarewar jeri ta ceci jerinka na kwanaki {0} jiya.
+d375ffb	Daskarewar jeri {0} sun ceci jerinka na kwanaki {1}.
+fd8ab39	Jerinka na kwanaki {0} ya ƙare. Yi zagaye {1} yau don fara sabo!
+7fa2db4	AN KAMMALA AIKI
+255325c	+cip {0}
+d205ece	AN GAMA DUKAN AYYUKA!
+4acbed2	Kyautar yau da kullum +cip {0}. Sababbin ayyuka gobe.
+ab2ceb3	MATAKI {0}!
+86e2afb	Babban mataki! +cip {0}
+9ae18ad	Dawo gobe don ci gaba
+7af7e7c	+1 daskarewar jeri
+b5b9597	JERIN KWANAKI {0}!
+62ec60d	Ba a samun saye a wannan sigar.
+1f9786c	Saye bai yi nasara ba. Ba a caje ka ba.
+3e4c600	An ƙara +cip {0}!
+1998202	{0}: hannaye {1} da sa'a {2}%, bayan Sa'ar Mai Farawa
+728ada5	{0}: hannaye {1} da sa'a {2}%!
+af5e232	{0}: +{1}% kuzari
+001a53b	Babu a wannan na'urar
+2607004	Bidiyo ba za su iya lodawa a wannan hanyar sadarwa ba
+569c30d	Dawo gobe
+ecae6ee	A shirye cikin daƙiƙa {0}
+9964820	+cip {0} (saura {1} yau)
+e1bd888	+cip {0} kyauta!
+619bd5d	+1 daskarewar jeri!
+f70d794	Babu bidiyo a yanzu. Sake gwadawa nan da ɗan lokaci.
+264d71b	TAGULLA
+462e839	AZURFA
+81ff70a	ZINARIYA
+50e122e	LU'U-LU'U
+57f5f5e	Menu
+69bd4ef	Kallo
+dbfe736	Giciye
+1cc7820	Da'ira
+82810cb	Murabba'i
+73d3ae2	Alwatika
+a42f608	Ana duba yankinka...
+1db422c	Ba a tabbatar ba ({0}): farashi na yau da kullum
+9bc0807	{0} ({1}): farashi a {2}
+ae8c393	Tunatarwa
+aefd59b	Cip kyauta a shirye da tunatarwar jeri
+3125838	Cip ɗinka na kyauta a shirye yake
+233027b	Cip {0} suna jiranka a Lucky Ace.
+b93976b	Riƙe jerinka na kwanaki {0}
+bd68038	Yi zagaye {0} yau don kada ya sake farawa da tsakar dare.
+0acfb6f	Barka da zuwa! Sa'ar mai farawa tana tare da kai yau da dare. Sanya caca!
+d589374	BLACKJACK YANA BIYA 3 ZUWA 2   •   MAI RABAWA YANA TSAYAWA A DUKAN 17   •   INSHORA TANA BIYA 2 ZUWA 1
+b700b02	CACA
+16ec74f	SHAFE
+928226b	MAIMAITA
+55591e0	RABA
+395ed46	ƘARA KATI
+43e7971	TSAYA
+097274c	NINKA
+6df63ca	RARRABA
+3e40f46	INSHORA
+db82d3a	A'A, NA GODE
+28d6be8	CACA {0}+
+9587b70	An kai iyakar tebur
+b9ac47d	Cip bai isa ba
+d237ade	Mai rabawa yana nuna Ace. Inshora akan {0}?
+bf07c14	Inshora tana biya {0}
+b6e674a	Mai rabawa ba shi da blackjack. Inshora ta ɓace.
+0cc9679	KA WUCE
+82ce89d	MAI RABAWA YA WUCE
+6e1e1a4	BLACKJACK!
+662fae5	NASARA
+8918d00	KUNNEN DOKI
+8df6be4	RASHI
+9e69668	Sa'ar mai farawa ta ƙare. Jerin Sa'arka yana farawa yanzu.
+822f4f4	Sa'ar mai farawa ta ƙare. Daga yanzu blackjack na yau da kullum ne.
+b0377c7	Jerin Sa'arka ya ƙare. Komawa ga blackjack na yau da kullum.
+824ad7c	CIP YA ƘARE
+ff1822d	Kalli gajeren bidiyo don cip {0} kyauta, ko ziyarci mai karɓar kuɗi.
+e4cac2f	Ziyarci mai karɓar kuɗi don cika cip ɗinka.
+c3df3e7	CIP KYAUTA
+b169d33	MAI KARƁAR KUƊI
+4d38f66	DAGA BAYA
+cb8171b	Ka gama wannan hannun tukuna.
+3aa6941	“{0}”
+6f846f4	ƘARIN HANNU ƊAYA
+a79d4f2	TAFI
+693f697	SA'AR MAI FARAWA
+641ad58	JERIN SA'A
+fc45931	Kyautar maraba ga sababbin 'yan wasa: a hannayenka <b>{0}</b> na farko, an shirya takalmin mai rabawa don amfaninka, don haka za ka ci kusan kowane hannu.
+576c683	A cikin hannaye <b>{0}</b> na gaba fa'idar tana raguwa, sannan kowane tebur blackjack ne na yau da kullum kuma na adalci daga takalmin da aka gauraya na fakiti 6 (blackjack yana biya 3 zuwa 2, mai rabawa yana tsayawa a dukan 17).
+7fb55b3	Fa'ida yanzu: <b><color=#7CFC9A>{0}%</color></b>   Hannaye da suka rage: <b>{1}</b>
+d4f8fe0	Ga <b>hannaye {0} na blackjack</b> na gaba da caca har zuwa <b>cip {1}</b>, kowane kati yana da damar <b>{2}%</b> na zuwa don amfaninka (fa'ida ɗaya da Sa'ar Mai Farawa).
+0a5fc06	Da wasa mai kyau hakan yana cin kusan <b>{0}%</b> na hannaye, idan aka kwatanta da kusan {1}% a blackjack na yau da kullum. Manyan caca blackjack ne na yau da kullum kuma ba sa amfani da hannaye. Idan hannayen sun ƙare, kowane tebur ya sake zama blackjack na yau da kullum kuma na adalci.
+c3a8946	NA FAHIMTA
+8dfc44a	KANA SON SA'ARKA TA DAWO?
+272a97f	Sa'ar Mai Farawa ta ƙare: daga yanzu kowane tebur blackjack ne na yau da kullum kuma na adalci. Jerin Sa'a yana dawo da fa'idar na ɗan lokaci.
+06b7689	KULLUM
+4035996	JERIN KULLUM
+fbe7f18	KWANAKI A JERE
+7a46866	YAU
+4753707	KALLI TALLA
+6bb45f3	SAYA
+62a945f	DASKAREWAR JERI
+ba5b1de	Daskarewar jeri tana riƙe jerinka a ranar da ba ka yi wasa ba. Za ka iya riƙe har {0}.\n\nKa saya ɗaya akan cip {1}?
+38c6090	Daskarewar jeri a shirye take.
+8fe681f	Cip bai isa don daskarewa ba.
+1507c40	SOKE
+457d20f	JUYIN KULLUM
+9623247	JUYA
+ac5ef96	Dama:
+1200f20	{0}%
+003a689	Ka ci cip {0}!
+f757137	AYYUKAN YAU
+7b7f9e2	Mafi kyau: kwanaki {0}
+9554fea	Yi wasa kowace rana don gina jeri
+5c8dbb8	An cimma burin yau! Sai gobe.
+1aeb9a1	Yau: zagaye {0} / {1} (kowane wasa)
+bb92856	Daskarewar jeri: {0} / {1}
+0ec6216	Ceci jerinka a ranar da ka rasa. +1 kowane kwana 7.
+cc0a745	CIKE
+419a962	BABU BIDIYO
+2dabd99	TALLA NAN BA DA JIMAWA BA
+f12e166	Kyautar jeri: kyaututtuka ×{0}
+80948a4	Juyi ɗaya kyauta kowace rana
+596b5e0	NA GABA  {0}
+7f7e7fc	An gama duka! An karɓi kyauta.
+03a0f2a	Sababbin ayyuka da tsakar dare.
+4784874	Gama duka uku: +cip {0} na kyauta
+42c5cda	YI WASA
+337211e	WASANNI
+8f5e3bd	Ja gefen hagu don tafiya  •  Ja gefen dama don kallo  •  Taɓa don zuwa
+d00d221	Sai 18+ kaɗai  •  Cip na nishaɗi ne: ba su da darajar kuɗi, ba za a taɓa musanya su da kuɗi ko kyaututtuka ba
+b60f038	Ana buɗe ƙofofi...
+2e5bcce	Barka da zuwa! Cip ɗinka {0} na maraba a shirye suke. Teburan suna gaba kai tsaye!
+7ef7ae3	+cip {0} kyauta! Ƙari nan da awa {1}.
+5d82af9	Cip kyauta yana cika kowane awa {0}. Na gaba nan da {1}.
+5469985	awa {0} minti {1}
+bb65beb	minti {0} daƙiƙa {1}
+ac8ba93	RIƘE JERINKA
+560bfa1	Kana son tunatarwa a maraicen da ba ka yi wasa ba tukuna, da lokacin da cip ɗinka na kyauta ya shirya? Ba fiye da haka ba, kuma za ka iya kashe shi a Saituna.
+b724a40	TUNATAR DA NI
+9e0c898	+cip {0} a shirye!
+1207e28	Kalli bidiyo: {0}
+db3655b	Cip kyauta na gaba nan da {0}
+4ca9be5	BLACKJACK
+9a612b1	Tebura 4  •  yana biya 3 zuwa 2
+1194439	SLOTI
+6555152	Lucky Ace 7s  •  layuka 10
+255b1a1	RULET
+6df1551	Na Turai mai sifili ɗaya
+379b146	KA GAJI SOSAI
+340e5c4	Sandar kuzarinka babu komai. Ɗauki wani abu a mashaya don ci gaba da wasa, ko dawo daga baya: kuzari yana dawowa a hankali yayin da ba ka nan.
+a517396	JE MASHAYA
+7c7227f	ZAƁI TEBURINKA
+c963de3	CACA
+c433657	MATAKI {0}
+083ac39	ZAUNA
+9698219	ANA BUƘATAR {0}
+34b737e	Kai mataki {0} don yin wasa a nan. Kana mataki {1}.
+6cc19a9	GIDAN CACA
+6e946b7	RR
+4a3a892	WW
+2857a6a	SSSS
+9d1fece	RANA
+d3bb0c3	WATA
+c0f0cad	SHEKARA
+43985ff	YAUSHE AKA HAIFE KA?
+293fda2	Cip na nishaɗi ne kawai. Ba su da darajar kuɗi kuma ba za a taɓa musanya su da kuɗi ko kyaututtuka ba.
+3e9128d	YI HAƘURI, BA ZA KA IYA YIN WASA BA
+b5e8985	{0} na manya ne kawai.
+bb1b380	FITA
+d9f9432	Yana rufewa nan da {0}...
+c6e102d	GAYA MANA GAME DA KAI
+31120ce	Za mu zaɓi masu masauki, masu rabawa da ma'aikatan mashaya da suka dace. Za ka iya canza wannan a kowane lokaci a Saituna.
+49e8df9	NI NAMIJI NE
+85abe81	NI MACE CE
+76cc98c	NA FI SON KADA IN FAƊA
+964daf7	SHIGA GIDAN CACA
+2efb69a	Ma'aikatanka yau da dare:
+c10e749	Shafi na {0} cikin {1}
+2a3ffd9	HARSHE
+c673535	ATOMATIK
+d1245d2	ƘASA
+15fc12b	Barka da zuwa! Ku sanya cacarku, don Allah.
+531fb3f	Cip bai isa don wannan cacar ba.
+380eb75	Iyakar tebur shine {0} a kowane juyi.
+55ad592	SOKE AIKI
+8f191f9	JIMLAR CACA  {0}
+82e1181	Taɓa allon don sanya cip
+bb19a75	Babu ƙarin caca!
+5becf07	KORE
+bc74f4f	kore
+7898801	ja
+466bc8c	baƙi
+f2edfbf	Wace irin bugu! Taya murna!
+b252caf	Nasara! Ka ci {0}.
+8587d14	NASARA  +{0}
+b862a2b	{0} {1}. {2} yana dawowa gare ka.
+a306d0a	AN MAYAR  {0}
+af3134d	Babu nasara wannan karon
+84122e7	Ku sanya cacarku, don Allah.
+52205f4	Jira ƙwallon ta tsaya.
+c4b9243	SAITUNA
+44d863e	GABA ƊAYA
+2bbca79	HOTUNA
+955c8b4	SAUTI
+c701f5f	TAƁAWA
+efcc94a	LINZAMI
+8433628	MAI SARRAFAWA
+d868a50	JIJJIGA
+f8692c7	18+ • Cip ba su da darajar kuɗi • Haruffa: Bebas Neue, Poppins, Noto (SIL OFL) • Iyakoki: Natural Earth • Bayanan farashi: Bankin Duniya
+da46447	MA'AIKATAN GIDAN CACA
+594b81e	MATA
+69d3313	MAZA
+b4325d3	GAURAYE
+414594a	TUNATARWA
+6cac87b	Cip kyauta a shirye, da tunatarwa da maraice kafin jeri ya ƙare.
+e43b2e0	SAKE DUBAWA
+7c9e8f9	YANKIN FARASHI
+495c70e	Mafi sauri: gidan caca kamar yadda aka zana shi, babu ƙari.
+b052523	Benaye masu sheƙi, itace da zinariya suna nuna ɗakin.
+6bd30d7	Kamar fim: launuka masu daidaito, ƙwaya, walƙiya, zaren haske, fata mai rai.
+21b6e1d	Ruwan tabarau na sinima: mayar da hankali yana bin idonka, layuka a kan fitilu, ƙura a cikin hasken.
+fb7c2e8	INGANCI
+d8b9679	ƘASA
+f68525a	MATSAKAICI
+d77d0b2	BABBA
+9289eee	ULTRA
+637e313	ƘUDURI
+2e7b141	Ƙasa ya fi laushi amma yana da sanyi kuma yana adana baturi.
+93dcfb5	YANAYIN NUNI
+3c6eac3	CIKAKKEN ALLO
+f3690b1	TAGA
+cfa6200	DAIDAITA GEFUNA
+ad50489	A KASHE
+f178804	Yana daidaita gefuna masu kaifi a gidan caca.
+4266288	SAURIN HOTO
+d031ab0	{0} FPS
+a2b7514	FPS 30 yana adana baturi kuma yana sa tsofaffin wayoyi su yi sanyi.
+0babcee	V-SYNC
+6656e25	FAƊIN GANI
+244aadb	NUNA FPS
+41c8f6e	BABBAN ƘARA
+bf3af1f	KIƊA
+bd80907	TASIRIN SAUTI
+d098036	MURYOYIN MA'AIKATA
+93c6484	Raɗar da ma'aikata ke yi yayin magana.
+16bf71a	YI SHIRU A BAYA
+85b2ee7	Yana sa gidan caca ya yi shiru yayin da kake wata taga.
+8e3634e	HANKALIN KALLO
+880dc05	Yadda jawowa ke juya kallo da sauri.
+750c60f	Yadda jawowa da linzami ke juya kallo da sauri.
+8b988eb	JUYA KALLO HAGU / DAMA
+cacf0cc	JUYA KALLO SAMA / ƘASA
+2d13b68	TSARIN MAƁALLAI
+50c3f10	ATOMATIK
+b471e5c	MUSANYA MENU / KALLO
+d9a59f1	HANKALIN SANDA
+ec14343	Yadda sandar dama ke juya kallo da sauri.
+a79af23	JUYA SANDA HAGU / DAMA
+acfc66e	JUYA SANDA SAMA / ƘASA
+56bb461	ALAMOMIN MAI SARRAFAWA
+51cf49a	Yana nuna abin da kowane maɓalli ke yi yayin da kake wasa da mai sarrafawa.
+dff7431	JIJJIGA A
+34139ab	WAYA
+15ee988	DUKA BIYU
+465cc91	Atomatik: mai sarrafawa idan an haɗa shi, in ba haka ba waya.
+f6fed84	JIJJIGAR WAYA
+8e97fa7	ƘARFIN WAYA
+486ba2d	JIJJIGAR MAI SARRAFAWA
+8008889	ƘARFIN MAI SARRAFAWA
+ea9233e	ATOMATIK ({0})
+167dda7	{0} yana buɗe Saituna, {1} yana buɗe Kullum.
+29a4ef9	Babu mai sarrafawa da aka haɗa.
+558ecd2	An haɗa: {0}. Ana nuna maɓallan {1} (A na dama yana tabbatarwa).
+d6eee9e	An haɗa: {0}. Ana nuna maɓallan {1}.
+78525d5	MASHAYA
+099db9f	SA'A
+b4a8b06	Cip, sa'a da abinci abubuwa ne na intanet don nishaɗi kawai: ba su da darajar kuɗi, ba za a iya fansar su da kuɗi ko kyaututtuka ba.
+e2a28c9	Kowane kati yana da wannan damar na zuwa don amfaninka, a cacar blackjack har zuwa cip {0} (manyan caca na yau da kullum ne kuma ba sa amfani da hannaye). Yana farawa bayan Sa'ar Mai Farawa; ana fara amfani da fakiti masu ƙarfi.
+04fbc6d	Ba da izinin samun wuri don samun farashin ƙasarka
+2ae87fc	Ba a samun saye a wannan sigar wasan.
+8239a84	SHAGON GWAJI (ba kuɗi na gaske ba)
+173d916	kuzari
+b2c67eb	+{0}% CIP
+58e8011	hannaye {0}
+ce80712	yana cin kusan {0}% nasu
+c69e8ee	LUCKY ACE 7s
+fc99288	JIMLAR CACA
+c1c00cd	TEBURIN BIYA
+3930abd	SA'A MAI KYAU!
+67b6973	Kana buƙatar aƙalla cip 10 don juyawa.
+5aa1edb	SAMU CIP
+f5a1812	An rage caca zuwa abin da za ka iya biya.
+5c63f61	BABBAR NASARA SOSAI!
+652544f	BABBAR NASARA!
+91bc41c	AN MAYAR {0}
+3714283	BABU NASARA
+33c0faa	LAYI {0}: {1} × {2} = {3}
+9f59e6e	TAURARI {0} = {1}
+d6eee90	Ceri
+4459b79	Lemun tsami
+09fb6aa	Lemu
+cb92e50	Plum
+d419866	Ƙararrawa
+e496fd2	Bar
+63abb56	Bakwai
+b3850e0	Lu'u-lu'u
+fc2b5a9	Ace
+85a7de6	Tauraro
+c31b035	TAURARI suna biya a ko'ina: 5 = {0}× caca, 4 = {1}× caca, 3 = {2}× caca.
+f97509c	ACE wild ne: yana maye gurbin kowace alama sai tauraro.
+3e8bc69	Biyan layi ninki ne na cacar layi (jimlar caca ÷ 10), daga hagu zuwa dama daga mazubi na farko.
+523f8dc	MAYARWA: {0}% a dogon lokaci. Kowane juyi mai zaman kansa ne kuma bazuwar ne.
+e0c705d	Tafiya
+b8db515	Kallo
+503d46d	Maɓallai
+c7f73bb	Saituna
+728298d	Kullum
+ab166bd	Daidaita
+76cdb95	Motsa
+8598222	Zaɓa
+bbfa773	Rufe
+b52b36b	Baya
+ab37588	A GAJIYE
+9b11a09	SA'AR MAI FARAWA {0}%
+0c94e98	SAURA HANNAYE {0}
+51ed273	JERIN SA'A {0}%
+3401470	HANNAYE {0}  •  CACA HAR ZUWA {1}
+f481cc6	MATAKI
+0139615	BARKA DA ZUWA
+daad514	YI MAGANA DA MAI MASAUKI
+bcefb10	Kwatance da shawarwari
+c28e782	CIP  •  KYAUTUTTUKA
+0c69ec4	SAYI CIP
+78c0727	Mai karɓar kuɗi
+1737fab	ABUBUWAN SHA  •  ƘANANAN ABINCI  •  KUZARI
+9e008ae	ABINCI DA ABIN SHA
+f7881e8	Mashaya
+0e979ed	BLACKJACK YANA BIYA 3 ZUWA 2
+eea0d12	DOLE NE MAI RABAWA YA TSAYA A 17
+4db37bf	YI WASAN BLACKJACK
+0ffdd99	Teburin {0}  •  caca {1} zuwa {2}
+b4f938b	YI WASAN SLOTI
+6b7caea	KU SANYA CACARKU
+26b1e39	YI WASAN RULET
+910a1ed	Dabarar Turai  •  lamba kai tsaye tana biya 35 zuwa 1
+7ef0215	YI ODAR ABIN SHA
+fe38d73	{0} zai kawo
+f7b6306	{0} yana buɗewa a mataki {1}. Kana mataki {2}: kowane zagaye da ka yi yana ƙirguwa.
+d85f1ad	Wannan tebur yana buƙatar aƙalla cip {0}.
+cbfe016	Teburan blackjack suna gaba kai tsaye. Taka zuwa ɗaya ka zauna!
+64d9faf	Mai karɓar kuɗi yana nan a damanka, kuma mashaya tana gefen bangon hagu.
+e4c6e0b	Ka gaji? Ɗan abinci a mashaya yana cika kuzarinka nan take.
+d5ab68f	Taɓa ko'ina a ƙasa za ka tafi can. Taɓa tebur don ka zauna.
+cc21f74	ƘARAMI
+dc01dec	BABBA
+5fb90b0	KOWANE UKU IRI ƊAYA
+9c716f1	Teburin hold'em
+3b6ab84	Buga hannaye 8 na hold'em
+6c617ca	Ci hannaye 4 na hold'em
+44ce500	Buga hannaye 10 na baccarat
+b90cff7	Ci hannaye 5 na baccarat
+3e4dfa9	Buga hannaye 15 na video poker
+854fe20	Buga zagaye 8 na sic bo
+dfddac1	Ci zagaye 4 na sic bo
+2973ea7	Jefa ɗan lido sau 15 a craps
+737be17	Ci jefawa 4 a craps
+4dbb81d	Samu flush ko fiye a video poker
+19aa07b	Royal flush
+cf83e72	Straight flush
+d27ba03	Huɗu iri ɗaya
+dbe8641	Full house
+7c936d7	Flush
+2501c65	Jeri
+ca1a0d4	Uku iri ɗaya
+6876b40	Biyu-biyu sau biyu
+2537f88	Biyu iri ɗaya
+b4b323e	Babban kati
+f70bfdc	Jack ko fiye
+98fd5af	BACCARAT
+df66d5a	Barka da zuwa baccarat! Ɗan wasa, Banki ko Kunnen doki?
+5055efd	ƊAN WASA
+3f90696	KUNNEN DOKI
+0d75f63	BANKI
+0ebd5a4	SAKAMAKO NA ƘARSHE
+511993d	Ɗ
+ae4f281	B
+c2c53d6	K
+781246e	Zaɓi chip, sannan ka taɓa Ɗan wasa, Banki ko Kunnen doki
+11023a0	KUNNEN DOKI  {0}
+503d5f1	ƊAN WASA YA CI  {0} DA {1}
+0eb4be5	BANKI YA CI  {0} DA {1}
+7859af1	CRAPS
+4083dbd	Barka da zuwa craps! Sa caca a Pass Line ka jefa.
+d266326	SHIDA
+c506f3a	TARA
+987f4e9	FIELD
+71c1b2b	2 3 4 9 10 11 12  •  2 da 12 suna biyan ninki biyu
+d0ac294	KOWANE 7
+9b2f0c3	KOWANE CRAPS
+f62ac59	DON'T PASS BAR
+6080ade	1:1  •  12 kunnen doki ne
+c07247a	PASS LINE
+6229f78	ODDS
+29bf819	ainihin dama
+387d7a5	KUNNA
+229c9cc	Ana sa odds a bayan Pass Line idan akwai maki.
+c2c8e82	Odds na buƙatar caca a Pass Line.
+1784d43	Odds ɗinka sun kai iyaka.
+fdc3442	Ana sa cacar layi a jefawar farko.
+97ce95b	A KAN TEBUR  {0}
+a895ec0	Makin shi ne {0}: sake jefa shi kafin 7. Odds a bayan Pass Line suna biyan ainihin dama.
+d9f9d65	JEFA
+bcf32ef	Makin shi ne {0}.
+5b450b4	{0}! An samu makin. Nasara!
+9746e08	Bakwai ya fito. Sabon mai jefawa, sabuwar jefawar farko.
+4fc4664	{0}, natural! Pass Line ta ci.
+203f466	{0}, craps. Layin ya faɗi.
+0f8e260	Jira har ɗan lido ya tsaya.
+6a98cfe	ZA KA BAR TEBUR?
+8430088	Cacar layinka tana gudana a kan maki {0}. Idan ka tafi yanzu, za ka rasa ta.
+0e138d1	HOLD'EM
+5e023be	Barka da zuwa hold'em! Sa ante mu ga katunan.
+0cd62f5	ANTE
+5e9f331	BLIND
+3b935ab	BLIND YANA BIYA
+20713a4	Dila yana cancanta da biyu iri ɗaya ko fiye
+d37267c	CHECK
+9a4e316	FOLD
+88313c4	CACA {0}×
+42c6fea	Ante {0} + blind {0}. Ajiye ƙarin {1} don ɗagawa.
+1abb2f2	Taɓa chips don saita ante. Blind daidai yake.
+f541cec	Check, ko caca sau uku ko huɗu na ante?
+fc74a79	Ɗaga yanzu 4× ko 3× na ante, ko ka yi check ka ga flop.
+b687501	Dama ta ƙarshe: caca 1× na ante, ko fold ka rasa ante da blind.
+400009c	Caca 2× na ante yanzu, ko ka yi check ka ga katuna biyu na ƙarshe.
+f4abdf9	Ga flop.
+0e51f2c	Turn da river.
+cc856d3	Bari mu ga abin da nake da shi.
+6ba1f3e	Dila bai cancanta ba: ante ɗinka ya dawo.
+cf1fdc5	An yi fold. Hannu na gaba naka ne.
+177fab0	Ultimate Texas Hold'em
+c4917b9	Ɗan wasa, Banki ko Kunnen doki
+6e4fe7b	VIDEO POKER
+73cabd3	Jacks or Better
+91c4555	SIC BO
+d810061	Ɗan lido uku  •  babba ko ƙarami
+85ab7ec	Pass Line  •  Field  •  Odds
+35d8db6	Barka da zuwa sic bo! Babba, ƙarami ko wani abu mai ƙarfin hali?
+3d05514	Iyakar tebur {0} ne a kowace jefawa.
+86ade94	GIRGIZA
+b69304e	UKU NA {0}!
+5d1bcc6	AN RIƘE
+36a21ba	Raba, riƙe katunan da kake so, canza sau ɗaya.
+99fa8e8	RIƘE
+249d1c0	SHAWARA
+7aab1bd	CANZA
+5595eb4	Taɓa katunan don riƙe su, sannan ka canza.
+1c05db9	BUGA HOLD'EM
+e353e5f	Ultimate Texas Hold'em  •  ante {0} zuwa {1}
+6470369	BUGA BACCARAT
+bbe0077	BABBA  •  ƘARAMI  •  UKU-UKU
+3ba448f	BUGA SIC BO
+097c59c	Ɗan lido uku  •  babba ko ƙarami yana biyan 1 da 1
+af2ca30	PASS LINE  •  FIELD  •  ODDS
+f18398e	BUGA CRAPS
+eeede6d	Pass Line tana biyan 1 da 1  •  odds suna biyan ainihin dama
+34e5170	BUGA VIDEO POKER
+f71bdfb	Jacks or Better  •  cikakken tebur 9/6
+4a6c087	JACKS OR BETTER  •  ROYAL FLUSH YANA BIYAN 800×
+370a133	Injinan slot suna bangon dama, video poker a bangon baya, roulette kuma a can baya.
+8298d28	Hold'em yana kusurwar baya ta hagu, bayan mashaya.
+a2a111f	Baccarat yana hagu nan da nan idan ka shigo.
+b7193bc	Sic bo yana kusurwa bayan mai karɓar kuɗi: ɗan lido uku, babba ko ƙarami.
+25320c8	Teburin craps yana dama, a gaban injinan slot. Sa caca a Pass Line ka jefa!
+dc81691	Sofia
+4d9936f	Elena
+3aa0674	Mia
+b724114	Valentina
+34d3f7f	Chloe
+0fc9dd6	Isabella
+bbd3e35	Nadia
+eac677d	Aria
+baaf10f	Luna
+8641381	Camila
+eeee9b7	Aurora
+8a59f05	Bianca
+5a0fc29	Serena
+bf38aa5	Marco
+cfaf50a	Leo
+5815f22	Adrian
+cbede02	Lucas
+f0b9995	Viktor
+7b37259	Daniel
+aaac72d	Gabriel
+2f8f37e	Ethan
+a01126e	Julian
+3e05c90	Rafael
+e1ae457	Mateo
+3398634	Nico
+7aa2d07	Enzo
+1920e2f	Jefawar farko: sa caca a Pass Line, sannan ka jefa. 7 ko 11 suna ci; 2, 3 ko 12 suna faɗuwa. Cacar place tana fara aiki ne idan akwai maki.
+99f4934	LUCKY ACE 7s  •  YANA BIYA HAR 2,500× NA CACAR LAYINKA

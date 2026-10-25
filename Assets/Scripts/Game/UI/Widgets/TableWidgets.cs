@@ -204,6 +204,9 @@ namespace Casino.UI
             group.alpha = 0f;
         }
 
+        /// <summary>Letters, and the shaped letters of the scripts drawn with private-use characters.</summary>
+        static bool IsLetter(char c) => char.IsLetter(c) || (c >= '\uE000' && c <= '\uF8FF');
+
         IEnumerator SayRoutine(string line, float hold, StaffPortrait talker, Casino.Audio.VoicePitch voice)
         {
             // Size the bubble for the whole line first, so longer lines grow it instead of spilling out.
@@ -215,12 +218,15 @@ namespace Casino.UI
             transform.localScale = Vector3.one * 0.7f;
             StartCoroutine(Tween.Scale(transform, Vector3.one, 0.28f));
             if (talker != null) talker.Talk(line.Length * 0.03f + 0.2f);
+            // Right-to-left words are stored in display order, so they appear a whole word at a time.
+            bool byWord = Loc.RightToLeft;
             for (int i = 1; i <= line.Length; i++)
             {
+                if (byWord && i < line.Length && line[i] != ' ' && line[i] != '\n') continue;
                 text.text = line.Substring(0, i);
                 // A soft syllable every few letters, like the staff member murmuring the line.
-                if (voice != Casino.Audio.VoicePitch.None && i % 4 == 1 && char.IsLetter(line[i - 1])) Casino.Audio.Sfx.Voice(voice);
-                yield return Tween.Wait(0.022f);
+                if (voice != Casino.Audio.VoicePitch.None && (byWord || i % 4 == 1) && IsLetter(line[i - 1])) Casino.Audio.Sfx.Voice(voice);
+                yield return Tween.Wait(byWord ? 0.09f : 0.022f);
             }
             yield return Tween.Wait(hold);
             yield return Tween.Fade(group, 0f, 0.3f);
@@ -239,13 +245,19 @@ namespace Casino.UI
         float talkUntil, winkUntil, phase;
         Expression shown = Expression.Smile;
 
-        public string StaffName { get; private set; }
+        /// <summary>The name, in the player's language (names are written in the language's own script).</summary>
+        public string StaffName => Loc.T(englishName);
+        string englishName;
         public RectTransform Rect => (RectTransform)transform;
 
-        static readonly string[] FemaleNames = { "Sofia", "Elena", "Mia", "Valentina", "Chloe", "Isabella", "Nadia", "Aria", "Luna", "Camila" };
-        static readonly string[] MaleNames = { "Marco", "Leo", "Adrian", "Lucas", "Viktor", "Daniel", "Gabriel", "Ethan", "Julian", "Rafael" };
+        static readonly string[] FemaleNames = { Loc.N("Sofia"), Loc.N("Elena"), Loc.N("Mia"), Loc.N("Valentina"), Loc.N("Chloe"), Loc.N("Isabella"), Loc.N("Nadia"), Loc.N("Aria"), Loc.N("Luna"), Loc.N("Camila"), Loc.N("Aurora"), Loc.N("Bianca"), Loc.N("Serena") };
+        static readonly string[] MaleNames = { Loc.N("Marco"), Loc.N("Leo"), Loc.N("Adrian"), Loc.N("Lucas"), Loc.N("Viktor"), Loc.N("Daniel"), Loc.N("Gabriel"), Loc.N("Ethan"), Loc.N("Julian"), Loc.N("Rafael"), Loc.N("Mateo"), Loc.N("Nico"), Loc.N("Enzo") };
 
-        public static string NameFor(bool female, int index) => (female ? FemaleNames : MaleNames)[Mathf.Abs(index) % FemaleNames.Length];
+        public static string NameFor(bool female, int index)
+        {
+            var names = female ? FemaleNames : MaleNames;
+            return names[Mathf.Abs(index) % names.Length];
+        }
 
         /// <param name="nameIndex">Distinct per post so no two staff share a name; defaults to the portrait seed.</param>
         public static StaffPortrait Create(Transform parent, float size, bool female, int seed, StaffRole role, bool nameplate = true, int nameIndex = -1)
@@ -258,7 +270,7 @@ namespace Casino.UI
             p.seed = seed;
             p.role = role;
             p.phase = seed * 1.7f;
-            p.StaffName = NameFor(female, nameIndex >= 0 ? nameIndex : seed);
+            p.englishName = NameFor(female, nameIndex >= 0 ? nameIndex : seed);
 
             var glow = UIKit.Image(rt, "Glow", ProceduralArt.Glow, Palette.WithAlpha(Palette.Gold, 0.35f));
             ((RectTransform)glow.transform).Center(0, 0, size * 1.45f, size * 1.45f);
@@ -274,7 +286,7 @@ namespace Casino.UI
                 var plate = UIKit.Panel(rt, "Nameplate", Palette.Hex("1A1024"), 20f);
                 var prt = ((RectTransform)plate.transform).At(0.5f, 0f, 0, -8, Mathf.Max(170, size * 0.62f), 44);
                 UIKit.Outline(prt, Palette.Gold, 20f);
-                p.nameText = UIKit.Label(prt, p.StaffName.ToUpperInvariant(), 30, Palette.Gold, TextAnchor.MiddleCenter, FontKind.Display);
+                p.nameText = UIKit.Label(prt, Loc.Upper(p.StaffName), 30, Palette.Gold, TextAnchor.MiddleCenter, FontKind.Display);
                 ((RectTransform)p.nameText.transform).Stretch(0, 2, 0, 0);
             }
             return p;

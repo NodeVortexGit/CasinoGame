@@ -1,0 +1,659 @@
+# Czech (cs). Machine translation by Claude.
+bd99124	Hrst žetonů
+c7c6dc8	Sloupek žetonů
+7512cfd	Podnos žetonů
+fa36588	Stojan žetonů
+7994f65	NEJOBLÍBENĚJŠÍ
+49dcc21	Trezor žetonů
+0725283	Sejf high rollera
+7658705	NEJLEPŠÍ CENA
+2f23432	Perlivá voda
+418b820	Espresso
+97b463c	Energetický nápoj
+43bbfda	Klubový sendvič
+bce7a75	Burgerové menu
+2832a8d	Steaková večeře
+dee8ee8	PLNÉ DOBITÍ
+a7c2255	Šťastná série
+7919163	Horká série
+74fdfc2	NEJVÍC ŠTĚSTÍ
+d79cd12	Bronzový stůl
+2a8ff35	Stříbrný stůl
+51877b2	Zlatý stůl
+9282152	Diamantový stůl
+0de8764	Zadejte platný rok.
+d4e14c9	Zadejte platný měsíc (1-12).
+addd156	Zadejte platný den.
+d78a4f4	Toto datum je v budoucnosti.
+787c7c6	Vítej u mého stolu! Připraven hrát?
+8b0f93e	Rád tě vidím. Posaď se!
+8338021	Ahoj! Karty jsou čerstvé a já taky.
+75750f9	Vítej! Ať je dnešní večer skvělý.
+95aac36	Vsaď, až budeš připraven.
+8bc63c1	Žetony na stůl a podíváme se na karty.
+984b7f3	O co hrajeme?
+b74c769	Páni, velká sázka! Líbí se mi tvůj styl.
+77fc1fc	Tomu říkám sázka. Jdeme na to!
+7779a5b	Dnes jsi odvážný, co?
+479ff82	Všechno?! Srdce mi buší!
+7fb527c	Všechno na jednu ruku. Nebojácné!
+7bf0c5d	Blackjack! Neuvěřitelné!
+123f2d5	Jednadvacet, jen tak!
+cd850a7	Blackjack! Karty tě dnes milují.
+55f50ee	Pěkně zahráno!
+79594b1	Výhra! Dobrá práce.
+0df710e	Daří se ti!
+20a0c1e	Tahle je tvoje.
+a45fe61	Jaká výhra! Všichni se dívají na tenhle stůl!
+54d3982	Obrovské! Dnes jsi v ráži!
+8da8f1e	Tak těsně! Příští je tvoje.
+5d921e1	Tentokrát mělo kasino štěstí.
+f923af7	Hoď to za hlavu, jde nová ruka.
+853e7ca	Au, o kartu víc.
+daec44f	Přes! Stává se to i nejlepším.
+11ceaef	Remíza. Nikdo neprohrává!
+911a289	Remíza. Tvoje žetony jsou v bezpečí.
+a89d9d9	Jsem přes! Máš štěstí.
+f76c8fd	Moc pro mě. Vyhráváš!
+63f8d0b	Blackjack pro kasino, promiň!
+465c8bf	Krupiér má blackjack. Smůla.
+6752f40	Ukazuji eso. Pojištění?
+1920c5a	Dělíme! Dvě šance na výhru.
+9f621da	Zdvojení. Odvážný tah!
+59da99d	Zdvoj! Přijde jedna karta.
+0b48017	Nová bota, míchám!
+3fa7769	Docházejí ti? Pokladna ti doplní.
+4e5694b	Žetonů ubývá. Chceš další?
+d41f057	Žetony došly! Zajdi do pokladny nebo si vezmi žetony zdarma.
+15d90d3	Tvůj sloupek je prázdný. Pokladna je hned za tebou.
+a9eaae1	Vypadáš vyčerpaně! Dej si něco k jídlu na baru.
+5cd9e8b	Jedeš na rezervu? Bar se o tebe postará.
+37b9672	Nespěchej.
+c64df8c	Kdykoli budeš připraven!
+b8dfc0a	Noc je ještě mladá.
+8748560	Štěstí začátečníka stojí při tobě!
+e3def50	Balíček je dnes na tvé straně!
+506ade9	Štěstí začátečníka skončilo. Odteď je to férová hra!
+953d8b7	Vítej v kasinu! Tvoje místo čeká.
+9fd9844	Dobrý večer! Stoly jsou dnes rozpálené.
+2d42aaf	Vítej zpět! Cítíš štěstí?
+311bae7	Klepni na stůl a začni hrát!
+3318099	Potřebuješ víc žetonů? Jsi u správného okénka.
+c5b3787	Větší sloupky, větší bonusy!
+21ae665	Máš hlad? Vyber si cokoli z menu.
+8b83cc0	Něco k zakousnutí ti udrží energii!
+35f4b0e	Vítej u mého stolu!
+8f90245	Tady jsi! Hned je tu veseleji.
+909e4d6	Buď jako doma. Dnešní večer je jen o tobě.
+2477f78	Miluju ten úsměv. Šťastný večer?
+6ac2120	Uvolni se, jsi tu v dobrých rukou.
+089f04b	Ahoj ty! Doufala jsem, že se zastavíš u mého okénka.
+3f2c3c9	Vždycky ráda vidím přátelskou tvář.
+3021db8	Podívejme, kdo to je! Bavíš se?
+769980b	Ahoj, krasavče!
+5361ffd	Dnes se mi líbí tvůj styl.
+56b40be	Ahoj, rád tě zase vidím!
+3316019	Máš dobrý večer? Zasloužíš si ho.
+28283fd	Pozor, možná ti začnu fandit.
+109ac94	Můj oblíbený hráč je zpět!
+acba0e6	Sedni si ke mně, rozdám ti něco hezkého.
+eb5ff2a	S tebou je u tohohle stolu mnohem větší zábava.
+772a73c	Už odcházíš? Noc je ještě mladá!
+178301a	No tak, ještě jednu ruku. Mám z ní dobrý pocit!
+816036a	Teď mě nemůžeš opustit, teprve začínáme!
+5c9b7e2	Poslední šance! Příští ruka může být ta velká...
+20ce7b6	Dobře, dobře. Udržím ti místo teplé. Slíbíš, že se vrátíš?
+51d1aeb	Ještě žádná série? Zahraj si dnes kola ({2}) a já začnu počítat.
+10b25d9	Nový začátek! Kola ({2}) a tvůj plamen se rozhoří.
+0c10711	Vedu si malý seznam těch, kdo chodí každý den. Ty na něm nejsi... zatím.
+5e7c431	Den {1} na tebe čeká. Zbývá kol: {2}!
+b268d84	Dní v řadě: {0}... teď přece nepřestaneš, ne?
+b32ae79	Tvůj plamen dnes vypadá trochu chladně. Kola ({2}) ho zahřejí.
+a6f3fbd	Počítám: dní {0}. Ať je jich {1}.
+1dc5c97	Nemysli si, že jsem si nevšimla. Zbývá kol k udržení série: {2}!
+807b82c	Dní v řadě: {0}? Začínám si myslet, že se ti tu líbí.
+6391923	Tvoje série je pro dnešek v bezpečí. Teď už se jen předvádíš.
+3bfbbf7	Den {0} hotový. Zítra ve stejnou dobu?
+ca2a2c1	Dní: {0}! Teď bych ti měla držet místo.
+54f991f	Tady je: první den tvé série! Vrať se zítra a budou dva.
+a1e7ab0	Celý týden v řadě! Opravdu mě ohromuješ.
+96cee95	Třicet dní! Prakticky tu pracuješ.
+a9834cd	Sto dní. Vyprávím o tobě všem.
+071317f	Už {0} dní v řadě! Jen se na sebe podívej.
+0964027	Série zachráněna: den {0}! Věděla jsem, že to zvládneš.
+c7f2a1f	Den {0}! Vsadím se, že {1} nezvládneš.
+a6ce2e2	Dní: {0}... dobře, ty frajere.
+3ab91d0	Zahraj 10 rukou blackjacku
+38e863d	Vyhraj 5 rukou blackjacku
+6ac41cc	Získej blackjack
+74cf149	Vyhraj 500 žetonů v blackjacku
+66440e1	Roztoč automat 20krát
+9205056	Vyhraj 5 otočení na automatu
+cd60e0c	Vyhraj 5× svou sázku na automatu
+6f7ac28	Zahraj 5 kol rulety
+6978cc0	Vyhraj 3 otočení rulety
+c8ebbcc	Traf číslo přímou sázkou
+8a57c54	poloha GPS
+4919635	mobilní síť
+527b094	připojení k internetu
+f49ae82	nastavení zařízení
+60827d3	testovací země
+0b2f8d8	neověřeno (standardní cena)
+50d8b4a	neznámé
+4fb7a4e	1. tucet
+647a0eb	2. tucet
+a934745	3. tucet
+3de80ab	2 ku 1
+bb4e68e	ČERVENÁ
+a9414ab	ČERNÁ
+710756a	LICHÁ
+70ca748	SUDÁ
+4d60d6c	FÉROVÉ CENY PRO TVOU ZEMI
+1674d95	Ceny v obchodě jsou přizpůsobeny ekonomice tvé země, aby hráči všude platili férovou cenu.
+4ec27ee	Abychom zjistili tvou zemi, jednou zkontrolujeme tvou přibližnou polohu. Přiřadí se k zemi přímo v zařízení a nikam se neodesílá. Pokud odmítneš, platí standardní ceny.
+ff3dbb4	POKRAČOVAT
+43a6a8d	Opustit kasino?
+ad209a0	Tvoje žetony a postup jsou uloženy.
+5860c84	UKONČIT
+f1e0808	ZŮSTAT
+5b38c49	Odemčeno: {0}
+15ae7ac	Zmrazení série včera zachránilo tvou sérii (dní: {0}).
+d375ffb	Zmrazení ({0}) zachránila tvou sérii (dní: {1}).
+fd8ab39	Tvoje série (dní: {0}) skončila. Zahraj si dnes kola ({1}) a začni novou!
+7fa2db4	MISE SPLNĚNA
+255325c	+{0} žetonů
+d205ece	VŠECHNY MISE SPLNĚNY!
+4acbed2	Denní bonus +{0} žetonů. Nové mise zítra.
+ab2ceb3	ÚROVEŇ {0}!
+86e2afb	Milník! +{0} žetonů
+9ae18ad	Vrať se zítra a pokračuj
+7af7e7c	+1 zmrazení série
+b5b9597	SÉRIE: {0} DNÍ!
+62ec60d	Nákupy nejsou v této verzi dostupné.
+1f9786c	Nákup se nezdařil. Nic ti nebylo účtováno.
+3e4c600	Přidáno +{0} žetonů!
+1998202	{0}: rukou {1} s {2} % štěstí, po štěstí začátečníka
+728ada5	{0}: rukou {1} s {2} % štěstí!
+af5e232	{0}: +{1} % energie
+001a53b	Na tomto zařízení není dostupné
+2607004	Videa se v této síti nenačítají
+569c30d	Vrať se zítra
+ecae6ee	Připraveno za {0} s
+9964820	+{0} žetonů (dnes zbývá {1})
+e1bd888	+{0} žetonů zdarma!
+619bd5d	+1 zmrazení série!
+f70d794	Momentálně není k dispozici žádné video. Zkus to za chvíli.
+264d71b	BRONZ
+462e839	STŘÍBRO
+81ff70a	ZLATO
+50e122e	DIAMANT
+57f5f5e	Menu
+69bd4ef	Zobrazení
+dbfe736	Křížek
+1cc7820	Kolečko
+82810cb	Čtverec
+73d3ae2	Trojúhelník
+a42f608	Zjišťujeme tvůj region...
+1db422c	Neověřeno ({0}): standardní ceny
+9bc0807	{0} ({1}): ceny v {2}
+ae8c393	Připomenutí
+aefd59b	Žetony zdarma připraveny a připomenutí série
+3125838	Tvoje žetony zdarma jsou připraveny
+233027b	V Lucky Ace na tebe čeká {0} žetonů.
+b93976b	Udrž svou sérii (dní: {0})
+bd68038	Zahraj si dnes kola ({0}), aby se o půlnoci nevynulovala.
+0acfb6f	Vítej! Štěstí začátečníka je dnes na tvé straně. Vsaď si!
+d589374	BLACKJACK VYPLÁCÍ 3 KU 2   •   KRUPIÉR STOJÍ NA VŠECH 17   •   POJIŠTĚNÍ VYPLÁCÍ 2 KU 1
+b700b02	SÁZKA
+16ec74f	SMAZAT
+928226b	ZNOVU
+55591e0	ROZDAT
+395ed46	KARTU
+43e7971	STÁT
+097274c	ZDVOJIT
+6df63ca	ROZDĚLIT
+3e40f46	POJISTIT
+db82d3a	NE, DÍKY
+28d6be8	SÁZKA {0}+
+9587b70	Dosaženo maxima stolu
+b9ac47d	Nedostatek žetonů
+d237ade	Krupiér ukazuje eso. Pojistit za {0}?
+bf07c14	Pojištění vyplácí {0}
+b6e674a	Krupiér nemá blackjack. Pojištění propadlo.
+0cc9679	PŘES
+82ce89d	KRUPIÉR PŘES
+6e1e1a4	BLACKJACK!
+662fae5	VÝHRA
+8918d00	REMÍZA
+8df6be4	PROHRA
+9e69668	Štěstí začátečníka skončilo. Tvoje Šťastná série začíná teď.
+822f4f4	Štěstí začátečníka skončilo. Odteď je to standardní blackjack.
+b0377c7	Tvoje Šťastná série skončila. Zpět ke standardnímu blackjacku.
+824ad7c	ŽETONY DOŠLY
+ff1822d	Podívej se na krátké video za {0} žetonů zdarma, nebo zajdi do pokladny.
+e4cac2f	Zajdi do pokladny a doplň si žetony.
+c3df3e7	ŽETONY ZDARMA
+b169d33	POKLADNA
+4d38f66	POZDĚJI
+cb8171b	Nejdřív dohraj tuhle ruku.
+3aa6941	„{0}“
+6f846f4	JEŠTĚ JEDNU
+a79d4f2	ODEJÍT
+693f697	ŠTĚSTÍ ZAČÁTEČNÍKA
+641ad58	ŠŤASTNÁ SÉRIE
+fc45931	Uvítací bonus pro nové hráče: během prvních <b>{0} rukou</b> je krupiérova bota namíchaná ve tvůj prospěch, takže vyhraješ téměř každou ruku.
+576c683	Během dalších <b>{0} rukou</b> výhoda postupně slábne a pak je u každého stolu standardní, férový blackjack z namíchané boty o 6 balíčcích (blackjack vyplácí 3 ku 2, krupiér stojí na všech 17).
+7fb55b3	Výhoda teď: <b><color=#7CFC9A>{0} %</color></b>   Zbývá rukou: <b>{1}</b>
+d4f8fe0	Během dalších <b>{0} rukou blackjacku</b> se sázkou až <b>{1} žetonů</b> má každá karta <b>{2} %</b> šanci, že přijde ve tvůj prospěch (stejná výhoda jako štěstí začátečníka).
+0a5fc06	Při dobré hře to znamená výhru asi v <b>{0} %</b> rukou, oproti asi {1} % ve standardním blackjacku. Vyšší sázky jsou standardní blackjack a ruce nespotřebovávají. Až ruce dojdou, je u každého stolu opět standardní, férový blackjack.
+c3a8946	ROZUMÍM
+8dfc44a	CHCEŠ ZPĚT SVÉ ŠTĚSTÍ?
+272a97f	Štěstí začátečníka skončilo: odteď je u každého stolu standardní, férový blackjack. Šťastná série na čas vrátí výhodu.
+06b7689	DENNĚ
+4035996	DENNÍ SÉRIE
+fbe7f18	DNÍ V ŘADĚ
+7a46866	DNES
+4753707	SLEDOVAT REKLAMU
+6bb45f3	KOUPIT
+62a945f	ZMRAZENÍ SÉRIE
+ba5b1de	Zmrazení série udrží tvou sérii naživu v den, kdy nehraješ. Můžeš jich mít až {0}.\n\nKoupit jedno za {1} žetonů?
+38c6090	Zmrazení série připraveno.
+8fe681f	Nedostatek žetonů na zmrazení.
+1507c40	ZRUŠIT
+457d20f	DENNÍ ROZTOČENÍ
+9623247	ROZTOČIT
+ac5ef96	Šance:
+1200f20	{0} %
+003a689	Vyhrál jsi {0} žetonů!
+f757137	DNEŠNÍ MISE
+7b7f9e2	Rekord: {0} dní
+9554fea	Hraj každý den a buduj sérii
+5c8dbb8	Dnešní cíl splněn! Uvidíme se zítra.
+1aeb9a1	Dnes: {0} / {1} kol (jakákoli hra)
+bb92856	Zmrazení série: {0} / {1}
+0ec6216	Zachraň sérii v den, který vynecháš. +1 každých 7 dní.
+cc0a745	PLNO
+419a962	ŽÁDNÉ VIDEO
+2dabd99	REKLAMA BRZY
+f12e166	Bonus za sérii: výhry ×{0}
+80948a4	Jedno roztočení zdarma každý den
+596b5e0	DALŠÍ  {0}
+7f7e7fc	Vše hotovo! Bonus vyzvednut.
+03a0f2a	Nové mise o půlnoci.
+4784874	Splň všechny tři: +{0} bonusových žetonů
+42c5cda	HRÁT
+337211e	HRY
+8f5e3bd	Táhni vlevo pro chůzi  •  Táhni vpravo pro rozhlížení  •  Klepni a jdi tam
+d00d221	Pouze 18+  •  Žetony jsou pro zábavu: žádná peněžní hodnota, nikdy je nelze vyměnit za peníze ani ceny
+b60f038	Otevíráme dveře...
+2e5bcce	Vítej! Tvých {0} uvítacích žetonů je připraveno. Stoly jsou přímo před tebou!
+7ef7ae3	+{0} žetonů zdarma! Další za {1} h.
+5d82af9	Žetony zdarma se doplňují každých {0} h. Další za {1}.
+5469985	{0} h {1} min
+bb65beb	{0} min {1} s
+ac8ba93	UDRŽ SVOU SÉRII
+560bfa1	Chceš připomenutí ve večerech, kdy jsi ještě nehrál, a když jsou žetony zdarma připraveny? Nikdy víc než to a v Nastavení to můžeš vypnout.
+b724a40	PŘIPOMEŇ MI TO
+9e0c898	+{0} žetonů připraveno!
+1207e28	Podívej se na video: {0}
+db3655b	Další žetony zdarma za {0}
+4ca9be5	BLACKJACK
+9a612b1	4 stoly  •  vyplácí 3 ku 2
+1194439	AUTOMATY
+6555152	Lucky Ace 7s  •  10 linií
+255b1a1	RULETA
+6df1551	Evropská s jednou nulou
+379b146	JSI VYČERPANÝ
+340e5c4	Tvoje energie je na nule. Vezmi si něco na baru a hraj dál, nebo se vrať později: energie se pomalu obnovuje, když jsi pryč.
+a517396	JÍT NA BAR
+7c7227f	VYBER SI STŮL
+c963de3	SÁZKY
+c433657	ÚROVEŇ {0}
+083ac39	POSADIT SE
+9698219	POTŘEBA {0}
+34b737e	Dosáhni úrovně {0}, abys tu mohl hrát. Máš úroveň {1}.
+6cc19a9	KASINO
+6e946b7	DD
+4a3a892	MM
+2857a6a	RRRR
+9d1fece	DEN
+d3bb0c3	MĚSÍC
+c0f0cad	ROK
+43985ff	KDY JSI SE NARODIL?
+293fda2	Žetony slouží pouze k zábavě. Nemají žádnou peněžní hodnotu a nikdy je nelze vyměnit za peníze ani ceny.
+3e9128d	PROMIŇ, NEMŮŽEŠ HRÁT
+b5e8985	{0} je dostupné pouze pro dospělé.
+bb1b380	ODEJÍT
+d9f9432	Zavírá se za {0}...
+c6e102d	ŘEKNI NÁM O SOBĚ
+31120ce	Podle toho vybereme hostitele, krupiéry a obsluhu baru. Kdykoli to můžeš změnit v Nastavení.
+49e8df9	JSEM MUŽ
+85abe81	JSEM ŽENA
+76cc98c	NECHCI UVÁDĚT
+964daf7	VSTOUPIT DO KASINA
+2efb69a	Tvá dnešní obsluha:
+c10e749	Strana {0} z {1}
+2a3ffd9	JAZYK
+c673535	AUTOMATICKY
+d1245d2	ZEMĚ
+15fc12b	Vítejte! Sázky, prosím.
+531fb3f	Na tuhle sázku nemáš dost žetonů.
+380eb75	Limit stolu je {0} na roztočení.
+55ad592	ZPĚT
+8f191f9	CELKOVÁ SÁZKA  {0}
+82e1181	Klepni na hrací plochu a polož žetony
+bb19a75	Sázky jsou uzavřeny!
+5becf07	ZELENÁ
+bc74f4f	zelená
+7898801	červená
+466bc8c	černá
+f2edfbf	Jaký zásah! Gratuluji!
+b252caf	Výhra! Vyhráváš {0}.
+8587d14	VÝHRA  +{0}
+b862a2b	{0} {1}. Vrací se ti {2}.
+a306d0a	VRÁCENO  {0}
+af3134d	Tentokrát bez výhry
+84122e7	Sázky, prosím.
+52205f4	Počkej, až se kulička zastaví.
+c4b9243	NASTAVENÍ
+44d863e	OBECNÉ
+2bbca79	GRAFIKA
+955c8b4	ZVUK
+c701f5f	DOTYK
+efcc94a	MYŠ
+8433628	OVLADAČ
+d868a50	VIBRACE
+f8692c7	18+ • Žetony nemají peněžní hodnotu • Písma: Bebas Neue, Poppins, Noto (SIL OFL) • Hranice: Natural Earth • Cenová data: Světová banka
+da46447	OBSLUHA KASINA
+594b81e	ŽENY
+69d3313	MUŽI
+b4325d3	SMÍŠENÁ
+414594a	PŘIPOMENUTÍ
+6cac87b	Žetony zdarma připraveny a večerní pobídka předtím, než by série skončila.
+e43b2e0	ZKONTROLOVAT ZNOVU
+7c9e8f9	CENOVÝ REGION
+495c70e	Nejrychlejší: kasino jak je namalované, nic navíc.
+b052523	Leštěné podlahy, dřevo a zlato odrážejí sál.
+6bd30d7	Filmový vzhled: barevné ladění, zrno, záře, paprsky světla, živá pleť.
+21b6e1d	Filmový objektiv: ostrost sleduje tvůj pohled, odlesky na světlech, prach v paprscích.
+fb7c2e8	KVALITA
+d8b9679	NÍZKÁ
+f68525a	STŘEDNÍ
+d77d0b2	VYSOKÁ
+9289eee	ULTRA
+637e313	ROZLIŠENÍ
+2e7b141	Nižší je měkčí, ale telefon méně hřeje a šetří baterii.
+93dcfb5	REŽIM ZOBRAZENÍ
+3c6eac3	CELÁ OBRAZOVKA
+f3690b1	V OKNĚ
+cfa6200	VYHLAZOVÁNÍ HRAN
+ad50489	VYP.
+f178804	Vyhlazuje zubaté hrany v kasinu.
+4266288	SNÍMKOVÁ FREKVENCE
+d031ab0	{0} FPS
+a2b7514	30 FPS šetří baterii a starší telefony se tolik nehřejí.
+0babcee	V-SYNC
+6656e25	ZORNÉ POLE
+244aadb	ZOBRAZIT FPS
+41c8f6e	CELKOVÁ HLASITOST
+bf3af1f	HUDBA
+bd80907	ZVUKOVÉ EFEKTY
+d098036	HLASY OBSLUHY
+93c6484	Šum, který obsluha dělá, když mluví.
+16bf71a	ZTLUMIT NA POZADÍ
+85b2ee7	Ztiší kasino, když jsi v jiném okně.
+8e3634e	CITLIVOST POHLEDU
+880dc05	Jak rychle tažení otáčí pohled.
+750c60f	Jak rychle tažení myší otáčí pohled.
+8b988eb	OBRÁTIT POHLED VLEVO / VPRAVO
+cacf0cc	OBRÁTIT POHLED NAHORU / DOLŮ
+2d13b68	ROZLOŽENÍ TLAČÍTEK
+50c3f10	AUTO
+b471e5c	PROHODIT MENU / ZOBRAZENÍ
+d9a59f1	CITLIVOST PÁČKY
+ec14343	Jak rychle pravá páčka otáčí pohled.
+a79af23	OBRÁTIT PÁČKU VLEVO / VPRAVO
+acfc66e	OBRÁTIT PÁČKU NAHORU / DOLŮ
+56bb461	NÁPOVĚDA OVLADAČE
+51cf49a	Ukazuje, co dělá každé tlačítko, když hraješ s ovladačem.
+dff7431	VIBROVAT NA
+34139ab	TELEFON
+15ee988	OBOJÍ
+465cc91	Auto: ovladač, když je připojen, jinak telefon.
+f6fed84	VIBRACE TELEFONU
+8e97fa7	SÍLA V TELEFONU
+486ba2d	VIBRACE OVLADAČE
+8008889	SÍLA V OVLADAČI
+ea9233e	AUTOMATICKY ({0})
+167dda7	{0} otevře Nastavení, {1} otevře Denně.
+29a4ef9	Není připojen žádný ovladač.
+558ecd2	Připojeno: {0}. Zobrazují se tlačítka {1} (A vpravo potvrzuje).
+d6eee9e	Připojeno: {0}. Zobrazují se tlačítka {1}.
+78525d5	BAR
+099db9f	ŠTĚSTÍ
+b4a8b06	Žetony, štěstí a jídlo jsou virtuální předměty pouze pro zábavu: žádná peněžní hodnota, nelze je vyměnit za peníze ani ceny.
+e2a28c9	Každá karta má takovou šanci, že přijde ve tvůj prospěch, u sázek v blackjacku až do {0} žetonů (vyšší sázky jsou standardní a ruce nespotřebovávají). Začíná po štěstí začátečníka; silnější balíčky se používají jako první.
+04fbc6d	Povol přístup k poloze a získej cenu pro svou zemi
+2ae87fc	Nákupy nejsou v této verzi hry dostupné.
+8239a84	TESTOVACÍ OBCHOD (žádné skutečné peníze)
+173d916	energie
+b2c67eb	+{0} % ŽETONŮ
+58e8011	rukou: {0}
+ce80712	vyhraje asi {0} % z nich
+c69e8ee	LUCKY ACE 7s
+fc99288	CELKOVÁ SÁZKA
+c1c00cd	VÝHERNÍ TABULKA
+3930abd	HODNĚ ŠTĚSTÍ!
+67b6973	K roztočení potřebuješ aspoň 10 žetonů.
+5aa1edb	ZÍSKAT ŽETONY
+f5a1812	Sázka snížena na částku, kterou pokryješ.
+5c63f61	MEGA VÝHRA!
+652544f	VELKÁ VÝHRA!
+91bc41c	VRÁCENO {0}
+3714283	BEZ VÝHRY
+33c0faa	LINIE {0}: {1} × {2} = {3}
+9f59e6e	HVĚZDY ×{0} = {1}
+d6eee90	Třešeň
+4459b79	Citron
+09fb6aa	Pomeranč
+cb92e50	Švestka
+d419866	Zvonek
+e496fd2	Bar
+63abb56	Sedmička
+b3850e0	Diamant
+fc2b5a9	Eso
+85a7de6	Hvězda
+c31b035	HVĚZDY vyplácejí kdekoli: 5 = {0}× sázka, 4 = {1}× sázka, 3 = {2}× sázka.
+f97509c	ESO je divoká karta: nahradí každý symbol kromě hvězdy.
+3e8bc69	Výhry na liniích jsou násobky sázky na linii (celková sázka ÷ 10), zleva doprava od prvního válce.
+523f8dc	VÝPLATNOST: {0} % z dlouhodobého hlediska. Každé roztočení je nezávislé a náhodné.
+e0c705d	Chůze
+b8db515	Pohled
+503d46d	Tlačítka
+c7f73bb	Nastavení
+728298d	Denně
+ab166bd	Upravit
+76cdb95	Pohyb
+8598222	Vybrat
+bbfa773	Zavřít
+b52b36b	Zpět
+ab37588	VYČERPÁN
+9b11a09	ŠTĚSTÍ ZAČÁTEČNÍKA {0} %
+0c94e98	ZBÝVÁ RUKOU: {0}
+51ed273	ŠŤASTNÁ SÉRIE {0} %
+3401470	RUKOU: {0}  •  SÁZKY DO {1}
+f481cc6	ÚROVEŇ
+0139615	VÍTEJTE
+daad514	PROMLUVIT S HOSTESKOU
+bcefb10	Cesta a tipy
+c28e782	ŽETONY  •  BONUSY
+0c69ec4	KOUPIT ŽETONY
+78c0727	Pokladna
+1737fab	KOKTEJLY  •  SVAČINY  •  ENERGIE
+9e008ae	JÍDLO A PITÍ
+f7881e8	Bar
+0e979ed	BLACKJACK VYPLÁCÍ 3 KU 2
+eea0d12	KRUPIÉR MUSÍ STÁT NA 17
+4db37bf	HRÁT BLACKJACK
+0ffdd99	Stůl {0}  •  sázky {1} až {2}
+b4f938b	HRÁT NA AUTOMATECH
+6b7caea	SÁZKY, PROSÍM
+26b1e39	HRÁT RULETU
+910a1ed	Evropské kolo  •  přímá sázka vyplácí 35 ku 1
+7ef0215	OBJEDNAT SI DRINK
+fe38d73	{0} ho přinese
+f7b6306	{0} se otevře na úrovni {1}. Máš úroveň {2}: každé odehrané kolo se počítá.
+d85f1ad	Tento stůl vyžaduje aspoň {0} žetonů.
+cbfe016	Stoly na blackjack jsou přímo před tebou. Dojdi k jednomu a posaď se!
+64d9faf	Pokladna je tady po tvé pravici a bar je podél levé stěny.
+e4c6e0b	Unavený? Svačina na baru ti hned doplní energii.
+d5ab68f	Klepni kamkoli na podlahu a dojdeš tam. Klepni na stůl a posadíš se.
+cc21f74	MALÉ
+dc01dec	VELKÉ
+5fb90b0	JAKÁKOLI TROJICE
+9c716f1	Stůl hold'em
+3b6ab84	Zahraj 8 rozdání hold'emu
+6c617ca	Vyhraj 4 rozdání hold'emu
+44ce500	Zahraj 10 rozdání baccaratu
+b90cff7	Vyhraj 5 rozdání baccaratu
+3e4dfa9	Zahraj 15 rozdání videopokeru
+854fe20	Zahraj 8 kol sic bo
+dfddac1	Vyhraj 4 kola sic bo
+2973ea7	Hoď kostkami 15krát v crapsu
+737be17	Vyhraj 4 hody v crapsu
+4dbb81d	Udělej ve videopokeru flush nebo lepší
+19aa07b	Královská postupka
+cf83e72	Čistá postupka
+d27ba03	Poker
+dbe8641	Full house
+7c936d7	Flush
+2501c65	Postupka
+ca1a0d4	Trojice
+6876b40	Dva páry
+2537f88	Pár
+b4b323e	Nejvyšší karta
+f70bfdc	Kluci nebo lepší
+98fd5af	BACCARAT
+df66d5a	Vítej u baccaratu! Hráč, Bankéř, nebo Remíza?
+5055efd	HRÁČ
+3f90696	REMÍZA
+0d75f63	BANKÉŘ
+0ebd5a4	POSLEDNÍ VÝSLEDKY
+511993d	H
+ae4f281	B
+c2c53d6	R
+781246e	Vyber žeton a klepni na Hráč, Bankéř nebo Remíza
+11023a0	REMÍZA  {0}
+503d5f1	VYHRÁVÁ HRÁČ  {0} NA {1}
+0eb4be5	VYHRÁVÁ BANKÉŘ  {0} NA {1}
+7859af1	CRAPS
+4083dbd	Vítej u crapsu! Vsaď na Pass Line a hoď.
+d266326	ŠESTKA
+c506f3a	DEVÍTKA
+987f4e9	FIELD
+71c1b2b	2 3 4 9 10 11 12  •  2 a 12 platí dvojnásob
+d0ac294	JAKÁKOLI 7
+9b2f0c3	JAKÝKOLI CRAPS
+f62ac59	DON'T PASS BAR
+6080ade	1:1  •  12 je remíza
+c07247a	PASS LINE
+6229f78	ODDS
+29bf819	skutečný kurz
+387d7a5	ZAP
+229c9cc	Odds se sázejí za Pass Line, jakmile je bod.
+c2c8e82	Odds potřebují sázku na Pass Line.
+1784d43	Tvoje odds jsou na maximu.
+fdc3442	Sázky na linii se dávají při úvodním hodu.
+97ce95b	NA STOLE  {0}
+a895ec0	Bod je {0}: hoď ho znovu dřív než 7. Odds za tvou Pass Line platí skutečný kurz.
+d9f9d65	HODIT
+bcf32ef	Bod je {0}.
+5b450b4	{0}! Bod padl. Výhra!
+9746e08	Sedmička. Nový házející, nový úvodní hod.
+4fc4664	{0}, natural! Pass Line vyhrává.
+203f466	{0}, craps. Linie prohrává.
+0f8e260	Počkej, až se kostky zastaví.
+6a98cfe	ODEJÍT OD STOLU?
+8430088	Tvoje sázka na linii pořád hraje na bod {0}. Když teď odejdeš, propadne.
+0e138d1	HOLD'EM
+5e023be	Vítej u hold'emu! Vsaď ante a podíváme se na karty.
+0cd62f5	ANTE
+5e9f331	BLIND
+3b935ab	BLIND PLATÍ
+20713a4	Krupiér se kvalifikuje s párem nebo lepším
+d37267c	CHECK
+9a4e316	FOLD
+88313c4	VSADIT {0}×
+42c6fea	Ante {0} + blind {0}. Nech si ještě {1} na navýšení.
+1abb2f2	Klepni na žetony a nastav ante. Blind je stejný.
+f541cec	Check, nebo sázka trojnásobku či čtyřnásobku ante?
+fc74a79	Navyš teď o 4× nebo 3× ante, nebo dej check a podívej se na flop.
+b687501	Poslední šance: vsaď 1× ante, nebo dej fold a přijdeš o ante i blind.
+400009c	Vsaď teď 2× ante, nebo dej check a podívej se na poslední dvě karty.
+f4abdf9	Tady je flop.
+0e51f2c	Turn a river.
+cc856d3	Podíváme se, co mám.
+6ba1f3e	Krupiér se nekvalifikoval: ante se ti vrací.
+cf1fdc5	Fold. Další rozdání je tvoje.
+177fab0	Ultimate Texas Hold'em
+c4917b9	Hráč, Bankéř nebo Remíza
+6e4fe7b	VIDEOPOKER
+73cabd3	Jacks or Better
+91c4555	SIC BO
+d810061	Tři kostky  •  velké nebo malé
+85ab7ec	Pass Line  •  Field  •  Odds
+35d8db6	Vítej u sic bo! Velké, malé, nebo něco odvážnějšího?
+3d05514	Limit stolu je {0} na hod.
+86ade94	ZATŘÁST
+b69304e	TROJICE {0}!
+5d1bcc6	DRŽENO
+36a21ba	Rozdej, podrž karty, které chceš, a jednou vyměň.
+99fa8e8	DRŽET
+249d1c0	RADA
+7aab1bd	VYMĚNIT
+5595eb4	Klepni na karty, které chceš podržet, a pak vyměň.
+1c05db9	HRÁT HOLD'EM
+e353e5f	Ultimate Texas Hold'em  •  ante od {0} do {1}
+6470369	HRÁT BACCARAT
+bbe0077	VELKÉ  •  MALÉ  •  TROJICE
+3ba448f	HRÁT SIC BO
+097c59c	Tři kostky  •  velké nebo malé platí 1 : 1
+af2ca30	PASS LINE  •  FIELD  •  ODDS
+f18398e	HRÁT CRAPS
+eeede6d	Pass Line platí 1 : 1  •  odds platí skutečný kurz
+34e5170	HRÁT VIDEOPOKER
+f71bdfb	Jacks or Better  •  plná tabulka 9/6
+4a6c087	JACKS OR BETTER  •  KRÁLOVSKÁ POSTUPKA PLATÍ 800×
+370a133	Automaty jsou u pravé stěny, videopoker u zadní a ruleta úplně vzadu.
+8298d28	Hold'em je v levém zadním rohu, za barem.
+a2a111f	Baccarat je hned vlevo u vchodu.
+b7193bc	Sic bo je v rohu za pokladnou: tři kostky, velké nebo malé.
+25320c8	Stůl na craps je vpravo před automaty. Vsaď na Pass Line a hoď!
+dc81691	Sofie
+4d9936f	Elena
+3aa0674	Mia
+b724114	Valentina
+34d3f7f	Chloe
+0fc9dd6	Isabela
+bbd3e35	Nadia
+eac677d	Aria
+baaf10f	Luna
+8641381	Kamila
+eeee9b7	Aurora
+8a59f05	Bianca
+5a0fc29	Serena
+bf38aa5	Marco
+cfaf50a	Leo
+5815f22	Adrian
+cbede02	Lucas
+f0b9995	Viktor
+7b37259	Daniel
+aaac72d	Gabriel
+2f8f37e	Ethan
+a01126e	Julian
+3e05c90	Rafael
+e1ae457	Mateo
+3398634	Nico
+7aa2d07	Enzo
+1920e2f	Úvodní hod: vsaď na Pass Line a hoď. 7 nebo 11 vyhrává; 2, 3 nebo 12 prohrává. Sázky place začínají platit, jakmile je bod.
+99f4934	LUCKY ACE 7s  •  VYPLÁCÍ AŽ 2 500× SÁZKY NA LINII

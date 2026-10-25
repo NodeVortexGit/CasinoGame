@@ -23,7 +23,8 @@ namespace Casino.World
     /// <summary>A place the player can use: a table, the cashier, the bar, a member of staff.</summary>
     public sealed class Spot
     {
-        public string Title, Subtitle;
+        /// <summary>What the action button says, and the line under it, in the player's language.</summary>
+        public Func<string> Title, Subtitle;
         public Icon Icon = Icon.Play;
         public ButtonStyle Style = ButtonStyle.Gold;
         public Vector3 Focus;

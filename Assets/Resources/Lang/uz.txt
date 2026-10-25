@@ -1,0 +1,1004 @@
+KICHIK
+KATTA
+TOQ
+JUFT
+ISTALGAN UCHLIK
+Bir hovuch fishka
+Bir dasta fishka
+Bir patnis fishka
+Bir javon fishka
+ENG MASHHUR
+Fishka xazinasi
+Katta o‘yinchi seyfi
+ENG FOYDALI
+Gazli suv
+Espresso
+Energetik ichimlik
+Klub sendvichi
+Burger taomi
+Steyk kechki ovqati
+TO‘LIQ TO‘LDIRISH
+Omadli seriya
+Qaynoq seriya
+ENG KO‘P OMAD
+Bronza stol
+Kumush stol
+Oltin stol
+Olmos stol
+Hold'em stoli
+To‘g‘ri yilni kiriting.
+To‘g‘ri oyni kiriting (1-12).
+To‘g‘ri kunni kiriting.
+Bu sana kelajakda.
+Stolimga xush kelibsiz! O‘ynashga tayyormisiz?
+Sizni ko‘rganimdan xursandman. O‘tiring!
+Salom! Kartalar yangi, men ham.
+Xush kelibsiz! Keling, bu kechani ajoyib qilamiz.
+Tayyor bo‘lganingizda tikishni qo‘ying.
+Fishkalar stolga, kartalarni ko‘ramiz.
+Nima uchun o‘ynaymiz?
+Voy, katta tikish! Uslubingiz menga yoqadi.
+Mana bu tikish. Boshladik!
+Bugun kechqurun jasursiz, a?
+Hammasimi?! Yuragim urib ketyapti!
+Hammasi bitta qo‘lga. Qo‘rqmasdan!
+Blackjack! Aql bovar qilmaydi!
+Yigirma bir, shunchaki!
+Blackjack! Kartalar bugun sizni yaxshi ko‘radi.
+Zo‘r o‘ynadingiz!
+G‘olib! Barakalla.
+Ishlaringiz yurishib ketdi!
+Bu sizniki.
+Qanday g‘alaba! Hamma bu stolga qarayapti!
+Ulkan! Bugun yonib turibsiz!
+Juda yaqin edi! Keyingisi sizniki.
+Bu safar kazinoga omad kuldi.
+Qo‘ying, yangi qo‘l kelyapti.
+Voy, bitta karta ortiqcha.
+Oshib ketdingiz! Eng zo‘rlar bilan ham bo‘ladi.
+Durang. Hech kim yutqazmaydi!
+Durang. Fishkalaringiz xavfsiz.
+Men oshib ketdim! Omadingiz bor.
+Menga ko‘p bo‘ldi. Siz yutdingiz!
+Kazino uchun blackjack, kechirasiz!
+Dilerda blackjack. Omadsizlik.
+Tuz ko‘rsatyapman. Sug‘urta?
+Bo‘lamiz! Yutish uchun ikki imkoniyat.
+Ikki baravar. Jasur qadam!
+Ikki baravar qiling! Bitta karta keladi.
+Yangi poyabzal, aralashtiryapman!
+Kamayib qoldimi? Kassa sizni to‘ldiradi.
+Fishkalar kamaymoqda. Yana olasizmi?
+Fishkalar tugadi! Kassaga boring yoki bepul fishka oling.
+Dastangiz bo‘sh. Kassa aynan orqangizda.
+Juda charchagan ko‘rinasiz! Barda biror narsa yeng.
+Kuchingiz tugadimi? Bar sizga g‘amxo‘rlik qiladi.
+Shoshilmang.
+Qachon tayyor bo‘lsangiz!
+Tun hali yosh.
+Yangi boshlovchi omadi siz bilan!
+Bugun kartalar siz tomonda!
+Yangi boshlovchi omadi tugadi. Bundan buyon o‘yin adolatli!
+Kazinoga xush kelibsiz! O‘rningiz sizni kutmoqda.
+Xayrli kech! Bugun stollar qizg‘in.
+Yana xush kelibsiz! Omadli his qilyapsizmi?
+O‘ynashni boshlash uchun stolga bosing!
+Ko‘proq fishka kerakmi? To‘g‘ri darchaga keldingiz.
+Kattaroq dastalar, kattaroq bonuslar!
+Ochmisiz? Menyudan istaganingizni tanlang.
+Ozgina ovqat energiyangizni yuqori tutadi!
+Stolimga xush kelibsiz!
+Mana siz! Bu yer allaqachon yorishib ketdi.
+O‘zingizni uydagidek his qiling. Bugun kecha hammasi siz uchun.
+Bu tabassumni yaxshi ko‘raman. Omadli kechami?
+Bo‘shashing, bu yerda ishonchli qo‘ldasiz.
+Hoy, siz! Darchamga kirib o‘tasiz deb umid qilgandim.
+Do‘stona yuzni ko‘rish doim yoqimli.
+Qarang, kim kelibdi! Maza qilyapsizmi?
+Salom, chiroyli!
+Bugun uslubingiz menga yoqadi.
+Hoy, sizni yana ko‘rganimdan xursandman!
+Kechangiz yaxshimi? Bunga loyiqsiz.
+Ehtiyot bo‘ling, sizga muxlislik qilishni boshlashim mumkin.
+Sevimli o‘yinchim qaytdi!
+Yonimga o‘tiring, sizga chiroyli narsa tarqataman.
+Siz bilan bu stol ancha qiziqarli.
+Ketyapsizmi? Tun hali yosh!
+Qani, yana bitta qo‘l. Yaxshi sezgim bor!
+Meni hozir tashlab keta olmaysiz, endi boshladik!
+Oxirgi imkoniyat! Keyingi qo‘l katta bo‘lishi mumkin...
+Mayli, mayli. O‘rningizni iliq saqlayman. Qaytishga va’da berasizmi?
+Hali seriya yo‘qmi? Bugun raund o‘ynang ({2}) va men sanashni boshlayman.
+Yangi boshlanish! Raundlar ({2}) va alangangiz yonadi.
+Har kuni keladiganlarning kichik ro‘yxatini yuritaman. Siz unda yo‘qsiz... hozircha.
+{1}-kun sizni kutmoqda. Qolgan raundlar: {2}!
+Ketma-ket kunlar: {0}... hozir to‘xtamaysiz-ku, a?
+Alangangiz bugun biroz sovuq ko‘rinadi. Raundlar ({2}) uni isitadi.
+Sanab yuribman: {0} kun. Keling, {1} qilamiz.
+Sezmadim deb o‘ylamang. Seriyani saqlash uchun qolgan raundlar: {2}!
+Ketma-ket kunlar: {0}? Bu yer sizga yoqayotganga o‘xshaydi.
+Seriyangiz bugun uchun xavfsiz. Endi shunchaki maqtanyapsiz.
+{0}-kun tayyor. Ertaga shu vaqtdami?
+{0} kun! Sizga joy saqlab qo‘yishim kerak.
+Mana: seriyangizning birinchi kuni! Ertaga qayting, ikki qilamiz.
+Butun hafta ketma-ket! Rostdan ham hayratdaman.
+O‘ttiz kun! Deyarli shu yerda ishlaysiz.
+Yuz kun. Hammaga siz haqingizda gapiraman.
+Allaqachon ketma-ket {0} kun! O‘zingizga qarang.
+Seriya saqlab qolindi: {0}-kun! Uddalashingizni bilardim.
+{0}-kun! Garov o‘ynayman, {1}-kunga yetmaysiz.
+{0} kun... mayli, maqtanchoq.
+10 qo‘l blackjack o‘ynang
+5 qo‘l blackjackda yuting
+Blackjack yig‘ing
+Blackjackda 500 fishka yuting
+Slotlarni 20 marta aylantiring
+5 slot aylanishida yuting
+Slotlarda tikishingizning 5 baravarini yuting
+5 raund ruletka o‘ynang
+3 ruletka aylanishida yuting
+Bitta raqamni to‘g‘ridan-to‘g‘ri toping
+8 qo‘l hold'em o‘yna
+4 qo‘l hold'em yut
+10 qo‘l bakkara o‘yna
+5 qo‘l bakkara yut
+15 qo‘l video poker o‘yna
+8 raund sic bo o‘yna
+4 raund sic bo yut
+Crapsda zarlarni 15 marta tashla
+Crapsda 4 marta yut
+Video pokerda flesh yoki undan yaxshisini yig'
+Royal flesh
+Strit flesh
+Kare
+Ful xaus
+Flesh
+Strit
+Uchlik
+Ikki juft
+Juft
+Yuqori karta
+GPS joylashuvi
+mobil tarmoq
+internet aloqasi
+qurilma sozlamalari
+test mamlakati
+tasdiqlanmagan (standart narx)
+noma’lum
+1-12
+2-12
+3-12
+2 ga 1
+QIZIL
+QORA
+Valet yoki yuqori
+MAMLAKATINGIZ UCHUN ADOLATLI NARXLAR
+Do‘kon narxlari mamlakatingiz iqtisodiyotiga moslashtiriladi, shunda o‘yinchilar hamma joyda adolatli narx to‘laydi.
+Mamlakatingizni aniqlash uchun taxminiy joylashuvingizni bir marta tekshiramiz. U qurilmangizda mamlakatga moslanadi va hech qayerga yuborilmaydi. Rad etsangiz, standart narxlar qo‘llaniladi.
+DAVOM ETISH
+Kazinodan chiqasizmi?
+Fishkalaringiz va yutuqlaringiz saqlandi.
+CHIQISH
+QOLISH
+Ochildi: {0}
+Seriya muzlatgichi kecha {0} kunlik seriyangizni saqlab qoldi.
+Muzlatgichlar ({0}) {1} kunlik seriyangizni saqlab qoldi.
+{0} kunlik seriyangiz tugadi. Yangisini boshlash uchun bugun raund o‘ynang ({1})!
+VAZIFA BAJARILDI
++{0} fishka
+BARCHA VAZIFALAR BAJARILDI!
+Kunlik bonus +{0} fishka. Yangi vazifalar ertaga.
+DARAJA {0}!
+Bosqich! +{0} fishka
+Davom ettirish uchun ertaga qayting
++1 seriya muzlatgichi
+{0} KUNLIK SERIYA!
+Bu versiyada xaridlar mavjud emas.
+Xarid amalga oshmadi. Sizdan pul yechilmadi.
++{0} fishka qo‘shildi!
+{0}: {1} qo‘l, {2}% omad, yangi boshlovchi omadidan keyin
+{0}: {1} qo‘l, {2}% omad!
+{0}: +{1}% energiya
+Bu qurilmada mavjud emas
+Bu tarmoqda videolar yuklanmaydi
+Ertaga qayting
+{0} soniyadan keyin tayyor
++{0} fishka (bugun {1} qoldi)
++{0} bepul fishka!
++1 seriya muzlatgichi!
+Hozircha video yo‘q. Birozdan keyin qayta urinib ko‘ring.
+BRONZA
+KUMUSH
+OLTIN
+OLMOS
+Menyu
+Ko‘rinish
+Xoch
+Doira
+Kvadrat
+Uchburchak
+Hududingiz tekshirilmoqda...
+Tasdiqlanmagan ({0}): standart narxlar
+{0} ({1}): narxlar {2} da
+Eslatmalar
+Bepul fishkalar tayyor va seriya eslatmalari
+Bepul fishkalaringiz tayyor
+Lucky Ace’da sizni {0} fishka kutmoqda.
+{0} kunlik seriyangizni saqlang
+Yarim tunda nolga tushmasligi uchun bugun raund o‘ynang ({0}).
+BAKKARA
+Bakkaraga xush kelibsiz! O‘yinchi, Bankir yoki Durang?
+O‘YINCHI
+DURANG
+BANKIR
+SO‘NGGI NATIJALAR
+O
+B
+D
+BEKOR QILISH
+TOZALASH
+QAYTA TIKISH
+TARQATISH
+Bu tikish uchun fishka yetarli emas.
+Stol maksimumiga yetildi
+JAMI TIKISH  {0}
+Fishka tanlang, so‘ng O‘yinchi, Bankir yoki Durangga bosing
+DURANG  {0}
+O‘YINCHI YUTDI  {0}–{1}
+BANKIR YUTDI  {0}–{1}
+YUTUQ  +{0}
+QAYTARILDI  {0}
+Bu safar yutuq yo‘q
+Avval bu qo‘lni tugating.
+Xush kelibsiz! Bugun yangi boshlovchi omadi siz bilan. Tikish qo‘ying!
+BLACKJACK 3 GA 2 TO‘LAYDI   •   DILER BARCHA 17 DA TO‘XTAYDI   •   SUG‘URTA 2 GA 1 TO‘LAYDI
+TIKISH
+KARTA
+TO‘XTASH
+IKKI BARAVAR
+BO‘LISH
+SUG‘URTALASH
+YO‘Q, RAHMAT
+TIKISH {0}+
+Fishka yetarli emas
+Diler tuz ko‘rsatmoqda. {0} ga sug‘urtalaysizmi?
+Sug‘urta to‘laydi: {0}
+Dilerda blackjack yo‘q. Sug‘urta yo‘qoldi.
+OSHIB KETDI
+DILER OSHIB KETDI
+BLACKJACK!
+G‘ALABA
+DURANG
+MAG‘LUBIYAT
+Yangi boshlovchi omadi tugadi. Omadli seriyangiz hozir boshlanadi.
+Yangi boshlovchi omadi tugadi. Bundan buyon standart blackjack.
+Omadli seriyangiz tugadi. Standart blackjackka qaytamiz.
+FISHKALAR TUGADI
+{0} bepul fishka uchun qisqa video ko‘ring yoki kassaga boring.
+Fishkalaringizni to‘ldirish uchun kassaga boring.
+BEPUL FISHKALAR
+KASSA
+KEYINROQ
+“{0}”
+YANA BIR QO‘L
+KETISH
+YANGI BOSHLOVCHI OMADI
+OMADLI SERIYA
+Yangi o‘yinchilar uchun xush kelibsiz bonusi: birinchi <b>{0} qo‘l</b> davomida diler poyabzali sizning foydangizga terilgan, shuning uchun deyarli har bir qo‘lni yutasiz.
+Keyingi <b>{0} qo‘l</b> davomida ustunlik asta-sekin so‘nadi, so‘ngra har bir stol aralashtirilgan 6 to‘plamli poyabzaldan tarqatiladigan standart, adolatli blackjack bo‘ladi (blackjack 3 ga 2 to‘laydi, diler barcha 17 da to‘xtaydi).
+Hozirgi ustunlik: <b><color=#7CFC9A>{0}%</color></b>   Qolgan qo‘llar: <b>{1}</b>
+Keyingi <b>{0} blackjack qo‘lida</b> <b>{1} fishka</b>gacha tikish bilan har bir kartaning sizning foydangizga tushish imkoniyati <b>{2}%</b> (yangi boshlovchi omadi bilan bir xil ustunlik).
+Yaxshi o‘yinda bu qo‘llarning taxminan <b>{0}%</b> ini yutadi, standart blackjackda esa taxminan {1}%. Kattaroq tikishlar standart blackjack bo‘lib, qo‘llarni sarflamaydi. Qo‘llar tugagach, har bir stol yana standart, adolatli blackjack bo‘ladi.
+TUSHUNDIM
+OMADINGIZNI QAYTARMOQCHIMISIZ?
+Yangi boshlovchi omadi tugadi: bundan buyon har bir stol standart, adolatli blackjack. Omadli seriya ustunlikni bir muddatga qaytaradi.
+CRAPS
+Crapsga xush kelibsiz! Pass Line'ga tikib, tashlang.
+OLTI
+TO‘QQIZ
+FIELD
+2 3 4 9 10 11 12  •  2 va 12 ikki barobar to‘laydi
+ISTALGAN 7
+ISTALGAN CRAPS
+DON'T PASS BAR
+1:1  •  12 durang
+PASS LINE
+ODDS
+haqiqiy koeffitsiyent
+O‘CHIQ
+YONIQ
+Ochko bo‘lganda odds Pass Line ortiga qo‘yiladi.
+Odds uchun Pass Line tikishi kerak.
+Odds tikishingiz maksimumda.
+Chiziq tikishlari birinchi tashlashda qo‘yiladi.
+STOLDA  {0}
+Birinchi tashlash: Pass Line'ga tiking, so‘ng tashlang. 7 yoki 11 yutadi, 2, 3 yoki 12 yutqazadi. Place tikishlari ochko chiqqandan keyin ishlay boshlaydi.
+Ochko {0}: uni 7 dan oldin yana tashlang. Pass Line ortidagi odds haqiqiy koeffitsiyentda to‘laydi.
+TASHLASH
+Ochko {0}.
+{0}! Ochko bajarildi. Yutuq!
+Yetti chiqdi. Yangi tashlovchi, yangi birinchi tashlash.
+{0}, natural! Pass Line yutadi.
+{0}, craps. Chiziq yutqazadi.
+Zarlar to‘xtaguncha kuting.
+STOLDAN KETASIZMI?
+Chiziq tikishingiz hali {0} ochkoda o‘ynamoqda. Hozir ketsangiz, uni yo‘qotasiz.
+KUNLIK
+KUNLIK SERIYA
+KETMA-KET KUN
+BUGUN
+REKLAMA KO‘RISH
+SOTIB OLISH
+SERIYA MUZLATGICHI
+Seriya muzlatgichi o‘ynamagan kuningizda seriyangizni saqlaydi. {0} tagacha saqlashingiz mumkin.\n\n{1} fishkaga bittasini olasizmi?
+Seriya muzlatgichi tayyor.
+Muzlatgich uchun fishka yetarli emas.
+BEKOR QILISH
+KUNLIK AYLANTIRISH
+AYLANTIRISH
+Imkoniyatlar:
+{0}%
+Siz {0} fishka yutdingiz!
+BUGUNGI VAZIFALAR
+Rekord: {0} kun
+Seriya qurish uchun har kuni o‘ynang
+Bugungi maqsad bajarildi! Ertaga ko‘rishamiz.
+Bugun: {0} / {1} raund (istalgan o‘yin)
+Seriya muzlatgichlari: {0} / {1}
+O‘tkazib yuborgan kuningizda seriyani saqlang. Har 7 kunda +1.
+TO‘LIQ
+VIDEO YO‘Q
+REKLAMA TEZ ORADA
+Seriya bonusi: sovrinlar ×{0}
+Har kuni bitta bepul aylantirish
+KEYINGI  {0}
+Hammasi bajarildi! Bonus olindi.
+Yangi vazifalar yarim tunda.
+Uchalasini bajaring: +{0} bonus fishka
+HOLD'EM
+Hold'em'ga xush kelibsiz! Ante qo‘ying, kartalarni ko‘ramiz.
+ANTE
+BLIND
+O‘YNASH
+BLIND TO‘LAYDI
+Diler juft yoki undan yaxshisi bilan saralanadi
+CHECK
+FOLD
+TIKISH {0}×
+Ante {0} + blind {0}. Oshirish uchun yana {1} saqlang.
+Ante uchun fishkalarga bosing. Blind teng.
+Check, yoki antening uch yoki to‘rt barobari?
+Hozir antening 4× yoki 3× barobariga oshiring yoki check qilib, flopni ko‘ring.
+So‘nggi imkoniyat: antening 1× barobarini tiking yoki fold qilib, ante va blind'ni yo‘qoting.
+Hozir antening 2× barobarini tiking yoki check qilib, oxirgi ikki kartani ko‘ring.
+Mana flop.
+Turn va river.
+Qani, menda nima bor ekan.
+Diler saralanmadi: antengiz qaytadi.
+Fold qildingiz. Keyingi qo‘l sizniki.
+O‘YINLAR
+Yurish uchun chapda suring  •  Qarash uchun o‘ngda suring  •  Borish uchun bosing
+Faqat 18+  •  Fishkalar ko‘ngilochar uchun: pul qiymati yo‘q, hech qachon pul yoki sovringa almashtirilmaydi
+Eshiklar ochilmoqda...
+Xush kelibsiz! {0} ta xush kelibsiz fishkangiz tayyor. Stollar to‘g‘ri oldinda!
++{0} bepul fishka! Yana {1} soatdan keyin.
+Bepul fishkalar har {0} soatda to‘ladi. Keyingisi {1} dan keyin.
+{0} soat {1} daq
+{0} daq {1} son
+SERIYANGIZNI SAQLANG
+Hali o‘ynamagan kechqurunlaringizda va bepul fishkalaringiz tayyor bo‘lganda eslatma kerakmi? Bundan ortiq hech qachon, va uni Sozlamalarda o‘chirib qo‘yishingiz mumkin.
+ESLATING
++{0} fishka tayyor!
+Video ko‘ring: {0}
+Keyingi bepul fishkalar {0} dan keyin
+BLACKJACK
+4 stol  •  3 ga 2 to‘laydi
+Ultimate Texas Hold'em
+O‘yinchi, Bankir yoki Durang
+SLOTLAR
+Lucky Ace 7s  •  10 chiziq
+VIDEO POKER
+Jacks or Better
+SIC BO
+Uchta zar  •  katta yoki kichik
+Pass Line  •  Field  •  Odds
+RULETKA
+Yevropa, bitta nol bilan
+SIZ JUDA CHARCHADINGIZ
+Energiya chizig‘ingiz bo‘sh. O‘ynashni davom ettirish uchun bardan biror narsa oling yoki keyinroq qayting: siz yo‘qligingizda energiya sekin tiklanadi.
+BARGA BORISH
+STOLINGIZNI TANLANG
+TIKISHLAR
+DARAJA {0}
+O‘TIRISH
+KERAK: {0}
+Bu yerda o‘ynash uchun {0}-darajaga yeting. Sizning darajangiz {1}.
+KAZINO
+KK
+OO
+YYYY
+KUN
+OY
+YIL
+QACHON TUG‘ILGANSIZ?
+Fishkalar faqat ko‘ngilochar uchun. Ularning pul qiymati yo‘q va hech qachon pul yoki sovringa almashtirib bo‘lmaydi.
+KECHIRASIZ, SIZ O‘YNAY OLMAYSIZ
+{0} faqat kattalar uchun.
+CHIQISH
+{0} dan keyin yopiladi...
+O‘ZINGIZ HAQINGIZDA AYTING
+Sizga mos boshlovchilar, dilerlar va bar xodimlarini tanlaymiz. Buni istalgan vaqtda Sozlamalarda o‘zgartirishingiz mumkin.
+MEN ERKAKMAN
+MEN AYOLMAN
+AYTMASLIKNI AFZAL KO‘RAMAN
+KAZINOGA KIRISH
+Bugungi xodimlaringiz:
+Sahifa {0} / {1}
+TIL
+AVTOMATIK
+MAMLAKAT
+Xush kelibsiz! Tikishlaringizni qo‘ying, iltimos.
+Stol limiti har aylantirish uchun {0}.
+Fishka qo‘yish uchun taxtaga bosing
+Tikishlar qabul qilinmaydi!
+YASHIL
+yashil
+qizil
+qora
+Qanday zarba! Tabriklaymiz!
+G‘olib! Yutug‘ingiz: {0}.
+{0} {1}. Sizga qaytadi: {2}.
+Tikishlaringizni qo‘ying, iltimos.
+Shar to‘xtaguncha kuting.
+SOZLAMALAR
+UMUMIY
+GRAFIKA
+OVOZ
+TEGINISH
+SICHQONCHA
+KONTROLLER
+TEBRANISH
+18+ • Fishkalarning pul qiymati yo‘q • Shriftlar: Bebas Neue, Poppins, Noto (SIL OFL) • Chegaralar: Natural Earth • Narx ma’lumotlari: Jahon banki
+KAZINO XODIMLARI
+AYOLLAR
+ERKAKLAR
+ARALASH
+ESLATMALAR
+Bepul fishkalar tayyor, va seriya tugashidan oldin kechki eslatma.
+QAYTA TEKSHIRISH
+NARX HUDUDI
+Eng tez: kazino chizilganidek, ortiqcha narsasiz.
+Sayqallangan pollar, yog‘och va oltin zalni aks ettiradi.
+Kino ko‘rinishi: rang tuzatish, donadorlik, nur, yorug‘lik nurlari, jonli teri.
+Kino obyektivi: fokus nigohingizni kuzatadi, chiroqlarda chiziqlar, nurlarda chang.
+SIFAT
+PAST
+O‘RTA
+YUQORI
+ULTRA
+ANIQLIK
+Pastrog‘i yumshoqroq, lekin telefon kamroq qiziydi va batareyani tejaydi.
+EKRAN REJIMI
+TO‘LIQ EKRAN
+OYNA
+CHETLARNI SILLIQLASH
+Kazinodagi notekis chetlarni silliqlaydi.
+KADR TEZLIGI
+{0} FPS
+30 FPS batareyani tejaydi va eski telefonlarni salqin saqlaydi.
+V-SYNC
+KO‘RISH MAYDONI
+FPS NI KO‘RSATISH
+UMUMIY OVOZ
+MUSIQA
+OVOZ EFFEKTLARI
+XODIMLAR OVOZI
+Xodimlar gaplashayotganda chiqaradigan g‘o‘ng‘ir ovoz.
+FONDA OVOZSIZ
+Boshqa oynada bo‘lganingizda kazino ovozini o‘chiradi.
+QARASH SEZGIRLIGI
+Surish ko‘rinishni qanchalik tez burishi.
+Sichqoncha bilan surish ko‘rinishni qanchalik tez burishi.
+QARASHNI TESKARI QILISH CHAP / O‘NG
+QARASHNI TESKARI QILISH YUQORI / PAST
+TUGMALAR JOYLASHUVI
+AVTO
+MENYU / KO‘RINISHNI ALMASHTIRISH
+DASTAK SEZGIRLIGI
+O‘ng dastak ko‘rinishni qanchalik tez burishi.
+DASTAKNI TESKARI QILISH CHAP / O‘NG
+DASTAKNI TESKARI QILISH YUQORI / PAST
+KONTROLLER MASLAHATLARI
+Kontroller bilan o‘ynaganingizda har bir tugma nima qilishini ko‘rsatadi.
+TEBRANISH
+TELEFON
+IKKALASI
+Avto: ulangan bo‘lsa kontroller, aks holda telefon.
+TELEFON TEBRANISHI
+TELEFON KUCHI
+KONTROLLER TEBRANISHI
+KONTROLLER KUCHI
+AVTOMATIK ({0})
+{0} Sozlamalarni ochadi, {1} Kunlikni ochadi.
+Kontroller ulanmagan.
+Ulandi: {0}. {1} tugmalari ko‘rsatilmoqda (o‘ngdagi A tasdiqlaydi).
+Ulandi: {0}. {1} tugmalari ko‘rsatilmoqda.
+BAR
+OMAD
+Fishkalar, omad va ovqat faqat ko‘ngilochar uchun virtual narsalar: pul qiymati yo‘q, pul yoki sovringa almashtirilmaydi.
+Har bir kartaning sizning foydangizga tushish imkoniyati shunday, {0} fishkagacha blackjack tikishlarida (kattaroq tikishlar standart va qo‘llarni sarflamaydi). Yangi boshlovchi omadidan keyin boshlanadi; kuchliroq paketlar birinchi ishlatiladi.
+Mamlakatingiz narxini olish uchun joylashuvga ruxsat bering
+O‘yinning bu versiyasida xaridlar mavjud emas.
+TEST DO‘KONI (haqiqiy pul emas)
+energiya
++{0}% FISHKA
+{0} qo‘l
+ularning taxminan {0}% ini yutadi
+Sic bo'ga xush kelibsiz! Katta, kichik yoki jasurroq narsami?
+Stol limiti har tashlashga {0}.
+SILKITISH
+UCHLIK {0}!
+LUCKY ACE 7s
+JAMI TIKISH
+TO‘LOV JADVALI
+OMAD!
+Aylantirish uchun kamida 10 fishka kerak.
+FISHKA OLISH
+Tikish to‘lay oladigan miqdorgacha kamaytirildi.
+MEGA YUTUQ!
+KATTA YUTUQ!
+QAYTARILDI {0}
+YUTUQ YO‘Q
+CHIZIQ {0}: {1} × {2} = {3}
+{0} YULDUZ = {1}
+Gilos
+Limon
+Apelsin
+Olxo‘ri
+Qo‘ng‘iroq
+Bar
+Yetti
+Olmos
+Tuz
+Yulduz
+YULDUZLAR istalgan joyda to‘laydi: 5 = tikish ×{0}, 4 = tikish ×{1}, 3 = tikish ×{2}.
+TUZ joker: yulduzdan boshqa har bir belgini almashtiradi.
+Chiziq to‘lovlari chiziq tikishining (jami tikish ÷ 10) karralisi, birinchi barabandan chapdan o‘ngga.
+QAYTARISH: uzoq muddatda {0}%. Har bir aylantirish mustaqil va tasodifiy.
+USHLANDI
+Tarqating, kerakli kartalarni ushlab qoling, bir marta almashtiring.
+USHLASH
+MASLAHAT
+ALMASHTIRISH
+Ushlab qolish uchun kartalarga bosing, so‘ng almashtiring.
+Yurish
+Qarash
+Tugmalar
+Sozlamalar
+Kunlik
+Sozlash
+Harakat
+Tanlash
+Yopish
+Orqaga
+CHARCHAGAN
+YANGI BOSHLOVCHI OMADI {0}%
+{0} QO‘L QOLDI
+OMADLI SERIYA {0}%
+{0} QO‘L  •  TIKISHLAR {1} GACHA
+DARAJA
+Sofiya
+Yelena
+Mia
+Valentina
+Chloe
+Izabella
+Nadiya
+Aria
+Luna
+Camila
+Aurora
+Bianca
+Serena
+Marco
+Leo
+Adrian
+Lucas
+Viktor
+Daniel
+Gabriel
+Ethan
+Julian
+Rafael
+Mateo
+Nico
+Enzo
+XUSH KELIBSIZ
+BOSHLOVCHI BILAN GAPLASHING
+Yo‘nalishlar va maslahatlar
+FISHKALAR  •  BONUSLAR
+FISHKA SOTIB OLISH
+Kassa
+KOKTEYLLAR  •  YENGIL TAOMLAR  •  ENERGIYA
+TAOM VA ICHIMLIKLAR
+Bar
+BLACKJACK 3 GA 2 TO‘LAYDI
+DILER 17 DA TO‘XTASHI SHART
+BLACKJACK O‘YNASH
+{0} stol  •  tikishlar {1}–{2}
+HOLD'EM O‘YNASH
+Ultimate Texas Hold'em  •  ante {0}–{1}
+BAKKARA O‘YNASH
+KATTA  •  KICHIK  •  UCHLIKLAR
+SIC BO O‘YNASH
+Uchta zar  •  katta yoki kichik 1 ga 1 to‘laydi
+PASS LINE  •  FIELD  •  ODDS
+CRAPS O‘YNASH
+Pass Line 1 ga 1 to‘laydi  •  odds haqiqiy koeffitsiyentda to‘laydi
+VIDEO POKER O‘YNASH
+SLOT O‘YNASH
+Jacks or Better  •  to‘liq 9/6 jadval
+LUCKY ACE 7s  •  CHIZIQ TIKISHINGIZNING 2 500× GACHA TO‘LAYDI
+JACKS OR BETTER  •  ROYAL FLESH 800× TO‘LAYDI
+TIKISHLARINGIZNI QO‘YING
+RULETKA O‘YNASH
+Yevropa g‘ildiragi  •  to‘g‘ri raqam 35 ga 1 to‘laydi
+ICHIMLIK BUYURTIRISH
+Olib keladi: {0}
+{0} {1}-darajada ochiladi. Sizning darajangiz {2}: o‘ynagan har bir raundingiz hisoblanadi.
+Bu stol kamida {0} fishka talab qiladi.
+Blackjack stollari to‘g‘ri oldinda. Biriga yaqinlashib o‘tiring!
+Slot mashinalari o‘ng devorda, video poker orqa devorda, rulet esa eng orqada.
+Hold'em chap orqa burchakda, bardan o‘tib.
+Bakkara kirishda darhol chapda.
+Sic bo kassadan o‘tib burchakda: uchta zar, katta yoki kichik.
+Craps stoli o‘ngda, slotlar oldida. Pass Line'ga tikib, tashlang!
+Kassa shu yerda, o‘ng tomoningizda, bar esa chap devor bo‘ylab.
+Charchadingizmi? Bardagi yengil taom energiyangizni darhol to‘ldiradi.
+Poldagi istalgan joyga bosing, o‘sha yerga borasiz. O‘tirish uchun stolga bosing.
+Andorra
+Birlashgan Arab Amirliklari
+Afgʻoniston
+Antigua va Barbuda
+Angilya
+Albaniya
+Armaniston
+Angola
+Antarktida
+Argentina
+Amerika Samoasi
+Avstriya
+Avstraliya
+Aruba
+Aland orollari
+Ozarbayjon
+Bosniya va Gertsegovina
+Barbados
+Bangladesh
+Belgiya
+Burkina-Faso
+Bolgariya
+Bahrayn
+Burundi
+Benin
+Sen-Bartelemi
+Bermuda orollari
+Bruney
+Boliviya
+Boneyr, Sint-Estatius va Saba
+Braziliya
+Bagama orollari
+Butan
+Buve oroli
+Botsvana
+Belarus
+Beliz
+Kanada
+Kokos (Kiling) orollari
+Kongo – Kinshasa
+Markaziy Afrika Respublikasi
+Kongo – Brazzavil
+Shveytsariya
+Kot-d’Ivuar
+Kuk orollari
+Chili
+Kamerun
+Xitoy
+Kolumbiya
+Kosta-Rika
+Kuba
+Kabo-Verde
+Kyurasao
+Rojdestvo oroli
+Kipr
+Chexiya
+Germaniya
+Jibuti
+Daniya
+Dominika
+Dominikan Respublikasi
+Jazoir
+Ekvador
+Estoniya
+Misr
+G‘arbiy Sahroi Kabir
+Eritreya
+Ispaniya
+Efiopiya
+Finlandiya
+Fiji
+Folklend orollari
+Mikroneziya
+Farer orollari
+Fransiya
+Gabon
+Buyuk Britaniya
+Grenada
+Gruziya
+Fransuz Gvianasi
+Gernsi
+Gana
+Gibraltar
+Grenlandiya
+Gambiya
+Gvineya
+Gvadelupe
+Ekvatorial Gvineya
+Gretsiya
+Janubiy Georgiya va Janubiy Sendvich orollari
+Gvatemala
+Guam
+Gvineya-Bisau
+Gayana
+Gonkong (Xitoy MMH)
+Xerd va Makdonald orollari
+Gonduras
+Xorvatiya
+Gaiti
+Vengriya
+Indoneziya
+Irlandiya
+Isroil
+Men oroli
+Hindiston
+Britaniyaning Hind okeanidagi hududi
+Iroq
+Eron
+Islandiya
+Italiya
+Jersi
+Yamayka
+Iordaniya
+Yaponiya
+Keniya
+Qirgʻiziston
+Kambodja
+Kiribati
+Komor orollari
+Sent-Kits va Nevis
+Shimoliy Koreya
+Janubiy Koreya
+Quvayt
+Kayman orollari
+Qozogʻiston
+Laos
+Livan
+Sent-Lyusiya
+Lixtenshteyn
+Shri-Lanka
+Liberiya
+Lesoto
+Litva
+Lyuksemburg
+Latviya
+Liviya
+Marokash
+Monako
+Moldova
+Chernogoriya
+Sent-Martin
+Madagaskar
+Marshall orollari
+Shimoliy Makedoniya
+Mali
+Myanma (Birma)
+Mongoliya
+Makao (Xitoy MMH)
+Shimoliy Mariana orollari
+Martinika
+Mavritaniya
+Montserrat
+Malta
+Mavrikiy
+Maldiv orollari
+Malavi
+Meksika
+Malayziya
+Mozambik
+Namibiya
+Yangi Kaledoniya
+Niger
+Norfolk oroli
+Nigeriya
+Nikaragua
+Niderlandiya
+Norvegiya
+Nepal
+Nauru
+Niue
+Yangi Zelandiya
+Ummon
+Panama
+Peru
+Fransuz Polineziyasi
+Papua – Yangi Gvineya
+Filippin
+Pokiston
+Polsha
+Sen-Pyer va Mikelon
+Pitkern orollari
+Puerto-Riko
+Falastin hududlari
+Portugaliya
+Palau
+Paragvay
+Qatar
+Reyunion
+Ruminiya
+Serbiya
+Rossiya
+Ruanda
+Saudiya Arabistoni
+Solomon orollari
+Seyshel orollari
+Sudan
+Shvetsiya
+Singapur
+Muqaddas Yelena oroli
+Sloveniya
+Shpitsbergen va Yan-Mayen
+Slovakiya
+Syerra-Leone
+San-Marino
+Senegal
+Somali
+Surinam
+Janubiy Sudan
+San-Tome va Prinsipi
+Salvador
+Sint-Marten
+Suriya
+Svazilend
+Turks va Kaykos orollari
+Chad
+Fransuz Janubiy hududlari
+Togo
+Tailand
+Tojikiston
+Tokelau
+Timor-Leste
+Turkmaniston
+Tunis
+Tonga
+Turkiya
+Trinidad va Tobago
+Tuvalu
+Tayvan
+Tanzaniya
+Ukraina
+Uganda
+AQSH yondosh orollari
+Amerika Qo‘shma Shtatlari
+Urugvay
+Oʻzbekiston
+Vatikan
+Sent-Vinsent va Grenadin
+Venesuela
+Britaniya Virgin orollari
+AQSH Virgin orollari
+Vyetnam
+Vanuatu
+Uollis va Futuna
+Samoa
+Kosovo
+Yaman
+Mayotta
+Janubiy Afrika Respublikasi
+Zambiya
+Zimbabve
+Inglizcha
+Afrikaans
+Amxar
+Arab
+Ozarbayjon
+Belarus
+Bolgar
+Bengal
+Bosniy
+Katalan
+Chex
+Dan
+Nemischa
+Grek
+Ispancha
+Estoncha
+Bask
+Fors
+Fincha
+Filipincha
+Fransuzcha
+Irland
+Galisiy
+Gujarot
+Xausa
+Ivrit
+Hind
+Xorvat
+Fransuzcha (Gaiti)
+Venger
+Arman
+Indonez
+Igbo
+Island
+Italyan
+Yapon
+Gruzincha
+Qozoqcha
+Xmer
+Kannada
+Koreyscha
+Qirgʻizcha
+Lyuksemburgcha
+Laos
+Litva
+Latishcha
+Malagasiy
+Makedon
+Malayalam
+Mongol
+Maratxi
+Malay
+Maltiy
+Birman
+Norveg-bokmal
+Nepal
+Niderland
+Panjobcha
+Polyakcha
+Pushtu
+Portugalcha (Braziliya)
+Portugalcha (Portugaliya)
+Romansh
+Rumincha
+Ruscha
+Kinyaruanda
+Singal
+Slovakcha
+Slovencha
+Somalicha
+Alban
+Serbcha
+Shved
+Suaxili
+Tamil
+Telugu
+Tojik
+Tay
+Turkman
+Turk
+Ukrain
+Urdu
+O‘zbek
+Vyetnam
+Kxosa
+Yoruba
+Xitoy (soddalashgan)
+Xitoy (anʼanaviy)
+Zulu
+Yak
+Dush
+Sesh
+Chor
+Pay
+Jum
+Shan

@@ -84,12 +84,16 @@ namespace Casino.Core.Roulette
                 case RouletteBetKind.Straight: return number.ToString();
                 case RouletteBetKind.Low: return "1-18";
                 case RouletteBetKind.High: return "19-36";
-                case RouletteBetKind.Dozen1: return "1st 12";
-                case RouletteBetKind.Dozen2: return "2nd 12";
-                case RouletteBetKind.Dozen3: return "3rd 12";
+                case RouletteBetKind.Dozen1: return Tr.T("1st 12");
+                case RouletteBetKind.Dozen2: return Tr.T("2nd 12");
+                case RouletteBetKind.Dozen3: return Tr.T("3rd 12");
                 case RouletteBetKind.Column1:
                 case RouletteBetKind.Column2:
-                case RouletteBetKind.Column3: return "2 to 1";
+                case RouletteBetKind.Column3: return Tr.T("2 to 1");
+                case RouletteBetKind.Red: return Tr.T("RED");
+                case RouletteBetKind.Black: return Tr.T("BLACK");
+                case RouletteBetKind.Odd: return Tr.T("ODD");
+                case RouletteBetKind.Even: return Tr.T("EVEN");
                 default: return kind.ToString().ToUpperInvariant();
             }
         }

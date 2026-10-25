@@ -32,11 +32,14 @@ namespace Casino.Core.Economy
     {
         public static readonly IReadOnlyList<TableDef> Blackjack = new[]
         {
-            new TableDef("bj_bronze", "Bronze Table", 10, 500, 0),
-            new TableDef("bj_silver", "Silver Table", 100, 5_000, 1, 3),
-            new TableDef("bj_gold", "Gold Table", 1_000, 50_000, 2, 6),
-            new TableDef("bj_diamond", "Diamond Table", 10_000, 500_000, 3, 10),
+            new TableDef("bj_bronze", Tr.Mark("Bronze Table"), 10, 500, 0),
+            new TableDef("bj_silver", Tr.Mark("Silver Table"), 100, 5_000, 1, 3),
+            new TableDef("bj_gold", Tr.Mark("Gold Table"), 1_000, 50_000, 2, 6),
+            new TableDef("bj_diamond", Tr.Mark("Diamond Table"), 10_000, 500_000, 3, 10),
         };
+
+        /// <summary>Ultimate Texas Hold'em: the ante's limits (the blind matches it, and a raise can be four antes more).</summary>
+        public static readonly TableDef Holdem = new TableDef("holdem", Tr.Mark("Hold'em Table"), 10, 5_000, 6);
 
         public static TableDef Find(string id)
         {

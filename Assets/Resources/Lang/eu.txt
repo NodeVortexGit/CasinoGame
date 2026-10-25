@@ -1,0 +1,1004 @@
+TXIKIA
+HANDIA
+BAKOITIA
+BIKOITIA
+EDOZEIN HIRUKOTE
+Fitxa eskukada bat
+Fitxa pila bat
+Fitxa erretilu bat
+Fitxa euskarri bat
+EZAGUNENA
+Fitxa gela bat
+Jokalari handiaren kutxa gotorra
+PREZIO ONENA
+Ur gasduna
+Espresoa
+Edari energetikoa
+Club ogitartekoa
+Hanburgesa menua
+Txuleta afaria
+BETETZE OSOA
+Zorte-bolada
+Bolada beroa
+ZORTE GEHIEN
+Brontzezko mahaia
+Zilarrezko mahaia
+Urrezko mahaia
+Diamantezko mahaia
+Hold'em mahaia
+Idatzi urte baliozko bat.
+Idatzi hilabete baliozko bat (1-12).
+Idatzi egun baliozko bat.
+Data hori etorkizunean dago.
+Ongi etorri nire mahaira! Jolasteko prest?
+Pozten naiz zu ikusteaz. Eseri!
+Kaixo! Kartak freskoak daude, eta ni ere bai.
+Ongi etorri! Egin dezagun gau eder bat.
+Egin zure apustua prest zaudenean.
+Fitxak mahaira, eta ikus ditzagun kartak.
+Zer jokatzen dugu?
+Ene, apustu handia! Zure estiloa gustatzen zait.
+Hori bai apustua. Goazen!
+Ausart zaude gaur gauean, ezta?
+Dena?! Bihotza taupaka daukat!
+Dena esku bakar batean. Beldurrik gabe!
+Blackjack! Sinestezina!
+Hogeita bat, horrela besterik gabe!
+Blackjack! Kartek maite zaituzte gaur.
+Ondo jokatuta!
+Irabazi duzu! Oso ondo.
+Bolada onean zaude!
+Hori zurea da.
+Hau garaipena! Denak ari dira mahai honi begira!
+Izugarria! Sutan zaude gaur!
+Oso gertu! Hurrengoa zurea da.
+Oraingoan etxeak izan du zortea.
+Ahaztu, esku berria dator.
+Ai, karta bat gehiegi.
+Pasatu zara! Onenei ere gertatzen zaie.
+Berdinketa. Inork ez du galtzen!
+Berdinketa. Zure fitxak salbu daude.
+Pasatu naiz! Zorionekoa zu.
+Gehiegi niretzat. Irabazi duzu!
+Blackjack etxearentzat, barkatu!
+Banatzaileak blackjack. Zorte txarra.
+Batekoa erakusten dut. Asegurua?
+Banatzen dugu! Bi aukera irabazteko.
+Bikoizten. Mugimendu ausarta!
+Bikoiztu! Karta bat dator.
+Zapata berria, nahasten!
+Gutxi geratzen? Kutxak beteko zaitu.
+Fitxak urritzen ari dira. Gehiago nahi?
+Fitxarik gabe! Joan kutxara edo hartu doako fitxak.
+Zure pila hutsik dago. Kutxa zure atzean dago.
+Nekatuta zaudela dirudi! Jan zerbait tabernan.
+Indarrik gabe? Tabernak zainduko zaitu.
+Lasai hartu.
+Prest zaudenean!
+Gaua gaztea da.
+Hasiberriaren zortea zure alde dago!
+Karta-sorta zure alde dago gaur gauean!
+Hasiberriaren zortea amaitu da. Hemendik aurrera jokoa zuzena da!
+Ongi etorri kasinora! Zure eserlekua zain duzu.
+Gabon! Mahaiak beroak daude gaur.
+Ongi etorri berriro! Zortea sentitzen?
+Ukitu mahai bat jolasten hasteko!
+Fitxa gehiago behar? Leihatila egokira etorri zara.
+Pila handiagoak, hobari handiagoak!
+Gose zara? Aukeratu menuko edozer.
+Mokadu batek energia mantentzen du!
+Ongi etorri nire mahaira!
+Hor zaude! Argiago dago jada.
+Egon etxean bezala. Gaur gauean dena zuretzat da.
+Irribarre hori maite dut. Zorte oneko gaua?
+Lasaitu, esku onetan zaude hemen.
+Aizu, zu! Nire leihatilatik pasatzea espero nuen.
+Beti da atsegina aurpegi lagunkoi bat ikustea.
+Begira nor dagoen hemen! Ondo pasatzen?
+Kaixo, ederra!
+Zure estiloa gustatzen zait gaur.
+Aizu, pozten naiz zu berriro ikusteaz!
+Gau ona pasatzen? Merezi duzu.
+Kontuz, zure alde animatzen has naiteke.
+Nire jokalari kuttuna itzuli da!
+Eseri nirekin, zerbait polita banatuko dizut.
+Zurekin mahai hau askoz dibertigarriagoa da.
+Jada zoaz? Gaua gaztea da!
+Tira, esku bat gehiago bakarrik. Sentipen ona daukat!
+Ezin nauzu orain utzi, hasi berriak gara!
+Azken aukera! Hurrengo eskua handia izan liteke...
+Ados, ados. Zure eserlekua bero gordeko dut. Itzuliko zarela agintzen duzu?
+Boladarik ez oraindik? Jokatu gaur txandak ({2}) eta zenbatzen hasiko naiz.
+Hasiera berria! Txandak ({2}) eta zure sugarra piztuko da.
+Egunero datozenen zerrenda txiki bat daramat. Zu ez zaude bertan... oraindik.
+{1}. eguna zure zain dago. Geratzen diren txandak: {2}!
+Egun jarraian: {0}... ez zara orain geldituko, ezta?
+Zure sugarra hotz samar dago gaur. Txandek ({2}) berotuko dute.
+Zenbatzen aritu naiz: {0} egun. Egin ditzagun {1}.
+Ez pentsa ez naizela konturatu. Bolada mantentzeko txandak: {2}!
+Egun jarraian: {0}? Hemen gustura zaudela pentsatzen hasia naiz.
+Zure bolada salbu dago gaurko. Orain harrotzen ari zara besterik ez.
+{0}. eguna, eginda. Bihar ordu berean?
+{0} egun! Eserleku bat gorde beharko nizuke.
+Hor dago: zure boladaren lehen eguna! Itzuli bihar eta bi izango dira.
+Aste oso bat jarraian! Benetan harrituta nago.
+Hogeita hamar egun! Ia hemen lan egiten duzu.
+Ehun egun. Denei hitz egiten diet zutaz.
+{0} egun jarraian jada! Begira zeure buruari.
+Bolada salbatuta: {0}. eguna! Lortuko zenuela banekien.
+{0}. eguna! Apustu egiten dut ez zarela {1}. egunera iritsiko.
+{0} egun... ados, harroputz.
+Jokatu 10 blackjack esku
+Irabazi 5 blackjack esku
+Lortu blackjack bat
+Irabazi 500 fitxa blackjackean
+Biratu txanpon-makinak 20 aldiz
+Irabazi 5 biraketa txanpon-makinetan
+Irabazi zure apustua 5× txanpon-makinetan
+Jokatu 5 erruleta txanda
+Irabazi 3 erruleta biraketa
+Asmatu zenbaki bat zuzenean
+Jokatu 8 esku hold'emean
+Irabazi 4 esku hold'emean
+Jokatu 10 esku bakaran
+Irabazi 5 esku bakaran
+Jokatu 15 esku bideo pokerrean
+Jokatu 8 txanda sic bon
+Irabazi 4 txanda sic bon
+Bota dadoak 15 aldiz crapsean
+Irabazi 4 jaurtiketa crapsean
+Egin kolorea edo hobea bideo pokerrean
+Errege-eskailera
+Kolore-eskailera
+Pokerra
+Full
+Kolorea
+Eskailera
+Hirukotea
+Bi bikote
+Bikotea
+Karta altua
+GPS kokapena
+sare mugikorra
+interneteko konexioa
+gailuaren ezarpenak
+proba-herrialdea
+egiaztatu gabe (prezio estandarra)
+ezezaguna
+1. 12
+2. 12
+3. 12
+2 1en kontra
+GORRIA
+BELTZA
+Txanoak edo hobea
+PREZIO ZUZENAK ZURE HERRIALDEARENTZAT
+Dendako prezioak zure herrialdeko ekonomiara egokitzen dira, jokalariek leku guztietan prezio zuzena ordain dezaten.
+Zure herrialdea jakiteko, zure gutxi gorabeherako kokapena behin egiaztatzen dugu. Zure gailuan herrialde batekin lotzen da eta ez da inora bidaltzen. Uko egiten badiozu, prezio estandarrak aplikatuko dira.
+JARRAITU
+Kasinotik irten?
+Zure fitxak eta aurrerapena gorde dira.
+IRTEN
+GERATU
+Desblokeatuta: {0}
+Bolada-izozte batek zure bolada salbatu zuen atzo (egunak: {0}).
+Izozteek ({0}) zure bolada salbatu dute (egunak: {1}).
+Zure bolada (egunak: {0}) amaitu da. Jokatu gaur txandak ({1}) berri bat hasteko!
+MISIOA BETETA
++{0} fitxa
+MISIO GUZTIAK EGINDA!
+Eguneko hobaria +{0} fitxa. Misio berriak bihar.
+{0}. MAILA!
+Mugarria! +{0} fitxa
+Itzuli bihar jarraitzeko
++1 bolada-izozte
+{0} EGUNEKO BOLADA!
+Erosketak ez daude erabilgarri bertsio honetan.
+Erosketak huts egin du. Ez zaizu ezer kobratu.
++{0} fitxa gehitu dira!
+{0}: {1} esku %{2} zorterekin, hasiberriaren zortearen ondoren
+{0}: {1} esku %{2} zorterekin!
+{0}: energia +%{1}
+Ez dago erabilgarri gailu honetan
+Bideoak ezin dira kargatu sare honetan
+Itzuli bihar
+Prest {0} s barru
++{0} fitxa (gaur {1} geratzen dira)
++{0} doako fitxa!
++1 bolada-izozte!
+Ez dago bideorik une honetan. Saiatu berriro pixka bat barru.
+BRONTZEA
+ZILARRA
+URREA
+DIAMANTEA
+Menua
+Ikuspegia
+Gurutzea
+Zirkulua
+Karratua
+Triangelua
+Zure eskualdea egiaztatzen...
+Egiaztatu gabe ({0}): prezio estandarrak
+{0} ({1}): prezioak {2}
+Oroigarriak
+Doako fitxak prest eta bolada-oroigarriak
+Zure doako fitxak prest daude
+{0} fitxa zure zain Lucky Acen.
+Mantendu zure bolada (egunak: {0})
+Jokatu gaur txandak ({0}) gauerdian berrabiarazi ez dadin.
+BAKARA
+Ongi etorri bakarara! Jokalaria, Bankaria ala Berdinketa?
+JOKALARIA
+BERDINKETA
+BANKARIA
+AZKEN EMAITZAK
+J
+B
+E
+DESEGIN
+GARBITU
+ERREPIKATU
+BANATU
+Ez duzu fitxa nahikorik apustu horretarako.
+Mahaiaren gehienekora iritsi zara
+APUSTU OSOA  {0}
+Aukeratu txanpon bat eta sakatu Jokalaria, Bankaria edo Berdinketa
+BERDINKETA  {0}
+JOKALARIAK IRABAZI DU  {0}-{1}
+BANKARIAK IRABAZI DU  {0}-{1}
+IRABAZIA  +{0}
+ITZULIA  {0}
+Oraingoan ez dago saririk
+Amaitu lehenik esku hau.
+Ongi etorri! Hasiberriaren zortea zure alde dago gaur. Egin apustu bat!
+BLACKJACKAK 3 2REN TRUKE ORDAINTZEN DU   •   BANATZAILEA 17 GUZTIETAN GELDITZEN DA   •   ASEGURUAK 2 1EN TRUKE ORDAINTZEN DU
+APUSTUA
+KARTA
+GELDITU
+BIKOIZTU
+BANANDU
+ASEGURATU
+EZ, ESKERRIK ASKO
+APUSTUA {0}+
+Ez duzu fitxa nahikorik
+Banatzaileak batekoa erakusten du. {0}rengatik aseguratu?
+Aseguruak {0} ordaintzen du
+Banatzaileak ez du blackjackik. Asegurua galdu da.
+PASATUTA
+BANATZAILEA PASATU DA
+BLACKJACK!
+IRABAZI
+BERDINKETA
+GALDU
+Hasiberriaren zortea amaitu da. Zure Zorte-bolada orain hasten da.
+Hasiberriaren zortea amaitu da. Hemendik aurrera blackjack estandarra.
+Zure Zorte-bolada amaitu da. Blackjack estandarrera itzuli gara.
+FITXARIK GABE
+Ikusi bideo labur bat {0} doako fitxa lortzeko, edo joan kutxara.
+Joan kutxara zure fitxak betetzeko.
+DOAKO FITXAK
+KUTXA
+GERO
+«{0}»
+ESKU BAT GEHIAGO
+JOAN
+HASIBERRIAREN ZORTEA
+ZORTE-BOLADA
+Ongietorri-hobaria jokalari berrientzat: zure lehen <b>{0} eskuetan</b> banatzailearen zapata zure alde dago prestatuta, beraz ia esku guztiak irabaziko dituzu.
+Hurrengo <b>{0} eskuetan</b> abantaila pixkanaka desagertzen da, eta ondoren mahai guztiak blackjack estandar eta zuzena dira, 6 sortako zapata nahastu batetik banatuta (blackjackak 3 2ren truke ordaintzen du, banatzailea 17 guztietan gelditzen da).
+Abantaila orain: <b><color=#7CFC9A>%{0}</color></b>   Geratzen diren eskuak: <b>{1}</b>
+Zure hurrengo <b>{0} blackjack eskuetan</b>, gehienez <b>{1} fitxako</b> apustuarekin, karta bakoitzak <b>%{2}</b>ko aukera du zure alde banatzeko (hasiberriaren zortearen abantaila bera).
+Ondo jokatuz gero, eskuen <b>%{0}</b> inguru irabazten da, blackjack estandarrean %{1} inguruaren aldean. Apustu handiagoak blackjack estandarra dira eta ez dute eskurik gastatzen. Eskuak amaitzean, mahai guztiak berriro blackjack estandar eta zuzena dira.
+ULERTUTA
+ZORTEA BERRESKURATU NAHI?
+Hasiberriaren zortea amaitu da: hemendik aurrera mahai guztiak blackjack estandar eta zuzena dira. Zorte-bolada batek abantaila itzultzen du denbora batez.
+CRAPS
+Ongi etorri crapsera! Egin apustu Pass Line-n eta bota.
+SEI
+BEDERATZI
+FIELD
+2 3 4 9 10 11 12  •  2ak eta 12ak bikoitza ordaintzen dute
+EDOZEIN 7
+EDOZEIN CRAPS
+DON'T PASS BAR
+1:1  •  12a berdinketa da
+PASS LINE
+ODDS
+benetako odds-ak
+DESAKTIBATUTA
+ON
+Odds-ak Pass Line-ren atzean jartzen dira puntua dagoenean.
+Odds-ek Pass Line-ko apustua behar dute.
+Zure odds-ak gehienezkoan daude.
+Lerroko apustuak irteera-jaurtiketan egiten dira.
+MAHAIAN  {0}
+Irteera-jaurtiketa: egin apustu Pass Line-n eta bota. 7 edo 11-k irabazten du, 2, 3 edo 12-k galtzen du. Place apustuek balio dute puntua dagoenean.
+Puntua {0} da: atera ezazu berriro 7 baino lehen. Pass Line-ren atzeko odds-ek benetako odds-ak ordaintzen dituzte.
+BOTA
+Puntua {0} da.
+{0}! Puntua lortuta. Irabazi duzu!
+Zazpi. Jaurtitzaile berria, irteera berria.
+{0}, naturala! Pass Line-k irabazten du.
+{0}, craps. Lerroak galtzen du.
+Itxaron dadoak gelditu arte.
+MAHAIA UTZI?
+Zure lerroko apustuak {0} puntuan jokatzen jarraitzen du. Orain joaten bazara, galduko duzu.
+EGUNEKOA
+EGUNEKO BOLADA
+EGUN JARRAIAN
+GAUR
+IKUSI IRAGARKIA
+EROSI
+BOLADA-IZOZTEA
+Izozte batek zure bolada bizirik mantentzen du jolasten ez duzun egun batean. Gehienez {0} izan ditzakezu.\n\nBat erosi {1} fitxaren truke?
+Bolada-izoztea prest.
+Ez duzu fitxa nahikorik izozte baterako.
+UTZI
+EGUNEKO BIRAKETA
+BIRATU
+Aukerak:
+%{0}
+{0} fitxa irabazi dituzu!
+GAURKO MISIOAK
+Errekorra: {0} egun
+Jokatu egunero bolada bat eraikitzeko
+Gaurko helburua beteta! Bihar arte.
+Gaur: {0} / {1} txanda (edozein joko)
+Bolada-izozteak: {0} / {1}
+Salbatu zure bolada galtzen duzun egun batean. +1 7 egunero.
+BETETA
+BIDEORIK EZ
+IRAGARKIA LASTER
+Bolada-hobaria: sariak ×{0}
+Doako biraketa bat egunero
+HURRENGOA  {0}
+Dena eginda! Hobaria jasota.
+Misio berriak gauerdian.
+Bete hirurak: +{0} hobari-fitxa
+HOLD'EM
+Ongi etorri hold'emera! Jarri antea eta ikus ditzagun kartak.
+ANTE
+ITSUA
+JOLASTU
+ITSUAK ORDAINTZEN DU
+Krupierra bikote batekin edo hobearekin sailkatzen da
+PASATU
+ERRETIRATU
+APUSTU {0}×
+Antea {0} + itsua {0}. Gorde beste {1} igoerarako.
+Sakatu txanponak antea finkatzeko. Itsua berdina da.
+Pasatu ala antearen hiru edo lau aldiz apustu egin?
+Igo orain antearen 4× edo 3×, edo pasatu eta ikusi flopa.
+Azken aukera: egin antearen 1×eko apustua edo erretiratu eta galdu antea eta itsua.
+Egin orain antearen 2×eko apustua, edo pasatu eta ikusi azken bi kartak.
+Hona flopa.
+Turn eta river.
+Ikus dezagun zer daukadan.
+Krupierra ez da sailkatzen: antea itzultzen zaizu.
+Erretiratu zara. Hurrengo eskua zurea da.
+JOKOAK
+Arrastatu ezkerrean ibiltzeko  •  Arrastatu eskuinean begiratzeko  •  Ukitu joateko
+18+ soilik  •  Fitxak dibertsiorako dira: diru-baliorik gabe, inoiz ez dira dirutan edo saritan trukatzen
+Ateak irekitzen...
+Ongi etorri! Zure {0} ongietorri-fitxak prest daude. Mahaiak zuzen aurrean daude!
++{0} doako fitxa! Gehiago {1} ordu barru.
+Doako fitxak {0} orduro betetzen dira. Hurrengoak {1} barru.
+{0} h {1} min
+{0} min {1} s
+MANTENDU ZURE BOLADA
+Oroigarri bat nahi duzu oraindik jokatu ez duzun arratsaldeetan, eta doako fitxak prest daudenean? Ez gehiago, eta Ezarpenetan desaktiba dezakezu.
+GOGORARAZI
++{0} fitxa prest!
+Ikusi bideo bat: {0}
+Hurrengo doako fitxak {0} barru
+BLACKJACK
+4 mahai  •  3 2ren truke ordaintzen du
+Ultimate Texas Hold'em
+Jokalaria, Bankaria edo Berdinketa
+TXANPON-MAKINAK
+Lucky Ace 7s  •  10 lerro
+BIDEO POKERRA
+Jacks or Better
+SIC BO
+Hiru dado  •  handia edo txikia
+Pass Line  •  Field  •  Odds
+ERRULETA
+Europarra, zero bakarrarekin
+AGORTUTA ZAUDE
+Zure energia-barra hutsik dago. Hartu zerbait tabernan jolasten jarraitzeko, edo itzuli geroago: energia poliki berreskuratzen da kanpoan zauden bitartean.
+JOAN TABERNARA
+AUKERATU ZURE MAHAIA
+APUSTUAK
+{0}. MAILA
+ESERI
+{0} BEHAR
+Iritsi {0}. mailara hemen jolasteko. {1}. mailan zaude.
+KASINOA
+EE
+HH
+UUUU
+EGUNA
+HILABETEA
+URTEA
+NOIZ JAIO ZINEN?
+Fitxak dibertsiorako soilik dira. Ez dute diru-baliorik eta inoiz ezin dira dirutan edo saritan trukatu.
+BARKATU, EZIN DUZU JOLASTU
+{0} helduentzat soilik dago.
+IRTEN
+{0} barru ixten da...
+KONTA IEZAGUZU ZUTAZ
+Horren arabera aukeratuko ditugu ostalariak, banatzaileak eta tabernako langileak. Edozein unetan alda dezakezu Ezarpenetan.
+GIZONA NAIZ
+EMAKUMEA NAIZ
+NAHIAGO DUT EZ ESAN
+SARTU KASINOAN
+Zure langileak gaur gauean:
+{0}/{1}. orria
+HIZKUNTZA
+AUTOMATIKOA
+HERRIALDEA
+Ongi etorri! Egin zuen apustuak, mesedez.
+Mahaiaren muga {0} da biraketa bakoitzeko.
+Ukitu taula fitxak jartzeko
+Ez da apustu gehiago!
+BERDEA
+berdea
+gorria
+beltza
+Hau asmatzea! Zorionak!
+Irabazi duzu! {0} irabazten duzu.
+{0} {1}. {2} itzultzen zaizkizu.
+Egin zuen apustuak, mesedez.
+Itxaron bola gelditu arte.
+EZARPENAK
+OROKORRA
+GRAFIKOAK
+SOINUA
+UKIPENA
+SAGUA
+KONTROLAGAILUA
+BIBRAZIOA
+18+ • Fitxek ez dute diru-baliorik • Letra-tipoak: Bebas Neue, Poppins, Noto (SIL OFL) • Mugak: Natural Earth • Prezio-datuak: Munduko Bankua
+KASINOKO LANGILEAK
+EMAKUMEAK
+GIZONAK
+MISTOA
+OROIGARRIAK
+Doako fitxak prest, eta arratsaldeko abisu bat bolada amaitu aurretik.
+EGIAZTATU BERRIRO
+PREZIO-ESKUALDEA
+Azkarrena: kasinoa margotuta dagoen bezala, ezer gehiagorik ez.
+Zoru leunduek, egurrak eta urreak aretoa islatzen dute.
+Zinema-itxura: kolore-zuzenketa, alea, distira, argi-izpiak, azal bizia.
+Zinema-objektiboa: fokuak zure begirada jarraitzen du, marrak argietan, hautsa izpietan.
+KALITATEA
+BAXUA
+ERTAINA
+ALTUA
+ULTRA
+BEREIZMENA
+Baxuagoa leunagoa da, baina gutxiago berotzen da eta bateria aurrezten du.
+PANTAILA-MODUA
+PANTAILA OSOA
+LEIHOA
+ERTZ-LEUNTZEA
+Kasinoko ertz zorrotzak leuntzen ditu.
+FOTOGRAMA-ABIADURA
+{0} FPS
+30 FPSk bateria aurrezten du eta telefono zaharrak fresko mantentzen ditu.
+V-SYNC
+IKUS-EREMUA
+ERAKUTSI FPS
+BOLUMEN NAGUSIA
+MUSIKA
+SOINU-EFEKTUAK
+LANGILEEN AHOTSAK
+Langileek hitz egitean egiten duten murmurioa.
+ISILDU ATZEKO PLANOAN
+Kasinoa isiltzen du beste leiho batean zauden bitartean.
+BEGIRADAREN SENTIKORTASUNA
+Arrastatzeak ikuspegia zein azkar biratzen duen.
+Saguarekin arrastatzeak ikuspegia zein azkar biratzen duen.
+ALDERANTZIZTU BEGIRADA EZKER / ESKUIN
+ALDERANTZIZTU BEGIRADA GORA / BEHERA
+BOTOIEN ANTOLAERA
+AUTO
+TRUKATU MENUA / IKUSPEGIA
+PALANKAREN SENTIKORTASUNA
+Eskuineko palankak ikuspegia zein azkar biratzen duen.
+ALDERANTZIZTU PALANKA EZKER / ESKUIN
+ALDERANTZIZTU PALANKA GORA / BEHERA
+KONTROLAGAILUAREN AHOLKUAK
+Botoi bakoitzak zer egiten duen erakusten du kontrolagailuarekin jolasten duzunean.
+BIBRATU HEMEN
+TELEFONOA
+BIAK
+Auto: kontrolagailua konektatuta badago, bestela telefonoa.
+TELEFONOAREN BIBRAZIOA
+TELEFONOAREN INDARRA
+KONTROLAGAILUAREN BIBRAZIOA
+KONTROLAGAILUAREN INDARRA
+AUTOMATIKOA ({0})
+{0}k Ezarpenak irekitzen ditu, {1}k Egunekoa.
+Ez dago kontrolagailurik konektatuta.
+Konektatuta: {0}. {1} botoiak erakusten (eskuineko Ak berresten du).
+Konektatuta: {0}. {1} botoiak erakusten.
+TABERNA
+ZORTEA
+Fitxak, zortea eta janaria dibertsiorako elementu birtualak dira soilik: diru-baliorik gabe, ezin dira dirutan edo saritan trukatu.
+Karta bakoitzak aukera hori du zure alde banatzeko, gehienez {0} fitxako blackjack apustuetan (apustu handiagoak estandarrak dira eta ez dute eskurik gastatzen). Hasiberriaren zortearen ondoren hasten da; pakete indartsuenak erabiltzen dira lehenik.
+Baimendu kokapenerako sarbidea zure herrialdeko prezioa lortzeko
+Erosketak ez daude erabilgarri jokoaren bertsio honetan.
+PROBA-DENDA (benetako dirurik gabe)
+energia
+FITXA +%{0}
+{0} esku
+horien %{0} inguru irabazten ditu
+Ongi etorri sic bora! Handia, txikia ala zerbait ausartagoa?
+Mahaiaren muga {0} da jaurtiketako.
+ASTINDU
+{0}-KO HIRUKOTEA!
+LUCKY ACE 7s
+APUSTU OSOA
+SARI-TAULA
+ZORTE ON!
+Gutxienez 10 fitxa behar dituzu biratzeko.
+LORTU FITXAK
+Apustua estal dezakezunera jaitsi da.
+MEGA SARIA!
+SARI HANDIA!
+ITZULIA {0}
+SARIRIK EZ
+{0}. LERROA: {1} × {2} = {3}
+{0} IZAR = {1}
+Gerezia
+Limoia
+Laranja
+Aranbeltza
+Kanpaia
+Bar
+Zazpi
+Diamantea
+Batekoa
+Izarra
+IZARREK edonon ordaintzen dute: 5 = apustua ×{0}, 4 = apustua ×{1}, 3 = apustua ×{2}.
+BATEKOA komodina da: ikur guztiak ordezkatzen ditu, izarra izan ezik.
+Lerroetako sariak lerro-apustuaren (apustu osoa ÷ 10) multiploak dira, ezkerretik eskuinera lehen arrabolatik.
+ITZULERA: %{0} epe luzera. Biraketa bakoitza independentea eta ausazkoa da.
+GORDETA
+Banatu, gorde nahi dituzun kartak eta aldatu behin.
+GORDE
+IRADOKIZUNA
+ALDATU
+Sakatu kartak gordetzeko, eta gero aldatu.
+Ibili
+Begiratu
+Botoiak
+Ezarpenak
+Egunekoa
+Doitu
+Mugitu
+Hautatu
+Itxi
+Atzera
+AGORTUTA
+HASIBERRIAREN ZORTEA %{0}
+{0} ESKU GERATZEN
+ZORTE-BOLADA %{0}
+{0} ESKU  •  APUSTUAK {1} ARTE
+MAILA
+Sofia
+Elena
+Mia
+Valentina
+Chloe
+Isabel
+Nadia
+Aria
+Luna
+Camila
+Aurora
+Bianca
+Serena
+Marco
+Leo
+Adrian
+Lucas
+Viktor
+Daniel
+Gabriel
+Ethan
+Julen
+Rafael
+Mateo
+Nico
+Enzo
+ONGI ETORRI
+HITZ EGIN OSTALARIAREKIN
+Norabideak eta aholkuak
+FITXAK  •  HOBARIAK
+EROSI FITXAK
+Kutxa
+KOKTELAK  •  MOKADUAK  •  ENERGIA
+JANARIA ETA EDARIA
+Taberna
+BLACKJACKAK 3 2REN TRUKE ORDAINTZEN DU
+BANATZAILEAK 17AN GELDITU BEHAR DU
+JOKATU BLACKJACKEAN
+{0} mahaia  •  apustuak {1}-{2}
+JOKATU HOLD'EMEAN
+Ultimate Texas Hold'em  •  antea {0}-{1}
+JOKATU BAKARAN
+HANDIA  •  TXIKIA  •  HIRUKOTEAK
+JOKATU SIC BON
+Hiru dado  •  handiak edo txikiak 1 1en ordaintzen du
+PASS LINE  •  FIELD  •  ODDS
+JOKATU CRAPSEAN
+Pass Line-k 1 1en ordaintzen du  •  odds-ek benetako odds-ak
+JOKATU BIDEO POKERREAN
+JOKATU TXANPON-MAKINETAN
+Jacks or Better  •  9/6 taula osoa
+LUCKY ACE 7s  •  ZURE LERRO-APUSTUAREN 2.500× ARTE ORDAINTZEN DU
+JACKS OR BETTER  •  ERREGE-ESKAILERAK 800× ORDAINTZEN DU
+EGIN ZUEN APUSTUAK
+JOKATU ERRULETAN
+Gurpil europarra  •  zenbaki zuzenak 35 1en truke ordaintzen du
+ESKATU EDARI BAT
+{0}k ekarriko dizu
+{0} {1}. mailan irekitzen da. {2}. mailan zaude: jokatzen duzun txanda bakoitzak balio du.
+Mahai honek gutxienez {0} fitxa behar ditu.
+Blackjack mahaiak zuzen aurrean daude. Hurbildu batera eta eseri!
+Txanpon-makinak eskuineko hormaren ondoan daude, bideo pokerra atzeko hormaren ondoan eta erruleta atzealdean.
+Hold'ema ezkerreko atzeko izkinan dago, tabernaren ondoren.
+Bakara sartu bezain laster ezkerretara dago.
+Sic boa kutxaren ondorengo izkinan dago: hiru dado, handia edo txikia.
+Craps mahaia eskuinean dago, makinen aurrean. Egin apustu Pass Line-n eta bota!
+Kutxa hementxe dago zure eskuinean, eta taberna ezkerreko hormaren ondoan.
+Nekatuta? Tabernako mokadu batek energia berehala betetzen dizu.
+Ukitu lurreko edozein leku eta hara ibiliko zara. Ukitu mahai bat esertzeko.
+Andorra
+Arabiar Emirerri Batuak
+Afganistan
+Antigua eta Barbuda
+Aingira
+Albania
+Armenia
+Angola
+Antartika
+Argentina
+Samoa Estatubatuarra
+Austria
+Australia
+Aruba
+Åland
+Azerbaijan
+Bosnia-Herzegovina
+Barbados
+Bangladesh
+Belgika
+Burkina Faso
+Bulgaria
+Bahrain
+Burundi
+Benin
+Saint Barthélemy
+Bermuda
+Brunei
+Bolivia
+Karibeko Herbehereak
+Brasil
+Bahamak
+Bhutan
+Bouvet uhartea
+Botswana
+Bielorrusia
+Belize
+Kanada
+Cocos (Keeling) uharteak
+Kongoko Errepublika Demokratikoa
+Afrika Erdiko Errepublika
+Kongo
+Suitza
+Boli Kosta
+Cook uharteak
+Txile
+Kamerun
+Txina
+Kolonbia
+Costa Rica
+Kuba
+Cabo Verde
+Curaçao
+Christmas uhartea
+Zipre
+Txekia
+Alemania
+Djibuti
+Danimarka
+Dominika
+Dominikar Errepublika
+Aljeria
+Ekuador
+Estonia
+Egipto
+Mendebaldeko Sahara
+Eritrea
+Espainia
+Etiopia
+Finlandia
+Fiji
+Falklandak
+Mikronesia
+Faroe uharteak
+Frantzia
+Gabon
+Erresuma Batua
+Grenada
+Georgia
+Guyana Frantsesa
+Guernesey
+Ghana
+Gibraltar
+Groenlandia
+Gambia
+Ginea
+Guadalupe
+Ekuatore Ginea
+Grezia
+Hegoaldeko Georgia eta Hegoaldeko Sandwich uharteak
+Guatemala
+Guam
+Ginea Bissau
+Guyana
+Hong Kong Txinako AEB
+Heard eta McDonald uharteak
+Honduras
+Kroazia
+Haiti
+Hungaria
+Indonesia
+Irlanda
+Israel
+Man uhartea
+India
+Indiako Ozeanoko lurralde britainiarra
+Irak
+Iran
+Islandia
+Italia
+Jersey
+Jamaika
+Jordania
+Japonia
+Kenya
+Kirgizistan
+Kanbodia
+Kiribati
+Komoreak
+Saint Kitts eta Nevis
+Ipar Korea
+Hego Korea
+Kuwait
+Kaiman uharteak
+Kazakhstan
+Laos
+Libano
+Santa Luzia
+Liechtenstein
+Sri Lanka
+Liberia
+Lesotho
+Lituania
+Luxenburgo
+Letonia
+Libia
+Maroko
+Monako
+Moldavia
+Montenegro
+San Martin
+Madagaskar
+Marshall Uharteak
+Ipar Mazedonia
+Mali
+Myanmar (Birmania)
+Mongolia
+Macau Txinako AEB
+Ipar Mariana uharteak
+Martinika
+Mauritania
+Montserrat
+Malta
+Maurizio
+Maldivak
+Malawi
+Mexiko
+Malaysia
+Mozambike
+Namibia
+Kaledonia Berria
+Niger
+Norfolk uhartea
+Nigeria
+Nikaragua
+Herbehereak
+Norvegia
+Nepal
+Nauru
+Niue
+Zeelanda Berria
+Oman
+Panama
+Peru
+Polinesia Frantsesa
+Papua Ginea Berria
+Filipinak
+Pakistan
+Polonia
+Saint-Pierre eta Mikelune
+Pitcairn uharteak
+Puerto Rico
+Palestinar Lurralde Okupatuak
+Portugal
+Palau
+Paraguai
+Qatar
+Reunion
+Errumania
+Serbia
+Errusia
+Ruanda
+Saudi Arabia
+Salomon Uharteak
+Seychelleak
+Sudan
+Suedia
+Singapur
+Santa Helena
+Eslovenia
+Svalbard eta Jan Mayen uharteak
+Eslovakia
+Sierra Leona
+San Marino
+Senegal
+Somalia
+Surinam
+Hego Sudan
+Sao Tome eta Principe
+El Salvador
+Sint Maarten
+Siria
+Swazilandia
+Turk eta Caico uharteak
+Txad
+Hegoaldeko lurralde frantsesak
+Togo
+Thailandia
+Tajikistan
+Tokelau
+Ekialdeko Timor
+Turkmenistan
+Tunisia
+Tonga
+Turkia
+Trinidad eta Tobago
+Tuvalu
+Taiwan
+Tanzania
+Ukraina
+Uganda
+Ameriketako Estatu Batuetako Kanpoaldeko Uharte Txikiak
+Ameriketako Estatu Batuak
+Uruguai
+Uzbekistan
+Vatikano Hiria
+Saint Vincent eta Grenadinak
+Venezuela
+Birjina uharte britainiarrak
+Birjina uharte amerikarrak
+Vietnam
+Vanuatu
+Wallis eta Futuna
+Samoa
+Kosovo
+Yemen
+Mayotte
+Hegoafrika
+Zambia
+Zimbabwe
+Ingelesa
+Afrikaansa
+Amharera
+Arabiera
+Azerbaijanera
+Bielorrusiera
+Bulgariera
+Bengalera
+Bosniera
+Katalana
+Txekiera
+Daniera
+Alemana
+Greziera
+Gaztelania
+Estoniera
+Euskara
+Persiera
+Finlandiera
+Filipinera
+Frantsesa
+Irlandera
+Galiziera
+Gujaratera
+Hausa
+Hebreera
+Hindia
+Kroaziera
+Frantsesa (Haiti)
+Hungariera
+Armeniera
+Indonesiera
+Igboera
+Islandiera
+Italiera
+Japoniera
+Georgiera
+Kazakhera
+Khemerera
+Kannada
+Koreera
+Kirgizera
+Luxenburgera
+Laosera
+Lituaniera
+Letoniera
+Malgaxea
+Mazedoniera
+Malabarera
+Mongoliera
+Marathera
+Malaysiera
+Maltera
+Birmaniera
+Bokmål (norvegiera)
+Nepalera
+Nederlandera
+Punjabera
+Poloniera
+Paxtunera
+Portugesa (Brasil)
+Portugesa (Portugal)
+Erretorromaniera
+Errumaniera
+Errusiera
+Kinyaruanda
+Sinhala
+Eslovakiera
+Esloveniera
+Somaliera
+Albaniera
+Serbiera
+Suediera
+Swahilia
+Tamilera
+Telugua
+Tajikera
+Thailandiera
+Turkmenera
+Turkiera
+Ukrainera
+Urdua
+Uzbekera
+Vietnamera
+Xhosera
+Jorubera
+Txinera (sinplifikatua)
+Txinera (tradizionala)
+Zuluera
+Ig.
+Al.
+Ar.
+Az.
+Og.
+Or.
+Lr.

@@ -1,0 +1,659 @@
+# Somali (so). Machine translation by Claude.
+bd99124	Calaacal Jibis ah
+c7c6dc8	Raso Jibis ah
+7512cfd	Saxan Jibis ah
+fa36588	Khaanad Jibis ah
+7994f65	UGU CAANSAN
+49dcc21	Khasnad Jibis ah
+0725283	Sanduuqa Ciyaaryahanka Weyn
+7658705	QIIMAHA UGU FIICAN
+2f23432	Biyo Gaas leh
+418b820	Espresso
+97b463c	Cabitaan Tamar
+43bbfda	Sandwijka Naadiga
+bce7a75	Cuntada Burger
+2832a8d	Casho Hilib
+dee8ee8	BUUXI DHAMMAAN
+a7c2255	Taxanaha Nasiibka
+7919163	Taxane Kulul
+74fdfc2	NASIIBKA UGU BADAN
+d79cd12	Miiska Naxaasta
+2a8ff35	Miiska Lacagta
+51877b2	Miiska Dahabka
+9282152	Miiska Dheemanka
+0de8764	Fadlan geli sannad sax ah.
+d4e14c9	Fadlan geli bil sax ah (1-12).
+addd156	Fadlan geli maalin sax ah.
+d78a4f4	Taariikhdaasi waa mustaqbalka.
+787c7c6	Ku soo dhowow miiskayga! Diyaar ma u tahay inaad ciyaarto?
+8b0f93e	Waan ku faraxsanahay inaan ku arko. Fadhiiso!
+8338021	Salaan! Kaararku waa cusub yihiin, aniguna waan ahay.
+75750f9	Soo dhowow! Aan caawa ka dhigno mid wanaagsan.
+95aac36	Dhig sharadkaaga markaad diyaar tahay.
+8bc63c1	Jibiska dhig, aan aragno kaararka.
+984b7f3	Maxaan u ciyaaraynaa?
+b74c769	Waaw, sharad weyn! Waxaan jeclahay qaabkaaga.
+77fc1fc	Kani waa sharad dhab ah. Aan bilowno!
+7779a5b	Caawa geesinimo ayaad leedahay, sow maaha?
+479ff82	Dhammaan?! Wadnahaygu wuu garaacayaa!
+7fb527c	Wax walba hal gacan. Cabsi la'aan!
+7bf0c5d	Blackjack! Waa yaab!
+123f2d5	Kow iyo labaatan, sidaas oo kale!
+cd850a7	Blackjack! Kaararku way ku jecel yihiin caawa.
+55f50ee	Si fiican ayaad u ciyaartay!
+79594b1	Guulaystaha! Waad ku guulaysatay.
+0df710e	Guul ayaad ku jirtaa!
+20a0c1e	Kaasi adiga ayuu kuu yahay.
+a45fe61	Guul noocee ah! Qof walba wuxuu daawanayaa miiskan!
+54d3982	Aad u weyn! Caawa waad ololaysaa!
+8da8f1e	Aad baad ugu dhowaatay! Ka xiga adiga ayuu kuu yahay.
+5d921e1	Casiinadu markan nasiib ayay yeelatay.
+f923af7	Iska illow, gacan cusub ayaa imanaysa.
+853e7ca	Uff, hal kaar oo dheeraad ah.
+daec44f	Waad dhaaftay! Waxay ku dhacdaa kuwa ugu wanaagsan.
+11ceaef	Barbaro. Qofna ma khasaarin!
+911a289	Barbaro. Jibiskaagu waa nabad.
+a89d9d9	Waan dhaafay! Nasiib baad leedahay.
+f76c8fd	Aad bay iigu badan tahay. Adigaa guulaystay!
+63f8d0b	Blackjack u ah casiinada, raali ahow!
+465c8bf	Qaybiyaha ayaa blackjack leh. Nasiib xumo.
+6752f40	Waxaan muujinayaa Ace. Caymis?
+1920c5a	Waan kala qaybinaynaa! Laba fursadood oo guul ah.
+9f621da	Labalaab. Tallaabo geesinimo leh!
+59da99d	Labalaab! Hal kaar ayaa imanaya.
+0b48017	Kab cusub, waan isku qasayaa!
+3fa7769	Ma dhammaanayaan? Lacag-hayaha ayaa kuu buuxin kara.
+4e5694b	Jibisku wuu yaraanayaa. Ma rabtaa wax dheeraad ah?
+d41f057	Jibiskii wuu dhammaaday! Booqo lacag-hayaha ama qaado jibis bilaash ah.
+15d90d3	Rasadaadu waa madhan tahay. Lacag-hayaha ayaa gadaashaada jooga.
+a9eaae1	Waxaad u egtahay mid aad u daallan! Wax ku cun baarka.
+5cd9e8b	Tamar ma kaa dhammaatay? Baarka ayaa ku daryeeli doona.
+37b9672	Waqtigaaga qaado.
+c64df8c	Markasta oo aad diyaar tahay!
+b8dfc0a	Habeenku weli waa bilow.
+8748560	Nasiibka bilowgaha ayaa kula jira!
+e3def50	Kaararku caawa adiga ayay kula jiraan!
+506ade9	Nasiibka bilowgaha wuu dhammaaday. Hadda wixii ka dambeeya ciyaartu waa caddaalad!
+953d8b7	Ku soo dhowow casiinada! Kursigaagu wuu ku sugayaa.
+9fd9844	Fiid wanaagsan! Miisasku caawa way kulul yihiin.
+2d42aaf	Ku soo dhowow mar kale! Nasiib ma dareemaysaa?
+311bae7	Taabo miis si aad u bilowdo ciyaarta!
+3318099	Ma u baahan tahay jibis dheeraad ah? Daaqadda saxda ah ayaad timid.
+c5b3787	Raso waaweyn, gunno waaweyn!
+21ae665	Ma gaajaysan tahay? Ka dooro wax kasta liiska.
+8b83cc0	Cunto yar ayaa tamartaada kor u haysa!
+35f4b0e	Ku soo dhowow miiskayga!
+8f90245	Waa kan adiga! Meeshu hadda way iftiimaysaa.
+909e4d6	Gurigaaga ka dhig. Caawa wax walba adiga ayay kuu yihiin.
+2477f78	Waan jeclahay dhoollacaddayntaas. Habeen nasiib?
+6ac2120	Naso, gacmo wanaagsan ayaad ku jirtaa halkan.
+089f04b	Adiga! Waxaan rajaynayay inaad iska soo marto daaqaddayda.
+3f2c3c9	Had iyo jeer waa fiican tahay in la arko waji saaxiibtinimo leh.
+3021db8	Eeg cidda timid! Ma ku raaxaysanaysaa?
+769980b	Salaan, qurxoon!
+5361ffd	Waxaan jeclahay qaabkaaga caawa.
+56b40be	Hey, waan ku faraxsanahay inaan mar kale ku arko!
+3316019	Habeen fiican ma haysataa? Waad u qalantaa.
+28283fd	Iska jir, waxaan bilaabi karaa inaan ku taageero.
+109ac94	Ciyaaryahankii aan ugu jeclaa wuu soo laabtay!
+acba0e6	Igu fadhiiso, wax qurux badan ayaan kuu qaybin doonaa.
+eb5ff2a	Miiskan aad baad uga dhigtaa mid xiiso badan.
+772a73c	Hadda ma tagaysaa? Habeenku weli waa bilow!
+178301a	Kaalay, hal gacan oo kaliya. Dareen wanaagsan ayaan qabaa!
+816036a	Hadda ima dayn kartid, waan bilownay hadda uun!
+5c9b7e2	Fursadda ugu dambaysa! Gacanta xigta waxay noqon kartaa tan weyn...
+20ce7b6	Hagaag, hagaag. Kursigaaga diirran ayaan kuu hayn doonaa. Ma ballanqaadaysaa inaad soo laabato?
+51d1aeb	Weli taxane ma lihid? Maanta ciyaar {2} wareeg, waxaan bilaabi doonaa inaan tiriyo.
+10b25d9	Bilow cusub! {2} wareeg, ololkaaguna wuu shidmayaa.
+0c10711	Waxaan hayaa liis yar oo ah kuwa maalin walba yimaada. Adigu kuma jirtid... weli.
+5e7c431	Maalinta {1} ayaa ku sugaysa. {2} wareeg oo kaliya ayaa haray!
+b268d84	{0} maalmood oo isku xiga... hadda ma joogsan doontid, sow maaha?
+b32ae79	Ololkaagu maanta wuxuu u eg yahay mid yara qabow. {2} wareeg ayaa kululayn doona.
+a6f3fbd	Waan tirinayay: {0} maalmood. Aan ka dhigno {1}.
+1dc5c97	Ha moodin inaanan dareemin. {2} wareeg ayaa haray si aad u ilaaliso taxanahaaga!
+807b82c	{0} maalmood oo isku xiga? Waxaan bilaabay inaan u maleeyo inaad halkan jeceshahay.
+6391923	Taxanahaagu maanta waa ammaan. Hadda waxaad uun is tusaysaa.
+3bfbbf7	Maalinta {0}, waa la dhammeeyay. Berri isla waqtigan?
+ca2a2c1	{0} maalmood! Waa inaan kuu hayaa kursi.
+54f991f	Waa kan: maalinta koowaad ee taxanahaaga! Soo laabo berri aan ka dhigno laba.
+a1e7ab0	Toddobaad dhan oo isku xiga! Runtii waan la dhacay.
+96cee95	Soddon maalmood! Dhab ahaantii halkan ayaad ka shaqaysaa.
+a9834cd	Boqol maalmood. Qof walba waxaan uga warramayaa adiga.
+071317f	Taasi waa {0} maalmood oo isku xiga! Is eeg.
+0964027	Taxanihii waa la badbaadiyay: maalinta {0}! Waan ogaa inaad gaari doontid.
+c7f2a1f	Maalinta {0}! Waan kugu sharad gelayaa inaadan gaari doonin {1}.
+a6ce2e2	{0} maalmood... hagaag, faanaa.
+3ab91d0	Ciyaar 10 gacmood oo blackjack ah
+38e863d	Ku guulayso 5 gacmood oo blackjack ah
+6ac41cc	Hel blackjack
+74cf149	Ku guulayso 500 jibis blackjack-ka
+66440e1	Wareeji mashiinnada slot 20 jeer
+9205056	Ku guulayso 5 wareeg oo slot ah
+cd60e0c	Ku guulayso 5 jibbaar sharadkaaga slot-ka
+6f7ac28	Ciyaar 5 wareeg oo roulette ah
+6978cc0	Ku guulayso 3 wareeg oo roulette ah
+c8ebbcc	Ku dhufo hal lambar si toos ah
+8a57c54	goobta GPS
+4919635	shabakadda moobaylka
+527b094	isku xirka internetka
+f49ae82	dejinta qalabka
+60827d3	dalka tijaabada
+0b2f8d8	lama xaqiijin (qiimo caadi ah)
+50d8b4a	lama yaqaan
+4fb7a4e	12-ka 1aad
+647a0eb	12-ka 2aad
+a934745	12-ka 3aad
+3de80ab	2 ilaa 1
+bb4e68e	CAS
+a9414ab	MADOW
+710756a	KISI
+70ca748	DHABAN
+4d60d6c	QIIMO CADDAALAD AH OO DALKAAGA
+1674d95	Qiimaha dukaanka waxaa loo habeeyaa dhaqaalaha dalkaaga, si ciyaartoyda meel kasta ay u bixiyaan qiimo caddaalad ah.
+4ec27ee	Si aan u ogaano dalkaaga, hal mar ayaan hubinaynaa goobtaada qiyaasta ah. Waxaa lagu waafajiyaa dal qalabkaaga dushiisa, meelna looma diro. Haddii aad diiddo, qiimaha caadiga ah ayaa dhaqan gala.
+ff3dbb4	SII WAD
+43a6a8d	Ka tag casiinada?
+ad209a0	Jibiskaaga iyo horumarkaaga waa la kaydiyay.
+5860c84	BAX
+f1e0808	JOOG
+5b38c49	{0} waa la furay
+15ae7ac	Barafayn taxane ayaa shalay badbaadisay taxanahaaga {0} maalmood.
+d375ffb	{0} barafayn ayaa badbaadisay taxanahaaga {1} maalmood.
+fd8ab39	Taxanahaagii {0} maalmood wuu dhammaaday. Ciyaar {1} wareeg maanta si aad u bilowdo mid cusub!
+7fa2db4	HOWLGALKA WAA LA DHAMMEEYAY
+255325c	+{0} jibis
+d205ece	DHAMMAAN HOWLGALLADA WAA LA DHAMMEEYAY!
+4acbed2	Gunno maalinle ah +{0} jibis. Howlgallo cusub berri.
+ab2ceb3	HEERKA {0}!
+86e2afb	Guul muhiim ah! +{0} jibis
+9ae18ad	Soo laabo berri si aad u sii wadato
+7af7e7c	+1 barafayn taxane
+b5b9597	TAXANE {0} MAALMOOD AH!
+62ec60d	Iibsashadu kuma jirto noocan.
+1f9786c	Iibsashadu way guuldarraysatay. Lacag lagaa ma jarin.
+3e4c600	+{0} jibis ayaa lagu daray!
+1998202	{0}: {1} gacmood oo nasiib {2}% ah, kadib Nasiibka Bilowgaha
+728ada5	{0}: {1} gacmood oo nasiib {2}% ah!
+af5e232	{0}: +{1}% tamar
+001a53b	Kuma jiro qalabkan
+2607004	Muuqaallada lagama soo dejin karo shabakaddan
+569c30d	Soo laabo berri
+ecae6ee	Diyaar {0} ilbiriqsi gudahood
+9964820	+{0} jibis ({1} ayaa maanta haray)
+e1bd888	+{0} jibis bilaash ah!
+619bd5d	+1 barafayn taxane!
+f70d794	Hadda muuqaal ma jiro. Mar kale isku day wax yar kadib.
+264d71b	NAXAAS
+462e839	LACAG
+81ff70a	DAHAB
+50e122e	DHEEMAN
+57f5f5e	Liiska
+69bd4ef	Muuqaal
+dbfe736	Iskutallaab
+1cc7820	Goobo
+82810cb	Afargees
+73d3ae2	Saddexagal
+a42f608	Waxaan hubinaynaa gobolkaaga...
+1db422c	Lama xaqiijin ({0}): qiimo caadi ah
+9bc0807	{0} ({1}): qiimaha {2}
+ae8c393	Xusuusin
+aefd59b	Jibis bilaash ah oo diyaar ah iyo xusuusinta taxanaha
+3125838	Jibiskaaga bilaashka ah waa diyaar
+233027b	{0} jibis ayaa kugu sugaya Lucky Ace.
+b93976b	Ilaali taxanahaaga {0} maalmood
+bd68038	Ciyaar {0} wareeg maanta si aanu dib ugu bilaabmin saqda dhexe.
+0acfb6f	Soo dhowow! Nasiibka bilowgaha ayaa caawa kula jira. Dhig sharad!
+d589374	BLACKJACK WAXAY BIXISAA 3 ILAA 2   •   QAYBIYAHU WUXUU JOOGSADAA DHAMMAAN 17   •   CAYMISKU WUXUU BIXIYAA 2 ILAA 1
+b700b02	SHARAD
+16ec74f	TIRTIR
+928226b	KU CELI
+55591e0	QAYBI
+395ed46	KAAR
+43e7971	JOOJI
+097274c	LABALAAB
+6df63ca	KALA QAYBI
+3e40f46	CAYMI
+db82d3a	MAYA, MAHADSANID
+28d6be8	SHARAD {0}+
+9587b70	Waxaad gaartay xadka miiska
+b9ac47d	Jibis kugu filan ma jiro
+d237ade	Qaybiyaha ayaa muujinaya Ace. Ma caymisaa {0}?
+bf07c14	Caymisku wuxuu bixiyaa {0}
+b6e674a	Qaybiyuhu blackjack ma laha. Caymiskii wuu lumay.
+0cc9679	WAAD DHAAFTAY
+82ce89d	QAYBIYAHA WUU DHAAFAY
+6e1e1a4	BLACKJACK!
+662fae5	GUUL
+8918d00	BARBARO
+8df6be4	KHASAARE
+9e69668	Nasiibka bilowgaha wuu dhammaaday. Taxanaha Nasiibkaagu hadda ayuu bilaabmayaa.
+822f4f4	Nasiibka bilowgaha wuu dhammaaday. Hadda wixii ka dambeeya waa blackjack caadi ah.
+b0377c7	Taxanaha Nasiibkaagu wuu dhammaaday. Dib ugu noqo blackjack caadi ah.
+824ad7c	JIBISKII WUU DHAMMAADAY
+ff1822d	Daawo muuqaal gaaban si aad u hesho {0} jibis bilaash ah, ama booqo lacag-hayaha.
+e4cac2f	Booqo lacag-hayaha si aad u buuxiso jibiskaaga.
+c3df3e7	JIBIS BILAASH AH
+b169d33	LACAG-HAYE
+4d38f66	MAR DAMBE
+cb8171b	Marka hore dhammee gacantan.
+3aa6941	“{0}”
+6f846f4	HAL GACAN OO KALE
+a79d4f2	TAG
+693f697	NASIIBKA BILOWGAHA
+641ad58	TAXANAHA NASIIBKA
+fc45931	Gunnada soo dhowaynta ciyaartoyda cusub: <b>{0} gacmood</b>-ka ugu horreeya kabta qaybiyaha waxaa loo diyaariyay faa'iidadaada, sidaa darteed waxaad ku guulaysan doontaa ku dhowaad gacan kasta.
+576c683	<b>{0} gacmood</b>-ka xiga faa'iidadu way yaraanaysaa, kadibna miis kasta waa blackjack caadi ah oo caddaalad ah oo laga qaybiyay kab la isku qasay oo 6 xidhmo ah (blackjack waxay bixisaa 3 ilaa 2, qaybiyuhu wuxuu joogsadaa dhammaan 17).
+7fb55b3	Faa'iidada hadda: <b><color=#7CFC9A>{0}%</color></b>   Gacmaha haray: <b>{1}</b>
+d4f8fe0	<b>{0} gacmood oo blackjack ah</b> oo xiga oo sharadkoodu gaaro <b>{1} jibis</b>, kaar kastaa wuxuu leeyahay fursad <b>{2}%</b> ah inuu faa'iidadaada u yimaado (isla faa'iidada Nasiibka Bilowgaha).
+0a5fc06	Ciyaar wanaagsan ayay ku guulaysataa qiyaastii <b>{0}%</b> gacmaha, marka la barbardhigo qiyaastii {1}% blackjack caadi ah. Sharadyada waaweyni waa blackjack caadi ah, gacmahana ma isticmaalaan. Marka gacmuhu dhammaadaan, miis kasta wuxuu mar kale noqdaa blackjack caadi ah oo caddaalad ah.
+c3a8946	WAA FAHMAY
+8dfc44a	MA RABTAA IN NASIIBKAAGU SOO LAABTO?
+272a97f	Nasiibka Bilowgaha wuu dhammaaday: hadda wixii ka dambeeya miis kasta waa blackjack caadi ah oo caddaalad ah. Taxanaha Nasiibka ayaa faa'iidada soo celiya muddo.
+06b7689	MAALIN WALBA
+4035996	TAXANAHA MAALINLAHA
+fbe7f18	MAALMOOD ISKU XIGA
+7a46866	MAANTA
+4753707	DAAWO XAYAYSIIS
+6bb45f3	IIBSO
+62a945f	BARAFAYN TAXANE
+ba5b1de	Barafayn taxane ayaa taxanahaaga ku haysa nool maalinta aadan ciyaarin. Waxaad haysan kartaa ilaa {0}.\n\nMa iibsanaysaa mid {1} jibis ah?
+38c6090	Barafaynta taxanaha waa diyaar.
+8fe681f	Jibis kugu filan ma jiro barafayn.
+1507c40	JOOJI
+457d20f	WAREEGGA MAALINLAHA
+9623247	WAREEJI
+ac5ef96	Fursadaha:
+1200f20	{0}%
+003a689	Waxaad ku guulaysatay {0} jibis!
+f757137	HOWLGALLADA MAANTA
+7b7f9e2	Ugu fiican: {0} maalmood
+9554fea	Maalin walba ciyaar si aad u dhisto taxane
+5c8dbb8	Hadafka maanta waa la gaaray! Berri ayaan kulmi doonnaa.
+1aeb9a1	Maanta: {0} / {1} wareeg (ciyaar kasta)
+bb92856	Barafaynta taxanaha: {0} / {1}
+0ec6216	Badbaadi taxanahaaga maalinta aad seegto. +1 toddobadii maalmoodba.
+cc0a745	BUUXA
+419a962	MUUQAAL MA JIRO
+2dabd99	XAYAYSIIS DHAWAAN
+f12e166	Gunnada taxanaha: abaalmarinno ×{0}
+80948a4	Hal wareeg oo bilaash ah maalin walba
+596b5e0	KAN XIGA  {0}
+7f7e7fc	Wax walba waa la dhammeeyay! Gunnadii waa la qaatay.
+03a0f2a	Howlgallo cusub saqda dhexe.
+4784874	Dhammee saddexdaba: +{0} jibis gunno ah
+42c5cda	CIYAAR
+337211e	CIYAARAHA
+8f5e3bd	Jiid dhinaca bidix si aad u socoto  •  Jiid dhinaca midig si aad u eegto  •  Taabo si aad u tagto
+d00d221	18+ kaliya  •  Jibisku waa madadaalo: qiimo lacageed ma leh, weligood lagama beddeli karo lacag ama abaalmarin
+b60f038	Albaabbada ayaa la furayaa...
+2e5bcce	Soo dhowow! {0}-ka jibis ee soo dhowaynta waa diyaar. Miisasku waa hortaada!
+7ef7ae3	+{0} jibis bilaash ah! Kuwo kale {1} saacadood kadib.
+5d82af9	Jibiska bilaashka ah waxaa la buuxiyaa {0}-dii saacadoodba. Kan xiga {1} kadib.
+5469985	{0}s {1}d
+bb65beb	{0}d {1}i
+ac8ba93	ILAALI TAXANAHAAGA
+560bfa1	Ma rabtaa xusuusin fiidadka aadan weli ciyaarin, iyo marka jibiskaaga bilaashka ah diyaar yahay? Weligeed kama badnaan doonto taas, waxaadna ka dami kartaa Dejinta.
+b724a40	I XUSUUSI
+9e0c898	+{0} jibis waa diyaar!
+1207e28	Daawo muuqaal: {0}
+db3655b	Jibiska bilaashka ah ee xiga {0} kadib
+4ca9be5	BLACKJACK
+9a612b1	4 miis  •  waxay bixisaa 3 ilaa 2
+1194439	SLOT
+6555152	Lucky Ace 7s  •  10 xariiq
+255b1a1	ROULETTE
+6df1551	Yurub hal eber leh
+379b146	AAD BAAD U DAALLAN TAHAY
+340e5c4	Tamartaadu waa madhan tahay. Wax ka qaado baarka si aad u sii ciyaarto, ama mar dambe soo laabo: tamartu si tartiib ah ayay u soo noqotaa inta aad maqan tahay.
+a517396	U TAG BAARKA
+7c7227f	DOORO MIISKAAGA
+c963de3	SHARADYADA
+c433657	HEERKA {0}
+083ac39	FADHIISO
+9698219	U BAAHAN {0}
+34b737e	Gaar heerka {0} si aad halkan u ciyaarto. Waxaad joogtaa heerka {1}.
+6cc19a9	CASIINO
+6e946b7	MM
+4a3a892	BB
+2857a6a	SSSS
+9d1fece	MAALIN
+d3bb0c3	BIL
+c0f0cad	SANNAD
+43985ff	GOORMAAD DHALATAY?
+293fda2	Jibisku waa madadaalo kaliya. Qiimo lacageed ma leh, weligoodna lagama beddeli karo lacag ama abaalmarin.
+3e9128d	RAALI AHOW, MA CIYAARI KARTID
+b5e8985	{0} waxaa loogu talagalay dadka waaweyn kaliya.
+bb1b380	BAX
+d9f9432	Wuxuu xirmayaa {0} kadib...
+c6e102d	NOO SHEEG ADIGA
+31120ce	Waxaan kuu dooran doonnaa martigeliyeyaal, qaybiyeyaal iyo shaqaalaha baarka oo ku habboon. Waxaad tan beddeli kartaa wakhti kasta Dejinta.
+49e8df9	WAXAAN AHAY NIN
+85abe81	WAXAAN AHAY NAAG
+76cc98c	DOORBIDAA INAANAN SHEEGIN
+964daf7	GAL CASIINADA
+2efb69a	Shaqaalahaaga caawa:
+c10e749	Bogga {0} ee {1}
+2a3ffd9	LUQADDA
+c673535	TOOS
+d1245d2	DALKA
+15fc12b	Soo dhowaada! Fadlan dhiga sharadyadiinna.
+531fb3f	Jibis kugu filan ma jiro sharadkaas.
+380eb75	Xadka miisku waa {0} wareeg kasta.
+55ad592	KA NOQO
+8f191f9	WADARTA SHARADKA  {0}
+82e1181	Taabo looxa si aad u dhigto jibis
+bb19a75	Sharad dambe ma jiro!
+5becf07	CAGAAR
+bc74f4f	cagaar
+7898801	cas
+466bc8c	madow
+f2edfbf	Garaac noocee ah! Hambalyo!
+b252caf	Guulaystaha! Waxaad ku guulaysatay {0}.
+8587d14	GUUL  +{0}
+b862a2b	{0} {1}. {2} ayaa kuu soo noqonaya.
+a306d0a	LA SOO CELIYAY  {0}
+af3134d	Guul ma jirto markan
+84122e7	Fadlan dhiga sharadyadiinna.
+52205f4	Sug inta kubaddu joogsanayso.
+c4b9243	DEJINTA
+44d863e	GUUD
+2bbca79	SAWIRRADA
+955c8b4	CODKA
+c701f5f	TAABASHO
+efcc94a	JIIRKA
+8433628	XAKAMEEYAHA
+d868a50	GARIIR
+f8692c7	18+ • Jibisku qiimo lacageed ma leh • Farta: Bebas Neue, Poppins, Noto (SIL OFL) • Xuduudaha: Natural Earth • Xogta qiimaha: Bangiga Adduunka
+da46447	SHAQAALAHA CASIINADA
+594b81e	DUMARKA
+69d3313	RAGGA
+b4325d3	ISKU DHAFAN
+414594a	XUSUUSIN
+6cac87b	Jibis bilaash ah oo diyaar ah, iyo xusuusin fiid ah ka hor inta aanu taxane dhammaan.
+e43b2e0	HUBI MAR KALE
+7c9e8f9	GOBOLKA QIIMAHA
+495c70e	Ugu dhaqsaha badan: casiinada sida loo sawiray, wax dheeraad ah ma leh.
+b052523	Sagxadaha dhalaalaya, alwaaxa iyo dahabku waxay muujiyaan qolka.
+6bd30d7	Muuqaal filim: midabo la habeeyay, firir, dhalaal, fallaaro iftiin, maqaar nool.
+21b6e1d	Muraayadda shineemada: diiraddu waxay raacdaa ishaada, xariijimo nalalka, boodh fallaarta iftiinka.
+fb7c2e8	TAYADA
+d8b9679	HOOSE
+f68525a	DHEXDHEXAAD
+d77d0b2	SARE
+9289eee	ULTRA
+637e313	CADDAANSHAHA
+2e7b141	Midka hoose waa jilicsan yahay laakiin wuu qaboobaa oo battery-ga ayuu kaydiyaa.
+93dcfb5	HABKA SHAASHADDA
+3c6eac3	SHAASHAD BUUXDA
+f3690b1	DAAQAD
+cfa6200	SIMAYNTA GEESAHA
+ad50489	DAMAN
+f178804	Wuxuu simaa geesaha qallafsan ee casiinada.
+4266288	HEERKA SAWIRRADA
+d031ab0	{0} FPS
+a2b7514	30 FPS waxay kaydisaa battery-ga, telefoonnada duugga ahna way qaboojisaa.
+0babcee	V-SYNC
+6656e25	GOOBTA ARAGTIDA
+244aadb	MUUJI FPS
+41c8f6e	CODKA GUUD
+bf3af1f	MUUSIG
+bd80907	SAAMAYNTA CODKA
+d098036	CODADKA SHAQAALAHA
+93c6484	Guuxa shaqaaluhu sameeyaan marka ay hadlayaan.
+16bf71a	AAMUSI GADAAL
+85b2ee7	Waxay aamusisaa casiinada markaad daaqad kale ku jirto.
+8e3634e	DAREENKA EEGMADA
+880dc05	Sida dhaqsaha ah ee jiidistu u rogto muuqaalka.
+750c60f	Sida dhaqsaha ah ee jiidista jiirku u rogto muuqaalka.
+8b988eb	ROG EEGMADA BIDIX / MIDIG
+cacf0cc	ROG EEGMADA KOR / HOOS
+2d13b68	QAABKA BADHAMADA
+50c3f10	TOOS
+b471e5c	BEDDEL LIISKA / MUUQAALKA
+d9a59f1	DAREENKA ULAHA
+ec14343	Sida dhaqsaha ah ee usha midigtu u rogto muuqaalka.
+a79af23	ROG ULAHA BIDIX / MIDIG
+acfc66e	ROG ULAHA KOR / HOOS
+56bb461	TALOOYINKA XAKAMEEYAHA
+51cf49a	Wuxuu muujiyaa waxa badhan kastaa qabto markaad xakameeye ku ciyaarayso.
+dff7431	GARIIR KU SAMEE
+34139ab	TELEFOON
+15ee988	LABADABA
+465cc91	Toos: xakameeyaha marka uu ku xiran yahay, haddii kale telefoonka.
+f6fed84	GARIIRKA TELEFOONKA
+8e97fa7	XOOGGA TELEFOONKA
+486ba2d	GARIIRKA XAKAMEEYAHA
+8008889	XOOGGA XAKAMEEYAHA
+ea9233e	TOOS ({0})
+167dda7	{0} wuxuu furaa Dejinta, {1} wuxuu furaa Maalin walba.
+29a4ef9	Xakameeye ku xiran ma jiro.
+558ecd2	Ku xiran: {0}. Waxaa la muujinayaa badhamada {1} (A dhinaca midig ayaa xaqiijiya).
+d6eee9e	Ku xiran: {0}. Waxaa la muujinayaa badhamada {1}.
+78525d5	BAARKA
+099db9f	NASIIB
+b4a8b06	Jibiska, nasiibka iyo cuntadu waa walxo dhijitaal ah oo madadaalo kaliya ah: qiimo lacageed ma leh, lagama beddeli karo lacag ama abaalmarin.
+e2a28c9	Kaar kastaa wuxuu leeyahay fursaddaas inuu faa'iidadaada u yimaado, sharadyada blackjack-ka ilaa {0} jibis (sharadyada waaweyni waa caadi, gacmahana ma isticmaalaan). Wuxuu bilaabmaa kadib Nasiibka Bilowgaha; xidhmooyinka xoogga badan ayaa marka hore la isticmaalaa.
+04fbc6d	Oggolow helitaanka goobta si aad u hesho qiimaha dalkaaga
+2ae87fc	Iibsashadu kuma jirto noocan ciyaarta.
+8239a84	DUKAANKA TIJAABADA (lacag dhab ah maaha)
+173d916	tamar
+b2c67eb	+{0}% JIBIS
+58e8011	{0} gacmood
+ce80712	wuxuu ku guulaystaa qiyaastii {0}% kood
+c69e8ee	LUCKY ACE 7s
+fc99288	WADARTA SHARADKA
+c1c00cd	JADWALKA LACAG BIXINTA
+3930abd	NASIIB WANAAGSAN!
+67b6973	Waxaad u baahan tahay ugu yaraan 10 jibis si aad u wareejiso.
+5aa1edb	HEL JIBIS
+f5a1812	Sharadka waxaa loo dhimay inta aad bixin karto.
+5c63f61	GUUL AAD U WEYN!
+652544f	GUUL WEYN!
+91bc41c	LA SOO CELIYAY {0}
+3714283	GUUL MA JIRTO
+33c0faa	XARIIQ {0}: {1} × {2} = {3}
+9f59e6e	{0} XIDDIG = {1}
+d6eee90	Jeeri
+4459b79	Liin dhanaan
+09fb6aa	Liin macaan
+cb92e50	Bilaan
+d419866	Gambaleel
+e496fd2	Bar
+63abb56	Toddoba
+b3850e0	Dheeman
+fc2b5a9	Ace
+85a7de6	Xiddig
+c31b035	XIDDIGAHU meel kasta way bixiyaan: 5 = {0}× sharad, 4 = {1}× sharad, 3 = {2}× sharad.
+f97509c	ACE waa wild: wuxuu bedelaa calaamad kasta marka laga reebo xiddigta.
+3e8bc69	Lacag bixinta xariiqyadu waa jibbaarka sharadka xariiqda (wadarta sharadka ÷ 10), bidix ilaa midig laga bilaabo giraanta koowaad.
+523f8dc	SOO CELINTA: {0}% muddo dheer. Wareeg kastaa waa madax-bannaan yahay oo waa nasiib.
+e0c705d	Soco
+b8db515	Eeg
+503d46d	Badhamada
+c7f73bb	Dejinta
+728298d	Maalin walba
+ab166bd	Hagaaji
+76cdb95	Dhaqaaq
+8598222	Dooro
+bbfa773	Xir
+b52b36b	Dib u noqo
+ab37588	DAALLAN
+9b11a09	NASIIBKA BILOWGAHA {0}%
+0c94e98	{0} GACMOOD AYAA HARAY
+51ed273	TAXANAHA NASIIBKA {0}%
+3401470	{0} GACMOOD  •  SHARAD ILAA {1}
+f481cc6	HEERKA
+0139615	SOO DHOWOW
+daad514	LA HADAL MARTIGELIYAHA
+bcefb10	Tilmaamo iyo talooyin
+c28e782	JIBIS  •  GUNNO
+0c69ec4	IIBSO JIBIS
+78c0727	Lacag-haye
+1737fab	KOOKTEEL  •  CUNTO FUDUD  •  TAMAR
+9e008ae	CUNTO IYO CABITAAN
+f7881e8	Baarka
+0e979ed	BLACKJACK WAXAY BIXISAA 3 ILAA 2
+eea0d12	QAYBIYAHU WAA INUU KU JOOGSADO 17
+4db37bf	CIYAAR BLACKJACK
+0ffdd99	Miiska {0}  •  sharad {1} ilaa {2}
+b4f938b	CIYAAR SLOT
+6b7caea	DHIGA SHARADYADIINNA
+26b1e39	CIYAAR ROULETTE
+910a1ed	Giraan Yurub  •  lambar toos ah wuxuu bixiyaa 35 ilaa 1
+7ef0215	DALBO CABITAAN
+fe38d73	{0} ayaa keenaya
+f7b6306	{0} wuxuu furmaa heerka {1}. Waxaad joogtaa heerka {2}: wareeg kasta oo aad ciyaarto waa la tiriyaa.
+d85f1ad	Miiskani wuxuu u baahan yahay ugu yaraan {0} jibis.
+cbfe016	Miisaska blackjack-ku waa hortaada. U soco mid oo fadhiiso!
+64d9faf	Lacag-hayuhu waa halkan midigtaada, baarkuna wuxuu ku yaallaa derbiga bidix.
+e4c6e0b	Ma daallan tahay? Cunto fudud oo baarka ah ayaa isla markiiba buuxisa tamartaada.
+d5ab68f	Taabo meel kasta oo sagxadda ah waadna u socon doontaa halkaas. Taabo miis si aad u fadhiisato.
+cc21f74	YAR
+dc01dec	WEYN
+5fb90b0	SADDEX KASTA
+9c716f1	Miiska hold'em
+3b6ab84	Ciyaar 8 gacmood oo hold'em ah
+6c617ca	Ku guulayso 4 gacmood oo hold'em ah
+44ce500	Ciyaar 10 gacmood oo baccarat ah
+b90cff7	Ku guulayso 5 gacmood oo baccarat ah
+3e4dfa9	Ciyaar 15 gacmood oo video poker ah
+854fe20	Ciyaar 8 wareeg oo sic bo ah
+dfddac1	Ku guulayso 4 wareeg oo sic bo ah
+2973ea7	Tuur laadhuuga 15 jeer craps-ka
+737be17	Ku guulayso 4 tuuris craps-ka
+4dbb81d	Samee flush ama ka wanaagsan video poker-ka
+19aa07b	Royal flush
+cf83e72	Straight flush
+d27ba03	Afar isku mid ah
+dbe8641	Full house
+7c936d7	Flush
+2501c65	Isku xigta
+ca1a0d4	Saddex isku mid ah
+6876b40	Laba lammaane
+2537f88	Lammaane
+b4b323e	Kaarka ugu sarreeya
+f70bfdc	Jack ama ka wanaagsan
+98fd5af	BACCARAT
+df66d5a	Ku soo dhowow baccarat! Ciyaaryahan, Bangi mise Barbarro?
+5055efd	CIYAARYAHAN
+3f90696	BARBARRO
+0d75f63	BANGI
+0ebd5a4	NATIIJOOYINKII UGU DAMBEEYAY
+511993d	C
+ae4f281	B
+c2c53d6	R
+781246e	Dooro jib, kadib taabo Ciyaaryahan, Bangi ama Barbarro
+11023a0	BARBARRO  {0}
+503d5f1	CIYAARYAHANKA AYAA GUULAYSTAY  {0} IYO {1}
+0eb4be5	BANGIGA AYAA GUULAYSTAY  {0} IYO {1}
+7859af1	CRAPS
+4083dbd	Ku soo dhowow craps! Sharad dhig Pass Line-ka oo tuur.
+d266326	LIX
+c506f3a	SAGAAL
+987f4e9	FIELD
+71c1b2b	2 3 4 9 10 11 12  •  2 iyo 12 waxay bixiyaan laban-laab
+d0ac294	7 KASTA
+9b2f0c3	CRAPS KASTA
+f62ac59	DON'T PASS BAR
+6080ade	1:1  •  12 waa barbarro
+c07247a	PASS LINE
+6229f78	ODDS
+29bf819	fursadaha dhabta ah
+387d7a5	SHIDAN
+229c9cc	Odds-ka waxaa la dhigaa gadaasha Pass Line-ka marka dhibic jirto.
+c2c8e82	Odds-ku waxay u baahan yihiin sharad Pass Line ah.
+1784d43	Odds-kaagu waa heerka ugu sarreeya.
+fdc3442	Sharadaha xariiqda waxaa la dhigaa tuuriska koowaad.
+97ce95b	MIISKA DUSHIISA  {0}
+a895ec0	Dhibicdu waa {0}: mar kale tuur ka hor 7. Odds-ka ka dambeeya Pass Line-ka waxay bixiyaan fursadaha dhabta ah.
+d9f9d65	TUUR
+bcf32ef	Dhibicdu waa {0}.
+5b450b4	{0}! Dhibicdii waa la helay. Guul!
+9746e08	Toddoba ayaa soo baxday. Tuure cusub, tuuris koowaad oo cusub.
+4fc4664	{0}, natural! Pass Line-ka ayaa guulaystay.
+203f466	{0}, craps. Xariiqdu way lumisay.
+0f8e260	Sug ilaa laadhuugu istaagaan.
+6a98cfe	MA KA TAGAYSAA MIISKA?
+8430088	Sharadkaaga xariiqda wali wuu socdaa dhibicda {0}. Haddii aad hadda tagto, waad lumin doontaa.
+0e138d1	HOLD'EM
+5e023be	Ku soo dhowow hold'em! Dhig ante-ga aan aragno kaararka.
+0cd62f5	ANTE
+5e9f331	BLIND
+3b935ab	BLIND-KA WUU BIXIYAA
+20713a4	Qaybiyuhu wuu u qalmaa lammaane ama ka wanaagsan
+d37267c	CHECK
+9a4e316	FOLD
+88313c4	SHARAD {0}×
+42c6fea	Ante {0} + blind {0}. Kaydi {1} kale kor u qaadista.
+1abb2f2	Taabo jibbabka si aad u dejiso ante-ga. Blind-ku waa isku mid.
+f541cec	Check, mise sharad saddex ama afar jeer ante-ga?
+fc74a79	Kor u qaad hadda 4× ama 3× ante-ga, ama samee check oo eeg flop-ka.
+b687501	Fursadda ugu dambaysa: sharad 1× ante-ga, ama fold oo lumi ante-ga iyo blind-ka.
+400009c	Sharad 2× ante-ga hadda, ama samee check oo eeg labada kaar ee ugu dambeeya.
+f4abdf9	Waa kan flop-ku.
+0e51f2c	Turn iyo river.
+cc856d3	Aan eegno waxa aan haysto.
+6ba1f3e	Qaybiyuhu uma qalmo: ante-gaagu wuu soo noqonayaa.
+cf1fdc5	Waad fold gareysay. Gacanta xigta adiga ayay kuu tahay.
+177fab0	Ultimate Texas Hold'em
+c4917b9	Ciyaaryahan, Bangi ama Barbarro
+6e4fe7b	VIDEO POKER
+73cabd3	Jacks or Better
+91c4555	SIC BO
+d810061	Saddex laadhuu  •  weyn ama yar
+85ab7ec	Pass Line  •  Field  •  Odds
+35d8db6	Ku soo dhowow sic bo! Weyn, yar mise wax ka geesisan?
+3d05514	Xadka miiska waa {0} tuuris kasta.
+86ade94	RUXRUX
+b69304e	SADDEX {0}!
+5d1bcc6	LA HAYO
+36a21ba	Qaybi, hay kaararka aad rabto, beddel hal mar.
+99fa8e8	HAY
+249d1c0	TALO
+7aab1bd	BEDDEL
+5595eb4	Taabo kaararka si aad u hayso, kadib beddel.
+1c05db9	CIYAAR HOLD'EM
+e353e5f	Ultimate Texas Hold'em  •  ante {0} ilaa {1}
+6470369	CIYAAR BACCARAT
+bbe0077	WEYN  •  YAR  •  SADDEXLEYAAL
+3ba448f	CIYAAR SIC BO
+097c59c	Saddex laadhuu  •  weyn ama yar waxay bixisaa 1 iyo 1
+af2ca30	PASS LINE  •  FIELD  •  ODDS
+f18398e	CIYAAR CRAPS
+eeede6d	Pass Line-ku wuxuu bixiyaa 1 iyo 1  •  odds-ku waxay bixiyaan fursadaha dhabta ah
+34e5170	CIYAAR VIDEO POKER
+f71bdfb	Jacks or Better  •  shax buuxda 9/6
+4a6c087	JACKS OR BETTER  •  ROYAL FLUSH WUXUU BIXIYAA 800×
+370a133	Mashiinnada slot-ku waxay ku yaalliin darbiga midig, video poker-ku darbiga dambe, roulette-kuna gadaal.
+8298d28	Hold'em-ku wuxuu ku yaal geeska dambe ee bidix, baarka ka dib.
+a2a111f	Baccarat-ku wuxuu ku yaal bidixda isla markaad gasho.
+b7193bc	Sic bo wuxuu ku yaal geeska ka dambeeya qasnadda: saddex laadhuu, weyn ama yar.
+25320c8	Miiska craps-ku wuxuu ku yaal midigta, mashiinnada hortooda. Sharad dhig Pass Line-ka oo tuur!
+dc81691	Sofia
+4d9936f	Elena
+3aa0674	Mia
+b724114	Valentina
+34d3f7f	Chloe
+0fc9dd6	Isabella
+bbd3e35	Nadia
+eac677d	Aria
+baaf10f	Luna
+8641381	Camila
+eeee9b7	Aurora
+8a59f05	Bianca
+5a0fc29	Serena
+bf38aa5	Marco
+cfaf50a	Leo
+5815f22	Adrian
+cbede02	Lucas
+f0b9995	Viktor
+7b37259	Daniel
+aaac72d	Gabriel
+2f8f37e	Ethan
+a01126e	Julian
+3e05c90	Rafael
+e1ae457	Mateo
+3398634	Nico
+7aa2d07	Enzo
+1920e2f	Tuuriska koowaad: sharad dhig Pass Line, kadib tuur. 7 ama 11 way guulaysataa, 2, 3 ama 12 waa lumisaa. Sharadyada Place waxay bilaabmaan inay shaqeeyaan marka dhibic jirto.
+99f4934	LUCKY ACE 7s  •  WAXAY BIXISAA ILAA 2,500× SHARADKAAGA XARIIQDA

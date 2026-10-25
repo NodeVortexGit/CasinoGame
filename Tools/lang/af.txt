@@ -1,0 +1,659 @@
+# Afrikaans (af). Machine translation by Claude.
+bd99124	Handvol skyfies
+c7c6dc8	Stapel skyfies
+7512cfd	Skinkbord skyfies
+fa36588	Rak skyfies
+7994f65	GEWILDSTE
+49dcc21	Kluis vol skyfies
+0725283	Grootspeler se kluis
+7658705	BESTE WAARDE
+2f23432	Vonkelwater
+418b820	Espresso
+97b463c	Energiedrankie
+43bbfda	Klubtoebroodjie
+bce7a75	Burgerete
+2832a8d	Steakaandete
+dee8ee8	VOLLE HERVUL
+a7c2255	Gelukstreep
+7919163	Warm streep
+74fdfc2	MEESTE GELUK
+d79cd12	Bronstafel
+2a8ff35	Silwertafel
+51877b2	Goudtafel
+9282152	Diamanttafel
+0de8764	Voer asseblief 'n geldige jaar in.
+d4e14c9	Voer asseblief 'n geldige maand in (1-12).
+addd156	Voer asseblief 'n geldige dag in.
+d78a4f4	Daardie datum is in die toekoms.
+787c7c6	Welkom by my tafel! Gereed om te speel?
+8b0f93e	Lekker om jou te sien. Sit gerus!
+8338021	Hallo daar! Die kaarte is vars, en ek ook.
+75750f9	Welkom! Kom ons maak vanaand 'n goeie een.
+95aac36	Plaas jou weddenskap wanneer jy gereed is.
+8bc63c1	Skyfies neer, en kom ons kyk na kaarte.
+984b7f3	Waarvoor speel ons?
+b74c769	Ooh, 'n groot weddenskap! Ek hou van jou styl.
+77fc1fc	Dís 'n weddenskap. Kom ons doen dit!
+7779a5b	Jy voel dapper vanaand, nè?
+479ff82	Alles in?! My hart klop wild!
+7fb527c	Alles op een hand. Vreesloos!
+7bf0c5d	Blackjack! Ongelooflik!
+123f2d5	Een-en-twintig, net so!
+cd850a7	Blackjack! Die kaarte is lief vir jou vanaand.
+55f50ee	Mooi gespeel!
+79594b1	Wenner! Mooi so.
+0df710e	Jy is op dreef!
+20a0c1e	Daardie een is joune.
+a45fe61	Wat 'n wen! Almal kyk na hierdie tafel!
+8da8f1e	So naby! Die volgende een is joune.
+5d921e1	Die huis was dié keer gelukkig.
+f923af7	Skud dit af, 'n nuwe hand kom.
+853e7ca	Eina, een kaart te veel.
+daec44f	Bars! Dit gebeur met die beste van ons.
+11ceaef	Gelykop. Niemand verloor nie!
+911a289	Gelykop. Jou skyfies is veilig.
+a89d9d9	Ek het gebars! Gelukkige jy.
+f76c8fd	Te veel vir my. Jy wen!
+63f8d0b	Blackjack vir die huis, jammer!
+6752f40	Ek wys 'n aas. Versekering?
+1920c5a	Ons verdeel! Twee kanse om te wen.
+9f621da	Verdubbel. Dapper skuif!
+59da99d	Verdubbel! Een kaart kom.
+3fa7769	Raak jy min? Die kassier kan jou aanvul.
+4e5694b	Die skyfies raak min. Wil jy meer kry?
+d41f057	Skyfies op! Besoek die kassier of kry gratis skyfies.
+15d90d3	Jou stapel is leeg. Die kassier is net agter jou.
+a9eaae1	Jy lyk uitgeput! Kry iets te ete by die kroeg.
+5cd9e8b	Loop jy op leeg? Die kroeg help jou reg.
+37b9672	Vat jou tyd.
+c64df8c	Wanneer jy ook al gereed is!
+b8dfc0a	Die nag is nog jonk.
+8748560	Beginnersgeluk is aan jou kant!
+e3def50	Die pak is vanaand aan jou kant!
+506ade9	Beginnersgeluk is verby. Van nou af is dit 'n regverdige spel!
+953d8b7	Welkom by die casino! Jou sitplek wag.
+9fd9844	Goeienaand! Die tafels is warm vanaand.
+2d42aaf	Welkom terug! Voel jy gelukkig?
+311bae7	Tik op 'n tafel om te begin speel!
+3318099	Meer skyfies nodig? Jy het by die regte venster gekom.
+c5b3787	Groter stapels, groter bonusse!
+21ae665	Honger? Kies enigiets van die spyskaart.
+8b83cc0	'n Happie hou jou energie op!
+35f4b0e	Welkom by my tafel!
+8f90245	Daar is jy! Die plek voel sommer helderder.
+909e4d6	Maak jou tuis. Vanaand gaan dit alles oor jou.
+2477f78	Ek is mal oor daardie glimlag. Gelukkige aand?
+6ac2120	Ontspan, jy is in goeie hande hier.
+089f04b	Haai jy! Ek het gehoop jy sal by my venster inloer.
+3f2c3c9	Altyd lekker om 'n vriendelike gesig te sien.
+3021db8	Kyk wie's hier! Geniet jy dit?
+5361ffd	Ek hou vanaand van jou styl.
+56b40be	Haai, lekker om jou weer te sien!
+3316019	Het jy 'n lekker aand? Jy verdien dit.
+28283fd	Pasop, ek begin dalk vir jou duim vashou.
+109ac94	My gunstelingspeler is terug!
+eb5ff2a	Jy maak hierdie tafel baie meer pret.
+772a73c	Gaan jy al? Die nag is nog jonk!
+178301a	Toe nou, net nog een hand. Ek het 'n goeie gevoel oor hierdie een!
+816036a	Jy kan my nie nou los nie, ons het skaars begin!
+5c9b7e2	Laaste kans! Die volgende hand kan die groot een wees...
+20ce7b6	Goed, goed. Ek hou jou sitplek warm. Belowe jy kom terug?
+0c10711	Ek hou 'n lysie van wie elke dag opdaag. Jy is nie daarop nie... nog nie.
+b268d84	{0} dae op 'n ry... jy gaan tog nie nou ophou nie?
+a6f3fbd	Ek het getel: {0} dae. Kom ons maak dit {1}.
+807b82c	{0} dae op 'n ry? Ek begin dink jy hou van hier.
+6391923	Jou streep is veilig vir vandag. Nou wys jy net af.
+3bfbbf7	Dag {0}, klaar. Môre dieselfde tyd?
+ca2a2c1	{0} dae! Ek moet seker 'n sitplek vir jou hou.
+54f991f	Daar is dit: dag een van jou streep! Kom môre terug en ons maak dit twee.
+a1e7ab0	'n Hele week op 'n ry! Ek is regtig beïndruk.
+96cee95	Dertig dae! Jy werk prakties hier.
+a9834cd	Honderd dae. Ek vertel almal van jou.
+071317f	Dis {0} dae op 'n ry! Kyk na jou.
+0964027	Streep gered: dag {0}! Ek het geweet jy sal dit maak.
+c7f2a1f	Dag {0}! Ek wed jy haal nie {1} nie.
+a6ce2e2	{0} dae... goed, spoggerd.
+3ab91d0	Speel 10 hande blackjack
+38e863d	Wen 5 hande blackjack
+6ac41cc	Kry 'n blackjack
+74cf149	Wen 500 skyfies by blackjack
+66440e1	Draai die slotmasjiene 20 keer
+9205056	Wen 5 slotdraaie
+6f7ac28	Speel 5 rondtes roulette
+6978cc0	Wen 3 roulettedraaie
+8a57c54	GPS-ligging
+4919635	selnetwerk
+527b094	internetverbinding
+f49ae82	toestelinstellings
+60827d3	toetsland
+0b2f8d8	nie geverifieer nie (standaardprys)
+50d8b4a	onbekend
+4fb7a4e	1ste 12
+647a0eb	2de 12
+a934745	3de 12
+3de80ab	2 tot 1
+bb4e68e	ROOI
+a9414ab	SWART
+710756a	ONEWE
+70ca748	EWE
+4d60d6c	REGVERDIGE PRYSE VIR JOU LAND
+1674d95	Winkelpryse word by jou land se ekonomie aangepas, sodat spelers oral 'n regverdige prys betaal.
+4ec27ee	Om jou land te vind, kyk ons een keer na jou benaderde ligging. Dit word op jou toestel by 'n land gepas en nooit iewers heen gestuur nie. As jy weier, geld standaardpryse.
+ff3dbb4	GAAN VOORT
+43a6a8d	Verlaat die casino?
+ad209a0	Jou skyfies en vordering is gestoor.
+5860c84	VERLAAT
+f1e0808	BLY
+5b38c49	{0} ontsluit
+15ae7ac	'n Streepbevriesing het gister jou streep van {0} dae gered.
+d375ffb	{0} streepbevriesings het jou streep van {1} dae gered.
+7fa2db4	SENDING VOLTOOI
+255325c	+{0} skyfies
+d205ece	ALLE SENDINGS KLAAR!
+4acbed2	Daaglikse bonus +{0} skyfies. Nuwe sendings môre.
+ab2ceb3	VLAK {0}!
+86e2afb	Mylpaal! +{0} skyfies
+9ae18ad	Kom môre terug om aan te hou
+7af7e7c	+1 streepbevriesing
+b5b9597	{0} DAE OP 'N RY!
+62ec60d	Aankope is nie in hierdie weergawe beskikbaar nie.
+1f9786c	Aankoop het misluk. Jy is nie gehef nie.
+3e4c600	+{0} skyfies bygevoeg!
+1998202	{0}: {1} hande teen {2}% geluk, ná beginnersgeluk
+728ada5	{0}: {1} hande teen {2}% geluk!
+af5e232	{0}: +{1}% energie
+001a53b	Nie op hierdie toestel beskikbaar nie
+2607004	Video's kan nie op hierdie netwerk laai nie
+569c30d	Kom môre terug
+ecae6ee	Gereed oor {0}s
+9964820	+{0} skyfies ({1} oor vandag)
+e1bd888	+{0} gratis skyfies!
+619bd5d	+1 streepbevriesing!
+f70d794	Geen video op die oomblik beskikbaar nie. Probeer weer oor 'n rukkie.
+264d71b	BRONS
+462e839	SILWER
+81ff70a	GOUD
+50e122e	DIAMANT
+57f5f5e	Kieslys
+69bd4ef	Aansig
+a42f608	Kontroleer jou streek...
+1db422c	Nie geverifieer nie ({0}): standaardpryse
+9bc0807	{0} ({1}): pryse in {2}
+ae8c393	Herinneringe
+aefd59b	Gratis skyfies gereed en streepherinneringe
+3125838	Jou gratis skyfies is gereed
+233027b	{0} skyfies wag vir jou by Lucky Ace.
+b93976b	Hou jou streep van {0} dae
+0acfb6f	Welkom! Beginnersgeluk is vanaand aan jou kant. Plaas 'n weddenskap!
+b700b02	WEDDENSKAP
+16ec74f	MAAK SKOON
+928226b	HERHAAL
+43e7971	STAAN
+097274c	VERDUBBEL
+6df63ca	VERDEEL
+3e40f46	VERSEKER
+db82d3a	NEE DANKIE
+9587b70	Tafelmaksimum bereik
+b9ac47d	Nie genoeg skyfies nie
+bf07c14	Versekering betaal {0}
+0cc9679	BARS
+6e1e1a4	BLACKJACK!
+662fae5	WEN
+8918d00	GELYKOP
+8df6be4	VERLOOR
+9e69668	Beginnersgeluk is verby. Jou Gelukstreep begin nou.
+822f4f4	Beginnersgeluk is verby. Van nou af is dit gewone blackjack.
+b0377c7	Jou Gelukstreep is verby. Terug na gewone blackjack.
+824ad7c	SKYFIES OP
+ff1822d	Kyk 'n kort video vir {0} gratis skyfies, of besoek die kassier.
+e4cac2f	Besoek die kassier om jou skyfies aan te vul.
+c3df3e7	GRATIS SKYFIES
+b169d33	KASSIER
+4d38f66	LATER
+cb8171b	Voltooi eers hierdie hand.
+3aa6941	“{0}”
+6f846f4	NOG EEN HAND
+a79d4f2	VERTREK
+693f697	BEGINNERSGELUK
+641ad58	GELUKSTREEP
+7fb55b3	Voordeel nou: <b><color=#7CFC9A>{0}%</color></b>   Hande oor: <b>{1}</b>
+0a5fc06	Met goeie spel wen dit sowat <b>{0}%</b> van hande, teenoor sowat {1}% in gewone blackjack. Groter weddenskappe is gewone blackjack en gebruik nie hande op nie. Wanneer die hande op is, is elke tafel weer gewone, regverdige blackjack.
+c3a8946	VERSTAAN
+8dfc44a	WIL JY JOU GELUK TERUG HÊ?
+272a97f	Beginnersgeluk is verby: van nou af is elke tafel gewone, regverdige blackjack. 'n Gelukstreep bring die voordeel vir 'n ruk terug.
+06b7689	DAAGLIKS
+4035996	DAAGLIKSE STREEP
+fbe7f18	DAE OP 'N RY
+7a46866	VANDAG
+4753707	KYK ADVERTENSIE
+6bb45f3	KOOP
+62a945f	STREEPBEVRIESING
+ba5b1de	'n Streepbevriesing hou jou streep lewendig op 'n dag wat jy nie speel nie. Jy kan tot {0} hou.\n\nKoop een vir {1} skyfies?
+38c6090	Streepbevriesing gereed.
+8fe681f	Nie genoeg skyfies vir 'n bevriesing nie.
+1507c40	KANSELLEER
+457d20f	DAAGLIKSE DRAAI
+9623247	DRAAI
+ac5ef96	Kanse:
+1200f20	{0}%
+003a689	Jy het {0} skyfies gewen!
+f757137	VANDAG SE SENDINGS
+7b7f9e2	Beste: {0} dae
+9554fea	Speel elke dag om 'n streep op te bou
+5c8dbb8	Vandag se doel bereik! Sien jou môre.
+1aeb9a1	Vandag: {0} / {1} rondtes (enige spel)
+bb92856	Streepbevriesings: {0} / {1}
+0ec6216	Red jou streep op 'n dag wat jy mis. +1 elke 7 dae.
+cc0a745	VOL
+419a962	GEEN VIDEO
+f12e166	Streepbonus: pryse ×{0}
+80948a4	Een gratis draai elke dag
+03a0f2a	Nuwe sendings om middernag.
+4784874	Voltooi al drie: +{0} bonusskyfies
+42c5cda	SPEEL
+337211e	SPELETJIES
+8f5e3bd	Sleep links om te loop  •  Sleep regs om rond te kyk  •  Tik om te gaan
+d00d221	Net 18+  •  Skyfies is vir pret: geen kontantwaarde nie, nooit ruilbaar vir geld of pryse nie
+b60f038	Die deure gaan oop...
+2e5bcce	Welkom! Jou {0} welkomskyfies is gereed. Die tafels is reg voor!
+7ef7ae3	+{0} gratis skyfies! Meer oor {1} uur.
+5d82af9	Gratis skyfies word elke {0} uur hervul. Volgende oor {1}.
+5469985	{0}u {1}m
+bb65beb	{0}m {1}s
+ac8ba93	HOU JOU STREEP
+560bfa1	Wil jy 'n herinnering op aande wat jy nog nie gespeel het nie, en wanneer jou gratis skyfies gereed is? Nooit meer as dit nie, en jy kan dit in Instellings afskakel.
+b724a40	HERINNER MY
+9e0c898	+{0} skyfies gereed!
+1207e28	Kyk 'n video: {0}
+db3655b	Volgende gratis skyfies oor {0}
+4ca9be5	BLACKJACK
+9a612b1	4 tafels  •  betaal 3 tot 2
+1194439	SLOTMASJIENE
+6555152	Lucky Ace 7s  •  10 lyne
+255b1a1	ROULETTE
+6df1551	Europees met enkel nul
+379b146	JY IS UITGEPUT
+340e5c4	Jou energiebalk is leeg. Kry iets by die kroeg om aan te hou speel, of kom later terug: energie herstel stadig terwyl jy weg is.
+a517396	GAAN NA DIE KROEG
+7c7227f	KIES JOU TAFEL
+c963de3	WEDDENSKAPPE
+c433657	VLAK {0}
+083ac39	GAAN SIT
+9698219	BENODIG {0}
+34b737e	Bereik vlak {0} om hier te speel. Jy is op vlak {1}.
+6cc19a9	CASINO
+6e946b7	DD
+4a3a892	MM
+2857a6a	JJJJ
+9d1fece	DAG
+d3bb0c3	MAAND
+c0f0cad	JAAR
+43985ff	WANNEER IS JY GEBORE?
+293fda2	Skyfies is net vir vermaak. Hulle het geen kontantwaarde nie en kan nooit vir geld of pryse geruil word nie.
+3e9128d	JAMMER, JY KAN NIE SPEEL NIE
+b5e8985	{0} is net vir volwassenes beskikbaar.
+bb1b380	VERLAAT
+d9f9432	Sluit oor {0}...
+c6e102d	VERTEL ONS VAN JOU
+49e8df9	EK IS 'N MAN
+85abe81	EK IS 'N VROU
+76cc98c	VERKIES OM NIE TE SÊ NIE
+964daf7	GAAN DIE CASINO BINNE
+2efb69a	Jou personeel vanaand:
+c10e749	Bladsy {0} van {1}
+2a3ffd9	TAAL
+c673535	OUTOMATIES
+d1245d2	LAND
+531fb3f	Nie genoeg skyfies vir daardie weddenskap nie.
+380eb75	Die tafellimiet is {0} per draai.
+55ad592	ONTDOEN
+8f191f9	TOTALE WEDDENSKAP  {0}
+82e1181	Tik op die bord om skyfies te plaas
+bb19a75	Geen weddenskappe meer nie!
+5becf07	GROEN
+bc74f4f	groen
+7898801	rooi
+466bc8c	swart
+f2edfbf	Wat 'n treffer! Baie geluk!
+b252caf	Wenner! Jy wen {0}.
+8587d14	WEN  +{0}
+b862a2b	{0} {1}. {2} kom terug na jou.
+a306d0a	TERUGBETAAL  {0}
+af3134d	Geen wen dié keer nie
+52205f4	Wag vir die bal om te land.
+c4b9243	INSTELLINGS
+44d863e	ALGEMEEN
+2bbca79	GRAFIKA
+955c8b4	KLANK
+c701f5f	AANRAKING
+efcc94a	MUIS
+8433628	BEHEERDER
+d868a50	VIBRASIE
+f8692c7	18+ • Skyfies het geen kontantwaarde nie • Lettertipes: Bebas Neue, Poppins, Noto (SIL OFL) • Grense: Natural Earth • Prysdata: Wêreldbank
+da46447	CASINOPERSONEEL
+594b81e	VROUE
+69d3313	MANS
+b4325d3	GEMENG
+414594a	HERINNERINGE
+6cac87b	Gratis skyfies gereed, en 'n aandpor voordat 'n streep sou eindig.
+e43b2e0	KONTROLEER WEER
+7c9e8f9	PRYSSTREEK
+495c70e	Vinnigste: die casino soos geverf, niks ekstra nie.
+b052523	Gepoleerde vloere, hout en goud weerkaats die vertrek.
+6bd30d7	Filmvoorkoms: gegradeerde kleur, korrel, gloed, ligstrale, lewensegte vel.
+21b6e1d	Rolprentlens: fokus volg jou oog, strepe op ligte, stof in die strale.
+fb7c2e8	GEHALTE
+d8b9679	LAAG
+d77d0b2	HOOG
+9289eee	ULTRA
+637e313	RESOLUSIE
+2e7b141	Laer is sagter, maar loop koeler en spaar battery.
+93dcfb5	VERTOONMODUS
+3c6eac3	VOLSKERM
+f3690b1	VENSTER
+cfa6200	RANDGLADMAKING
+ad50489	AF
+f178804	Maak skurwe rande in die casino glad.
+4266288	RAAMTEMPO
+d031ab0	{0} FPS
+a2b7514	30 FPS spaar battery en hou ouer fone koel.
+0babcee	V-SYNC
+6656e25	GESIGSVELD
+244aadb	WYS FPS
+41c8f6e	HOOFVOLUME
+bf3af1f	MUSIEK
+bd80907	KLANKEFFEKTE
+d098036	PERSONEELSTEMME
+93c6484	Die gemurmel wat personeel maak terwyl hulle praat.
+16bf71a	DEMP IN DIE AGTERGROND
+85b2ee7	Maak die casino stil terwyl jy in 'n ander venster is.
+8e3634e	KYKSENSITIWITEIT
+880dc05	Hoe vinnig sleep die aansig draai.
+750c60f	Hoe vinnig sleep met die muis die aansig draai.
+8b988eb	KEER KYK LINKS / REGS OM
+cacf0cc	KEER KYK OP / AF OM
+2d13b68	KNOPPIE-UITLEG
+b471e5c	RUIL KIESLYS / AANSIG
+d9a59f1	STOKSENSITIWITEIT
+ec14343	Hoe vinnig die regterstok die aansig draai.
+a79af23	KEER STOK LINKS / REGS OM
+acfc66e	KEER STOK OP / AF OM
+56bb461	BEHEERDERWENKE
+51cf49a	Wys wat elke knoppie doen terwyl jy met 'n beheerder speel.
+dff7431	VIBREER OP
+34139ab	FOON
+15ee988	BEIDE
+465cc91	Outo: die beheerder terwyl een gekoppel is, anders die foon.
+f6fed84	FOONVIBRASIE
+8e97fa7	FOONSTERKTE
+486ba2d	BEHEERDERVIBRASIE
+8008889	BEHEERDERSTERKTE
+ea9233e	OUTOMATIES ({0})
+167dda7	{0} maak Instellings oop, {1} maak Daagliks oop.
+29a4ef9	Geen beheerder gekoppel nie.
+558ecd2	Gekoppel: {0}. Wys {1}-knoppies (A regs bevestig).
+d6eee9e	Gekoppel: {0}. Wys {1}-knoppies.
+78525d5	DIE KROEG
+099db9f	GELUK
+b4a8b06	Skyfies, geluk en kos is virtuele items net vir vermaak: geen kontantwaarde nie, nie inwisselbaar vir geld of pryse nie.
+04fbc6d	Laat liggingtoegang toe om jou land se prys te kry
+2ae87fc	Aankope is nie in hierdie weergawe van die spel beskikbaar nie.
+8239a84	TOETSWINKEL (geen regte geld nie)
+173d916	energie
+b2c67eb	+{0}% SKYFIES
+58e8011	{0} hande
+ce80712	wen sowat {0}% daarvan
+c69e8ee	LUCKY ACE 7s
+fc99288	TOTALE WEDDENSKAP
+3930abd	SUKSES!
+67b6973	Jy het minstens 10 skyfies nodig om te draai.
+5aa1edb	KRY SKYFIES
+f5a1812	Weddenskap verlaag na wat jy kan dek.
+5c63f61	MEGAWEN!
+652544f	GROOT WEN!
+91bc41c	TERUGBETAAL {0}
+3714283	GEEN WEN NIE
+33c0faa	LYN {0}: {1} × {2} = {3}
+9f59e6e	{0} STERRE = {1}
+d6eee90	Kersie
+4459b79	Suurlemoen
+09fb6aa	Lemoen
+cb92e50	Pruim
+d419866	Klok
+e496fd2	Bar
+63abb56	Sewe
+b3850e0	Diamant
+fc2b5a9	Aas
+85a7de6	Ster
+f97509c	Die AAS is wild: dit vervang elke simbool behalwe die ster.
+3e8bc69	Lynuitbetalings is veelvoude van die lynweddenskap (totale weddenskap ÷ 10), van links na regs vanaf die eerste rol.
+523f8dc	TERUGBETALING: {0}% op die lange duur. Elke draai is onafhanklik en lukraak.
+e0c705d	Loop
+b8db515	Kyk
+503d46d	Knoppies
+c7f73bb	Instellings
+728298d	Daagliks
+ab166bd	Verstel
+76cdb95	Beweeg
+8598222	Kies
+bbfa773	Sluit
+b52b36b	Terug
+ab37588	UITGEPUT
+9b11a09	BEGINNERSGELUK {0}%
+0c94e98	{0} HANDE OOR
+51ed273	GELUKSTREEP {0}%
+3401470	{0} HANDE  •  WEDDENSKAPPE TOT {1}
+f481cc6	VLAK
+0139615	WELKOM
+bcefb10	Aanwysings en wenke
+c28e782	SKYFIES  •  BONUSSE
+0c69ec4	KOOP SKYFIES
+78c0727	Kassier
+1737fab	MENGELDRANKIES  •  HAPPIES  •  ENERGIE
+9e008ae	KOS EN DRANK
+f7881e8	Die Kroeg
+0e979ed	BLACKJACK BETAAL 3 TOT 2
+4db37bf	SPEEL BLACKJACK
+0ffdd99	{0}-tafel  •  weddenskappe {1} tot {2}
+26b1e39	SPEEL ROULETTE
+7ef0215	BESTEL 'N DRANKIE
+fe38d73	{0} bring dit
+f7b6306	Die {0} gaan oop op vlak {1}. Jy is op vlak {2}: elke rondte wat jy speel, tel.
+d85f1ad	Hierdie tafel benodig minstens {0} skyfies.
+cbfe016	Die blackjacktafels is reg voor. Stap na een toe en gaan sit!
+64d9faf	Die kassier is reg hier aan jou regterkant, en die kroeg is teen die linkermuur.
+e4c6e0b	Moeg? 'n Happie by die kroeg vul jou energie dadelik aan.
+cc21f74	KLEIN
+dc01dec	GROOT
+5fb90b0	ENIGE DRIELING
+9c716f1	Hold'em-tafel
+3b6ab84	Speel 8 hande hold'em
+6c617ca	Wen 4 hande hold'em
+44ce500	Speel 10 hande baccarat
+b90cff7	Wen 5 hande baccarat
+3e4dfa9	Speel 15 hande videopoker
+854fe20	Speel 8 rondtes sic bo
+dfddac1	Wen 4 rondtes sic bo
+2973ea7	Gooi die dobbelstene 15 keer by craps
+737be17	Wen 4 gooie by craps
+4dbb81d	Maak 'n flush of beter by videopoker
+19aa07b	Royal flush
+cf83e72	Straight flush
+d27ba03	Vier van 'n soort
+dbe8641	Vol huis
+7c936d7	Flush
+2501c65	Straat
+ca1a0d4	Drie van 'n soort
+6876b40	Twee pare
+2537f88	Paar
+b4b323e	Hoë kaart
+f70bfdc	Boere of beter
+98fd5af	BACCARAT
+df66d5a	Welkom by baccarat! Speler, Bank of Gelykop?
+5055efd	SPELER
+3f90696	GELYKOP
+0d75f63	BANK
+0ebd5a4	LAASTE UITSLAE
+511993d	S
+ae4f281	B
+c2c53d6	G
+11023a0	GELYKOP  {0}
+503d5f1	SPELER WEN  {0} TEEN {1}
+0eb4be5	BANK WEN  {0} TEEN {1}
+7859af1	CRAPS
+4083dbd	Welkom by craps! Wed op die Pass Line en gooi.
+d266326	SES
+c506f3a	NEGE
+987f4e9	FIELD
+71c1b2b	2 3 4 9 10 11 12  •  2 en 12 betaal dubbel
+d0ac294	ENIGE 7
+9b2f0c3	ENIGE CRAPS
+f62ac59	DON'T PASS BAR
+6080ade	1:1  •  12 is gelykop
+c07247a	PASS LINE
+6229f78	ODDS
+29bf819	ware kans
+387d7a5	AAN
+229c9cc	Odds gaan agter die Pass Line sodra daar 'n punt is.
+c2c8e82	Odds het 'n weddenskap op die Pass Line nodig.
+1784d43	Jou odds is op die maksimum.
+fdc3442	Lyn-weddenskappe word op die eerste gooi geplaas.
+97ce95b	OP DIE TAFEL  {0}
+a895ec0	Die punt is {0}: gooi dit weer voor 'n 7. Odds agter jou Pass Line betaal ware kans.
+d9f9d65	GOOI
+bcf32ef	Die punt is {0}.
+5b450b4	{0}! Punt gemaak. Wen!
+9746e08	Sewe uit. Nuwe gooier, nuwe eerste gooi.
+4fc4664	{0}, 'n natural! Die Pass Line wen.
+203f466	{0}, craps. Die lyn verloor.
+0f8e260	Wag totdat die dobbelstene stilstaan.
+6a98cfe	VERLAAT DIE TAFEL?
+0e138d1	HOLD'EM
+5e023be	Welkom by hold'em! Sit jou ante neer en kom ons kyk na kaarte.
+0cd62f5	ANTE
+5e9f331	BLIND
+3b935ab	BLIND BETAAL
+d37267c	CHECK
+9a4e316	FOLD
+88313c4	WED {0}×
+42c6fea	Ante {0} + blind {0}. Hou nog {1} vir jou verhoging.
+1abb2f2	Tik op skyfies om jou ante te kies. Die blind is dieselfde.
+f541cec	Check, of wed drie of vier keer jou ante?
+fc74a79	Verhoog nou met 4× of 3× jou ante, of check en kyk na die flop.
+b687501	Laaste kans: wed 1× jou ante, of fold en verloor ante en blind.
+400009c	Wed nou 2× jou ante, of check en kyk na die laaste twee kaarte.
+f4abdf9	Hier's die flop.
+0e51f2c	Die turn en die river.
+cc856d3	Kom ons kyk wat ek het.
+cf1fdc5	Gefold. Die volgende hand is joune.
+177fab0	Ultimate Texas Hold'em
+c4917b9	Speler, Bank of Gelykop
+6e4fe7b	VIDEOPOKER
+73cabd3	Jacks or Better
+91c4555	SIC BO
+d810061	Drie dobbelstene  •  groot of klein
+85ab7ec	Pass Line  •  Field  •  Odds
+35d8db6	Welkom by sic bo! Groot, klein of iets dapperders?
+3d05514	Die tafellimiet is {0} per gooi.
+86ade94	SKUD
+b69304e	DRIELING {0}!
+5d1bcc6	GEHOU
+99fa8e8	HOU
+249d1c0	WENK
+7aab1bd	RUIL
+5595eb4	Tik op die kaarte om hulle te hou en ruil dan.
+1c05db9	SPEEL HOLD'EM
+e353e5f	Ultimate Texas Hold'em  •  ante {0} tot {1}
+6470369	SPEEL BACCARAT
+bbe0077	GROOT  •  KLEIN  •  DRIELINGE
+3ba448f	SPEEL SIC BO
+097c59c	Drie dobbelstene  •  groot of klein betaal 1 tot 1
+af2ca30	PASS LINE  •  FIELD  •  ODDS
+f18398e	SPEEL CRAPS
+eeede6d	Die Pass Line betaal 1 tot 1  •  odds betaal ware kans
+34e5170	SPEEL VIDEOPOKER
+f71bdfb	Jacks or Better  •  volle 9/6-tabel
+4a6c087	JACKS OR BETTER  •  ROYAL FLUSH BETAAL 800×
+8298d28	Hold'em is in die agterste linkerhoek, verby die kroeg.
+a2a111f	Baccarat is net links as jy inkom.
+b7193bc	Sic bo is in die hoek verby die kassier: drie dobbelstene, groot of klein.
+dc81691	Sofia
+4d9936f	Elena
+3aa0674	Mia
+b724114	Valentina
+34d3f7f	Chloë
+0fc9dd6	Isabella
+bbd3e35	Nadia
+eac677d	Aria
+baaf10f	Luna
+8641381	Camila
+eeee9b7	Aurora
+8a59f05	Bianca
+5a0fc29	Serena
+bf38aa5	Marco
+cfaf50a	Leo
+5815f22	Adrian
+cbede02	Lucas
+f0b9995	Viktor
+7b37259	Daniel
+aaac72d	Gabriel
+2f8f37e	Ethan
+a01126e	Julian
+3e05c90	Rafael
+e1ae457	Mateo
+3398634	Nico
+7aa2d07	Enzo
+daad514	PRAAT MET DIE GASHEER
+781246e	Kies 'n skyfie en tik dan op Speler, Bank of Gelykop
+2dabd99	ADVERT BINNEKORT
+c1c00cd	UITBETALINGS
+28d6be8	WED {0}+
+b4f938b	SPEEL SLOTMASJIENE
+cd60e0c	Wen 5× jou weddenskap op die slotmasjiene
+f68525a	GEMIDDELD
+50c3f10	OUTOMATIES
+54d3982	Reusagtig! Jy is vanaand vuurwarm!
+769980b	Hallo daar, pragtige!
+acba0e6	Sit by my, ek deel iets moois vir jou uit.
+0b48017	Nuwe kaartpakke, ek skommel!
+51d1aeb	Nog geen streep nie? Speel vandag {2} rondtes en ek begin tel.
+10b25d9	Nuwe begin! {2} rondtes en jou vlam brand.
+5e7c431	Dag {1} wag vir jou. Nog net {2} rondtes!
+b32ae79	Jou vlam lyk vandag 'n bietjie koud. {2} rondtes sal dit warm maak.
+1dc5c97	Moenie dink ek het nie opgemerk nie. Nog {2} rondtes om jou streep te hou!
+fd8ab39	Jou streep van {0} dae het geëindig. Speel vandag {1} rondtes om 'n nuwe een te begin!
+bd68038	Speel vandag {0} rondtes sodat dit nie om middernag terugstel nie.
+c8ebbcc	Tref 'n enkelnommer
+dbfe736	Cross
+1cc7820	Circle
+82810cb	Square
+73d3ae2	Triangle
+55591e0	DEEL UIT
+395ed46	TREK KAART
+596b5e0	VOLGENDE  {0}
+7f7e7fc	Alles klaar! Bonus ontvang.
+15fc12b	Welkom! Plaas asseblief jou weddenskappe.
+84122e7	Plaas asseblief jou weddenskappe.
+6b7caea	PLAAS JOU WEDDENSKAPPE
+8430088	Jou lyn-weddenskap speel nog op die punt {0}. As jy nou weggaan, is dit verlore.
+c31b035	STERRE betaal oral: 5 = {0}× weddenskap, 4 = {1}× weddenskap, 3 = {2}× weddenskap.
+36a21ba	Deel uit, hou die kaarte wat jy wil hê en ruil een keer.
+910a1ed	Europese wiel  •  enkelnommer betaal 35 tot 1
+370a133	Die slotmasjiene staan teen die regtermuur, videopoker teen die agtermuur en die roulette heel agter.
+25320c8	Die craps-tafel is regs, voor die slotmasjiene. Wed op die Pass Line en gooi!
+d5ab68f	Tik oral op die vloer en jy loop soontoe. Tik op 'n tafel om te gaan sit.
+465c8bf	Die uitdeler het blackjack. Teëspoed.
+d589374	BLACKJACK BETAAL 3 TOT 2   •   UITDELER STAAN OP ALLE 17'S   •   VERSEKERING BETAAL 2 TOT 1
+d237ade	Die uitdeler wys 'n aas. Verseker vir {0}?
+b6e674a	Geen blackjack vir die uitdeler nie. Versekering verloor.
+82ce89d	UITDELER BARS
+fc45931	Welkomsbonus vir nuwe spelers: vir jou eerste <b>{0} hande</b> is die uitdeler se kaartehouer in jou guns gepak, so jy sal amper elke hand wen.
+576c683	Oor die volgende <b>{0} hande</b> vervaag die voordeel, en daarna is elke tafel gewone, regverdige blackjack uit 'n geskommelde kaartehouer van 6 pakke (blackjack betaal 3 tot 2, die uitdeler staan op alle 17's).
+d4f8fe0	Vir jou volgende <b>{0} blackjackhande</b> met 'n weddenskap van tot <b>{1} skyfies</b>, het elke kaart 'n <b>{2}%</b> kans om in jou guns uitgedeel te word (dieselfde voordeel as beginnersgeluk).
+e2a28c9	Elke kaart het daardie kans om in jou guns uitgedeel te word, op blackjack-weddenskappe tot {0} skyfies (groter weddenskappe is gewoon en gebruik nie hande op nie). Begin ná beginnersgeluk; sterker pakke word eerste gebruik.
+31120ce	Ons kies jou gashere, uitdelers en kroegpersoneel om te pas. Jy kan dit enige tyd in Instellings verander.
+eea0d12	UITDELER MOET OP 17 STAAN
+20713a4	Die uitdeler kwalifiseer met 'n paar of beter
+6ba1f3e	Die uitdeler kwalifiseer nie: jou ante kom terug.
+1920e2f	Eerste gooi: wed op die Pass Line, en gooi dan. 7 of 11 wen; 2, 3 of 12 verloor. Place-weddenskappe begin werk sodra daar 'n punt is.
+99f4934	LUCKY ACE 7s  •  BETAAL TOT 2 500× JOU LYNWEDDENSKAP

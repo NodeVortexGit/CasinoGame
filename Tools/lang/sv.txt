@@ -1,0 +1,659 @@
+# Swedish (sv). Machine translation by Claude.
+bd99124	En näve marker
+c7c6dc8	En hög marker
+7512cfd	En bricka marker
+fa36588	Ett ställ marker
+7994f65	MEST POPULÄR
+49dcc21	Ett valv marker
+0725283	High roller-kassaskåp
+7658705	BÄST VÄRDE
+2f23432	Kolsyrat vatten
+418b820	Espresso
+97b463c	Energidryck
+43bbfda	Clubsandwich
+bce7a75	Hamburgermeny
+2832a8d	Stekmiddag
+dee8ee8	FULL PÅFYLLNING
+a7c2255	Turstreak
+7919163	Het streak
+74fdfc2	MEST TUR
+d79cd12	Bronsbord
+2a8ff35	Silverbord
+51877b2	Guldbord
+9282152	Diamantbord
+0de8764	Ange ett giltigt år.
+d4e14c9	Ange en giltig månad (1-12).
+addd156	Ange en giltig dag.
+d78a4f4	Det datumet ligger i framtiden.
+787c7c6	Välkommen till mitt bord! Redo att spela?
+8b0f93e	Kul att se dig. Slå dig ner!
+8338021	Hej! Korten är fräscha, och det är jag också.
+75750f9	Välkommen! Låt oss göra det här till en bra kväll.
+95aac36	Lägg din insats när du är redo.
+8bc63c1	Marker på bordet, så tittar vi på korten.
+984b7f3	Vad spelar vi om?
+b74c769	Oj, en stor insats! Jag gillar din stil.
+77fc1fc	Det kallar jag en insats. Kör!
+7779a5b	Modig i kväll, va?
+479ff82	Allt?! Mitt hjärta rusar!
+7fb527c	Allt på en hand. Orädd!
+7bf0c5d	Blackjack! Otroligt!
+123f2d5	Tjugoett, bara sådär!
+cd850a7	Blackjack! Korten älskar dig i kväll.
+55f50ee	Snyggt spelat!
+79594b1	Vinst! Bra gjort.
+0df710e	Du är i farten!
+20a0c1e	Den där är din.
+a45fe61	Vilken vinst! Alla tittar på det här bordet!
+54d3982	Enormt! Du brinner i kväll!
+8da8f1e	Så nära! Nästa är din.
+5d921e1	Huset hade tur den gången.
+f923af7	Skaka av dig, en ny hand är på väg.
+853e7ca	Aj, ett kort för mycket.
+daec44f	Tjock! Det händer de bästa.
+11ceaef	Oavgjort. Ingen förlorar!
+911a289	Push. Dina marker är säkra.
+a89d9d9	Jag blev tjock! Tur för dig.
+f76c8fd	För mycket för mig. Du vinner!
+63f8d0b	Blackjack till huset, ledsen!
+465c8bf	Dealern fick blackjack. Otur.
+6752f40	Jag visar ett ess. Försäkring?
+1920c5a	Vi splittar! Två chanser att vinna.
+9f621da	Dubblar. Modigt drag!
+59da99d	Dubbla! Ett kort på väg.
+0b48017	Ny sko, jag blandar!
+3fa7769	Börjar det ta slut? Kassan fyller på åt dig.
+4e5694b	Markerna tunnas ut. Vill du hämta fler?
+d41f057	Slut på marker! Gå till kassan eller hämta gratismarker.
+15d90d3	Din hög är tom. Kassan är precis bakom dig.
+a9eaae1	Du ser helt slut ut! Ta en bit mat i baren.
+5cd9e8b	Går du på tomgång? Baren fixar det.
+37b9672	Ta den tid du behöver.
+c64df8c	När du är redo!
+b8dfc0a	Kvällen är ung.
+8748560	Nybörjartur är på din sida!
+e3def50	Leken är på din sida i kväll!
+506ade9	Nybörjarturen är slut. Härifrån är det ett rättvist spel!
+953d8b7	Välkommen till kasinot! Din plats väntar.
+9fd9844	God kväll! Borden är heta i kväll.
+2d42aaf	Välkommen tillbaka! Känner du dig lyckosam?
+311bae7	Tryck på ett bord för att börja spela!
+3318099	Behöver du fler marker? Du har kommit till rätt lucka.
+c5b3787	Större högar, större bonusar!
+21ae665	Hungrig? Välj vad du vill från menyn.
+8b83cc0	Lite mat håller energin uppe!
+35f4b0e	Välkommen till mitt bord!
+8f90245	Där är du! Det känns ljusare här redan.
+909e4d6	Känn dig som hemma. I kväll handlar allt om dig.
+2477f78	Jag älskar det leendet. Turkväll?
+6ac2120	Slappna av, du är i goda händer här.
+089f04b	Hej du! Jag hoppades att du skulle titta förbi min lucka.
+3f2c3c9	Alltid trevligt att se ett vänligt ansikte.
+3021db8	Se vem det är! Har du kul därute?
+769980b	Hej där, snygging!
+5361ffd	Jag gillar din stil i kväll.
+56b40be	Hej, kul att se dig igen!
+3316019	Har du en bra kväll? Du förtjänar det.
+28283fd	Akta dig, jag kanske börjar heja på dig.
+109ac94	Min favoritspelare är tillbaka!
+acba0e6	Sitt hos mig, så delar jag ut något fint.
+eb5ff2a	Du gör det här bordet mycket roligare.
+772a73c	Går du redan? Kvällen är ung!
+178301a	Kom igen, bara en hand till. Jag har en bra känsla för den här!
+816036a	Du kan inte lämna mig nu, vi har ju precis börjat!
+5c9b7e2	Sista chansen! Nästa hand kan bli den stora...
+20ce7b6	Okej, okej. Jag håller din plats varm. Lovar du att komma tillbaka?
+51d1aeb	Ingen streak än? Spela {2} rundor i dag så börjar jag räkna.
+10b25d9	Ny start! {2} rundor och din låga är tänd.
+0c10711	Jag har en liten lista över vilka som dyker upp varje dag. Du står inte på den... än.
+5e7c431	Dag {1} väntar på dig. Bara {2} rundor kvar!
+b268d84	{0} dagar i rad... du tänker väl inte sluta nu?
+b32ae79	Din låga ser lite kall ut i dag. {2} rundor borde värma upp den.
+a6f3fbd	Jag har räknat: {0} dagar. Nu kör vi på {1}.
+1dc5c97	Tro inte att jag inte märkte det. {2} rundor kvar för att behålla din streak!
+807b82c	{0} dagar i rad? Jag börjar tro att du trivs här.
+6391923	Din streak är säker för i dag. Nu visar du bara upp dig.
+3bfbbf7	Dag {0}, klart. Samma tid i morgon?
+ca2a2c1	{0} dagar! Nu borde jag hålla en plats åt dig.
+54f991f	Där är den: dag ett av din streak! Kom tillbaka i morgon så blir det två.
+a1e7ab0	En hel vecka i rad! Jag är verkligen imponerad.
+96cee95	Trettio dagar! Du jobbar praktiskt taget här nu.
+a9834cd	Hundra dagar. Jag berättar om dig för alla.
+071317f	Det är {0} dagar i rad! Titta på dig.
+0964027	Streak räddad: dag {0}! Jag visste att du skulle klara det.
+c7f2a1f	Dag {0}! Slår vad om att du inte klarar {1}.
+a6ce2e2	{0} dagar... okej, din skrytmåns.
+3ab91d0	Spela 10 händer blackjack
+38e863d	Vinn 5 händer blackjack
+6ac41cc	Få en blackjack
+74cf149	Vinn 500 marker i blackjack
+66440e1	Snurra på spelautomaten 20 gånger
+9205056	Vinn 5 snurr på spelautomaten
+cd60e0c	Vinn 5× din insats på spelautomaten
+6f7ac28	Spela 5 rundor roulette
+6978cc0	Vinn 3 roulettesnurr
+c8ebbcc	Träffa ett nummer rakt
+8a57c54	GPS-position
+4919635	mobilnät
+527b094	internetanslutning
+f49ae82	enhetsinställningar
+60827d3	testland
+0b2f8d8	inte verifierad (standardpris)
+50d8b4a	okänd
+4fb7a4e	1:a 12
+647a0eb	2:a 12
+a934745	3:e 12
+3de80ab	2 mot 1
+bb4e68e	RÖTT
+a9414ab	SVART
+710756a	UDDA
+70ca748	JÄMNA
+4d60d6c	RÄTTVISA PRISER FÖR DITT LAND
+1674d95	Priserna i butiken anpassas efter ditt lands ekonomi, så att spelare överallt betalar ett rättvist pris.
+4ec27ee	För att hitta ditt land kontrollerar vi din ungefärliga position en gång. Den matchas mot ett land på din enhet och skickas aldrig någonstans. Om du tackar nej gäller standardpriser.
+ff3dbb4	FORTSÄTT
+43a6a8d	Lämna kasinot?
+ad209a0	Dina marker och framsteg är sparade.
+5860c84	AVSLUTA
+f1e0808	STANNA
+5b38c49	{0} upplåst
+15ae7ac	En streakfrysning räddade din streak på {0} dagar i går.
+d375ffb	{0} streakfrysningar räddade din streak på {1} dagar.
+fd8ab39	Din streak på {0} dagar tog slut. Spela {1} rundor i dag för att starta en ny!
+7fa2db4	UPPDRAG KLART
+255325c	+{0} marker
+d205ece	ALLA UPPDRAG KLARA!
+4acbed2	Daglig bonus +{0} marker. Nya uppdrag i morgon.
+ab2ceb3	NIVÅ {0}!
+86e2afb	Milstolpe! +{0} marker
+9ae18ad	Kom tillbaka i morgon för att fortsätta
+7af7e7c	+1 streakfrysning
+b5b9597	{0} DAGAR I RAD!
+62ec60d	Köp är inte tillgängliga i den här versionen.
+1f9786c	Köpet misslyckades. Du har inte debiterats.
+3e4c600	+{0} marker tillagda!
+1998202	{0}: {1} händer med {2}% tur, efter nybörjarturen
+728ada5	{0}: {1} händer med {2}% tur!
+af5e232	{0}: +{1}% energi
+001a53b	Inte tillgängligt på den här enheten
+2607004	Videor kan inte laddas på det här nätverket
+569c30d	Kom tillbaka i morgon
+ecae6ee	Klar om {0} s
+9964820	+{0} marker ({1} kvar i dag)
+e1bd888	+{0} gratismarker!
+619bd5d	+1 streakfrysning!
+f70d794	Ingen video tillgänglig just nu. Försök igen om en stund.
+264d71b	BRONS
+462e839	SILVER
+81ff70a	GULD
+50e122e	DIAMANT
+57f5f5e	Meny
+69bd4ef	Vy
+dbfe736	Kryss
+1cc7820	Cirkel
+82810cb	Fyrkant
+73d3ae2	Triangel
+a42f608	Kontrollerar din region...
+1db422c	Inte verifierad ({0}): standardpriser
+9bc0807	{0} ({1}): priser i {2}
+ae8c393	Påminnelser
+aefd59b	Gratismarker klara och streakpåminnelser
+3125838	Dina gratismarker är klara
+233027b	{0} marker väntar på dig på Lucky Ace.
+b93976b	Behåll din streak på {0} dagar
+bd68038	Spela {0} rundor i dag så att den inte nollställs vid midnatt.
+0acfb6f	Välkommen! Nybörjarturen är på din sida i kväll. Lägg en insats!
+d589374	BLACKJACK BETALAR 3 MOT 2   •   DEALERN STANNAR PÅ ALLA 17   •   FÖRSÄKRING BETALAR 2 MOT 1
+b700b02	INSATS
+16ec74f	RENSA
+928226b	SAMMA IGEN
+55591e0	DELA UT
+395ed46	KORT
+43e7971	STANNA
+097274c	DUBBLA
+6df63ca	SPLITTA
+3e40f46	FÖRSÄKRA
+db82d3a	NEJ TACK
+28d6be8	INSATS {0}+
+9587b70	Bordets maximum nått
+b9ac47d	Inte tillräckligt med marker
+d237ade	Dealern visar ett ess. Försäkra för {0}?
+bf07c14	Försäkringen betalar {0}
+b6e674a	Ingen blackjack för dealern. Försäkringen förlorad.
+0cc9679	TJOCK
+82ce89d	DEALERN TJOCK
+6e1e1a4	BLACKJACK!
+662fae5	VINST
+8918d00	PUSH
+8df6be4	FÖRLUST
+9e69668	Nybörjarturen är slut. Din Turstreak börjar nu.
+822f4f4	Nybörjarturen är slut. Från och med nu är det vanlig blackjack.
+b0377c7	Din Turstreak är slut. Tillbaka till vanlig blackjack.
+824ad7c	SLUT PÅ MARKER
+ff1822d	Titta på en kort video för {0} gratismarker, eller gå till kassan.
+e4cac2f	Gå till kassan för att fylla på dina marker.
+c3df3e7	GRATISMARKER
+b169d33	KASSA
+4d38f66	SENARE
+cb8171b	Spela klart den här handen först.
+3aa6941	”{0}”
+6f846f4	EN HAND TILL
+a79d4f2	GÅ
+693f697	NYBÖRJARTUR
+641ad58	TURSTREAK
+fc45931	Välkomstbonus för nya spelare: under dina första <b>{0} händer</b> är dealerns sko blandad till din fördel, så du vinner nästan varje hand.
+576c683	Under de följande <b>{0} händerna</b> klingar fördelen av, och därefter är varje bord vanlig, rättvis blackjack från en blandad sko med 6 kortlekar (blackjack betalar 3 mot 2, dealern stannar på alla 17).
+7fb55b3	Fördel just nu: <b><color=#7CFC9A>{0}%</color></b>   Händer kvar: <b>{1}</b>
+d4f8fe0	Under dina nästa <b>{0} blackjackhänder</b> med en insats på upp till <b>{1} marker</b> har varje kort <b>{2}%</b> chans att delas ut till din fördel (samma fördel som nybörjarturen).
+0a5fc06	Med bra spel vinner det ungefär <b>{0}%</b> av händerna, mot ungefär {1}% i vanlig blackjack. Större insatser är vanlig blackjack och förbrukar inga händer. När händerna tar slut är varje bord vanlig, rättvis blackjack igen.
+c3a8946	JAG FÖRSTÅR
+8dfc44a	VILL DU HA TILLBAKA TUREN?
+272a97f	Nybörjarturen är slut: härifrån är varje bord vanlig, rättvis blackjack. En Turstreak ger tillbaka fördelen en tid.
+06b7689	DAGLIGT
+4035996	DAGLIG STREAK
+fbe7f18	DAGAR I RAD
+7a46866	I DAG
+4753707	SE REKLAM
+6bb45f3	KÖP
+62a945f	STREAKFRYSNING
+ba5b1de	En streakfrysning håller din streak vid liv en dag du inte spelar. Du kan ha {0}.\n\nKöpa en för {1} marker?
+38c6090	Streakfrysning klar.
+8fe681f	Inte tillräckligt med marker för en frysning.
+1507c40	AVBRYT
+457d20f	DAGLIGT SNURR
+9623247	SNURRA
+ac5ef96	Chanser:
+1200f20	{0}%
+003a689	Du vann {0} marker!
+f757137	DAGENS UPPDRAG
+7b7f9e2	Rekord: {0} dagar
+9554fea	Spela varje dag för att bygga en streak
+5c8dbb8	Dagens mål klart! Vi ses i morgon.
+1aeb9a1	I dag: {0} / {1} rundor (valfritt spel)
+bb92856	Streakfrysningar: {0} / {1}
+0ec6216	Rädda din streak en dag du missar. +1 var 7:e dag.
+cc0a745	FULL
+419a962	INGEN VIDEO
+2dabd99	REKLAM SNART
+f12e166	Streakbonus: priser ×{0}
+80948a4	Ett gratis snurr varje dag
+596b5e0	NÄSTA  {0}
+7f7e7fc	Allt klart! Bonus hämtad.
+03a0f2a	Nya uppdrag vid midnatt.
+4784874	Klara alla tre: +{0} bonusmarker
+42c5cda	SPELA
+337211e	SPEL
+8f5e3bd	Dra på vänster sida för att gå  •  Dra på höger sida för att titta  •  Tryck för att gå dit
+d00d221	Endast 18+  •  Markerna är för nöjes skull: inget penningvärde, kan aldrig växlas mot pengar eller priser
+b60f038	Öppnar dörrarna...
+2e5bcce	Välkommen! Dina {0} välkomstmarker är klara. Borden finns rakt fram!
+7ef7ae3	+{0} gratismarker! Fler om {1} timmar.
+5d82af9	Gratismarker fylls på var {0}:e timme. Nästa om {1}.
+5469985	{0} h {1} min
+bb65beb	{0} min {1} s
+ac8ba93	BEHÅLL DIN STREAK
+560bfa1	Vill du ha en påminnelse de kvällar du inte har spelat än, och när dina gratismarker är klara? Aldrig mer än så, och du kan stänga av det i Inställningar.
+b724a40	PÅMINN MIG
+9e0c898	+{0} marker klara!
+1207e28	Titta på en video: {0}
+db3655b	Nästa gratismarker om {0}
+4ca9be5	BLACKJACK
+9a612b1	4 bord  •  betalar 3 mot 2
+1194439	SPELAUTOMATER
+6555152	Lucky Ace 7s  •  10 linjer
+255b1a1	ROULETTE
+6df1551	Europeisk med en nolla
+379b146	DU ÄR UTMATTAD
+340e5c4	Din energimätare är tom. Hämta något i baren för att fortsätta spela, eller kom tillbaka senare: energin återhämtar sig sakta medan du är borta.
+a517396	GÅ TILL BAREN
+7c7227f	VÄLJ DITT BORD
+c963de3	INSATSER
+c433657	NIVÅ {0}
+083ac39	SÄTT DIG
+9698219	KRÄVER {0}
+34b737e	Nå nivå {0} för att spela här. Du är på nivå {1}.
+6cc19a9	KASINO
+6e946b7	DD
+4a3a892	MM
+2857a6a	ÅÅÅÅ
+9d1fece	DAG
+d3bb0c3	MÅNAD
+c0f0cad	ÅR
+43985ff	NÄR ÄR DU FÖDD?
+293fda2	Markerna är endast för underhållning. De har inget penningvärde och kan aldrig växlas mot pengar eller priser.
+3e9128d	TYVÄRR, DU FÅR INTE SPELA
+b5e8985	{0} är endast tillgängligt för vuxna.
+bb1b380	AVSLUTA
+d9f9432	Stänger om {0}...
+c6e102d	BERÄTTA OM DIG
+31120ce	Vi väljer värdar, dealers och barpersonal som passar. Du kan ändra det när som helst i Inställningar.
+49e8df9	JAG ÄR MAN
+85abe81	JAG ÄR KVINNA
+76cc98c	VILL INTE SÄGA
+964daf7	GÅ IN I KASINOT
+2efb69a	Din personal i kväll:
+c10e749	Sida {0} av {1}
+2a3ffd9	SPRÅK
+c673535	AUTOMATISKT
+d1245d2	LAND
+15fc12b	Välkommen! Placera era insatser, tack.
+531fb3f	Inte tillräckligt med marker för den insatsen.
+380eb75	Bordsgränsen är {0} per snurr.
+55ad592	ÅNGRA
+8f191f9	TOTAL INSATS  {0}
+82e1181	Tryck på bordet för att placera marker
+bb19a75	Inga fler insatser!
+5becf07	GRÖNT
+bc74f4f	grönt
+7898801	rött
+466bc8c	svart
+f2edfbf	Vilken träff! Grattis!
+b252caf	Vinst! Du vinner {0}.
+8587d14	VINST  +{0}
+b862a2b	{0} {1}. {2} kommer tillbaka till dig.
+a306d0a	ÅTERBETALT  {0}
+af3134d	Ingen vinst den här gången
+84122e7	Placera era insatser, tack.
+52205f4	Vänta tills kulan stannar.
+c4b9243	INSTÄLLNINGAR
+44d863e	ALLMÄNT
+2bbca79	GRAFIK
+955c8b4	LJUD
+c701f5f	PEKSKÄRM
+efcc94a	MUS
+8433628	HANDKONTROLL
+d868a50	VIBRATION
+f8692c7	18+ • Markerna har inget penningvärde • Typsnitt: Bebas Neue, Poppins, Noto (SIL OFL) • Gränser: Natural Earth • Prisdata: Världsbanken
+da46447	KASINOPERSONAL
+594b81e	KVINNOR
+69d3313	MÄN
+b4325d3	BLANDAT
+414594a	PÅMINNELSER
+6cac87b	Gratismarker klara, och en knuff på kvällen innan en streak skulle ta slut.
+e43b2e0	KONTROLLERA IGEN
+7c9e8f9	PRISREGION
+495c70e	Snabbast: kasinot som det är målat, inget extra.
+b052523	Polerade golv, trä och guld speglar salen.
+6bd30d7	Filmkänsla: färggradering, korn, glöd, ljusstrålar, naturtrogen hud.
+21b6e1d	Biolins: skärpan följer din blick, strimmor på lampor, damm i ljusstrålarna.
+fb7c2e8	KVALITET
+d8b9679	LÅG
+f68525a	MEDEL
+d77d0b2	HÖG
+9289eee	ULTRA
+637e313	UPPLÖSNING
+2e7b141	Lägre är mjukare men går svalare och sparar batteri.
+93dcfb5	VISNINGSLÄGE
+3c6eac3	HELSKÄRM
+f3690b1	FÖNSTER
+cfa6200	KANTUTJÄMNING
+ad50489	AV
+f178804	Jämnar ut hackiga kanter i kasinot.
+4266288	BILDFREKVENS
+d031ab0	{0} FPS
+a2b7514	30 FPS sparar batteri och håller äldre telefoner svala.
+0babcee	V-SYNC
+6656e25	SYNFÄLT
+244aadb	VISA FPS
+41c8f6e	HUVUDVOLYM
+bf3af1f	MUSIK
+bd80907	LJUDEFFEKTER
+d098036	PERSONALENS RÖSTER
+93c6484	Sorlet personalen gör när de pratar.
+16bf71a	TYST I BAKGRUNDEN
+85b2ee7	Tystar kasinot medan du är i ett annat fönster.
+8e3634e	TITTKÄNSLIGHET
+880dc05	Hur snabbt dragningar vrider vyn.
+750c60f	Hur snabbt dragningar med musen vrider vyn.
+8b988eb	INVERTERA TITTA VÄNSTER / HÖGER
+cacf0cc	INVERTERA TITTA UPP / NER
+2d13b68	KNAPPLAYOUT
+50c3f10	AUTO
+b471e5c	BYT MENY / VY
+d9a59f1	SPAKKÄNSLIGHET
+ec14343	Hur snabbt höger spak vrider vyn.
+a79af23	INVERTERA SPAK VÄNSTER / HÖGER
+acfc66e	INVERTERA SPAK UPP / NER
+56bb461	KONTROLLTIPS
+51cf49a	Visar vad varje knapp gör medan du spelar med handkontroll.
+dff7431	VIBRERA PÅ
+34139ab	TELEFON
+15ee988	BÅDA
+465cc91	Auto: handkontrollen när en är ansluten, annars telefonen.
+f6fed84	TELEFONVIBRATION
+8e97fa7	STYRKA I TELEFON
+486ba2d	VIBRATION I HANDKONTROLL
+8008889	STYRKA I HANDKONTROLL
+ea9233e	AUTOMATISKT ({0})
+167dda7	{0} öppnar Inställningar, {1} öppnar Dagligt.
+29a4ef9	Ingen handkontroll ansluten.
+558ecd2	Ansluten: {0}. Visar {1}-knappar (A till höger bekräftar).
+d6eee9e	Ansluten: {0}. Visar {1}-knappar.
+78525d5	BAREN
+099db9f	TUR
+b4a8b06	Marker, tur och mat är virtuella föremål endast för underhållning: inget penningvärde, kan inte lösas in mot pengar eller priser.
+e2a28c9	Varje kort har den chansen att delas ut till din fördel, på blackjackinsatser upp till {0} marker (större insatser är vanliga och förbrukar inga händer). Börjar efter nybörjarturen; starkare paket används först.
+04fbc6d	Tillåt platsåtkomst för att få ditt lands pris
+2ae87fc	Köp är inte tillgängliga i den här versionen av spelet.
+8239a84	TESTBUTIK (inga riktiga pengar)
+173d916	energi
+b2c67eb	+{0}% MARKER
+58e8011	{0} händer
+ce80712	vinner ungefär {0}% av dem
+c69e8ee	LUCKY ACE 7s
+fc99288	TOTAL INSATS
+c1c00cd	VINSTTABELL
+3930abd	LYCKA TILL!
+67b6973	Du behöver minst 10 marker för att snurra.
+5aa1edb	HÄMTA MARKER
+f5a1812	Insatsen sänkt till vad du har råd med.
+5c63f61	MEGAVINST!
+652544f	STORVINST!
+91bc41c	ÅTERBETALT {0}
+3714283	INGEN VINST
+33c0faa	LINJE {0}: {1} × {2} = {3}
+9f59e6e	{0} STJÄRNOR = {1}
+d6eee90	Körsbär
+4459b79	Citron
+09fb6aa	Apelsin
+cb92e50	Plommon
+d419866	Klocka
+e496fd2	Bar
+63abb56	Sjua
+b3850e0	Diamant
+fc2b5a9	Ess
+85a7de6	Stjärna
+c31b035	STJÄRNOR betalar var som helst: 5 = {0}× insats, 4 = {1}× insats, 3 = {2}× insats.
+f97509c	ESSET är wild: det ersätter alla symboler utom stjärnan.
+3e8bc69	Linjevinster är multiplar av linjeinsatsen (total insats ÷ 10), från vänster till höger från första hjulet.
+523f8dc	ÅTERBETALNING: {0}% i det långa loppet. Varje snurr är oberoende och slumpmässigt.
+e0c705d	Gå
+b8db515	Titta
+503d46d	Knappar
+c7f73bb	Inställningar
+728298d	Dagligt
+ab166bd	Justera
+76cdb95	Flytta
+8598222	Välj
+bbfa773	Stäng
+b52b36b	Tillbaka
+ab37588	UTMATTAD
+9b11a09	NYBÖRJARTUR {0}%
+0c94e98	{0} HÄNDER KVAR
+51ed273	TURSTREAK {0}%
+3401470	{0} HÄNDER  •  INSATSER UPP TILL {1}
+f481cc6	NIVÅ
+0139615	VÄLKOMMEN
+daad514	PRATA MED VÄRDINNAN
+bcefb10	Vägbeskrivning och tips
+c28e782	MARKER  •  BONUSAR
+0c69ec4	KÖP MARKER
+78c0727	Kassa
+1737fab	COCKTAILS  •  SNACKS  •  ENERGI
+9e008ae	MAT & DRYCK
+f7881e8	Baren
+0e979ed	BLACKJACK BETALAR 3 MOT 2
+eea0d12	DEALERN MÅSTE STANNA PÅ 17
+4db37bf	SPELA BLACKJACK
+0ffdd99	Bord {0}  •  insatser {1} till {2}
+b4f938b	SPELA PÅ AUTOMATERNA
+6b7caea	PLACERA ERA INSATSER
+26b1e39	SPELA ROULETTE
+910a1ed	Europeiskt hjul  •  rak insats betalar 35 mot 1
+7ef0215	BESTÄLL EN DRINK
+fe38d73	{0} kommer med den
+f7b6306	{0} öppnar på nivå {1}. Du är på nivå {2}: varje runda du spelar räknas.
+d85f1ad	Det här bordet kräver minst {0} marker.
+cbfe016	Blackjackborden finns rakt fram. Gå fram till ett och slå dig ner!
+64d9faf	Kassan är här till höger om dig, och baren finns längs vänstra väggen.
+e4c6e0b	Trött? Ett mellanmål i baren fyller på energin direkt.
+d5ab68f	Tryck var som helst på golvet så går du dit. Tryck på ett bord för att sätta dig.
+cc21f74	LITET
+dc01dec	STORT
+5fb90b0	VALFRI TRISS
+9c716f1	Hold'em-bord
+3b6ab84	Spela 8 händer hold'em
+6c617ca	Vinn 4 händer hold'em
+44ce500	Spela 10 händer baccarat
+b90cff7	Vinn 5 händer baccarat
+3e4dfa9	Spela 15 händer videopoker
+854fe20	Spela 8 omgångar sic bo
+dfddac1	Vinn 4 omgångar sic bo
+2973ea7	Kasta tärningarna 15 gånger i craps
+737be17	Vinn 4 kast i craps
+4dbb81d	Få färg eller bättre i videopoker
+19aa07b	Royal flush
+cf83e72	Färgstege
+d27ba03	Fyrtal
+dbe8641	Kåk
+7c936d7	Färg
+2501c65	Stege
+ca1a0d4	Triss
+6876b40	Två par
+2537f88	Par
+b4b323e	Högt kort
+f70bfdc	Knektar eller bättre
+98fd5af	BACCARAT
+df66d5a	Välkommen till baccarat! Spelare, Bank eller Oavgjort?
+5055efd	SPELARE
+3f90696	OAVGJORT
+0d75f63	BANK
+0ebd5a4	SENASTE RESULTAT
+511993d	S
+ae4f281	B
+c2c53d6	O
+781246e	Välj en mark och tryck på Spelare, Bank eller Oavgjort
+11023a0	OAVGJORT  {0}
+503d5f1	SPELAREN VINNER  {0} MOT {1}
+0eb4be5	BANKEN VINNER  {0} MOT {1}
+7859af1	CRAPS
+4083dbd	Välkommen till craps! Satsa på Pass Line och kasta.
+d266326	SEX
+c506f3a	NIO
+987f4e9	FIELD
+71c1b2b	2 3 4 9 10 11 12  •  2 och 12 betalar dubbelt
+d0ac294	VALFRI 7
+9b2f0c3	VALFRI CRAPS
+f62ac59	DON'T PASS BAR
+6080ade	1:1  •  12 blir oavgjort
+c07247a	PASS LINE
+6229f78	ODDS
+29bf819	riktiga odds
+387d7a5	PÅ
+229c9cc	Odds läggs bakom Pass Line när det finns en point.
+c2c8e82	Odds kräver en insats på Pass Line.
+1784d43	Dina odds är på max.
+fdc3442	Line-insatser läggs vid come-out-kastet.
+97ce95b	PÅ BORDET  {0}
+a895ec0	Pointen är {0}: slå den igen före en 7:a. Odds bakom din Pass Line betalar riktiga odds.
+d9f9d65	KASTA
+bcf32ef	Pointen är {0}.
+5b450b4	{0}! Pointen gjord. Vinst!
+9746e08	Seven out. Ny kastare, ny come-out.
+4fc4664	{0}, en natural! Pass Line vinner.
+203f466	{0}, craps. Linjen förlorar.
+0f8e260	Vänta tills tärningarna ligger still.
+6a98cfe	LÄMNA BORDET?
+8430088	Din line-insats spelar fortfarande på pointen {0}. Går du nu förlorar du den.
+0e138d1	HOLD'EM
+5e023be	Välkommen till hold'em! Lägg din ante så tittar vi på korten.
+0cd62f5	ANTE
+5e9f331	BLIND
+3b935ab	BLIND BETALAR
+20713a4	Dealern kvalificerar sig med par eller bättre
+d37267c	CHECKA
+9a4e316	LÄGG
+88313c4	SATSA {0}×
+42c6fea	Ante {0} + blind {0}. Spara {1} till för din höjning.
+1abb2f2	Tryck på marker för din ante. Blinden är lika stor.
+f541cec	Checka eller satsa tre eller fyra gånger din ante?
+fc74a79	Höj nu 4× eller 3× din ante, eller checka och se floppen.
+b687501	Sista chansen: satsa 1× din ante eller lägg dig och förlora ante och blind.
+400009c	Satsa 2× din ante nu, eller checka och se de två sista korten.
+f4abdf9	Här är floppen.
+0e51f2c	Turn och river.
+cc856d3	Få se vad jag har.
+6ba1f3e	Dealern kvalificerar sig inte: din ante kommer tillbaka.
+cf1fdc5	Du lade dig. Nästa hand är din.
+177fab0	Ultimate Texas Hold'em
+c4917b9	Spelare, Bank eller Oavgjort
+6e4fe7b	VIDEOPOKER
+73cabd3	Jacks or Better
+91c4555	SIC BO
+d810061	Tre tärningar  •  stort eller litet
+85ab7ec	Pass Line  •  Field  •  Odds
+35d8db6	Välkommen till sic bo! Stort, litet eller något djärvare?
+3d05514	Bordsgränsen är {0} per kast.
+86ade94	SKAKA
+b69304e	TRISS I {0}!
+5d1bcc6	BEHÅLLS
+36a21ba	Dela ut, behåll de kort du vill, byt en gång.
+99fa8e8	BEHÅLL
+249d1c0	TIPS
+7aab1bd	BYT
+5595eb4	Tryck på korten du vill behålla och byt sedan.
+1c05db9	SPELA HOLD'EM
+e353e5f	Ultimate Texas Hold'em  •  ante {0} till {1}
+6470369	SPELA BACCARAT
+bbe0077	STORT  •  LITET  •  TRISSAR
+3ba448f	SPELA SIC BO
+097c59c	Tre tärningar  •  stort eller litet betalar 1 till 1
+af2ca30	PASS LINE  •  FIELD  •  ODDS
+f18398e	SPELA CRAPS
+eeede6d	Pass Line betalar 1 till 1  •  odds betalar riktiga odds
+34e5170	SPELA VIDEOPOKER
+f71bdfb	Jacks or Better  •  full 9/6-tabell
+4a6c087	JACKS OR BETTER  •  ROYAL FLUSH BETALAR 800×
+370a133	Spelautomaterna står längs högra väggen, videopoker längs bakväggen och roulettehjulet längst in.
+8298d28	Hold'em finns i hörnet längst in till vänster, förbi baren.
+a2a111f	Baccarat finns direkt till vänster när du kommer in.
+b7193bc	Sic bo finns i hörnet förbi kassan: tre tärningar, stort eller litet.
+25320c8	Crapsbordet står till höger, framför automaterna. Satsa på Pass Line och kasta!
+dc81691	Sofia
+4d9936f	Elena
+3aa0674	Mia
+b724114	Valentina
+34d3f7f	Chloe
+0fc9dd6	Isabella
+bbd3e35	Nadia
+eac677d	Aria
+baaf10f	Luna
+8641381	Camila
+eeee9b7	Aurora
+8a59f05	Bianca
+5a0fc29	Serena
+bf38aa5	Marco
+cfaf50a	Leo
+5815f22	Adrian
+cbede02	Lucas
+f0b9995	Viktor
+7b37259	Daniel
+aaac72d	Gabriel
+2f8f37e	Ethan
+a01126e	Julian
+3e05c90	Rafael
+e1ae457	Mateo
+3398634	Nico
+7aa2d07	Enzo
+1920e2f	Come-out-kast: satsa på Pass Line och kasta. 7 eller 11 vinner, 2, 3 eller 12 förlorar. Place-insatser börjar gälla när det finns en point.
+99f4934	LUCKY ACE 7s  •  BETALAR UPP TILL 2 500× DIN LINJEINSATS

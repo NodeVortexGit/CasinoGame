@@ -1,0 +1,1004 @@
+VÄIKE
+SUUR
+PAARITU
+PAARIS
+ÜKSKÕIK MILLINE KOLMIK
+Peotäis žetoone
+Virn žetoone
+Kandik žetoone
+Alus žetoone
+KÕIGE POPULAARSEM
+Laegas žetoone
+Suurmängija seif
+PARIM HIND
+Mullivesi
+Espresso
+Energiajook
+Klubivõileib
+Burgerieine
+Praeõhtusöök
+TÄIS LAADIMINE
+Õnneseeria
+Kuum seeria
+KÕIGE ROHKEM ÕNNE
+Pronkslaud
+Hõbelaud
+Kuldlaud
+Teemantlaud
+Hold'emi laud
+Sisesta kehtiv aasta.
+Sisesta kehtiv kuu (1-12).
+Sisesta kehtiv päev.
+See kuupäev on tulevikus.
+Tere tulemast minu lauda! Valmis mängima?
+Tore sind näha. Võta istet!
+Tere! Kaardid on värsked, nagu minagi.
+Tere tulemast! Teeme sellest toreda õhtu.
+Tee panus, kui oled valmis.
+Žetoonid lauale ja vaatame kaarte.
+Mille peale mängime?
+Oo, suur panus! Mulle meeldib su stiil.
+Vaat see on panus. Lähme!
+Täna õhtul julge, mis?
+Kõik sisse?! Süda peksab!
+Kõik ühe käe peale. Kartmatu!
+Blackjack! Uskumatu!
+Kakskümmend üks, lihtsalt niisama!
+Blackjack! Kaardid jumaldavad sind täna.
+Hästi mängitud!
+Võit! Tubli.
+Sul läheb hoogsalt!
+See on sinu oma.
+Milline võit! Kõik vaatavad seda lauda!
+Tohutu! Sa oled täna tules!
+Nii lähedal! Järgmine on sinu.
+Seekord vedas kasiinol.
+Raputa maha, uus käsi tuleb.
+Ai, üks kaart liiga palju.
+Lõhki! Juhtub ka parimatega.
+Viik. Keegi ei kaota!
+Viik. Su žetoonid on kaitstud.
+Läksin lõhki! Sul vedas.
+Minu jaoks liiga palju. Sa võidad!
+Blackjack kasiinole, vabandust!
+Diileril on blackjack. Halb õnn.
+Näitan ässa. Kindlustus?
+Jagame! Kaks võimalust võita.
+Kahekordistamine. Julge käik!
+Kahekordista! Tuleb üks kaart.
+Uus king, segan!
+Hakkab otsa saama? Kassa täiendab sind.
+Žetoone jääb vähemaks. Tahad veel?
+Žetoonid otsas! Mine kassasse või võta tasuta žetoone.
+Su virn on tühi. Kassa on otse su selja taga.
+Näed kurnatud välja! Söö baaris midagi.
+Jõud otsakorral? Baar hoolitseb sinu eest.
+Võta aega.
+Millal iganes oled valmis!
+Öö on alles noor.
+Algaja õnn on sinu poolel!
+Kaardipakk on täna õhtul sinu poolel!
+Algaja õnn on läbi. Siit edasi on mäng aus!
+Tere tulemast kasiinosse! Sinu koht ootab.
+Head õhtut! Lauad on täna kuumad.
+Tere tulemast tagasi! Tunned end õnnelikuna?
+Puuduta lauda, et mängima hakata!
+Vajad rohkem žetoone? Tulid õige luugi juurde.
+Suuremad virnad, suuremad boonused!
+Kõht tühi? Vali menüüst ükskõik mida.
+Suutäis toitu hoiab energiat üleval!
+Tere tulemast minu lauda!
+Seal sa oled! Kohe on valgem.
+Tunne end nagu kodus. Täna õhtul on kõik sinu jaoks.
+Jumaldan seda naeratust. Õnnelik õhtu?
+Lõõgastu, oled heades kätes.
+Hei, sina! Lootsin, et astud mu luugi juurde.
+Alati tore näha sõbralikku nägu.
+Vaata, kes siin on! Kas on lõbus?
+Tere, kena poiss!
+Mulle meeldib täna su stiil.
+Hei, tore sind jälle näha!
+Hea õhtu? Sa oled selle ära teeninud.
+Ettevaatust, võin hakata sulle kaasa elama.
+Mu lemmikmängija on tagasi!
+Istu minu juurde, jagan sulle midagi ilusat.
+Sinuga on selle laua taga palju lõbusam.
+Juba lähed? Öö on alles noor!
+No kuule, veel üks käsi. Mul on hea tunne!
+Sa ei saa mind praegu maha jätta, me alles alustasime!
+Viimane võimalus! Järgmine käsi võib olla see suur...
+Olgu, olgu. Hoian su koha soojas. Lubad tagasi tulla?
+Seeriat veel pole? Mängi täna ringe ({2}) ja ma hakkan lugema.
+Uus algus! Ringid ({2}) ja su leek süttib.
+Pean väikest nimekirja neist, kes käivad iga päev. Sind seal pole... veel.
+Päev {1} ootab sind. Ringe jäänud: {2}!
+Päevi järjest: {0}... sa ju ei jää nüüd seisma?
+Su leek paistab täna veidi jahe. Ringid ({2}) soojendavad selle üles.
+Olen lugenud: päevi {0}. Teeme {1}.
+Ära arva, et ma ei märganud. Seeria hoidmiseks jäänud ringe: {2}!
+Päevi järjest: {0}? Hakkan arvama, et sulle meeldib siin.
+Su seeria on tänaseks kindlustatud. Nüüd sa lihtsalt eputad.
+Päev {0} tehtud. Homme samal ajal?
+Päevi: {0}! Peaksin sulle koha hoidma.
+Seal see on: su seeria esimene päev! Tule homme tagasi, siis on kaks.
+Terve nädal järjest! Olen tõeliselt muljet avaldanud.
+Kolmkümmend päeva! Sa praktiliselt töötad siin.
+Sada päeva. Räägin kõigile sinust.
+Juba {0} päeva järjest! Vaata ennast.
+Seeria päästetud: päev {0}! Teadsin, et saad hakkama.
+Päev {0}! Vean kihla, et {1}. päevani ei jõua.
+Päevi: {0}... olgu, uhkeldaja.
+Mängi 10 kätt blackjacki
+Võida 5 kätt blackjackis
+Saa blackjack
+Võida blackjackis 500 žetooni
+Keeruta mänguautomaati 20 korda
+Võida 5 keerutust mänguautomaadis
+Võida mänguautomaadis 5× oma panus
+Mängi 5 ringi ruletti
+Võida 3 ruletikeerutust
+Taba number otsepanusega
+Mängi 8 kätt hold'emi
+Võida 4 kätt hold'emis
+Mängi 10 kätt bakarat
+Võida 5 kätt bakaras
+Mängi 15 kätt videopokkerit
+Mängi 8 vooru sic bo'd
+Võida 4 vooru sic bo's
+Viska täringuid 15 korda crapsis
+Võida 4 viset crapsis
+Tee videopokkeris mast või parem
+Kuninglik mastirida
+Mastirida
+Nelik
+Maja
+Mast
+Rida
+Kolmik
+Kaks paari
+Paar
+Kõrge kaart
+GPS-asukoht
+mobiilivõrk
+internetiühendus
+seadme seaded
+testriik
+kinnitamata (standardhind)
+teadmata
+1. 12
+2. 12
+3. 12
+2 : 1
+PUNANE
+MUST
+Poisid või parem
+ÕIGLASED HINNAD SINU RIIGILE
+Poe hinnad on kohandatud sinu riigi majandusega, et mängijad kõikjal maksaksid õiglast hinda.
+Sinu riigi leidmiseks kontrollime üks kord sinu ligikaudset asukohta. See seotakse seadmes riigiga ja seda ei saadeta kuhugi. Kui keeldud, kehtivad standardhinnad.
+JÄTKA
+Lahkud kasiinost?
+Su žetoonid ja edenemine on salvestatud.
+VÄLJU
+JÄÄN
+Avatud: {0}
+Seeria külmutus päästis eile su seeria (päevi: {0}).
+Külmutused ({0}) päästsid su seeria (päevi: {1}).
+Su seeria (päevi: {0}) lõppes. Mängi täna ringe ({1}), et uus alustada!
+MISSIOON TÄIDETUD
++{0} žetooni
+KÕIK MISSIOONID TÄIDETUD!
+Päevaboonus +{0} žetooni. Uued missioonid homme.
+TASE {0}!
+Verstapost! +{0} žetooni
+Tule homme tagasi, et jätkata
++1 seeria külmutus
+SEERIA: {0} PÄEVA!
+Ostud pole selles versioonis saadaval.
+Ost ebaõnnestus. Sinult raha ei võetud.
+Lisatud +{0} žetooni!
+{0}: kätt {1} {2}% õnnega, pärast algaja õnne
+{0}: kätt {1} {2}% õnnega!
+{0}: +{1}% energiat
+Pole selles seadmes saadaval
+Videod ei laadi selles võrgus
+Tule homme tagasi
+Valmis {0} s pärast
++{0} žetooni (täna veel {1})
++{0} tasuta žetooni!
++1 seeria külmutus!
+Praegu pole videot saadaval. Proovi hetke pärast uuesti.
+PRONKS
+HÕBE
+KULD
+TEEMANT
+Menüü
+Vaade
+Rist
+Ring
+Ruut
+Kolmnurk
+Kontrollime su piirkonda...
+Kinnitamata ({0}): standardhinnad
+{0} ({1}): hinnad valuutas {2}
+Meeldetuletused
+Tasuta žetoonid valmis ja seeria meeldetuletused
+Su tasuta žetoonid on valmis
+Lucky Ace'is ootab sind {0} žetooni.
+Hoia oma seeriat (päevi: {0})
+Mängi täna ringe ({0}), et see keskööl ei nulliks.
+BAKARA
+Tere tulemast bakarasse! Mängija, Pankur või Viik?
+MÄNGIJA
+VIIK
+PANKUR
+VIIMASED TULEMUSED
+M
+P
+V
+VÕTA TAGASI
+TÜHJENDA
+KORDA
+JAGA
+Selleks panuseks pole piisavalt žetoone.
+Laua maksimum saavutatud
+KOGUPANUS  {0}
+Vali žetoon ja puuduta Mängija, Pankur või Viik
+VIIK  {0}
+MÄNGIJA VÕIDAB  {0}:{1}
+PANKUR VÕIDAB  {0}:{1}
+VÕIT  +{0}
+TAGASTATUD  {0}
+Seekord võitu pole
+Mängi esmalt see käsi lõpuni.
+Tere tulemast! Täna on algaja õnn sinu poolel. Tee panus!
+BLACKJACK MAKSAB 3 : 2   •   DIILER PEATUB KÕIGIL 17-L   •   KINDLUSTUS MAKSAB 2 : 1
+PANUS
+VEEL
+AITAB
+KAHEKORDISTA
+JAGA KÄSI
+KINDLUSTA
+EI, AITÄH
+PANUS {0}+
+Pole piisavalt žetoone
+Diiler näitab ässa. Kindlustad hinnaga {0}?
+Kindlustus maksab {0}
+Diileril pole blackjacki. Kindlustus kadus.
+LÕHKI
+DIILER LÕHKI
+BLACKJACK!
+VÕIT
+VIIK
+KAOTUS
+Algaja õnn on läbi. Sinu Õnneseeria algab nüüd.
+Algaja õnn on läbi. Nüüdsest on tavaline blackjack.
+Sinu Õnneseeria on läbi. Tagasi tavalise blackjacki juurde.
+ŽETOONID OTSAS
+Vaata lühikest videot {0} tasuta žetooni eest või mine kassasse.
+Mine kassasse žetoone täiendama.
+TASUTA ŽETOONID
+KASSA
+HILJEM
+„{0}“
+VEEL ÜKS KÄSI
+LAHKU
+ALGAJA ÕNN
+ÕNNESEERIA
+Tervitusboonus uutele mängijatele: sinu esimese <b>{0} käe</b> jooksul on diileri king sinu kasuks seatud, nii et võidad peaaegu iga käe.
+Järgmise <b>{0} käe</b> jooksul eelis järk-järgult kaob ja pärast seda on igas lauas tavaline, aus blackjack segatud 6 pakiga kingast (blackjack maksab 3 : 2, diiler peatub kõigil 17-l).
+Eelis praegu: <b><color=#7CFC9A>{0}%</color></b>   Käsi jäänud: <b>{1}</b>
+Järgmise <b>{0} blackjacki käe</b> jooksul, panusega kuni <b>{1} žetooni</b>, on igal kaardil <b>{2}%</b> võimalus tulla sinu kasuks (sama eelis mis algaja õnnel).
+Hea mänguga võidab see umbes <b>{0}%</b> kätest, võrreldes umbes {1}%-ga tavalises blackjackis. Suuremad panused on tavaline blackjack ega kuluta käsi. Kui käed otsa saavad, on igas lauas taas tavaline, aus blackjack.
+SELGE
+TAHAD OMA ÕNNE TAGASI?
+Algaja õnn on läbi: siit edasi on igas lauas tavaline, aus blackjack. Õnneseeria toob eelise mõneks ajaks tagasi.
+CRAPS
+Tere tulemast crapsi! Panusta Pass Line'ile ja viska.
+KUUS
+ÜHEKSA
+FIELD
+2 3 4 9 10 11 12  •  2 ja 12 maksavad topelt
+ÜKSKÕIK MILLINE 7
+ÜKSKÕIK MILLINE CRAPS
+DON'T PASS BAR
+1:1  •  12 on viik
+PASS LINE
+ODDS
+tegelikud koefitsiendid
+VÄLJAS
+SEES
+Odds läheb Pass Line'i taha, kui punkt on olemas.
+Odds vajab panust Pass Line'ile.
+Sinu odds on maksimumis.
+Joonepanused tehakse avaviskel.
+LAUAL  {0}
+Avavise: panusta Pass Line'ile ja viska. 7 või 11 võidab, 2, 3 või 12 kaotab. Place-panused hakkavad kehtima, kui punkt on olemas.
+Punkt on {0}: viska see uuesti enne 7-t. Pass Line'i taga olev odds maksab tegelike koefitsientidega.
+VISKA
+Punkt on {0}.
+{0}! Punkt tehtud. Võit!
+Seitse. Uus viskaja, uus avavise.
+{0}, natural! Pass Line võidab.
+{0}, craps. Joon kaotab.
+Oota, kuni täringud peatuvad.
+LAHKUD LAUAST?
+Sinu joonepanus mängib veel punktil {0}. Kui praegu lahkud, kaotad selle.
+IGAPÄEVANE
+PÄEVASEERIA
+PÄEVA JÄRJEST
+TÄNA
+VAATA REKLAAMI
+OSTA
+SEERIA KÜLMUTUS
+Külmutus hoiab su seeria elus päeval, mil sa ei mängi. Sul võib olla kuni {0}.\n\nOstad ühe {1} žetooni eest?
+Seeria külmutus valmis.
+Külmutuseks pole piisavalt žetoone.
+TÜHISTA
+PÄEVA KEERUTUS
+KEERUTA
+Võimalused:
+{0}%
+Võitsid {0} žetooni!
+TÄNASED MISSIOONID
+Rekord: {0} päeva
+Mängi iga päev, et seeriat kasvatada
+Tänane eesmärk täidetud! Homseni.
+Täna: {0} / {1} ringi (ükskõik milline mäng)
+Seeria külmutused: {0} / {1}
+Päästa oma seeria päeval, mille vahele jätad. +1 iga 7 päeva järel.
+TÄIS
+VIDEOT POLE
+REKLAAM PEAGI
+Seeria boonus: auhinnad ×{0}
+Üks tasuta keerutus iga päev
+JÄRGMINE  {0}
+Kõik tehtud! Boonus kätte saadud.
+Uued missioonid keskööl.
+Täida kõik kolm: +{0} boonusžetooni
+HOLD'EM
+Tere tulemast hold'emisse! Pane ante ja vaatame kaarte.
+ANTE
+BLIND
+MÄNGI
+BLIND MAKSAB
+Diiler kvalifitseerub paari või parema kombinatsiooniga
+CHECK
+FOLD
+PANUSTA {0}×
+Ante {0} + blind {0}. Hoia tõstmiseks veel {1}.
+Puuduta žetoone, et ante määrata. Blind on sama suur.
+Check või panus kolm või neli korda ante?
+Tõsta nüüd 4× või 3× ante või tee check ja vaata flopi.
+Viimane võimalus: panusta 1× ante või tee fold ja kaota ante ning blind.
+Panusta nüüd 2× ante või tee check ja vaata kaht viimast kaarti.
+Siin on flop.
+Turn ja river.
+Vaatame, mis mul on.
+Diiler ei kvalifitseeru: sinu ante tuleb tagasi.
+Fold. Järgmine käsi on sinu.
+MÄNGUD
+Lohista vasakul, et kõndida  •  Lohista paremal, et ringi vaadata  •  Puuduta, et minna
+Ainult 18+  •  Žetoonid on lõbu jaoks: rahalist väärtust pole, neid ei saa kunagi raha ega auhindade vastu vahetada
+Avame uksi...
+Tere tulemast! Su {0} tervitusžetooni on valmis. Lauad on otse ees!
++{0} tasuta žetooni! Veel {1} tunni pärast.
+Tasuta žetoonid täituvad iga {0} tunni järel. Järgmised {1} pärast.
+{0} t {1} min
+{0} min {1} s
+HOIA OMA SEERIAT
+Kas soovid meeldetuletust õhtuti, kui sa pole veel mänginud, ja kui tasuta žetoonid on valmis? Mitte kunagi rohkem, ja saad selle seadetes välja lülitada.
+TULETA MEELDE
++{0} žetooni valmis!
+Vaata videot: {0}
+Järgmised tasuta žetoonid {0} pärast
+BLACKJACK
+4 lauda  •  maksab 3 : 2
+Ultimate Texas Hold'em
+Mängija, Pankur või Viik
+MÄNGUAUTOMAADID
+Lucky Ace 7s  •  10 joont
+VIDEOPOKKER
+Jacks or Better
+SIC BO
+Kolm täringut  •  suur või väike
+Pass Line  •  Field  •  Odds
+RULETT
+Euroopa ühe nulliga
+OLED KURNATUD
+Su energiariba on tühi. Võta baarist midagi, et edasi mängida, või tule hiljem tagasi: energia taastub aeglaselt, kui oled eemal.
+MINE BAARI
+VALI LAUD
+PANUSED
+TASE {0}
+ISTU
+VAJA {0}
+Jõua tasemele {0}, et siin mängida. Sinu tase on {1}.
+KASIINO
+PP
+KK
+AAAA
+PÄEV
+KUU
+AASTA
+MILLAL SA SÜNDISID?
+Žetoonid on ainult meelelahutuseks. Neil pole rahalist väärtust ja neid ei saa kunagi raha ega auhindade vastu vahetada.
+VABANDUST, SA EI SAA MÄNGIDA
+{0} on saadaval ainult täiskasvanutele.
+VÄLJU
+Sulgub {0} pärast...
+RÄÄGI MEILE ENDAST
+Valime sobivad võõrustajad, diilerid ja baaritöötajad. Saad seda igal ajal seadetes muuta.
+OLEN MEES
+OLEN NAINE
+EELISTAN MITTE ÖELDA
+SISENE KASIINOSSE
+Sinu töötajad täna õhtul:
+Leht {0}/{1}
+KEEL
+AUTOMAATNE
+RIIK
+Tere tulemast! Tehke oma panused.
+Laua limiit on {0} keerutuse kohta.
+Puuduta lauda, et žetoone panna
+Panused on lõppenud!
+ROHELINE
+roheline
+punane
+must
+Milline tabamus! Palju õnne!
+Võit! Võidad {0}.
+{0} {1}. Tagasi saad {2}.
+Tehke oma panused.
+Oota, kuni kuul peatub.
+SEADED
+ÜLDINE
+GRAAFIKA
+HELI
+PUUTE
+HIIR
+PULT
+VIBRATSIOON
+18+ • Žetoonidel pole rahalist väärtust • Fondid: Bebas Neue, Poppins, Noto (SIL OFL) • Piirid: Natural Earth • Hinnaandmed: Maailmapank
+KASIINO TÖÖTAJAD
+NAISED
+MEHED
+SEGA
+MEELDETULETUSED
+Tasuta žetoonid valmis ja õhtune meeldetuletus enne, kui seeria lõpeks.
+KONTROLLI UUESTI
+HINNAPIIRKOND
+Kiireim: kasiino nagu maalitud, mitte midagi lisaks.
+Poleeritud põrandad, puit ja kuld peegeldavad saali.
+Filmilik: värvikorrektsioon, teralisus, kuma, valguskiired, elutruu nahk.
+Kinoobjektiiv: teravus järgib su pilku, triibud tuledel, tolm valguskiirtes.
+KVALITEET
+MADAL
+KESKMINE
+KÕRGE
+ULTRA
+RESOLUTSIOON
+Madalam on pehmem, kuid töötab jahedamalt ja säästab akut.
+KUVAREŽIIM
+TÄISEKRAAN
+AKEN
+SERVADE SILUMINE
+Silub kasiinos sakilised servad.
+KAADRISAGEDUS
+{0} FPS
+30 FPS säästab akut ja hoiab vanemad telefonid jahedana.
+V-SYNC
+VAATEVÄLI
+NÄITA FPS-I
+PEAHELITUGEVUS
+MUUSIKA
+HELIEFEKTID
+TÖÖTAJATE HÄÄLED
+Töötajate sumin, kui nad räägivad.
+VAIGISTA TAUSTAL
+Vaigistab kasiino, kui oled teises aknas.
+VAATE TUNDLIKKUS
+Kui kiiresti lohistamine vaadet pöörab.
+Kui kiiresti hiirega lohistamine vaadet pöörab.
+PÖÖRA VAADE VASAK / PAREM
+PÖÖRA VAADE ÜLES / ALLA
+NUPPUDE PAIGUTUS
+AUTO
+VAHETA MENÜÜ / VAADE
+KANGI TUNDLIKKUS
+Kui kiiresti parem kang vaadet pöörab.
+PÖÖRA KANG VASAK / PAREM
+PÖÖRA KANG ÜLES / ALLA
+PULDI VIHJED
+Näitab, mida iga nupp teeb, kui mängid puldiga.
+VIBREERI
+TELEFON
+MÕLEMAD
+Auto: pult, kui see on ühendatud, muidu telefon.
+TELEFONI VIBRATSIOON
+TELEFONI TUGEVUS
+PULDI VIBRATSIOON
+PULDI TUGEVUS
+AUTOMAATNE ({0})
+{0} avab seaded, {1} avab igapäevase.
+Ühtegi pulti pole ühendatud.
+Ühendatud: {0}. Kuvatakse {1} nupud (paremal olev A kinnitab).
+Ühendatud: {0}. Kuvatakse {1} nupud.
+BAAR
+ÕNN
+Žetoonid, õnn ja toit on virtuaalsed esemed ainult meelelahutuseks: rahalist väärtust pole, neid ei saa raha ega auhindade vastu lunastada.
+Igal kaardil on selline võimalus tulla sinu kasuks, kui blackjacki panus on kuni {0} žetooni (suuremad panused on tavalised ega kuluta käsi). Algab pärast algaja õnne; tugevamad paketid kasutatakse ära esimesena.
+Luba asukohale juurdepääs, et saada oma riigi hind
+Ostud pole selles mänguversioonis saadaval.
+TESTPOOD (päris raha pole)
+energia
++{0}% ŽETOONE
+kätt: {0}
+võidab neist umbes {0}%
+Tere tulemast sic bo'sse! Suur, väike või midagi julgemat?
+Laua limiit on {0} viske kohta.
+RAPUTA
+KOLMIK {0}!
+LUCKY ACE 7s
+KOGUPANUS
+VÕIDUTABEL
+EDU!
+Keerutamiseks on vaja vähemalt 10 žetooni.
+HANGI ŽETOONE
+Panust vähendati summani, mida suudad katta.
+MEGAVÕIT!
+SUUR VÕIT!
+TAGASTATUD {0}
+VÕITU POLE
+JOON {0}: {1} × {2} = {3}
+TÄHED ×{0} = {1}
+Kirss
+Sidrun
+Apelsin
+Ploom
+Kell
+Bar
+Seitse
+Teemant
+Äss
+Täht
+TÄHED maksavad kõikjal: 5 = {0}× panus, 4 = {1}× panus, 3 = {2}× panus.
+ÄSS on metsik: see asendab iga sümbolit peale tähe.
+Joonevõidud on joonepanuse (kogupanus ÷ 10) kordsed, vasakult paremale esimesest rullist.
+TAGASTUS: {0}% pikas perspektiivis. Iga keerutus on sõltumatu ja juhuslik.
+HOITUD
+Jaga, hoia soovitud kaardid, vaheta üks kord.
+HOIA
+VIHJE
+VAHETA
+Puuduta kaarte, et neid hoida, ja vaheta siis.
+Kõnni
+Vaata
+Nupud
+Seaded
+Igapäevane
+Reguleeri
+Liigu
+Vali
+Sulge
+Tagasi
+KURNATUD
+ALGAJA ÕNN {0}%
+KÄSI JÄÄNUD: {0}
+ÕNNESEERIA {0}%
+KÄSI: {0}  •  PANUSED KUNI {1}
+TASE
+Sofia
+Elena
+Mia
+Valentina
+Chloe
+Isabella
+Nadia
+Aria
+Luna
+Kamila
+Aurora
+Bianca
+Serena
+Marco
+Leo
+Adrian
+Lucas
+Viktor
+Daniel
+Gabriel
+Ethan
+Julian
+Rafael
+Mateo
+Nico
+Enzo
+TERE TULEMAST
+RÄÄGI VÕÕRUSTAJAGA
+Juhised ja nõuanded
+ŽETOONID  •  BOONUSED
+OSTA ŽETOONE
+Kassa
+KOKTEILID  •  SNÄKID  •  ENERGIA
+SÖÖK JA JOOK
+Baar
+BLACKJACK MAKSAB 3 : 2
+DIILER PEAB 17-L PEATUMA
+MÄNGI BLACKJACKI
+Laud {0}  •  panused {1}–{2}
+MÄNGI HOLD'EMI
+Ultimate Texas Hold'em  •  ante {0}–{1}
+MÄNGI BAKARAT
+SUUR  •  VÄIKE  •  KOLMIKUD
+MÄNGI SIC BO'D
+Kolm täringut  •  suur või väike maksab 1:1
+PASS LINE  •  FIELD  •  ODDS
+MÄNGI CRAPSI
+Pass Line maksab 1:1  •  odds maksab tegelike koefitsientidega
+MÄNGI VIDEOPOKKERIT
+MÄNGI AUTOMAATE
+Jacks or Better  •  täis 9/6 tabel
+LUCKY ACE 7s  •  MAKSAB KUNI 2500× SINU JOONEPANUSE
+JACKS OR BETTER  •  KUNINGLIK MASTIRIDA MAKSAB 800×
+TEHKE OMA PANUSED
+MÄNGI RULETTI
+Euroopa ratas  •  otsepanus maksab 35 : 1
+TELLI JOOK
+Toob: {0}
+{0} avaneb tasemel {1}. Sinu tase on {2}: iga mängitud ring loeb.
+Selle laua jaoks on vaja vähemalt {0} žetooni.
+Blackjacki lauad on otse ees. Mine ühe juurde ja istu!
+Mänguautomaadid on parempoolse seina ääres, videopokker tagaseina ääres ja rulett päris taga.
+Hold'em on vasakus tagumises nurgas, baari taga.
+Bakara on kohe sissepääsust vasakul.
+Sic bo on nurgas kassa taga: kolm täringut, suur või väike.
+Crapsi laud on paremal automaatide ees. Panusta Pass Line'ile ja viska!
+Kassa on siinsamas su paremal pool ja baar vasaku seina ääres.
+Väsinud? Suupiste baaris täidab su energia kohe.
+Puuduta ükskõik kus põrandal ja kõnnid sinna. Puuduta lauda, et istuda.
+Andorra
+Araabia Ühendemiraadid
+Afganistan
+Antigua ja Barbuda
+Anguilla
+Albaania
+Armeenia
+Angola
+Antarktika
+Argentina
+Ameerika Samoa
+Austria
+Austraalia
+Aruba
+Ahvenamaa
+Aserbaidžaan
+Bosnia ja Hertsegoviina
+Barbados
+Bangladesh
+Belgia
+Burkina Faso
+Bulgaaria
+Bahrein
+Burundi
+Benin
+Saint-Barthélemy
+Bermuda
+Brunei
+Boliivia
+Kariibi Madalmaad
+Brasiilia
+Bahama
+Bhutan
+Bouvet’ saar
+Botswana
+Valgevene
+Belize
+Kanada
+Kookossaared
+Kongo DV
+Kesk-Aafrika Vabariik
+Kongo Vabariik
+Šveits
+Elevandiluurannik
+Cooki saared
+Tšiili
+Kamerun
+Hiina
+Colombia
+Costa Rica
+Kuuba
+Roheneemesaared
+Curaçao
+Jõulusaar
+Küpros
+Tšehhi
+Saksamaa
+Djibouti
+Taani
+Dominica
+Dominikaani Vabariik
+Alžeeria
+Ecuador
+Eesti
+Egiptus
+Lääne-Sahara
+Eritrea
+Hispaania
+Etioopia
+Soome
+Fidži
+Falklandi saared
+Mikroneesia
+Fääri saared
+Prantsusmaa
+Gabon
+Ühendkuningriik
+Grenada
+Gruusia
+Prantsuse Guajaana
+Guernsey
+Ghana
+Gibraltar
+Gröönimaa
+Gambia
+Guinea
+Guadeloupe
+Ekvatoriaal-Guinea
+Kreeka
+Lõuna-Georgia ja Lõuna-Sandwichi saared
+Guatemala
+Guam
+Guinea-Bissau
+Guyana
+Hongkongi erihalduspiirkond
+Heardi ja McDonaldi saared
+Honduras
+Horvaatia
+Haiti
+Ungari
+Indoneesia
+Iirimaa
+Iisrael
+Mani saar
+India
+Briti India ookeani ala
+Iraak
+Iraan
+Island
+Itaalia
+Jersey
+Jamaica
+Jordaania
+Jaapan
+Keenia
+Kõrgõzstan
+Kambodža
+Kiribati
+Komoorid
+Saint Kitts ja Nevis
+Põhja-Korea
+Lõuna-Korea
+Kuveit
+Kaimanisaared
+Kasahstan
+Laos
+Liibanon
+Saint Lucia
+Liechtenstein
+Sri Lanka
+Libeeria
+Lesotho
+Leedu
+Luksemburg
+Läti
+Liibüa
+Maroko
+Monaco
+Moldova
+Montenegro
+Saint-Martin
+Madagaskar
+Marshalli Saared
+Põhja-Makedoonia
+Mali
+Myanmar (Birma)
+Mongoolia
+Macau erihalduspiirkond
+Põhja-Mariaanid
+Martinique
+Mauritaania
+Montserrat
+Malta
+Mauritius
+Maldiivid
+Malawi
+Mehhiko
+Malaisia
+Mosambiik
+Namiibia
+Uus-Kaledoonia
+Niger
+Norfolk
+Nigeeria
+Nicaragua
+Holland
+Norra
+Nepal
+Nauru
+Niue
+Uus-Meremaa
+Omaan
+Panama
+Peruu
+Prantsuse Polüneesia
+Paapua Uus-Guinea
+Filipiinid
+Pakistan
+Poola
+Saint-Pierre ja Miquelon
+Pitcairni saared
+Puerto Rico
+Palestiina alad
+Portugal
+Belau
+Paraguay
+Katar
+Réunion
+Rumeenia
+Serbia
+Venemaa
+Rwanda
+Saudi Araabia
+Saalomoni Saared
+Seišellid
+Sudaan
+Rootsi
+Singapur
+Saint Helena
+Sloveenia
+Svalbard ja Jan Mayen
+Slovakkia
+Sierra Leone
+San Marino
+Senegal
+Somaalia
+Suriname
+Lõuna-Sudaan
+São Tomé ja Príncipe
+El Salvador
+Sint Maarten
+Süüria
+Svaasimaa
+Turks ja Caicos
+Tšaad
+Prantsuse Lõunaalad
+Togo
+Tai
+Tadžikistan
+Tokelau
+Ida-Timor
+Türkmenistan
+Tuneesia
+Tonga
+Türgi
+Trinidad ja Tobago
+Tuvalu
+Taiwan
+Tansaania
+Ukraina
+Uganda
+Ühendriikide hajasaared
+Ameerika Ühendriigid
+Uruguay
+Usbekistan
+Vatikan
+Saint Vincent ja Grenadiinid
+Venezuela
+Briti Neitsisaared
+USA Neitsisaared
+Vietnam
+Vanuatu
+Wallis ja Futuna
+Samoa
+Kosovo
+Jeemen
+Mayotte
+Lõuna-Aafrika Vabariik
+Sambia
+Zimbabwe
+Inglise
+Afrikaani
+Amhara
+Araabia
+Aserbaidžaani
+Valgevene
+Bulgaaria
+Bengali
+Bosnia
+Katalaani
+Tšehhi
+Taani
+Saksa
+Kreeka
+Hispaania
+Eesti
+Baski
+Pärsia
+Soome
+Filipiini
+Prantsuse
+Iiri
+Galeegi
+Gudžarati
+Hausa
+Heebrea
+Hindi
+Horvaadi
+Prantsuse (Haiti)
+Ungari
+Armeenia
+Indoneesia
+Ibo
+Islandi
+Itaalia
+Jaapani
+Gruusia
+Kasahhi
+Khmeeri
+Kannada
+Korea
+Kirgiisi
+Letseburgi
+Lao
+Leedu
+Läti
+Malagassi
+Makedoonia
+Malajalami
+Mongoli
+Marathi
+Malai
+Malta
+Birma
+Norra bokmål
+Nepali
+Hollandi
+Pandžabi
+Poola
+Puštu
+Portugali (Brasiilia)
+Portugali (Portugal)
+Romanši
+Rumeenia
+Vene
+Ruanda
+Singali
+Slovaki
+Sloveeni
+Somaali
+Albaania
+Serbia
+Rootsi
+Suahiili
+Tamili
+Telugu
+Tadžiki
+Tai
+Türkmeeni
+Türgi
+Ukraina
+Urdu
+Usbeki
+Vietnami
+Koosa
+Joruba
+Hiina (lihtsustatud)
+Hiina (traditsiooniline)
+Suulu
+P
+E
+T
+K
+N
+R
+L

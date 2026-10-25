@@ -1,0 +1,1004 @@
+KİÇİK
+BÖYÜK
+TƏK
+CÜT
+İSTƏNİLƏN ÜÇLÜK
+Bir ovuc fiş
+Bir qalaq fiş
+Bir sini fiş
+Bir rəf fiş
+ƏN POPULYAR
+Fiş xəzinəsi
+Böyük oyunçunun seyfi
+ƏN SƏRFƏLİ
+Qazlı su
+Espresso
+Enerji içkisi
+Klub sendviçi
+Burger yeməyi
+Steyk şam yeməyi
+TAM DOLDURMA
+Uğurlu seriya
+İsti seriya
+ƏN ÇOX UĞUR
+Bürünc masa
+Gümüş masa
+Qızıl masa
+Almaz masa
+Hold'em masası
+Düzgün il daxil edin.
+Düzgün ay daxil edin (1-12).
+Düzgün gün daxil edin.
+Bu tarix gələcəkdədir.
+Masama xoş gəldin! Oynamağa hazırsan?
+Səni görməyə şadam. Otur!
+Salam! Kartlar təzədir, mən də elə.
+Xoş gəldin! Gəl bu gecəni gözəl edək.
+Hazır olanda mərcini qoy.
+Fişlər masaya, gəl kartlara baxaq.
+Nəyə oynayırıq?
+Vay, böyük mərc! Üslubun xoşuma gəlir.
+Bax buna mərc deyərlər. Başlayaq!
+Bu gecə cəsursan, elə deyil?
+Hamısı?! Ürəyim çırpınır!
+Hər şey bir ələ. Qorxmadan!
+Blackjack! İnanılmaz!
+İyirmi bir, elə belə!
+Blackjack! Kartlar bu gecə səni sevir.
+Gözəl oynadın!
+Qalib! Əla.
+İşlərin yaxşı gedir!
+O sənindir.
+Nə qələbədir! Hamı bu masaya baxır!
+Möhtəşəm! Bu gecə alovlanırsan!
+Çox yaxın idi! Növbəti sənindir.
+Bu dəfə kazino şanslı oldu.
+Fikir vermə, yeni əl gəlir.
+Ay, bir kart artıq.
+Keçdin! Ən yaxşıların da başına gəlir.
+Heç-heçə. Heç kim uduzmur!
+Heç-heçə. Fişlərin təhlükəsizdir.
+Mən keçdim! Şanslısan.
+Mənə çox oldu. Sən qazandın!
+Kazino üçün blackjack, bağışla!
+Diler blackjack yığdı. Şanssızlıq.
+Tuz göstərirəm. Sığorta?
+Bölürük! Qazanmaq üçün iki şans.
+İkiqat. Cəsur gediş!
+İkiqat et! Bir kart gəlir.
+Yeni ayaqqabı, qarışdırıram!
+Azalır? Kassa səni doldura bilər.
+Fişlər azalır. Daha istəyirsən?
+Fişlər bitdi! Kassaya get və ya pulsuz fiş götür.
+Qalağın boşdur. Kassa düz arxandadır.
+Çox yorğun görünürsən! Barda bir şey ye.
+Gücün tükənir? Bar səninlə maraqlanacaq.
+Tələsmə.
+Nə vaxt hazır olsan!
+Gecə hələ gəncdir.
+Yeni başlayanın şansı səninlədir!
+Bu gecə kartlar sənin tərəfindədir!
+Yeni başlayanın şansı bitdi. Bundan sonra oyun ədalətlidir!
+Kazinoya xoş gəldin! Yerin səni gözləyir.
+Axşamın xeyir! Masalar bu gecə istidir.
+Yenidən xoş gəldin! Özünü şanslı hiss edirsən?
+Oynamağa başlamaq üçün masaya toxun!
+Daha çox fiş lazımdır? Düzgün pəncərəyə gəlmisən.
+Daha böyük qalaqlar, daha böyük bonuslar!
+Acmısan? Menyudan istədiyini seç.
+Bir az yemək enerjini yüksək saxlayır!
+Masama xoş gəldin!
+Budur sən! Burası artıq daha işıqlıdır.
+Özünü evdəki kimi hiss et. Bu gecə hər şey sənin üçündür.
+O təbəssümü sevirəm. Şanslı gecə?
+Rahatla, burada etibarlı əllərdəsən.
+Hey, sən! Pəncərəmə baş çəkəcəyinə ümid edirdim.
+Mehriban bir üz görmək həmişə xoşdur.
+Bax kim gəlib! Əylənirsən?
+Salam, yaraşıqlı!
+Bu gecə üslubun xoşuma gəlir.
+Hey, səni yenidən görməyə şadam!
+Gecən yaxşı keçir? Buna layiqsən.
+Ehtiyatlı ol, sənə azarkeşlik etməyə başlaya bilərəm.
+Sevimli oyunçum qayıtdı!
+Yanımda otur, sənə gözəl bir şey paylayım.
+Bu masanı daha əyləncəli edirsən.
+Artıq gedirsən? Gecə hələ gəncdir!
+Gəl, cəmi bir əl də. Yaxşı hissim var!
+İndi məni tərk edə bilməzsən, təzə başlamışıq!
+Son şans! Növbəti əl böyük olan ola bilər...
+Yaxşı, yaxşı. Yerini isti saxlayacağam. Qayıdacağına söz verirsən?
+Hələ seriya yoxdur? Bu gün raund oyna ({2}) və saymağa başlayacağam.
+Yeni başlanğıc! Raundlar ({2}) və alovun yanır.
+Hər gün gələnlərin kiçik siyahısını tuturam. Sən orada yoxsan... hələlik.
+{1}-ci gün səni gözləyir. Qalan raundlar: {2}!
+Ardıcıl günlər: {0}... indi dayanmayacaqsan, elə deyil?
+Alovun bu gün bir az soyuq görünür. Raundlar ({2}) onu isidəcək.
+Sayıram: {0} gün. Gəl {1} edək.
+Fikir vermədiyimi düşünmə. Seriyanı saxlamaq üçün qalan raundlar: {2}!
+Ardıcıl günlər: {0}? Deyəsən burada xoşuna gəlir.
+Seriyan bu gün üçün təhlükəsizdir. İndi sadəcə özünü göstərirsən.
+{0}-ci gün tamam. Sabah eyni vaxtda?
+{0} gün! Sənə yer saxlamalıyam.
+Budur: seriyanın ilk günü! Sabah qayıt, ikinci günü edək.
+Bütöv bir həftə ardıcıl! Həqiqətən heyran qaldım.
+Otuz gün! Az qala burada işləyirsən.
+Yüz gün. Hamıya səndən danışıram.
+Artıq ardıcıl {0} gün! Özünə bax.
+Seriya xilas edildi: {0}-ci gün! Bacaracağını bilirdim.
+{0}-ci gün! Mərc gəlirəm ki, {1}-ə çatmayacaqsan.
+{0} gün... yaxşı, lovğa.
+10 əl blackjack oyna
+5 əl blackjack qazan
+Blackjack yığ
+Blackjack-də 500 fiş qazan
+Slotları 20 dəfə fırlat
+5 slot fırlatmasında qazan
+Slotlarda mərcinin 5 mislini qazan
+5 raund rulet oyna
+3 rulet fırlatmasında qazan
+Bir rəqəmi düz tut
+8 əl hold'em oyna
+4 əl hold'em qazan
+10 əl bakkara oyna
+5 əl bakkara qazan
+15 əl video poker oyna
+8 raund sic bo oyna
+4 raund sic bo qazan
+Crapsda zərləri 15 dəfə at
+Crapsda 4 atış qazan
+Video pokerdə fləş və ya daha yaxşısını yığ
+Royal fləş
+Strit fləş
+Kare
+Ful haus
+Fləş
+Strit
+Üçlük
+İki cüt
+Cüt
+Yüksək kart
+GPS yeri
+mobil şəbəkə
+internet bağlantısı
+cihaz parametrləri
+test ölkəsi
+təsdiqlənməyib (standart qiymət)
+naməlum
+1-ci 12
+2-ci 12
+3-cü 12
+2-yə 1
+QIRMIZI
+QARA
+Valet və ya yuxarı
+ÖLKƏN ÜÇÜN ƏDALƏTLİ QİYMƏTLƏR
+Mağaza qiymətləri ölkənin iqtisadiyyatına uyğunlaşdırılır ki, hər yerdə oyunçular ədalətli qiymət ödəsin.
+Ölkəni tapmaq üçün təxmini yerini bir dəfə yoxlayırıq. O, cihazında ölkə ilə uyğunlaşdırılır və heç yerə göndərilmir. İmtina etsən, standart qiymətlər tətbiq olunur.
+DAVAM ET
+Kazinodan çıxırsan?
+Fişlərin və irəliləyişin yadda saxlanıldı.
+ÇIX
+QAL
+Açıldı: {0}
+Seriya dondurması dünən {0} günlük seriyanı xilas etdi.
+Dondurmalar ({0}) {1} günlük seriyanı xilas etdi.
+{0} günlük seriyan bitdi. Yenisinə başlamaq üçün bu gün raund oyna ({1})!
+TAPŞIRIQ TAMAMLANDI
++{0} fiş
+BÜTÜN TAPŞIRIQLAR TAMAMLANDI!
+Gündəlik bonus +{0} fiş. Yeni tapşırıqlar sabah.
+SƏVİYYƏ {0}!
+Mərhələ! +{0} fiş
+Davam etmək üçün sabah qayıt
++1 seriya dondurması
+{0} GÜNLÜK SERİYA!
+Bu versiyada alış-veriş mümkün deyil.
+Alış uğursuz oldu. Səndən pul tutulmadı.
++{0} fiş əlavə edildi!
+{0}: {1} əl, {2}% şans, yeni başlayanın şansından sonra
+{0}: {1} əl, {2}% şans!
+{0}: +{1}% enerji
+Bu cihazda mövcud deyil
+Videolar bu şəbəkədə yüklənmir
+Sabah qayıt
+{0} san. sonra hazırdır
++{0} fiş (bu gün {1} qalıb)
++{0} pulsuz fiş!
++1 seriya dondurması!
+Hazırda video yoxdur. Bir azdan yenidən cəhd et.
+BÜRÜNC
+GÜMÜŞ
+QIZIL
+ALMAZ
+Menyu
+Görünüş
+Xaç
+Dairə
+Kvadrat
+Üçbucaq
+Regionun yoxlanılır...
+Təsdiqlənməyib ({0}): standart qiymətlər
+{0} ({1}): qiymətlər {2} ilə
+Xatırlatmalar
+Pulsuz fişlər hazırdır və seriya xatırlatmaları
+Pulsuz fişlərin hazırdır
+Lucky Ace-də səni {0} fiş gözləyir.
+{0} günlük seriyanı qoru
+Gecə yarısı sıfırlanmasın deyə bu gün raund oyna ({0}).
+BAKKARA
+Bakkaraya xoş gəldin! Oyunçu, Bankir, yoxsa Heç-heçə?
+OYUNÇU
+HEÇ-HEÇƏ
+BANKİR
+SON NƏTİCƏLƏR
+O
+B
+H
+GERİ AL
+TƏMİZLƏ
+TƏKRAR MƏRC
+PAYLA
+Bu mərc üçün kifayət qədər fiş yoxdur.
+Masanın maksimumuna çatıldı
+ÜMUMİ MƏRC  {0}
+Fiş seç, sonra Oyunçu, Bankir və ya Heç-heçəyə toxun
+HEÇ-HEÇƏ  {0}
+OYUNÇU QAZANIR  {0}–{1}
+BANKİR QAZANIR  {0}–{1}
+QAZANC  +{0}
+QAYTARILDI  {0}
+Bu dəfə qazanc yoxdur
+Əvvəlcə bu əli bitir.
+Xoş gəldin! Bu gecə yeni başlayanın şansı səninlədir. Mərc qoy!
+BLACKJACK 3-Ə 2 ÖDƏYİR   •   DİLER BÜTÜN 17-LƏRDƏ DAYANIR   •   SIĞORTA 2-YƏ 1 ÖDƏYİR
+MƏRC
+KART
+DAYAN
+İKİQAT
+BÖL
+SIĞORTALA
+XEYR, SAĞ OL
+MƏRC {0}+
+Kifayət qədər fiş yoxdur
+Diler tuz göstərir. {0} ilə sığortalanırsan?
+Sığorta ödəyir: {0}
+Dilerdə blackjack yoxdur. Sığorta itdi.
+KEÇDİN
+DİLER KEÇDİ
+BLACKJACK!
+QƏLƏBƏ
+HEÇ-HEÇƏ
+MƏĞLUBİYYƏT
+Yeni başlayanın şansı bitdi. Uğurlu seriyan indi başlayır.
+Yeni başlayanın şansı bitdi. Bundan sonra standart blackjack.
+Uğurlu seriyan bitdi. Standart blackjack-ə qayıdırıq.
+FİŞLƏR BİTDİ
+{0} pulsuz fiş üçün qısa video izlə və ya kassaya get.
+Fişlərini doldurmaq üçün kassaya get.
+PULSUZ FİŞLƏR
+KASSA
+SONRA
+“{0}”
+DAHA BİR ƏL
+GET
+YENİ BAŞLAYANIN ŞANSI
+UĞURLU SERİYA
+Yeni oyunçular üçün xoş gəldin bonusu: ilk <b>{0} əl</b> boyunca dilerin ayaqqabısı sənin xeyrinə düzülüb, ona görə də demək olar ki, hər əli qazanacaqsan.
+Növbəti <b>{0} əl</b> ərzində üstünlük tədricən azalır, sonra isə hər masa 6 dəstəli qarışdırılmış ayaqqabıdan paylanan standart, ədalətli blackjack olur (blackjack 3-ə 2 ödəyir, diler bütün 17-lərdə dayanır).
+İndiki üstünlük: <b><color=#7CFC9A>{0}%</color></b>   Qalan əllər: <b>{1}</b>
+Növbəti <b>{0} blackjack əlində</b> <b>{1} fişə</b> qədər mərclə hər kartın sənin xeyrinə gəlmə şansı <b>{2}%</b>-dir (yeni başlayanın şansı ilə eyni üstünlük).
+Yaxşı oyunla bu, əllərin təxminən <b>{0}%</b>-ni qazanır, standart blackjack-də isə təxminən {1}%. Daha böyük mərclər standart blackjack-dir və əl xərcləmir. Əllər bitəndə hər masa yenidən standart, ədalətli blackjack olur.
+ANLADIM
+ŞANSINI GERİ İSTƏYİRSƏN?
+Yeni başlayanın şansı bitdi: bundan sonra hər masa standart, ədalətli blackjack-dir. Uğurlu seriya üstünlüyü bir müddət geri qaytarır.
+CRAPS
+Crapsa xoş gəldin! Pass Line-a mərc qoy və at.
+ALTI
+DOQQUZ
+FIELD
+2 3 4 9 10 11 12  •  2 və 12 iki qat ödəyir
+İSTƏNİLƏN 7
+İSTƏNİLƏN CRAPS
+DON'T PASS BAR
+1:1  •  12 heç-heçədir
+PASS LINE
+ODDS
+real əmsallar
+SÖNÜLÜ
+AÇIQ
+Xal olanda odds Pass Line-ın arxasına qoyulur.
+Odds üçün Pass Line mərci lazımdır.
+Odds mərcin maksimumdadır.
+Xətt mərcləri ilk atışda qoyulur.
+MASADA  {0}
+İlk atış: Pass Line-a mərc qoy, sonra at. 7 və ya 11 qazanır; 2, 3 və ya 12 uduzur. Place mərcləri xal olandan sonra işləməyə başlayır.
+Xal {0}-dir: onu 7-dən əvvəl yenə at. Pass Line-ın arxasındakı odds real əmsalla ödəyir.
+AT
+Xal {0}-dir.
+{0}! Xal tutuldu. Qazandın!
+Yeddi çıxdı. Yeni atan, yeni ilk atış.
+{0}, natural! Pass Line qazanır.
+{0}, craps. Xətt uduzur.
+Zərlər dayanana qədər gözlə.
+MASADAN QALXIRSAN?
+Xətt mərcin hələ {0} xalında oynayır. İndi getsən, onu itirəcəksən.
+GÜNDƏLİK
+GÜNDƏLİK SERİYA
+ARDICIL GÜN
+BU GÜN
+REKLAMA BAX
+AL
+SERİYA DONDURMASI
+Seriya dondurması oynamadığın gün seriyanı qoruyur. {0} ədədə qədər saxlaya bilərsən.\n\nBirini {1} fişə alırsan?
+Seriya dondurması hazırdır.
+Dondurma üçün kifayət qədər fiş yoxdur.
+LƏĞV ET
+GÜNDƏLİK FIRLATMA
+FIRLAT
+Şanslar:
+{0}%
+{0} fiş qazandın!
+BUGÜNKÜ TAPŞIRIQLAR
+Rekord: {0} gün
+Seriya qurmaq üçün hər gün oyna
+Bugünkü məqsəd tamamlandı! Sabah görüşərik.
+Bu gün: {0} / {1} raund (istənilən oyun)
+Seriya dondurmaları: {0} / {1}
+Buraxdığın gün seriyanı xilas et. Hər 7 gündən bir +1.
+DOLU
+VİDEO YOXDUR
+REKLAM TEZLİKLƏ
+Seriya bonusu: mükafatlar ×{0}
+Hər gün bir pulsuz fırlatma
+NÖVBƏTİ  {0}
+Hər şey hazırdır! Bonus toplandı.
+Yeni tapşırıqlar gecə yarısı.
+Üçünü də tamamla: +{0} bonus fiş
+HOLD'EM
+Hold'em-ə xoş gəldin! Ante qoy, kartlara baxaq.
+ANTE
+BLIND
+OYNA
+BLIND ÖDƏYİR
+Diler cüt və ya daha yaxşısı ilə kvalifikasiya olur
+CHECK
+FOLD
+MƏRC {0}×
+Ante {0} + blind {0}. Artırmaq üçün daha {1} saxla.
+Ante üçün fişlərə toxun. Blind eynidir.
+Check, yoxsa antenin üç və ya dörd qatı mərc?
+İndi antenin 4× və ya 3× qədər artır, ya da check edib flopa bax.
+Son şans: antenin 1× qədər mərc qoy, ya da fold et və ante ilə blind-i itir.
+İndi antenin 2× qədər mərc qoy, ya da check edib son iki karta bax.
+Budur flop.
+Turn və river.
+Görək məndə nə var.
+Diler kvalifikasiya olmadı: antin geri qayıdır.
+Fold etdin. Növbəti əl sənindir.
+OYUNLAR
+Yerimək üçün solda sürüşdür  •  Baxmaq üçün sağda sürüşdür  •  Getmək üçün toxun
+Yalnız 18+  •  Fişlər əyləncə üçündür: pul dəyəri yoxdur, heç vaxt pula və ya mükafata dəyişdirilmir
+Qapılar açılır...
+Xoş gəldin! {0} salamlama fişin hazırdır. Masalar düz qabaqdadır!
++{0} pulsuz fiş! Daha çoxu {1} saatdan sonra.
+Pulsuz fişlər hər {0} saatdan bir dolur. Növbəti {1} sonra.
+{0} saat {1} dəq
+{0} dəq {1} san
+SERİYANI QORU
+Hələ oynamadığın axşamlarda və pulsuz fişlərin hazır olanda xatırlatma istəyirsən? Bundan artıq heç vaxt, və Parametrlərdə söndürə bilərsən.
+XATIRLAT
++{0} fiş hazırdır!
+Video izlə: {0}
+Növbəti pulsuz fişlər {0} sonra
+BLACKJACK
+4 masa  •  3-ə 2 ödəyir
+Ultimate Texas Hold'em
+Oyunçu, Bankir və ya Heç-heçə
+SLOTLAR
+Lucky Ace 7s  •  10 xətt
+VİDEO POKER
+Jacks or Better
+SIC BO
+Üç zər  •  böyük və ya kiçik
+Pass Line  •  Field  •  Odds
+RULET
+Avropa, tək sıfırlı
+ÇOX YORĞUNSAN
+Enerji zolağın boşdur. Oynamağa davam etmək üçün bardan bir şey götür və ya sonra qayıt: sən yoxkən enerji yavaş-yavaş bərpa olunur.
+BARA GET
+MASANI SEÇ
+MƏRCLƏR
+SƏVİYYƏ {0}
+OTUR
+LAZIMDIR: {0}
+Burada oynamaq üçün {0} səviyyəsinə çat. Sənin səviyyən {1}.
+KAZİNO
+GG
+AA
+İİİİ
+GÜN
+AY
+İL
+NƏ VAXT DOĞULMUSAN?
+Fişlər yalnız əyləncə üçündür. Onların pul dəyəri yoxdur və heç vaxt pula və ya mükafata dəyişdirilə bilməz.
+BAĞIŞLA, OYNAYA BİLMƏZSƏN
+{0} yalnız böyüklər üçündür.
+ÇIXIŞ
+{0} sonra bağlanır...
+ÖZÜN HAQQINDA DANIŞ
+Sənə uyğun aparıcıları, dilerləri və bar işçilərini seçəcəyik. Bunu istənilən vaxt Parametrlərdə dəyişə bilərsən.
+MƏN KİŞİYƏM
+MƏN QADINAM
+DEMƏMƏYİ ÜSTÜN TUTURAM
+KAZİNOYA DAXİL OL
+Bu gecə işçilərin:
+Səhifə {0} / {1}
+DİL
+AVTOMATİK
+ÖLKƏ
+Xoş gəlmisiniz! Mərclərinizi qoyun, xahiş edirəm.
+Masa limiti hər fırlatma üçün {0}.
+Fiş qoymaq üçün lövhəyə toxun
+Mərclər qəbul olunmur!
+YAŞIL
+yaşıl
+qırmızı
+qara
+Nə zərbədir! Təbriklər!
+Qalib! Qazancın: {0}.
+{0} {1}. Sənə geri qayıdır: {2}.
+Mərclərinizi qoyun, xahiş edirəm.
+Top dayanana qədər gözlə.
+PARAMETRLƏR
+ÜMUMİ
+QRAFİKA
+SƏS
+TOXUNUŞ
+SİÇAN
+KONTROLLER
+VİBRASİYA
+18+ • Fişlərin pul dəyəri yoxdur • Şriftlər: Bebas Neue, Poppins, Noto (SIL OFL) • Sərhədlər: Natural Earth • Qiymət məlumatları: Dünya Bankı
+KAZİNO İŞÇİLƏRİ
+QADINLAR
+KİŞİLƏR
+QARIŞIQ
+XATIRLATMALAR
+Pulsuz fişlər hazırdır, və seriya bitməzdən əvvəl axşam xatırlatması.
+YENİDƏN YOXLA
+QİYMƏT REGİONU
+Ən sürətli: kazino çəkildiyi kimi, əlavə heç nə.
+Cilalanmış döşəmə, ağac və qızıl zalı əks etdirir.
+Kino görünüşü: rəng korreksiyası, dənəvərlik, parıltı, işıq şüaları, canlı dəri.
+Kino obyektivi: fokus baxışını izləyir, işıqlarda zolaqlar, şüalarda toz.
+KEYFİYYƏT
+AŞAĞI
+ORTA
+YÜKSƏK
+ULTRA
+EKRAN İCAZƏSİ
+Aşağı olan yumşaqdır, amma telefon az qızır və batareyaya qənaət edir.
+EKRAN REJİMİ
+TAM EKRAN
+PƏNCƏRƏ
+KƏNAR HAMARLAMA
+Kazinodakı kələ-kötür kənarları hamarlayır.
+KADR TEZLİYİ
+{0} FPS
+30 FPS batareyaya qənaət edir və köhnə telefonları sərin saxlayır.
+V-SYNC
+GÖRMƏ SAHƏSİ
+FPS GÖSTƏR
+ÜMUMİ SƏS
+MUSİQİ
+SƏS EFFEKTLƏRİ
+İŞÇİLƏRİN SƏSLƏRİ
+İşçilərin danışarkən çıxardığı mırıltı.
+FONDA SƏSSİZ
+Başqa pəncərədə olanda kazinonu susdurur.
+BAXIŞ HƏSSASLIĞI
+Sürüşdürmənin görünüşü nə qədər tez döndərdiyi.
+Siçanla sürüşdürmənin görünüşü nə qədər tez döndərdiyi.
+BAXIŞI TƏRS ET SOL / SAĞ
+BAXIŞI TƏRS ET YUXARI / AŞAĞI
+DÜYMƏ DÜZÜLÜŞÜ
+AVTO
+MENYU / GÖRÜNÜŞ DƏYİŞ
+ÇUBUQ HƏSSASLIĞI
+Sağ çubuğun görünüşü nə qədər tez döndərdiyi.
+ÇUBUĞU TƏRS ET SOL / SAĞ
+ÇUBUĞU TƏRS ET YUXARI / AŞAĞI
+KONTROLLER İPUCLARI
+Kontrollerlə oynayanda hər düymənin nə etdiyini göstərir.
+VİBRASİYA
+TELEFON
+HƏR İKİSİ
+Avto: qoşulu olduqda kontroller, əks halda telefon.
+TELEFON VİBRASİYASI
+TELEFON GÜCÜ
+KONTROLLER VİBRASİYASI
+KONTROLLER GÜCÜ
+AVTOMATİK ({0})
+{0} Parametrləri açır, {1} Gündəliyi açır.
+Kontroller qoşulmayıb.
+Qoşuldu: {0}. {1} düymələri göstərilir (sağdakı A təsdiqləyir).
+Qoşuldu: {0}. {1} düymələri göstərilir.
+BAR
+ŞANS
+Fişlər, şans və yemək yalnız əyləncə üçün virtual əşyalardır: pul dəyəri yoxdur, pula və ya mükafata dəyişdirilmir.
+Hər kartın sənin xeyrinə gəlmək üçün belə şansı var, {0} fişə qədər blackjack mərclərində (daha böyük mərclər standartdır və əl xərcləmir). Yeni başlayanın şansından sonra başlayır; daha güclü paketlər əvvəl istifadə olunur.
+Ölkənin qiymətini almaq üçün yerə girişə icazə ver
+Oyunun bu versiyasında alış-veriş mümkün deyil.
+TEST MAĞAZASI (real pul yoxdur)
+enerji
++{0}% FİŞ
+{0} əl
+onların təxminən {0}%-ni qazanır
+Sic bo-ya xoş gəldin! Böyük, kiçik, yoxsa daha cəsarətli bir şey?
+Masa limiti hər atış üçün {0}-dir.
+SİLKƏLƏ
+ÜÇLÜK {0}!
+LUCKY ACE 7s
+ÜMUMİ MƏRC
+ÖDƏNİŞ CƏDVƏLİ
+UĞURLAR!
+Fırlatmaq üçün ən azı 10 fiş lazımdır.
+FİŞ AL
+Mərc ödəyə biləcəyin qədər azaldıldı.
+MEQA QAZANC!
+BÖYÜK QAZANC!
+QAYTARILDI {0}
+QAZANC YOXDUR
+XƏTT {0}: {1} × {2} = {3}
+{0} ULDUZ = {1}
+Albalı
+Limon
+Portağal
+Gavalı
+Zəng
+Bar
+Yeddi
+Almaz
+Tuz
+Ulduz
+ULDUZLAR hər yerdə ödəyir: 5 = mərc ×{0}, 4 = mərc ×{1}, 3 = mərc ×{2}.
+TUZ joker-dir: ulduzdan başqa hər simvolu əvəz edir.
+Xətt ödənişləri xətt mərcinin (ümumi mərc ÷ 10) misilləridir, birinci barabandan soldan sağa.
+QAYTARMA: uzun müddətdə {0}%. Hər fırlatma müstəqil və təsadüfidir.
+SAXLANDI
+Payla, istədiyin kartları saxla, bir dəfə dəyiş.
+SAXLA
+İPUCU
+DƏYİŞ
+Saxlamaq üçün kartlara toxun, sonra dəyiş.
+Yeri
+Bax
+Düymələr
+Parametrlər
+Gündəlik
+Tənzimlə
+Hərəkət
+Seç
+Bağla
+Geri
+YORĞUN
+YENİ BAŞLAYANIN ŞANSI {0}%
+{0} ƏL QALIB
+UĞURLU SERİYA {0}%
+{0} ƏL  •  MƏRCLƏR {1}-Ə QƏDƏR
+SƏVİYYƏ
+Sofiya
+Yelena
+Mia
+Valentina
+Kloe
+İzabella
+Nadiya
+Aria
+Luna
+Kamila
+Avrora
+Bianka
+Serena
+Marko
+Leo
+Adrian
+Lukas
+Viktor
+Daniel
+Gabriel
+Ethan
+Julian
+Rafael
+Mateo
+Niko
+Enzo
+XOŞ GƏLMİSİNİZ
+APARICI İLƏ DANIŞ
+İstiqamətlər və məsləhətlər
+FİŞLƏR  •  BONUSLAR
+FİŞ AL
+Kassa
+KOKTEYLLƏR  •  QƏLYANALTILAR  •  ENERJİ
+YEMƏK VƏ İÇKİ
+Bar
+BLACKJACK 3-Ə 2 ÖDƏYİR
+DİLER 17-DƏ DAYANMALIDIR
+BLACKJACK OYNA
+{0} masa  •  mərclər {1}–{2}
+HOLD'EM OYNA
+Ultimate Texas Hold'em  •  ante {0}–{1}
+BAKKARA OYNA
+BÖYÜK  •  KİÇİK  •  ÜÇLÜKLƏR
+SIC BO OYNA
+Üç zər  •  böyük və ya kiçik 1-ə 1 ödəyir
+PASS LINE  •  FIELD  •  ODDS
+CRAPS OYNA
+Pass Line 1-ə 1 ödəyir  •  odds real əmsalla ödəyir
+VİDEO POKER OYNA
+SLOT OYNA
+Jacks or Better  •  tam 9/6 cədvəli
+LUCKY ACE 7s  •  XƏTT MƏRCİNİ 2 500× QƏDƏR ÖDƏYİR
+JACKS OR BETTER  •  ROYAL FLƏŞ 800× ÖDƏYİR
+MƏRCLƏRİNİZİ QOYUN
+RULET OYNA
+Avropa çarxı  •  düz rəqəm 35-ə 1 ödəyir
+İÇKİ SİFARİŞ ET
+Gətirəcək: {0}
+{0} {1} səviyyəsində açılır. Sənin səviyyən {2}: oynadığın hər raund sayılır.
+Bu masa ən azı {0} fiş tələb edir.
+Blackjack masaları düz qabaqdadır. Birinə yaxınlaş və otur!
+Slot maşınları sağ divardadır, video poker arxa divarda, rulet isə ən arxada.
+Hold'em sol arxa küncdədir, barın o tayında.
+Bakkara girişdə dərhal soldadır.
+Sic bo kassanın o tayındakı küncdədir: üç zər, böyük və ya kiçik.
+Craps masası sağdadır, slotların qarşısında. Pass Line-a mərc qoy və at!
+Kassa elə buradadır, sağında, bar isə sol divar boyuncadır.
+Yorulmusan? Barda qəlyanaltı enerjini dərhal doldurur.
+Döşəmədə istənilən yerə toxun, ora gedəcəksən. Oturmaq üçün masaya toxun.
+Andorra
+Birləşmiş Ərəb Əmirlikləri
+Əfqanıstan
+Antiqua və Barbuda
+Angilya
+Albaniya
+Ermənistan
+Anqola
+Antarktika
+Argentina
+Amerika Samoası
+Avstriya
+Avstraliya
+Aruba
+Aland adaları
+Azərbaycan
+Bosniya və Herseqovina
+Barbados
+Banqladeş
+Belçika
+Burkina Faso
+Bolqarıstan
+Bəhreyn
+Burundi
+Benin
+Sent-Bartelemi
+Bermud adaları
+Bruney
+Boliviya
+Karib Niderlandı
+Braziliya
+Baham adaları
+Butan
+Buve adası
+Botsvana
+Belarus
+Beliz
+Kanada
+Kokos (Kilinq) adaları
+Konqo - Kinşasa
+Mərkəzi Afrika Respublikası
+Konqo - Brazzavil
+İsveçrə
+Kotd’ivuar
+Kuk adaları
+Çili
+Kamerun
+Çin
+Kolumbiya
+Kosta Rika
+Kuba
+Kabo-Verde
+Kurasao
+Milad adası
+Kipr
+Çexiya
+Almaniya
+Cibuti
+Danimarka
+Dominika
+Dominikan Respublikası
+Əlcəzair
+Ekvador
+Estoniya
+Misir
+Qərbi Saxara
+Eritreya
+İspaniya
+Efiopiya
+Finlandiya
+Fici
+Folklend adaları
+Mikroneziya
+Farer adaları
+Fransa
+Qabon
+Birləşmiş Krallıq
+Qrenada
+Gürcüstan
+Fransa Qvianası
+Gernsi
+Qana
+Cəbəllütariq
+Qrenlandiya
+Qambiya
+Qvineya
+Qvadelupa
+Ekvatorial Qvineya
+Yunanıstan
+Cənubi Corciya və Cənubi Sendviç adaları
+Qvatemala
+Quam
+Qvineya-Bisau
+Qayana
+Honq Konq Xüsusi İnzibati Rayonu Çin
+Herd və Makdonald adaları
+Honduras
+Xorvatiya
+Haiti
+Macarıstan
+İndoneziya
+İrlandiya
+İsrail
+Men adası
+Hindistan
+Britaniyanın Hind Okeanı Ərazisi
+İraq
+İran
+İslandiya
+İtaliya
+Cersi
+Yamayka
+İordaniya
+Yaponiya
+Keniya
+Qırğızıstan
+Kamboca
+Kiribati
+Komor adaları
+Sent-Kits və Nevis
+Şimali Koreya
+Cənubi Koreya
+Küveyt
+Kayman adaları
+Qazaxıstan
+Laos
+Livan
+Sent-Lusiya
+Lixtenşteyn
+Şri-Lanka
+Liberiya
+Lesoto
+Litva
+Lüksemburq
+Latviya
+Liviya
+Mərakeş
+Monako
+Moldova
+Monteneqro
+Sent Martin
+Madaqaskar
+Marşal adaları
+Şimali Makedoniya
+Mali
+Myanma
+Monqolustan
+Makao XİR Çin
+Şimali Marian adaları
+Martinik
+Mavritaniya
+Monserat
+Malta
+Mavriki
+Maldiv adaları
+Malavi
+Meksika
+Malayziya
+Mozambik
+Namibiya
+Yeni Kaledoniya
+Niger
+Norfolk adası
+Nigeriya
+Nikaraqua
+Niderland
+Norveç
+Nepal
+Nauru
+Niue
+Yeni Zelandiya
+Oman
+Panama
+Peru
+Fransa Polineziyası
+Papua-Yeni Qvineya
+Filippin
+Pakistan
+Polşa
+Müqəddəs Pyer və Mikelon
+Pitkern adaları
+Puerto Riko
+Fələstin Əraziləri
+Portuqaliya
+Palau
+Paraqvay
+Qətər
+Reyunyon
+Rumıniya
+Serbiya
+Rusiya
+Ruanda
+Səudiyyə Ərəbistanı
+Solomon adaları
+Seyşel adaları
+Sudan
+İsveç
+Sinqapur
+Müqəddəs Yelena
+Sloveniya
+Svalbard və Yan-Mayen
+Slovakiya
+Syerra-Leone
+San-Marino
+Seneqal
+Somali
+Surinam
+Cənubi Sudan
+San-Tome və Prinsipi
+Salvador
+Sint-Marten
+Suriya
+Esvatini
+Törks və Kaykos adaları
+Çad
+Fransanın Cənub Əraziləri
+Toqo
+Tailand
+Tacikistan
+Tokelau
+Şərqi Timor
+Türkmənistan
+Tunis
+Tonqa
+Türkiyə
+Trinidad və Tobaqo
+Tuvalu
+Tayvan
+Tanzaniya
+Ukrayna
+Uqanda
+ABŞ-a bağlı kiçik adacıqlar
+Amerika Birləşmiş Ştatları
+Uruqvay
+Özbəkistan
+Vatikan
+Sent-Vinsent və Qrenadinlər
+Venesuela
+Britaniyanın Virgin adaları
+ABŞ Virgin adaları
+Vyetnam
+Vanuatu
+Uollis və Futuna
+Samoa
+Kosovo
+Yəmən
+Mayot
+Cənub Afrika
+Zambiya
+Zimbabve
+Ingilis
+Afrikaans
+Amhar
+Ərəb
+Azərbaycan
+Belarus
+Bolqar
+Benqal
+Bosniya
+Katalan
+Çex
+Danimarka
+Alman
+Yunan
+Ispan
+Eston
+Bask
+Fars
+Fin
+Filippin
+Fransız
+Irland
+Qalisiya
+Qucarat
+Hausa
+Ivrit
+Hind
+Xorvat
+Fransız (Haiti)
+Macar
+Erməni
+Indoneziya
+Iqbo
+Island
+Italyan
+Yapon
+Gürcü
+Qazax
+Kxmer
+Kannada
+Koreya
+Qırğız
+Lüksemburq
+Laos
+Litva
+Latış
+Malaqas
+Makedon
+Malayalam
+Monqol
+Marathi
+Malay
+Malta
+Birman
+Bokmal norveç
+Nepal
+Holland
+Pəncab
+Polyak
+Puştu
+Portuqal (Braziliya)
+Portuqal (Portuqaliya)
+Romanş
+Rumın
+Rus
+Kinyarvanda
+Sinhala
+Slovak
+Sloven
+Somali
+Alban
+Serb
+Isveç
+Suahili
+Tamil
+Teluqu
+Tacik
+Tay
+Türkmən
+Türk
+Ukrayna
+Urdu
+Özbək
+Vyetnam
+Xosa
+Yoruba
+Çin (sadələşmiş)
+Çin (ənənəvi)
+Zulu
+B.
+B.e.
+Ç.a.
+Ç.
+C.a.
+C.
+Ş.

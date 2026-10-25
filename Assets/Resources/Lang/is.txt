@@ -1,0 +1,1004 @@
+LÍTIÐ
+STÓRT
+ODDATALA
+SLÉTT TALA
+HVAÐA ÞRENNA SEM ER
+Lúka af spilapeningum
+Stafli af spilapeningum
+Bakki af spilapeningum
+Rekki af spilapeningum
+VINSÆLAST
+Hvelfing af spilapeningum
+Peningaskápur stórspilarans
+BESTA VERÐIÐ
+Sódavatn
+Espresso
+Orkudrykkur
+Klúbbsamloka
+Hamborgaramáltíð
+Steikarkvöldverður
+FULL ÁFYLLING
+Heppnisröð
+Heit röð
+MEST HEPPNI
+Bronsborð
+Silfurborð
+Gullborð
+Demantsborð
+Hold'em-borð
+Sláðu inn gilt ár.
+Sláðu inn gildan mánuð (1-12).
+Sláðu inn gildan dag.
+Þessi dagsetning er í framtíðinni.
+Gaman að fá þig að borðinu mínu! Ertu til í að spila?
+Gaman að sjá þig. Fáðu þér sæti!
+Hæ! Spilin eru fersk, og ég líka.
+Gaman að sjá þig! Gerum þetta að góðu kvöldi.
+Leggðu undir þegar þér hentar.
+Spilapeningana á borðið, og sjáum spilin.
+Um hvað spilum við?
+Vá, stórt veðmál! Mér líkar stíllinn þinn.
+Þetta kalla ég veðmál. Áfram!
+Mikill kjarkur í kvöld, ha?
+Allt undir?! Hjartað hamast!
+Allt á eina hönd. Óttalaust!
+Blackjack! Ótrúlegt!
+Tuttugu og einn, bara si svona!
+Blackjack! Spilin elska þig í kvöld.
+Vel spilað!
+Sigur! Vel gert.
+Þér gengur vel!
+Þessi er þín.
+Þvílíkur vinningur! Allir horfa á þetta borð!
+Gríðarlegt! Þú ert á fullu skriði í kvöld!
+Svo nálægt! Sú næsta er þín.
+Húsið var heppið í þetta sinn.
+Hristu það af þér, ný hönd á leiðinni.
+Æ, einu spili of mikið.
+Yfir! Það kemur fyrir þá bestu.
+Jafntefli. Enginn tapar!
+Jafnt. Spilapeningarnir þínir eru öruggir.
+Ég fór yfir! Heppnin er með þér.
+Of mikið fyrir mig. Þú vinnur!
+Blackjack fyrir húsið, því miður!
+Gjafarinn fékk blackjack. Óheppni.
+Ég sýni ás. Trygging?
+Skiptum! Tvö tækifæri til að vinna.
+Tvöföldun. Djarfur leikur!
+Tvöfaldaðu! Eitt spil á leiðinni.
+Ný spil, ég stokka upp!
+Er farið að ganga á spilapeningana? Gjaldkerinn fyllir á.
+Spilapeningunum fækkar. Viltu fleiri?
+Spilapeningarnir búnir! Farðu til gjaldkerans eða náðu í ókeypis spilapeninga.
+Staflinn þinn er tómur. Gjaldkerinn er beint fyrir aftan þig.
+Þú lítur út fyrir að vera úrvinda! Fáðu þér bita á barnum.
+Orkan búin? Barinn sér um þig.
+Taktu þér tíma.
+Þegar þér hentar!
+Nóttin er ung.
+Byrjendaheppnin er með þér!
+Stokkurinn er með þér í kvöld!
+Byrjendaheppninni er lokið. Héðan í frá er leikurinn sanngjarn!
+Gaman að sjá þig í spilavítinu! Sætið þitt bíður.
+Gott kvöld! Borðin eru heit í kvöld.
+Gaman að sjá þig aftur! Finnurðu fyrir heppni?
+Ýttu á borð til að byrja að spila!
+Vantar þig fleiri spilapeninga? Þú ert við rétta lúguna.
+Stærri staflar, stærri bónusar!
+Finnurðu fyrir hungri? Veldu hvað sem er af matseðlinum.
+Smá biti heldur orkunni uppi!
+Gaman að fá þig að borðinu mínu!
+Þarna ertu! Staðurinn er strax bjartari.
+Láttu eins og heima hjá þér. Kvöldið snýst um þig.
+Ég elska þetta bros. Heppniskvöld?
+Slakaðu á, þú ert í góðum höndum hér.
+Hæ þú! Ég vonaði að þú kæmir við hjá lúgunni minni.
+Alltaf gaman að sjá vingjarnlegt andlit.
+Sjáðu hver er hér! Ertu að skemmta þér?
+Hæ, glæsilega manneskja!
+Mér líkar stíllinn þinn í kvöld.
+Hæ, gaman að sjá þig aftur!
+Gott kvöld hjá þér? Þú átt það skilið.
+Varlega, ég gæti farið að halda með þér.
+Uppáhaldsspilarinn minn lætur sjá sig aftur!
+Sestu hjá mér, ég gef þér eitthvað fallegt.
+Þú gerir þetta borð miklu skemmtilegra.
+Ertu strax að fara? Nóttin er ung!
+Æ, komdu, bara ein hönd í viðbót. Ég hef góða tilfinningu!
+Þú getur ekki yfirgefið mig núna, við erum rétt að byrja!
+Síðasti séns! Næsta hönd gæti orðið sú stóra...
+Allt í lagi, allt í lagi. Ég held sætinu þínu heitu. Lofarðu að koma aftur?
+Engin röð enn? Spilaðu umferðir ({2}) í dag og ég byrja að telja.
+Ný byrjun! Umferðir ({2}) og loginn þinn kviknar.
+Ég held smá lista yfir þá sem mæta á hverjum degi. Þú ert ekki á honum... enn.
+Dagur {1} bíður þín. Umferðir eftir: {2}!
+Dagar í röð: {0}... þú ætlar ekki að hætta núna, er það?
+Loginn þinn virðist dálítið kaldur í dag. Umferðirnar ({2}) hlýja honum.
+Ég hef verið að telja: dagar í röð eru {0}. Stefnum á dag {1}.
+Ekki halda að ég hafi ekki tekið eftir því. Umferðir eftir til að halda röðinni: {2}!
+Dagar í röð: {0}? Mig er farið að gruna að þér líki vel hér.
+Röðin þín er örugg í dag. Nú ertu bara að monta þig.
+Dagur {0}, búinn. Sama tíma á morgun?
+Dagar í röð: {0}! Ég ætti að taka frá sæti fyrir þig.
+Þarna er það: fyrsti dagur raðarinnar! Komdu aftur á morgun og þá verða dagarnir tveir.
+Heil vika í röð! Ég dáist virkilega að þessu.
+Þrjátíu dagar! Þú vinnur nánast hérna.
+Hundrað dagar. Ég segi öllum frá þér.
+Dagar í röð: {0}! Sjáðu þig.
+Röðin er björguð: dagur {0}! Ég vissi að þú myndir ná því.
+Dagur {0}! Ég veðja að þú náir ekki degi {1}.
+Dagar í röð: {0}... allt í lagi, nú ertu bara að monta þig.
+Spilaðu 10 hendur í blackjack
+Vinndu 5 hendur í blackjack
+Fáðu blackjack
+Vinndu 500 spilapeninga í blackjack
+Snúðu spilakössunum 20 sinnum
+Vinndu 5 snúninga í spilakössunum
+Vinndu 5× veðmálið í spilakössunum
+Spilaðu 5 umferðir í rúllettu
+Vinndu 3 rúllettusnúninga
+Hittu á tölu með beinu veðmáli
+Spilaðu 8 hendur í hold'em
+Vinndu 4 hendur í hold'em
+Spilaðu 10 hendur í baccarat
+Vinndu 5 hendur í baccarat
+Spilaðu 15 hendur í vídeópóker
+Spilaðu 8 umferðir í sic bo
+Vinndu 4 umferðir í sic bo
+Kastaðu teningunum 15 sinnum í craps
+Vinndu 4 köst í craps
+Fáðu lit eða betra í vídeópóker
+Konungleg litaröð
+Litaröð
+Ferna
+Fullt hús
+Litur
+Röð
+Þrenna
+Tvö pör
+Par
+Hátt spil
+GPS-staðsetning
+farsímanet
+nettenging
+stillingar tækis
+prófunarland
+ekki staðfest (staðalverð)
+óþekkt
+1. 12
+2. 12
+3. 12
+2 á móti 1
+RAUTT
+SVART
+Gosar eða betra
+SANNGJÖRN VERÐ FYRIR LANDIÐ ÞITT
+Verð í versluninni eru aðlöguð að efnahag landsins þíns, svo leikmenn alls staðar borgi sanngjarnt verð.
+Til að finna landið þitt athugum við staðsetningu þína í grófum dráttum einu sinni. Hún er pöruð við land í tækinu þínu og hvergi send. Ef þú hafnar gilda staðalverð.
+HALDA ÁFRAM
+Yfirgefa spilavítið?
+Spilapeningarnir þínir og framvinda eru vistuð.
+HÆTTA
+VERA ÁFRAM
+Opnað: {0}
+Raðarfrysting bjargaði {0} daga röðinni þinni í gær.
+Raðarfrystingar ({0}) björguðu {1} daga röðinni þinni.
+{0} daga röðinni þinni lauk. Spilaðu umferðir ({1}) í dag til að byrja nýja!
+VERKEFNI LOKIÐ
++{0} spilapeningar
+ÖLLUM VERKEFNUM LOKIÐ!
+Daglegur bónus +{0} spilapeningar. Ný verkefni á morgun.
+STIG {0}!
+Áfangi! +{0} spilapeningar
+Komdu aftur á morgun til að halda áfram
++1 raðarfrysting
+{0} DAGA RÖÐ!
+Kaup eru ekki í boði í þessari útgáfu.
+Kaupin mistókust. Ekkert var rukkað.
++{0} spilapeningum bætt við!
+{0}: {1} hendur með {2}% heppni, eftir byrjendaheppni
+{0}: {1} hendur með {2}% heppni!
+{0}: +{1}% orka
+Ekki í boði í þessu tæki
+Myndbönd hlaðast ekki á þessu neti
+Komdu aftur á morgun
+Tilbúið eftir {0} s
++{0} spilapeningar ({1} eftir í dag)
++{0} ókeypis spilapeningar!
++1 raðarfrysting!
+Ekkert myndband í boði núna. Reyndu aftur eftir smá stund.
+BRONS
+SILFUR
+GULL
+DEMANTUR
+Valmynd
+Sýn
+Cross
+Circle
+Square
+Triangle
+Athuga svæðið þitt...
+Ekki staðfest ({0}): staðalverð
+{0} ({1}): verð í {2}
+Áminningar
+Ókeypis spilapeningar tilbúnir og áminningar um röð
+Ókeypis spilapeningarnir þínir eru tilbúnir
+{0} spilapeningar bíða þín hjá Lucky Ace.
+Haltu {0} daga röðinni þinni
+Spilaðu umferðir ({0}) í dag svo hún núllstillist ekki á miðnætti.
+BACCARAT
+Gaman að fá þig í baccarat! Spilari, Banki eða Jafntefli?
+SPILARI
+JAFNTEFLI
+BANKI
+SÍÐUSTU ÚRSLIT
+S
+B
+J
+AFTURKALLA
+HREINSA
+ENDURTAKA
+GEFA
+Ekki nógu margir spilapeningar fyrir þetta veðmál.
+Hámarki borðsins náð
+HEILDARVEÐMÁL  {0}
+Veldu spilapening og ýttu á Spilari, Banki eða Jafntefli
+JAFNTEFLI  {0}
+SPILARINN VINNUR  {0} GEGN {1}
+BANKINN VINNUR  {0} GEGN {1}
+VINNINGUR  +{0}
+ENDURGREITT  {0}
+Enginn vinningur í þetta sinn
+Kláraðu þessa hönd fyrst.
+Gaman að sjá þig! Byrjendaheppnin er með þér í kvöld. Leggðu undir!
+BLACKJACK GREIÐIR 3 Á MÓTI 2   •   GJAFARINN STENDUR Á ÖLLUM 17   •   TRYGGING GREIÐIR 2 Á MÓTI 1
+VEÐMÁL
+TAKA SPIL
+STANDA
+TVÖFALDA
+SKIPTA
+TRYGGJA
+NEI TAKK
+VEÐMÁL {0}+
+Ekki nógu margir spilapeningar
+Gjafarinn sýnir ás. Tryggja fyrir {0}?
+Tryggingin greiðir {0}
+Gjafarinn er ekki með blackjack. Tryggingin tapaðist.
+YFIR
+GJAFARINN YFIR
+BLACKJACK!
+SIGUR
+JAFNT
+TAP
+Byrjendaheppninni er lokið. Heppnisröðin þín byrjar núna.
+Byrjendaheppninni er lokið. Héðan í frá er það venjulegt blackjack.
+Heppnisröðinni þinni er lokið. Aftur í venjulegt blackjack.
+SPILAPENINGAR BÚNIR
+Horfðu á stutt myndband fyrir {0} ókeypis spilapeninga, eða farðu til gjaldkerans.
+Farðu til gjaldkerans til að fylla á spilapeningana.
+ÓKEYPIS SPILAPENINGAR
+GJALDKERI
+SÍÐAR
+„{0}“
+EIN HÖND ENN
+FARA
+BYRJENDAHEPPNI
+HEPPNISRÖÐ
+Móttökubónus fyrir nýja leikmenn: í fyrstu <b>{0} höndunum</b> er spilunum raðað þér í hag, svo þú vinnur nánast hverja hönd.
+Næstu <b>{0} hendur</b> dofnar forskotið smám saman, og eftir það er hvert borð venjulegt, sanngjarnt blackjack úr 6 stokkuðum spilastokkum (blackjack greiðir 3 á móti 2, gjafarinn stendur á öllum 17).
+Forskot núna: <b><color=#7CFC9A>{0}%</color></b>   Hendur eftir: <b>{1}</b>
+Í næstu <b>{0} blackjack-höndum</b> með veðmáli allt að <b>{1} spilapeningum</b> hefur hvert spil <b>{2}%</b> líkur á að koma þér í hag (sama forskot og byrjendaheppnin).
+Með góðum leik vinnur þú um <b>{0}%</b> handa, á móti um {1}% í venjulegu blackjack. Stærri veðmál eru venjulegt blackjack og nota ekki hendur. Þegar hendurnar klárast er hvert borð aftur venjulegt, sanngjarnt blackjack.
+SKIL ÞAÐ
+VILTU FÁ HEPPNINA AFTUR?
+Byrjendaheppninni er lokið: héðan í frá er hvert borð venjulegt, sanngjarnt blackjack. Heppnisröð færir forskotið aftur um tíma.
+CRAPS
+Gaman að fá þig í craps! Veðjaðu á Pass Line og kastaðu.
+SEX
+NÍU
+FIELD
+2 3 4 9 10 11 12  •  2 og 12 borga tvöfalt
+HVAÐA 7 SEM ER
+HVAÐA CRAPS SEM ER
+DON'T PASS BAR
+1:1  •  12 er jafntefli
+PASS LINE
+ODDS
+raunverulegar líkur
+AF
+Á
+Odds fara fyrir aftan Pass Line þegar punktur er kominn.
+Odds þurfa veðmál á Pass Line.
+Odds þín eru í hámarki.
+Línuveðmál eru lögð á upphafskastinu.
+Á BORÐINU  {0}
+Upphafskast: veðjaðu á Pass Line og kastaðu. 7 eða 11 vinna; 2, 3 eða 12 tapa. Place-veðmál fara að gilda þegar punktur er kominn.
+Punkturinn er {0}: kastaðu honum aftur á undan 7. Odds fyrir aftan Pass Line borga raunverulegar líkur.
+KASTA
+Punkturinn er {0}.
+{0}! Punkturinn kom. Vinningur!
+Sjö út. Nýr kastari, nýtt upphafskast.
+{0}, natural! Pass Line vinnur.
+{0}, craps. Línan tapar.
+Bíddu þar til teningarnir stöðvast.
+YFIRGEFA BORÐIÐ?
+Línuveðmálið þitt er enn í gangi á punktinum {0}. Ef þú ferð núna tapast það.
+DAGLEGT
+DAGLEG RÖÐ
+DAGAR Í RÖÐ
+Í DAG
+HORFA Á AUGLÝSINGU
+KAUPA
+RAÐARFRYSTING
+Raðarfrysting heldur röðinni þinni lifandi á degi sem þú spilar ekki. Þú getur átt allt að {0}.\n\nKaupa eina fyrir {1} spilapeninga?
+Raðarfrysting tilbúin.
+Ekki nógu margir spilapeningar fyrir frystingu.
+HÆTTA VIÐ
+DAGLEGUR SNÚNINGUR
+SNÚA
+Líkur:
+{0}%
+Þú vannst {0} spilapeninga!
+VERKEFNI DAGSINS
+Met (dagar): {0}
+Spilaðu á hverjum degi til að byggja upp röð
+Markmiði dagsins náð! Sjáumst á morgun.
+Í dag: {0} / {1} umferðir (hvaða leikur sem er)
+Raðarfrystingar: {0} / {1}
+Bjargaðu röðinni á degi sem þú missir af. +1 á 7 daga fresti.
+FULLT
+EKKERT MYNDBAND
+AUGLÝSING BRÁÐUM
+Raðarbónus: vinningar ×{0}
+Einn ókeypis snúningur á hverjum degi
+NÆSTI  {0}
+Allt búið! Bónus sóttur.
+Ný verkefni á miðnætti.
+Kláraðu öll þrjú: +{0} bónusspilapeningar
+HOLD'EM
+Gaman að fá þig í hold'em! Settu ante og skoðum spilin.
+ANTE
+BLIND
+SPILA
+BLIND BORGAR
+Gjafarinn uppfyllir skilyrði með pari eða betra
+TÉKKA
+PAKKA
+VEÐJA {0}×
+Ante {0} + blind {0}. Geymdu {1} í viðbót fyrir hækkunina.
+Ýttu á spilapeninga til að velja ante. Blind er jafnhátt.
+Tékka, eða veðja þrisvar eða fjórum sinnum ante?
+Hækkaðu núna um 4× eða 3× ante, eða tékkaðu og sjáðu flopið.
+Síðasti séns: veðjaðu 1× ante eða pakkaðu og tapaðu ante og blind.
+Veðjaðu 2× ante núna, eða tékkaðu og sjáðu síðustu tvö spilin.
+Hér er flopið.
+Turn og river.
+Sjáum hvað ég er með.
+Gjafarinn uppfyllir ekki skilyrði: ante kemur til baka.
+Þú pakkaðir. Næsta hönd er þín.
+LEIKIR
+Dragðu vinstra megin til að ganga  •  Dragðu hægra megin til að líta í kringum þig  •  Ýttu til að fara
+Aðeins 18+  •  Spilapeningar eru til skemmtunar: ekkert peningavirði, aldrei hægt að skipta fyrir peninga eða vinninga
+Opna dyrnar...
+Gaman að sjá þig! Móttökugjöfin þín, {0} spilapeningar, er tilbúin. Borðin eru beint áfram!
++{0} ókeypis spilapeningar! Fleiri eftir {1} klst.
+Ókeypis spilapeningar fyllast á {0} klst. fresti. Næst eftir {1}.
+{0} klst. {1} mín.
+{0} mín. {1} s
+HALTU RÖÐINNI
+Viltu áminningu á kvöldin sem þú hefur ekki spilað enn, og þegar ókeypis spilapeningarnir eru tilbúnir? Aldrei meira en það, og þú getur slökkt á því í Stillingum.
+MINNTU MIG
++{0} spilapeningar tilbúnir!
+Horfðu á myndband: {0}
+Næstu ókeypis spilapeningar eftir {0}
+BLACKJACK
+4 borð  •  greiðir 3 á móti 2
+Ultimate Texas Hold'em
+Spilari, Banki eða Jafntefli
+SPILAKASSAR
+Lucky Ace 7s  •  10 línur
+VÍDEÓPÓKER
+Jacks or Better
+SIC BO
+Þrír teningar  •  stórt eða lítið
+Pass Line  •  Field  •  Odds
+RÚLLETTA
+Evrópsk með einu núlli
+ÞÚ ERT ÚRVINDA
+Orkustikan þín er tóm. Fáðu þér eitthvað á barnum til að spila áfram, eða komdu aftur síðar: orkan endurnýjast hægt meðan þú ert í burtu.
+FARA Á BARINN
+VELDU BORÐ
+VEÐMÁL
+STIG {0}
+SETJAST
+ÞARF {0}
+Náðu stigi {0} til að spila hér. Þú ert á stigi {1}.
+SPILAVÍTI
+DD
+MM
+ÁÁÁÁ
+DAGUR
+MÁNUÐUR
+ÁR
+HVENÆR FÆDDISTU?
+Spilapeningar eru eingöngu til skemmtunar. Þeir hafa ekkert peningavirði og aldrei er hægt að skipta þeim fyrir peninga eða vinninga.
+ÞVÍ MIÐUR, ÞÚ MÁTT EKKI SPILA
+{0} er aðeins í boði fyrir fullorðna.
+LOKA
+Lokast eftir {0}...
+SEGÐU OKKUR FRÁ ÞÉR
+Við veljum gestgjafa, gjafara og barstarfsfólk í samræmi við það. Þú getur breytt þessu hvenær sem er í Stillingum.
+ÉG ER KARL
+ÉG ER KONA
+VIL EKKI SEGJA
+GANGA INN Í SPILAVÍTIÐ
+Starfsfólkið þitt í kvöld:
+Síða {0} af {1}
+TUNGUMÁL
+SJÁLFVIRKT
+LAND
+Gaman að fá þig! Leggðu undir, takk.
+Hámark borðsins er {0} á snúning.
+Ýttu á borðið til að leggja spilapeninga
+Ekki fleiri veðmál!
+GRÆNT
+grænt
+rautt
+svart
+Beint í mark! Til hamingju!
+Sigur! Þú vinnur {0}.
+{0} {1}. {2} kemur aftur til þín.
+Leggðu undir, takk.
+Bíddu þar til kúlan stöðvast.
+STILLINGAR
+ALMENNT
+GRAFÍK
+HLJÓÐ
+SNERTING
+MÚS
+FJARSTÝRING
+TITRINGUR
+18+ • Spilapeningar hafa ekkert peningavirði • Leturgerðir: Bebas Neue, Poppins, Noto (SIL OFL) • Landamæri: Natural Earth • Verðgögn: Alþjóðabankinn
+STARFSFÓLK SPILAVÍTISINS
+KONUR
+KARLAR
+BLANDAÐ
+ÁMINNINGAR
+Ókeypis spilapeningar tilbúnir, og kvöldáminning áður en röð myndi enda.
+ATHUGA AFTUR
+VERÐSVÆÐI
+Hraðast: spilavítið eins og það er málað, ekkert aukalega.
+Gljáandi gólf, viður og gull endurspegla salinn.
+Kvikmyndaáferð: litaleiðrétting, korn, ljómi, ljósgeislar, náttúruleg húð.
+Kvikmyndalinsa: skerpan fylgir augnaráðinu, rákir á ljósum, ryk í geislum.
+GÆÐI
+LÁG
+MIÐLUNGS
+HÁ
+ULTRA
+UPPLAUSN
+Lægri er mýkri en keyrir kaldari og sparar rafhlöðuna.
+SKJÁHAMUR
+FULLUR SKJÁR
+GLUGGI
+KANTJÖFNUN
+Jafnar út tenntar brúnir í spilavítinu.
+RAMMATÍÐNI
+{0} FPS
+30 FPS sparar rafhlöðuna og heldur eldri símum köldum.
+V-SYNC
+SJÓNSVIÐ
+SÝNA FPS
+AÐALHLJÓÐSTYRKUR
+TÓNLIST
+HLJÓÐBRELLUR
+RADDIR STARFSFÓLKS
+Kliðurinn sem starfsfólkið gefur frá sér þegar það talar.
+ÞAGGA Í BAKGRUNNI
+Þaggar spilavítið meðan þú ert í öðrum glugga.
+NÆMNI SJÓNARHORNS
+Hversu hratt dráttur snýr sjónarhorninu.
+Hversu hratt dráttur með músinni snýr sjónarhorninu.
+SNÚA VIÐ SJÓNARHORNI VINSTRI / HÆGRI
+SNÚA VIÐ SJÓNARHORNI UPP / NIÐUR
+HNAPPAUPPSETNING
+SJÁLFV.
+VÍXLA VALMYND / SÝN
+NÆMNI PINNA
+Hversu hratt hægri pinninn snýr sjónarhorninu.
+SNÚA VIÐ PINNA VINSTRI / HÆGRI
+SNÚA VIÐ PINNA UPP / NIÐUR
+ÁBENDINGAR FYRIR FJARSTÝRINGU
+Sýnir hvað hver hnappur gerir þegar þú spilar með fjarstýringu.
+TITRA Á
+SÍMI
+BÆÐI
+Sjálfv.: fjarstýringin þegar hún er tengd, annars síminn.
+TITRINGUR SÍMA
+STYRKUR Í SÍMA
+TITRINGUR FJARSTÝRINGAR
+STYRKUR Í FJARSTÝRINGU
+SJÁLFVIRKT ({0})
+{0} opnar Stillingar, {1} opnar Daglegt.
+Engin fjarstýring tengd.
+Tengt: {0}. Sýni {1}-hnappa (A til hægri staðfestir).
+Tengt: {0}. Sýni {1}-hnappa.
+BARINN
+HEPPNI
+Spilapeningar, heppni og matur eru sýndarhlutir eingöngu til skemmtunar: ekkert peningavirði, ekki innleysanlegt fyrir peninga eða vinninga.
+Hvert spil hefur þessar líkur á að koma þér í hag, í blackjack-veðmálum allt að {0} spilapeningum (stærri veðmál eru venjuleg og nota ekki hendur). Byrjar eftir byrjendaheppni; sterkari pakkar eru notaðir fyrst.
+Leyfðu aðgang að staðsetningu til að fá verð landsins þíns
+Kaup eru ekki í boði í þessari útgáfu leiksins.
+PRÓFUNARVERSLUN (engir alvöru peningar)
+orka
++{0}% SPILAPENINGAR
+{0} hendur
+vinnur um {0}% þeirra
+Gaman að fá þig í sic bo! Stórt, lítið eða eitthvað djarfara?
+Borðhámarkið er {0} á hvert kast.
+HRISTA
+ÞRENNA {0}!
+LUCKY ACE 7s
+HEILDARVEÐMÁL
+VINNINGATAFLA
+GANGI ÞÉR VEL!
+Þú þarft að minnsta kosti 10 spilapeninga til að snúa.
+NÁ Í SPILAPENINGA
+Veðmálið lækkað í það sem þú getur greitt.
+RISAVINNINGUR!
+STÓR VINNINGUR!
+ENDURGREITT {0}
+ENGINN VINNINGUR
+LÍNA {0}: {1} × {2} = {3}
+{0} STJÖRNUR = {1}
+Kirsuber
+Sítróna
+Appelsína
+Plóma
+Bjalla
+Bar
+Sjö
+Demantur
+Ás
+Stjarna
+STJÖRNUR greiða hvar sem er: 5 = {0}× veðmál, 4 = {1}× veðmál, 3 = {2}× veðmál.
+ÁSINN er villtur: hann kemur í stað allra tákna nema stjörnunnar.
+Línuvinningar eru margfeldi af línuveðmálinu (heildarveðmál ÷ 10), frá vinstri til hægri frá fyrsta hjólinu.
+ENDURGREIÐSLA: {0}% til lengri tíma. Hver snúningur er óháður og handahófskenndur.
+HALDIÐ
+Gefðu, haltu spilunum sem þú vilt og skiptu einu sinni.
+HALDA
+ÁBENDING
+SKIPTA
+Ýttu á spilin til að halda þeim og skiptu svo.
+Ganga
+Líta
+Hnappar
+Stillingar
+Daglegt
+Stilla
+Hreyfa
+Velja
+Loka
+Til baka
+ÚRVINDA
+BYRJENDAHEPPNI {0}%
+{0} HENDUR EFTIR
+HEPPNISRÖÐ {0}%
+{0} HENDUR  •  VEÐMÁL ALLT AÐ {1}
+STIG
+Sofia
+Elena
+Mia
+Valentina
+Chloe
+Ísabella
+Nadia
+Aria
+Luna
+Kamila
+Aurora
+Bianca
+Serena
+Marco
+Leó
+Adrían
+Lúkas
+Viktor
+Daníel
+Gabríel
+Ethan
+Júlían
+Rafael
+Mateo
+Nico
+Enzo
+VELKOMIN
+TALAÐU VIÐ GESTGJAFANN
+Leiðbeiningar og ráð
+SPILAPENINGAR  •  BÓNUSAR
+KAUPA SPILAPENINGA
+Gjaldkeri
+KOKTEILAR  •  SNARL  •  ORKA
+MATUR OG DRYKKIR
+Barinn
+BLACKJACK GREIÐIR 3 Á MÓTI 2
+GJAFARINN VERÐUR AÐ STANDA Á 17
+SPILA BLACKJACK
+Borð {0}  •  veðmál {1} til {2}
+SPILA HOLD'EM
+Ultimate Texas Hold'em  •  ante {0} til {1}
+SPILA BACCARAT
+STÓRT  •  LÍTIÐ  •  ÞRENNUR
+SPILA SIC BO
+Þrír teningar  •  stórt eða lítið borgar 1 á móti 1
+PASS LINE  •  FIELD  •  ODDS
+SPILA CRAPS
+Pass Line borgar 1 á móti 1  •  odds borga raunverulegar líkur
+SPILA VÍDEÓPÓKER
+SPILA Á SPILAKÖSSUM
+Jacks or Better  •  full 9/6-tafla
+LUCKY ACE 7s  •  GREIÐIR ALLT AÐ 2.500× LÍNUVEÐMÁLIÐ ÞITT
+JACKS OR BETTER  •  KONUNGLEG LITARÖÐ BORGAR 800×
+LEGGIÐ UNDIR
+SPILA RÚLLETTU
+Evrópskt hjól  •  bein tala greiðir 35 á móti 1
+PANTA DRYKK
+{0} kemur með hann
+{0} opnast á stigi {1}. Þú ert á stigi {2}: hver umferð sem þú spilar telur.
+Þetta borð krefst að minnsta kosti {0} spilapeninga.
+Blackjack-borðin eru beint áfram. Gakktu að einu og fáðu þér sæti!
+Spilakassarnir eru við hægri vegginn, vídeópóker við bakvegginn og rúllettan innst.
+Hold'em er í horninu innst til vinstri, fyrir handan barinn.
+Baccarat er strax til vinstri þegar þú kemur inn.
+Sic bo er í horninu handan gjaldkerans: þrír teningar, stórt eða lítið.
+Craps-borðið er til hægri, fyrir framan spilakassana. Veðjaðu á Pass Line og kastaðu!
+Gjaldkerinn er hér á hægri hönd og barinn meðfram vinstri veggnum.
+Orkan á þrotum? Snarl á barnum fyllir hana strax.
+Ýttu hvar sem er á gólfið og þú gengur þangað. Ýttu á borð til að setjast.
+Andorra
+Sameinuðu arabísku furstadæmin
+Afganistan
+Antígva og Barbúda
+Angvilla
+Albanía
+Armenía
+Angóla
+Suðurskautslandið
+Argentína
+Bandaríska Samóa
+Austurríki
+Ástralía
+Arúba
+Álandseyjar
+Aserbaídsjan
+Bosnía og Hersegóvína
+Barbados
+Bangladess
+Belgía
+Búrkína Fasó
+Búlgaría
+Barein
+Búrúndí
+Benín
+Sankti Bartólómeusareyjar
+Bermúdaeyjar
+Brúnei
+Bólivía
+Karíbahafshluti Hollands
+Brasilía
+Bahamaeyjar
+Bútan
+Bouveteyja
+Botsvana
+Hvíta-Rússland
+Belís
+Kanada
+Kókoseyjar (Keeling)
+Kongó-Kinshasa
+Mið-Afríkulýðveldið
+Kongó-Brazzaville
+Sviss
+Fílabeinsströndin
+Cooks-eyjar
+Síle
+Kamerún
+Kína
+Kólumbía
+Kostaríka
+Kúba
+Grænhöfðaeyjar
+Curacao
+Jólaey
+Kýpur
+Tékkland
+Þýskaland
+Djíbútí
+Danmörk
+Dóminíka
+Dóminíska lýðveldið
+Alsír
+Ekvador
+Eistland
+Egyptaland
+Vestur-Sahara
+Erítrea
+Spánn
+Eþíópía
+Finnland
+Fídjíeyjar
+Falklandseyjar
+Míkrónesía
+Færeyjar
+Frakkland
+Gabon
+Bretland
+Grenada
+Georgía
+Franska Gvæjana
+Guernsey
+Gana
+Gíbraltar
+Grænland
+Gambía
+Gínea
+Gvadelúpeyjar
+Miðbaugs-Gínea
+Grikkland
+Suður-Georgía og Suður-Sandvíkureyjar
+Gvatemala
+Gvam
+Gínea-Bissá
+Gvæjana
+sérstjórnarsvæðið Hong Kong
+Heard og McDonaldseyjar
+Hondúras
+Króatía
+Haítí
+Ungverjaland
+Indónesía
+Írland
+Ísrael
+Mön
+Indland
+Bresku Indlandshafseyjar
+Írak
+Íran
+Ísland
+Ítalía
+Jersey
+Jamaíka
+Jórdanía
+Japan
+Kenía
+Kirgistan
+Kambódía
+Kíribatí
+Kómoreyjar
+Sankti Kitts og Nevis
+Norður-Kórea
+Suður-Kórea
+Kúveit
+Caymaneyjar
+Kasakstan
+Laos
+Líbanon
+Sankti Lúsía
+Liechtenstein
+Srí Lanka
+Líbería
+Lesótó
+Litháen
+Lúxemborg
+Lettland
+Líbía
+Marokkó
+Mónakó
+Moldóva
+Svartfjallaland
+Saint-Martin
+Madagaskar
+Marshalleyjar
+Norður-Makedónía
+Malí
+Mjanmar (Búrma)
+Mongólía
+sérstjórnarsvæðið Makaó
+Norður-Maríanaeyjar
+Martiník
+Máritanía
+Montserrat
+Malta
+Máritíus
+Maldíveyjar
+Malaví
+Mexíkó
+Malasía
+Mósambík
+Namibía
+Nýja-Kaledónía
+Níger
+Norfolkeyja
+Nígería
+Níkaragva
+Holland
+Noregur
+Nepal
+Nárú
+Niue
+Nýja-Sjáland
+Óman
+Panama
+Perú
+Franska Pólýnesía
+Papúa Nýja-Gínea
+Filippseyjar
+Pakistan
+Pólland
+Sankti Pierre og Miquelon
+Pitcairn-eyjar
+Púertó Ríkó
+Heimastjórnarsvæði Palestínumanna
+Portúgal
+Palá
+Paragvæ
+Katar
+Réunion
+Rúmenía
+Serbía
+Rússland
+Rúanda
+Sádi-Arabía
+Salómonseyjar
+Seychelles-eyjar
+Súdan
+Svíþjóð
+Singapúr
+Sankti Helena
+Slóvenía
+Svalbarði og Jan Mayen
+Slóvakía
+Síerra Leóne
+San Marínó
+Senegal
+Sómalía
+Súrínam
+Suður-Súdan
+Saó Tóme og Prinsípe
+El Salvador
+Sint Maarten
+Sýrland
+Esvatíní
+Turks- og Caicoseyjar
+Tsjad
+Frönsku suðlægu landsvæðin
+Tógó
+Taíland
+Tadsíkistan
+Tókelá
+Tímor-Leste
+Túrkmenistan
+Túnis
+Tonga
+Tyrkland
+Trínidad og Tóbagó
+Túvalú
+Taívan
+Tansanía
+Úkraína
+Úganda
+Smáeyjar Bandaríkjanna
+Bandaríkin
+Úrúgvæ
+Úsbekistan
+Vatíkanið
+Sankti Vinsent og Grenadíneyjar
+Venesúela
+Bresku Jómfrúaeyjar
+Bandarísku Jómfrúaeyjar
+Víetnam
+Vanúatú
+Wallis- og Fútúnaeyjar
+Samóa
+Kósóvó
+Jemen
+Mayotte
+Suður-Afríka
+Sambía
+Simbabve
+Enska
+Afríkanska
+Amharíska
+Arabíska
+Aserska
+Hvítrússneska
+Búlgarska
+Bengalska
+Bosníska
+Katalónska
+Tékkneska
+Danska
+Þýska
+Gríska
+Spænska
+Eistneska
+Baskneska
+Persneska
+Finnska
+Filippseyska
+Franska
+Írska
+Galisíska
+Gújaratí
+Hása
+Hebreska
+Hindí
+Króatíska
+Franska (Haítí)
+Ungverska
+Armenska
+Indónesíska
+Ígbó
+Íslenska
+Ítalska
+Japanska
+Georgíska
+Kasakska
+Kmer
+Kannada
+Kóreska
+Kirgiska
+Lúxemborgíska
+Laó
+Litháíska
+Lettneska
+Malagasíska
+Makedónska
+Malajalam
+Mongólska
+Maratí
+Malaíska
+Maltneska
+Búrmneska
+Norskt bókmál
+Nepalska
+Hollenska
+Púnjabí
+Pólska
+Pastú
+Portúgalska (Brasilía)
+Portúgalska (Portúgal)
+Rómanska
+Rúmenska
+Rússneska
+Kínjarvanda
+Singalíska
+Slóvakíska
+Slóvenska
+Sómalska
+Albanska
+Serbneska
+Sænska
+Svahílí
+Tamílska
+Telúgú
+Tadsjikska
+Taílenska
+Túrkmenska
+Tyrkneska
+Úkraínska
+Úrdú
+Úsbekska
+Víetnamska
+Sósa
+Jórúba
+Kínverska (einfaldað)
+Kínverska (hefðbundið)
+Súlú
+Sun.
+Mán.
+Þri.
+Mið.
+Fim.
+Fös.
+Lau.

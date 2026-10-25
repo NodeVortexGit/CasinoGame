@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using Casino.Art;
@@ -12,13 +13,14 @@ using UnityEngine.UI;
 namespace Casino.World
 {
     /// <summary>
-    /// The casino floor (28 x 22 m, no windows): entrance and host in the south, cashier by the door, the bar along the
-    /// west wall, four blackjack tables in the middle, slots along the east and north walls, roulette (coming soon) in
-    /// the north. Everything is generated here; light is baked into vertex colours.
+    /// The casino floor (31 x 24 m, no windows): entrance and host in the south, cashier by the door, the bar along the
+    /// west wall, four blackjack tables in the middle, hold'em in the north-west corner, roulette north-centre, craps
+    /// east of the pit, baccarat in the south-west, sic bo in the south-east corner, slots along the east wall and
+    /// video poker along the north wall. Everything is generated here; light is baked into vertex colours.
     /// </summary>
     public sealed partial class CasinoWorld
     {
-        public const float MinX = -14f, MaxX = 14f, MinZ = -11f, MaxZ = 11f, CeilingY = 5.2f;
+        public const float MinX = -14f, MaxX = 17f, MinZ = -11f, MaxZ = 13f, CeilingY = 5.2f;
 
         static readonly Color Gold = new Color(1f, 0.76f, 0.3f);
         static readonly Color Lacquer = Palette.Hex("1A1220");
@@ -41,6 +43,7 @@ namespace Casino.World
         // Where each game is, so a game screen can seat the player there.
         readonly Dictionary<string, (Vector3 center, int dealer)> blackjackTables = new Dictionary<string, (Vector3, int)>();
         readonly List<(Vector3 screen, Vector3 facing)> slotMachines = new List<(Vector3, Vector3)>();
+        readonly List<(Vector3 screen, Vector3 facing)> videoPokerMachines = new List<(Vector3, Vector3)>();
         static readonly Vector3 RouletteCenter = new Vector3(0f, 0f, 8.6f);
         int croupierIndex = -1;
 
@@ -59,6 +62,7 @@ namespace Casino.World
             bottles = new MeshKit();
             slotScreens = new MeshKit();
             glows = new GlowKit();
+            SetFinishes();
 
             Room();
             Ceilings();
@@ -69,30 +73,39 @@ namespace Casino.World
             yield return null;
             var tables = TableCatalog.Blackjack;
             for (int i = 0; i < tables.Count && i < 4; i++) BlackjackTable(tables[i], TablePosition(i));
+            HoldemTable();
+            BaccaratTable();
             yield return null;
             Slots();
             Roulette();
+            SicBoTable();
+            CrapsTableBuild();
             Pillars();
             yield return null;
 
-            var textures = new[] { WorldArt.Carpet(), WorldArt.Marble(), WorldArt.Damask(), WorldArt.Wood(), Texture2D.whiteTexture, WorldArt.Bottles(), WorldArt.SlotReels() };
-            var kits = new[] { carpet, marble, damask, wood, plain, bottles, slotScreens };
+            var kits = new[] { carpet, marble, damask, wood, plain, bottles, slotScreens };   // in the order of SurfacePainters
             var worldShader = Resources.Load<Shader>("Shaders/CasinoWorld");
+            textureDetail = TextureDetailFor(App.I.GraphicsQuality);
+            surfaceMaterials = new Material[kits.Length];
             for (int i = 0; i < kits.Length; i++)
             {
                 if (kits[i].VertexCount == 0) continue;
-                var mat = new Material(worldShader) { mainTexture = textures[i], name = textures[i].name };
-                AddRenderer("Static " + textures[i].name, kits[i].Build(rig, textures[i].name), mat);
+                var tex = SurfacePainters[i] != null ? SurfacePainters[i](textureDetail) : Texture2D.whiteTexture;
+                var mat = new Material(worldShader) { mainTexture = tex, name = tex.name };
+                surfaceMaterials[i] = mat;
+                AddRenderer("Static " + tex.name, kits[i].Build(rig, tex.name), mat);
                 yield return null;
             }
             var glowMat = new Material(Resources.Load<Shader>("Shaders/CasinoGlow")) { mainTexture = WorldArt.Glow(), name = "Glow" };
             AddRenderer("Glows", glows.Build("Glows"), glowMat);
+            BuildLightPools();
+            BuildBeams();
             yield return null;
 
             yield return SpawnAllStaff();
         }
 
-        void AddRenderer(string name, Mesh mesh, Material mat)
+        MeshRenderer AddRenderer(string name, Mesh mesh, Material mat)
         {
             var go = new GameObject(name);
             go.transform.SetParent(transform, false);
@@ -103,6 +116,7 @@ namespace Casino.World
             mr.receiveShadows = false;
             mr.lightProbeUsage = UnityEngine.Rendering.LightProbeUsage.Off;
             mr.reflectionProbeUsage = UnityEngine.Rendering.ReflectionProbeUsage.Off;
+            return mr;
         }
 
         static Vector3 TablePosition(int i) => new Vector3(i % 2 == 0 ? -4.5f : 4.5f, 0f, i < 2 ? -1f : 5f);
@@ -223,9 +237,13 @@ namespace Casino.World
                     glows.Add(Vector3.Lerp(a, b, d / len) - Vector3.up * 0.1f, (e % 2 == 0 ? Cyan : Pink) * 0.3f, 1.3f, d * 0.8f + e * 1.5f, 1.6f, 0.5f);
             }
 
-            // Recessed downlights in a grid, pools of warm light on the floor.
-            for (float x = -12f; x <= 12.1f; x += 2.5f)
-                for (float z = -9.5f; z <= 9.6f; z += 2.5f)
+            // Recessed downlights in a grid, pools of warm light on the floor; every other one sends a beam down
+            // through the haze.
+            int ix = 0;
+            for (float x = -12f; x <= 12.1f; x += 2.5f, ix++)
+            {
+                int iz = 0;
+                for (float z = -9.5f; z <= 9.6f; z += 2.5f, iz++)
                 {
                     bool inDome = x > dx0 && x < dx1 && z > dz0 && z < dz1;
                     float y = inDome ? domeY : CeilingY;
@@ -233,9 +251,12 @@ namespace Casino.World
                     plain.Disc(new Vector3(x, y - 0.01f, z), 0.13f, 10, Warm, 0, 360, false);
                     plain.Emission = 0f;
                     glows.Add(new Vector3(x, y - 0.06f, z), Warm * 0.45f, 1f);
+                    LightPool(new Vector3(x, 0f, z), 1.15f, Warm * 0.32f);
+                    if (ix % 2 == 0 && iz % 2 == 0) Beam(new Vector3(x, y - 0.05f, z), 0.12f, 0.95f, Warm * 0.18f);
                 }
-            for (float x = -10f; x <= 10f; x += 5f)
-                for (float z = -8f; z <= 8f; z += 5f)
+            }
+            for (float x = -10f; x <= MaxX - 2f; x += 5f)
+                for (float z = -8f; z <= MaxZ - 3f; z += 5f)
                     rig.Light(new Vector3(x, 4.6f, z), Warm, 5f, 0.3f);
 
             // Three big chandeliers over the tables.
@@ -285,8 +306,8 @@ namespace Casino.World
 
             // "Welcome" marquee above the doors, ringed with chasing bulbs.
             Marquee(new Vector3(0, 4.05f, z + 0.25f), 5.6f, 1.1f, Vector3.forward, Gold);
-            Sign(GameConfig.CasinoName.ToUpperInvariant(), new Vector3(0, 4.12f, z + 0.3f), 180f, 5.2f, 0.75f, Palette.GoldLight, FontKind.Display);
-            Sign("WELCOME", new Vector3(0, 3.66f, z + 0.3f), 180f, 4f, 0.3f, Pink, FontKind.Display);
+            Sign(() => GameConfig.CasinoName.ToUpperInvariant(), new Vector3(0, 4.12f, z + 0.3f), 180f, 5.2f, 0.75f, Palette.GoldLight, FontKind.Display);
+            Sign(() => Loc.T("WELCOME"), new Vector3(0, 3.66f, z + 0.3f), 180f, 4f, 0.3f, Pink, FontKind.Display);
             rig.Light(new Vector3(0, 3.6f, z + 1.4f), Gold, 5f, 0.7f);
 
             // Gold stanchions and velvet ropes lining the runway.
@@ -313,8 +334,8 @@ namespace Casino.World
             hostIndex = SpawnStaff(new Vector3(-3.35f, 0, -7.1f), 160f, StaffRole.Host, 0, StaffPose.Host);
             spots.Add(new Spot
             {
-                Title = "TALK TO THE HOST",
-                Subtitle = "Directions and tips",
+                Title = () => Loc.T("TALK TO THE HOST"),
+                Subtitle = () => Loc.T("Directions and tips"),
                 Icon = Icon.Person,
                 Style = ButtonStyle.Blue,
                 Focus = new Vector3(-3f, 1.3f, -7.2f),
@@ -354,8 +375,8 @@ namespace Casino.World
             plain.Box(new Vector3(x0 + 0.2f, 2.7f, cz), new Vector3(0.4f, 0.7f, z1 - z0 + 0.2f), Lacquer);
             plain.Box(new Vector3((x0 + x1) * 0.5f, 3.4f, cz), new Vector3(x1 - x0 + 0.2f, 0.1f, z1 - z0 + 0.2f), Gold);
             Marquee(new Vector3(x0 - 0.02f, 3.05f, cz), z1 - z0, 0.7f, Vector3.left, Gold);
-            Sign("CASHIER", new Vector3(x0 - 0.04f, 3.1f, cz), 90f, 3.2f, 0.55f, Palette.GoldLight, FontKind.Display);
-            Sign("CHIPS  •  BONUSES", new Vector3(x0 - 0.04f, 2.78f, cz), 90f, 3.2f, 0.2f, Color.white, FontKind.Display);
+            Sign(() => Loc.T("CASHIER"), new Vector3(x0 - 0.04f, 3.1f, cz), 90f, 3.2f, 0.55f, Palette.GoldLight, FontKind.Display);
+            Sign(() => Loc.T("CHIPS  •  BONUSES"), new Vector3(x0 - 0.04f, 2.78f, cz), 90f, 3.2f, 0.2f, Color.white, FontKind.Display);
             // a wall of chip stacks behind the cashier
             for (int i = 0; i < 18; i++)
             {
@@ -373,8 +394,8 @@ namespace Casino.World
             int cashier = SpawnStaff(new Vector3(x0 + 1.0f, 0, cz), -90f, StaffRole.Cashier, 0, StaffPose.Counter);
             spots.Add(new Spot
             {
-                Title = "BUY CHIPS",
-                Subtitle = "Cashier",
+                Title = () => Loc.T("BUY CHIPS"),
+                Subtitle = () => Loc.T("Cashier"),
                 Icon = Icon.Coin,
                 Style = ButtonStyle.Gold,
                 Focus = new Vector3(x0 + 0.4f, 1.3f, cz),
@@ -411,8 +432,8 @@ namespace Casino.World
             bottles.Panel(new Vector3(shelfX + 0.31f, 2.2f, cz), Vector3.right, (z1 - z0) * 0.5f, 1.1f, Color.white, new Vector2(3f, 1f));
             bottles.Emission = 0f;
             plain.Box(new Vector3(shelfX, 3.3f, cz), new Vector3(0.8f, 0.12f, z1 - z0 + 0.2f), Gold);
-            Sign("THE BAR", new Vector3(shelfX + 0.4f, 3.95f, cz), -90f, 4.5f, 0.85f, Pink, FontKind.Display);
-            Sign("COCKTAILS  •  SNACKS  •  ENERGY", new Vector3(shelfX + 0.4f, 3.45f, cz), -90f, 5f, 0.22f, Cyan, FontKind.Display);
+            Sign(() => Loc.T("THE BAR"), new Vector3(shelfX + 0.4f, 3.95f, cz), -90f, 4.5f, 0.85f, Pink, FontKind.Display);
+            Sign(() => Loc.T("COCKTAILS  •  SNACKS  •  ENERGY"), new Vector3(shelfX + 0.4f, 3.45f, cz), -90f, 5f, 0.22f, Cyan, FontKind.Display);
             Marquee(new Vector3(shelfX + 0.38f, 3.8f, cz), 5.4f, 1.15f, Vector3.right, Pink);
 
             // pendant lamps over the counter
@@ -444,8 +465,8 @@ namespace Casino.World
             int bartender = SpawnStaff(new Vector3(back - 0.5f, 0, 0.6f), 90f, StaffRole.Server, 0, StaffPose.Polish);
             spots.Add(new Spot
             {
-                Title = "FOOD & DRINKS",
-                Subtitle = "The Bar",
+                Title = () => Loc.T("FOOD & DRINKS"),
+                Subtitle = () => Loc.T("The Bar"),
                 Icon = Icon.Food,
                 Style = ButtonStyle.Purple,
                 Focus = new Vector3(front, 1.2f, cz),
@@ -463,65 +484,24 @@ namespace Casino.World
         void BlackjackTable(TableDef def, Vector3 c)
         {
             var theme = Palette.Tables[def.Theme % Palette.Tables.Length];
-            const float r = 1.5f;
-            // kidney-ish table: curved side to the players (south), straight side to the dealer (north)
-            wood.Cylinder(c, r - 0.35f, 0.72f, 24, Color.white, false, r - 0.05f, 90f, 270f);
-            plain.Cylinder(c + Vector3.up * 0.72f, r + 0.1f, 0.12f, 28, Leather, false, r + 0.12f, 90f, 270f);
-            plain.Disc(c + Vector3.up * 0.84f, r + 0.12f, 28, Leather, 90f, 270f);
-            plain.Disc(c + Vector3.up * 0.845f, r - 0.1f, 28, theme.Felt, 90f, 270f);
-            wood.QuadFacing(c + new Vector3(-r - 0.12f, 0, 0), c + new Vector3(-r - 0.12f, 0.845f, 0), c + new Vector3(r + 0.12f, 0.845f, 0), c + new Vector3(r + 0.12f, 0, 0),
-                Vector3.forward, Color.white);
-            // betting circles, chip tray and shoe
+            KidneyTable(c, theme.Felt, theme.Accent,
+                () => Loc.T(theme.Label) + "  " + ChipFormat.Short(def.MinBet) + "-" + ChipFormat.Short(def.MaxBet));
+            // betting circles
             for (int i = 0; i < 5; i++)
             {
-                float a = (126f + i * 27f) * Mathf.Deg2Rad;
-                var spot = c + new Vector3(Mathf.Sin(a), 0, Mathf.Cos(a)) * (r - 0.45f) + Vector3.up * 0.85f;
                 plain.Emission = 0.8f;
-                plain.Ring(spot, 0.13f, 0.15f, 16, theme.Accent);
+                plain.Ring(SeatSpot(c, i), 0.13f, 0.15f, 16, theme.Accent);
                 plain.Emission = 0f;
             }
-            plain.Box(c + new Vector3(0, 0.845f, -0.2f), new Vector3(0.8f, 0.05f, 0.22f), Lacquer);
-            for (int i = 0; i < 6; i++)
-                plain.Cylinder(c + new Vector3(-0.33f + i * 0.13f, 0.89f, -0.2f), 0.05f, 0.05f + (i % 3) * 0.02f, 8, Palette.ChipColors[i % Palette.ChipColors.Length]);
-            plain.Box(c + new Vector3(0.75f, 0.845f, -0.25f), new Vector3(0.2f, 0.12f, 0.3f), Palette.Hex("A3122E"));
-            plain.Box(c + new Vector3(-0.75f, 0.845f, -0.25f), new Vector3(0.2f, 0.07f, 0.3f), Lacquer);   // discard holder
-            SignFlat("BLACKJACK PAYS 3 TO 2", c + new Vector3(0, 0.852f, -0.62f), 1.8f, 0.14f, Palette.WithAlpha(Palette.GoldLight, 0.85f));
-            SignFlat("DEALER MUST STAND ON 17", c + new Vector3(0, 0.852f, -0.82f), 1.6f, 0.09f, Palette.WithAlpha(Color.white, 0.7f));
-
-            // stools on the players' side
-            for (int i = 0; i < 5; i++)
-            {
-                float a = (126f + i * 27f) * Mathf.Deg2Rad;
-                var s = c + new Vector3(Mathf.Sin(a), 0, Mathf.Cos(a)) * (r + 0.55f);
-                plain.Cylinder(s, 0.04f, 0.65f, 8, Gold, false);
-                plain.Cylinder(s + Vector3.up * 0.65f, 0.21f, 0.09f, 14, theme.Felt * 0.8f + Leather * 0.4f);
-                rig.Shadow(s, new Vector2(0.12f, 0.12f), 0.3f);
-            }
-
-            // hanging lamp and sign: name and stakes, ringed by bulbs
-            var lamp = c + new Vector3(0, 2.9f, -0.2f);
-            plain.Box(lamp, new Vector3(2.4f, 0.32f, 0.6f), Lacquer);
-            plain.Emission = 1.6f;
-            plain.Quad(lamp + new Vector3(-1.1f, -0.005f, 0.25f), lamp + new Vector3(-1.1f, -0.005f, -0.25f), lamp + new Vector3(1.1f, -0.005f, -0.25f), lamp + new Vector3(1.1f, -0.005f, 0.25f), Warm);
-            plain.Emission = 0f;
-            plain.Bar(lamp + new Vector3(-0.9f, 0.32f, 0), new Vector3(c.x - 0.9f, CeilingY + 1f, c.z - 0.2f), 0.02f, Gold);
-            plain.Bar(lamp + new Vector3(0.9f, 0.32f, 0), new Vector3(c.x + 0.9f, CeilingY + 1f, c.z - 0.2f), 0.02f, Gold);
-            Marquee(lamp + new Vector3(0, 0.16f, -0.31f), 2.4f, 0.32f, Vector3.back, theme.Accent, 0.09f);
-            Sign($"{theme.Label}  {ChipFormat.Short(def.MinBet)}-{ChipFormat.Short(def.MaxBet)}", lamp + new Vector3(0, 0.17f, -0.32f), 0f, 2.3f, 0.26f, theme.Accent, FontKind.Display);
-            glows.Add(lamp - Vector3.up * 0.1f, Warm * 0.5f, 2.6f);
-            rig.Light(lamp - Vector3.up * 0.4f, new Color(1f, 0.92f, 0.8f), 4.2f, 1.25f);
-            rig.Light(c + new Vector3(0, 1.6f, -2.2f), new Color(1f, 0.8f, 0.7f), 3f, 0.45f);
-            rig.Shadow(c, new Vector2(r * 0.8f, r * 0.45f), 0.5f);
-
-            obstacles.Add(Obstacle.Round(c.x, c.z - 0.25f, 2.0f));
-            obstacles.Add(Obstacle.Rect(c.x - r - 0.2f, c.z - 0.2f, c.x + r + 0.2f, c.z + 1.1f));
+            SignFlat(() => Loc.T("BLACKJACK PAYS 3 TO 2"), c + new Vector3(0, 0.852f, -0.62f), 1.8f, 0.14f, Palette.WithAlpha(Palette.GoldLight, 0.85f));
+            SignFlat(() => Loc.T("DEALER MUST STAND ON 17"), c + new Vector3(0, 0.852f, -0.82f), 1.6f, 0.09f, Palette.WithAlpha(Color.white, 0.7f));
 
             int dealer = SpawnStaff(c + new Vector3(0, 0, 0.42f), 180f, StaffRole.Dealer, def.Theme, StaffPose.Counter);
             blackjackTables[def.Id] = (c, dealer);
             spots.Add(new Spot
             {
-                Title = "PLAY BLACKJACK",
-                Subtitle = $"{theme.Label} table  •  bets {ChipFormat.Short(def.MinBet)} to {ChipFormat.Short(def.MaxBet)}",
+                Title = () => Loc.T("PLAY BLACKJACK"),
+                Subtitle = () => Loc.F("{0} table  •  bets {1} to {2}", Loc.T(theme.Label), ChipFormat.Short(def.MinBet), ChipFormat.Short(def.MaxBet)),
                 Icon = Icon.Cards,
                 Style = ButtonStyle.Gold,
                 Focus = c + Vector3.up * 1f,
@@ -534,50 +514,362 @@ namespace Casino.World
             });
         }
 
+        const float KidneyRadius = 1.5f;
+
+        /// <summary>Where the betting spot of seat <paramref name="i"/> (0-4, left to right) lies on a kidney table's felt.</summary>
+        static Vector3 SeatSpot(Vector3 c, int i, float inset = 0.45f)
+        {
+            float a = (126f + i * 27f) * Mathf.Deg2Rad;
+            return c + new Vector3(Mathf.Sin(a), 0, Mathf.Cos(a)) * (KidneyRadius - inset) + Vector3.up * 0.85f;
+        }
+
+        /// <summary>
+        /// A kidney-shaped card table: curved side to the players (south), straight side to the dealer (north), with stools,
+        /// a chip tray, a card shoe and a hanging lamp whose lit sign reads <paramref name="sign"/>.
+        /// </summary>
+        /// <param name="trayZ">Where the chip tray sits: games with a row of cards for the dealer push it back to the edge.</param>
+        void KidneyTable(Vector3 c, Color felt, Color accent, Func<string> sign, float trayZ = -0.2f)
+        {
+            const float r = KidneyRadius;
+            wood.Cylinder(c, r - 0.35f, 0.72f, 24, Color.white, false, r - 0.05f, 90f, 270f);
+            plain.Cylinder(c + Vector3.up * 0.72f, r + 0.1f, 0.12f, 28, Leather, false, r + 0.12f, 90f, 270f);
+            plain.Disc(c + Vector3.up * 0.84f, r + 0.12f, 28, Leather, 90f, 270f);
+            plain.Disc(c + Vector3.up * 0.845f, r - 0.1f, 28, felt, 90f, 270f);
+            wood.QuadFacing(c + new Vector3(-r - 0.12f, 0, 0), c + new Vector3(-r - 0.12f, 0.845f, 0), c + new Vector3(r + 0.12f, 0.845f, 0), c + new Vector3(r + 0.12f, 0, 0),
+                Vector3.forward, Color.white);
+            // chip tray, shoe and discard holder
+            plain.Box(c + new Vector3(0, 0.845f, trayZ), new Vector3(0.8f, 0.05f, 0.22f), Lacquer);
+            for (int i = 0; i < 6; i++)
+                plain.Cylinder(c + new Vector3(-0.33f + i * 0.13f, 0.89f, trayZ), 0.05f, 0.05f + (i % 3) * 0.02f, 8, Palette.ChipColors[i % Palette.ChipColors.Length]);
+            plain.Box(c + new Vector3(0.75f, 0.845f, -0.25f), new Vector3(0.2f, 0.12f, 0.3f), Palette.Hex("A3122E"));
+            plain.Box(c + new Vector3(-0.75f, 0.845f, -0.25f), new Vector3(0.2f, 0.07f, 0.3f), Lacquer);
+
+            // stools on the players' side
+            for (int i = 0; i < 5; i++)
+            {
+                float a = (126f + i * 27f) * Mathf.Deg2Rad;
+                var s = c + new Vector3(Mathf.Sin(a), 0, Mathf.Cos(a)) * (r + 0.55f);
+                plain.Cylinder(s, 0.04f, 0.65f, 8, Gold, false);
+                plain.Cylinder(s + Vector3.up * 0.65f, 0.21f, 0.09f, 14, felt * 0.8f + Leather * 0.4f);
+                rig.Shadow(s, new Vector2(0.12f, 0.12f), 0.3f);
+            }
+
+            // hanging lamp and sign, ringed by bulbs
+            var lamp = c + new Vector3(0, 2.9f, -0.2f);
+            plain.Box(lamp, new Vector3(2.4f, 0.32f, 0.6f), Lacquer);
+            plain.Emission = 1.6f;
+            plain.Quad(lamp + new Vector3(-1.1f, -0.005f, 0.25f), lamp + new Vector3(-1.1f, -0.005f, -0.25f), lamp + new Vector3(1.1f, -0.005f, -0.25f), lamp + new Vector3(1.1f, -0.005f, 0.25f), Warm);
+            plain.Emission = 0f;
+            plain.Bar(lamp + new Vector3(-0.9f, 0.32f, 0), new Vector3(c.x - 0.9f, CeilingY + 1f, c.z - 0.2f), 0.02f, Gold);
+            plain.Bar(lamp + new Vector3(0.9f, 0.32f, 0), new Vector3(c.x + 0.9f, CeilingY + 1f, c.z - 0.2f), 0.02f, Gold);
+            Marquee(lamp + new Vector3(0, 0.16f, -0.31f), 2.4f, 0.32f, Vector3.back, accent, 0.09f);
+            Sign(sign, lamp + new Vector3(0, 0.17f, -0.32f), 0f, 2.3f, 0.26f, accent, FontKind.Display);
+            glows.Add(lamp - Vector3.up * 0.1f, Warm * 0.5f, 2.6f);
+            rig.Light(lamp - Vector3.up * 0.4f, new Color(1f, 0.92f, 0.8f), 4.2f, 1.25f);
+            rig.Light(c + new Vector3(0, 1.6f, -2.2f), new Color(1f, 0.8f, 0.7f), 3f, 0.45f);
+            rig.Shadow(c, new Vector2(r * 0.8f, r * 0.45f), 0.5f);
+
+            obstacles.Add(Obstacle.Round(c.x, c.z - 0.25f, 2.0f));
+            obstacles.Add(Obstacle.Rect(c.x - r - 0.2f, c.z - 0.2f, c.x + r + 0.2f, c.z + 1.1f));
+        }
+
+        // ------------------------------------------------------------------ hold'em
+
+        /// <summary>Ultimate Texas Hold'em: a blue kidney table in the north-west corner, past the bar.</summary>
+        static readonly Vector3 HoldemCenter = new Vector3(-10.8f, 0f, 9.9f);
+        int holdemDealer = -1;
+
+        void HoldemTable()
+        {
+            var c = HoldemCenter;
+            var def = TableCatalog.Holdem;
+            Color felt = Palette.Hex("123E6E"), accent = Palette.Hex("39E6FF");
+            KidneyTable(c, felt, accent, () => Loc.T("HOLD'EM") + "  " + ChipFormat.Short(def.MinBet) + "-" + ChipFormat.Short(def.MaxBet), -0.1f);
+            // ante, blind and play circles at every seat but the middle one (the game lays out its own there)
+            for (int i = 0; i < 5; i++)
+            {
+                if (i == 2) continue;
+                Vector3 spot = SeatSpot(c, i, 0.42f), tangent = Vector3.Cross(Vector3.up, spot - c).normalized;
+                plain.Emission = 0.8f;
+                for (int k = -1; k <= 1; k++) plain.Ring(spot + tangent * (k * 0.14f), 0.055f, 0.066f, 14, accent);
+                plain.Emission = 0f;
+            }
+
+            holdemDealer = SpawnStaff(c + new Vector3(0, 0, 0.42f), 180f, StaffRole.Dealer, Screens.HoldemScreen.DealerTheme, StaffPose.Counter);
+            spots.Add(new Spot
+            {
+                Title = () => Loc.T("PLAY HOLD'EM"),
+                Subtitle = () => Loc.F("Ultimate Texas Hold'em  •  ante {0} to {1}", ChipFormat.Short(def.MinBet), ChipFormat.Short(def.MaxBet)),
+                Icon = Icon.Cards,
+                Style = ButtonStyle.Blue,
+                Focus = c + Vector3.up * 1f,
+                TapRadius = 1.7f,
+                UseDistance = 3.3f,
+                Approach = new Vector2(c.x, c.z - 2.65f),
+                ApproachYaw = 0f,
+                Use = OpenHoldem,
+                StaffIndex = holdemDealer,
+            });
+        }
+
+        // ------------------------------------------------------------------ baccarat
+
+        /// <summary>Punto banco: a red kidney table in the south-west corner, left of the entrance.</summary>
+        static readonly Vector3 BaccaratCenter = new Vector3(-7.0f, 0f, -7.5f);
+        int baccaratDealer = -1;
+
+        void BaccaratTable()
+        {
+            var c = BaccaratCenter;
+            Color felt = Palette.Hex("6A1022"), accent = Palette.Hex("FFC94D");
+            KidneyTable(c, felt, accent, () => Loc.T("BACCARAT") + "  " + ChipFormat.Short(BaccaratScreen.ChipValues[0]) + "-" + ChipFormat.Short(BaccaratScreen.MaxPerSpot), -0.1f);
+            // player, tie and banker boxes at every seat but the middle one
+            for (int i = 0; i < 5; i++)
+            {
+                if (i == 2) continue;
+                Vector3 spot = SeatSpot(c, i, 0.42f), tangent = Vector3.Cross(Vector3.up, spot - c).normalized;
+                Color[] box = { Palette.Hex("1E4FA8"), Palette.Hex("0D7A45"), Palette.Hex("A3122E") };
+                for (int k = -1; k <= 1; k++)
+                    plain.Disc(spot + tangent * (k * 0.15f) + Vector3.up * 0.002f, 0.06f, 12, box[k + 1]);
+            }
+
+            baccaratDealer = SpawnStaff(c + new Vector3(0, 0, 0.42f), 180f, StaffRole.Dealer, BaccaratScreen.DealerTheme, StaffPose.Counter);
+            spots.Add(new Spot
+            {
+                Title = () => Loc.T("PLAY BACCARAT"),
+                Subtitle = () => Loc.T("Player, Banker or Tie"),
+                Icon = Icon.Cards,
+                Style = ButtonStyle.Red,
+                Focus = c + Vector3.up * 1f,
+                TapRadius = 1.7f,
+                UseDistance = 3.3f,
+                Approach = new Vector2(c.x, c.z - 2.65f),
+                ApproachYaw = 0f,
+                Use = OpenBaccarat,
+                StaffIndex = baccaratDealer,
+            });
+        }
+
+        // ------------------------------------------------------------------ sic bo
+
+        /// <summary>Sic bo: a square-ended table in the south-east corner, past the cashier.</summary>
+        static readonly Vector3 SicBoCenter = new Vector3(13.2f, 0f, -7.6f);
+        int sicBoDealer = -1;
+        RectTransform sicBoDecor;
+
+        void SicBoTable()
+        {
+            var c = SicBoCenter;
+            float k = SicBoScreen.LayerScale;
+            var size = new Vector2(2.2f, 1.45f);
+            Vector3 mid = c + new Vector3(0f, 0f, 0.02f);
+            wood.Box(mid, new Vector3(size.x - 0.12f, SicBoScreen.TableHeight - 0.06f, size.y - 0.12f), Color.white);
+            plain.Box(mid + Vector3.up * (SicBoScreen.TableHeight - 0.06f), new Vector3(size.x, 0.055f, size.y), Leather);
+            // the felt stops 2 mm under the board layer, or the two z-fight and the printing breaks up
+            plain.Box(c + new Vector3(SicBoScreen.BoardPos.x * k, SicBoScreen.TableHeight - 0.006f, SicBoScreen.BoardPos.y * k),
+                new Vector3((SicBoScreen.BoardSize.x + 60f) * k, 0.004f, (SicBoScreen.BoardSize.y + 60f) * k), Palette.Hex("0D3E2A"));
+            var decor = WorldTable.CreateLayer("SicBoLayout", transform, c + Vector3.up * SicBoScreen.TableHeight, Quaternion.Euler(90f, 0f, 0f), k,
+                new Vector2(1920, 1080), Camera, false);
+            SicBoScreen.PaintShaker(decor, out _, out _, out _);
+            var board = SicBoScreen.PaintBoard(decor);
+            foreach (var def in SicBoScreen.Layout()) SicBoScreen.PaintSpot(board, def);
+            foreach (var g in decor.GetComponentsInChildren<Graphic>(true)) g.raycastTarget = false;
+            sicBoDecor = decor;
+            // a glass dome over the dice dish
+            Vector3 dish = c + new Vector3(SicBoScreen.ShakerPos.x * k, SicBoScreen.TableHeight, SicBoScreen.ShakerPos.y * k);
+            plain.Emission = 0.5f;
+            plain.Ring(dish + Vector3.up * 0.004f, 0.19f, 0.21f, 24, Gold);
+            plain.Emission = 0f;
+
+            for (int i = 0; i < 3; i++)
+            {
+                var s = c + new Vector3(-0.7f + i * 0.7f, 0, -size.y * 0.5f - 0.45f);
+                plain.Cylinder(s, 0.04f, 0.65f, 8, Gold, false);
+                plain.Cylinder(s + Vector3.up * 0.65f, 0.21f, 0.09f, 14, Palette.Hex("A3122E"));
+                rig.Shadow(s, new Vector2(0.12f, 0.12f), 0.3f);
+            }
+            var signAt = c + new Vector3(0, 3.0f, 0.3f);
+            plain.Box(signAt - Vector3.up * 0.25f, new Vector3(2.6f, 0.7f, 0.12f), Lacquer);
+            plain.Bar(signAt + new Vector3(-1f, 0.45f, 0), new Vector3(c.x - 1f, CeilingY, c.z + 0.3f), 0.02f, Gold);
+            plain.Bar(signAt + new Vector3(1f, 0.45f, 0), new Vector3(c.x + 1f, CeilingY, c.z + 0.3f), 0.02f, Gold);
+            Marquee(signAt + new Vector3(0, 0.1f, -0.07f), 2.6f, 0.7f, Vector3.back, Pink, 0.1f);
+            Sign(() => Loc.T("SIC BO"), signAt + new Vector3(0, 0.2f, -0.08f), 0f, 2.4f, 0.42f, Pink, FontKind.Display);
+            Sign(() => Loc.T("BIG  •  SMALL  •  TRIPLES"), signAt + new Vector3(0, -0.12f, -0.08f), 0f, 2.4f, 0.17f, Palette.GoldLight, FontKind.Display);
+            // a lamp over the table: the corner gets little light from the room
+            var lamp = c + new Vector3(0, 2.7f, -0.3f);   // in front of the hanging sign
+            plain.Bar(lamp, new Vector3(lamp.x, CeilingY, lamp.z), 0.02f, Gold);
+            plain.Emission = 1.8f;
+            plain.Cylinder(lamp - Vector3.up * 0.2f, 0.32f, 0.2f, 16, new Color(1f, 0.8f, 0.6f), true, 0.06f);
+            plain.Emission = 0f;
+            glows.Add(lamp - Vector3.up * 0.2f, Warm * 0.55f, 2.2f);
+            rig.Light(lamp - Vector3.up * 0.4f, new Color(1f, 0.9f, 0.75f), 4.5f, 1.4f);
+            rig.Light(c + new Vector3(0, 2.6f, -0.5f), Warm, 4.5f, 1f);
+            rig.Shadow(mid, new Vector2(size.x * 0.5f, size.y * 0.5f));
+            obstacles.Add(Obstacle.Rect(c.x - size.x * 0.5f - 0.1f, c.z - size.y * 0.5f - 0.1f, c.x + size.x * 0.5f + 0.1f, c.z + size.y * 0.5f + 0.6f));
+
+            sicBoDealer = SpawnStaff(new Vector3(c.x, 0, c.z + size.y * 0.5f + 0.32f), 180f, StaffRole.Dealer, SicBoScreen.DealerTheme, StaffPose.Counter);
+            spots.Add(new Spot
+            {
+                Title = () => Loc.T("PLAY SIC BO"),
+                Subtitle = () => Loc.T("Three dice  •  big or small pays 1 to 1"),
+                Icon = Icon.Play,
+                Style = ButtonStyle.Red,
+                Focus = c + Vector3.up,
+                TapRadius = 1.5f,
+                UseDistance = 3.2f,
+                Approach = new Vector2(c.x, c.z - 1.7f),
+                ApproachYaw = 0f,
+                Use = OpenSicBo,
+                StaffIndex = sicBoDealer,
+            });
+        }
+
+        // ------------------------------------------------------------------ craps
+
+        /// <summary>Craps: a long railed table between the blackjack tables and the slots, the dice thrown north.</summary>
+        static readonly Vector3 CrapsCenter = new Vector3(11.0f, 0f, 2.7f);
+        int crapsDealer = -1;
+        RectTransform crapsDecor;
+
+        void CrapsTableBuild()
+        {
+            var c = CrapsCenter;
+            float k = CrapsScreen.LayerScale, h = CrapsScreen.TableHeight;
+            var size = new Vector2(3.4f, 1.7f);
+            wood.Box(c, new Vector3(size.x - 0.3f, h - 0.05f, size.y - 0.3f), Color.white);
+            plain.Box(c + Vector3.up * (h - 0.05f), new Vector3(size.x - 0.1f, 0.048f, size.y - 0.1f), Palette.Hex("0D5E3A"));   // 2 mm under the layers
+            // the padded rail all round, with a chip groove, and the mirrored back wall the dice bounce off
+            float rail = 0.14f;
+            plain.Box(c + new Vector3(0, h - 0.05f, -size.y * 0.5f + rail * 0.5f), new Vector3(size.x, 0.2f, rail), Leather);
+            plain.Box(c + new Vector3(0, h - 0.05f, size.y * 0.5f - rail * 0.5f), new Vector3(size.x, 0.26f, rail), Leather);
+            plain.Box(c + new Vector3(-size.x * 0.5f + rail * 0.5f, h - 0.05f, 0), new Vector3(rail, 0.2f, size.y), Leather);
+            plain.Box(c + new Vector3(size.x * 0.5f - rail * 0.5f, h - 0.05f, 0), new Vector3(rail, 0.2f, size.y), Leather);
+            plain.Box(c + new Vector3(0, h + 0.15f, -size.y * 0.5f + 0.03f), new Vector3(size.x, 0.012f, 0.06f), Gold);
+            plain.Emission = 0.6f;
+            plain.Box(c + new Vector3(0, h + 0.05f, size.y * 0.5f - rail - 0.01f), new Vector3(size.x - 0.3f, 0.14f, 0.012f), Palette.Hex("5A3A8A"));
+            plain.Emission = 0f;
+
+            var decor = WorldTable.CreateLayer("CrapsLayout", transform, c + Vector3.up * (h + 0.002f), Quaternion.Euler(90f, 0f, 0f), k,
+                new Vector2(1920, 1080), Camera, false);
+            var board = CrapsScreen.PaintBoard(decor);
+            foreach (var def in CrapsScreen.Layout()) CrapsScreen.PaintSpot(board, def, out _);
+            CrapsScreen.PaintPuck(decor, out _);
+            foreach (var g in decor.GetComponentsInChildren<Graphic>(true)) g.raycastTarget = false;
+            crapsDecor = decor;
+
+            var signAt = c + new Vector3(0, 3.0f, 0.5f);
+            plain.Box(signAt - Vector3.up * 0.25f, new Vector3(3.0f, 0.7f, 0.12f), Lacquer);
+            plain.Bar(signAt + new Vector3(-1.2f, 0.45f, 0), new Vector3(c.x - 1.2f, CeilingY, c.z + 0.5f), 0.02f, Gold);
+            plain.Bar(signAt + new Vector3(1.2f, 0.45f, 0), new Vector3(c.x + 1.2f, CeilingY, c.z + 0.5f), 0.02f, Gold);
+            Marquee(signAt + new Vector3(0, 0.1f, -0.07f), 3f, 0.7f, Vector3.back, Gold, 0.1f);
+            Sign(() => Loc.T("CRAPS"), signAt + new Vector3(0, 0.2f, -0.08f), 0f, 2.8f, 0.42f, Palette.GoldLight, FontKind.Display);
+            Sign(() => Loc.T("PASS LINE  •  FIELD  •  ODDS"), signAt + new Vector3(0, -0.12f, -0.08f), 0f, 2.8f, 0.17f, Cyan, FontKind.Display);
+            rig.Light(c + new Vector3(-0.8f, 2.6f, -0.4f), Warm, 4.5f, 0.9f);
+            rig.Light(c + new Vector3(0.8f, 2.6f, -0.4f), Warm, 4.5f, 0.9f);
+            rig.Shadow(c, new Vector2(size.x * 0.5f, size.y * 0.5f));
+            obstacles.Add(Obstacle.Rect(c.x - size.x * 0.5f - 0.1f, c.z - size.y * 0.5f - 0.1f, c.x + size.x * 0.5f + 0.1f, c.z + size.y * 0.5f + 0.6f));
+
+            crapsDealer = SpawnStaff(new Vector3(c.x, 0, c.z + size.y * 0.5f + 0.32f), 180f, StaffRole.Dealer, CrapsScreen.DealerTheme, StaffPose.Counter);
+            spots.Add(new Spot
+            {
+                Title = () => Loc.T("PLAY CRAPS"),
+                Subtitle = () => Loc.T("Pass Line pays 1 to 1  •  odds pay true odds"),
+                Icon = Icon.Play,
+                Style = ButtonStyle.Green,
+                Focus = c + Vector3.up,
+                TapRadius = 1.9f,
+                UseDistance = 3.4f,
+                Approach = new Vector2(c.x, c.z - 1.9f),
+                ApproachYaw = 0f,
+                Use = OpenCraps,
+                StaffIndex = crapsDealer,
+            });
+        }
+
         // ------------------------------------------------------------------ slots and roulette
 
         void Slots()
         {
             Color[] cabinets = { Palette.Hex("B3122E"), Palette.Hex("5B2A9E"), Palette.Hex("124F86"), Palette.Hex("0D7A45"), Palette.Hex("C2471A") };
             int n = 0;
-            void Machine(Vector3 p, Vector3 facing)
+            void Machine(Vector3 p, Vector3 facing, bool poker = false)
             {
-                Color cab = cabinets[n % cabinets.Length];
+                Color cab = poker ? (n % 2 == 0 ? Palette.Hex("123E6E") : Palette.Hex("0B2A4A")) : cabinets[n % cabinets.Length];
+                plain.Finish(cab, 0.55f);   // lacquered cabinets
                 bool alongX = Mathf.Abs(facing.x) > 0.5f;
-                var size = alongX ? new Vector3(0.8f, 1.65f, 0.95f) : new Vector3(0.95f, 1.65f, 0.8f);
+                Vector3 right = new Vector3(facing.z, 0f, -facing.x);
+                Color top = poker ? Cyan : (n % 2 == 0 ? Pink : Cyan);
+                // Video poker is a lower console with a button deck and cards on the screen, not a slot cabinet.
+                var size = poker
+                    ? (alongX ? new Vector3(0.85f, 1.35f, 1.05f) : new Vector3(1.05f, 1.35f, 0.85f))
+                    : (alongX ? new Vector3(0.8f, 1.65f, 0.95f) : new Vector3(0.95f, 1.65f, 0.8f));
                 plain.Box(p, size, cab);
-                plain.Box(p + Vector3.up * 1.65f, alongX ? new Vector3(0.7f, 0.35f, 0.9f) : new Vector3(0.9f, 0.35f, 0.7f), Lacquer);
+                if (poker) plain.Box(p + Vector3.up * 1.35f, alongX ? new Vector3(0.7f, 0.08f, 0.95f) : new Vector3(0.95f, 0.08f, 0.7f), Gold);
+                else plain.Box(p + Vector3.up * 1.65f, alongX ? new Vector3(0.7f, 0.35f, 0.9f) : new Vector3(0.9f, 0.35f, 0.7f), Lacquer);
                 // screen
                 Vector3 f = p + facing * 0.405f + Vector3.up * 1.0f;
-                slotScreens.Emission = 1.3f;
-                slotScreens.Anim = new Vector3(n * 1.3f, 0.3f, 3f + (n % 3));
-                slotScreens.Panel(f, facing, 0.42f, 0.23f, Color.white, Vector2.one);
-                slotMachines.Add((f, facing));
-                slotScreens.Anim = Vector3.zero;
-                slotScreens.Emission = 0f;
-                // topper light and buttons
-                plain.Emission = 2f;
-                plain.Anim = new Vector3(n * 0.9f, 0.8f, 4f);
-                Color top = n % 2 == 0 ? Pink : Cyan;
-                plain.Box(p + Vector3.up * 2.0f + facing * 0.1f, alongX ? new Vector3(0.3f, 0.22f, 0.7f) : new Vector3(0.7f, 0.22f, 0.3f), top);
-                plain.Anim = Vector3.zero;
-                plain.Box(p + Vector3.up * 0.62f + facing * 0.42f, alongX ? new Vector3(0.1f, 0.05f, 0.5f) : new Vector3(0.5f, 0.05f, 0.1f), Palette.Gold);
-                plain.Emission = 0f;
-                glows.Add(p + Vector3.up * 2.1f + facing * 0.3f, top * 0.5f, 1.3f, n * 0.9f, 4f, 0.7f);
+                if (poker)
+                {
+                    // a lit but still screen: the five cards below are the display, not spinning reels
+                    plain.Emission = 0.55f;
+                    plain.Panel(f, facing, 0.42f, 0.23f, Palette.Hex("0B1E3A"), Vector2.one);
+                    plain.Emission = 0f;
+                    videoPokerMachines.Add((f, facing));
+                }
+                else
+                {
+                    slotScreens.Emission = 1.3f;
+                    slotScreens.Anim = new Vector3(n * 1.3f, 0.3f, 3f + (n % 3));
+                    slotScreens.Panel(f, facing, 0.42f, 0.23f, Color.white, Vector2.one);
+                    slotMachines.Add((f, facing));
+                    slotScreens.Anim = Vector3.zero;
+                    slotScreens.Emission = 0f;
+                }
+                if (poker)
+                {
+                    // five face-down cards on the screen
+                    plain.Emission = 0.35f;
+                    for (int i = 0; i < 5; i++)
+                        plain.Box(f + facing * 0.015f + right * ((i - 2) * 0.078f), alongX ? new Vector3(0.012f, 0.15f, 0.105f) : new Vector3(0.105f, 0.15f, 0.012f), Palette.Hex("EEF2FF"));
+                    // the button deck on the rail, with five hold buttons
+                    var deck = p + Vector3.up * 0.74f + facing * 0.52f;
+                    plain.Emission = 0f;
+                    plain.Box(deck, alongX ? new Vector3(0.26f, 0.07f, 0.82f) : new Vector3(0.82f, 0.07f, 0.26f), Lacquer);
+                    plain.Emission = 0.8f;
+                    for (int i = 0; i < 5; i++)
+                        plain.Box(deck + Vector3.up * 0.05f + right * ((i - 2) * 0.15f), new Vector3(0.08f, 0.03f, 0.08f), Gold);
+                    // a low backlit header instead of the slots' topper
+                    plain.Emission = 1.6f;
+                    plain.Anim = new Vector3(n * 0.9f, 0.8f, 4f);
+                    plain.Box(p + Vector3.up * 1.62f, alongX ? new Vector3(0.18f, 0.3f, 0.85f) : new Vector3(0.85f, 0.3f, 0.18f), Cyan);
+                    plain.Anim = Vector3.zero;
+                    plain.Emission = 0f;
+                }
+                else
+                {
+                    // topper light and buttons
+                    plain.Emission = 2f;
+                    plain.Anim = new Vector3(n * 0.9f, 0.8f, 4f);
+                    plain.Box(p + Vector3.up * 2.0f + facing * 0.1f, alongX ? new Vector3(0.3f, 0.22f, 0.7f) : new Vector3(0.7f, 0.22f, 0.3f), top);
+                    plain.Anim = Vector3.zero;
+                    plain.Box(p + Vector3.up * 0.62f + facing * 0.42f, alongX ? new Vector3(0.1f, 0.05f, 0.5f) : new Vector3(0.5f, 0.05f, 0.1f), Palette.Gold);
+                    plain.Emission = 0f;
+                }
+                glows.Add(p + Vector3.up * (poker ? 1.8f : 2.1f) + facing * 0.3f, top * 0.5f, 1.3f, n * 0.9f, 4f, 0.7f);
                 glows.Add(f + facing * 0.1f, new Color(0.8f, 0.6f, 1f) * 0.25f, 1.2f, n * 1.3f, 3f, 0.3f);
-                int machine = n;
+                int machine = poker ? videoPokerMachines.Count - 1 : slotMachines.Count - 1;
                 spots.Add(new Spot
                 {
-                    Title = "PLAY SLOTS",
-                    Subtitle = "Lucky Ace 7s  •  10 lines",
-                    Icon = Icon.Star,
-                    Style = ButtonStyle.Purple,
+                    Title = poker ? (Func<string>)(() => Loc.T("PLAY VIDEO POKER")) : () => Loc.T("PLAY SLOTS"),
+                    Subtitle = poker ? (Func<string>)(() => Loc.T("Jacks or Better  •  9/6 full pay")) : () => Loc.T("Lucky Ace 7s  •  10 lines"),
+                    Icon = poker ? Icon.Cards : Icon.Star,
+                    Style = poker ? ButtonStyle.Blue : ButtonStyle.Purple,
                     Focus = p + Vector3.up * 1.2f + facing * 0.3f,
                     TapRadius = 0.55f,
                     UseDistance = 1.9f,
                     Approach = new Vector2(p.x + facing.x * 1.45f, p.z + facing.z * 1.45f),
                     ApproachYaw = Mathf.Atan2(-facing.x, -facing.z) * Mathf.Rad2Deg,
-                    Use = () => OpenSlots(machine),
+                    Use = poker ? (Action)(() => OpenVideoPoker(machine)) : () => OpenSlots(machine),
                 });
                 // stool
                 var stool = p + facing * 0.95f;
@@ -587,15 +879,19 @@ namespace Casino.World
                 n++;
             }
             for (float z = -3f; z <= 9.2f; z += 1.1f) Machine(new Vector3(MaxX - 0.5f, 0, z), Vector3.left);
-            for (float x = 3f; x <= 11.5f; x += 1.1f) Machine(new Vector3(x, 0, MaxZ - 0.5f), Vector3.back);
+            // The row along the back wall plays video poker.
+            for (float x = 3f; x <= 11.5f; x += 1.1f) Machine(new Vector3(x, 0, MaxZ - 0.5f), Vector3.back, true);
             for (float z = -2f; z <= 9f; z += 3.5f) rig.Light(new Vector3(MaxX - 1.5f, 2.6f, z), z % 2 == 0 ? Pink : Violet, 4f, 0.6f);
             for (float x = 4f; x <= 11f; x += 3.5f) rig.Light(new Vector3(x, 2.6f, MaxZ - 1.5f), Cyan, 4f, 0.5f);
             obstacles.Add(Obstacle.Rect(MaxX - 1.5f, -3.7f, MaxX, 9.8f));
             obstacles.Add(Obstacle.Rect(2.4f, MaxZ - 1.5f, MaxX, MaxZ));
 
             Marquee(new Vector3(MaxX - 0.05f, 3.55f, 3f), 6f, 1f, Vector3.left, Pink);
-            Sign("SLOTS", new Vector3(MaxX - 0.08f, 3.65f, 3f), 90f, 5f, 0.7f, Pink, FontKind.Display);
-            Sign("LUCKY ACE 7s  •  PAYS UP TO 2,500×", new Vector3(MaxX - 0.08f, 3.2f, 3f), 90f, 5f, 0.24f, Color.white, FontKind.Display);
+            Sign(() => Loc.T("SLOTS"), new Vector3(MaxX - 0.08f, 3.65f, 3f), 90f, 5f, 0.7f, Pink, FontKind.Display);
+            Sign(() => Loc.T("LUCKY ACE 7s  •  PAYS UP TO 2,500× YOUR LINE BET"), new Vector3(MaxX - 0.08f, 3.2f, 3f), 90f, 5f, 0.24f, Color.white, FontKind.Display);
+            Marquee(new Vector3(7.3f, 3.55f, MaxZ - 0.05f), 6f, 1f, Vector3.back, Cyan);
+            Sign(() => Loc.T("VIDEO POKER"), new Vector3(7.3f, 3.65f, MaxZ - 0.08f), 0f, 5f, 0.7f, Cyan, FontKind.Display);
+            Sign(() => Loc.T("JACKS OR BETTER  •  ROYAL FLUSH PAYS 800×"), new Vector3(7.3f, 3.2f, MaxZ - 0.08f), 0f, 5f, 0.24f, Color.white, FontKind.Display);
         }
 
         void Roulette()
@@ -632,8 +928,8 @@ namespace Casino.World
             plain.Bar(signAt + new Vector3(-1.2f, 0.45f, 0), new Vector3(c.x - 1.2f, CeilingY, c.z + 0.3f), 0.02f, Gold);
             plain.Bar(signAt + new Vector3(1.2f, 0.45f, 0), new Vector3(c.x + 1.2f, CeilingY, c.z + 0.3f), 0.02f, Gold);
             Marquee(signAt + new Vector3(0, 0.1f, -0.07f), 3.2f, 0.7f, Vector3.back, Gold, 0.1f);
-            Sign("ROULETTE", signAt + new Vector3(0, 0.2f, -0.08f), 0f, 3f, 0.42f, Palette.GoldLight, FontKind.Display);
-            Sign("PLACE YOUR BETS", signAt + new Vector3(0, -0.12f, -0.08f), 0f, 3f, 0.17f, Pink, FontKind.Display);
+            Sign(() => Loc.T("ROULETTE"), signAt + new Vector3(0, 0.2f, -0.08f), 0f, 3f, 0.42f, Palette.GoldLight, FontKind.Display);
+            Sign(() => Loc.T("PLACE YOUR BETS"), signAt + new Vector3(0, -0.12f, -0.08f), 0f, 3f, 0.17f, Pink, FontKind.Display);
             rig.Light(c + new Vector3(0, 2.6f, -0.5f), Warm, 4.5f, 1f);
             rig.Light(w + new Vector3(0, 2.2f, 0.2f), Warm, 2.5f, 0.6f);
             rig.Shadow(mid, new Vector2(size.x * 0.5f, size.y * 0.5f));
@@ -643,8 +939,8 @@ namespace Casino.World
                 Screens.RouletteScreen.CroupierTheme, StaffPose.Counter);
             spots.Add(new Spot
             {
-                Title = "PLAY ROULETTE",
-                Subtitle = "European wheel  •  straight up pays 35 to 1",
+                Title = () => Loc.T("PLAY ROULETTE"),
+                Subtitle = () => Loc.T("European wheel  •  straight up pays 35 to 1"),
                 Icon = Icon.Play,
                 Style = ButtonStyle.Gold,
                 Focus = c + Vector3.up,
@@ -672,7 +968,7 @@ namespace Casino.World
 
         void Pillars()
         {
-            var at = new[] { new Vector2(-9.5f, -8f), new Vector2(9.5f, -8f), new Vector2(-9.5f, 8.5f), new Vector2(9.5f, 8.5f) };
+            var at = new[] { new Vector2(10.1f, -5.6f), new Vector2(9.6f, 6.4f), new Vector2(13.6f, -2.5f), new Vector2(13.6f, 7.5f) };
             int k = 0;
             foreach (var p in at)
             {
@@ -731,7 +1027,7 @@ namespace Casino.World
         }
 
         /// <summary>Upright world-space text. <paramref name="yaw"/> is the direction the text faces away from (0 = readable from the south).</summary>
-        void Sign(string text, Vector3 position, float yaw, float width, float height, Color color, FontKind font)
+        void Sign(Func<string> text, Vector3 position, float yaw, float width, float height, Color color, FontKind font)
         {
             var label = SignLabel(text, width, height, color, font);
             label.transform.position = position;
@@ -739,16 +1035,19 @@ namespace Casino.World
         }
 
         /// <summary>Text printed flat on a table, readable from the south.</summary>
-        void SignFlat(string text, Vector3 position, float width, float height, Color color)
+        void SignFlat(Func<string> text, Vector3 position, float width, float height, Color color)
         {
             var label = SignLabel(text, width, height, color, FontKind.Display, false);
             label.transform.position = position;
             label.transform.rotation = Quaternion.Euler(90f, 0f, 0f);
         }
 
-        RectTransform SignLabel(string text, float width, float height, Color color, FontKind font, bool glow = true)
+        /// <summary>The casino's printed and lit signs, redrawn when the language changes (<see cref="Relabel"/>).</summary>
+        readonly List<(Text label, Func<string> text, FontKind font)> signs = new List<(Text, Func<string>, FontKind)>();
+
+        RectTransform SignLabel(Func<string> text, float width, float height, Color color, FontKind font, bool glow = true)
         {
-            var go = new GameObject("Sign " + text, typeof(RectTransform), typeof(Canvas));
+            var go = new GameObject("Sign", typeof(RectTransform), typeof(Canvas));
             go.transform.SetParent(transform, false);
             var canvas = go.GetComponent<Canvas>();
             canvas.renderMode = RenderMode.WorldSpace;
@@ -756,7 +1055,8 @@ namespace Casino.World
             const float ppm = 100f; // canvas units per metre
             rt.sizeDelta = new Vector2(width * ppm, height * ppm);
             rt.localScale = Vector3.one / ppm;
-            var t = UIKit.Label(rt, text, Mathf.RoundToInt(height * ppm * 0.9f), color, TextAnchor.MiddleCenter, font);
+            var t = UIKit.Label(rt, text(), Mathf.RoundToInt(height * ppm * 0.9f), color, TextAnchor.MiddleCenter, font);
+            signs.Add((t, text, font));
             t.horizontalOverflow = HorizontalWrapMode.Overflow;
             t.resizeTextForBestFit = true;
             t.resizeTextMinSize = 4;
@@ -764,6 +1064,17 @@ namespace Casino.World
             ((RectTransform)t.transform).Stretch();
             if (glow) UIKit.TextOutline(t, Palette.WithAlpha(Palette.Shade(color, 0.5f), 0.8f), 1.5f);
             return rt;
+        }
+
+        /// <summary>The language changed: redraw the signs in it.</summary>
+        public void Relabel()
+        {
+            foreach (var (label, text, font) in signs)
+            {
+                if (label == null) continue;
+                label.font = Fonts.Get(font);
+                label.text = text();
+            }
         }
 
         // ------------------------------------------------------------------ staff
@@ -808,6 +1119,11 @@ namespace Casino.World
                 int seed = Screens.Staff.Seed(role, theme);
                 var fig = StaffFigure.Create(transform, ModelFor(female, role, theme), pos, yaw, female, role,
                     Screens.Staff.Name(style, role, theme), TintAt(pos), pose, AvatarPainter.LookFor(female, seed, role));
+                if (fig != null)
+                {
+                    var (dir, color) = rig.Strongest(pos + Vector3.up * 1.5f);
+                    fig.SetRoomLight(dir, color);
+                }
                 staff.Add(fig);
                 yield return null;
             }
@@ -820,11 +1136,12 @@ namespace Casino.World
             waitress = StaffFigure.Create(transform, (waitressFemale ? "f_" : "m_") + "dealer2", new Vector3(patrol[0].x, 0, patrol[0].y), 90f,
                 waitressFemale, StaffRole.Server, Screens.Staff.Name(style, StaffRole.Server, 1), new Color(1f, 0.95f, 0.92f), StaffPose.Tray,
                 AvatarPainter.LookFor(waitressFemale, 53, StaffRole.Server));
+            if (waitress != null) waitress.ShowContactShadow(quality >= QualityMedium, ShadowFalloff);
             staff.Add(waitress);
             spots.Add(new Spot
             {
-                Title = "ORDER A DRINK",
-                Subtitle = waitress.StaffName + " brings it over",
+                Title = () => Loc.T("ORDER A DRINK"),
+                Subtitle = () => Loc.F("{0} brings it over", waitress.StaffName),
                 Icon = Icon.Food,
                 Style = ButtonStyle.Purple,
                 TapRadius = 0.7f,

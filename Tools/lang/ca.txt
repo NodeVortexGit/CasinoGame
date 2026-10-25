@@ -1,0 +1,659 @@
+# Catalan (ca). Machine translation by Claude.
+bd99124	Grapat de fitxes
+c7c6dc8	Pila de fitxes
+7512cfd	Safata de fitxes
+fa36588	Rack de fitxes
+7994f65	EL MÉS POPULAR
+49dcc21	Cambra de fitxes
+0725283	Caixa forta de gran jugador
+7658705	MILLOR PREU
+2f23432	Aigua amb gas
+418b820	Expresso
+97b463c	Beguda energètica
+43bbfda	Sandvitx club
+bce7a75	Menú d'hamburguesa
+2832a8d	Sopar amb filet
+dee8ee8	RECÀRREGA COMPLETA
+a7c2255	Ratxa de sort
+7919163	Ratxa calenta
+74fdfc2	MÉS SORT
+d79cd12	Taula de bronze
+2a8ff35	Taula de plata
+51877b2	Taula d'or
+9282152	Taula de diamant
+0de8764	Introdueix un any vàlid.
+d4e14c9	Introdueix un mes vàlid (1-12).
+addd156	Introdueix un dia vàlid.
+d78a4f4	Aquesta data és en el futur.
+787c7c6	Et dono la benvinguda a la meva taula! A punt per jugar?
+8b0f93e	M'alegro de veure't. Seu!
+8338021	Hola! Les cartes són fresques, i jo també.
+75750f9	Et donem la benvinguda! Fem que aquesta nit sigui fantàstica.
+95aac36	Fes la teva aposta quan estiguis a punt.
+8bc63c1	Fitxes a la taula, i vegem unes cartes.
+984b7f3	Què ens hi juguem?
+b74c769	Uau, una aposta grossa! M'agrada el teu estil.
+77fc1fc	Això sí que és una aposta. Som-hi!
+7779a5b	Avui et sents valent, eh?
+479ff82	Tot?! El cor em va a mil!
+7fb527c	Tot a una sola mà. Sense por!
+7bf0c5d	Blackjack! Increïble!
+123f2d5	Vint-i-u, així de fàcil!
+cd850a7	Blackjack! Les cartes t'estimen aquesta nit.
+55f50ee	Ben jugat!
+79594b1	Guanyes! Molt bé.
+0df710e	Estàs en ratxa!
+20a0c1e	Aquesta és teva.
+a45fe61	Quina victòria! Tothom mira aquesta taula!
+54d3982	Enorme! Aquesta nit estàs que cremes!
+8da8f1e	Per ben poc! La següent és teva.
+5d921e1	Aquesta vegada la casa ha tingut sort.
+f923af7	No hi pensis, arriba una mà nova.
+853e7ca	Ai, una carta de més.
+daec44f	T'has passat! Els passa fins i tot als millors.
+11ceaef	Empat. Ningú no perd!
+911a289	Empat. Les teves fitxes estan segures.
+a89d9d9	M'he passat! Quina sort que tens.
+f76c8fd	Massa per a mi. Guanyes!
+63f8d0b	Blackjack per a la casa, ho sento!
+465c8bf	Blackjack del crupier. Mala sort.
+6752f40	Mostro un as. Assegurança?
+1920c5a	Separem! Dues oportunitats de guanyar.
+9f621da	Dobles. Moviment valent!
+59da99d	Dobla-la! Ve una carta.
+0b48017	Sabata nova, barrejo!
+3fa7769	Et queden poques? La caixa et recarrega.
+4e5694b	Les fitxes s'acaben. En vols més?
+d41f057	T'has quedat sense fitxes! Passa per la caixa o agafa fitxes gratis.
+15d90d3	La teva pila és buida. La caixa és just darrere teu.
+a9eaae1	Fas cara de cansat! Menja alguna cosa al bar.
+5cd9e8b	Vas amb la reserva? El bar et cuida.
+37b9672	Pren-t'ho amb calma.
+c64df8c	Quan vulguis!
+b8dfc0a	La nit és jove.
+8748560	La sort del principiant és amb tu!
+e3def50	La baralla és de la teva banda aquesta nit!
+506ade9	La sort del principiant s'ha acabat. A partir d'ara el joc és just!
+953d8b7	Et donem la benvinguda al casino! El teu seient t'espera.
+9fd9844	Bona nit! Les taules cremen aquesta nit.
+2d42aaf	Quina alegria tornar-te a veure! Et sents amb sort?
+311bae7	Toca una taula per començar a jugar!
+3318099	Necessites més fitxes? Has vingut a la finestreta correcta.
+c5b3787	Piles més grans, bonificacions més grans!
+21ae665	Tens gana? Tria el que vulguis de la carta.
+8b83cc0	Menjar alguna cosa et manté l'energia!
+35f4b0e	Et dono la benvinguda a la meva taula!
+8f90245	Ja ets aquí! Tot sembla més lluminós.
+909e4d6	Fes com si fossis a casa. Aquesta nit és tota per a tu.
+2477f78	M'encanta aquest somriure. Nit de sort?
+6ac2120	Relaxa't, aquí estàs en bones mans.
+089f04b	Ei, tu! Esperava que passessis per la meva finestreta.
+3f2c3c9	Sempre és agradable veure una cara amable.
+3021db8	Mira qui hi ha! T'ho estàs passant bé?
+769980b	Hola, guapo!
+5361ffd	M'agrada el teu estil aquesta nit.
+56b40be	Ei, quina alegria tornar-te a veure!
+3316019	Estàs passant una bona nit? T'ho mereixes.
+28283fd	Compte, potser començaré a animar-te.
+109ac94	El meu jugador preferit ha tornat!
+acba0e6	Seu amb mi, et repartiré alguna cosa bonica.
+eb5ff2a	Amb tu aquesta taula és molt més divertida.
+772a73c	Ja te'n vas? La nit és jove!
+178301a	Va, només una mà més. Tinc un bon pressentiment!
+816036a	No em pots deixar ara, si just acabem de començar!
+5c9b7e2	Última oportunitat! La pròxima mà podria ser la grossa...
+20ce7b6	D'acord, d'acord. Et guardaré el seient calent. Prometes que tornaràs?
+51d1aeb	Encara sense ratxa? Juga avui rondes ({2}) i començaré a comptar.
+10b25d9	Nou començament! Rondes ({2}) i la teva flama s'encén.
+0c10711	Porto una llista dels qui vénen cada dia. Tu no hi ets... encara.
+5e7c431	El dia {1} t'espera. Queden rondes: {2}!
+b268d84	Dies seguits: {0}... no pararàs ara, oi?
+b32ae79	La teva flama sembla una mica freda avui. Les rondes ({2}) l'escalfaran.
+a6f3fbd	He anat comptant: dies {0}. Fem que siguin {1}.
+1dc5c97	No et pensis que no me n'he adonat. Rondes per mantenir la ratxa: {2}!
+807b82c	Dies seguits: {0}? Començo a pensar que t'agrada ser aquí.
+6391923	La teva ratxa està a salvo per avui. Ara només fas el xulo.
+3bfbbf7	Dia {0}, fet. Demà a la mateixa hora?
+ca2a2c1	Dies: {0}! Hauria de reservar-te un seient.
+54f991f	Aquí el tens: el primer dia de la teva ratxa! Torna demà i en farem dos.
+a1e7ab0	Una setmana sencera seguida! Estic impressionada de debò.
+96cee95	Trenta dies! Pràcticament treballes aquí.
+a9834cd	Cent dies. Parlo de tu a tothom.
+071317f	Ja són {0} dies seguits! Mira't.
+0964027	Ratxa salvada: dia {0}! Sabia que ho aconseguiries.
+c7f2a1f	Dia {0}! A que no arribes al {1}.
+a6ce2e2	Dies: {0}... vale, fanfarró.
+3ab91d0	Juga 10 mans de blackjack
+38e863d	Guanya 5 mans de blackjack
+6ac41cc	Fes un blackjack
+74cf149	Guanya 500 fitxes al blackjack
+66440e1	Fes girar les escurabutxaques 20 vegades
+9205056	Guanya 5 tirades a les escurabutxaques
+cd60e0c	Guanya 5× l'aposta a les escurabutxaques
+6f7ac28	Juga 5 rondes de ruleta
+6978cc0	Guanya 3 tirades de ruleta
+c8ebbcc	Encerta un número en ple
+8a57c54	ubicació GPS
+4919635	xarxa mòbil
+527b094	connexió a internet
+f49ae82	configuració del dispositiu
+60827d3	país de prova
+0b2f8d8	no verificat (preu estàndard)
+50d8b4a	desconegut
+4fb7a4e	1a 12
+647a0eb	2a 12
+a934745	3a 12
+3de80ab	2 a 1
+bb4e68e	VERMELL
+a9414ab	NEGRE
+710756a	SENAR
+70ca748	PARELL
+4d60d6c	PREUS JUSTOS PER AL TEU PAÍS
+1674d95	Els preus de la botiga s'adapten a l'economia del teu país, perquè els jugadors de tot arreu paguin un preu just.
+4ec27ee	Per saber el teu país, comprovem una sola vegada la teva ubicació aproximada. S'associa a un país al teu dispositiu i no s'envia enlloc. Si t'hi negues, s'apliquen els preus estàndard.
+ff3dbb4	CONTINUA
+43a6a8d	Vols sortir del casino?
+ad209a0	Les teves fitxes i el teu progrés s'han desat.
+5860c84	SURT
+f1e0808	EM QUEDO
+5b38c49	Desbloquejat: {0}
+15ae7ac	Una congelació de ratxa va salvar ahir la teva ratxa (dies: {0}).
+d375ffb	Congelacions ({0}) han salvat la teva ratxa (dies: {1}).
+fd8ab39	La teva ratxa (dies: {0}) s'ha acabat. Juga avui rondes ({1}) per començar-ne una de nova!
+7fa2db4	MISSIÓ COMPLETADA
+255325c	+{0} fitxes
+d205ece	TOTES LES MISSIONS FETES!
+4acbed2	Bonificació diària +{0} fitxes. Noves missions demà.
+ab2ceb3	NIVELL {0}!
+86e2afb	Fita! +{0} fitxes
+9ae18ad	Torna demà per continuar
+7af7e7c	+1 congelació de ratxa
+b5b9597	RATXA DE {0} DIES!
+62ec60d	Les compres no estan disponibles en aquesta versió.
+1f9786c	La compra ha fallat. No se t'ha cobrat res.
+3e4c600	S'han afegit +{0} fitxes!
+1998202	{0}: {1} mans amb un {2}% de sort, després de la sort del principiant
+728ada5	{0}: {1} mans amb un {2}% de sort!
+af5e232	{0}: +{1}% d'energia
+001a53b	No disponible en aquest dispositiu
+2607004	Els vídeos no es poden carregar en aquesta xarxa
+569c30d	Torna demà
+ecae6ee	A punt d'aquí a {0} s
+9964820	+{0} fitxes (en queden {1} avui)
+e1bd888	+{0} fitxes gratis!
+619bd5d	+1 congelació de ratxa!
+f70d794	Ara mateix no hi ha cap vídeo disponible. Torna-ho a provar d'aquí a una estona.
+264d71b	BRONZE
+462e839	PLATA
+81ff70a	OR
+50e122e	DIAMANT
+57f5f5e	Menú
+69bd4ef	Vista
+dbfe736	Creu
+1cc7820	Cercle
+82810cb	Quadrat
+73d3ae2	Triangle
+a42f608	Comprovant la teva regió...
+1db422c	No verificat ({0}): preus estàndard
+9bc0807	{0} ({1}): preus en {2}
+ae8c393	Recordatoris
+aefd59b	Fitxes gratis a punt i recordatoris de ratxa
+3125838	Les teves fitxes gratis estan a punt
+233027b	T'esperen {0} fitxes a Lucky Ace.
+b93976b	Mantén la teva ratxa (dies: {0})
+bd68038	Juga avui rondes ({0}) perquè no es reiniciï a mitjanit.
+0acfb6f	Et donem la benvinguda! La sort del principiant és amb tu aquesta nit. Fes una aposta!
+d589374	EL BLACKJACK PAGA 3 A 2   •   EL CRUPIER ES PLANTA EN TOTS ELS 17   •   L'ASSEGURANÇA PAGA 2 A 1
+b700b02	APOSTA
+16ec74f	ESBORRA
+928226b	REPETEIX
+55591e0	REPARTEIX
+395ed46	CARTA
+43e7971	PLANTA'T
+097274c	DOBLA
+6df63ca	SEPARA
+3e40f46	ASSEGURA
+db82d3a	NO, GRÀCIES
+28d6be8	APOSTA {0}+
+9587b70	Has arribat al màxim de la taula
+b9ac47d	No tens prou fitxes
+d237ade	El crupier mostra un as. T'asseguries per {0}?
+bf07c14	L'assegurança paga {0}
+b6e674a	El crupier no té blackjack. Assegurança perduda.
+0cc9679	T'HAS PASSAT
+82ce89d	EL CRUPIER S'HA PASSAT
+6e1e1a4	BLACKJACK!
+662fae5	GUANYES
+8918d00	EMPAT
+8df6be4	PERDS
+9e69668	La sort del principiant s'ha acabat. La teva Ratxa de sort comença ara.
+822f4f4	La sort del principiant s'ha acabat. A partir d'ara és blackjack estàndard.
+b0377c7	La teva Ratxa de sort s'ha acabat. Tornem al blackjack estàndard.
+824ad7c	SENSE FITXES
+ff1822d	Mira un vídeo curt per {0} fitxes gratis, o passa per la caixa.
+e4cac2f	Passa per la caixa per recarregar les teves fitxes.
+c3df3e7	FITXES GRATIS
+b169d33	CAIXA
+4d38f66	MÉS TARD
+cb8171b	Acaba primer aquesta mà.
+3aa6941	«{0}»
+6f846f4	UNA MÀ MÉS
+a79d4f2	ME'N VAIG
+693f697	SORT DEL PRINCIPIANT
+641ad58	RATXA DE SORT
+fc45931	Bonificació de benvinguda per a jugadors nous: durant les teves primeres <b>{0} mans</b> la sabata del crupier està preparada al teu favor, així que guanyaràs gairebé totes les mans.
+576c683	Durant les <b>{0} mans</b> següents l'avantatge s'esvaeix, i després totes les taules són blackjack estàndard i just, repartit d'una sabata barrejada de 6 baralles (el blackjack paga 3 a 2, el crupier es planta en tots els 17).
+7fb55b3	Avantatge ara: <b><color=#7CFC9A>{0}%</color></b>   Mans restants: <b>{1}</b>
+d4f8fe0	Durant les teves pròximes <b>{0} mans de blackjack</b> amb una aposta de fins a <b>{1} fitxes</b>, cada carta té un <b>{2}%</b> de probabilitat de sortir al teu favor (el mateix avantatge que la sort del principiant).
+0a5fc06	Jugant bé, això guanya aproximadament el <b>{0}%</b> de les mans, enfront d'un {1}% aproximat al blackjack estàndard. Les apostes més grans són blackjack estàndard i no gasten mans. Quan s'acaben les mans, totes les taules tornen a ser blackjack estàndard i just.
+c3a8946	ENTESOS
+8dfc44a	VOLS RECUPERAR LA SORT?
+272a97f	La sort del principiant s'ha acabat: d'ara endavant totes les taules són blackjack estàndard i just. Una Ratxa de sort torna l'avantatge durant un temps.
+06b7689	DIARI
+4035996	RATXA DIÀRIA
+fbe7f18	DIES SEGUITS
+7a46866	AVUI
+4753707	MIRA L'ANUNCI
+6bb45f3	COMPRA
+62a945f	CONGELACIÓ DE RATXA
+ba5b1de	Una congelació manté viva la teva ratxa un dia que no jugues. En pots tenir fins a {0}.\n\nEn compres una per {1} fitxes?
+38c6090	Congelació de ratxa a punt.
+8fe681f	No tens prou fitxes per a una congelació.
+1507c40	CANCEL·LA
+457d20f	TIRADA DIÀRIA
+9623247	GIRA
+ac5ef96	Probabilitats:
+1200f20	{0}%
+003a689	Has guanyat {0} fitxes!
+f757137	MISSIONS D'AVUI
+7b7f9e2	Rècord: {0} dies
+9554fea	Juga cada dia per construir una ratxa
+5c8dbb8	Objectiu d'avui complert! Fins demà.
+1aeb9a1	Avui: {0} / {1} rondes (qualsevol joc)
+bb92856	Congelacions de ratxa: {0} / {1}
+0ec6216	Salva la teva ratxa un dia que et perdis. +1 cada 7 dies.
+cc0a745	PLE
+419a962	SENSE VÍDEO
+2dabd99	ANUNCI AVIAT
+f12e166	Bonificació de ratxa: premis ×{0}
+80948a4	Una tirada gratis cada dia
+596b5e0	SEGÜENT  {0}
+7f7e7fc	Tot fet! Bonificació recollida.
+03a0f2a	Noves missions a mitjanit.
+4784874	Completa-les totes tres: +{0} fitxes de bonificació
+42c5cda	JUGA
+337211e	JOCS
+8f5e3bd	Arrossega a l'esquerra per caminar  •  Arrossega a la dreta per mirar  •  Toca per anar-hi
+d00d221	Només +18  •  Les fitxes són per divertir-se: sense valor monetari, mai bescanviables per diners ni premis
+b60f038	Obrint les portes...
+2e5bcce	Et donem la benvinguda! Les teves {0} fitxes de benvinguda estan a punt. Les taules són just al davant!
+7ef7ae3	+{0} fitxes gratis! Més d'aquí a {1} hores.
+5d82af9	Les fitxes gratis es recarreguen cada {0} hores. Les següents d'aquí a {1}.
+5469985	{0} h {1} min
+bb65beb	{0} min {1} s
+ac8ba93	MANTÉN LA TEVA RATXA
+560bfa1	Vols un recordatori les nits que encara no has jugat i quan les fitxes gratis estiguin a punt? Mai res més, i ho pots desactivar a la Configuració.
+b724a40	RECORDA-M'HO
+9e0c898	+{0} fitxes a punt!
+1207e28	Mira un vídeo: {0}
+db3655b	Pròximes fitxes gratis d'aquí a {0}
+4ca9be5	BLACKJACK
+9a612b1	4 taules  •  paga 3 a 2
+1194439	ESCURABUTXAQUES
+6555152	Lucky Ace 7s  •  10 línies
+255b1a1	RULETA
+6df1551	Europea d'un sol zero
+379b146	ESTÀS ESGOTAT
+340e5c4	La teva barra d'energia és buida. Agafa alguna cosa al bar per seguir jugant, o torna més tard: l'energia es recupera a poc a poc mentre no hi ets.
+a517396	VES AL BAR
+7c7227f	TRIA LA TEVA TAULA
+c963de3	APOSTES
+c433657	NIVELL {0}
+083ac39	SEU
+9698219	CAL {0}
+34b737e	Arriba al nivell {0} per jugar aquí. Ets al nivell {1}.
+6cc19a9	CASINO
+6e946b7	DD
+4a3a892	MM
+2857a6a	AAAA
+9d1fece	DIA
+d3bb0c3	MES
+c0f0cad	ANY
+43985ff	QUAN VAS NÉIXER?
+293fda2	Les fitxes són només per a entreteniment. No tenen valor monetari i mai no es poden bescanviar per diners ni premis.
+3e9128d	HO SENTIM, NO POTS JUGAR
+b5e8985	{0} només està disponible per a adults.
+bb1b380	SURT
+d9f9432	Es tanca d'aquí a {0}...
+c6e102d	PARLA'NS DE TU
+31120ce	Triarem els amfitrions, crupiers i personal del bar d'acord amb això. Ho pots canviar quan vulguis a la Configuració.
+49e8df9	SÓC UN HOME
+85abe81	SÓC UNA DONA
+76cc98c	PREFEREIXO NO DIR-HO
+964daf7	ENTRA AL CASINO
+2efb69a	El teu personal aquesta nit:
+c10e749	Pàgina {0} de {1}
+2a3ffd9	IDIOMA
+c673535	AUTOMÀTIC
+d1245d2	PAÍS
+15fc12b	Benvinguts! Facin les seves apostes, si us plau.
+531fb3f	No tens prou fitxes per a aquesta aposta.
+380eb75	El límit de la taula és {0} per tirada.
+55ad592	DESFÉS
+8f191f9	APOSTA TOTAL  {0}
+82e1181	Toca el tauler per posar fitxes
+bb19a75	No va més!
+5becf07	VERD
+bc74f4f	verd
+7898801	vermell
+466bc8c	negre
+f2edfbf	Quin encert! Enhorabona!
+b252caf	Guanyes! Has guanyat {0}.
+8587d14	GUANY  +{0}
+b862a2b	{0} {1}. Et tornen {2}.
+a306d0a	RETORNAT  {0}
+af3134d	Aquesta vegada no hi ha premi
+84122e7	Facin les seves apostes, si us plau.
+52205f4	Espera que la bola s'aturi.
+c4b9243	CONFIGURACIÓ
+44d863e	GENERAL
+2bbca79	GRÀFICS
+955c8b4	SO
+c701f5f	TÀCTIL
+efcc94a	RATOLÍ
+8433628	COMANDAMENT
+d868a50	VIBRACIÓ
+f8692c7	+18 • Les fitxes no tenen valor monetari • Tipus de lletra: Bebas Neue, Poppins, Noto (SIL OFL) • Fronteres: Natural Earth • Dades de preus: Banc Mundial
+da46447	PERSONAL DEL CASINO
+594b81e	DONES
+69d3313	HOMES
+b4325d3	MIXT
+414594a	RECORDATORIS
+6cac87b	Fitxes gratis a punt, i un avís al vespre abans que s'acabi una ratxa.
+e43b2e0	TORNA A COMPROVAR
+7c9e8f9	REGIÓ DE PREUS
+495c70e	El més ràpid: el casino tal com està pintat, res més.
+b052523	Terres polits, fusta i or reflecteixen la sala.
+6bd30d7	Aspecte de cinema: color etalonat, gra, resplendor, raigs de llum, pell realista.
+21b6e1d	Objectiu de cinema: l'enfocament segueix la mirada, estries als llums, pols als raigs.
+fb7c2e8	QUALITAT
+d8b9679	BAIXA
+f68525a	MITJANA
+d77d0b2	ALTA
+9289eee	ULTRA
+637e313	RESOLUCIÓ
+2e7b141	Una de més baixa és més suau, però s'escalfa menys i estalvia bateria.
+93dcfb5	MODE DE PANTALLA
+3c6eac3	PANTALLA COMPLETA
+f3690b1	FINESTRA
+cfa6200	ANTIALIÀSING
+ad50489	DESACTIVAT
+f178804	Suavitza les vores dentades del casino.
+4266288	FOTOGRAMES PER SEGON
+d031ab0	{0} FPS
+a2b7514	30 FPS estalvia bateria i manté frescos els telèfons antics.
+0babcee	V-SYNC
+6656e25	CAMP DE VISIÓ
+244aadb	MOSTRA ELS FPS
+41c8f6e	VOLUM GENERAL
+bf3af1f	MÚSICA
+bd80907	EFECTES DE SO
+d098036	VEUS DEL PERSONAL
+93c6484	El murmuri del personal mentre parla.
+16bf71a	SILENCIA EN SEGON PLA
+85b2ee7	Silencia el casino mentre ets en una altra finestra.
+8e3634e	SENSIBILITAT DE LA MIRADA
+880dc05	Com de ràpid gira la vista quan arrossegues.
+750c60f	Com de ràpid gira la vista quan arrossegues amb el ratolí.
+8b988eb	INVERTEIX MIRADA ESQUERRA / DRETA
+cacf0cc	INVERTEIX MIRADA AMUNT / AVALL
+2d13b68	DISPOSICIÓ DELS BOTONS
+50c3f10	AUTO
+b471e5c	INTERCANVIA MENÚ / VISTA
+d9a59f1	SENSIBILITAT DEL JOYSTICK
+ec14343	Com de ràpid gira la vista el joystick dret.
+a79af23	INVERTEIX JOYSTICK ESQUERRA / DRETA
+acfc66e	INVERTEIX JOYSTICK AMUNT / AVALL
+56bb461	AJUDES DEL COMANDAMENT
+51cf49a	Mostra què fa cada botó mentre jugues amb comandament.
+dff7431	VIBRA A
+34139ab	TELÈFON
+15ee988	TOTS DOS
+465cc91	Auto: el comandament si n'hi ha un de connectat, si no, el telèfon.
+f6fed84	VIBRACIÓ DEL TELÈFON
+8e97fa7	INTENSITAT AL TELÈFON
+486ba2d	VIBRACIÓ DEL COMANDAMENT
+8008889	INTENSITAT AL COMANDAMENT
+ea9233e	AUTOMÀTIC ({0})
+167dda7	{0} obre la Configuració, {1} obre el Diari.
+29a4ef9	No hi ha cap comandament connectat.
+558ecd2	Connectat: {0}. Es mostren els botons {1} (la A de la dreta confirma).
+d6eee9e	Connectat: {0}. Es mostren els botons {1}.
+78525d5	EL BAR
+099db9f	SORT
+b4a8b06	Les fitxes, la sort i el menjar són objectes virtuals només per a entreteniment: sense valor monetari, no bescanviables per diners ni premis.
+e2a28c9	Cada carta té aquesta probabilitat de sortir al teu favor, en apostes de blackjack de fins a {0} fitxes (les apostes més grans són estàndard i no gasten mans). Comença després de la sort del principiant; els paquets més forts s'usen primer.
+04fbc6d	Permet l'accés a la ubicació per obtenir el preu del teu país
+2ae87fc	Les compres no estan disponibles en aquesta versió del joc.
+8239a84	BOTIGA DE PROVA (sense diners reals)
+173d916	energia
+b2c67eb	+{0}% FITXES
+58e8011	{0} mans
+ce80712	en guanya aproximadament el {0}%
+c69e8ee	LUCKY ACE 7s
+fc99288	APOSTA TOTAL
+c1c00cd	TAULA DE PAGAMENTS
+3930abd	BONA SORT!
+67b6973	Necessites almenys 10 fitxes per girar.
+5aa1edb	AGAFA FITXES
+f5a1812	Aposta reduïda al que pots cobrir.
+5c63f61	MEGA PREMI!
+652544f	GRAN PREMI!
+91bc41c	RETORNAT {0}
+3714283	SENSE PREMI
+33c0faa	LÍNIA {0}: {1} × {2} = {3}
+9f59e6e	{0} ESTRELLES = {1}
+d6eee90	Cirera
+4459b79	Llimona
+09fb6aa	Taronja
+cb92e50	Pruna
+d419866	Campana
+e496fd2	Bar
+63abb56	Set
+b3850e0	Diamant
+fc2b5a9	As
+85a7de6	Estrella
+c31b035	Les ESTRELLES paguen a qualsevol lloc: 5 = {0}× l'aposta, 4 = {1}× l'aposta, 3 = {2}× l'aposta.
+f97509c	L'AS és comodí: substitueix qualsevol símbol excepte l'estrella.
+3e8bc69	Els premis de línia són múltiples de l'aposta per línia (aposta total ÷ 10), d'esquerra a dreta des del primer rodet.
+523f8dc	RETORN: {0}% a llarg termini. Cada tirada és independent i aleatòria.
+e0c705d	Camina
+b8db515	Mira
+503d46d	Botons
+c7f73bb	Configuració
+728298d	Diari
+ab166bd	Ajusta
+76cdb95	Mou
+8598222	Tria
+bbfa773	Tanca
+b52b36b	Enrere
+ab37588	ESGOTAT
+9b11a09	SORT DEL PRINCIPIANT {0}%
+0c94e98	QUEDEN {0} MANS
+51ed273	RATXA DE SORT {0}%
+3401470	{0} MANS  •  APOSTES FINS A {1}
+f481cc6	NIVELL
+0139615	BENVINGUTS
+daad514	PARLA AMB L'AMFITRIONA
+bcefb10	Indicacions i consells
+c28e782	FITXES  •  BONIFICACIONS
+0c69ec4	COMPRA FITXES
+78c0727	Caixa
+1737fab	CÒCTELS  •  APERITIUS  •  ENERGIA
+9e008ae	MENJAR I BEGUDA
+f7881e8	El bar
+0e979ed	EL BLACKJACK PAGA 3 A 2
+eea0d12	EL CRUPIER S'HA DE PLANTAR EN 17
+4db37bf	JUGA AL BLACKJACK
+0ffdd99	Taula {0}  •  apostes de {1} a {2}
+b4f938b	JUGA A LES ESCURABUTXAQUES
+6b7caea	FACIN LES SEVES APOSTES
+26b1e39	JUGA A LA RULETA
+910a1ed	Roda europea  •  el ple paga 35 a 1
+7ef0215	DEMANA UNA BEGUDA
+fe38d73	Te la porta {0}
+f7b6306	La {0} s'obre al nivell {1}. Ets al nivell {2}: cada ronda que jugues compta.
+d85f1ad	Aquesta taula necessita almenys {0} fitxes.
+cbfe016	Les taules de blackjack són just al davant. Acosta't a una i seu!
+64d9faf	La caixa és aquí mateix a la teva dreta, i el bar és a la paret esquerra.
+e4c6e0b	Cansat? Un piscolabis al bar t'omple l'energia de seguida.
+d5ab68f	Toca on vulguis del terra i hi caminaràs. Toca una taula per seure.
+cc21f74	PETIT
+dc01dec	GRAN
+5fb90b0	QUALSEVOL TRIO
+9c716f1	Taula de hold'em
+3b6ab84	Juga 8 mans de hold'em
+6c617ca	Guanya 4 mans de hold'em
+44ce500	Juga 10 mans de bàccara
+b90cff7	Guanya 5 mans de bàccara
+3e4dfa9	Juga 15 mans de vídeo pòquer
+854fe20	Juga 8 rondes de sic bo
+dfddac1	Guanya 4 rondes de sic bo
+2973ea7	Tira els daus 15 vegades al craps
+737be17	Guanya 4 tirades al craps
+4dbb81d	Fes color o millor al vídeo pòquer
+19aa07b	Escala reial
+cf83e72	Escala de color
+d27ba03	Pòquer
+dbe8641	Full
+7c936d7	Color
+2501c65	Escala
+ca1a0d4	Trio
+6876b40	Doble parella
+2537f88	Parella
+b4b323e	Carta alta
+f70bfdc	Valets o millor
+98fd5af	BÀCCARA
+df66d5a	Et donem la benvinguda al bàccara! Jugador, Banca o Empat?
+5055efd	JUGADOR
+3f90696	EMPAT
+0d75f63	BANCA
+0ebd5a4	ÚLTIMS RESULTATS
+511993d	J
+ae4f281	B
+c2c53d6	E
+781246e	Tria una fitxa i toca Jugador, Banca o Empat
+11023a0	EMPAT  {0}
+503d5f1	GUANYA EL JUGADOR  {0} A {1}
+0eb4be5	GUANYA LA BANCA  {0} A {1}
+7859af1	CRAPS
+4083dbd	Et donem la benvinguda al craps! Aposta a la línia de passada i tira.
+d266326	SIS
+c506f3a	NOU
+987f4e9	CAMP
+71c1b2b	2 3 4 9 10 11 12  •  el 2 i el 12 paguen doble
+d0ac294	QUALSEVOL 7
+9b2f0c3	QUALSEVOL CRAPS
+f62ac59	NO PASSADA
+6080ade	1:1  •  el 12 empata
+c07247a	LÍNIA DE PASSADA
+6229f78	ODDS
+29bf819	pagament real
+387d7a5	ON
+229c9cc	Les odds van darrere la línia de passada quan hi ha punt.
+c2c8e82	Les odds necessiten una aposta a la línia de passada.
+1784d43	Les teves odds són al màxim.
+fdc3442	Les apostes de línia es fan a la tirada de sortida.
+97ce95b	A LA TAULA  {0}
+a895ec0	El punt és {0}: torna'l a treure abans d'un 7. Les odds darrere la teva línia paguen el real.
+d9f9d65	TIRAR
+bcf32ef	El punt és {0}.
+5b450b4	{0}! Punt fet. Guanyes!
+9746e08	Set fora. Nou tirador, nova sortida.
+4fc4664	{0}, natural! Guanya la línia de passada.
+203f466	{0}, craps. La línia perd.
+0f8e260	Espera que els daus s'aturin.
+6a98cfe	DEIXAR LA TAULA?
+8430088	La teva aposta de línia encara juga al punt {0}. Si te'n vas ara, la perds.
+0e138d1	HOLD'EM
+5e023be	Et donem la benvinguda al hold'em! Posa l'ante i vegem cartes.
+0cd62f5	ANTE
+5e9f331	CEGA
+3b935ab	LA CEGA PAGA
+20713a4	El crupier es qualifica amb parella o millor
+d37267c	PASSAR
+9a4e316	RETIRAR-SE
+88313c4	APOSTAR {0}×
+42c6fea	Ante {0} + cega {0}. Guarda {1} més per a la pujada.
+1abb2f2	Toca fitxes per fixar l'ante. La cega és igual.
+f541cec	Passes o apostes tres o quatre vegades l'ante?
+fc74a79	Puja ara 4× o 3× l'ante, o passa i mira el flop.
+b687501	Última oportunitat: aposta 1× l'ante o retira't i perd ante i cega.
+400009c	Aposta ara 2× l'ante, o passa i mira les dues últimes cartes.
+f4abdf9	Aquí tens el flop.
+0e51f2c	El turn i el river.
+cc856d3	Vegem què tinc.
+6ba1f3e	El crupier no es qualifica: l'ante et torna.
+cf1fdc5	T'has retirat. La pròxima mà és teva.
+177fab0	Ultimate Texas Hold'em
+c4917b9	Jugador, Banca o Empat
+6e4fe7b	VÍDEO PÒQUER
+73cabd3	Jacks or Better
+91c4555	SIC BO
+d810061	Tres daus  •  gran o petit
+85ab7ec	Línia de passada  •  Camp  •  Odds
+35d8db6	Et donem la benvinguda al sic bo! Gran, petit o alguna cosa més atrevida?
+3d05514	El límit de la taula és {0} per tirada.
+86ade94	REMENAR
+b69304e	TRIO DE {0}!
+5d1bcc6	RETINGUDA
+36a21ba	Reparteix, retén les cartes que vulguis i canvia un cop.
+99fa8e8	RETENIR
+249d1c0	PISTA
+7aab1bd	CANVIAR
+5595eb4	Toca les cartes per retenir-les i després canvia.
+1c05db9	JUGAR A HOLD'EM
+e353e5f	Ultimate Texas Hold'em  •  ante de {0} a {1}
+6470369	JUGAR A BÀCCARA
+bbe0077	GRAN  •  PETIT  •  TRIOS
+3ba448f	JUGAR A SIC BO
+097c59c	Tres daus  •  gran o petit paga 1 a 1
+af2ca30	LÍNIA DE PASSADA  •  CAMP  •  ODDS
+f18398e	JUGAR A CRAPS
+eeede6d	La línia de passada paga 1 a 1  •  les odds paguen el real
+34e5170	JUGAR A VÍDEO PÒQUER
+f71bdfb	Jacks or Better  •  taula completa 9/6
+4a6c087	JACKS OR BETTER  •  L'ESCALA REIAL PAGA 800×
+370a133	Les escurabutxaques són a la paret dreta, el vídeo pòquer a la del fons i la ruleta al fons de tot.
+8298d28	El hold'em és al racó del fons a l'esquerra, passat el bar.
+a2a111f	El bàccara és just a l'esquerra en entrar.
+b7193bc	El sic bo és al racó passada la caixa: tres daus, gran o petit.
+25320c8	La taula de craps és a la dreta, davant de les escurabutxaques. Aposta a la línia de passada i tira!
+dc81691	Sofia
+4d9936f	Elena
+3aa0674	Mia
+b724114	Valentina
+34d3f7f	Chloe
+0fc9dd6	Isabel
+bbd3e35	Nadia
+eac677d	Aria
+baaf10f	Luna
+8641381	Camila
+eeee9b7	Aurora
+8a59f05	Bianca
+5a0fc29	Serena
+bf38aa5	Marc
+cfaf50a	Leo
+5815f22	Adrià
+cbede02	Lucas
+f0b9995	Víctor
+7b37259	Daniel
+aaac72d	Gabriel
+2f8f37e	Ethan
+a01126e	Julià
+3e05c90	Rafael
+e1ae457	Mateu
+3398634	Nico
+7aa2d07	Enzo
+1920e2f	Tirada de sortida: aposta a la línia de passada i tira. 7 o 11 guanyen; 2, 3 o 12 perden. Les apostes de place comencen a comptar quan hi ha un punt.
+99f4934	LUCKY ACE 7s  •  PAGA FINS A 2.500× L'APOSTA PER LÍNIA

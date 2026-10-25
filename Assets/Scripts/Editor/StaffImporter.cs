@@ -16,6 +16,9 @@ namespace Casino.EditorTools
         public const string AnimRoot = "Assets/Characters/Animations/";
         public const string ControllerPath = "Assets/Resources/Staff/StaffAnimator.controller";
 
+        // Bump whenever these rules change, so Unity re-imports the staff with them (2: no mesh compression, sharper skin).
+        public override uint GetVersion() => 2;
+
         void OnPreprocessModel()
         {
             var mi = (ModelImporter)assetImporter;
@@ -28,7 +31,9 @@ namespace Casino.EditorTools
                 mi.importCameras = false;
                 mi.importLights = false;
                 mi.importVisibility = false;
-                mi.meshCompression = ModelImporterMeshCompression.High;
+                // No mesh compression: it quantises normals, which per-pixel lighting shows as blotches on the faces.
+                // (It only shrinks the download; the mesh is uncompressed in memory either way.)
+                mi.meshCompression = ModelImporterMeshCompression.Off;
                 mi.importTangents = ModelImporterTangents.None;
                 mi.materialImportMode = ModelImporterMaterialImportMode.ImportViaMaterialDescription;
                 mi.optimizeGameObjects = false;
@@ -68,14 +73,14 @@ namespace Casino.EditorTools
             bool skin = name.Contains("skin") || name.Contains("female_diffuse") || name.Contains("male_diffuse") || name.Contains("young_");
             bool cutout = name.Contains("hair") || name.Contains("long") || name.Contains("bob") || name.Contains("ponytail") || name.Contains("short")
                           || name.Contains("braid") || name.Contains("eyebrow") || name.Contains("eyelash");
-            ti.maxTextureSize = skin ? 1024 : 512;
+            ti.maxTextureSize = skin ? 2048 : 512;   // the face is a small part of the body's skin texture
             ti.mipmapEnabled = true;
             ti.alphaIsTransparency = cutout;
             ti.textureCompression = TextureImporterCompression.Compressed;
             var android = ti.GetPlatformTextureSettings("Android");
             android.overridden = true;
             android.maxTextureSize = ti.maxTextureSize;
-            android.format = cutout ? TextureImporterFormat.ASTC_6x6 : TextureImporterFormat.ASTC_8x8;
+            android.format = cutout || skin || name.Contains("eye") ? TextureImporterFormat.ASTC_6x6 : TextureImporterFormat.ASTC_8x8;
             ti.SetPlatformTextureSettings(android);
         }
 

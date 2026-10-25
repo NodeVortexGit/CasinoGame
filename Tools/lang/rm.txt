@@ -1,0 +1,659 @@
+# Romansh (rm). Machine translation by Claude.
+bd99124	Ina manada fischas
+c7c6dc8	In mantun fischas
+7512cfd	In tablet fischas
+fa36588	In rack fischas
+7994f65	IL PLI POPULAR
+49dcc21	Ina tresoraria fischas
+0725283	Tresor dal grond giugader
+7658705	MEGLIER PREZI
+2f23432	Aua minerala
+418b820	Espresso
+97b463c	Bavronda energetica
+43bbfda	Club sandwich
+bce7a75	Menu da burger
+2832a8d	Tschaina cun steak
+dee8ee8	EMPLENIR CUMPLETTAMAIN
+a7c2255	Seria da fortuna
+7919163	Seria chauda
+74fdfc2	IL PLI BLER FORTUNA
+d79cd12	Maisa da bronz
+2a8ff35	Maisa d'argient
+51877b2	Maisa d'aur
+9282152	Maisa da diamant
+0de8764	Endatescha in onn valid.
+d4e14c9	Endatescha in mais valid (1-12).
+addd156	Endatescha in di valid.
+d78a4f4	Questa data è en il futur.
+787c7c6	Bainvegni a mia maisa! Pront per giugar?
+8b0f93e	Bel da ta vesair. Sesa!
+8338021	Allegra! Las cartas èn frestgas, ed jau era.
+75750f9	Bainvegni! Fagin or da quai ina bella saira.
+95aac36	Fa tia scumessa cura che ti es pront.
+8bc63c1	Fischas sin maisa, e guardain las cartas.
+984b7f3	Per tge giugain nus?
+b74c769	Oh, ina gronda scumessa! Tes stil ma plascha.
+77fc1fc	Quai è ina scumessa. Andain!
+7779a5b	Curaschus questa saira, u betg?
+479ff82	Tut?! Mes cor batta!
+7fb527c	Tut sin in maun. Senza tema!
+7bf0c5d	Blackjack! Incredibel!
+123f2d5	Ventgin, uschia simplamain!
+cd850a7	Blackjack! Las cartas ta aman questa saira.
+55f50ee	Bain giugà!
+79594b1	Gudagnà! Bravo.
+0df710e	Ti es en furma!
+20a0c1e	Quella è tia.
+a45fe61	Tge gudogn! Tuts guardan questa maisa!
+54d3982	Enorm! Ti es en fieu questa saira!
+8da8f1e	Uschè datiers! La proxima è tia.
+5d921e1	Questa giada ha il casino gì fortuna.
+f923af7	Emblida quai, i vegn in nov maun.
+853e7ca	Ai, ina carta memia bler.
+daec44f	Surpassà! Quai capita era als megliers.
+11ceaef	Pari. Nagin na perda!
+911a289	Pari. Tias fischas èn segiras.
+a89d9d9	Jau hai surpassà! Ti has fortuna.
+f76c8fd	Memia bler per mai. Ti gudognas!
+63f8d0b	Blackjack per il casino, perstgisa!
+465c8bf	Blackjack dal croupier. Disfortuna.
+6752f40	Jau mussel in as. Assicuranza?
+1920c5a	Partin! Duas schanzas da gudagnar.
+9f621da	Dublar. Pass curaschus!
+59da99d	Dubla! I vegn ina carta.
+0b48017	Nov chalzer, jau maschaid!
+3fa7769	Paucas anc? La cassa ta emplenescha.
+4e5694b	Las fischas daventan paucas. Vuls ti dapli?
+d41f057	Naginas fischas pli! Va a la cassa u prenda fischas gratuitas.
+15d90d3	Tes mantun è vid. La cassa è directamain davos tai.
+a9eaae1	Ti paras stanchel! Mangia insatge al bar.
+5cd9e8b	Senza forza? Il bar sa fa quità da tai.
+37b9672	Prenda temp.
+c64df8c	Cura che ti es pront!
+b8dfc0a	La notg è anc giuvna.
+8748560	La fortuna dal principiant è da tia vart!
+e3def50	Las cartas èn da tia vart questa saira!
+506ade9	La fortuna dal principiant è passada. Da qua davent è il gieu gist!
+953d8b7	Bainvegni en il casino! Tes plaz spetga.
+9fd9844	Buna saira! Las maisas èn chaudas questa saira.
+2d42aaf	Bainvegni anavos! Ta sentas ti fortunà?
+311bae7	Tutga ina maisa per cumenzar a giugar!
+3318099	Dovras dapli fischas? Ti es vegnì a la dretga fanestrella.
+c5b3787	Pli gronds mantuns, pli gronds bonus!
+21ae665	Fom? Tscherna tge che ti vuls da la carta.
+8b83cc0	Insatge da mangiar mantegna tia energia!
+35f4b0e	Bainvegni a mia maisa!
+8f90245	Qua es ti! I para gia pli cler.
+909e4d6	Fa sco a chasa. Questa saira è tut per tai.
+2477f78	Jau am quel surrir. Saira da fortuna?
+6ac2120	Ta relaxescha, ti es en buns mauns qua.
+089f04b	Hei, ti! Jau aveva sperà che ti vegnias tar mia fanestrella.
+3f2c3c9	Adina bel da vesair ina fatscha amiaivla.
+3021db8	Guarda tgi ch'è qua! Has ti plaschair?
+769980b	Allegra, bel!
+5361ffd	Tes stil ma plascha questa saira.
+56b40be	Hei, bel da ta vesair puspè!
+3316019	Ina buna saira? Ti l'has meritada.
+28283fd	Attenziun, jau pudess cumenzar a tegnair cun tai.
+109ac94	Mes giugader preferì è turnà!
+acba0e6	Sesa tar mai, jau ta dun insatge bel.
+eb5ff2a	Cun tai è questa maisa bler pli divertenta.
+772a73c	Vas ti gia? La notg è anc giuvna!
+178301a	Dai, mo anc in maun. Jau hai in bun sentiment!
+816036a	Ti na pos betg ma bandunar ussa, nus avain gist cumenzà!
+5c9b7e2	Ultima schanza! Il proxim maun pudess esser il grond...
+20ce7b6	Bun, bun. Jau tegn tes plaz chaud. Empermettas da turnar?
+51d1aeb	Anc nagina seria? Gioga oz runds ({2}) e jau cumenz a quintar.
+10b25d9	Nov cumenzament! Runds ({2}) e tia flomma s'envida.
+0c10711	Jau hai ina pitschna glista da quels che vegnan mintga di. Ti n'es betg sin quella... anc betg.
+5e7c431	Il di {1} ta spetga. Anc runds: {2}!
+b268d84	Dis in suenter l'auter: {0}... ti na vegns betg a chalar ussa, u?
+b32ae79	Tia flomma para in pau fraida oz. Runds ({2}) la vegnan a stgaudar.
+a6f3fbd	Jau hai quintà: {0} dis. Fagin {1}.
+1dc5c97	Na crair betg che jau n'haja betg remartgà. Anc runds per tegnair tia seria: {2}!
+807b82c	Dis in suenter l'auter: {0}? Jau cumenz a crair ch'i ta plascha qua.
+6391923	Tia seria è segira per oz. Ussa ta vantas ti mo pli.
+3bfbbf7	Di {0}, fatg. Damaun a la medema ura?
+ca2a2c1	{0} dis! Jau duess reservar in plaz per tai.
+54f991f	Qua è el: l'emprim di da tia seria! Turna damaun e nus faschain dus.
+a1e7ab0	Ina entira emna senza interrupziun! Jau sun propi impressiunada.
+96cee95	Trenta dis! Ti lavuras praticamain qua.
+a9834cd	Tschient dis. Jau raquint a tuts da tai.
+071317f	Quai èn {0} dis in suenter l'auter! Guarda tai.
+0964027	Seria salvada: di {0}! Jau saveva che ti la fas.
+c7f2a1f	Di {0}! Jau scumet che ti na cuntanschas betg {1}.
+a6ce2e2	{0} dis... bun, ti vantader.
+3ab91d0	Gioga 10 mauns blackjack
+38e863d	Gudogna 5 mauns blackjack
+6ac41cc	Fa in blackjack
+74cf149	Gudogna 500 fischas al blackjack
+66440e1	Fa girar l'automat 20 giadas
+9205056	Gudogna 5 girs a l'automat
+cd60e0c	Gudogna 5× tia scumessa a l'automat
+6f7ac28	Gioga 5 runds roulette
+6978cc0	Gudogna 3 girs da roulette
+c8ebbcc	Tutga in numer en plain
+8a57c54	posiziun GPS
+4919635	rait mobila
+527b094	colliaziun d'internet
+f49ae82	parameters dal apparat
+60827d3	pajais da test
+0b2f8d8	betg verifitgà (prezi standard)
+50d8b4a	nunenconuschent
+4fb7a4e	1. 12
+647a0eb	2. 12
+a934745	3. 12
+3de80ab	2 per 1
+bb4e68e	COTSCHEN
+a9414ab	NAIR
+710756a	NUNPAR
+70ca748	PAR
+4d60d6c	PREZIS GISTS PER TES PAJAIS
+1674d95	Ils prezis en la butia èn adattads a l'economia da tes pajais, uschia che giugaders dapertut pajan in prezi gist.
+4ec27ee	Per chattar tes pajais controllain nus ina giada tia posiziun approximativa. Ella vegn attribuida sin tes apparat ad in pajais e mai tramessa insanua. Sche ti refusas, valan ils prezis standard.
+ff3dbb4	CUNTINUAR
+43a6a8d	Bandunar il casino?
+ad209a0	Tias fischas e tes progress èn memorisads.
+5860c84	TERMINAR
+f1e0808	RESTAR
+5b38c49	{0} deblocà
+15ae7ac	Ina congelaziun da seria ha salvà ier tia seria da {0} dis.
+d375ffb	Congelaziuns ({0}) han salvà tia seria da {1} dis.
+fd8ab39	Tia seria da {0} dis è finida. Gioga oz runds ({1}) per cumenzar ina nova!
+7fa2db4	MISSIUN ACCUMPLIDA
+255325c	+{0} fischas
+d205ece	TUTTAS MISSIUNS FATGAS!
+4acbed2	Bonus dal di +{0} fischas. Novas missiuns damaun.
+ab2ceb3	NIVEL {0}!
+86e2afb	Tappa! +{0} fischas
+9ae18ad	Turna damaun per cuntinuar
+7af7e7c	+1 congelaziun da seria
+b5b9597	SERIA DA {0} DIS!
+62ec60d	Cumpras n'èn betg disponiblas en questa versiun.
+1f9786c	La cumpra n'ha betg funcziunà. I n'è vegnì debità nagut.
+3e4c600	+{0} fischas agiuntadas!
+1998202	{0}: {1} mauns cun {2} % fortuna, suenter la fortuna dal principiant
+728ada5	{0}: {1} mauns cun {2} % fortuna!
+af5e232	{0}: +{1} % energia
+001a53b	Betg disponibel sin quest apparat
+2607004	Videos na chargian betg en questa rait
+569c30d	Turna damaun
+ecae6ee	Pront en {0} s
+9964820	+{0} fischas (oz anc {1})
+e1bd888	+{0} fischas gratuitas!
+619bd5d	+1 congelaziun da seria!
+f70d794	Actualmain nagin video disponibel. Emprova puspè en in mument.
+264d71b	BRONZ
+462e839	ARGIENT
+81ff70a	AUR
+50e122e	DIAMANT
+57f5f5e	Menu
+69bd4ef	Vista
+dbfe736	Crusch
+1cc7820	Rintg
+82810cb	Quadrat
+73d3ae2	Triangul
+a42f608	Controllar tia regiun...
+1db422c	Betg verifitgà ({0}): prezis standard
+9bc0807	{0} ({1}): prezis en {2}
+ae8c393	Promemorias
+aefd59b	Fischas gratuitas prontas e promemorias da seria
+3125838	Tias fischas gratuitas èn prontas
+233027b	{0} fischas ta spetgan tar Lucky Ace.
+b93976b	Tegna tia seria da {0} dis
+bd68038	Gioga oz runds ({0}) per ch'ella na vegnia betg resetada a mesanotg.
+0acfb6f	Bainvegni! La fortuna dal principiant è da tia vart questa saira. Fa ina scumessa!
+d589374	BLACKJACK PAJA 3 PER 2   •   IL CROUPIER STAT SIN TUTS 17   •   L'ASSICURANZA PAJA 2 PER 1
+b700b02	SCUMESSA
+16ec74f	STIZZAR
+928226b	ANCORA INA GIADA
+55591e0	DAR
+395ed46	CARTA
+43e7971	STAR
+097274c	DUBLAR
+6df63ca	PARTIR
+3e40f46	ASSICURAR
+db82d3a	NA, GRAZIA
+28d6be8	SCUMESSA {0}+
+9587b70	Maximum da la maisa cuntanschì
+b9ac47d	Betg avunda fischas
+d237ade	Il croupier mussa in as. Assicurar per {0}?
+bf07c14	L'assicuranza paja {0}
+b6e674a	Nagin blackjack dal croupier. Assicuranza persa.
+0cc9679	SURPASSÀ
+82ce89d	CROUPIER SURPASSÀ
+6e1e1a4	BLACKJACK!
+662fae5	GUDOGN
+8918d00	PARI
+8df6be4	PERDITA
+9e69668	La fortuna dal principiant è passada. Tia Seria da fortuna cumenza ussa.
+822f4f4	La fortuna dal principiant è passada. Da qua davent blackjack normal.
+b0377c7	Tia Seria da fortuna è passada. Enavos al blackjack normal.
+824ad7c	NAGINAS FISCHAS PLI
+ff1822d	Guarda in curt video per {0} fischas gratuitas, u va a la cassa.
+e4cac2f	Va a la cassa per emplenir tias fischas.
+c3df3e7	FISCHAS GRATUITAS
+b169d33	CASSA
+4d38f66	PLI TARD
+cb8171b	Termina emprim quest maun.
+3aa6941	«{0}»
+6f846f4	ANC IN MAUN
+a79d4f2	IR
+693f697	FORTUNA DAL PRINCIPIANT
+641ad58	SERIA DA FORTUNA
+fc45931	Bonus da bainvegni per novs giugaders: en tes emprims <b>{0} mauns</b> è il chalzer dal croupier preparà a tes favur, uschia che ti gudognas quasi mintga maun.
+576c683	Durant ils proxims <b>{0} mauns</b> svanescha l'avantatg plaun a plaun, e suenter è mintga maisa blackjack normal e gist d'in chalzer maschadà cun 6 gieus (blackjack paja 3 per 2, il croupier stat sin tuts 17).
+7fb55b3	Avantatg ussa: <b><color=#7CFC9A>{0} %</color></b>   Mauns restants: <b>{1}</b>
+d4f8fe0	Per tes proxims <b>{0} mauns blackjack</b> cun ina scumessa fin <b>{1} fischas</b> ha mintga carta ina schanza da <b>{2} %</b> da vegnir a tes favur (il medem avantatg sco la fortuna dal principiant).
+0a5fc06	Cun in bun gieu gudogna quai var <b>{0} %</b> dals mauns, cunter var {1} % en il blackjack normal. Pli grondas scumessas èn blackjack normal e na consuman nagins mauns. Cura ch'ils mauns èn consumads, è mintga maisa puspè blackjack normal e gist.
+c3a8946	CAPÌ
+8dfc44a	VULS TI TIA FORTUNA ENAVOS?
+272a97f	La fortuna dal principiant è passada: da qua davent è mintga maisa blackjack normal e gist. Ina Seria da fortuna porta enavos l'avantatg per in temp.
+06b7689	MINTGA DI
+4035996	SERIA DAL DI
+fbe7f18	DIS IN SUENTER L'AUTER
+7a46866	OZ
+4753707	GUARDAR RECLAMA
+6bb45f3	CUMPRAR
+62a945f	CONGELAZIUN DA SERIA
+ba5b1de	Ina congelaziun tegna tia seria en vita in di che ti na giogas betg. Ti pos avair fin {0}.\n\nCumprar ina per {1} fischas?
+38c6090	Congelaziun da seria pronta.
+8fe681f	Betg avunda fischas per ina congelaziun.
+1507c40	INTERRUMPER
+457d20f	GIR DAL DI
+9623247	GIRAR
+ac5ef96	Schanzas:
+1200f20	{0} %
+003a689	Ti has gudagnà {0} fischas!
+f757137	MISSIUNS DAD OZ
+7b7f9e2	Record: {0} dis
+9554fea	Gioga mintga di per construir ina seria
+5c8dbb8	La finamira dad oz è cuntanschida! A damaun.
+1aeb9a1	Oz: {0} / {1} runds (mintga gieu)
+bb92856	Congelaziuns da seria: {0} / {1}
+0ec6216	Salva tia seria in di che ti mancas. +1 mintga 7 dis.
+cc0a745	PLAIN
+419a962	NAGIN VIDEO
+2dabd99	RECLAMA PROXIMAMAIN
+f12e166	Bonus da seria: premis ×{0}
+80948a4	In gir gratuit mintga di
+596b5e0	PROXIM  {0}
+7f7e7fc	Tut fatg! Bonus retratg.
+03a0f2a	Novas missiuns a mesanotg.
+4784874	Accumplescha tuttas trais: +{0} fischas da bonus
+42c5cda	GIUGAR
+337211e	GIEUS
+8f5e3bd	Trair a sanestra per ir  •  Trair a dretga per guardar  •  Tutgar per ir là
+d00d221	Mo 18+  •  Las fischas èn per divertiment: nagina valur en daners, mai barattablas cunter daners u premis
+b60f038	Avrir las portas...
+2e5bcce	Bainvegni! Tias {0} fischas da bainvegni èn prontas. Las maisas èn directamain davant tai!
+7ef7ae3	+{0} fischas gratuitas! Dapli en {1} uras.
+5d82af9	Fischas gratuitas vegnan emplenidas mintga {0} uras. Las proximas en {1}.
+5469985	{0} h {1} min
+bb65beb	{0} min {1} s
+ac8ba93	TEGNA TIA SERIA
+560bfa1	Vuls ti ina promemoria las sairas che ti n'has anc betg giugà, e cura che tias fischas gratuitas èn prontas? Mai dapli che quai, e ti la pos deactivar en ils Parameters.
+b724a40	AM REGORDA
+9e0c898	+{0} fischas prontas!
+1207e28	Guarda in video: {0}
+db3655b	Proximas fischas gratuitas en {0}
+4ca9be5	BLACKJACK
+9a612b1	4 maisas  •  paja 3 per 2
+1194439	AUTOMATS
+6555152	Lucky Ace 7s  •  10 lingias
+255b1a1	ROULETTE
+6df1551	Europeica cun in sulet nulla
+379b146	TI ES STANCHEL
+340e5c4	Tia barra d'energia è vida. Prenda insatge al bar per cuntinuar a giugar, u turna pli tard: l'energia sa reprenda plaun cura che ti es davent.
+a517396	AL BAR
+7c7227f	TSCHERNA TIA MAISA
+c963de3	SCUMESSAS
+c433657	NIVEL {0}
+083ac39	SESER
+9698219	DOVRA {0}
+34b737e	Cuntanscha il nivel {0} per giugar qua. Ti es al nivel {1}.
+6cc19a9	CASINO
+6e946b7	DD
+4a3a892	MM
+2857a6a	OOOO
+9d1fece	DI
+d3bb0c3	MAIS
+c0f0cad	ONN
+43985ff	CURA ES TI NASCHÌ?
+293fda2	Las fischas èn mo per divertiment. Ellas n'han nagina valur en daners e na pon mai vegnir barattadas cunter daners u premis.
+3e9128d	PERSTGISA, TI NA POS BETG GIUGAR
+b5e8985	{0} è mo disponibel per creschids.
+bb1b380	SORTIR
+d9f9432	Sa serra en {0}...
+c6e102d	RAQUINTA DA TAI
+31120ce	Nus tschernin ospitantas, croupiers e persunal dal bar che s'adattan. Ti pos midar quai da tut temp en ils Parameters.
+49e8df9	JAU SUN IN UM
+85abe81	JAU SUN INA DUNNA
+76cc98c	JAU NA VI BETG DIR
+964daf7	ENTRAR EN IL CASINO
+2efb69a	Tes persunal questa saira:
+c10e749	Pagina {0} da {1}
+2a3ffd9	LINGUA
+c673535	AUTOMATIC
+d1245d2	PAJAIS
+15fc12b	Bainvegni! Faschai vossas scumessas, per plaschair.
+531fb3f	Betg avunda fischas per questa scumessa.
+380eb75	La limita da la maisa è {0} per gir.
+55ad592	REVOCAR
+8f191f9	SCUMESSA TOTALA  {0}
+82e1181	Tutga il champ per metter fischas
+bb19a75	Naginas scumessas pli!
+5becf07	VERD
+bc74f4f	verd
+7898801	cotschen
+466bc8c	nair
+f2edfbf	Tge tutgada! Gratulaziun!
+b252caf	Gudagnà! Ti gudognas {0}.
+8587d14	GUDOGN  +{0}
+b862a2b	{0} {1}. {2} turnan tar tai.
+a306d0a	RESTITUÌ  {0}
+af3134d	Questa giada nagin gudogn
+84122e7	Faschai vossas scumessas, per plaschair.
+52205f4	Spetga fin che la culla stat.
+c4b9243	PARAMETERS
+44d863e	GENERAL
+2bbca79	GRAFICA
+955c8b4	TUN
+c701f5f	TUTGAR
+efcc94a	MUSCH
+8433628	CONTROLLER
+d868a50	VIBRAZIUN
+f8692c7	18+ • Las fischas n'han nagina valur en daners • Scrittiras: Bebas Neue, Poppins, Noto (SIL OFL) • Cunfins: Natural Earth • Datas da prezis: Banca mundiala
+da46447	PERSUNAL DAL CASINO
+594b81e	DUNNAS
+69d3313	UMENS
+b4325d3	MASCHADÀ
+414594a	PROMEMORIAS
+6cac87b	Fischas gratuitas prontas, ed ina pitschna promemoria la saira avant che ina seria finiss.
+e43b2e0	CONTROLLAR PUSPÈ
+7c9e8f9	REGIUN DA PREZIS
+495c70e	Il pli svelt: il casino sco piturà, nagut ultra.
+b052523	Plantschiels pulids, lain ed aur reflecteschan la sala.
+6bd30d7	Look da film: colurs graduadas, granulaziun, glischur, radis da glisch, pel natirala.
+21b6e1d	Objectiv da cinema: la focusaziun suonda tes egl, strivlas sin las glischs, pulvra en ils radis.
+fb7c2e8	QUALITAD
+d8b9679	BASSA
+f68525a	MESAUNA
+d77d0b2	AUTA
+9289eee	ULTRA
+637e313	RESOLUZIUN
+2e7b141	Pli bass è pli lom, ma resta pli fraid e spargna battaria.
+93dcfb5	MODUS DA VISUALISAZIUN
+3c6eac3	PLAIN VISUR
+f3690b1	FANESTRA
+cfa6200	ANTI-ALIASING
+ad50489	DESTUDÀ
+f178804	Glischa ils urs dentads en il casino.
+4266288	RATA DA RETRATGS
+d031ab0	{0} FPS
+a2b7514	30 FPS spargna battaria e tegna fraids ils telefonins pli vegls.
+0babcee	V-SYNC
+6656e25	CHAMP DA VISTA
+244aadb	MUSSAR FPS
+41c8f6e	VOLUMEN PRINCIPAL
+bf3af1f	MUSICA
+bd80907	EFFECTS DA TUN
+d098036	VUSCHS DAL PERSUNAL
+93c6484	Il murmurar dal persunal durant ch'el discurra.
+16bf71a	MUT EN IL FUND
+85b2ee7	Fa quiet il casino durant che ti es en in'autra fanestra.
+8e3634e	SENSIBILITAD DA LA VISTA
+880dc05	Quant svelt che trair volva la vista.
+750c60f	Quant svelt che trair cun la musch volva la vista.
+8b988eb	INVERTIR VISTA SANESTRA / DRETGA
+cacf0cc	INVERTIR VISTA SI / GIU
+2d13b68	DISPOSIZIUN DALS BUTTUNS
+50c3f10	AUTO
+b471e5c	BARATTAR MENU / VISTA
+d9a59f1	SENSIBILITAD DAL STICK
+ec14343	Quant svelt ch'il stick dretg volva la vista.
+a79af23	INVERTIR STICK SANESTRA / DRETGA
+acfc66e	INVERTIR STICK SI / GIU
+56bb461	INDICAZIUNS DAL CONTROLLER
+51cf49a	Mussa tge che mintga buttun fa durant che ti giogas cun in controller.
+dff7431	VIBRAR SIN
+34139ab	TELEFONIN
+15ee988	TUTS DUS
+465cc91	Auto: il controller cura ch'el è colliià, uschiglio il telefonin.
+f6fed84	VIBRAZIUN DAL TELEFONIN
+8e97fa7	FERMEZZA DAL TELEFONIN
+486ba2d	VIBRAZIUN DAL CONTROLLER
+8008889	FERMEZZA DAL CONTROLLER
+ea9233e	AUTOMATIC ({0})
+167dda7	{0} avra ils Parameters, {1} avra Mintga di.
+29a4ef9	Nagin controller colliià.
+558ecd2	Colliià: {0}. Ins mussa buttuns {1} (A a dretga conferma).
+d6eee9e	Colliià: {0}. Ins mussa buttuns {1}.
+78525d5	IL BAR
+099db9f	FORTUNA
+b4a8b06	Fischas, fortuna e mangiar èn objects virtuals mo per divertiment: nagina valur en daners, betg barattabels cunter daners u premis.
+e2a28c9	Mintga carta ha questa schanza da vegnir a tes favur, tar scumessas da blackjack fin {0} fischas (pli grondas scumessas èn normalas e na consuman nagins mauns). Cumenza suenter la fortuna dal principiant; ils pachets pli ferms vegnan duvrads l'emprim.
+04fbc6d	Permetta l'access a la posiziun per survegnir il prezi da tes pajais
+2ae87fc	Cumpras n'èn betg disponiblas en questa versiun dal gieu.
+8239a84	BUTIA DA TEST (nagins daners vairs)
+173d916	energia
+b2c67eb	+{0} % FISCHAS
+58e8011	{0} mauns
+ce80712	gudogna var {0} % da quels
+c69e8ee	LUCKY ACE 7s
+fc99288	SCUMESSA TOTALA
+c1c00cd	TABELLA DA GUDOGNS
+3930abd	BUNA FORTUNA!
+67b6973	Ti dovras almain 10 fischas per girar.
+5aa1edb	PRENDER FISCHAS
+f5a1812	Scumessa reducida a quai che ti pos cuvrir.
+5c63f61	MEGA GUDOGN!
+652544f	GROND GUDOGN!
+91bc41c	RESTITUÌ {0}
+3714283	NAGIN GUDOGN
+33c0faa	LINGIA {0}: {1} × {2} = {3}
+9f59e6e	{0} STAILAS = {1}
+d6eee90	Tschirescha
+4459b79	Citrona
+09fb6aa	Oranscha
+cb92e50	Prigna
+d419866	Zenn
+e496fd2	Bar
+63abb56	Set
+b3850e0	Diamant
+fc2b5a9	As
+85a7de6	Staila
+c31b035	STAILAS pajan dapertut: 5 = {0}× scumessa, 4 = {1}× scumessa, 3 = {2}× scumessa.
+f97509c	L'AS è joker: el remplazza mintga simbol auter che la staila.
+3e8bc69	Gudogns da lingia èn multipels da la scumessa per lingia (scumessa totala ÷ 10), da sanestra a dretga a partir da l'emprima roda.
+523f8dc	RESTITUZIUN: {0} % a lunga vista. Mintga gir è independent e casual.
+e0c705d	Ir
+b8db515	Guardar
+503d46d	Buttuns
+c7f73bb	Parameters
+728298d	Mintga di
+ab166bd	Adattar
+76cdb95	Muventar
+8598222	Tscherner
+bbfa773	Serrar
+b52b36b	Enavos
+ab37588	STANCHEL
+9b11a09	FORTUNA DAL PRINCIPIANT {0} %
+0c94e98	ANC {0} MAUNS
+51ed273	SERIA DA FORTUNA {0} %
+3401470	{0} MAUNS  •  SCUMESSAS FIN {1}
+f481cc6	NIVEL
+0139615	BAINVEGNI
+daad514	DISCURRER CUN L'OSPITANTA
+bcefb10	Indicaziuns e cussegls
+c28e782	FISCHAS  •  BONUS
+0c69ec4	CUMPRAR FISCHAS
+78c0727	Cassa
+1737fab	COCKTAILS  •  SNACKS  •  ENERGIA
+9e008ae	MANGIAR E BAVER
+f7881e8	Il bar
+0e979ed	BLACKJACK PAJA 3 PER 2
+eea0d12	IL CROUPIER STO STAR SIN 17
+4db37bf	GIUGAR BLACKJACK
+0ffdd99	Maisa {0}  •  scumessas da {1} fin {2}
+b4f938b	GIUGAR A L'AUTOMAT
+6b7caea	FASCHAI VOSSAS SCUMESSAS
+26b1e39	GIUGAR ROULETTE
+910a1ed	Roda europeica  •  plain paja 35 per 1
+7ef0215	EMPUSTAR INA BAVRONDA
+fe38d73	{0} la porta
+f7b6306	{0} s'avra al nivel {1}. Ti es al nivel {2}: mintga rund che ti giogas dumbra.
+d85f1ad	Questa maisa dovra almain {0} fischas.
+cbfe016	Las maisas da blackjack èn directamain davant tai. Va tar ina e sesa!
+64d9faf	La cassa è qua a tia dretga, ed il bar è a la paraid sanestra.
+e4c6e0b	Stanchel? In snack al bar emplenescha tia energia immediatamain.
+d5ab68f	Tutga insanua sin il plantschiel e ti vas là. Tutga ina maisa per seser.
+cc21f74	PITSCHEN
+dc01dec	GROND
+5fb90b0	IN TRIPEL QUALSEVOGLIA
+9c716f1	Maisa da hold'em
+3b6ab84	Giogar 8 mauns hold'em
+6c617ca	Gudagnar 4 mauns hold'em
+44ce500	Giogar 10 mauns baccarat
+b90cff7	Gudagnar 5 mauns baccarat
+3e4dfa9	Giogar 15 mauns video poker
+854fe20	Giogar 8 rundas sic bo
+dfddac1	Gudagnar 4 rundas sic bo
+2973ea7	Bittar ils dadis 15 giadas al craps
+737be17	Gudagnar 4 bittadas al craps
+4dbb81d	Far in flush u meglier al video poker
+19aa07b	Royal flush
+cf83e72	Straight flush
+d27ba03	Quatter dal medem
+dbe8641	Full house
+7c936d7	Flush
+2501c65	Straight
+ca1a0d4	Trais dal medem
+6876b40	Dus pèrs
+2537f88	Pèr
+b4b323e	Carta auta
+f70bfdc	Puras u meglier
+98fd5af	BACCARAT
+df66d5a	Bainvegni al baccarat! Giugader, Bancher u Pari?
+5055efd	GIUGADER
+3f90696	PARI
+0d75f63	BANCHER
+0ebd5a4	ULTIMS RESULTATS
+511993d	G
+ae4f281	B
+c2c53d6	P
+781246e	Tscherna in jeton, lura tutga Giugader, Bancher u Pari
+11023a0	PARI  {0}
+503d5f1	IL GIUGADER GUDOGNA  {0} CUNTER {1}
+0eb4be5	IL BANCHER GUDOGNA  {0} CUNTER {1}
+7859af1	CRAPS
+4083dbd	Bainvegni al craps! Fa ina scumessa sin la Pass Line e bitta.
+d266326	SIS
+c506f3a	NOV
+987f4e9	FIELD
+71c1b2b	2 3 4 9 10 11 12  •  2 e 12 paja il dubel
+d0ac294	IN 7 QUALSEVOGLIA
+9b2f0c3	IN CRAPS QUALSEVOGLIA
+f62ac59	DON'T PASS BAR
+6080ade	1:1  •  12 è pari
+c07247a	PASS LINE
+6229f78	ODDS
+29bf819	quotas vairas
+387d7a5	EN
+229c9cc	Ils odds van davos la Pass Line, cur ch'i dat in punct.
+c2c8e82	Ils odds dovran ina scumessa sin la Pass Line.
+1784d43	Tes odds èn al maximum.
+fdc3442	Las scumessas da la lingia vegnan fatgas a l'emprima bittada.
+97ce95b	SIN LA MAISA  {0}
+a895ec0	Il punct è {0}: bitta'l anc ina giada avant in 7. Ils odds davos tia Pass Line pajan quotas vairas.
+d9f9d65	BITTAR
+bcf32ef	Il punct è {0}.
+5b450b4	{0}! Il punct è fatg. Gudogn!
+9746e08	Set ora. Nov bittader, nova emprima bittada.
+4fc4664	{0}, natural! La Pass Line gudogna.
+203f466	{0}, craps. La lingia perda.
+0f8e260	Spetga fin ch'ils dadis sa ferman.
+6a98cfe	BANDUNAR LA MAISA?
+8430088	Tia scumessa da la lingia gioga anc sin il punct {0}. Sche ti vas uss, la perdas.
+0e138d1	HOLD'EM
+5e023be	Bainvegni al hold'em! Metta l'ante e guardain las cartas.
+0cd62f5	ANTE
+5e9f331	BLIND
+3b935ab	IL BLIND PAJA
+20713a4	Il croupier sa qualifitgescha cun in pèr u meglier
+d37267c	CHECK
+9a4e316	FOLD
+88313c4	SCUMETTER {0}×
+42c6fea	Ante {0} + blind {0}. Tegna anc {1} per l'augment.
+1abb2f2	Tutga jetons per fixar l'ante. Il blind è il medem.
+f541cec	Check, u scumetter trais u quatter giadas l'ante?
+fc74a79	Augmenta uss per 4× u 3× l'ante, u fa check e guarda il flop.
+b687501	Ultima schanza: scumetta 1× l'ante u fa fold e perda ante e blind.
+400009c	Scumetta uss 2× l'ante, u fa check e guarda las ultimas duas cartas.
+f4abdf9	Qua è il flop.
+0e51f2c	Il turn ed il river.
+cc856d3	Guardain tge che jau hai.
+6ba1f3e	Il croupier na sa qualifitgescha betg: tes ante returna.
+cf1fdc5	Fold. Il proxim maun è tes.
+177fab0	Ultimate Texas Hold'em
+c4917b9	Giugader, Bancher u Pari
+6e4fe7b	VIDEO POKER
+73cabd3	Jacks or Better
+91c4555	SIC BO
+d810061	Trais dadis  •  grond u pitschen
+85ab7ec	Pass Line  •  Field  •  Odds
+35d8db6	Bainvegni al sic bo! Grond, pitschen u insatge pli curaschus?
+3d05514	Il limit da la maisa è {0} per bittada.
+86ade94	SCURLAR
+b69304e	TRIPEL {0}!
+5d1bcc6	TEGNIDA
+36a21ba	Dar las cartas, tegnair quellas che ti vul, midar ina giada.
+99fa8e8	TEGNAIR
+249d1c0	CUSSEGL
+7aab1bd	MIDAR
+5595eb4	Tutga las cartas per las tegnair, lura mida.
+1c05db9	GIOGAR HOLD'EM
+e353e5f	Ultimate Texas Hold'em  •  ante da {0} fin {1}
+6470369	GIOGAR BACCARAT
+bbe0077	GROND  •  PITSCHEN  •  TRIPELS
+3ba448f	GIOGAR SIC BO
+097c59c	Trais dadis  •  grond u pitschen paja 1 cunter 1
+af2ca30	PASS LINE  •  FIELD  •  ODDS
+f18398e	GIOGAR CRAPS
+eeede6d	La Pass Line paja 1 cunter 1  •  ils odds pajan quotas vairas
+34e5170	GIOGAR VIDEO POKER
+f71bdfb	Jacks or Better  •  tabella cumpleta 9/6
+4a6c087	JACKS OR BETTER  •  ROYAL FLUSH PAJA 800×
+370a133	Ils automats èn a la paraid dretga, il video poker a la paraid davos e la roulette dal tuttafatg davos.
+8298d28	Il hold'em è en il chantun davos a sanestra, suenter la bar.
+a2a111f	Il baccarat è dalunga a sanestra sch'ins entra.
+b7193bc	Il sic bo è en il chantun suenter la cassa: trais dadis, grond u pitschen.
+25320c8	La maisa da craps è a dretga, davant ils automats. Fa ina scumessa sin la Pass Line e bitta!
+dc81691	Sofia
+4d9936f	Elena
+3aa0674	Mia
+b724114	Valentina
+34d3f7f	Chloe
+0fc9dd6	Isabella
+bbd3e35	Nadia
+eac677d	Aria
+baaf10f	Luna
+8641381	Camila
+eeee9b7	Aurora
+8a59f05	Bianca
+5a0fc29	Serena
+bf38aa5	Marco
+cfaf50a	Leo
+5815f22	Adrian
+cbede02	Lucas
+f0b9995	Victor
+7b37259	Daniel
+aaac72d	Gabriel
+2f8f37e	Ethan
+a01126e	Julian
+3e05c90	Rafael
+e1ae457	Mateo
+3398634	Nico
+7aa2d07	Enzo
+1920e2f	Emprima bittada: fa ina scumessa sin la Pass Line e bitta. 7 u 11 gudognan; 2, 3 u 12 perdan. Las scumessas Place cumainzan a giugrar cur ch'i dat in punct.
+99f4934	LUCKY ACE 7s  •  PAJA FIN 2 500× TIA SCUMESSA PER LINGIA

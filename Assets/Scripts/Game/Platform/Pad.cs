@@ -150,8 +150,8 @@ namespace Casino.Platform
             {
                 case PadButton.Menu:
                 case PadButton.View:
-                    return IsStart(b) ? (f == PadFamily.PlayStation ? "Options" : f == PadFamily.Nintendo ? "+" : "Menu")
-                        : f == PadFamily.PlayStation ? "Create" : f == PadFamily.Nintendo ? "-" : "View";
+                    return IsStart(b) ? (f == PadFamily.PlayStation ? "Options" : f == PadFamily.Nintendo ? "+" : Loc.T("Menu"))
+                        : f == PadFamily.PlayStation ? "Create" : f == PadFamily.Nintendo ? "-" : Loc.T("View");
                 default: return FaceName(FaceOf(b), f);
             }
         }
@@ -160,7 +160,8 @@ namespace Casino.Platform
         {
             switch (f)
             {
-                case PadFamily.PlayStation: return face == Face.South ? "Cross" : face == Face.East ? "Circle" : face == Face.West ? "Square" : "Triangle";
+                case PadFamily.PlayStation:
+                    return face == Face.South ? Loc.T("Cross") : face == Face.East ? Loc.T("Circle") : face == Face.West ? Loc.T("Square") : Loc.T("Triangle");
                 case PadFamily.Nintendo: return face == Face.South ? "B" : face == Face.East ? "A" : face == Face.West ? "Y" : "X";
                 default: return face == Face.South ? "A" : face == Face.East ? "B" : face == Face.West ? "X" : "Y";
             }

@@ -61,21 +61,22 @@ namespace Casino.Core.Slots
             new[] { 1, 0, 1, 2, 1 },
         };
 
-        /// <summary>Line pays, in line bets, for 3, 4 and 5 in a row from the left reel.</summary>
+        /// <summary>
+        /// Line pays, in line bets, for 3, 4 and 5 in a row from the left reel. Nothing pays for two in a row: small pays
+        /// on half the spins felt like winning all the time while losing, so about 3 spins in 10 pay, and they pay more.
+        /// </summary>
         public static readonly int[][] Pays =
         {
-            new[] { 5, 15, 40 },      // Cherry (two in a row also pay 2)
-            new[] { 5, 15, 40 },      // Lemon
-            new[] { 8, 20, 60 },      // Orange
-            new[] { 8, 25, 75 },      // Plum
-            new[] { 12, 40, 120 },    // Bell
-            new[] { 20, 60, 200 },    // Bar
+            new[] { 8, 20, 50 },      // Cherry
+            new[] { 8, 20, 50 },      // Lemon
+            new[] { 10, 25, 75 },     // Orange
+            new[] { 10, 30, 90 },     // Plum
+            new[] { 15, 45, 150 },    // Bell
+            new[] { 22, 70, 220 },    // Bar
             new[] { 40, 120, 500 },   // Seven
             new[] { 60, 200, 1000 },  // Diamond
             new[] { 100, 500, 2500 }, // Wild (Ace)
         };
-
-        public const int CherryPair = 2;
 
         /// <summary>Scatter pays in total bets for 3, 4 and 5 stars anywhere.</summary>
         public static readonly int[] ScatterPays = { 2, 10, 50 };
@@ -151,7 +152,7 @@ namespace Casino.Core.Slots
             if (s == SlotSymbol.Scatter) return wildPay;
             int run = wilds;
             while (run < Reels && (seq[run] == s || seq[run] == SlotSymbol.Wild)) run++;
-            int pay = run >= 3 ? Pays[(int)s][run - 3] : (s == SlotSymbol.Cherry && run == 2 ? CherryPair : 0);
+            int pay = run >= 3 ? Pays[(int)s][run - 3] : 0;
             if (pay > wildPay)
             {
                 symbol = s;

@@ -1,0 +1,659 @@
+# Icelandic (is). Machine translation by Claude.
+bd99124	Lúka af spilapeningum
+c7c6dc8	Stafli af spilapeningum
+7512cfd	Bakki af spilapeningum
+fa36588	Rekki af spilapeningum
+7994f65	VINSÆLAST
+49dcc21	Hvelfing af spilapeningum
+0725283	Peningaskápur stórspilarans
+7658705	BESTA VERÐIÐ
+2f23432	Sódavatn
+418b820	Espresso
+97b463c	Orkudrykkur
+43bbfda	Klúbbsamloka
+bce7a75	Hamborgaramáltíð
+2832a8d	Steikarkvöldverður
+dee8ee8	FULL ÁFYLLING
+a7c2255	Heppnisröð
+7919163	Heit röð
+74fdfc2	MEST HEPPNI
+d79cd12	Bronsborð
+2a8ff35	Silfurborð
+51877b2	Gullborð
+9282152	Demantsborð
+0de8764	Sláðu inn gilt ár.
+d4e14c9	Sláðu inn gildan mánuð (1-12).
+addd156	Sláðu inn gildan dag.
+d78a4f4	Þessi dagsetning er í framtíðinni.
+8b0f93e	Gaman að sjá þig. Fáðu þér sæti!
+8338021	Hæ! Spilin eru fersk, og ég líka.
+8bc63c1	Spilapeningana á borðið, og sjáum spilin.
+984b7f3	Um hvað spilum við?
+b74c769	Vá, stórt veðmál! Mér líkar stíllinn þinn.
+77fc1fc	Þetta kalla ég veðmál. Áfram!
+479ff82	Allt undir?! Hjartað hamast!
+7fb527c	Allt á eina hönd. Óttalaust!
+7bf0c5d	Blackjack! Ótrúlegt!
+123f2d5	Tuttugu og einn, bara si svona!
+cd850a7	Blackjack! Spilin elska þig í kvöld.
+55f50ee	Vel spilað!
+79594b1	Sigur! Vel gert.
+0df710e	Þér gengur vel!
+20a0c1e	Þessi er þín.
+a45fe61	Þvílíkur vinningur! Allir horfa á þetta borð!
+8da8f1e	Svo nálægt! Sú næsta er þín.
+5d921e1	Húsið var heppið í þetta sinn.
+f923af7	Hristu það af þér, ný hönd á leiðinni.
+853e7ca	Æ, einu spili of mikið.
+daec44f	Yfir! Það kemur fyrir þá bestu.
+11ceaef	Jafntefli. Enginn tapar!
+911a289	Jafnt. Spilapeningarnir þínir eru öruggir.
+f76c8fd	Of mikið fyrir mig. Þú vinnur!
+63f8d0b	Blackjack fyrir húsið, því miður!
+465c8bf	Gjafarinn fékk blackjack. Óheppni.
+6752f40	Ég sýni ás. Trygging?
+1920c5a	Skiptum! Tvö tækifæri til að vinna.
+59da99d	Tvöfaldaðu! Eitt spil á leiðinni.
+4e5694b	Spilapeningunum fækkar. Viltu fleiri?
+d41f057	Spilapeningarnir búnir! Farðu til gjaldkerans eða náðu í ókeypis spilapeninga.
+15d90d3	Staflinn þinn er tómur. Gjaldkerinn er beint fyrir aftan þig.
+a9eaae1	Þú lítur út fyrir að vera úrvinda! Fáðu þér bita á barnum.
+5cd9e8b	Orkan búin? Barinn sér um þig.
+37b9672	Taktu þér tíma.
+b8dfc0a	Nóttin er ung.
+8748560	Byrjendaheppnin er með þér!
+e3def50	Stokkurinn er með þér í kvöld!
+506ade9	Byrjendaheppninni er lokið. Héðan í frá er leikurinn sanngjarn!
+9fd9844	Gott kvöld! Borðin eru heit í kvöld.
+311bae7	Ýttu á borð til að byrja að spila!
+3318099	Vantar þig fleiri spilapeninga? Þú ert við rétta lúguna.
+c5b3787	Stærri staflar, stærri bónusar!
+8b83cc0	Smá biti heldur orkunni uppi!
+8f90245	Þarna ertu! Staðurinn er strax bjartari.
+909e4d6	Láttu eins og heima hjá þér. Kvöldið snýst um þig.
+2477f78	Ég elska þetta bros. Heppniskvöld?
+6ac2120	Slakaðu á, þú ert í góðum höndum hér.
+089f04b	Hæ þú! Ég vonaði að þú kæmir við hjá lúgunni minni.
+3f2c3c9	Alltaf gaman að sjá vingjarnlegt andlit.
+3021db8	Sjáðu hver er hér! Ertu að skemmta þér?
+5361ffd	Mér líkar stíllinn þinn í kvöld.
+56b40be	Hæ, gaman að sjá þig aftur!
+3316019	Gott kvöld hjá þér? Þú átt það skilið.
+28283fd	Varlega, ég gæti farið að halda með þér.
+acba0e6	Sestu hjá mér, ég gef þér eitthvað fallegt.
+eb5ff2a	Þú gerir þetta borð miklu skemmtilegra.
+772a73c	Ertu strax að fara? Nóttin er ung!
+178301a	Æ, komdu, bara ein hönd í viðbót. Ég hef góða tilfinningu!
+816036a	Þú getur ekki yfirgefið mig núna, við erum rétt að byrja!
+5c9b7e2	Síðasti séns! Næsta hönd gæti orðið sú stóra...
+20ce7b6	Allt í lagi, allt í lagi. Ég held sætinu þínu heitu. Lofarðu að koma aftur?
+51d1aeb	Engin röð enn? Spilaðu umferðir ({2}) í dag og ég byrja að telja.
+10b25d9	Ný byrjun! Umferðir ({2}) og loginn þinn kviknar.
+0c10711	Ég held smá lista yfir þá sem mæta á hverjum degi. Þú ert ekki á honum... enn.
+5e7c431	Dagur {1} bíður þín. Umferðir eftir: {2}!
+b268d84	Dagar í röð: {0}... þú ætlar ekki að hætta núna, er það?
+b32ae79	Loginn þinn virðist dálítið kaldur í dag. Umferðirnar ({2}) hlýja honum.
+1dc5c97	Ekki halda að ég hafi ekki tekið eftir því. Umferðir eftir til að halda röðinni: {2}!
+6391923	Röðin þín er örugg í dag. Nú ertu bara að monta þig.
+3bfbbf7	Dagur {0}, búinn. Sama tíma á morgun?
+96cee95	Þrjátíu dagar! Þú vinnur nánast hérna.
+a9834cd	Hundrað dagar. Ég segi öllum frá þér.
+38e863d	Vinndu 5 hendur í blackjack
+6ac41cc	Fáðu blackjack
+74cf149	Vinndu 500 spilapeninga í blackjack
+66440e1	Snúðu spilakössunum 20 sinnum
+9205056	Vinndu 5 snúninga í spilakössunum
+cd60e0c	Vinndu 5× veðmálið í spilakössunum
+6978cc0	Vinndu 3 rúllettusnúninga
+8a57c54	GPS-staðsetning
+4919635	farsímanet
+527b094	nettenging
+f49ae82	stillingar tækis
+60827d3	prófunarland
+0b2f8d8	ekki staðfest (staðalverð)
+50d8b4a	óþekkt
+4fb7a4e	1. 12
+647a0eb	2. 12
+a934745	3. 12
+3de80ab	2 á móti 1
+bb4e68e	RAUTT
+a9414ab	SVART
+4d60d6c	SANNGJÖRN VERÐ FYRIR LANDIÐ ÞITT
+1674d95	Verð í versluninni eru aðlöguð að efnahag landsins þíns, svo leikmenn alls staðar borgi sanngjarnt verð.
+4ec27ee	Til að finna landið þitt athugum við staðsetningu þína í grófum dráttum einu sinni. Hún er pöruð við land í tækinu þínu og hvergi send. Ef þú hafnar gilda staðalverð.
+ff3dbb4	HALDA ÁFRAM
+43a6a8d	Yfirgefa spilavítið?
+ad209a0	Spilapeningarnir þínir og framvinda eru vistuð.
+5860c84	HÆTTA
+f1e0808	VERA ÁFRAM
+5b38c49	Opnað: {0}
+7fa2db4	VERKEFNI LOKIÐ
+255325c	+{0} spilapeningar
+d205ece	ÖLLUM VERKEFNUM LOKIÐ!
+4acbed2	Daglegur bónus +{0} spilapeningar. Ný verkefni á morgun.
+ab2ceb3	STIG {0}!
+86e2afb	Áfangi! +{0} spilapeningar
+9ae18ad	Komdu aftur á morgun til að halda áfram
+7af7e7c	+1 raðarfrysting
+b5b9597	{0} DAGA RÖÐ!
+62ec60d	Kaup eru ekki í boði í þessari útgáfu.
+3e4c600	+{0} spilapeningum bætt við!
+1998202	{0}: {1} hendur með {2}% heppni, eftir byrjendaheppni
+728ada5	{0}: {1} hendur með {2}% heppni!
+af5e232	{0}: +{1}% orka
+001a53b	Ekki í boði í þessu tæki
+2607004	Myndbönd hlaðast ekki á þessu neti
+569c30d	Komdu aftur á morgun
+ecae6ee	Tilbúið eftir {0} s
+9964820	+{0} spilapeningar ({1} eftir í dag)
+e1bd888	+{0} ókeypis spilapeningar!
+619bd5d	+1 raðarfrysting!
+f70d794	Ekkert myndband í boði núna. Reyndu aftur eftir smá stund.
+264d71b	BRONS
+462e839	SILFUR
+81ff70a	GULL
+50e122e	DEMANTUR
+57f5f5e	Valmynd
+69bd4ef	Sýn
+a42f608	Athuga svæðið þitt...
+1db422c	Ekki staðfest ({0}): staðalverð
+9bc0807	{0} ({1}): verð í {2}
+ae8c393	Áminningar
+aefd59b	Ókeypis spilapeningar tilbúnir og áminningar um röð
+3125838	Ókeypis spilapeningarnir þínir eru tilbúnir
+233027b	{0} spilapeningar bíða þín hjá Lucky Ace.
+bd68038	Spilaðu umferðir ({0}) í dag svo hún núllstillist ekki á miðnætti.
+d589374	BLACKJACK GREIÐIR 3 Á MÓTI 2   •   GJAFARINN STENDUR Á ÖLLUM 17   •   TRYGGING GREIÐIR 2 Á MÓTI 1
+b700b02	VEÐMÁL
+16ec74f	HREINSA
+55591e0	GEFA
+43e7971	STANDA
+097274c	TVÖFALDA
+6df63ca	SKIPTA
+3e40f46	TRYGGJA
+db82d3a	NEI TAKK
+28d6be8	VEÐMÁL {0}+
+9587b70	Hámarki borðsins náð
+b9ac47d	Ekki nógu margir spilapeningar
+d237ade	Gjafarinn sýnir ás. Tryggja fyrir {0}?
+bf07c14	Tryggingin greiðir {0}
+b6e674a	Gjafarinn er ekki með blackjack. Tryggingin tapaðist.
+0cc9679	YFIR
+82ce89d	GJAFARINN YFIR
+6e1e1a4	BLACKJACK!
+662fae5	SIGUR
+8918d00	JAFNT
+8df6be4	TAP
+9e69668	Byrjendaheppninni er lokið. Heppnisröðin þín byrjar núna.
+822f4f4	Byrjendaheppninni er lokið. Héðan í frá er það venjulegt blackjack.
+b0377c7	Heppnisröðinni þinni er lokið. Aftur í venjulegt blackjack.
+824ad7c	SPILAPENINGAR BÚNIR
+ff1822d	Horfðu á stutt myndband fyrir {0} ókeypis spilapeninga, eða farðu til gjaldkerans.
+e4cac2f	Farðu til gjaldkerans til að fylla á spilapeningana.
+c3df3e7	ÓKEYPIS SPILAPENINGAR
+b169d33	GJALDKERI
+4d38f66	SÍÐAR
+cb8171b	Kláraðu þessa hönd fyrst.
+3aa6941	„{0}“
+6f846f4	EIN HÖND ENN
+a79d4f2	FARA
+693f697	BYRJENDAHEPPNI
+641ad58	HEPPNISRÖÐ
+7fb55b3	Forskot núna: <b><color=#7CFC9A>{0}%</color></b>   Hendur eftir: <b>{1}</b>
+d4f8fe0	Í næstu <b>{0} blackjack-höndum</b> með veðmáli allt að <b>{1} spilapeningum</b> hefur hvert spil <b>{2}%</b> líkur á að koma þér í hag (sama forskot og byrjendaheppnin).
+c3a8946	SKIL ÞAÐ
+8dfc44a	VILTU FÁ HEPPNINA AFTUR?
+272a97f	Byrjendaheppninni er lokið: héðan í frá er hvert borð venjulegt, sanngjarnt blackjack. Heppnisröð færir forskotið aftur um tíma.
+06b7689	DAGLEGT
+4035996	DAGLEG RÖÐ
+fbe7f18	DAGAR Í RÖÐ
+7a46866	Í DAG
+4753707	HORFA Á AUGLÝSINGU
+6bb45f3	KAUPA
+62a945f	RAÐARFRYSTING
+ba5b1de	Raðarfrysting heldur röðinni þinni lifandi á degi sem þú spilar ekki. Þú getur átt allt að {0}.\n\nKaupa eina fyrir {1} spilapeninga?
+38c6090	Raðarfrysting tilbúin.
+8fe681f	Ekki nógu margir spilapeningar fyrir frystingu.
+1507c40	HÆTTA VIÐ
+457d20f	DAGLEGUR SNÚNINGUR
+9623247	SNÚA
+ac5ef96	Líkur:
+1200f20	{0}%
+003a689	Þú vannst {0} spilapeninga!
+f757137	VERKEFNI DAGSINS
+9554fea	Spilaðu á hverjum degi til að byggja upp röð
+5c8dbb8	Markmiði dagsins náð! Sjáumst á morgun.
+1aeb9a1	Í dag: {0} / {1} umferðir (hvaða leikur sem er)
+bb92856	Raðarfrystingar: {0} / {1}
+0ec6216	Bjargaðu röðinni á degi sem þú missir af. +1 á 7 daga fresti.
+cc0a745	FULLT
+419a962	EKKERT MYNDBAND
+2dabd99	AUGLÝSING BRÁÐUM
+f12e166	Raðarbónus: vinningar ×{0}
+80948a4	Einn ókeypis snúningur á hverjum degi
+596b5e0	NÆSTI  {0}
+7f7e7fc	Allt búið! Bónus sóttur.
+03a0f2a	Ný verkefni á miðnætti.
+4784874	Kláraðu öll þrjú: +{0} bónusspilapeningar
+42c5cda	SPILA
+337211e	LEIKIR
+d00d221	Aðeins 18+  •  Spilapeningar eru til skemmtunar: ekkert peningavirði, aldrei hægt að skipta fyrir peninga eða vinninga
+b60f038	Opna dyrnar...
+7ef7ae3	+{0} ókeypis spilapeningar! Fleiri eftir {1} klst.
+5d82af9	Ókeypis spilapeningar fyllast á {0} klst. fresti. Næst eftir {1}.
+5469985	{0} klst. {1} mín.
+bb65beb	{0} mín. {1} s
+ac8ba93	HALTU RÖÐINNI
+560bfa1	Viltu áminningu á kvöldin sem þú hefur ekki spilað enn, og þegar ókeypis spilapeningarnir eru tilbúnir? Aldrei meira en það, og þú getur slökkt á því í Stillingum.
+9e0c898	+{0} spilapeningar tilbúnir!
+1207e28	Horfðu á myndband: {0}
+db3655b	Næstu ókeypis spilapeningar eftir {0}
+4ca9be5	BLACKJACK
+9a612b1	4 borð  •  greiðir 3 á móti 2
+1194439	SPILAKASSAR
+6555152	Lucky Ace 7s  •  10 línur
+255b1a1	RÚLLETTA
+6df1551	Evrópsk með einu núlli
+379b146	ÞÚ ERT ÚRVINDA
+340e5c4	Orkustikan þín er tóm. Fáðu þér eitthvað á barnum til að spila áfram, eða komdu aftur síðar: orkan endurnýjast hægt meðan þú ert í burtu.
+a517396	FARA Á BARINN
+7c7227f	VELDU BORÐ
+c963de3	VEÐMÁL
+c433657	STIG {0}
+083ac39	SETJAST
+9698219	ÞARF {0}
+34b737e	Náðu stigi {0} til að spila hér. Þú ert á stigi {1}.
+6cc19a9	SPILAVÍTI
+6e946b7	DD
+4a3a892	MM
+2857a6a	ÁÁÁÁ
+9d1fece	DAGUR
+d3bb0c3	MÁNUÐUR
+c0f0cad	ÁR
+43985ff	HVENÆR FÆDDISTU?
+293fda2	Spilapeningar eru eingöngu til skemmtunar. Þeir hafa ekkert peningavirði og aldrei er hægt að skipta þeim fyrir peninga eða vinninga.
+3e9128d	ÞVÍ MIÐUR, ÞÚ MÁTT EKKI SPILA
+b5e8985	{0} er aðeins í boði fyrir fullorðna.
+bb1b380	LOKA
+d9f9432	Lokast eftir {0}...
+c6e102d	SEGÐU OKKUR FRÁ ÞÉR
+31120ce	Við veljum gestgjafa, gjafara og barstarfsfólk í samræmi við það. Þú getur breytt þessu hvenær sem er í Stillingum.
+49e8df9	ÉG ER KARL
+85abe81	ÉG ER KONA
+76cc98c	VIL EKKI SEGJA
+964daf7	GANGA INN Í SPILAVÍTIÐ
+2efb69a	Starfsfólkið þitt í kvöld:
+c10e749	Síða {0} af {1}
+2a3ffd9	TUNGUMÁL
+c673535	SJÁLFVIRKT
+d1245d2	LAND
+531fb3f	Ekki nógu margir spilapeningar fyrir þetta veðmál.
+380eb75	Hámark borðsins er {0} á snúning.
+55ad592	AFTURKALLA
+8f191f9	HEILDARVEÐMÁL  {0}
+82e1181	Ýttu á borðið til að leggja spilapeninga
+bb19a75	Ekki fleiri veðmál!
+5becf07	GRÆNT
+bc74f4f	grænt
+7898801	rautt
+466bc8c	svart
+b252caf	Sigur! Þú vinnur {0}.
+8587d14	VINNINGUR  +{0}
+b862a2b	{0} {1}. {2} kemur aftur til þín.
+a306d0a	ENDURGREITT  {0}
+af3134d	Enginn vinningur í þetta sinn
+52205f4	Bíddu þar til kúlan stöðvast.
+c4b9243	STILLINGAR
+44d863e	ALMENNT
+2bbca79	GRAFÍK
+955c8b4	HLJÓÐ
+c701f5f	SNERTING
+efcc94a	MÚS
+8433628	FJARSTÝRING
+d868a50	TITRINGUR
+f8692c7	18+ • Spilapeningar hafa ekkert peningavirði • Leturgerðir: Bebas Neue, Poppins, Noto (SIL OFL) • Landamæri: Natural Earth • Verðgögn: Alþjóðabankinn
+da46447	STARFSFÓLK SPILAVÍTISINS
+594b81e	KONUR
+69d3313	KARLAR
+b4325d3	BLANDAÐ
+414594a	ÁMINNINGAR
+6cac87b	Ókeypis spilapeningar tilbúnir, og kvöldáminning áður en röð myndi enda.
+e43b2e0	ATHUGA AFTUR
+7c9e8f9	VERÐSVÆÐI
+495c70e	Hraðast: spilavítið eins og það er málað, ekkert aukalega.
+b052523	Gljáandi gólf, viður og gull endurspegla salinn.
+6bd30d7	Kvikmyndaáferð: litaleiðrétting, korn, ljómi, ljósgeislar, náttúruleg húð.
+21b6e1d	Kvikmyndalinsa: skerpan fylgir augnaráðinu, rákir á ljósum, ryk í geislum.
+fb7c2e8	GÆÐI
+d8b9679	LÁG
+f68525a	MIÐLUNGS
+d77d0b2	HÁ
+9289eee	ULTRA
+637e313	UPPLAUSN
+2e7b141	Lægri er mýkri en keyrir kaldari og sparar rafhlöðuna.
+93dcfb5	SKJÁHAMUR
+3c6eac3	FULLUR SKJÁR
+f3690b1	GLUGGI
+cfa6200	KANTJÖFNUN
+ad50489	AF
+f178804	Jafnar út tenntar brúnir í spilavítinu.
+4266288	RAMMATÍÐNI
+d031ab0	{0} FPS
+a2b7514	30 FPS sparar rafhlöðuna og heldur eldri símum köldum.
+0babcee	V-SYNC
+6656e25	SJÓNSVIÐ
+244aadb	SÝNA FPS
+41c8f6e	AÐALHLJÓÐSTYRKUR
+bf3af1f	TÓNLIST
+bd80907	HLJÓÐBRELLUR
+d098036	RADDIR STARFSFÓLKS
+93c6484	Kliðurinn sem starfsfólkið gefur frá sér þegar það talar.
+16bf71a	ÞAGGA Í BAKGRUNNI
+85b2ee7	Þaggar spilavítið meðan þú ert í öðrum glugga.
+2d13b68	HNAPPAUPPSETNING
+50c3f10	SJÁLFV.
+b471e5c	VÍXLA VALMYND / SÝN
+d9a59f1	NÆMNI PINNA
+a79af23	SNÚA VIÐ PINNA VINSTRI / HÆGRI
+acfc66e	SNÚA VIÐ PINNA UPP / NIÐUR
+56bb461	ÁBENDINGAR FYRIR FJARSTÝRINGU
+51cf49a	Sýnir hvað hver hnappur gerir þegar þú spilar með fjarstýringu.
+dff7431	TITRA Á
+34139ab	SÍMI
+15ee988	BÆÐI
+465cc91	Sjálfv.: fjarstýringin þegar hún er tengd, annars síminn.
+f6fed84	TITRINGUR SÍMA
+8e97fa7	STYRKUR Í SÍMA
+486ba2d	TITRINGUR FJARSTÝRINGAR
+8008889	STYRKUR Í FJARSTÝRINGU
+ea9233e	SJÁLFVIRKT ({0})
+167dda7	{0} opnar Stillingar, {1} opnar Daglegt.
+29a4ef9	Engin fjarstýring tengd.
+558ecd2	Tengt: {0}. Sýni {1}-hnappa (A til hægri staðfestir).
+d6eee9e	Tengt: {0}. Sýni {1}-hnappa.
+78525d5	BARINN
+099db9f	HEPPNI
+b4a8b06	Spilapeningar, heppni og matur eru sýndarhlutir eingöngu til skemmtunar: ekkert peningavirði, ekki innleysanlegt fyrir peninga eða vinninga.
+e2a28c9	Hvert spil hefur þessar líkur á að koma þér í hag, í blackjack-veðmálum allt að {0} spilapeningum (stærri veðmál eru venjuleg og nota ekki hendur). Byrjar eftir byrjendaheppni; sterkari pakkar eru notaðir fyrst.
+04fbc6d	Leyfðu aðgang að staðsetningu til að fá verð landsins þíns
+2ae87fc	Kaup eru ekki í boði í þessari útgáfu leiksins.
+8239a84	PRÓFUNARVERSLUN (engir alvöru peningar)
+173d916	orka
+b2c67eb	+{0}% SPILAPENINGAR
+58e8011	{0} hendur
+ce80712	vinnur um {0}% þeirra
+c69e8ee	LUCKY ACE 7s
+fc99288	HEILDARVEÐMÁL
+c1c00cd	VINNINGATAFLA
+3930abd	GANGI ÞÉR VEL!
+67b6973	Þú þarft að minnsta kosti 10 spilapeninga til að snúa.
+5aa1edb	NÁ Í SPILAPENINGA
+f5a1812	Veðmálið lækkað í það sem þú getur greitt.
+5c63f61	RISAVINNINGUR!
+652544f	STÓR VINNINGUR!
+91bc41c	ENDURGREITT {0}
+3714283	ENGINN VINNINGUR
+33c0faa	LÍNA {0}: {1} × {2} = {3}
+9f59e6e	{0} STJÖRNUR = {1}
+d6eee90	Kirsuber
+4459b79	Sítróna
+09fb6aa	Appelsína
+cb92e50	Plóma
+d419866	Bjalla
+e496fd2	Bar
+63abb56	Sjö
+b3850e0	Demantur
+fc2b5a9	Ás
+85a7de6	Stjarna
+c31b035	STJÖRNUR greiða hvar sem er: 5 = {0}× veðmál, 4 = {1}× veðmál, 3 = {2}× veðmál.
+f97509c	ÁSINN er villtur: hann kemur í stað allra tákna nema stjörnunnar.
+3e8bc69	Línuvinningar eru margfeldi af línuveðmálinu (heildarveðmál ÷ 10), frá vinstri til hægri frá fyrsta hjólinu.
+523f8dc	ENDURGREIÐSLA: {0}% til lengri tíma. Hver snúningur er óháður og handahófskenndur.
+e0c705d	Ganga
+b8db515	Líta
+503d46d	Hnappar
+c7f73bb	Stillingar
+728298d	Daglegt
+ab166bd	Stilla
+76cdb95	Hreyfa
+8598222	Velja
+bbfa773	Loka
+b52b36b	Til baka
+ab37588	ÚRVINDA
+9b11a09	BYRJENDAHEPPNI {0}%
+0c94e98	{0} HENDUR EFTIR
+51ed273	HEPPNISRÖÐ {0}%
+3401470	{0} HENDUR  •  VEÐMÁL ALLT AÐ {1}
+f481cc6	STIG
+0139615	VELKOMIN
+daad514	TALAÐU VIÐ GESTGJAFANN
+bcefb10	Leiðbeiningar og ráð
+c28e782	SPILAPENINGAR  •  BÓNUSAR
+0c69ec4	KAUPA SPILAPENINGA
+78c0727	Gjaldkeri
+1737fab	KOKTEILAR  •  SNARL  •  ORKA
+9e008ae	MATUR OG DRYKKIR
+f7881e8	Barinn
+0e979ed	BLACKJACK GREIÐIR 3 Á MÓTI 2
+eea0d12	GJAFARINN VERÐUR AÐ STANDA Á 17
+4db37bf	SPILA BLACKJACK
+0ffdd99	Borð {0}  •  veðmál {1} til {2}
+b4f938b	SPILA Á SPILAKÖSSUM
+6b7caea	LEGGIÐ UNDIR
+26b1e39	SPILA RÚLLETTU
+910a1ed	Evrópskt hjól  •  bein tala greiðir 35 á móti 1
+7ef0215	PANTA DRYKK
+fe38d73	{0} kemur með hann
+f7b6306	{0} opnast á stigi {1}. Þú ert á stigi {2}: hver umferð sem þú spilar telur.
+d85f1ad	Þetta borð krefst að minnsta kosti {0} spilapeninga.
+cbfe016	Blackjack-borðin eru beint áfram. Gakktu að einu og fáðu þér sæti!
+64d9faf	Gjaldkerinn er hér á hægri hönd og barinn meðfram vinstri veggnum.
+d5ab68f	Ýttu hvar sem er á gólfið og þú gengur þangað. Ýttu á borð til að setjast.
+cc21f74	LÍTIÐ
+dc01dec	STÓRT
+5fb90b0	HVAÐA ÞRENNA SEM ER
+9c716f1	Hold'em-borð
+3b6ab84	Spilaðu 8 hendur í hold'em
+6c617ca	Vinndu 4 hendur í hold'em
+44ce500	Spilaðu 10 hendur í baccarat
+b90cff7	Vinndu 5 hendur í baccarat
+3e4dfa9	Spilaðu 15 hendur í vídeópóker
+854fe20	Spilaðu 8 umferðir í sic bo
+dfddac1	Vinndu 4 umferðir í sic bo
+2973ea7	Kastaðu teningunum 15 sinnum í craps
+737be17	Vinndu 4 köst í craps
+4dbb81d	Fáðu lit eða betra í vídeópóker
+19aa07b	Konungleg litaröð
+cf83e72	Litaröð
+d27ba03	Ferna
+dbe8641	Fullt hús
+7c936d7	Litur
+2501c65	Röð
+ca1a0d4	Þrenna
+6876b40	Tvö pör
+2537f88	Par
+b4b323e	Hátt spil
+f70bfdc	Gosar eða betra
+98fd5af	BACCARAT
+5055efd	SPILARI
+3f90696	JAFNTEFLI
+0d75f63	BANKI
+0ebd5a4	SÍÐUSTU ÚRSLIT
+511993d	S
+ae4f281	B
+c2c53d6	J
+781246e	Veldu spilapening og ýttu á Spilari, Banki eða Jafntefli
+11023a0	JAFNTEFLI  {0}
+503d5f1	SPILARINN VINNUR  {0} GEGN {1}
+0eb4be5	BANKINN VINNUR  {0} GEGN {1}
+7859af1	CRAPS
+d266326	SEX
+c506f3a	NÍU
+987f4e9	FIELD
+71c1b2b	2 3 4 9 10 11 12  •  2 og 12 borga tvöfalt
+d0ac294	HVAÐA 7 SEM ER
+9b2f0c3	HVAÐA CRAPS SEM ER
+f62ac59	DON'T PASS BAR
+6080ade	1:1  •  12 er jafntefli
+c07247a	PASS LINE
+6229f78	ODDS
+29bf819	raunverulegar líkur
+387d7a5	Á
+229c9cc	Odds fara fyrir aftan Pass Line þegar punktur er kominn.
+c2c8e82	Odds þurfa veðmál á Pass Line.
+1784d43	Odds þín eru í hámarki.
+fdc3442	Línuveðmál eru lögð á upphafskastinu.
+97ce95b	Á BORÐINU  {0}
+a895ec0	Punkturinn er {0}: kastaðu honum aftur á undan 7. Odds fyrir aftan Pass Line borga raunverulegar líkur.
+d9f9d65	KASTA
+bcf32ef	Punkturinn er {0}.
+5b450b4	{0}! Punkturinn kom. Vinningur!
+9746e08	Sjö út. Nýr kastari, nýtt upphafskast.
+4fc4664	{0}, natural! Pass Line vinnur.
+203f466	{0}, craps. Línan tapar.
+0f8e260	Bíddu þar til teningarnir stöðvast.
+6a98cfe	YFIRGEFA BORÐIÐ?
+8430088	Línuveðmálið þitt er enn í gangi á punktinum {0}. Ef þú ferð núna tapast það.
+0e138d1	HOLD'EM
+0cd62f5	ANTE
+5e9f331	BLIND
+3b935ab	BLIND BORGAR
+d37267c	TÉKKA
+9a4e316	PAKKA
+88313c4	VEÐJA {0}×
+42c6fea	Ante {0} + blind {0}. Geymdu {1} í viðbót fyrir hækkunina.
+1abb2f2	Ýttu á spilapeninga til að velja ante. Blind er jafnhátt.
+f541cec	Tékka, eða veðja þrisvar eða fjórum sinnum ante?
+fc74a79	Hækkaðu núna um 4× eða 3× ante, eða tékkaðu og sjáðu flopið.
+b687501	Síðasti séns: veðjaðu 1× ante eða pakkaðu og tapaðu ante og blind.
+400009c	Veðjaðu 2× ante núna, eða tékkaðu og sjáðu síðustu tvö spilin.
+f4abdf9	Hér er flopið.
+0e51f2c	Turn og river.
+cc856d3	Sjáum hvað ég er með.
+cf1fdc5	Þú pakkaðir. Næsta hönd er þín.
+177fab0	Ultimate Texas Hold'em
+c4917b9	Spilari, Banki eða Jafntefli
+6e4fe7b	VÍDEÓPÓKER
+73cabd3	Jacks or Better
+91c4555	SIC BO
+d810061	Þrír teningar  •  stórt eða lítið
+85ab7ec	Pass Line  •  Field  •  Odds
+3d05514	Borðhámarkið er {0} á hvert kast.
+86ade94	HRISTA
+b69304e	ÞRENNA {0}!
+5d1bcc6	HALDIÐ
+36a21ba	Gefðu, haltu spilunum sem þú vilt og skiptu einu sinni.
+99fa8e8	HALDA
+249d1c0	ÁBENDING
+7aab1bd	SKIPTA
+5595eb4	Ýttu á spilin til að halda þeim og skiptu svo.
+1c05db9	SPILA HOLD'EM
+e353e5f	Ultimate Texas Hold'em  •  ante {0} til {1}
+6470369	SPILA BACCARAT
+bbe0077	STÓRT  •  LÍTIÐ  •  ÞRENNUR
+3ba448f	SPILA SIC BO
+097c59c	Þrír teningar  •  stórt eða lítið borgar 1 á móti 1
+af2ca30	PASS LINE  •  FIELD  •  ODDS
+f18398e	SPILA CRAPS
+eeede6d	Pass Line borgar 1 á móti 1  •  odds borga raunverulegar líkur
+34e5170	SPILA VÍDEÓPÓKER
+f71bdfb	Jacks or Better  •  full 9/6-tafla
+4a6c087	JACKS OR BETTER  •  KONUNGLEG LITARÖÐ BORGAR 800×
+370a133	Spilakassarnir eru við hægri vegginn, vídeópóker við bakvegginn og rúllettan innst.
+8298d28	Hold'em er í horninu innst til vinstri, fyrir handan barinn.
+a2a111f	Baccarat er strax til vinstri þegar þú kemur inn.
+b7193bc	Sic bo er í horninu handan gjaldkerans: þrír teningar, stórt eða lítið.
+25320c8	Craps-borðið er til hægri, fyrir framan spilakassana. Veðjaðu á Pass Line og kastaðu!
+dc81691	Sofia
+4d9936f	Elena
+3aa0674	Mia
+b724114	Valentina
+34d3f7f	Chloe
+0fc9dd6	Ísabella
+bbd3e35	Nadia
+eac677d	Aria
+baaf10f	Luna
+8641381	Kamila
+eeee9b7	Aurora
+8a59f05	Bianca
+5a0fc29	Serena
+bf38aa5	Marco
+cfaf50a	Leó
+5815f22	Adrían
+cbede02	Lúkas
+f0b9995	Viktor
+7b37259	Daníel
+aaac72d	Gabríel
+2f8f37e	Ethan
+a01126e	Júlían
+3e05c90	Rafael
+e1ae457	Mateo
+3398634	Nico
+7aa2d07	Enzo
+787c7c6	Gaman að fá þig að borðinu mínu! Ertu til í að spila?
+75750f9	Gaman að sjá þig! Gerum þetta að góðu kvöldi.
+95aac36	Leggðu undir þegar þér hentar.
+7779a5b	Mikill kjarkur í kvöld, ha?
+54d3982	Gríðarlegt! Þú ert á fullu skriði í kvöld!
+a89d9d9	Ég fór yfir! Heppnin er með þér.
+c64df8c	Þegar þér hentar!
+953d8b7	Gaman að sjá þig í spilavítinu! Sætið þitt bíður.
+2d42aaf	Gaman að sjá þig aftur! Finnurðu fyrir heppni?
+21ae665	Finnurðu fyrir hungri? Veldu hvað sem er af matseðlinum.
+35f4b0e	Gaman að fá þig að borðinu mínu!
+1f9786c	Kaupin mistókust. Ekkert var rukkað.
+0acfb6f	Gaman að sjá þig! Byrjendaheppnin er með þér í kvöld. Leggðu undir!
+e4c6e0b	Orkan á þrotum? Snarl á barnum fyllir hana strax.
+710756a	ODDATALA
+70ca748	SLÉTT TALA
+9f621da	Tvöföldun. Djarfur leikur!
+0b48017	Ný spil, ég stokka upp!
+3fa7769	Er farið að ganga á spilapeningana? Gjaldkerinn fyllir á.
+769980b	Hæ, glæsilega manneskja!
+109ac94	Uppáhaldsspilarinn minn lætur sjá sig aftur!
+54f991f	Þarna er það: fyrsti dagur raðarinnar! Komdu aftur á morgun og þá verða dagarnir tveir.
+a1e7ab0	Heil vika í röð! Ég dáist virkilega að þessu.
+807b82c	Dagar í röð: {0}? Mig er farið að gruna að þér líki vel hér.
+a6f3fbd	Ég hef verið að telja: dagar í röð eru {0}. Stefnum á dag {1}.
+ca2a2c1	Dagar í röð: {0}! Ég ætti að taka frá sæti fyrir þig.
+071317f	Dagar í röð: {0}! Sjáðu þig.
+0964027	Röðin er björguð: dagur {0}! Ég vissi að þú myndir ná því.
+c7f2a1f	Dagur {0}! Ég veðja að þú náir ekki degi {1}.
+a6ce2e2	Dagar í röð: {0}... allt í lagi, nú ertu bara að monta þig.
+3ab91d0	Spilaðu 10 hendur í blackjack
+6f7ac28	Spilaðu 5 umferðir í rúllettu
+c8ebbcc	Hittu á tölu með beinu veðmáli
+dbfe736	Cross
+1cc7820	Circle
+82810cb	Square
+73d3ae2	Triangle
+15ae7ac	Raðarfrysting bjargaði {0} daga röðinni þinni í gær.
+d375ffb	Raðarfrystingar ({0}) björguðu {1} daga röðinni þinni.
+fd8ab39	{0} daga röðinni þinni lauk. Spilaðu umferðir ({1}) í dag til að byrja nýja!
+b93976b	Haltu {0} daga röðinni þinni
+7b7f9e2	Met (dagar): {0}
+df66d5a	Gaman að fá þig í baccarat! Spilari, Banki eða Jafntefli?
+4083dbd	Gaman að fá þig í craps! Veðjaðu á Pass Line og kastaðu.
+5e023be	Gaman að fá þig í hold'em! Settu ante og skoðum spilin.
+15fc12b	Gaman að fá þig! Leggðu undir, takk.
+35d8db6	Gaman að fá þig í sic bo! Stórt, lítið eða eitthvað djarfara?
+84122e7	Leggðu undir, takk.
+928226b	ENDURTAKA
+395ed46	TAKA SPIL
+fc45931	Móttökubónus fyrir nýja leikmenn: í fyrstu <b>{0} höndunum</b> er spilunum raðað þér í hag, svo þú vinnur nánast hverja hönd.
+576c683	Næstu <b>{0} hendur</b> dofnar forskotið smám saman, og eftir það er hvert borð venjulegt, sanngjarnt blackjack úr 6 stokkuðum spilastokkum (blackjack greiðir 3 á móti 2, gjafarinn stendur á öllum 17).
+0a5fc06	Með góðum leik vinnur þú um <b>{0}%</b> handa, á móti um {1}% í venjulegu blackjack. Stærri veðmál eru venjulegt blackjack og nota ekki hendur. Þegar hendurnar klárast er hvert borð aftur venjulegt, sanngjarnt blackjack.
+2e5bcce	Gaman að sjá þig! Móttökugjöfin þín, {0} spilapeningar, er tilbúin. Borðin eru beint áfram!
+20713a4	Gjafarinn uppfyllir skilyrði með pari eða betra
+6ba1f3e	Gjafarinn uppfyllir ekki skilyrði: ante kemur til baka.
+8f5e3bd	Dragðu vinstra megin til að ganga  •  Dragðu hægra megin til að líta í kringum þig  •  Ýttu til að fara
+b724a40	MINNTU MIG
+f2edfbf	Beint í mark! Til hamingju!
+8e3634e	NÆMNI SJÓNARHORNS
+8b988eb	SNÚA VIÐ SJÓNARHORNI VINSTRI / HÆGRI
+cacf0cc	SNÚA VIÐ SJÓNARHORNI UPP / NIÐUR
+880dc05	Hversu hratt dráttur snýr sjónarhorninu.
+750c60f	Hversu hratt dráttur með músinni snýr sjónarhorninu.
+ec14343	Hversu hratt hægri pinninn snýr sjónarhorninu.
+1920e2f	Upphafskast: veðjaðu á Pass Line og kastaðu. 7 eða 11 vinna; 2, 3 eða 12 tapa. Place-veðmál fara að gilda þegar punktur er kominn.
+99f4934	LUCKY ACE 7s  •  GREIÐIR ALLT AÐ 2.500× LÍNUVEÐMÁLIÐ ÞITT

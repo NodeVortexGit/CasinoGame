@@ -1,0 +1,1004 @@
+PICCOLO
+GRANDE
+DISPARI
+PARI
+TRIS QUALSIASI
+Manciata di fiches
+Pila di fiches
+Vassoio di fiches
+Rack di fiches
+PIÙ POPOLARE
+Caveau di fiches
+Cassaforte VIP
+MIGLIOR VALORE
+Acqua frizzante
+Espresso
+Energy drink
+Club sandwich
+Menu hamburger
+Cena con bistecca
+RICARICA COMPLETA
+Serie fortunata
+Serie bollente
+PIÙ FORTUNA
+Tavolo Bronzo
+Tavolo Argento
+Tavolo Oro
+Tavolo Diamante
+Tavolo di hold'em
+Inserisci un anno valido.
+Inserisci un mese valido (1-12).
+Inserisci un giorno valido.
+Quella data è nel futuro.
+Ti do il benvenuto al mio tavolo! Giochiamo?
+Che bello vederti. Accomodati!
+Ciao! Le carte sono fresche, e anch'io.
+Ti diamo il benvenuto! Rendiamo speciale questa serata.
+Punta quando vuoi.
+Fiches sul tavolo, e vediamo le carte.
+Per cosa giochiamo?
+Oh, una puntata alta! Mi piace il tuo stile.
+Questa sì che è una puntata! Andiamo!
+Ti senti audace stasera, eh?
+Tutto?! Mi batte forte il cuore!
+Tutto su una mano. Senza paura!
+Blackjack! Incredibile!
+Ventuno, così!
+Blackjack! Le carte ti adorano stasera.
+Ben giocato!
+Vincitore! Bravo.
+Sei in serie positiva!
+Questa è tua.
+Che vincita! Tutti guardano questo tavolo!
+Enorme! Stasera sei in fiamme!
+Per un pelo! La prossima è tua.
+Stavolta il banco è stato fortunato.
+Niente paura, arriva una nuova mano.
+Ahi, una carta di troppo.
+Sballato! Succede anche ai migliori.
+Pareggio. Nessuno perde!
+Pareggio. Le tue fiches sono salve.
+Ho sballato! Che fortuna.
+Troppe per me. Hai vinto!
+Blackjack per il banco, mi dispiace!
+Blackjack del croupier. Sfortuna.
+Ho un asso scoperto. Assicurazione?
+Divisione! Due possibilità di vincere.
+Raddoppio. Mossa coraggiosa!
+Raddoppia! Arriva una carta.
+Sabot nuovo, mescolo!
+Fiches in esaurimento? La cassiera può ricaricarti.
+Le fiches calano. Ne vuoi altre?
+Fiches finite! Vai alla cassa o prendi fiches gratis.
+La tua pila è vuota. La cassa è proprio dietro di te.
+Sembri esausto! Mangia qualcosa al bar.
+Senza energie? Ci pensa il bar.
+Fai con calma.
+Quando vuoi!
+La notte è giovane.
+La fortuna del principiante è dalla tua parte!
+Il mazzo è a tuo favore stasera!
+La fortuna del principiante è finita. Da qui il gioco è equo!
+Ti diamo il benvenuto al casinò! Il tuo posto ti aspetta.
+Buonasera! I tavoli sono caldi stasera.
+Bentornato! Ti senti fortunato?
+Tocca un tavolo per iniziare a giocare!
+Ti servono fiches? Sei allo sportello giusto.
+Pile più alte, bonus più grandi!
+Fame? Scegli quello che vuoi dal menu.
+Uno spuntino tiene alta l'energia!
+Ti do il benvenuto al mio tavolo!
+Eccoti! Il locale è già più luminoso.
+Fai come a casa tua. Stasera è tutta per te.
+Adoro quel sorriso. Serata fortunata?
+Rilassati, sei in buone mani.
+Ehi, tu! Speravo passassi dal mio sportello.
+Fa sempre piacere vedere un volto amico.
+Guarda chi c'è! Ti stai divertendo?
+Ciao, bello!
+Mi piace il tuo stile stasera.
+Ehi, che bello rivederti!
+Bella serata? Te la meriti.
+Attento, potrei iniziare a fare il tifo per te.
+Il mio giocatore preferito è tornato!
+Siediti con me, ti darò qualcosa di bello.
+Con te questo tavolo è molto più divertente.
+Te ne vai già? La notte è giovane!
+Dai, solo un'altra mano. Ho un buon presentimento!
+Non puoi lasciarmi adesso, abbiamo appena cominciato!
+Ultima occasione! La prossima mano potrebbe essere quella buona...
+Va bene, va bene. Ti tengo il posto caldo. Prometti che torni?
+Ancora nessuna serie? Gioca {2} round oggi e comincio a contare.
+Si ricomincia! {2} round e la tua fiamma si accende.
+Tengo una piccola lista di chi viene ogni giorno. Tu non ci sei... per ora.
+Il giorno {1} ti aspetta. Mancano solo {2} round!
+{0} giorni di fila... non ti fermerai proprio ora, vero?
+La tua fiamma oggi è un po' fredda. {2} round la scalderanno.
+Sto contando: {0} giorni. Facciamoli diventare {1}.
+Non pensare che non me ne sia accorta. Mancano {2} round per mantenere la serie!
+{0} giorni di fila? Comincio a pensare che ti piaccia qui.
+La tua serie è salva per oggi. Ora stai solo facendo il fenomeno.
+Giorno {0}, fatto. Domani alla stessa ora?
+{0} giorni! A questo punto dovrei tenerti un posto.
+Eccolo: il primo giorno della tua serie! Torna domani e saranno due.
+Un'intera settimana di fila! Sono davvero colpita.
+Trenta giorni! Praticamente lavori qui.
+Cento giorni. Parlo di te a tutti.
+Sono {0} giorni di fila! Guardati.
+Serie salvata: giorno {0}! Sapevo che ce l'avresti fatta.
+Giorno {0}! Scommetto che non arrivi a {1}.
+{0} giorni... va bene, sbruffone.
+Gioca 10 mani di blackjack
+Vinci 5 mani di blackjack
+Fai un blackjack
+Vinci 500 fiches a blackjack
+Gira le slot 20 volte
+Vinci 5 giri alle slot
+Vinci 5× la puntata alle slot
+Gioca 5 round di roulette
+Vinci 3 giri di roulette
+Centra un numero pieno
+Gioca 8 mani di hold'em
+Vinci 4 mani di hold'em
+Gioca 10 mani di baccarat
+Vinci 5 mani di baccarat
+Gioca 15 mani di video poker
+Gioca 8 giri di sic bo
+Vinci 4 giri di sic bo
+Tira i dadi 15 volte a craps
+Vinci 4 lanci a craps
+Fai colore o meglio al video poker
+Scala reale
+Scala colore
+Poker
+Full
+Colore
+Scala
+Tris
+Doppia coppia
+Coppia
+Carta alta
+posizione GPS
+rete mobile
+connessione internet
+impostazioni del dispositivo
+paese di prova
+non verificato (prezzo standard)
+sconosciuto
+1ª dozzina
+2ª dozzina
+3ª dozzina
+2 a 1
+ROSSO
+NERO
+Jack o meglio
+PREZZI EQUI PER IL TUO PAESE
+I prezzi del negozio sono adattati all'economia del tuo paese, così i giocatori di tutto il mondo pagano un prezzo equo.
+Per sapere il tuo paese controlliamo una volta la tua posizione approssimativa. Viene associata a un paese sul tuo dispositivo e non viene mai inviata da nessuna parte. Se rifiuti, valgono i prezzi standard.
+CONTINUA
+Lasciare il casinò?
+Fiches e progressi sono salvati.
+ESCI
+RESTA
+{0} sbloccato
+Ieri un congelamento ha salvato la tua serie di {0} giorni.
+{0} congelamenti hanno salvato la tua serie di {1} giorni.
+La tua serie di {0} giorni è finita. Gioca {1} round oggi per iniziarne una nuova!
+MISSIONE COMPIUTA
++{0} fiches
+TUTTE LE MISSIONI COMPIUTE!
+Bonus giornaliero +{0} fiches. Nuove missioni domani.
+LIVELLO {0}!
+Traguardo! +{0} fiches
+Torna domani per continuare
++1 congelamento della serie
+SERIE DI {0} GIORNI!
+Gli acquisti non sono disponibili in questa versione.
+Acquisto non riuscito. Non ti è stato addebitato nulla.
++{0} fiches aggiunte!
+{0}: {1} mani con il {2}% di fortuna, dopo la Fortuna del principiante
+{0}: {1} mani con il {2}% di fortuna!
+{0}: +{1}% di energia
+Non disponibile su questo dispositivo
+I video non si caricano su questa rete
+Torna domani
+Pronto tra {0} s
++{0} fiches ({1} rimaste oggi)
++{0} fiches gratis!
++1 congelamento della serie!
+Nessun video disponibile ora. Riprova tra poco.
+BRONZO
+ARGENTO
+ORO
+DIAMANTE
+Menu
+Visualizza
+Croce
+Cerchio
+Quadrato
+Triangolo
+Controllo della tua regione...
+Non verificato ({0}): prezzi standard
+{0} ({1}): prezzi in {2}
+Promemoria
+Fiches gratis pronte e promemoria della serie
+Le tue fiches gratis sono pronte
+{0} fiches ti aspettano al Lucky Ace.
+Mantieni la tua serie di {0} giorni
+Gioca {0} round oggi così non si azzera a mezzanotte.
+BACCARAT
+Ti diamo il benvenuto al baccarat! Giocatore, Banco o Pareggio?
+GIOCATORE
+PAREGGIO
+BANCO
+ULTIMI RISULTATI
+G
+B
+P
+ANNULLA
+CANCELLA
+RIPUNTA
+DISTRIBUISCI
+Fiches insufficienti per quella puntata.
+Massimo del tavolo raggiunto
+PUNTATA TOTALE  {0}
+Scegli una fiche, poi tocca Giocatore, Banco o Pareggio
+PAREGGIO  {0}
+VINCE IL GIOCATORE  {0} A {1}
+VINCE IL BANCO  {0} A {1}
+VINCITA  +{0}
+RESTITUITO  {0}
+Nessuna vincita stavolta
+Prima finisci questa mano.
+Ti diamo il benvenuto! Stasera la fortuna del principiante è dalla tua parte. Punta!
+IL BLACKJACK PAGA 3 A 2   •   IL CROUPIER STA SU TUTTI I 17   •   L'ASSICURAZIONE PAGA 2 A 1
+PUNTATA
+CARTA
+STAI
+RADDOPPIA
+DIVIDI
+ASSICURA
+NO, GRAZIE
+PUNTATA {0}+
+Fiches insufficienti
+Il croupier mostra un asso. Assicurarti per {0}?
+L'assicurazione paga {0}
+Il croupier non ha blackjack. Assicurazione persa.
+SBALLATO
+IL CROUPIER SBALLA
+BLACKJACK!
+VINTO
+PAREGGIO
+PERSO
+La fortuna del principiante è finita. La tua Serie fortunata inizia ora.
+La fortuna del principiante è finita. Da ora è blackjack standard.
+La tua Serie fortunata è finita. Si torna al blackjack standard.
+FICHES FINITE
+Guarda un breve video per {0} fiches gratis, o vai alla cassa.
+Vai alla cassa per ricaricare le fiches.
+FICHES GRATIS
+CASSA
+PIÙ TARDI
+«{0}»
+UN'ALTRA MANO
+ESCI
+FORTUNA DEL PRINCIPIANTE
+SERIE FORTUNATA
+Bonus di benvenuto per i nuovi giocatori: per le tue prime <b>{0} mani</b> il sabot del croupier è ordinato a tuo favore, quindi vincerai quasi ogni mano.
+Nelle <b>{0} mani</b> successive il vantaggio svanisce e poi ogni tavolo è blackjack standard ed equo, da un sabot mescolato da 6 mazzi (il blackjack paga 3 a 2, il croupier sta su tutti i 17).
+Vantaggio ora: <b><color=#7CFC9A>{0}%</color></b>   Mani rimaste: <b>{1}</b>
+Per le tue prossime <b>{0} mani di blackjack</b> con una puntata fino a <b>{1} fiches</b>, ogni carta ha il <b>{2}%</b> di probabilità di uscire a tuo favore (lo stesso vantaggio della Fortuna del principiante).
+Giocando bene, così vinci circa il <b>{0}%</b> delle mani, contro circa il {1}% nel blackjack standard. Le puntate più alte sono blackjack standard e non consumano mani. Quando le mani finiscono, ogni tavolo torna blackjack standard ed equo.
+HO CAPITO
+VUOI DI NUOVO LA TUA FORTUNA?
+La Fortuna del principiante è finita: da qui ogni tavolo è blackjack standard ed equo. Una Serie fortunata riporta il vantaggio per un po'.
+CRAPS
+Ti diamo il benvenuto a craps! Punta sulla Pass Line e lancia.
+SEI
+NOVE
+FIELD
+2 3 4 9 10 11 12  •  il 2 e il 12 pagano doppio
+QUALSIASI 7
+QUALSIASI CRAPS
+DON'T PASS BAR
+1:1  •  il 12 è pari
+PASS LINE
+ODDS
+quota reale
+NO
+ON
+Le odds vanno dietro la Pass Line quando c'è un punto.
+Le odds richiedono una puntata sulla Pass Line.
+Le tue odds sono al massimo.
+Le puntate di linea si fanno al lancio d'apertura.
+SUL TAVOLO  {0}
+Lancio d'apertura: punta sulla Pass Line, poi lancia. 7 o 11 vincono, 2, 3 o 12 perdono. Le puntate Place valgono da quando c'è un punto.
+Il punto è {0}: rifallo prima di un 7. Le odds dietro la tua Pass Line pagano la quota reale.
+LANCIA
+Il punto è {0}.
+{0}! Punto fatto. Vinci!
+Sette fuori. Nuovo tiratore, nuova apertura.
+{0}, un naturale! Vince la Pass Line.
+{0}, craps. La linea perde.
+Aspetta che i dadi si fermino.
+LASCIARE IL TAVOLO?
+La tua puntata di linea è ancora in gioco sul punto {0}. Se te ne vai ora, la perdi.
+GIORNALIERO
+SERIE GIORNALIERA
+GIORNI DI FILA
+OGGI
+GUARDA PUBBLICITÀ
+COMPRA
+CONGELAMENTO SERIE
+Un congelamento mantiene viva la serie in un giorno in cui non giochi. Puoi averne fino a {0}.\n\nComprarne uno per {1} fiches?
+Congelamento pronto.
+Fiches insufficienti per un congelamento.
+ANNULLA
+GIRO GIORNALIERO
+GIRA
+Probabilità:
+{0}%
+Hai vinto {0} fiches!
+MISSIONI DI OGGI
+Record: {0} giorni
+Gioca ogni giorno per costruire una serie
+Obiettivo di oggi raggiunto! A domani.
+Oggi: {0} / {1} round (qualsiasi gioco)
+Congelamenti: {0} / {1}
+Salva la serie in un giorno che salti. +1 ogni 7 giorni.
+PIENO
+NESSUN VIDEO
+PUBBLICITÀ A BREVE
+Bonus serie: premi ×{0}
+Un giro gratis ogni giorno
+PROSSIMO  {0}
+Tutto fatto! Bonus riscosso.
+Nuove missioni a mezzanotte.
+Completale tutte e tre: +{0} fiches bonus
+HOLD'EM
+Ti diamo il benvenuto all'hold'em! Metti l'ante e vediamo le carte.
+ANTE
+BUIO
+GIOCA
+IL BUIO PAGA
+Il croupier si qualifica con una coppia o meglio
+CHECK
+PASSA
+PUNTA {0}×
+Ante {0} + buio {0}. Tieni altri {1} per il rilancio.
+Tocca le fiche per scegliere l'ante. Il buio è uguale.
+Check o punti tre o quattro volte l'ante?
+Rilancia ora di 4× o 3× l'ante, o fai check e guarda il flop.
+Ultima occasione: punta 1× l'ante o passa e perdi ante e buio.
+Punta ora 2× l'ante, o fai check e guarda le ultime due carte.
+Ecco il flop.
+Il turn e il river.
+Vediamo cosa ho.
+Il croupier non si qualifica: l'ante ti torna indietro.
+Hai passato. La prossima mano è tua.
+GIOCHI
+Trascina a sinistra per camminare  •  Trascina a destra per guardare  •  Tocca per andare
+Solo 18+  •  Le fiches sono per divertimento: nessun valore in denaro, mai convertibili in soldi o premi
+Apriamo le porte...
+Ti diamo il benvenuto! Le tue {0} fiches di benvenuto sono pronte. I tavoli sono proprio davanti a te!
++{0} fiches gratis! Altre tra {1} ore.
+Le fiches gratis si ricaricano ogni {0} ore. Le prossime tra {1}.
+{0} h {1} min
+{0} min {1} s
+MANTIENI LA TUA SERIE
+Vuoi un promemoria le sere in cui non hai ancora giocato e quando le tue fiches gratis sono pronte? Mai di più, e puoi disattivarlo nelle Impostazioni.
+RICORDAMELO
++{0} fiches pronte!
+Guarda un video: {0}
+Prossime fiches gratis tra {0}
+BLACKJACK
+4 tavoli  •  paga 3 a 2
+Ultimate Texas Hold'em
+Giocatore, Banco o Pareggio
+SLOT
+Lucky Ace 7s  •  10 linee
+VIDEO POKER
+Jacks or Better
+SIC BO
+Tre dadi  •  grande o piccolo
+Pass Line  •  Field  •  Odds
+ROULETTE
+Europea a zero singolo
+SEI ESAUSTO
+La tua barra dell'energia è vuota. Prendi qualcosa al bar per continuare a giocare, o torna più tardi: l'energia si ricarica lentamente mentre sei via.
+VAI AL BAR
+SCEGLI IL TUO TAVOLO
+PUNTATE
+LIVELLO {0}
+SIEDITI
+SERVONO {0}
+Raggiungi il livello {0} per giocare qui. Sei al livello {1}.
+CASINÒ
+GG
+MM
+AAAA
+GIORNO
+MESE
+ANNO
+QUANDO SEI NATO?
+Le fiches servono solo per divertimento. Non hanno valore in denaro e non possono mai essere convertite in soldi o premi.
+SPIACENTI, NON PUOI GIOCARE
+{0} è riservato agli adulti.
+ESCI
+Chiusura tra {0}...
+PARLACI DI TE
+Sceglieremo di conseguenza i tuoi host, croupier e baristi. Puoi cambiarlo quando vuoi nelle Impostazioni.
+SONO UN UOMO
+SONO UNA DONNA
+PREFERISCO NON DIRLO
+ENTRA NEL CASINÒ
+Il tuo staff stasera:
+Pagina {0} di {1}
+LINGUA
+AUTOMATICA
+PAESE
+Benvenuti! Fate il vostro gioco, prego.
+Il limite del tavolo è {0} per giro.
+Tocca il tappeto per piazzare le fiches
+Rien ne va plus!
+VERDE
+verde
+rosso
+nero
+Che colpo! Complimenti!
+Vincitore! Vinci {0}.
+{0} {1}. {2} tornano a te.
+Fate il vostro gioco, prego.
+Aspetta che la pallina si fermi.
+IMPOSTAZIONI
+GENERALI
+GRAFICA
+AUDIO
+TOUCH
+MOUSE
+CONTROLLER
+VIBRAZIONE
+18+ • Le fiches non hanno valore in denaro • Caratteri: Bebas Neue, Poppins, Noto (SIL OFL) • Confini: Natural Earth • Dati sui prezzi: Banca Mondiale
+STAFF DEL CASINÒ
+DONNE
+UOMINI
+MISTO
+PROMEMORIA
+Fiches gratis pronte e un avviso serale prima che una serie finisca.
+RICONTROLLA
+REGIONE DEI PREZZI
+Il più veloce: il casinò come dipinto, niente di più.
+Pavimenti lucidi, legno e oro riflettono la sala.
+Effetto cinema: colori trattati, grana, bagliori, fasci di luce, pelle realistica.
+Obiettivo cinema: il fuoco segue lo sguardo, scie sulle luci, polvere nei fasci.
+QUALITÀ
+BASSA
+MEDIA
+ALTA
+ULTRA
+RISOLUZIONE
+Più bassa è più morbida, ma scalda meno e risparmia batteria.
+MODALITÀ SCHERMO
+SCHERMO INTERO
+FINESTRA
+ANTI-ALIASING
+Smussa i bordi seghettati nel casinò.
+FRAME RATE
+{0} FPS
+30 FPS risparmia batteria e tiene freschi i telefoni più vecchi.
+V-SYNC
+CAMPO VISIVO
+MOSTRA FPS
+VOLUME GENERALE
+MUSICA
+EFFETTI SONORI
+VOCI DELLO STAFF
+Il mormorio dello staff mentre parla.
+MUTO IN BACKGROUND
+Silenzia il casinò quando sei in un'altra finestra.
+SENSIBILITÀ VISUALE
+Quanto velocemente il trascinamento ruota la vista.
+Quanto velocemente il trascinamento col mouse ruota la vista.
+INVERTI VISTA SINISTRA / DESTRA
+INVERTI VISTA SU / GIÙ
+SCHEMA TASTI
+AUTO
+SCAMBIA MENU / VISUALIZZA
+SENSIBILITÀ LEVETTA
+Quanto velocemente la levetta destra ruota la vista.
+INVERTI LEVETTA SINISTRA / DESTRA
+INVERTI LEVETTA SU / GIÙ
+SUGGERIMENTI CONTROLLER
+Mostra cosa fa ogni tasto mentre giochi con il controller.
+VIBRA SU
+TELEFONO
+ENTRAMBI
+Auto: il controller quando è collegato, altrimenti il telefono.
+VIBRAZIONE TELEFONO
+INTENSITÀ TELEFONO
+VIBRAZIONE CONTROLLER
+INTENSITÀ CONTROLLER
+AUTOMATICA ({0})
+{0} apre le Impostazioni, {1} apre il Giornaliero.
+Nessun controller collegato.
+Collegato: {0}. Tasti {1} mostrati (A a destra conferma).
+Collegato: {0}. Tasti {1} mostrati.
+IL BAR
+FORTUNA
+Fiches, fortuna e cibo sono oggetti virtuali solo per divertimento: nessun valore in denaro, non convertibili in soldi o premi.
+Ogni carta ha quella probabilità di uscire a tuo favore, sulle puntate di blackjack fino a {0} fiches (le puntate più alte sono standard e non consumano mani). Inizia dopo la Fortuna del principiante; i pacchetti più forti si usano per primi.
+Consenti l'accesso alla posizione per avere il prezzo del tuo paese
+Gli acquisti non sono disponibili in questa versione del gioco.
+NEGOZIO DI PROVA (niente soldi veri)
+energia
++{0}% FICHES
+{0} mani
+ne vince circa il {0}%
+Ti diamo il benvenuto al sic bo! Grande, piccolo o qualcosa di più audace?
+Il limite del tavolo è {0} per lancio.
+AGITA
+TRIS DI {0}!
+LUCKY ACE 7s
+PUNTATA TOTALE
+TABELLA DEI PAGAMENTI
+BUONA FORTUNA!
+Ti servono almeno 10 fiches per girare.
+PRENDI FICHES
+Puntata ridotta a quanto puoi coprire.
+MEGA VINCITA!
+GRANDE VINCITA!
+RESTITUITO {0}
+NESSUNA VINCITA
+LINEA {0}: {1} × {2} = {3}
+{0} STELLE = {1}
+Ciliegia
+Limone
+Arancia
+Prugna
+Campana
+Bar
+Sette
+Diamante
+Asso
+Stella
+Le STELLE pagano ovunque: 5 = {0}× la puntata, 4 = {1}× la puntata, 3 = {2}× la puntata.
+L'ASSO è jolly: sostituisce ogni simbolo tranne la stella.
+Le vincite di linea sono multipli della puntata per linea (puntata totale ÷ 10), da sinistra a destra dal primo rullo.
+RITORNO: {0}% sul lungo periodo. Ogni giro è indipendente e casuale.
+TENUTA
+Dai le carte, tieni quelle che vuoi, cambia una volta.
+TIENI
+CONSIGLIO
+CAMBIA
+Tocca le carte da tenere, poi cambia.
+Cammina
+Guarda
+Tasti
+Impostazioni
+Giornaliero
+Regola
+Muovi
+Seleziona
+Chiudi
+Indietro
+ESAUSTO
+FORTUNA DEL PRINCIPIANTE {0}%
+{0} MANI RIMASTE
+SERIE FORTUNATA {0}%
+{0} MANI  •  PUNTATE FINO A {1}
+LIVELLO
+Sofia
+Elena
+Mia
+Valentina
+Chloe
+Isabella
+Nadia
+Aria
+Luna
+Camilla
+Aurora
+Bianca
+Serena
+Marco
+Leo
+Adriano
+Luca
+Viktor
+Daniele
+Gabriele
+Ethan
+Giuliano
+Raffaele
+Matteo
+Nico
+Enzo
+BENVENUTI
+PARLA CON L'HOSTESS
+Indicazioni e consigli
+FICHES  •  BONUS
+COMPRA FICHES
+Cassa
+COCKTAIL  •  SNACK  •  ENERGIA
+CIBO E BEVANDE
+Il bar
+IL BLACKJACK PAGA 3 A 2
+IL CROUPIER STA SUL 17
+GIOCA A BLACKJACK
+Tavolo {0}  •  puntate da {1} a {2}
+GIOCA A HOLD'EM
+Ultimate Texas Hold'em  •  ante da {0} a {1}
+GIOCA A BACCARAT
+GRANDE  •  PICCOLO  •  TRIS
+GIOCA A SIC BO
+Tre dadi  •  grande o piccolo paga 1 a 1
+PASS LINE  •  FIELD  •  ODDS
+GIOCA A CRAPS
+La Pass Line paga 1 a 1  •  le odds pagano la quota reale
+GIOCA A VIDEO POKER
+GIOCA ALLE SLOT
+Jacks or Better  •  tabella piena 9/6
+LUCKY ACE 7s  •  PAGA FINO A 2.500× LA TUA PUNTATA PER LINEA
+JACKS OR BETTER  •  LA SCALA REALE PAGA 800×
+FATE IL VOSTRO GIOCO
+GIOCA ALLA ROULETTE
+Ruota europea  •  il numero pieno paga 35 a 1
+ORDINA UN DRINK
+{0} te lo porta
+Il {0} si sblocca al livello {1}. Sei al livello {2}: ogni round che giochi conta.
+Questo tavolo richiede almeno {0} fiches.
+I tavoli da blackjack sono proprio davanti. Avvicinati a uno e siediti!
+Le slot sono lungo la parete destra, il video poker su quella di fondo, la roulette in fondo.
+L'hold'em è nell'angolo in fondo a sinistra, oltre il bar.
+Il baccarat è subito a sinistra entrando.
+Il sic bo è nell'angolo dopo la cassa: tre dadi, grande o piccolo.
+Il tavolo di craps è a destra, davanti alle slot. Punta sulla Pass Line e lancia!
+La cassa è qui alla tua destra, il bar lungo la parete sinistra.
+Stanco? Uno spuntino al bar ti ricarica di energia.
+Tocca un punto qualsiasi del pavimento e ci andrai. Tocca un tavolo per sederti.
+Andorra
+Emirati Arabi Uniti
+Afghanistan
+Antigua e Barbuda
+Anguilla
+Albania
+Armenia
+Angola
+Antartide
+Argentina
+Samoa Americane
+Austria
+Australia
+Aruba
+Isole Åland
+Azerbaigian
+Bosnia ed Erzegovina
+Barbados
+Bangladesh
+Belgio
+Burkina Faso
+Bulgaria
+Bahrein
+Burundi
+Benin
+Saint-Barthélemy
+Bermuda
+Brunei
+Bolivia
+Caraibi Olandesi
+Brasile
+Bahamas
+Bhutan
+Isola Bouvet
+Botswana
+Bielorussia
+Belize
+Canada
+Isole Cocos (Keeling)
+Congo - Kinshasa
+Repubblica Centrafricana
+Congo-Brazzaville
+Svizzera
+Costa d’Avorio
+Isole Cook
+Cile
+Camerun
+Cina
+Colombia
+Costa Rica
+Cuba
+Capo Verde
+Curaçao
+Isola Christmas
+Cipro
+Cechia
+Germania
+Gibuti
+Danimarca
+Dominica
+Repubblica Dominicana
+Algeria
+Ecuador
+Estonia
+Egitto
+Sahara Occidentale
+Eritrea
+Spagna
+Etiopia
+Finlandia
+Figi
+Isole Falkland
+Micronesia
+Isole Fær Øer
+Francia
+Gabon
+Regno Unito
+Grenada
+Georgia
+Guyana Francese
+Guernsey
+Ghana
+Gibilterra
+Groenlandia
+Gambia
+Guinea
+Guadalupa
+Guinea Equatoriale
+Grecia
+Georgia del Sud e Sandwich Australi
+Guatemala
+Guam
+Guinea-Bissau
+Guyana
+RAS di Hong Kong
+Isole Heard e McDonald
+Honduras
+Croazia
+Haiti
+Ungheria
+Indonesia
+Irlanda
+Israele
+Isola di Man
+India
+Territorio Britannico dell’Oceano Indiano
+Iraq
+Iran
+Islanda
+Italia
+Jersey
+Giamaica
+Giordania
+Giappone
+Kenya
+Kirghizistan
+Cambogia
+Kiribati
+Comore
+Saint Kitts e Nevis
+Corea del Nord
+Corea del Sud
+Kuwait
+Isole Cayman
+Kazakistan
+Laos
+Libano
+Saint Lucia
+Liechtenstein
+Sri Lanka
+Liberia
+Lesotho
+Lituania
+Lussemburgo
+Lettonia
+Libia
+Marocco
+Monaco
+Moldavia
+Montenegro
+Saint Martin
+Madagascar
+Isole Marshall
+Macedonia del Nord
+Mali
+Myanmar (Birmania)
+Mongolia
+RAS di Macao
+Isole Marianne Settentrionali
+Martinica
+Mauritania
+Montserrat
+Malta
+Mauritius
+Maldive
+Malawi
+Messico
+Malaysia
+Mozambico
+Namibia
+Nuova Caledonia
+Niger
+Isola Norfolk
+Nigeria
+Nicaragua
+Paesi Bassi
+Norvegia
+Nepal
+Nauru
+Niue
+Nuova Zelanda
+Oman
+Panama
+Perù
+Polinesia Francese
+Papua Nuova Guinea
+Filippine
+Pakistan
+Polonia
+Saint-Pierre e Miquelon
+Isole Pitcairn
+Portorico
+Territori Palestinesi
+Portogallo
+Palau
+Paraguay
+Qatar
+Riunione
+Romania
+Serbia
+Russia
+Ruanda
+Arabia Saudita
+Isole Salomone
+Seychelles
+Sudan
+Svezia
+Singapore
+Sant’Elena
+Slovenia
+Svalbard e Jan Mayen
+Slovacchia
+Sierra Leone
+San Marino
+Senegal
+Somalia
+Suriname
+Sud Sudan
+São Tomé e Príncipe
+El Salvador
+Sint Maarten
+Siria
+Eswatini
+Isole Turks e Caicos
+Ciad
+Terre Australi Francesi
+Togo
+Thailandia
+Tagikistan
+Tokelau
+Timor Est
+Turkmenistan
+Tunisia
+Tonga
+Turchia
+Trinidad e Tobago
+Tuvalu
+Taiwan
+Tanzania
+Ucraina
+Uganda
+Isole Minori Esterne degli Stati Uniti
+Stati Uniti
+Uruguay
+Uzbekistan
+Città del Vaticano
+Saint Vincent e Grenadine
+Venezuela
+Isole Vergini Britanniche
+Isole Vergini Americane
+Vietnam
+Vanuatu
+Wallis e Futuna
+Samoa
+Kosovo
+Yemen
+Mayotte
+Sudafrica
+Zambia
+Zimbabwe
+Inglese
+Afrikaans
+Amarico
+Arabo
+Azerbaigiano
+Bielorusso
+Bulgaro
+Bengalese
+Bosniaco
+Catalano
+Ceco
+Danese
+Tedesco
+Greco
+Spagnolo
+Estone
+Basco
+Persiano
+Finlandese
+Filippino
+Francese
+Irlandese
+Galiziano
+Gujarati
+Hausa
+Ebraico
+Hindi
+Croato
+Francese (Haiti)
+Ungherese
+Armeno
+Indonesiano
+Igbo
+Islandese
+Italiano
+Giapponese
+Georgiano
+Kazako
+Khmer
+Kannada
+Coreano
+Kirghiso
+Lussemburghese
+Lao
+Lituano
+Lettone
+Malgascio
+Macedone
+Malayalam
+Mongolo
+Marathi
+Malese
+Maltese
+Birmano
+Norvegese bokmål
+Nepalese
+Olandese
+Punjabi
+Polacco
+Pashto
+Portoghese (Brasile)
+Portoghese (Portogallo)
+Romancio
+Rumeno
+Russo
+Kinyarwanda
+Singalese
+Slovacco
+Sloveno
+Somalo
+Albanese
+Serbo
+Svedese
+Swahili
+Tamil
+Telugu
+Tagico
+Thailandese
+Turcomanno
+Turco
+Ucraino
+Urdu
+Uzbeco
+Vietnamita
+Xhosa
+Yoruba
+Cinese (semplificato)
+Cinese (tradizionale)
+Zulu
+Dom
+Lun
+Mar
+Mer
+Gio
+Ven
+Sab

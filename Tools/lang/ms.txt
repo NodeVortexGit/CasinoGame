@@ -1,0 +1,659 @@
+# Malay (ms). Machine translation by Claude.
+bd99124	Segenggam Cip
+c7c6dc8	Setimbun Cip
+7512cfd	Sedulang Cip
+fa36588	Serak Cip
+7994f65	PALING POPULAR
+49dcc21	Peti Besi Cip
+0725283	Peti Besi High Roller
+7658705	NILAI TERBAIK
+2f23432	Air Berkarbonat
+418b820	Espresso
+97b463c	Minuman Tenaga
+43bbfda	Sandwic Kelab
+bce7a75	Set Burger
+2832a8d	Makan Malam Stik
+dee8ee8	ISI PENUH
+a7c2255	Rentak Bertuah
+7919163	Rentak Panas
+74fdfc2	PALING BERTUAH
+d79cd12	Meja Gangsa
+2a8ff35	Meja Perak
+51877b2	Meja Emas
+9282152	Meja Berlian
+0de8764	Sila masukkan tahun yang sah.
+d4e14c9	Sila masukkan bulan yang sah (1-12).
+addd156	Sila masukkan hari yang sah.
+d78a4f4	Tarikh itu pada masa hadapan.
+787c7c6	Selamat datang ke meja saya! Sedia untuk bermain?
+8b0f93e	Gembira jumpa awak. Silakan duduk!
+8338021	Hai! Kad masih segar, saya pun sama.
+75750f9	Selamat datang! Jom jadikan malam ini yang terbaik.
+95aac36	Letakkan pertaruhan bila awak sudah sedia.
+8bc63c1	Cip di atas meja, jom kita tengok kad.
+984b7f3	Kita bermain untuk apa?
+b74c769	Wah, pertaruhan besar! Saya suka gaya awak.
+77fc1fc	Barulah pertaruhan namanya. Jom!
+7779a5b	Berani malam ini, ya?
+479ff82	Semua sekali?! Jantung saya berdebar!
+7fb527c	Semuanya pada satu tangan. Tanpa takut!
+7bf0c5d	Blackjack! Hebat sungguh!
+123f2d5	Dua puluh satu, begitu saja!
+cd850a7	Blackjack! Kad-kad sayang awak malam ini.
+55f50ee	Main dengan baik!
+79594b1	Menang! Syabas.
+0df710e	Awak sedang bernasib baik!
+20a0c1e	Yang itu milik awak.
+a45fe61	Kemenangan yang hebat! Semua orang tengok meja ini!
+54d3982	Besar sungguh! Awak sedang hangat malam ini!
+8da8f1e	Hampir sangat! Yang seterusnya milik awak.
+5d921e1	Kali ini kasino yang bertuah.
+f923af7	Lupakan saja, tangan baharu akan tiba.
+853e7ca	Aduh, terlebih satu kad.
+daec44f	Bust! Orang terbaik pun kena.
+11ceaef	Seri. Tiada siapa kalah!
+911a289	Push. Cip awak selamat.
+a89d9d9	Saya bust! Bertuahnya awak.
+f76c8fd	Terlalu banyak untuk saya. Awak menang!
+63f8d0b	Blackjack untuk kasino, maaf!
+465c8bf	Peniaga dapat blackjack. Nasib malang.
+6752f40	Saya tunjuk Ace. Insurans?
+1920c5a	Pecah! Dua peluang untuk menang.
+9f621da	Gandakan. Langkah berani!
+59da99d	Gandakan! Satu kad akan datang.
+0b48017	Kasut baharu, saya kocok!
+3fa7769	Semakin sedikit? Juruwang boleh tambah untuk awak.
+4e5694b	Cip semakin berkurang. Mahu ambil lagi?
+d41f057	Cip habis! Pergi ke juruwang atau ambil cip percuma.
+15d90d3	Timbunan awak kosong. Juruwang ada betul-betul di belakang awak.
+a9eaae1	Awak nampak sangat penat! Makan sesuatu di bar.
+5cd9e8b	Kehabisan tenaga? Bar akan bantu awak.
+37b9672	Ambil masa awak.
+c64df8c	Bila-bila awak sedia!
+b8dfc0a	Malam masih muda.
+8748560	Tuah pemula berpihak kepada awak!
+e3def50	Dek kad berpihak kepada awak malam ini!
+506ade9	Tuah pemula sudah tamat. Mulai sekarang permainan adil!
+953d8b7	Selamat datang ke kasino! Tempat duduk awak sedang menunggu.
+9fd9844	Selamat malam! Meja-meja panas malam ini.
+2d42aaf	Selamat kembali! Rasa bertuah?
+311bae7	Ketik meja untuk mula bermain!
+3318099	Perlukan cip lagi? Awak datang ke kaunter yang betul.
+c5b3787	Timbunan lebih besar, bonus lebih besar!
+21ae665	Lapar? Pilih apa saja dari menu.
+8b83cc0	Makan sedikit mengekalkan tenaga awak!
+35f4b0e	Selamat datang ke meja saya!
+8f90245	Itu pun awak! Tempat ini terus terasa lebih ceria.
+909e4d6	Buat macam rumah sendiri. Malam ini semuanya tentang awak.
+2477f78	Saya suka senyuman itu. Malam bertuah?
+6ac2120	Bertenang, awak di tangan yang baik di sini.
+089f04b	Hai awak! Saya harap awak singgah di kaunter saya.
+3f2c3c9	Sentiasa seronok melihat wajah yang mesra.
+3021db8	Tengok siapa yang datang! Seronok di sana?
+769980b	Hai, si kacak!
+5361ffd	Saya suka gaya awak malam ini.
+56b40be	Hai, gembira jumpa awak lagi!
+3316019	Malam yang seronok? Awak layak mendapatnya.
+28283fd	Hati-hati, nanti saya mula menyokong awak.
+109ac94	Pemain kegemaran saya sudah kembali!
+acba0e6	Duduklah dengan saya, saya akan bahagikan sesuatu yang bagus.
+eb5ff2a	Awak buat meja ini jauh lebih seronok.
+772a73c	Sudah mahu pergi? Malam masih muda!
+178301a	Ayuh, satu tangan lagi saja. Saya ada firasat baik!
+816036a	Jangan tinggalkan saya sekarang, kita baru bermula!
+5c9b7e2	Peluang terakhir! Tangan seterusnya mungkin yang besar...
+20ce7b6	Baiklah, baiklah. Saya jaga tempat duduk awak supaya hangat. Janji akan kembali?
+51d1aeb	Belum ada rentak? Main {2} pusingan hari ini dan saya mula mengira.
+10b25d9	Permulaan baharu! {2} pusingan dan api awak menyala.
+0c10711	Saya simpan senarai kecil orang yang datang setiap hari. Awak belum ada di situ... belum lagi.
+5e7c431	Hari ke-{1} menanti awak. Tinggal {2} pusingan lagi!
+b268d84	{0} hari berturut-turut... awak takkan berhenti sekarang, kan?
+b32ae79	Api awak nampak agak sejuk hari ini. {2} pusingan akan memanaskannya.
+a6f3fbd	Saya sudah kira: {0} hari. Jom jadikan {1}.
+1dc5c97	Jangan ingat saya tak perasan. Tinggal {2} pusingan untuk kekalkan rentak awak!
+807b82c	{0} hari berturut-turut? Nampaknya awak suka di sini.
+6391923	Rentak awak selamat untuk hari ini. Sekarang awak cuma menunjuk-nunjuk.
+3bfbbf7	Hari ke-{0}, selesai. Esok waktu yang sama?
+ca2a2c1	{0} hari! Saya patut simpan tempat duduk untuk awak.
+54f991f	Itu dia: hari pertama rentak awak! Datang lagi esok, kita jadikan dua.
+a1e7ab0	Seminggu penuh berturut-turut! Saya benar-benar kagum.
+96cee95	Tiga puluh hari! Awak hampir macam bekerja di sini.
+a9834cd	Seratus hari. Saya cerita tentang awak kepada semua orang.
+071317f	Sudah {0} hari berturut-turut! Tengoklah awak.
+0964027	Rentak diselamatkan: hari ke-{0}! Saya tahu awak boleh.
+c7f2a1f	Hari ke-{0}! Saya bertaruh awak tak sampai {1}.
+a6ce2e2	{0} hari... baiklah, si penunjuk-nunjuk.
+3ab91d0	Main 10 tangan blackjack
+38e863d	Menang 5 tangan blackjack
+6ac41cc	Dapatkan blackjack
+74cf149	Menang 500 cip dalam blackjack
+66440e1	Putar mesin slot 20 kali
+9205056	Menang 5 putaran slot
+cd60e0c	Menang 5× pertaruhan di mesin slot
+6f7ac28	Main 5 pusingan rolet
+6978cc0	Menang 3 putaran rolet
+c8ebbcc	Kena satu nombor terus
+8a57c54	lokasi GPS
+4919635	rangkaian mudah alih
+527b094	sambungan internet
+f49ae82	tetapan peranti
+60827d3	negara ujian
+0b2f8d8	belum disahkan (harga standard)
+50d8b4a	tidak diketahui
+4fb7a4e	12 pertama
+647a0eb	12 kedua
+a934745	12 ketiga
+3de80ab	2 kepada 1
+bb4e68e	MERAH
+a9414ab	HITAM
+710756a	GANJIL
+70ca748	GENAP
+4d60d6c	HARGA ADIL UNTUK NEGARA AWAK
+1674d95	Harga kedai diselaraskan dengan ekonomi negara awak, supaya pemain di mana-mana membayar harga yang adil.
+4ec27ee	Untuk mengenal pasti negara awak, kami semak anggaran lokasi awak sekali sahaja. Ia dipadankan dengan negara pada peranti awak dan tidak dihantar ke mana-mana. Jika awak menolak, harga standard digunakan.
+ff3dbb4	TERUSKAN
+43a6a8d	Tinggalkan kasino?
+ad209a0	Cip dan kemajuan awak telah disimpan.
+5860c84	KELUAR
+f1e0808	KEKAL
+5b38c49	{0} dibuka
+15ae7ac	Pembeku rentak menyelamatkan rentak {0} hari awak semalam.
+d375ffb	{0} pembeku rentak menyelamatkan rentak {1} hari awak.
+fd8ab39	Rentak {0} hari awak telah tamat. Main {1} pusingan hari ini untuk mulakan yang baharu!
+7fa2db4	MISI SELESAI
+255325c	+{0} cip
+d205ece	SEMUA MISI SELESAI!
+4acbed2	Bonus harian +{0} cip. Misi baharu esok.
+ab2ceb3	TAHAP {0}!
+86e2afb	Pencapaian! +{0} cip
+9ae18ad	Datang lagi esok untuk teruskan
+7af7e7c	+1 pembeku rentak
+b5b9597	RENTAK {0} HARI!
+62ec60d	Pembelian tidak tersedia dalam versi ini.
+1f9786c	Pembelian gagal. Awak tidak dicaj.
+3e4c600	+{0} cip ditambah!
+1998202	{0}: {1} tangan dengan {2}% tuah, selepas Tuah Pemula
+728ada5	{0}: {1} tangan dengan {2}% tuah!
+af5e232	{0}: +{1}% tenaga
+001a53b	Tidak tersedia pada peranti ini
+2607004	Video tidak boleh dimuatkan pada rangkaian ini
+569c30d	Datang lagi esok
+ecae6ee	Sedia dalam {0}s
+9964820	+{0} cip ({1} lagi hari ini)
+e1bd888	+{0} cip percuma!
+619bd5d	+1 pembeku rentak!
+f70d794	Tiada video buat masa ini. Cuba lagi sebentar nanti.
+264d71b	GANGSA
+462e839	PERAK
+81ff70a	EMAS
+50e122e	BERLIAN
+57f5f5e	Menu
+69bd4ef	Paparan
+dbfe736	Silang
+1cc7820	Bulatan
+82810cb	Segi Empat
+73d3ae2	Segi Tiga
+a42f608	Menyemak wilayah awak...
+1db422c	Belum disahkan ({0}): harga standard
+9bc0807	{0} ({1}): harga dalam {2}
+ae8c393	Peringatan
+aefd59b	Cip percuma sedia dan peringatan rentak
+3125838	Cip percuma awak sudah sedia
+233027b	{0} cip sedang menunggu awak di Lucky Ace.
+b93976b	Kekalkan rentak {0} hari awak
+bd68038	Main {0} pusingan hari ini supaya ia tidak ditetapkan semula pada tengah malam.
+0acfb6f	Selamat datang! Tuah pemula berpihak kepada awak malam ini. Buat pertaruhan!
+d589374	BLACKJACK MEMBAYAR 3 KEPADA 2   •   PENIAGA BERHENTI PADA SEMUA 17   •   INSURANS MEMBAYAR 2 KEPADA 1
+b700b02	PERTARUHAN
+16ec74f	KOSONGKAN
+928226b	ULANG
+55591e0	AGIH
+395ed46	HIT
+43e7971	STAND
+097274c	GANDA
+6df63ca	PECAH
+3e40f46	INSURANS
+db82d3a	TIDAK, TERIMA KASIH
+28d6be8	PERTARUHAN {0}+
+9587b70	Had maksimum meja dicapai
+b9ac47d	Cip tidak mencukupi
+d237ade	Peniaga menunjukkan Ace. Insurans untuk {0}?
+bf07c14	Insurans membayar {0}
+b6e674a	Peniaga tiada blackjack. Insurans hilang.
+0cc9679	BUST
+82ce89d	PENIAGA BUST
+6e1e1a4	BLACKJACK!
+662fae5	MENANG
+8918d00	SERI
+8df6be4	KALAH
+9e69668	Tuah pemula sudah tamat. Rentak Bertuah awak bermula sekarang.
+822f4f4	Tuah pemula sudah tamat. Mulai sekarang blackjack standard.
+b0377c7	Rentak Bertuah awak sudah tamat. Kembali kepada blackjack standard.
+824ad7c	CIP HABIS
+ff1822d	Tonton video pendek untuk {0} cip percuma, atau pergi ke juruwang.
+e4cac2f	Pergi ke juruwang untuk menambah cip awak.
+c3df3e7	CIP PERCUMA
+b169d33	JURUWANG
+4d38f66	NANTI
+cb8171b	Habiskan tangan ini dahulu.
+3aa6941	“{0}”
+6f846f4	SATU TANGAN LAGI
+a79d4f2	PERGI
+693f697	TUAH PEMULA
+641ad58	RENTAK BERTUAH
+fc45931	Bonus selamat datang untuk pemain baharu: bagi <b>{0} tangan</b> pertama awak, kasut peniaga disusun memihak kepada awak, jadi awak akan menang hampir setiap tangan.
+576c683	Sepanjang <b>{0} tangan</b> seterusnya kelebihan itu beransur hilang, dan selepas itu setiap meja ialah blackjack standard yang adil dari kasut 6 dek yang dikocok (blackjack membayar 3 kepada 2, peniaga berhenti pada semua 17).
+7fb55b3	Kelebihan sekarang: <b><color=#7CFC9A>{0}%</color></b>   Baki tangan: <b>{1}</b>
+d4f8fe0	Untuk <b>{0} tangan blackjack</b> seterusnya dengan pertaruhan sehingga <b>{1} cip</b>, setiap kad mempunyai peluang <b>{2}%</b> diagihkan memihak kepada awak (kelebihan yang sama seperti Tuah Pemula).
+0a5fc06	Dengan permainan yang baik, itu menang kira-kira <b>{0}%</b> tangan, berbanding kira-kira {1}% dalam blackjack standard. Pertaruhan lebih besar ialah blackjack standard dan tidak menggunakan tangan. Apabila tangan habis, setiap meja kembali menjadi blackjack standard yang adil.
+c3a8946	FAHAM
+8dfc44a	MAHU TUAH AWAK KEMBALI?
+272a97f	Tuah Pemula sudah tamat: mulai sekarang setiap meja ialah blackjack standard yang adil. Rentak Bertuah mengembalikan kelebihan itu buat seketika.
+06b7689	HARIAN
+4035996	RENTAK HARIAN
+fbe7f18	HARI BERTURUT-TURUT
+7a46866	HARI INI
+4753707	TONTON IKLAN
+6bb45f3	BELI
+62a945f	PEMBEKU RENTAK
+ba5b1de	Pembeku rentak mengekalkan rentak awak pada hari awak tidak bermain. Awak boleh simpan sehingga {0}.\n\nBeli satu untuk {1} cip?
+38c6090	Pembeku rentak sedia.
+8fe681f	Cip tidak mencukupi untuk pembeku.
+1507c40	BATAL
+457d20f	PUTARAN HARIAN
+9623247	PUTAR
+ac5ef96	Peluang:
+1200f20	{0}%
+003a689	Awak menang {0} cip!
+f757137	MISI HARI INI
+7b7f9e2	Terbaik: {0} hari
+9554fea	Main setiap hari untuk membina rentak
+5c8dbb8	Sasaran hari ini tercapai! Jumpa esok.
+1aeb9a1	Hari ini: {0} / {1} pusingan (mana-mana permainan)
+bb92856	Pembeku rentak: {0} / {1}
+0ec6216	Selamatkan rentak awak pada hari yang terlepas. +1 setiap 7 hari.
+cc0a745	PENUH
+419a962	TIADA VIDEO
+2dabd99	IKLAN TIDAK LAMA LAGI
+f12e166	Bonus rentak: hadiah ×{0}
+80948a4	Satu putaran percuma setiap hari
+596b5e0	SETERUSNYA  {0}
+7f7e7fc	Semua selesai! Bonus dituntut.
+03a0f2a	Misi baharu pada tengah malam.
+4784874	Selesaikan ketiga-tiganya: +{0} cip bonus
+42c5cda	MAIN
+337211e	PERMAINAN
+8f5e3bd	Seret sebelah kiri untuk berjalan  •  Seret sebelah kanan untuk melihat  •  Ketik untuk pergi
+d00d221	18+ sahaja  •  Cip untuk hiburan: tiada nilai wang, tidak boleh ditukar dengan wang atau hadiah
+b60f038	Membuka pintu...
+2e5bcce	Selamat datang! {0} cip alu-aluan awak sudah sedia. Meja ada di hadapan!
+7ef7ae3	+{0} cip percuma! Lagi dalam {1} jam.
+5d82af9	Cip percuma diisi semula setiap {0} jam. Seterusnya dalam {1}.
+5469985	{0}j {1}m
+bb65beb	{0}m {1}s
+ac8ba93	KEKALKAN RENTAK AWAK
+560bfa1	Mahu peringatan pada waktu malam yang awak belum bermain, dan apabila cip percuma awak sedia? Tidak lebih daripada itu, dan awak boleh matikannya dalam Tetapan.
+b724a40	INGATKAN SAYA
+9e0c898	+{0} cip sedia!
+1207e28	Tonton video: {0}
+db3655b	Cip percuma seterusnya dalam {0}
+4ca9be5	BLACKJACK
+9a612b1	4 meja  •  membayar 3 kepada 2
+1194439	SLOT
+6555152	Lucky Ace 7s  •  10 garisan
+255b1a1	ROLET
+6df1551	Eropah satu sifar
+379b146	AWAK KEPENATAN
+340e5c4	Bar tenaga awak kosong. Ambil sesuatu dari bar untuk terus bermain, atau datang semula nanti: tenaga pulih perlahan-lahan semasa awak tiada.
+a517396	PERGI KE BAR
+7c7227f	PILIH MEJA AWAK
+c963de3	PERTARUHAN
+c433657	TAHAP {0}
+083ac39	DUDUK
+9698219	PERLU {0}
+34b737e	Capai tahap {0} untuk bermain di sini. Awak di tahap {1}.
+6cc19a9	KASINO
+6e946b7	HH
+4a3a892	BB
+2857a6a	TTTT
+9d1fece	HARI
+d3bb0c3	BULAN
+c0f0cad	TAHUN
+43985ff	BILA AWAK DILAHIRKAN?
+293fda2	Cip untuk hiburan sahaja. Ia tiada nilai wang dan tidak boleh ditukar dengan wang atau hadiah.
+3e9128d	MAAF, AWAK TIDAK BOLEH BERMAIN
+b5e8985	{0} hanya tersedia untuk orang dewasa.
+bb1b380	KELUAR
+d9f9432	Ditutup dalam {0}...
+c6e102d	CERITAKAN TENTANG AWAK
+31120ce	Kami akan memilih hos, peniaga dan kakitangan bar yang sepadan. Awak boleh menukarnya bila-bila masa dalam Tetapan.
+49e8df9	SAYA LELAKI
+85abe81	SAYA PEREMPUAN
+76cc98c	LEBIH SUKA TIDAK MENYATAKAN
+964daf7	MASUK KE KASINO
+2efb69a	Kakitangan awak malam ini:
+c10e749	Halaman {0} daripada {1}
+2a3ffd9	BAHASA
+c673535	AUTOMATIK
+d1245d2	NEGARA
+15fc12b	Selamat datang! Sila buat pertaruhan.
+531fb3f	Cip tidak mencukupi untuk pertaruhan itu.
+380eb75	Had meja ialah {0} setiap putaran.
+55ad592	BUAT ASAL
+8f191f9	JUMLAH PERTARUHAN  {0}
+82e1181	Ketik papan untuk meletakkan cip
+bb19a75	Pertaruhan ditutup!
+5becf07	HIJAU
+bc74f4f	hijau
+7898801	merah
+466bc8c	hitam
+f2edfbf	Tepat sekali! Tahniah!
+b252caf	Menang! Awak menang {0}.
+8587d14	MENANG  +{0}
+b862a2b	{0} {1}. {2} kembali kepada awak.
+a306d0a	DIPULANGKAN  {0}
+af3134d	Tiada kemenangan kali ini
+84122e7	Sila buat pertaruhan.
+52205f4	Tunggu sehingga bola berhenti.
+c4b9243	TETAPAN
+44d863e	UMUM
+2bbca79	GRAFIK
+955c8b4	BUNYI
+c701f5f	SENTUHAN
+efcc94a	TETIKUS
+8433628	PENGAWAL
+d868a50	GETARAN
+f8692c7	18+ • Cip tiada nilai wang • Fon: Bebas Neue, Poppins, Noto (SIL OFL) • Sempadan: Natural Earth • Data harga: Bank Dunia
+da46447	KAKITANGAN KASINO
+594b81e	WANITA
+69d3313	LELAKI
+b4325d3	CAMPURAN
+414594a	PERINGATAN
+6cac87b	Cip percuma sedia, dan peringatan pada waktu malam sebelum rentak tamat.
+e43b2e0	SEMAK SEMULA
+7c9e8f9	WILAYAH HARGA
+495c70e	Terpantas: kasino seperti dilukis, tiada tambahan.
+b052523	Lantai berkilat, kayu dan emas memantulkan bilik.
+6bd30d7	Rupa filem: warna bergred, bijian, cahaya, pancaran cahaya, kulit yang hidup.
+21b6e1d	Kanta sinema: fokus mengikut pandangan awak, jalur pada lampu, debu dalam pancaran.
+fb7c2e8	KUALITI
+d8b9679	RENDAH
+f68525a	SEDERHANA
+d77d0b2	TINGGI
+9289eee	ULTRA
+637e313	RESOLUSI
+2e7b141	Lebih rendah lebih lembut, tetapi lebih sejuk dan menjimatkan bateri.
+93dcfb5	MOD PAPARAN
+3c6eac3	SKRIN PENUH
+f3690b1	TETINGKAP
+cfa6200	ANTI-ALIAS
+ad50489	MATI
+f178804	Melicinkan tepi bergerigi di kasino.
+4266288	KADAR BINGKAI
+d031ab0	{0} FPS
+a2b7514	30 FPS menjimatkan bateri dan memastikan telefon lama sejuk.
+0babcee	V-SYNC
+6656e25	BIDANG PANDANGAN
+244aadb	TUNJUK FPS
+41c8f6e	KELANTANGAN UTAMA
+bf3af1f	MUZIK
+bd80907	KESAN BUNYI
+d098036	SUARA KAKITANGAN
+93c6484	Bisikan kakitangan semasa mereka bercakap.
+16bf71a	SENYAP DI LATAR BELAKANG
+85b2ee7	Senyapkan kasino semasa awak di tetingkap lain.
+8e3634e	KEPEKAAN PANDANGAN
+880dc05	Berapa laju seretan memusingkan paparan.
+750c60f	Berapa laju seretan tetikus memusingkan paparan.
+8b988eb	TERBALIKKAN PANDANGAN KIRI / KANAN
+cacf0cc	TERBALIKKAN PANDANGAN ATAS / BAWAH
+2d13b68	SUSUN ATUR BUTANG
+50c3f10	AUTO
+b471e5c	TUKAR MENU / PAPARAN
+d9a59f1	KEPEKAAN KAYU BEDIK
+ec14343	Berapa laju kayu bedik kanan memusingkan paparan.
+a79af23	TERBALIKKAN KAYU BEDIK KIRI / KANAN
+acfc66e	TERBALIKKAN KAYU BEDIK ATAS / BAWAH
+56bb461	PETUNJUK PENGAWAL
+51cf49a	Menunjukkan fungsi setiap butang semasa awak bermain dengan pengawal.
+dff7431	GETAR PADA
+34139ab	TELEFON
+15ee988	KEDUA-DUANYA
+465cc91	Auto: pengawal semasa disambungkan, jika tidak telefon.
+f6fed84	GETARAN TELEFON
+8e97fa7	KEKUATAN TELEFON
+486ba2d	GETARAN PENGAWAL
+8008889	KEKUATAN PENGAWAL
+ea9233e	AUTOMATIK ({0})
+167dda7	{0} membuka Tetapan, {1} membuka Harian.
+29a4ef9	Tiada pengawal disambungkan.
+558ecd2	Disambungkan: {0}. Menunjukkan butang {1} (A di kanan mengesahkan).
+d6eee9e	Disambungkan: {0}. Menunjukkan butang {1}.
+78525d5	BAR
+099db9f	TUAH
+b4a8b06	Cip, tuah dan makanan ialah item maya untuk hiburan sahaja: tiada nilai wang, tidak boleh ditebus dengan wang atau hadiah.
+e2a28c9	Setiap kad mempunyai peluang itu untuk diagihkan memihak kepada awak, pada pertaruhan blackjack sehingga {0} cip (pertaruhan lebih besar ialah standard dan tidak menggunakan tangan). Bermula selepas Tuah Pemula; pek yang lebih kuat digunakan dahulu.
+04fbc6d	Benarkan akses lokasi untuk mendapatkan harga negara awak
+2ae87fc	Pembelian tidak tersedia dalam versi permainan ini.
+8239a84	KEDAI UJIAN (bukan wang sebenar)
+173d916	tenaga
+b2c67eb	+{0}% CIP
+58e8011	{0} tangan
+ce80712	menang kira-kira {0}% daripadanya
+c69e8ee	LUCKY ACE 7s
+fc99288	JUMLAH PERTARUHAN
+c1c00cd	JADUAL BAYARAN
+3930abd	SEMOGA BERJAYA!
+67b6973	Awak perlukan sekurang-kurangnya 10 cip untuk memutar.
+5aa1edb	DAPATKAN CIP
+f5a1812	Pertaruhan dikurangkan kepada jumlah yang awak mampu.
+5c63f61	KEMENANGAN MEGA!
+652544f	KEMENANGAN BESAR!
+91bc41c	DIPULANGKAN {0}
+3714283	TIADA KEMENANGAN
+33c0faa	GARISAN {0}: {1} × {2} = {3}
+9f59e6e	{0} BINTANG = {1}
+d6eee90	Ceri
+4459b79	Lemon
+09fb6aa	Oren
+cb92e50	Plum
+d419866	Loceng
+e496fd2	Bar
+63abb56	Tujuh
+b3850e0	Berlian
+fc2b5a9	Ace
+85a7de6	Bintang
+c31b035	BINTANG membayar di mana-mana: 5 = {0}× pertaruhan, 4 = {1}× pertaruhan, 3 = {2}× pertaruhan.
+f97509c	ACE ialah wild: ia menggantikan setiap simbol kecuali bintang.
+3e8bc69	Bayaran garisan ialah gandaan pertaruhan garisan (jumlah pertaruhan ÷ 10), dari kiri ke kanan bermula gelendong pertama.
+523f8dc	PULANGAN: {0}% dalam jangka panjang. Setiap putaran adalah bebas dan rawak.
+e0c705d	Jalan
+b8db515	Lihat
+503d46d	Butang
+c7f73bb	Tetapan
+728298d	Harian
+ab166bd	Laras
+76cdb95	Gerak
+8598222	Pilih
+bbfa773	Tutup
+b52b36b	Kembali
+ab37588	KEPENATAN
+9b11a09	TUAH PEMULA {0}%
+0c94e98	BAKI {0} TANGAN
+51ed273	RENTAK BERTUAH {0}%
+3401470	{0} TANGAN  •  PERTARUHAN SEHINGGA {1}
+f481cc6	TAHAP
+0139615	SELAMAT DATANG
+daad514	BERCAKAP DENGAN HOS
+bcefb10	Arah dan petua
+c28e782	CIP  •  BONUS
+0c69ec4	BELI CIP
+78c0727	Juruwang
+1737fab	KOKTEL  •  SNEK  •  TENAGA
+9e008ae	MAKANAN & MINUMAN
+f7881e8	Bar
+0e979ed	BLACKJACK MEMBAYAR 3 KEPADA 2
+eea0d12	PENIAGA MESTI BERHENTI PADA 17
+4db37bf	MAIN BLACKJACK
+0ffdd99	Meja {0}  •  pertaruhan {1} hingga {2}
+b4f938b	MAIN SLOT
+6b7caea	SILA BUAT PERTARUHAN
+26b1e39	MAIN ROLET
+910a1ed	Roda Eropah  •  nombor terus membayar 35 kepada 1
+7ef0215	PESAN MINUMAN
+fe38d73	{0} akan membawanya
+f7b6306	{0} dibuka pada tahap {1}. Awak di tahap {2}: setiap pusingan yang awak main dikira.
+d85f1ad	Meja ini memerlukan sekurang-kurangnya {0} cip.
+cbfe016	Meja blackjack ada di hadapan. Pergi ke salah satu dan duduk!
+64d9faf	Juruwang ada di sini di sebelah kanan awak, dan bar di sepanjang dinding kiri.
+e4c6e0b	Penat? Snek di bar terus mengisi tenaga awak.
+d5ab68f	Ketik di mana-mana di lantai dan awak akan berjalan ke sana. Ketik meja untuk duduk.
+cc21f74	KECIL
+dc01dec	BESAR
+5fb90b0	MANA-MANA TRIPEL
+9c716f1	Meja hold'em
+3b6ab84	Main 8 tangan hold'em
+6c617ca	Menangi 4 tangan hold'em
+44ce500	Main 10 tangan bakarat
+b90cff7	Menangi 5 tangan bakarat
+3e4dfa9	Main 15 tangan video poker
+854fe20	Main 8 pusingan sic bo
+dfddac1	Menangi 4 pusingan sic bo
+2973ea7	Baling dadu 15 kali di craps
+737be17	Menangi 4 balingan di craps
+4dbb81d	Dapatkan flush atau lebih baik di video poker
+19aa07b	Royal flush
+cf83e72	Straight flush
+d27ba03	Four of a kind
+dbe8641	Full house
+7c936d7	Flush
+2501c65	Straight
+ca1a0d4	Three of a kind
+6876b40	Dua pasang
+2537f88	Sepasang
+b4b323e	Kad tertinggi
+f70bfdc	Jack atau lebih baik
+98fd5af	BAKARAT
+df66d5a	Selamat datang ke bakarat! Pemain, Bankir atau Seri?
+5055efd	PEMAIN
+3f90696	SERI
+0d75f63	BANKIR
+0ebd5a4	KEPUTUSAN TERKINI
+511993d	P
+ae4f281	B
+c2c53d6	S
+781246e	Pilih cip, kemudian ketik Pemain, Bankir atau Seri
+11023a0	SERI  {0}
+503d5f1	PEMAIN MENANG  {0} LAWAN {1}
+0eb4be5	BANKIR MENANG  {0} LAWAN {1}
+7859af1	CRAPS
+4083dbd	Selamat datang ke craps! Bertaruh pada Pass Line dan baling.
+d266326	ENAM
+c506f3a	SEMBILAN
+987f4e9	FIELD
+71c1b2b	2 3 4 9 10 11 12  •  2 dan 12 bayar dua kali ganda
+d0ac294	MANA-MANA 7
+9b2f0c3	MANA-MANA CRAPS
+f62ac59	DON'T PASS BAR
+6080ade	1:1  •  12 seri
+c07247a	PASS LINE
+6229f78	ODDS
+29bf819	peluang sebenar
+387d7a5	ON
+229c9cc	Odds diletakkan di belakang Pass Line apabila ada mata.
+c2c8e82	Odds memerlukan pertaruhan pada Pass Line.
+1784d43	Odds anda sudah maksimum.
+fdc3442	Pertaruhan garisan dibuat pada balingan pembuka.
+97ce95b	DI MEJA  {0}
+a895ec0	Mata ialah {0}: baling semula sebelum 7. Odds di belakang Pass Line membayar peluang sebenar.
+d9f9d65	BALING
+bcf32ef	Mata ialah {0}.
+5b450b4	{0}! Mata tercapai. Menang!
+9746e08	Tujuh keluar. Pembaling baharu, balingan pembuka baharu.
+4fc4664	{0}, natural! Pass Line menang.
+203f466	{0}, craps. Garisan kalah.
+0f8e260	Tunggu sehingga dadu berhenti.
+6a98cfe	TINGGALKAN MEJA?
+8430088	Pertaruhan garisan anda masih berjalan pada mata {0}. Jika pergi sekarang, ia hilang.
+0e138d1	HOLD'EM
+5e023be	Selamat datang ke hold'em! Letakkan ante dan mari lihat kad.
+0cd62f5	ANTE
+5e9f331	BLIND
+3b935ab	BLIND MEMBAYAR
+20713a4	Peniaga layak dengan sepasang atau lebih baik
+d37267c	CHECK
+9a4e316	FOLD
+88313c4	TARUH {0}×
+42c6fea	Ante {0} + blind {0}. Simpan {1} lagi untuk raise.
+1abb2f2	Ketik cip untuk menetapkan ante. Blind sama nilainya.
+f541cec	Check, atau bertaruh tiga atau empat kali ante?
+fc74a79	Raise sekarang 4× atau 3× ante, atau check dan lihat flop.
+b687501	Peluang terakhir: taruh 1× ante, atau fold dan hilang ante serta blind.
+400009c	Taruh 2× ante sekarang, atau check dan lihat dua kad terakhir.
+f4abdf9	Inilah flop.
+0e51f2c	Turn dan river.
+cc856d3	Mari lihat apa yang saya ada.
+6ba1f3e	Peniaga tidak layak: ante anda dipulangkan.
+cf1fdc5	Fold. Tangan seterusnya milik anda.
+177fab0	Ultimate Texas Hold'em
+c4917b9	Pemain, Bankir atau Seri
+6e4fe7b	VIDEO POKER
+73cabd3	Jacks or Better
+91c4555	SIC BO
+d810061	Tiga dadu  •  besar atau kecil
+85ab7ec	Pass Line  •  Field  •  Odds
+35d8db6	Selamat datang ke sic bo! Besar, kecil atau sesuatu yang lebih berani?
+3d05514	Had meja ialah {0} setiap balingan.
+86ade94	GONCANG
+b69304e	TRIPEL {0}!
+5d1bcc6	DISIMPAN
+36a21ba	Agih, simpan kad yang anda mahu, tukar sekali.
+99fa8e8	SIMPAN
+249d1c0	PETUNJUK
+7aab1bd	TUKAR
+5595eb4	Ketik kad untuk menyimpannya, kemudian tukar.
+1c05db9	MAIN HOLD'EM
+e353e5f	Ultimate Texas Hold'em  •  ante {0} hingga {1}
+6470369	MAIN BAKARAT
+bbe0077	BESAR  •  KECIL  •  TRIPEL
+3ba448f	MAIN SIC BO
+097c59c	Tiga dadu  •  besar atau kecil bayar 1 kepada 1
+af2ca30	PASS LINE  •  FIELD  •  ODDS
+f18398e	MAIN CRAPS
+eeede6d	Pass Line bayar 1 kepada 1  •  odds bayar peluang sebenar
+34e5170	MAIN VIDEO POKER
+f71bdfb	Jacks or Better  •  jadual penuh 9/6
+4a6c087	JACKS OR BETTER  •  ROYAL FLUSH BAYAR 800×
+370a133	Mesin slot di dinding kanan, video poker di dinding belakang, dan rolet di bahagian paling belakang.
+8298d28	Hold'em di sudut kiri belakang, selepas bar.
+a2a111f	Bakarat terletak terus di kiri sebaik anda masuk.
+b7193bc	Sic bo di sudut selepas juruwang: tiga dadu, besar atau kecil.
+25320c8	Meja craps di sebelah kanan, di hadapan mesin slot. Bertaruh pada Pass Line dan baling!
+dc81691	Sofia
+4d9936f	Elena
+3aa0674	Mia
+b724114	Valentina
+34d3f7f	Chloe
+0fc9dd6	Isabella
+bbd3e35	Nadia
+eac677d	Aria
+baaf10f	Luna
+8641381	Camila
+eeee9b7	Aurora
+8a59f05	Bianca
+5a0fc29	Serena
+bf38aa5	Marco
+cfaf50a	Leo
+5815f22	Adrian
+cbede02	Lucas
+f0b9995	Viktor
+7b37259	Daniel
+aaac72d	Gabriel
+2f8f37e	Ethan
+a01126e	Julian
+3e05c90	Rafael
+e1ae457	Mateo
+3398634	Nico
+7aa2d07	Enzo
+1920e2f	Balingan come-out: bertaruh pada Pass Line, kemudian baling. 7 atau 11 menang, 2, 3 atau 12 kalah. Pertaruhan Place mula berfungsi apabila ada mata.
+99f4934	LUCKY ACE 7s  •  MEMBAYAR SEHINGGA 2,500× TARUHAN BARIS ANDA

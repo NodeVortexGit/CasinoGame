@@ -74,14 +74,34 @@ namespace Casino.Core.Player
         public bool padVibration = true;
         public float padVibrationStrength = 0.7f;
 
+        /// <summary>The chosen language code ("" = follow the device's language).</summary>
+        public string language = "";
+
+        /// <summary>Test builds: a country picked in Settings > Dev overrides the detected one ("" = none).</summary>
+        public string testCountry = "";
+
         public string countryCode = "";
         public int countrySource;
         public long countryCheckedUtcTicks;
 
         public string lastTableId = "";
         public long lastBet;
+        public long lastHoldemAnte;
+
+        // The craps layout and point, saved after every bet, take-down and roll so an app kill mid-round loses
+        // nothing (CrapsScreen restores them). The stakes are already out of chips.
+        public int crapsPoint;
+        public List<int> crapsBetKinds = new List<int>();
+        public List<int> crapsBetNumbers = new List<int>();
+        public List<long> crapsBetAmounts = new List<long>();
 
         // Progression: levels, the daily streak, the bonus wheel, timed free chips and daily missions (Progression.cs).
+        // Paid luck packs still to use: each entry is a boost (percent) with its hands left. luckOfferShown: the one-time
+        // offer after Beginner's Luck ends has been made.
+        public List<int> luckPackPercent = new List<int>();
+        public List<int> luckPackHands = new List<int>();
+        public bool luckOfferShown;
+
         public long xp;
         public int level = 1;
         public int streakCount;

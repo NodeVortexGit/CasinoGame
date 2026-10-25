@@ -1,0 +1,1004 @@
+KECIL
+BESAR
+GANJIL
+GENAP
+TRIPEL APA SAJA
+Segenggam Chip
+Setumpuk Chip
+Senampan Chip
+Serak Chip
+PALING POPULER
+Brankas Chip
+Brankas High Roller
+PALING HEMAT
+Air Soda
+Espresso
+Minuman Energi
+Club Sandwich
+Paket Burger
+Makan Malam Steak
+ISI PENUH
+Rentetan Untung
+Rentetan Panas
+PALING BERUNTUNG
+Meja Perunggu
+Meja Perak
+Meja Emas
+Meja Berlian
+Meja hold'em
+Masukkan tahun yang valid.
+Masukkan bulan yang valid (1-12).
+Masukkan tanggal yang valid.
+Tanggal itu ada di masa depan.
+Selamat datang di mejaku! Siap bermain?
+Senang bertemu kamu. Silakan duduk!
+Hai! Kartunya masih segar, aku juga.
+Selamat datang! Ayo jadikan malam ini menyenangkan.
+Pasang taruhanmu kapan pun kamu siap.
+Chip di meja, ayo kita lihat kartunya.
+Kita main untuk apa?
+Wah, taruhan besar! Aku suka gayamu.
+Nah, itu baru taruhan. Ayo!
+Lagi berani malam ini, ya?
+All in?! Jantungku berdebar!
+Semuanya di satu tangan. Tanpa rasa takut!
+Blackjack! Luar biasa!
+Dua puluh satu, begitu saja!
+Blackjack! Kartu-kartu sayang kamu malam ini.
+Main yang bagus!
+Menang! Hebat.
+Kamu lagi di atas angin!
+Yang itu milikmu.
+Kemenangan yang hebat! Semua orang menonton meja ini!
+Besar sekali! Kamu lagi panas malam ini!
+Hampir saja! Yang berikutnya milikmu.
+Kali ini kasino yang beruntung.
+Lupakan saja, tangan baru akan datang.
+Aduh, kelebihan satu kartu.
+Bust! Bahkan yang terbaik pun bisa kena.
+Seri. Tidak ada yang kalah!
+Push. Chip-mu aman.
+Aku bust! Untung kamu.
+Kebanyakan buatku. Kamu menang!
+Blackjack untuk kasino, maaf ya!
+Dealer dapat blackjack. Sial.
+Aku menunjukkan As. Asuransi?
+Split! Dua peluang untuk menang.
+Double down. Langkah berani!
+Gandakan! Satu kartu datang.
+Shoe baru, aku kocok dulu!
+Mulai menipis? Kasir bisa mengisi ulang.
+Chip-mu makin sedikit. Mau ambil lagi?
+Chip habis! Kunjungi kasir atau ambil chip gratis.
+Tumpukanmu kosong. Kasir ada tepat di belakangmu.
+Kamu kelihatan lelah sekali! Makan sesuatu di bar.
+Kehabisan tenaga? Bar siap membantu.
+Santai saja.
+Kapan pun kamu siap!
+Malam masih panjang.
+Keberuntungan pemula ada di pihakmu!
+Dek kartu memihakmu malam ini!
+Keberuntungan pemula sudah selesai. Mulai sekarang permainannya adil!
+Selamat datang di kasino! Kursimu sudah menunggu.
+Selamat malam! Meja-meja sedang panas malam ini.
+Selamat datang kembali! Merasa beruntung?
+Ketuk meja untuk mulai bermain!
+Butuh chip lagi? Kamu datang ke loket yang tepat.
+Tumpukan lebih besar, bonus lebih besar!
+Lapar? Pilih apa saja dari menu.
+Makan sedikit menjaga energimu tetap penuh!
+Selamat datang di mejaku!
+Itu dia kamu! Tempat ini langsung terasa lebih cerah.
+Anggap saja rumah sendiri. Malam ini semuanya tentang kamu.
+Aku suka senyum itu. Malam keberuntungan?
+Santai, kamu ada di tangan yang tepat.
+Hai kamu! Aku berharap kamu mampir ke loketku.
+Selalu senang melihat wajah yang ramah.
+Lihat siapa yang datang! Seru di sana?
+Hai, ganteng!
+Aku suka gayamu malam ini.
+Hai, senang bertemu lagi!
+Malammu menyenangkan? Kamu pantas mendapatkannya.
+Hati-hati, nanti aku jadi mendukungmu.
+Pemain favoritku kembali!
+Duduk denganku, akan kubagikan sesuatu yang bagus.
+Kamu membuat meja ini jauh lebih seru.
+Sudah mau pergi? Malam masih panjang!
+Ayolah, satu tangan lagi saja. Aku punya firasat bagus!
+Jangan tinggalkan aku sekarang, kita baru mulai!
+Kesempatan terakhir! Tangan berikutnya bisa jadi yang besar...
+Oke, oke. Aku jaga kursimu tetap hangat. Janji kembali?
+Belum ada rentetan? Mainkan {2} ronde hari ini dan aku mulai menghitung.
+Awal baru! {2} ronde dan apimu menyala.
+Aku punya daftar kecil orang yang datang setiap hari. Kamu belum ada di sana... belum.
+Hari ke-{1} menunggumu. Tinggal {2} ronde lagi!
+{0} hari berturut-turut... kamu tidak akan berhenti sekarang, kan?
+Apimu terlihat agak dingin hari ini. {2} ronde akan menghangatkannya.
+Aku sudah menghitung: {0} hari. Ayo jadikan {1}.
+Jangan kira aku tidak sadar. Tinggal {2} ronde untuk menjaga rentetanmu!
+{0} hari berturut-turut? Sepertinya kamu suka di sini.
+Rentetanmu aman untuk hari ini. Sekarang kamu cuma pamer.
+Hari ke-{0}, beres. Besok jam yang sama?
+{0} hari! Sepertinya aku harus menyimpan kursi untukmu.
+Itu dia: hari pertama rentetanmu! Kembali besok, kita jadikan dua.
+Seminggu penuh berturut-turut! Aku benar-benar terkesan.
+Tiga puluh hari! Kamu hampir seperti kerja di sini.
+Seratus hari. Aku cerita ke semua orang tentangmu.
+Sudah {0} hari berturut-turut! Lihat dirimu.
+Rentetan terselamatkan: hari ke-{0}! Aku tahu kamu bisa.
+Hari ke-{0}! Taruhan kamu tidak bisa sampai {1}.
+{0} hari... oke, tukang pamer.
+Mainkan 10 tangan blackjack
+Menangkan 5 tangan blackjack
+Dapatkan blackjack
+Menangkan 500 chip di blackjack
+Putar slot 20 kali
+Menangkan 5 putaran slot
+Menangkan 5× taruhanmu di slot
+Mainkan 5 ronde rolet
+Menangkan 3 putaran rolet
+Tebak satu angka secara langsung
+Mainkan 8 tangan hold'em
+Menangkan 4 tangan hold'em
+Mainkan 10 tangan bakarat
+Menangkan 5 tangan bakarat
+Mainkan 15 tangan video poker
+Mainkan 8 ronde sic bo
+Menangkan 4 ronde sic bo
+Lempar dadu 15 kali di craps
+Menangkan 4 lemparan di craps
+Dapatkan flush atau lebih baik di video poker
+Royal flush
+Straight flush
+Four of a kind
+Full house
+Flush
+Straight
+Three of a kind
+Two pair
+Satu pasang
+Kartu tertinggi
+lokasi GPS
+jaringan seluler
+koneksi internet
+pengaturan perangkat
+negara uji
+belum diverifikasi (harga standar)
+tidak diketahui
+12 ke-1
+12 ke-2
+12 ke-3
+2 banding 1
+MERAH
+HITAM
+Jack atau lebih baik
+HARGA ADIL UNTUK NEGARAMU
+Harga di toko disesuaikan dengan ekonomi negaramu, agar pemain di mana pun membayar harga yang adil.
+Untuk mengetahui negaramu, kami memeriksa perkiraan lokasimu sekali. Lokasi dicocokkan dengan negara di perangkatmu dan tidak pernah dikirim ke mana pun. Jika kamu menolak, harga standar berlaku.
+LANJUTKAN
+Tinggalkan kasino?
+Chip dan progresmu sudah tersimpan.
+KELUAR
+TETAP
+{0} terbuka
+Pembeku rentetan menyelamatkan rentetan {0} harimu kemarin.
+{0} pembeku rentetan menyelamatkan rentetan {1} harimu.
+Rentetan {0} harimu berakhir. Mainkan {1} ronde hari ini untuk memulai yang baru!
+MISI SELESAI
++{0} chip
+SEMUA MISI SELESAI!
+Bonus harian +{0} chip. Misi baru besok.
+LEVEL {0}!
+Pencapaian! +{0} chip
+Kembali besok untuk melanjutkan
++1 pembeku rentetan
+RENTETAN {0} HARI!
+Pembelian tidak tersedia di versi ini.
+Pembelian gagal. Kamu tidak dikenai biaya.
++{0} chip ditambahkan!
+{0}: {1} tangan dengan {2}% keberuntungan, setelah Keberuntungan Pemula
+{0}: {1} tangan dengan {2}% keberuntungan!
+{0}: +{1}% energi
+Tidak tersedia di perangkat ini
+Video tidak bisa dimuat di jaringan ini
+Kembali besok
+Siap dalam {0} dtk
++{0} chip (sisa {1} hari ini)
++{0} chip gratis!
++1 pembeku rentetan!
+Saat ini tidak ada video. Coba lagi sebentar lagi.
+PERUNGGU
+PERAK
+EMAS
+BERLIAN
+Menu
+Tampilan
+Silang
+Lingkaran
+Kotak
+Segitiga
+Memeriksa wilayahmu...
+Belum diverifikasi ({0}): harga standar
+{0} ({1}): harga dalam {2}
+Pengingat
+Chip gratis siap dan pengingat rentetan
+Chip gratismu sudah siap
+{0} chip menunggumu di Lucky Ace.
+Jaga rentetan {0} harimu
+Mainkan {0} ronde hari ini agar tidak direset tengah malam.
+BAKARAT
+Selamat datang di bakarat! Pemain, Bankir, atau Seri?
+PEMAIN
+SERI
+BANKIR
+HASIL TERAKHIR
+P
+B
+S
+URUNGKAN
+HAPUS
+ULANGI
+BAGIKAN
+Chip tidak cukup untuk taruhan itu.
+Batas maksimum meja tercapai
+TOTAL TARUHAN  {0}
+Pilih chip, lalu ketuk Pemain, Bankir, atau Seri
+SERI  {0}
+PEMAIN MENANG  {0} LAWAN {1}
+BANKIR MENANG  {0} LAWAN {1}
+MENANG  +{0}
+DIKEMBALIKAN  {0}
+Belum menang kali ini
+Selesaikan tangan ini dulu.
+Selamat datang! Keberuntungan pemula ada di pihakmu malam ini. Pasang taruhan!
+BLACKJACK MEMBAYAR 3 BANDING 2   •   DEALER BERHENTI DI SEMUA 17   •   ASURANSI MEMBAYAR 2 BANDING 1
+TARUHAN
+HIT
+STAND
+DOUBLE
+SPLIT
+ASURANSI
+TIDAK, TERIMA KASIH
+TARUHAN {0}+
+Chip tidak cukup
+Dealer menunjukkan As. Asuransi seharga {0}?
+Asuransi membayar {0}
+Dealer tidak dapat blackjack. Asuransi hangus.
+BUST
+DEALER BUST
+BLACKJACK!
+MENANG
+SERI
+KALAH
+Keberuntungan pemula sudah selesai. Rentetan Untungmu dimulai sekarang.
+Keberuntungan pemula sudah selesai. Mulai sekarang blackjack standar.
+Rentetan Untungmu sudah selesai. Kembali ke blackjack standar.
+CHIP HABIS
+Tonton video singkat untuk {0} chip gratis, atau kunjungi kasir.
+Kunjungi kasir untuk mengisi ulang chip-mu.
+CHIP GRATIS
+KASIR
+NANTI
+“{0}”
+SATU TANGAN LAGI
+PERGI
+KEBERUNTUNGAN PEMULA
+RENTETAN UNTUNG
+Bonus selamat datang untuk pemain baru: untuk <b>{0} tangan</b> pertamamu, shoe dealer disusun menguntungkanmu, jadi kamu akan menang hampir di setiap tangan.
+Selama <b>{0} tangan</b> berikutnya keuntungan itu memudar, lalu setiap meja adalah blackjack standar yang adil dari shoe 6 dek yang sudah dikocok (blackjack membayar 3 banding 2, dealer berhenti di semua 17).
+Keuntungan saat ini: <b><color=#7CFC9A>{0}%</color></b>   Sisa tangan: <b>{1}</b>
+Untuk <b>{0} tangan blackjack</b> berikutnya dengan taruhan hingga <b>{1} chip</b>, setiap kartu punya peluang <b>{2}%</b> dibagikan menguntungkanmu (sama seperti Keberuntungan Pemula).
+Dengan permainan yang baik, itu menang sekitar <b>{0}%</b> tangan, dibanding sekitar {1}% di blackjack standar. Taruhan lebih besar adalah blackjack standar dan tidak memakai jatah tangan. Saat jatah tangan habis, setiap meja kembali menjadi blackjack standar yang adil.
+MENGERTI
+MAU KEBERUNTUNGANMU KEMBALI?
+Keberuntungan Pemula sudah selesai: mulai sekarang setiap meja adalah blackjack standar yang adil. Rentetan Untung mengembalikan keuntungan itu untuk sementara.
+CRAPS
+Selamat datang di craps! Taruh di Pass Line lalu lempar.
+ENAM
+SEMBILAN
+FIELD
+2 3 4 9 10 11 12  •  2 dan 12 bayar dua kali lipat
+7 APA SAJA
+CRAPS APA SAJA
+DON'T PASS BAR
+1:1  •  12 seri
+PASS LINE
+ODDS
+peluang sebenarnya
+MATI
+ON
+Odds ditaruh di belakang Pass Line setelah ada poin.
+Odds butuh taruhan di Pass Line.
+Odds kamu sudah maksimal.
+Taruhan garis dipasang saat lemparan pembuka.
+DI MEJA  {0}
+Lemparan pembuka: taruh di Pass Line, lalu lempar. 7 atau 11 menang; 2, 3, atau 12 kalah. Taruhan place mulai berlaku setelah ada poin.
+Poinnya {0}: lempar lagi angka itu sebelum 7. Odds di belakang Pass Line membayar peluang sebenarnya.
+LEMPAR
+Poinnya {0}.
+{0}! Poin tercapai. Menang!
+Tujuh keluar. Pelempar baru, lemparan pembuka baru.
+{0}, natural! Pass Line menang.
+{0}, craps. Garis kalah.
+Tunggu sampai dadu berhenti.
+TINGGALKAN MEJA?
+Taruhan garismu masih berjalan di poin {0}. Kalau pergi sekarang, taruhan itu hilang.
+HARIAN
+RENTETAN HARIAN
+HARI BERTURUT-TURUT
+HARI INI
+TONTON IKLAN
+BELI
+PEMBEKU RENTETAN
+Pembeku rentetan menjaga rentetanmu tetap hidup pada hari kamu tidak bermain. Kamu bisa menyimpan {0}.\n\nBeli satu seharga {1} chip?
+Pembeku rentetan siap.
+Chip tidak cukup untuk pembeku.
+BATAL
+PUTARAN HARIAN
+PUTAR
+Peluang:
+{0}%
+Kamu menang {0} chip!
+MISI HARI INI
+Terbaik: {0} hari
+Main setiap hari untuk membangun rentetan
+Target hari ini tercapai! Sampai besok.
+Hari ini: {0} / {1} ronde (permainan apa saja)
+Pembeku rentetan: {0} / {1}
+Selamatkan rentetanmu pada hari yang terlewat. +1 setiap 7 hari.
+PENUH
+TIDAK ADA VIDEO
+IKLAN SEGERA
+Bonus rentetan: hadiah ×{0}
+Satu putaran gratis setiap hari
+BERIKUTNYA  {0}
+Semua selesai! Bonus diambil.
+Misi baru tengah malam nanti.
+Selesaikan ketiganya: +{0} chip bonus
+HOLD'EM
+Selamat datang di hold'em! Pasang ante dan mari lihat kartunya.
+ANTE
+BLIND
+MAIN
+BLIND MEMBAYAR
+Dealer lolos dengan satu pasang atau lebih baik
+CHECK
+FOLD
+TARUH {0}×
+Ante {0} + blind {0}. Sisakan {1} lagi untuk raise.
+Ketuk chip untuk menentukan ante. Blind sama besarnya.
+Check, atau taruh tiga atau empat kali ante?
+Raise sekarang 4× atau 3× ante, atau check dan lihat flop.
+Kesempatan terakhir: taruh 1× ante, atau fold dan kehilangan ante dan blind.
+Taruh 2× ante sekarang, atau check dan lihat dua kartu terakhir.
+Ini flop-nya.
+Turn dan river.
+Mari lihat kartuku.
+Dealer tidak lolos: ante kamu kembali.
+Fold. Tangan berikutnya milikmu.
+PERMAINAN
+Geser sisi kiri untuk berjalan  •  Geser sisi kanan untuk melihat  •  Ketuk untuk pergi
+Khusus 18+  •  Chip hanya untuk hiburan: tidak bernilai uang, tidak pernah bisa ditukar dengan uang atau hadiah
+Membuka pintu...
+Selamat datang! {0} chip sambutanmu sudah siap. Meja ada lurus di depan!
++{0} chip gratis! Lagi dalam {1} jam.
+Chip gratis terisi ulang setiap {0} jam. Berikutnya dalam {1}.
+{0}j {1}m
+{0}m {1}d
+JAGA RENTETANMU
+Mau pengingat di malam saat kamu belum bermain, dan saat chip gratismu siap? Tidak lebih dari itu, dan kamu bisa mematikannya di Pengaturan.
+INGATKAN AKU
++{0} chip siap!
+Tonton video: {0}
+Chip gratis berikutnya dalam {0}
+BLACKJACK
+4 meja  •  membayar 3 banding 2
+Ultimate Texas Hold'em
+Pemain, Bankir, atau Seri
+SLOT
+Lucky Ace 7s  •  10 garis
+VIDEO POKER
+Jacks or Better
+SIC BO
+Tiga dadu  •  besar atau kecil
+Pass Line  •  Field  •  Odds
+ROLET
+Eropa satu nol
+KAMU KELELAHAN
+Bar energimu kosong. Ambil sesuatu dari bar untuk terus bermain, atau kembali nanti: energi pulih perlahan saat kamu pergi.
+KE BAR
+PILIH MEJAMU
+TARUHAN
+LEVEL {0}
+DUDUK
+BUTUH {0}
+Capai level {0} untuk bermain di sini. Kamu level {1}.
+KASINO
+HH
+BB
+TTTT
+HARI
+BULAN
+TAHUN
+KAPAN KAMU LAHIR?
+Chip hanya untuk hiburan. Chip tidak bernilai uang dan tidak pernah bisa ditukar dengan uang atau hadiah.
+MAAF, KAMU TIDAK BOLEH BERMAIN
+{0} hanya tersedia untuk orang dewasa.
+KELUAR
+Menutup dalam {0}...
+CERITAKAN TENTANG DIRIMU
+Kami akan memilihkan host, dealer, dan staf bar yang sesuai. Kamu bisa mengubahnya kapan saja di Pengaturan.
+SAYA PRIA
+SAYA WANITA
+TIDAK INGIN MENYEBUTKAN
+MASUK KE KASINO
+Staf kamu malam ini:
+Halaman {0} dari {1}
+BAHASA
+OTOMATIS
+NEGARA
+Selamat datang! Silakan pasang taruhan.
+Batas meja adalah {0} per putaran.
+Ketuk papan untuk menaruh chip
+Taruhan ditutup!
+HIJAU
+hijau
+merah
+hitam
+Tebakan jitu! Selamat!
+Menang! Kamu memenangkan {0}.
+{0} {1}. {2} kembali kepadamu.
+Silakan pasang taruhan.
+Tunggu bolanya berhenti.
+PENGATURAN
+UMUM
+GRAFIS
+SUARA
+SENTUH
+MOUSE
+KONTROLER
+GETARAN
+18+ • Chip tidak bernilai uang • Font: Bebas Neue, Poppins, Noto (SIL OFL) • Batas wilayah: Natural Earth • Data harga: Bank Dunia
+STAF KASINO
+WANITA
+PRIA
+CAMPURAN
+PENGINGAT
+Chip gratis siap, dan pengingat di malam hari sebelum rentetan berakhir.
+PERIKSA LAGI
+WILAYAH HARGA
+Tercepat: kasino seperti lukisannya, tanpa tambahan.
+Lantai mengilap, kayu, dan emas memantulkan ruangan.
+Tampilan film: gradasi warna, grain, cahaya, berkas sinar, kulit yang hidup.
+Lensa sinema: fokus mengikuti pandanganmu, garis cahaya di lampu, debu di berkas sinar.
+KUALITAS
+RENDAH
+SEDANG
+TINGGI
+ULTRA
+RESOLUSI
+Lebih rendah terlihat lebih halus, tapi lebih dingin dan hemat baterai.
+MODE TAMPILAN
+LAYAR PENUH
+JENDELA
+ANTI-ALIASING
+Menghaluskan tepi bergerigi di kasino.
+FRAME RATE
+{0} FPS
+30 FPS menghemat baterai dan menjaga ponsel lama tetap dingin.
+V-SYNC
+BIDANG PANDANG
+TAMPILKAN FPS
+VOLUME UTAMA
+MUSIK
+EFEK SUARA
+SUARA STAF
+Gumaman staf saat mereka berbicara.
+SENYAP DI LATAR BELAKANG
+Senyapkan kasino saat kamu berada di jendela lain.
+SENSITIVITAS PANDANGAN
+Seberapa cepat geseran memutar tampilan.
+Seberapa cepat geseran mouse memutar tampilan.
+BALIK PANDANGAN KIRI / KANAN
+BALIK PANDANGAN ATAS / BAWAH
+TATA LETAK TOMBOL
+OTOMATIS
+TUKAR MENU / TAMPILAN
+SENSITIVITAS STIK
+Seberapa cepat stik kanan memutar tampilan.
+BALIK STIK KIRI / KANAN
+BALIK STIK ATAS / BAWAH
+PETUNJUK KONTROLER
+Menampilkan fungsi setiap tombol saat kamu bermain dengan kontroler.
+GETAR DI
+PONSEL
+KEDUANYA
+Otomatis: kontroler saat terhubung, selain itu ponsel.
+GETARAN PONSEL
+KEKUATAN PONSEL
+GETARAN KONTROLER
+KEKUATAN KONTROLER
+OTOMATIS ({0})
+{0} membuka Pengaturan, {1} membuka Harian.
+Tidak ada kontroler yang terhubung.
+Terhubung: {0}. Menampilkan tombol {1} (A di kanan untuk konfirmasi).
+Terhubung: {0}. Menampilkan tombol {1}.
+BAR
+KEBERUNTUNGAN
+Chip, keberuntungan, dan makanan adalah item virtual hanya untuk hiburan: tidak bernilai uang, tidak bisa ditukar dengan uang atau hadiah.
+Setiap kartu punya peluang itu untuk dibagikan menguntungkanmu, pada taruhan blackjack hingga {0} chip (taruhan lebih besar adalah standar dan tidak memakai jatah tangan). Dimulai setelah Keberuntungan Pemula; paket yang lebih kuat dipakai lebih dulu.
+Izinkan akses lokasi untuk mendapatkan harga negaramu
+Pembelian tidak tersedia di versi game ini.
+TOKO UJI (bukan uang sungguhan)
+energi
++{0}% CHIP
+{0} tangan
+menang sekitar {0}% di antaranya
+Selamat datang di sic bo! Besar, kecil, atau yang lebih berani?
+Batas meja {0} per lemparan.
+KOCOK
+TRIPEL {0}!
+LUCKY ACE 7s
+TOTAL TARUHAN
+TABEL PEMBAYARAN
+SEMOGA BERUNTUNG!
+Kamu butuh minimal 10 chip untuk memutar.
+AMBIL CHIP
+Taruhan diturunkan sesuai yang bisa kamu tutupi.
+MENANG BESAR SEKALI!
+MENANG BESAR!
+DIKEMBALIKAN {0}
+TIDAK MENANG
+GARIS {0}: {1} × {2} = {3}
+{0} BINTANG = {1}
+Ceri
+Lemon
+Jeruk
+Plum
+Lonceng
+Bar
+Tujuh
+Berlian
+As
+Bintang
+BINTANG membayar di mana saja: 5 = {0}× taruhan, 4 = {1}× taruhan, 3 = {2}× taruhan.
+AS adalah wild: menggantikan semua simbol kecuali bintang.
+Pembayaran garis adalah kelipatan taruhan per garis (total taruhan ÷ 10), dari kiri ke kanan mulai gulungan pertama.
+PENGEMBALIAN: {0}% dalam jangka panjang. Setiap putaran bersifat independen dan acak.
+DITAHAN
+Bagikan, tahan kartu yang kamu mau, tukar sekali.
+TAHAN
+PETUNJUK
+TUKAR
+Ketuk kartu untuk menahannya, lalu tukar.
+Jalan
+Lihat
+Tombol
+Pengaturan
+Harian
+Atur
+Gerak
+Pilih
+Tutup
+Kembali
+KELELAHAN
+KEBERUNTUNGAN PEMULA {0}%
+SISA {0} TANGAN
+RENTETAN UNTUNG {0}%
+{0} TANGAN  •  TARUHAN HINGGA {1}
+LEVEL
+Sofia
+Elena
+Mia
+Valentina
+Chloe
+Isabella
+Nadia
+Aria
+Luna
+Camila
+Aurora
+Bianca
+Serena
+Marco
+Leo
+Adrian
+Lucas
+Viktor
+Daniel
+Gabriel
+Ethan
+Julian
+Rafael
+Mateo
+Nico
+Enzo
+SELAMAT DATANG
+BICARA DENGAN HOST
+Petunjuk arah dan tips
+CHIP  •  BONUS
+BELI CHIP
+Kasir
+KOKTAIL  •  CAMILAN  •  ENERGI
+MAKANAN & MINUMAN
+Bar
+BLACKJACK MEMBAYAR 3 BANDING 2
+DEALER HARUS BERHENTI DI 17
+MAIN BLACKJACK
+Meja {0}  •  taruhan {1} sampai {2}
+MAIN HOLD'EM
+Ultimate Texas Hold'em  •  ante {0} sampai {1}
+MAIN BAKARAT
+BESAR  •  KECIL  •  TRIPEL
+MAIN SIC BO
+Tiga dadu  •  besar atau kecil bayar 1 banding 1
+PASS LINE  •  FIELD  •  ODDS
+MAIN CRAPS
+Pass Line bayar 1 banding 1  •  odds bayar peluang sebenarnya
+MAIN VIDEO POKER
+MAIN SLOT
+Jacks or Better  •  tabel penuh 9/6
+LUCKY ACE 7s  •  MEMBAYAR HINGGA 2.500× TARUHAN GARISMU
+JACKS OR BETTER  •  ROYAL FLUSH BAYAR 800×
+PASANG TARUHAN ANDA
+MAIN ROLET
+Roda Eropa  •  angka langsung membayar 35 banding 1
+PESAN MINUMAN
+{0} akan mengantarkannya
+{0} terbuka di level {1}. Kamu level {2}: setiap ronde yang kamu mainkan dihitung.
+Meja ini butuh minimal {0} chip.
+Meja blackjack ada lurus di depan. Dekati salah satu dan duduklah!
+Mesin slot ada di dinding kanan, video poker di dinding belakang, dan roulette di bagian paling belakang.
+Hold'em ada di sudut kiri belakang, lewat bar.
+Bakarat ada tepat di kiri saat kamu masuk.
+Sic bo ada di sudut setelah kasir: tiga dadu, besar atau kecil.
+Meja craps ada di kanan, di depan mesin slot. Taruh di Pass Line dan lempar!
+Kasir ada di sini di sebelah kananmu, dan bar ada di sepanjang dinding kiri.
+Capek? Camilan di bar langsung mengisi energimu.
+Ketuk di mana saja di lantai dan kamu akan berjalan ke sana. Ketuk meja untuk duduk.
+Andorra
+Uni Emirat Arab
+Afganistan
+Antigua dan Barbuda
+Anguilla
+Albania
+Armenia
+Angola
+Antarktika
+Argentina
+Samoa Amerika
+Austria
+Australia
+Aruba
+Kepulauan Aland
+Azerbaijan
+Bosnia dan Herzegovina
+Barbados
+Bangladesh
+Belgia
+Burkina Faso
+Bulgaria
+Bahrain
+Burundi
+Benin
+Saint Barthélemy
+Bermuda
+Brunei
+Bolivia
+Belanda Karibia
+Brasil
+Bahama
+Bhutan
+Pulau Bouvet
+Botswana
+Belarus
+Belize
+Kanada
+Kepulauan Cocos (Keeling)
+Kongo - Kinshasa
+Republik Afrika Tengah
+Kongo - Brazzaville
+Swiss
+Côte d’Ivoire
+Kepulauan Cook
+Cile
+Kamerun
+Tiongkok
+Kolombia
+Kosta Rika
+Kuba
+Tanjung Verde
+Curaçao
+Pulau Natal
+Siprus
+Ceko
+Jerman
+Jibuti
+Denmark
+Dominika
+Republik Dominika
+Aljazair
+Ekuador
+Estonia
+Mesir
+Sahara Barat
+Eritrea
+Spanyol
+Etiopia
+Finlandia
+Fiji
+Kepulauan Falkland
+Mikronesia
+Kepulauan Faroe
+Prancis
+Gabon
+Inggris Raya
+Grenada
+Georgia
+Guyana Prancis
+Guernsey
+Ghana
+Gibraltar
+Greenland
+Gambia
+Guinea
+Guadeloupe
+Guinea Ekuatorial
+Yunani
+Georgia Selatan & Kep. Sandwich Selatan
+Guatemala
+Guam
+Guinea-Bissau
+Guyana
+Hong Kong DAK Tiongkok
+Pulau Heard dan Kepulauan McDonald
+Honduras
+Kroasia
+Haiti
+Hungaria
+Indonesia
+Irlandia
+Israel
+Pulau Man
+India
+Wilayah Inggris di Samudra Hindia
+Irak
+Iran
+Islandia
+Italia
+Jersey
+Jamaika
+Yordania
+Jepang
+Kenya
+Kirgizstan
+Kamboja
+Kiribati
+Komoro
+Saint Kitts dan Nevis
+Korea Utara
+Korea Selatan
+Kuwait
+Kepulauan Cayman
+Kazakhstan
+Laos
+Lebanon
+Saint Lucia
+Liechtenstein
+Sri Lanka
+Liberia
+Lesotho
+Lituania
+Luksemburg
+Latvia
+Libya
+Maroko
+Monako
+Moldova
+Montenegro
+Saint Martin
+Madagaskar
+Kepulauan Marshall
+Makedonia Utara
+Mali
+Myanmar (Burma)
+Mongolia
+Makau DAK Tiongkok
+Kepulauan Mariana Utara
+Martinik
+Mauritania
+Montserrat
+Malta
+Mauritius
+Maladewa
+Malawi
+Meksiko
+Malaysia
+Mozambik
+Namibia
+Kaledonia Baru
+Niger
+Kepulauan Norfolk
+Nigeria
+Nikaragua
+Belanda
+Norwegia
+Nepal
+Nauru
+Niue
+Selandia Baru
+Oman
+Panama
+Peru
+Polinesia Prancis
+Papua Nugini
+Filipina
+Pakistan
+Polandia
+Saint Pierre dan Miquelon
+Kepulauan Pitcairn
+Puerto Riko
+Wilayah Palestina
+Portugal
+Palau
+Paraguay
+Qatar
+Réunion
+Rumania
+Serbia
+Rusia
+Rwanda
+Arab Saudi
+Kepulauan Solomon
+Seychelles
+Sudan
+Swedia
+Singapura
+Saint Helena
+Slovenia
+Kepulauan Svalbard dan Jan Mayen
+Slovakia
+Sierra Leone
+San Marino
+Senegal
+Somalia
+Suriname
+Sudan Selatan
+Sao Tome dan Principe
+El Salvador
+Sint Maarten
+Suriah
+eSwatini
+Kepulauan Turks dan Caicos
+Chad
+Wilayah Selatan Prancis
+Togo
+Thailand
+Tajikistan
+Tokelau
+Timor Leste
+Turkmenistan
+Tunisia
+Tonga
+Turki
+Trinidad dan Tobago
+Tuvalu
+Taiwan
+Tanzania
+Ukraina
+Uganda
+Kepulauan Terluar AS
+Amerika Serikat
+Uruguay
+Uzbekistan
+Vatikan
+Saint Vincent dan Grenadine
+Venezuela
+Kepulauan Virgin Britania Raya
+Kepulauan Virgin Amerika Serikat
+Vietnam
+Vanuatu
+Kepulauan Wallis dan Futuna
+Samoa
+Kosovo
+Yaman
+Mayotte
+Afrika Selatan
+Zambia
+Zimbabwe
+Inggris
+Afrikaans
+Amharik
+Arab
+Azerbaijani
+Belarusia
+Bulgaria
+Bengali
+Bosnia
+Katalan
+Ceko
+Dansk
+Jerman
+Yunani
+Spanyol
+Estonia
+Basque
+Persia
+Suomi
+Filipino
+Prancis
+Irlandia
+Galisia
+Gujarat
+Hausa
+Ibrani
+Hindi
+Kroasia
+Prancis (Haiti)
+Hungaria
+Armenia
+Indonesia
+Igbo
+Islandia
+Italia
+Jepang
+Georgia
+Kazakh
+Khmer
+Kannada
+Korea
+Kirgiz
+Luksemburg
+Lao
+Lituania
+Latvia
+Malagasi
+Makedonia
+Malayalam
+Mongolia
+Marathi
+Melayu
+Malta
+Burma
+Bokmål Norwegia
+Nepali
+Belanda
+Punjabi
+Polski
+Pashto
+Portugis (Brasil)
+Portugis (Portugal)
+Reto-Roman
+Rumania
+Rusia
+Kinyarwanda
+Sinhala
+Slovak
+Slovenia
+Somalia
+Albania
+Serbia
+Swedia
+Swahili
+Tamil
+Telugu
+Tajik
+Thai
+Turkmen
+Turki
+Ukraina
+Urdu
+Uzbek
+Vietnam
+Xhosa
+Yoruba
+Tionghoa (Sederhana)
+Tionghoa (Tradisional)
+Zulu
+Min
+Sen
+Sel
+Rab
+Kam
+Jum
+Sab

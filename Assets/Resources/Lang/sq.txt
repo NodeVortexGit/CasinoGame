@@ -1,0 +1,1004 @@
+I VOGËL
+I MADH
+TEK
+ÇIFT
+ÇDO TRESHE
+Një grusht fishash
+Një stivë fishash
+Një tabaka fishash
+Një raft fishash
+MË I POPULLARIZUARI
+Një kasafortë fishash
+Kasaforta e lojtarit të madh
+VLERA MË E MIRË
+Ujë i gazuar
+Ekspres
+Pije energjike
+Sanduiç klubi
+Menu me hamburger
+Darkë me biftek
+MBUSHJE E PLOTË
+Seri me fat
+Seri e nxehtë
+MË SHUMË FAT
+Tavolina e bronztë
+Tavolina e argjendtë
+Tavolina e artë
+Tavolina e diamantit
+Tavolinë hold'em
+Fut një vit të vlefshëm.
+Fut një muaj të vlefshëm (1-12).
+Fut një ditë të vlefshme.
+Kjo datë është në të ardhmen.
+Mirë se erdhe në tavolinën time! Gati për të luajtur?
+Më vjen mirë që të shoh. Ulu!
+Përshëndetje! Letrat janë të freskëta, edhe unë.
+Mirë se erdhe! Le ta bëjmë këtë mbrëmje të bukur.
+Vendos bastin kur të jesh gati.
+Fishat në tavolinë, dhe le të shohim letrat.
+Për çfarë po luajmë?
+Oh, bast i madh! Më pëlqen stili yt.
+Ky po që është bast. Hajde!
+Je trim sonte, apo jo?
+Gjithçka?! Zemra po më rreh fort!
+Gjithçka në një dorë. Pa frikë!
+Blackjack! E pabesueshme!
+Njëzet e një, kaq thjesht!
+Blackjack! Letrat të duan sonte.
+E luajtur bukur!
+Fitore! Të lumtë.
+Po të shkon mbarë!
+Kjo është e jotja.
+Çfarë fitoreje! Të gjithë po e shohin këtë tavolinë!
+E madhe! Je në formë sonte!
+Kaq afër! E radhës është e jotja.
+Këtë herë kazinoja pati fat.
+Mos u mërzit, po vjen një dorë e re.
+Oh, një letër më shumë.
+Kalove! U ndodh edhe më të mirëve.
+Barazim. Askush nuk humbet!
+Barazim. Fishat e tua janë të sigurta.
+Kalova! Ke fat.
+Shumë për mua. Fitove!
+Blackjack për kazinonë, më vjen keq!
+Blackjack i krupierit. Fat i keq.
+Po tregoj një as. Sigurim?
+Po ndajmë! Dy mundësi për të fituar.
+Dyfishim. Lëvizje e guximshme!
+Dyfishoje! Po vjen një letër.
+Këpucë e re, po përziej!
+Po të mbarojnë? Arka të mbush sërish.
+Fishat po pakësohen. Do më shumë?
+Mbaruan fishat! Shko te arka ose merr fisha falas.
+Stiva jote është bosh. Arka është pikërisht pas teje.
+Dukesh i rraskapitur! Ha diçka te bari.
+Pa energji? Bari kujdeset për ty.
+Merr kohën tënde.
+Kur të jesh gati!
+Nata është ende e re.
+Fati i fillestarit është me ty!
+Pakoja është me ty sonte!
+Fati i fillestarit mbaroi. Nga tani loja është e drejtë!
+Mirë se erdhe në kazino! Vendi yt po të pret.
+Mirëmbrëma! Tavolinat janë të nxehta sonte.
+Mirë se u ktheve! Ndihesh me fat?
+Prek një tavolinë për të filluar lojën!
+Të duhen më shumë fisha? Ke ardhur te sporteli i duhur.
+Stiva më të mëdha, bonuse më të mëdha!
+I uritur? Zgjidh çfarëdo nga menuja.
+Një kafshatë ushqim të mban energjinë lart!
+Mirë se erdhe në tavolinën time!
+Ja ku je! Vendi duket më i ndritshëm.
+Ndihu si në shtëpi. Sonte gjithçka është për ty.
+Ma do zemra atë buzëqeshje. Natë me fat?
+Qetësohu, je në duar të mira këtu.
+Hej, ti! Shpresoja se do kaloje nga sporteli im.
+Gjithmonë bukur të shohësh një fytyrë miqësore.
+Shiko kush është këtu! Po kalon mirë?
+Përshëndetje, i bukur!
+Më pëlqen stili yt sonte.
+Hej, më vjen mirë që të shoh përsëri!
+Po kalon një mbrëmje të mirë? E meriton.
+Kujdes, mund të filloj të të mbështes.
+Lojtari im i preferuar u kthye!
+Ulu me mua, do të ndaj diçka të bukur.
+Me ty kjo tavolinë është shumë më argëtuese.
+Po ikën kaq shpejt? Nata është ende e re!
+Hajde, vetëm edhe një dorë. Kam një ndjesi të mirë!
+Nuk mund të më lësh tani, sapo kemi filluar!
+Shansi i fundit! Dora e radhës mund të jetë ajo e madhja...
+Mirë, mirë. Do ta mbaj vendin tënd të ngrohtë. Premton se do kthehesh?
+Ende pa seri? Luaj sot raunde ({2}) dhe do filloj të numëroj.
+Fillim i ri! Raunde ({2}) dhe flaka jote ndizet.
+Mbaj një listë të vogël të atyre që vijnë çdo ditë. Ti nuk je në të... ende.
+Dita {1} po të pret. Raunde të mbetura: {2}!
+Ditë rresht: {0}... nuk do ndalesh tani, apo jo?
+Flaka jote duket pak e ftohtë sot. Raundet ({2}) do ta ngrohin.
+Kam numëruar: {0} ditë. Le t'i bëjmë {1}.
+Mos mendo se nuk e vura re. Raunde të mbetura për të mbajtur serinë: {2}!
+Ditë rresht: {0}? Po filloj të mendoj se të pëlqen këtu.
+Seria jote është e sigurt për sot. Tani thjesht po mburresh.
+Dita {0}, e kryer. Nesër në të njëjtën orë?
+{0} ditë! Duhet të të rezervoj një vend.
+Ja ku është: dita e parë e serisë sate! Kthehu nesër dhe do t'i bëjmë dy.
+Një javë e tërë rresht! Jam vërtet e mahnitur.
+Tridhjetë ditë! Praktikisht punon këtu.
+Njëqind ditë. U tregoj të gjithëve për ty.
+Kaq {0} ditë rresht! Shiko veten.
+Seria u shpëtua: dita {0}! E dija që do t'ia dilje.
+Dita {0}! Vë bast se nuk arrin në {1}.
+{0} ditë... mirë, mburracak.
+Luaj 10 duar blackjack
+Fito 5 duar blackjack
+Bëj një blackjack
+Fito 500 fisha në blackjack
+Rrotullo automatet 20 herë
+Fito 5 rrotullime në automate
+Fito 5× bastin në automate
+Luaj 5 raunde ruletë
+Fito 3 rrotullime rulete
+Qëllo një numër drejtpërdrejt
+Luaj 8 duar hold'em
+Fito 4 duar hold'em
+Luaj 10 duar bakara
+Fito 5 duar bakara
+Luaj 15 duar video poker
+Luaj 8 raunde sic bo
+Fito 4 raunde sic bo
+Hidh zarat 15 herë në craps
+Fito 4 hedhje në craps
+Bëj ngjyrë ose më mirë në video poker
+Rradhë mbretërore
+Rradhë me ngjyrë
+Katërshe
+Shtëpi e plotë
+Ngjyrë
+Rradhë
+Treshe
+Dy çifte
+Çift
+Letër e lartë
+vendndodhja GPS
+rrjeti celular
+lidhja me internetin
+cilësimet e pajisjes
+vend testimi
+i paverifikuar (çmim standard)
+i panjohur
+12 e 1-ra
+12 e 2-ta
+12 e 3-ta
+2 me 1
+E KUQE
+E ZEZË
+Fanta ose më mirë
+ÇMIME TË DREJTA PËR VENDIN TËND
+Çmimet e dyqanit përshtaten me ekonominë e vendit tënd, që lojtarët kudo të paguajnë një çmim të drejtë.
+Për të gjetur vendin tënd, kontrollojmë një herë vendndodhjen tënde të përafërt. Ajo lidhet me një vend në pajisjen tënde dhe nuk dërgohet askund. Nëse refuzon, zbatohen çmimet standarde.
+VAZHDO
+Të largohesh nga kazinoja?
+Fishat dhe përparimi yt janë ruajtur.
+DIL
+QËNDRO
+{0} u zhbllokua
+Një ngrirje serie të shpëtoi dje serinë prej {0} ditësh.
+Ngrirjet ({0}) të shpëtuan serinë prej {1} ditësh.
+Seria jote prej {0} ditësh mbaroi. Luaj sot raunde ({1}) për të nisur një të re!
+MISIONI U KRYE
++{0} fisha
+TË GJITHA MISIONET U KRYEN!
+Bonus ditor +{0} fisha. Misione të reja nesër.
+NIVELI {0}!
+Moment kyç! +{0} fisha
+Kthehu nesër për të vazhduar
++1 ngrirje serie
+SERI {0} DITËSH!
+Blerjet nuk janë të disponueshme në këtë version.
+Blerja dështoi. Nuk u tarifove.
+U shtuan +{0} fisha!
+{0}: {1} duar me {2}% fat, pas fatit të fillestarit
+{0}: {1} duar me {2}% fat!
+{0}: +{1}% energji
+Nuk disponohet në këtë pajisje
+Videot nuk ngarkohen në këtë rrjet
+Kthehu nesër
+Gati për {0} s
++{0} fisha (sot kanë mbetur {1})
++{0} fisha falas!
++1 ngrirje serie!
+Nuk ka video për momentin. Provo sërish pas pak.
+BRONZ
+ARGJEND
+AR
+DIAMANT
+Menu
+Pamja
+Kryq
+Rreth
+Katror
+Trekëndësh
+Po kontrollojmë rajonin tënd...
+I paverifikuar ({0}): çmime standarde
+{0} ({1}): çmime në {2}
+Kujtesa
+Fisha falas gati dhe kujtesa për serinë
+Fishat e tua falas janë gati
+{0} fisha të presin te Lucky Ace.
+Mbaj serinë prej {0} ditësh
+Luaj sot raunde ({0}) që të mos rivendoset në mesnatë.
+BAKARA
+Mirë se erdhe në bakara! Lojtar, Bankier apo Barazim?
+LOJTAR
+BARAZIM
+BANKIER
+REZULTATET E FUNDIT
+L
+B
+Z
+ZHBËJ
+PASTRO
+PËRSËRIT
+SHPËRNDA
+Nuk ke mjaftueshëm fisha për atë bast.
+U arrit maksimumi i tavolinës
+BASTI TOTAL  {0}
+Zgjidh një fishë, pastaj prek Lojtar, Bankier ose Barazim
+BARAZIM  {0}
+FITON LOJTARI  {0} ME {1}
+FITON BANKIERI  {0} ME {1}
+FITIM  +{0}
+U KTHYEN  {0}
+Pa fitim këtë herë
+Përfundo së pari këtë dorë.
+Mirë se erdhe! Fati i fillestarit është me ty sonte. Vendos një bast!
+BLACKJACK PAGUAN 3 ME 2   •   KRUPIERI NDALET NË TË GJITHA 17   •   SIGURIMI PAGUAN 2 ME 1
+BAST
+LETËR
+NDALU
+DYFISHO
+NDAJ
+SIGURO
+JO, FALEMINDERIT
+BAST {0}+
+Nuk ke mjaftueshëm fisha
+Krupieri tregon një as. Të sigurohesh për {0}?
+Sigurimi paguan {0}
+Krupieri nuk ka blackjack. Sigurimi humbi.
+KALOVE
+KRUPIERI KALOI
+BLACKJACK!
+FITORE
+BARAZIM
+HUMBJE
+Fati i fillestarit mbaroi. Seria jote me fat fillon tani.
+Fati i fillestarit mbaroi. Nga tani është blackjack standard.
+Seria jote me fat mbaroi. Kthehemi te blackjack standard.
+PA FISHA
+Shiko një video të shkurtër për {0} fisha falas, ose shko te arka.
+Shko te arka për të rimbushur fishat.
+FISHA FALAS
+ARKA
+MË VONË
+“{0}”
+EDHE NJË DORË
+IK
+FATI I FILLESTARIT
+SERI ME FAT
+Bonus mirëseardhjeje për lojtarët e rinj: në <b>{0} duart</b> e para, këpuca e krupierit është rregulluar në favorin tënd, kështu që do fitosh pothuajse çdo dorë.
+Gjatë <b>{0} duarve</b> të ardhshme avantazhi zbehet gradualisht, dhe pas kësaj çdo tavolinë është blackjack standard dhe i drejtë, nga një këpucë e përzier me 6 pako (blackjack paguan 3 me 2, krupieri ndalet në të gjitha 17).
+Avantazhi tani: <b><color=#7CFC9A>{0}%</color></b>   Duar të mbetura: <b>{1}</b>
+Për <b>{0} duart e blackjack</b> të ardhshme me bast deri në <b>{1} fisha</b>, çdo letër ka <b>{2}%</b> mundësi të shpërndahet në favorin tënd (i njëjti avantazh si fati i fillestarit).
+Me lojë të mirë kjo fiton rreth <b>{0}%</b> të duarve, kundrejt rreth {1}% në blackjack standard. Bastet më të mëdha janë blackjack standard dhe nuk konsumojnë duar. Kur duart mbarojnë, çdo tavolinë është sërish blackjack standard dhe i drejtë.
+E KUPTOVA
+E DO FATIN MBRAPSHT?
+Fati i fillestarit mbaroi: nga tani çdo tavolinë është blackjack standard dhe i drejtë. Një seri me fat e kthen avantazhin për pak kohë.
+CRAPS
+Mirë se erdhe në craps! Vë bast te Pass Line dhe hidh.
+GJASHTË
+NËNTË
+FIELD
+2 3 4 9 10 11 12  •  2 dhe 12 paguajnë dyfish
+ÇDO 7
+ÇDO CRAPS
+DON'T PASS BAR
+1:1  •  12 është barazim
+PASS LINE
+ODDS
+koeficientë të vërtetë
+JOAKTIV
+ON
+Odds vihen pas Pass Line kur ka pikë.
+Odds kërkojnë bast te Pass Line.
+Odds e tua janë në maksimum.
+Bastet e vijës vihen në hedhjen e parë.
+NË TAVOLINË  {0}
+Hedhja e parë: vë bast te Pass Line dhe hidh. 7 ose 11 fiton, 2, 3 ose 12 humbet. Bastet Place fillojnë të vlejnë kur ka pikë.
+Pika është {0}: hidhe përsëri para 7. Odds pas Pass Line paguajnë koeficientë të vërtetë.
+HIDH
+Pika është {0}.
+{0}! Pika u bë. Fitore!
+Shtatë jashtë. Hedhës i ri, hedhje e parë e re.
+{0}, natyral! Pass Line fiton.
+{0}, craps. Vija humbet.
+Prit derisa zarat të ndalen.
+TË LËSH TAVOLINËN?
+Basti yt i vijës ende luan në pikën {0}. Nëse ikën tani, e humbet.
+DITORE
+SERI DITORE
+DITË RRESHT
+SOT
+SHIKO REKLAMËN
+BLI
+NGRIRJE SERIE
+Një ngrirje e mban gjallë serinë tënde në një ditë që nuk luan. Mund të kesh deri në {0}.\n\nTë blesh një për {1} fisha?
+Ngrirja e serisë gati.
+Nuk ke mjaftueshëm fisha për një ngrirje.
+ANULO
+RROTULLIMI DITOR
+RROTULLO
+Mundësitë:
+{0}%
+Fitove {0} fisha!
+MISIONET E SOTME
+Rekordi: {0} ditë
+Luaj çdo ditë për të ndërtuar një seri
+Qëllimi i sotëm u arrit! Shihemi nesër.
+Sot: {0} / {1} raunde (çdo lojë)
+Ngrirje serie: {0} / {1}
+Shpëto serinë në një ditë që e humbet. +1 çdo 7 ditë.
+PLOT
+PA VIDEO
+REKLAMË SË SHPEJTI
+Bonus serie: çmime ×{0}
+Një rrotullim falas çdo ditë
+TJETRI  {0}
+Gjithçka gati! Bonusi u mblodh.
+Misione të reja në mesnatë.
+Përfundo të treja: +{0} fisha bonus
+HOLD'EM
+Mirë se erdhe në hold'em! Vër ante-n dhe le të shohim letrat.
+ANTE
+BLIND
+LUAJ
+BLIND PAGUAN
+Krupieri kualifikohet me një çift ose më mirë
+CHECK
+FOLD
+BAST {0}×
+Ante {0} + blind {0}. Mbaj edhe {1} për ngritjen.
+Prek fishat për të caktuar ante-n. Blind është i njëjtë.
+Check, apo bast tre ose katër herë ante?
+Ngrije tani me 4× ose 3× ante, ose bëj check dhe shiko flop-in.
+Shansi i fundit: vër 1× ante ose bëj fold dhe humb ante dhe blind.
+Vër tani 2× ante, ose bëj check dhe shiko dy letrat e fundit.
+Ja flop-i.
+Turn dhe river.
+Le të shohim çfarë kam.
+Krupieri nuk kualifikohet: ante-ja të kthehet.
+Fold. Dora tjetër është e jotja.
+LOJËRA
+Tërhiq majtas për të ecur  •  Tërhiq djathtas për të parë  •  Prek për të shkuar
+Vetëm 18+  •  Fishat janë për argëtim: pa vlerë monetare, kurrë të këmbyeshme me para ose çmime
+Po hapim dyert...
+Mirë se erdhe! {0} fishat e tua të mirëseardhjes janë gati. Tavolinat janë drejt përpara!
++{0} fisha falas! Të tjera pas {1} orësh.
+Fishat falas rimbushen çdo {0} orë. Të radhës pas {1}.
+{0} orë {1} min
+{0} min {1} s
+MBAJ SERINË
+Do një kujtesë në mbrëmjet kur ende nuk ke luajtur, dhe kur fishat falas janë gati? Kurrë më shumë se kaq, dhe mund ta çaktivizosh te Cilësimet.
+MË KUJTO
++{0} fisha gati!
+Shiko një video: {0}
+Fishat e ardhshme falas pas {0}
+BLACKJACK
+4 tavolina  •  paguan 3 me 2
+Ultimate Texas Hold'em
+Lojtar, Bankier ose Barazim
+AUTOMATE
+Lucky Ace 7s  •  10 linja
+VIDEO POKER
+Jacks or Better
+SIC BO
+Tre zare  •  i madh apo i vogël
+Pass Line  •  Field  •  Odds
+RULETË
+Evropiane me një zero
+JE I RRASKAPITUR
+Shiriti i energjisë është bosh. Merr diçka te bari për të vazhduar lojën, ose kthehu më vonë: energjia rikuperohet ngadalë kur je larg.
+SHKO TE BARI
+ZGJIDH TAVOLINËN
+BASTET
+NIVELI {0}
+ULU
+DUHEN {0}
+Arrij nivelin {0} për të luajtur këtu. Je në nivelin {1}.
+KAZINO
+DD
+MM
+VVVV
+DITA
+MUAJI
+VITI
+KUR KE LINDUR?
+Fishat janë vetëm për argëtim. Nuk kanë vlerë monetare dhe nuk mund të këmbehen kurrë me para ose çmime.
+NA VJEN KEQ, NUK MUND TË LUASH
+{0} është i disponueshëm vetëm për të rriturit.
+DALJE
+Mbyllet pas {0}...
+NA TREGO PËR VETEN
+Do të zgjedhim mikpritës, krupierë dhe stafin e barit sipas kësaj. Mund ta ndryshosh kurdo te Cilësimet.
+JAM BURRË
+JAM GRUA
+PREFEROJ TË MOS E THEM
+HYR NË KAZINO
+Stafi yt sonte:
+Faqja {0} nga {1}
+GJUHA
+AUTOMATIK
+VENDI
+Mirë se erdhët! Vendosni bastet, ju lutem.
+Kufiri i tavolinës është {0} për rrotullim.
+Prek tabelën për të vendosur fisha
+Mjaft baste!
+E GJELBËR
+e gjelbër
+e kuqe
+e zezë
+Çfarë goditjeje! Urime!
+Fitore! Fiton {0}.
+{0} {1}. Të kthehen {2}.
+Vendosni bastet, ju lutem.
+Prit sa të ndalet topthi.
+CILËSIMET
+TË PËRGJITHSHME
+GRAFIKA
+ZËRI
+PREKJA
+MIUSHI
+KONTROLLUESI
+DRIDHJA
+18+ • Fishat nuk kanë vlerë monetare • Shkronjat: Bebas Neue, Poppins, Noto (SIL OFL) • Kufijtë: Natural Earth • Të dhënat e çmimeve: Banka Botërore
+STAFI I KAZINOSË
+GRA
+BURRA
+I PËRZIER
+KUJTESA
+Fisha falas gati, dhe një kujtesë në mbrëmje para se të mbarojë një seri.
+KONTROLLO SËRISH
+RAJONI I ÇMIMEVE
+Më e shpejta: kazinoja siç është pikturuar, asgjë shtesë.
+Dyshemetë e lëmuara, druri dhe ari reflektojnë sallën.
+Pamje filmi: ngjyra të graduara, kokrrizë, shkëlqim, rreze drite, lëkurë e gjallë.
+Lente kinemaje: fokusi ndjek shikimin tënd, vija në drita, pluhur në rreze.
+CILËSIA
+E ULËT
+MESATARE
+E LARTË
+ULTRA
+REZOLUCIONI
+Më e ulët është më e butë, por nxehet më pak dhe kursen baterinë.
+MËNYRA E EKRANIT
+EKRAN I PLOTË
+NË DRITARE
+ZBUTJA E SKAJEVE
+Zbut skajet e dhëmbëzuara në kazino.
+SHPEJTËSIA E KUADROVE
+{0} FPS
+30 FPS kursen baterinë dhe i mban të freskët telefonat e vjetër.
+V-SYNC
+FUSHA E SHIKIMIT
+SHFAQ FPS
+VOLUMI KRYESOR
+MUZIKA
+EFEKTET ZANORE
+ZËRAT E STAFIT
+Murmurima e stafit kur flasin.
+PA ZË NË SFOND
+Hesht kazinonë kur je në një dritare tjetër.
+NDJESHMËRIA E SHIKIMIT
+Sa shpejt e kthen pamjen tërheqja.
+Sa shpejt e kthen pamjen tërheqja me miush.
+PËRMBYS SHIKIMIN MAJTAS / DJATHTAS
+PËRMBYS SHIKIMIN LART / POSHTË
+RENDITJA E BUTONAVE
+AUTO
+KËMBE MENU / PAMJE
+NDJESHMËRIA E LEVËS
+Sa shpejt e kthen pamjen leva e djathtë.
+PËRMBYS LEVËN MAJTAS / DJATHTAS
+PËRMBYS LEVËN LART / POSHTË
+UDHËZIME TË KONTROLLUESIT
+Tregon çfarë bën çdo buton kur luan me kontrollues.
+DRIDHJA NË
+TELEFON
+TË DYJA
+Auto: kontrolluesi kur është i lidhur, përndryshe telefoni.
+DRIDHJA E TELEFONIT
+FORCA NË TELEFON
+DRIDHJA E KONTROLLUESIT
+FORCA NË KONTROLLUES
+AUTOMATIK ({0})
+{0} hap Cilësimet, {1} hap Ditoren.
+Nuk ka kontrollues të lidhur.
+I lidhur: {0}. Po shfaqen butonat {1} (A në të djathtë konfirmon).
+I lidhur: {0}. Po shfaqen butonat {1}.
+BARI
+FATI
+Fishat, fati dhe ushqimi janë sende virtuale vetëm për argëtim: pa vlerë monetare, nuk këmbehen me para ose çmime.
+Çdo letër ka atë mundësi të shpërndahet në favorin tënd, në bastet e blackjack deri në {0} fisha (bastet më të mëdha janë standarde dhe nuk konsumojnë duar). Fillon pas fatit të fillestarit; paketat më të forta përdoren të parat.
+Lejo qasjen në vendndodhje për të marrë çmimin e vendit tënd
+Blerjet nuk janë të disponueshme në këtë version të lojës.
+DYQAN TESTIMI (pa para të vërteta)
+energji
++{0}% FISHA
+{0} duar
+fiton rreth {0}% të tyre
+Mirë se erdhe në sic bo! I madh, i vogël apo diçka më e guximshme?
+Kufiri i tavolinës është {0} për hedhje.
+TUND
+TRESHE {0}!
+LUCKY ACE 7s
+BASTI TOTAL
+TABELA E PAGESAVE
+FAT TË MBARË!
+Të duhen të paktën 10 fisha për të rrotulluar.
+MERR FISHA
+Basti u ul në sa mund të mbulosh.
+MEGA FITORE!
+FITORE E MADHE!
+U KTHYEN {0}
+PA FITIM
+LINJA {0}: {1} × {2} = {3}
+{0} YJE = {1}
+Qershi
+Limon
+Portokall
+Kumbull
+Zile
+Bar
+Shtatë
+Diamant
+As
+Yll
+YJET paguajnë kudo: 5 = {0}× bast, 4 = {1}× bast, 3 = {2}× bast.
+ASI është xhoker: zëvendëson çdo simbol përveç yllit.
+Fitimet e linjave janë shumëfisha të bastit për linjë (basti total ÷ 10), nga e majta në të djathtë nga rrota e parë.
+KTHIMI: {0}% në afat të gjatë. Çdo rrotullim është i pavarur dhe i rastësishëm.
+E MBAJTUR
+Shpërndaj, mbaj letrat që do, ndërro një herë.
+MBAJ
+KËSHILLË
+NDËRRO
+Prek letrat për t'i mbajtur, pastaj ndërro.
+Ec
+Shiko
+Butonat
+Cilësimet
+Ditore
+Rregullo
+Lëviz
+Zgjidh
+Mbyll
+Mbrapa
+I RRASKAPITUR
+FATI I FILLESTARIT {0}%
+{0} DUAR TË MBETURA
+SERI ME FAT {0}%
+{0} DUAR  •  BASTE DERI NË {1}
+NIVELI
+Sofia
+Elena
+Mia
+Valentina
+Kloe
+Isabela
+Nadia
+Aria
+Luna
+Kamila
+Aurora
+Bianca
+Serena
+Marco
+Leo
+Adrian
+Lukas
+Viktor
+Daniel
+Gabriel
+Ethan
+Julian
+Rafael
+Mateo
+Nico
+Enzo
+MIRË SE ERDHËT
+FOL ME MIKPRITËSEN
+Udhëzime dhe këshilla
+FISHA  •  BONUSE
+BLI FISHA
+Arka
+KOKTEJE  •  MEZE  •  ENERGJI
+USHQIM DHE PIJE
+Bari
+BLACKJACK PAGUAN 3 ME 2
+KRUPIERI DUHET TË NDALET NË 17
+LUAJ BLACKJACK
+Tavolina {0}  •  baste nga {1} deri në {2}
+LUAJ HOLD'EM
+Ultimate Texas Hold'em  •  ante nga {0} deri {1}
+LUAJ BAKARA
+I MADH  •  I VOGËL  •  TRESHE
+LUAJ SIC BO
+Tre zare  •  i madh apo i vogël paguan 1 me 1
+PASS LINE  •  FIELD  •  ODDS
+LUAJ CRAPS
+Pass Line paguan 1 me 1  •  odds paguajnë koeficientë të vërtetë
+LUAJ VIDEO POKER
+LUAJ NË AUTOMATE
+Jacks or Better  •  tabelë e plotë 9/6
+LUCKY ACE 7s  •  PAGUAN DERI NË 2.500× BASTIN TËND PËR LINJË
+JACKS OR BETTER  •  RRADHA MBRETËRORE PAGUAN 800×
+VENDOSNI BASTET
+LUAJ RULETË
+Rrotë evropiane  •  numri i drejtpërdrejtë paguan 35 me 1
+POROSIT NJË PIJE
+{0} ta sjell
+{0} hapet në nivelin {1}. Je në nivelin {2}: çdo raund që luan llogaritet.
+Kjo tavolinë kërkon të paktën {0} fisha.
+Tavolinat e blackjack janë drejt përpara. Afrohu te njëra dhe ulu!
+Makinat e lojërave janë te muri i djathtë, video pokeri te muri i pasmë dhe ruleta në fund.
+Hold'em-i është në cepin e pasmë majtas, pas barit.
+Bakaraja është menjëherë majtas sapo hyn.
+Sic bo është në cep pas arkës: tre zare, i madh apo i vogël.
+Tavolina e craps-it është djathtas, para makinave. Vë bast te Pass Line dhe hidh!
+Arka është këtu në të djathtën tënde, dhe bari përgjatë murit të majtë.
+I lodhur? Një meze te bari ta mbush energjinë menjëherë.
+Prek kudo në dysheme dhe do ecësh atje. Prek një tavolinë për t'u ulur.
+Andorrë
+Emiratet e Bashkuara Arabe
+Afganistan
+Antigua e Barbuda
+Anguilë
+Shqipëri
+Armeni
+Angolë
+Antarktikë
+Argjentinë
+Samoa Amerikane
+Austri
+Australi
+Arubë
+Ishujt Alandë
+Azerbajxhan
+Bosnjë-Hercegovinë
+Barbados
+Bangladesh
+Belgjikë
+Burkina-Faso
+Bullgari
+Bahrejn
+Burundi
+Benin
+Sen-Bartelemi
+Bermude
+Brunei
+Bolivi
+Karaibet holandeze
+Brazil
+Bahama
+Butan
+Ishulli Bove
+Botsvanë
+Bjellorusi
+Belizë
+Kanada
+Ishujt Kokos
+Kongo-Kinshasa
+Republika e Afrikës Qendrore
+Kongo-Brazavilë
+Zvicër
+Côte d’Ivoire
+Ishujt Kuk
+Kili
+Kamerun
+Kinë
+Kolumbi
+Kosta-Rikë
+Kubë
+Kepi i Gjelbër
+Kurasao
+Ishulli i Krishtlindjes
+Qipro
+Çeki
+Gjermani
+Xhibuti
+Danimarkë
+Dominikë
+Republika Dominikane
+Algjeri
+Ekuador
+Estoni
+Egjipt
+Saharaja Perëndimore
+Eritre
+Spanjë
+Etiopi
+Finlandë
+Fixhi
+Ishujt Falkland
+Mikronezi
+Ishujt Faroe
+Francë
+Gabon
+Mbretëria e Bashkuar
+Granadë
+Gjeorgji
+Guajana Franceze
+Gernsej
+Ganë
+Gjibraltar
+Grënlandë
+Gambi
+Guine
+Guadelupë
+Guineja Ekuatoriale
+Greqi
+Xhorxha Jugore dhe Ishujt Senduiçë të Jugut
+Guatemalë
+Guam
+Guine-Bisau
+Guajanë
+RPA i Hong-Kongut
+Ishujt Hërd e Mekdonald
+Honduras
+Kroaci
+Haiti
+Hungari
+Indonezi
+Irlandë
+Izrael
+Ishulli i Manit
+Indi
+Territori Britanik i Oqeanit Indian
+Irak
+Iran
+Islandë
+Itali
+Xhersej
+Xhamajkë
+Jordani
+Japoni
+Kenia
+Kirgizi
+Kamboxhia
+Kiribati
+Komore
+Shën-Kits dhe Nevis
+Kore e Veriut
+Kore e Jugut
+Kuvajt
+Ishujt Kajman
+Kazakistan
+Laos
+Liban
+Shën-Luçia
+Lihtenshtajn
+Sri-Lankë
+Liberi
+Lesoto
+Lituani
+Luksemburg
+Letoni
+Libi
+Marok
+Monako
+Moldavi
+Mal i Zi
+Sen-Marten
+Madagaskar
+Ishujt Marshall
+Maqedonia e Veriut
+Mali
+Mianmar (Burmë)
+Mongoli
+RPA i Makaos
+Ishujt e Marianës Veriore
+Martinikë
+Mauritani
+Montserat
+Maltë
+Mauritius
+Maldive
+Malavi
+Meksikë
+Malajzi
+Mozambik
+Namibi
+Kaledoni e Re
+Niger
+Ishulli Norfolk
+Nigeri
+Nikaragua
+Holandë
+Norvegji
+Nepal
+Nauru
+Niue
+Zelandë e Re
+Oman
+Panama
+Peru
+Polinezia Franceze
+Guineja e Re-Papua
+Filipine
+Pakistan
+Poloni
+Shën-Pier dhe Mikelon
+Ishujt Pitkern
+Porto-Riko
+Territoret Palestineze
+Portugali
+Palau
+Paraguai
+Katar
+Reunion
+Rumani
+Serbi
+Rusi
+Ruandë
+Arabi Saudite
+Ishujt Solomon
+Sejshelle
+Sudan
+Suedi
+Singapor
+Shën-Elenë
+Slloveni
+Svalbard e Jan-Majen
+Sllovaki
+Sierra-Leone
+San-Marino
+Senegal
+Somali
+Surinami
+Sudani i Jugut
+Sao-Tome e Principe
+Salvador
+Sint-Marten
+Siri
+Esvatini
+Ishujt Turks dhe Kaikos
+Çad
+Territoret Jugore Franceze
+Togo
+Tajlandë
+Taxhikistan
+Tokelau
+Timor-Leste
+Turkmenistan
+Tunizi
+Tonga
+Turqi
+Trinidad e Tobago
+Tuvalu
+Tajvan
+Tanzani
+Ukrainë
+Ugandë
+Ishujt Periferikë të SHBA-së
+SHBA
+Uruguai
+Uzbekistan
+Vatikan
+Shën-Vincent dhe Grenadine
+Venezuelë
+Ishujt e Virgjër Britanikë
+Ishujt e Virgjër të SHBA-së
+Vietnam
+Vanuatu
+Uollis e Futuna
+Samoa
+Kosovë
+Jemen
+Majotë
+Afrika e Jugut
+Zambi
+Zimbabve
+Anglisht
+Afrikanisht
+Amarisht
+Arabisht
+Azerbajxhanisht
+Bjellorusisht
+Bullgarisht
+Bengalisht
+Boshnjakisht
+Katalonisht
+Çekisht
+Danisht
+Gjermanisht
+Greqisht
+Spanjisht
+Estonisht
+Baskisht
+Persisht
+Finlandisht
+Filipinisht
+Frëngjisht
+Irlandisht
+Galicisht
+Guxharatisht
+Hausisht
+Hebraisht
+Indisht
+Kroatisht
+Frëngjisht (Haiti)
+Hungarisht
+Armenisht
+Indonezisht
+Igboisht
+Islandisht
+Italisht
+Japonisht
+Gjeorgjisht
+Kazakisht
+Kmerisht
+Kanadisht
+Koreanisht
+Kirgizisht
+Luksemburgisht
+Laosisht
+Lituanisht
+Letonisht
+Madagaskarisht
+Maqedonisht
+Malajalamisht
+Mongolisht
+Maratisht
+Malajisht
+Maltisht
+Birmanisht
+Norvegjishte letrare
+Nepalisht
+Holandisht
+Punxhabisht
+Polonisht
+Pashtoisht
+Portugalisht (Brazil)
+Portugalisht (Portugali)
+Retoromanisht
+Rumanisht
+Rusisht
+Kiniaruandisht
+Sinhalisht
+Sllovakisht
+Sllovenisht
+Somalisht
+Shqip
+Serbisht
+Suedisht
+Suahilisht
+Tamilisht
+Teluguisht
+Taxhikisht
+Tajlandisht
+Turkmenisht
+Turqisht
+Ukrainisht
+Urduisht
+Uzbekisht
+Vietnamisht
+Xhosaisht
+Jorubaisht
+Kinezisht (i thjeshtuar)
+Kinezisht (tradicional)
+Zuluisht
+Die
+Hën
+Mar
+Mër
+Enj
+Pre
+Sht

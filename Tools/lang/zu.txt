@@ -1,0 +1,659 @@
+# Zulu (zu). Machine translation by Claude.
+bd99124	Isandla Samashipsi
+c7c6dc8	Inqwaba Yamashipsi
+7512cfd	Ithileyi Lamashipsi
+fa36588	Isitebhu Samashipsi
+7994f65	OKUTHANDWA KAKHULU
+49dcc21	Igumbi Lamashipsi
+7658705	INANI ELINGCONO KAKHULU
+2f23432	Amanzi Anegesi
+418b820	I-Espresso
+97b463c	Isiphuzo Samandla
+43bbfda	Isemishi Yeklabhu
+bce7a75	Ukudla Kwebhega
+2832a8d	Isidlo Sakusihlwa Sesteki
+dee8ee8	GCWALISA KONKE
+a7c2255	Uchungechunge Lwenhlanhla
+7919163	Uchungechunge Olushisayo
+74fdfc2	INHLANHLA ENKULU KAKHULU
+d79cd12	Itafula Lethusi
+2a8ff35	Itafula Lesiliva
+51877b2	Itafula Legolide
+9282152	Itafula Ledayimane
+0de8764	Sicela ufake unyaka ofanele.
+d4e14c9	Sicela ufake inyanga efanele (1-12).
+addd156	Sicela ufake usuku olufanele.
+d78a4f4	Lolo suku lusesikhathini esizayo.
+787c7c6	Wamukelekile etafuleni lami! Usukulungele ukudlala?
+8b0f93e	Kuhle ukukubona. Hlala phansi!
+8338021	Sawubona! Amakhadi asemasha, nami ngimusha.
+75750f9	Wamukelekile! Masenze lobu busuku bube buhle.
+95aac36	Beka ukubheja kwakho noma nini lapho usulungile.
+8bc63c1	Amashipsi phansi, masibone amakhadi.
+984b7f3	Sidlalela ini?
+b74c769	Hawu, ukubheja okukhulu! Ngiyasithanda isitayela sakho.
+77fc1fc	Nakhu ukubheja. Asihambe!
+7779a5b	Unesibindi namhlanje ebusuku, akunjalo?
+479ff82	Konke?! Inhliziyo yami iyashaya!
+7fb527c	Konke esandleni esisodwa. Ngaphandle kokwesaba!
+7bf0c5d	I-Blackjack! Akukholeki!
+123f2d5	Amashumi amabili nanye, kanjalo nje!
+cd850a7	I-Blackjack! Amakhadi ayakuthanda namhlanje ebusuku.
+55f50ee	Udlale kahle!
+79594b1	Uwinile! Wenze kahle.
+0df710e	Usemkhondweni omuhle!
+20a0c1e	Leso ngesakho.
+54d3982	Kukhulu! Uyavutha namhlanje ebusuku!
+8da8f1e	Kuseduze kakhulu! Esilandelayo ngesakho.
+5d921e1	Ikhasino ibe nenhlanhla kulokhu.
+f923af7	Kukhohlwe, isandla esisha siyeza.
+853e7ca	Hawu, ikhadi elilodwa ngaphezulu.
+daec44f	Weqile! Kwenzeka nakwabangcono kakhulu.
+11ceaef	Ukulingana. Akekho olahlekelwayo!
+911a289	Ukulingana. Amashipsi akho aphephile.
+a89d9d9	Ngeqile! Unenhlanhla.
+f76c8fd	Kuningi kakhulu kimi. Uwinile!
+63f8d0b	I-Blackjack yekhasino, uxolo!
+465c8bf	Umhambisi unayo i-blackjack. Ishwa.
+6752f40	Ngikhombisa i-Ace. Umshwalense?
+1920c5a	Siyahlukanisa! Amathuba amabili okuwina.
+9f621da	Ukuphinda kabili. Isinyathelo esinesibindi!
+59da99d	Phinda kabili! Ikhadi elilodwa liyeza.
+3fa7769	Kuyaphela? Umkhasheli angakugcwalisela.
+4e5694b	Amashipsi ayancipha. Ufuna amanye?
+d41f057	Amashipsi aphelile! Vakashela umkhasheli noma uthathe amashipsi amahhala.
+15d90d3	Inqwaba yakho ayinalutho. Umkhasheli ungemuva kwakho.
+a9eaae1	Ubukeka ukhathele kakhulu! Thatha okokudla endaweni yokuphuza.
+5cd9e8b	Amandla aphelile? Indawo yokuphuza izokunakekela.
+37b9672	Thatha isikhathi sakho.
+c64df8c	Noma nini lapho usulungile!
+b8dfc0a	Ubusuku busemncane.
+e3def50	Amakhadi asohlangothini lwakho namhlanje ebusuku!
+953d8b7	Wamukelekile ekhasino! Isihlalo sakho siyakulinda.
+9fd9844	Sawubona kusihlwa! Amatafula ayashisa namhlanje ebusuku.
+2d42aaf	Wamukelekile futhi! Uzizwa unenhlanhla?
+311bae7	Thepha itafula ukuze uqale ukudlala!
+3318099	Udinga amanye amashipsi? Ufike efasiteleni elifanele.
+c5b3787	Izinqwaba ezinkulu, amabhonasi amakhulu!
+21ae665	Ulambile? Khetha noma yini kumenyu.
+8b83cc0	Ukudla okuncane kugcina amandla akho ephezulu!
+35f4b0e	Wamukelekile etafuleni lami!
+8f90245	Nakhu ufikile! Indawo isivele ikhanya kakhulu.
+909e4d6	Zizwe usekhaya. Lobu busuku bungobakho.
+6ac2120	Phumula, usezandleni ezinhle lapha.
+089f04b	Wena! Bengithemba ukuthi uzodlula efasiteleni lami.
+3f2c3c9	Kuhle njalo ukubona ubuso obunobungane.
+3021db8	Bheka ukuthi ngubani lo! Uyajabula?
+769980b	Sawubona, muhle!
+5361ffd	Ngiyasithanda isitayela sakho namhlanje ebusuku.
+3316019	Unobusuku obuhle? Uyakufanelekela.
+28283fd	Qaphela, ngingase ngiqale ukukusekela.
+109ac94	Umdlali wami engimthanda kakhulu ubuyile!
+acba0e6	Hlala nami, ngizokunika okuthile okuhle.
+eb5ff2a	Wenza leli tafula lijabulise kakhulu.
+772a73c	Usuhamba kakade? Ubusuku busemncane!
+178301a	Woza, isandla esisodwa nje. Nginomuzwa omuhle!
+816036a	Awungeke ungishiye manje, sisanda kuqala!
+5c9b7e2	Ithuba lokugcina! Isandla esilandelayo singaba yisona esikhulu...
+20ce7b6	Kulungile, kulungile. Ngizogcina isihlalo sakho sifudumele. Uyathembisa ukubuya?
+51d1aeb	Akukabi khona uchungechunge? Dlala imizuliswano engu-{2} namuhla ngizoqala ukubala.
+10b25d9	Isiqalo esisha! Imizuliswano engu-{2} nelangabi lakho liyavutha.
+0c10711	Ngigcina uhlu oluncane lwabafika nsuku zonke. Awukho kulo... okwamanje.
+5e7c431	Usuku lwe-{1} lukulindile. Kusele imizuliswano engu-{2} kuphela!
+b268d84	Izinsuku ezingu-{0} zilandelana... awuzukuma manje, akunjalo?
+b32ae79	Ilangabi lakho libukeka libanda kancane namuhla. Imizuliswano engu-{2} izolifudumeza.
+a6f3fbd	Bengibala: izinsuku ezingu-{0}. Masenze zibe ngu-{1}.
+1dc5c97	Ungacabangi ukuthi angiboni. Kusele imizuliswano engu-{2} ukugcina uchungechunge lwakho!
+807b82c	Izinsuku ezingu-{0} zilandelana? Sengiqala ukucabanga ukuthi uyakuthanda lapha.
+6391923	Uchungechunge lwakho luphephile namuhla. Manje uyaziqhenya nje.
+3bfbbf7	Usuku lwe-{0}, kuqediwe. Kusasa ngesikhathi esifanayo?
+ca2a2c1	Izinsuku ezingu-{0}! Kufanele ngikugcinele isihlalo.
+54f991f	Nakhu: usuku lokuqala lochungechunge lwakho! Buya kusasa sizenze zibe mbili.
+a1e7ab0	Isonto lonke lilandelana! Ngimangele ngempela.
+96cee95	Izinsuku ezingamashumi amathathu! Cishe usebenza lapha manje.
+a9834cd	Izinsuku eziyikhulu. Ngitshela wonke umuntu ngawe.
+071317f	Lezo yizinsuku ezingu-{0} zilandelana! Zibuke.
+0964027	Uchungechunge lusindisiwe: usuku lwe-{0}! Bengazi ukuthi uzokwazi.
+c7f2a1f	Usuku lwe-{0}! Ngiyabheja ukuthi ngeke ufike ku-{1}.
+3ab91d0	Dlala izandla eziyi-10 ze-blackjack
+38e863d	Wina izandla ezi-5 ze-blackjack
+6ac41cc	Thola i-blackjack
+74cf149	Wina amashipsi angu-500 ku-blackjack
+cd60e0c	Wina ukubheja kwakho kuphindwe ka-5 kumaslothi
+6f7ac28	Dlala imizuliswano emi-5 ye-roulette
+8a57c54	indawo ye-GPS
+4919635	inethiwekhi yeselula
+527b094	ukuxhumana kwe-inthanethi
+f49ae82	izilungiselelo zedivayisi
+60827d3	izwe lokuhlola
+0b2f8d8	akuqinisekisiwe (intengo ejwayelekile)
+50d8b4a	akwaziwa
+4fb7a4e	12 yokuqala
+647a0eb	12 yesibili
+a934745	12 yesithathu
+3de80ab	2 ku-1
+bb4e68e	OKUBOMVU
+a9414ab	OKUMNYAMA
+710756a	AMANQAMU
+70ca748	OKULINGANAYO
+4d60d6c	AMANANI ANOBULUNGISWA EZWENI LAKHO
+1674d95	Amanani esitolo alungiswa ngokomnotho wezwe lakho, ukuze abadlali yonke indawo bakhokhe intengo enobulungiswa.
+4ec27ee	Ukuze sithole izwe lakho sihlola indawo yakho elinganiselwayo kanye. Ihlanganiswa nezwe kudivayisi yakho futhi ayithunyelwa ndawo. Uma wenqaba, kusebenza amanani ajwayelekile.
+ff3dbb4	QHUBEKA
+43a6a8d	Uyaphuma ekhasino?
+ad209a0	Amashipsi akho nenqubekela phambili kulondoloziwe.
+5860c84	PHUMA
+f1e0808	HLALA
+15ae7ac	Ukuqandisa uchungechunge kusindise uchungechunge lwakho lwezinsuku ezingu-{0} izolo.
+d375ffb	Ukuqandisa okungu-{0} kusindise uchungechunge lwakho lwezinsuku ezingu-{1}.
+fd8ab39	Uchungechunge lwakho lwezinsuku ezingu-{0} luphelile. Dlala imizuliswano engu-{1} namuhla ukuze uqale olusha!
+7fa2db4	UMSEBENZI UQEDIWE
+255325c	+amashipsi angu-{0}
+d205ece	YONKE IMISEBENZI IQEDIWE!
+4acbed2	Ibhonasi yansuku zonke +amashipsi angu-{0}. Imisebenzi emisha kusasa.
+ab2ceb3	IZINGA {0}!
+86e2afb	Isigaba esibalulekile! +amashipsi angu-{0}
+9ae18ad	Buya kusasa ukuze uqhubeke
+7af7e7c	+1 ukuqandisa uchungechunge
+b5b9597	UCHUNGECHUNGE LWEZINSUKU EZINGU-{0}!
+62ec60d	Ukuthenga akutholakali kulolu hlelo.
+1f9786c	Ukuthenga kuhlulekile. Awukhokhiswanga.
+3e4c600	Kungezwe +amashipsi angu-{0}!
+728ada5	{0}: izandla ezingu-{1} ngenhlanhla engu-{2}%!
+af5e232	{0}: +{1}% amandla
+001a53b	Akutholakali kule divayisi
+2607004	Amavidiyo awakwazi ukulayisha kule nethiwekhi
+569c30d	Buya kusasa
+9964820	+amashipsi angu-{0} (kusele angu-{1} namuhla)
+e1bd888	+amashipsi amahhala angu-{0}!
+619bd5d	+1 ukuqandisa uchungechunge!
+f70d794	Ayikho ividiyo okwamanje. Zama futhi ngemuva kwesikhashana.
+264d71b	ITHUSI
+462e839	ISILIVA
+81ff70a	IGOLIDE
+50e122e	IDAYIMANE
+57f5f5e	Imenyu
+69bd4ef	Ukubuka
+a42f608	Sihlola isifunda sakho...
+1db422c	Akuqinisekisiwe ({0}): amanani ajwayelekile
+9bc0807	{0} ({1}): amanani nge-{2}
+ae8c393	Izikhumbuzo
+aefd59b	Amashipsi amahhala alungile nezikhumbuzo zochungechunge
+3125838	Amashipsi akho amahhala alungile
+233027b	Amashipsi angu-{0} akulindile e-Lucky Ace.
+b93976b	Gcina uchungechunge lwakho lwezinsuku ezingu-{0}
+bd68038	Dlala imizuliswano engu-{0} namuhla ukuze ingaqali phansi phakathi kwamabili.
+b700b02	BHEJA
+16ec74f	SULA
+928226b	PHINDA UBHEJE
+55591e0	HAMBISA
+43e7971	MA
+6df63ca	HLUKANISA
+db82d3a	CHA, NGIYABONGA
+28d6be8	BHEJA {0}+
+9587b70	Umkhawulo wetafula ufinyelelwe
+b9ac47d	Amashipsi awanele
+d237ade	Umhambisi ukhombisa i-Ace. Umshwalense ngo-{0}?
+bf07c14	Umshwalense ukhokha u-{0}
+b6e674a	Umhambisi akanayo i-blackjack. Umshwalense ulahlekile.
+0cc9679	WEQILE
+82ce89d	UMHAMBISI WEQILE
+6e1e1a4	I-BLACKJACK!
+662fae5	UKUWINA
+8918d00	UKULINGANA
+8df6be4	UKULAHLEKELWA
+b0377c7	Uchungechunge Lwenhlanhla lwakho luphelile. Sibuyela ku-blackjack ejwayelekile.
+824ad7c	AMASHIPSI APHELILE
+ff1822d	Buka ividiyo emfushane uthole amashipsi amahhala angu-{0}, noma uvakashele umkhasheli.
+e4cac2f	Vakashela umkhasheli ukuze ugcwalise amashipsi akho.
+c3df3e7	AMASHIPSI AMAHHALA
+b169d33	UMKHASHELI
+4d38f66	KAMUVA
+cb8171b	Qeda lesi sandla kuqala.
+3aa6941	“{0}”
+6f846f4	ISANDLA ESISODWA FUTHI
+a79d4f2	HAMBA
+641ad58	UCHUNGECHUNGE LWENHLANHLA
+fc45931	Ibhonasi yokwamukela abadlali abasha: ezandleni zakho zokuqala ezingu-<b>{0}</b> ibhokisi lamakhadi lomhambisi lihlelwe ukuze sikuzuzise, ngakho uzowina cishe zonke izandla.
+7fb55b3	Inzuzo manje: <b><color=#7CFC9A>{0}%</color></b>   Izandla ezisele: <b>{1}</b>
+0a5fc06	Ngokudlala kahle lokho kuwina cishe u-<b>{0}%</b> wezandla, uma kuqhathaniswa no-{1}% cishe ku-blackjack ejwayelekile. Ukubheja okukhulu kuyi-blackjack ejwayelekile futhi akusebenzisi izandla. Uma izandla ziphela, wonke amatafula aphinde abe yi-blackjack ejwayelekile, enobulungiswa.
+c3a8946	NGIYAQONDA
+8dfc44a	UFUNA INHLANHLA YAKHO IBUYE?
+06b7689	NSUKU ZONKE
+4035996	UCHUNGECHUNGE LWANSUKU ZONKE
+fbe7f18	IZINSUKU ZILANDELANA
+7a46866	NAMUHLA
+4753707	BUKA ISIKHANGISO
+6bb45f3	THENGA
+62a945f	UKUQANDISA UCHUNGECHUNGE
+38c6090	Ukuqandisa uchungechunge kulungile.
+8fe681f	Amashipsi awanele okuqandisa.
+1507c40	KHANSELA
+ac5ef96	Amathuba:
+1200f20	{0}%
+003a689	Uwine amashipsi angu-{0}!
+f757137	IMISEBENZI YANAMUHLA
+9554fea	Dlala nsuku zonke ukuze wakhe uchungechunge
+5c8dbb8	Inhloso yanamuhla ifinyelelwe! Sizobonana kusasa.
+1aeb9a1	Namuhla: imizuliswano engu-{0} / {1} (noma yimuphi umdlalo)
+bb92856	Ukuqandisa uchungechunge: {0} / {1}
+0ec6216	Sindisa uchungechunge lwakho ngosuku owuphuthayo. +1 njalo ezinsukwini ezi-7.
+cc0a745	KUGCWELE
+419a962	AYIKHO IVIDIYO
+2dabd99	ISIKHANGISO MASINYANE
+f12e166	Ibhonasi yochungechunge: imiklomelo ×{0}
+596b5e0	OKULANDELAYO  {0}
+7f7e7fc	Konke kuqediwe! Ibhonasi iqoqiwe.
+03a0f2a	Imisebenzi emisha phakathi kwamabili.
+4784874	Qeda yomithathu: +amashipsi ebhonasi angu-{0}
+42c5cda	DLALA
+337211e	IMIDLALO
+8f5e3bd	Hudula ngakwesokunxele ukuze uhambe  •  Hudula ngakwesokudla ukuze ubuke  •  Thepha ukuze uye
+d00d221	Abangu-18+ kuphela  •  Amashipsi awokuzijabulisa: awanalo inani lemali, awasoze ashintshwe ngemali noma imiklomelo
+b60f038	Sivula iminyango...
+2e5bcce	Wamukelekile! Amashipsi akho okwamukela angu-{0} alungile. Amatafula aphambili ngqo!
+7ef7ae3	+amashipsi amahhala angu-{0}! Amanye emahoreni angu-{1}.
+5d82af9	Amashipsi amahhala agcwaliswa njalo emahoreni angu-{0}. Alandelayo ku-{1}.
+5469985	{0}h {1}m
+bb65beb	{0}m {1}s
+ac8ba93	GCINA UCHUNGECHUNGE LWAKHO
+560bfa1	Ufuna isikhumbuzo kusihlwa lapho ungakadlali, nalapho amashipsi akho amahhala esalungile? Akusoze kwedlule lokho, futhi ungakuvala kuZilungiselelo.
+b724a40	NGIKHUMBUZE
+9e0c898	+amashipsi angu-{0} alungile!
+1207e28	Buka ividiyo: {0}
+db3655b	Amashipsi amahhala alandelayo ku-{0}
+4ca9be5	I-BLACKJACK
+9a612b1	Amatafula angu-4  •  ikhokha u-3 ku-2
+1194439	AMASLOTHI
+6555152	Lucky Ace 7s  •  imigqa eyi-10
+255b1a1	I-ROULETTE
+6df1551	YaseYurophu enoziro olulodwa
+379b146	UKHATHELE KAKHULU
+340e5c4	Ibha yakho yamandla ayinalutho. Thatha okuthile endaweni yokuphuza ukuze uqhubeke udlala, noma ubuye kamuva: amandla abuya kancane uma ungekho.
+a517396	YA ENDAWENI YOKUPHUZA
+7c7227f	KHETHA ITAFULA LAKHO
+c963de3	UKUBHEJA
+c433657	IZINGA {0}
+083ac39	HLALA PHANSI
+9698219	KUDINGEKA {0}
+34b737e	Finyelela izinga {0} ukuze udlale lapha. Usezingeni {1}.
+6cc19a9	IKHASINO
+9d1fece	USUKU
+d3bb0c3	INYANGA
+c0f0cad	UNYAKA
+43985ff	WAZALWA NINI?
+293fda2	Amashipsi awokuzijabulisa kuphela. Awanalo inani lemali futhi awasoze ashintshwe ngemali noma imiklomelo.
+3e9128d	UXOLO, AWUKWAZI UKUDLALA
+b5e8985	I-{0} itholakala kubantu abadala kuphela.
+bb1b380	PHUMA
+d9f9432	Kuvaleka ku-{0}...
+c6e102d	SITSHELE NGAWE
+31120ce	Sizokhetha abasingathi, abahambisi nabasebenzi bendawo yokuphuza abafanelana nawe. Ungakushintsha noma nini kuZilungiselelo.
+49e8df9	NGINGINDODA
+85abe81	NGINGOWESIFAZANE
+76cc98c	NGINCAMELA UKUNGASHO
+964daf7	NGENA EKHASINO
+2efb69a	Abasebenzi bakho namhlanje ebusuku:
+c10e749	Ikhasi {0} kwangu-{1}
+2a3ffd9	ULIMI
+c673535	OKUZENZAKALELAYO
+d1245d2	IZWE
+531fb3f	Amashipsi awanele kulokho kubheja.
+55ad592	BUYISELA EMUVA
+8f191f9	UKUBHEJA OKUPHELELE  {0}
+82e1181	Thepha ibhodi ukuze ubeke amashipsi
+bb19a75	Akusekho ukubheja!
+5becf07	OKULUHLAZA
+bc74f4f	okuluhlaza
+7898801	okubomvu
+466bc8c	okumnyama
+f2edfbf	Yeka ukushaya! Halala!
+b252caf	Uwinile! Uwina u-{0}.
+8587d14	UKUWINA  +{0}
+b862a2b	{0} {1}. U-{2} ubuyela kuwe.
+a306d0a	KUBUYISELWE  {0}
+af3134d	Akukho kuwina kulokhu
+52205f4	Linda ibhola lime.
+c4b9243	IZILUNGISELELO
+44d863e	OKUJWAYELEKILE
+2bbca79	IZITHOMBE
+955c8b4	UMSINDO
+c701f5f	UKUTHINTA
+efcc94a	IGUNDANE
+8433628	ISILAWULI
+d868a50	UKUDLIDLIZA
+f8692c7	18+ • Amashipsi awanalo inani lemali • Amafonti: Bebas Neue, Poppins, Noto (SIL OFL) • Imingcele: Natural Earth • Idatha yamanani: Ibhange Lomhlaba
+da46447	ABASEBENZI BEKHASINO
+594b81e	ABESIFAZANE
+69d3313	AMADODA
+b4325d3	OKUXUBILE
+414594a	IZIKHUMBUZO
+6cac87b	Amashipsi amahhala alungile, nesikhumbuzo sakusihlwa ngaphambi kokuba uchungechunge luphele.
+e43b2e0	HLOLA FUTHI
+7c9e8f9	ISIFUNDA SAMANANI
+495c70e	Okushesha kakhulu: ikhasino njengoba ipendiwe, akukho okwengeziwe.
+b052523	Phansi okucwebezelayo, ukhuni negolide kubonisa igumbi.
+6bd30d7	Ukubukeka kwefilimu: imibala elungisiwe, okusanhlamvu, ukukhanya, imisebe yokukhanya, isikhumba esiphilayo.
+21b6e1d	Ilensi yesinema: ukugxila kulandela iso lakho, imidwa ezibani, uthuli emisebeni.
+fb7c2e8	IKHWALITHI
+d8b9679	EPHANSI
+f68525a	EPHAKATHI
+d77d0b2	EPHEZULU
+9289eee	ULTRA
+637e313	UKUCACA
+2e7b141	Ephansi ithambile kodwa ipholile futhi yonga ibhethri.
+93dcfb5	IMODI YESIKRINI
+3c6eac3	ISIKRINI SONKE
+f3690b1	IWINDI
+cfa6200	UKUBUSHELELISA AMACALA
+ad50489	VALIWE
+f178804	Kubushelelisa amacala angalingani ekhasino.
+4266288	IJUBANE LOZIMELE
+d031ab0	{0} FPS
+a2b7514	I-30 FPS yonga ibhethri futhi igcina amafoni amadala epholile.
+0babcee	V-SYNC
+6656e25	INKUNDLA YOKUBONA
+244aadb	BONISA I-FPS
+41c8f6e	IVOLUMU ENKULU
+bf3af1f	UMCULO
+bd80907	IMISINDO EYENGEZIWE
+d098036	AMAZWI ABASEBENZI
+93c6484	Umsindo ophansi abasebenzi abawenzayo lapho bekhuluma.
+16bf71a	THULISA NGEMUVA
+85b2ee7	Thulisa ikhasino uma usewindini elinye.
+8e3634e	UKUZWELA KOKUBUKA
+880dc05	Ukuthi ukuhudula kuphendula ukubuka ngokushesha kangakanani.
+750c60f	Ukuthi ukuhudula ngegundane kuphendula ukubuka ngokushesha kangakanani.
+8b988eb	GUQULA UKUBUKA KWESOKUNXELE / KWESOKUDLA
+cacf0cc	GUQULA UKUBUKA PHEZULU / PHANSI
+2d13b68	UKUHLELWA KWEZINKINOBHO
+50c3f10	OKUZENZAKALELAYO
+b471e5c	SHINTSHANISA IMENYU / UKUBUKA
+d9a59f1	UKUZWELA KWENDUKU
+ec14343	Ukuthi induku yesokudla iphendula ukubuka ngokushesha kangakanani.
+a79af23	GUQULA INDUKU KWESOKUNXELE / KWESOKUDLA
+acfc66e	GUQULA INDUKU PHEZULU / PHANSI
+56bb461	IZINKOMBA ZESILAWULI
+51cf49a	Kubonisa ukuthi inkinobho ngayinye yenzani lapho udlala ngesilawuli.
+dff7431	DLIDLIZA KU
+34139ab	IFONI
+15ee988	KOKUBILI
+465cc91	Okuzenzakalelayo: isilawuli uma sixhunyiwe, uma kungenjalo ifoni.
+f6fed84	UKUDLIDLIZA KWEFONI
+8e97fa7	AMANDLA EFONI
+486ba2d	UKUDLIDLIZA KWESILAWULI
+8008889	AMANDLA ESILAWULI
+ea9233e	OKUZENZAKALELAYO ({0})
+167dda7	I-{0} ivula Izilungiselelo, i-{1} ivula Nsuku Zonke.
+29a4ef9	Asikho isilawuli esixhunyiwe.
+558ecd2	Kuxhunyiwe: {0}. Kubonisa izinkinobho ze-{1} (u-A ngakwesokudla uyaqinisekisa).
+d6eee9e	Kuxhunyiwe: {0}. Kubonisa izinkinobho ze-{1}.
+78525d5	INDAWO YOKUPHUZA
+099db9f	INHLANHLA
+b4a8b06	Amashipsi, inhlanhla nokudla kuyizinto zokuzijabulisa ezingekho ngempela kuphela: azinalo inani lemali, azikwazi ukushintshwa ngemali noma imiklomelo.
+04fbc6d	Vumela ukufinyelela endaweni ukuze uthole intengo yezwe lakho
+2ae87fc	Ukuthenga akutholakali kulolu hlelo lomdlalo.
+8239a84	ISITOLO SOKUHLOLA (akusiyo imali yangempela)
+173d916	amandla
+b2c67eb	+{0}% AMASHIPSI
+58e8011	izandla ezingu-{0}
+ce80712	iwina cishe u-{0}% wazo
+c69e8ee	LUCKY ACE 7s
+fc99288	UKUBHEJA OKUPHELELE
+c1c00cd	ITHEBULA LOKUKHOKHA
+3930abd	INHLANHLA ENHLE!
+5aa1edb	THOLA AMASHIPSI
+f5a1812	Ukubheja kwehliselwe kulokho ongakukhokha.
+5c63f61	UKUWINA OKUKHULU KAKHULU!
+652544f	UKUWINA OKUKHULU!
+91bc41c	KUBUYISELWE {0}
+3714283	AKUKHO KUWINA
+33c0faa	UMUGQA {0}: {1} × {2} = {3}
+9f59e6e	IZINKANYEZI EZINGU-{0} = {1}
+d6eee90	Ishereli
+4459b79	Ulamula
+09fb6aa	Iwolintshi
+cb92e50	Ipulamu
+d419866	Insimbi
+e496fd2	Bar
+63abb56	Isikhombisa
+b3850e0	Idayimane
+fc2b5a9	I-Ace
+85a7de6	Inkanyezi
+c31b035	IZINKANYEZI zikhokha noma kuphi: 5 = {0}× ukubheja, 4 = {1}× ukubheja, 3 = {2}× ukubheja.
+f97509c	I-ACE iyi-wild: ithatha indawo yazo zonke izimpawu ngaphandle kwenkanyezi.
+3e8bc69	Inkokhelo yemigqa iphindaphinda ukubheja komugqa (ukubheja okuphelele ÷ 10), kusuka kwesokunxele kuya kwesokudla kusukela kusondo lokuqala.
+e0c705d	Hamba
+b8db515	Buka
+503d46d	Izinkinobho
+c7f73bb	Izilungiselelo
+728298d	Nsuku Zonke
+ab166bd	Lungisa
+76cdb95	Nyakaza
+8598222	Khetha
+bbfa773	Vala
+b52b36b	Emuva
+ab37588	UKHATHELE
+0c94e98	KUSELE IZANDLA EZINGU-{0}
+51ed273	UCHUNGECHUNGE LWENHLANHLA {0}%
+3401470	IZANDLA EZINGU-{0}  •  UKUBHEJA KUFIKA KU-{1}
+f481cc6	IZINGA
+daad514	KHULUMA NOMSINGATHI
+bcefb10	Iziqondiso namathiphu
+c28e782	AMASHIPSI  •  AMABHONASI
+0c69ec4	THENGA AMASHIPSI
+78c0727	Umkhasheli
+1737fab	AMAKHOKHTHEYILI  •  OKUDLA OKULULA  •  AMANDLA
+9e008ae	UKUDLA NEZIPHUZO
+f7881e8	Indawo yokuphuza
+0e979ed	I-BLACKJACK IKHOKHA U-3 KU-2
+eea0d12	UMHAMBISI KUFANELE AME KU-17
+4db37bf	DLALA I-BLACKJACK
+0ffdd99	Itafula {0}  •  ukubheja ku-{1} kuya ku-{2}
+b4f938b	DLALA AMASLOTHI
+26b1e39	DLALA I-ROULETTE
+7ef0215	ODA ISIPHUZO
+fe38d73	U-{0} uzokuletha
+d85f1ad	Leli tafula lidinga okungenani amashipsi angu-{0}.
+cbfe016	Amatafula e-blackjack aphambili ngqo. Hamba uye kwelinye uhlale phansi!
+64d9faf	Umkhasheli ulapha ngakwesokudla sakho, indawo yokuphuza iseduze kodonga lwesokunxele.
+e4c6e0b	Ukhathele? Okokudla okulula endaweni yokuphuza kugcwalisa amandla akho ngokushesha.
+d5ab68f	Thepha noma kuphi phansi uzohamba uye khona. Thepha itafula ukuze uhlale phansi.
+cc21f74	OKUNCANE
+dc01dec	OKUKHULU
+5fb90b0	NOMA YIMIPHI EMITHATHU
+9c716f1	Itafula le-hold'em
+3b6ab84	Dlala izandla ezingu-8 ze-hold'em
+6c617ca	Wina izandla ezi-4 ze-hold'em
+44ce500	Dlala izandla eziyi-10 ze-baccarat
+b90cff7	Wina izandla ezi-5 ze-baccarat
+3e4dfa9	Dlala izandla eziyi-15 ze-video poker
+854fe20	Dlala imizuliswano engu-8 ye-sic bo
+dfddac1	Wina imizuliswano emi-4 ye-sic bo
+2973ea7	Phonsa amadayisi izikhathi eziyi-15 ku-craps
+737be17	Wina ukuphonsa oku-4 ku-craps
+4dbb81d	Thola i-flush noma ngcono ku-video poker
+19aa07b	I-royal flush
+cf83e72	I-straight flush
+d27ba03	Ezine ezifanayo
+dbe8641	I-full house
+7c936d7	I-flush
+2501c65	Ukulandelana
+ca1a0d4	Ezintathu ezifanayo
+6876b40	Amapheya amabili
+2537f88	Iphea
+b4b323e	Ikhadi eliphezulu
+98fd5af	BACCARAT
+df66d5a	Wamukelekile ku-baccarat! Umdlali, Ibhange noma Ukulingana?
+5055efd	UMDLALI
+3f90696	UKULINGANA
+0d75f63	IBHANGE
+0ebd5a4	IMIPHUMELA YAKAMUVA
+511993d	U
+ae4f281	I
+c2c53d6	L
+11023a0	UKULINGANA  {0}
+503d5f1	UMDLALI UYAWINA  {0} KU-{1}
+0eb4be5	IBHANGE LIYAWINA  {0} KU-{1}
+7859af1	CRAPS
+4083dbd	Wamukelekile ku-craps! Bheja ku-Pass Line bese uphonsa.
+d266326	ISITHUPHA
+c506f3a	ISISHIYAGALOLUNYE
+987f4e9	FIELD
+71c1b2b	2 3 4 9 10 11 12  •  u-2 no-12 bakhokha kabili
+d0ac294	NOMA YIMUPHI U-7
+9b2f0c3	NOMA YIMUPHI U-CRAPS
+f62ac59	DON'T PASS BAR
+6080ade	1:1  •  u-12 ukulingana
+c07247a	PASS LINE
+6229f78	ODDS
+29bf819	amathuba angempela
+387d7a5	KUVULIWE
+229c9cc	Ama-odds abekwa ngemuva kwe-Pass Line uma kukhona iphoyinti.
+c2c8e82	Ama-odds adinga ukubheja ku-Pass Line.
+1784d43	Ama-odds akho asephezulu kakhulu.
+fdc3442	Ukubheja komugqa kwenziwa ekuphonseni kokuqala.
+97ce95b	ETAFULENI  {0}
+a895ec0	Iphoyinti ngu-{0}: liphonse futhi ngaphambi kuka-7. Ama-odds ngemuva kwe-Pass Line akhokha amathuba angempela.
+d9f9d65	PHONSA
+bcf32ef	Iphoyinti ngu-{0}.
+5b450b4	{0}! Iphoyinti litholakele. Uwinile!
+9746e08	Kuphume u-7. Umphonsi omusha, ukuphonsa kokuqala okusha.
+4fc4664	{0}, i-natural! I-Pass Line iyawina.
+203f466	{0}, craps. Umugqa uyahlulwa.
+0f8e260	Linda amadayisi ame.
+6a98cfe	USHIYA ITAFULA?
+8430088	Ukubheja kwakho komugqa kusadlala ephoyintini {0}. Uma uhamba manje, kuzolahleka.
+0e138d1	HOLD'EM
+5e023be	Wamukelekile ku-hold'em! Beka i-ante sibone amakhadi.
+0cd62f5	ANTE
+5e9f331	BLIND
+3b935ab	I-BLIND IYAKHOKHA
+20713a4	Umhambisi uyafaneleka ngephea noma ngcono
+d37267c	CHECK
+9a4e316	FOLD
+88313c4	BHEJA {0}×
+42c6fea	I-ante {0} + i-blind {0}. Gcina enye engu-{1} yokukhuphula.
+f541cec	Check, noma ubheje kathathu noma kane i-ante?
+fc74a79	Khuphula manje ngo-4× noma ngo-3× we-ante, noma wenze check ubone i-flop.
+b687501	Ithuba lokugcina: bheja u-1× we-ante, noma wenze fold ulahlekelwe i-ante ne-blind.
+400009c	Bheja u-2× we-ante manje, noma wenze check ubone amakhadi amabili okugcina.
+f4abdf9	Nansi i-flop.
+0e51f2c	I-turn ne-river.
+cc856d3	Ake sibone ukuthi nginani.
+6ba1f3e	Umhambisi akafanelekanga: i-ante yakho iyabuya.
+cf1fdc5	Wenze fold. Isandla esilandelayo ngesakho.
+177fab0	Ultimate Texas Hold'em
+c4917b9	Umdlali, Ibhange noma Ukulingana
+6e4fe7b	VIDEO POKER
+73cabd3	Jacks or Better
+91c4555	SIC BO
+d810061	Amadayisi amathathu  •  okukhulu noma okuncane
+85ab7ec	Pass Line  •  Field  •  Odds
+35d8db6	Wamukelekile ku-sic bo! Okukhulu, okuncane noma okuthile okunesibindi?
+3d05514	Umkhawulo wetafula ngu-{0} ekuphonseni ngakunye.
+86ade94	NYAKAZISA
+b69304e	EMITHATHU KA-{0}!
+5d1bcc6	KUBANJIWE
+99fa8e8	BAMBA
+249d1c0	ISELULEKO
+7aab1bd	SHINTSHA
+5595eb4	Thinta amakhadi ukuze uwabambe, bese ushintsha.
+1c05db9	DLALA I-HOLD'EM
+e353e5f	Ultimate Texas Hold'em  •  i-ante {0} kuya ku-{1}
+6470369	DLALA I-BACCARAT
+bbe0077	OKUKHULU  •  OKUNCANE  •  EMITHATHU
+3ba448f	DLALA I-SIC BO
+097c59c	Amadayisi amathathu  •  okukhulu noma okuncane kukhokha 1 ku-1
+af2ca30	PASS LINE  •  FIELD  •  ODDS
+f18398e	DLALA I-CRAPS
+eeede6d	I-Pass Line ikhokha 1 ku-1  •  ama-odds akhokha amathuba angempela
+34e5170	DLALA I-VIDEO POKER
+f71bdfb	Jacks or Better  •  ithebula eliphelele le-9/6
+4a6c087	JACKS OR BETTER  •  I-ROYAL FLUSH IKHOKHA 800×
+370a133	Imishini ye-slot isodongeni langakwesokudla, i-video poker isodongeni langemuva, kanti i-roulette isemuva impela.
+a2a111f	I-baccarat isesobunxele lapho ungena khona.
+25320c8	Itafula le-craps lisesokudla, phambi kwemishini ye-slot. Bheja ku-Pass Line bese uphonsa!
+dc81691	Sofia
+4d9936f	Elena
+3aa0674	Mia
+b724114	Valentina
+34d3f7f	Chloe
+0fc9dd6	Isabella
+bbd3e35	Nadia
+eac677d	Aria
+baaf10f	Luna
+8641381	Camila
+eeee9b7	Aurora
+8a59f05	Bianca
+5a0fc29	Serena
+bf38aa5	Marco
+cfaf50a	Leo
+5815f22	Adrian
+cbede02	Lucas
+f0b9995	Viktor
+7b37259	Daniel
+aaac72d	Gabriel
+2f8f37e	Ethan
+a01126e	Julian
+3e05c90	Rafael
+e1ae457	Mateo
+3398634	Nico
+7aa2d07	Enzo
+0b48017	Ibhokisi elisha lamakhadi, ngiyaxuba!
+56b40be	Sawubona futhi, kuhle ukukubona!
+0139615	WAMUKELEKILE
+7b7f9e2	Okungcono kakhulu: izinsuku ezingu-{0}
+ecae6ee	Kuzolungela emizuzwaneni engu-{0}
+6e946b7	US
+4a3a892	IN
+2857a6a	UNYA
+36a21ba	Hambisa, bamba amakhadi owafunayo, shintsha kanye.
+395ed46	THATHA IKHADI
+2477f78	Ngithanda lokho kumamatheka. Ubusuku benhlanhla?
+0725283	Isisefu Somdlali Omkhulu
+dbfe736	Cross
+1cc7820	Circle
+82810cb	Square
+73d3ae2	Triangle
+15fc12b	Wamukelekile! Sicela ubeke ukubheja kwakho.
+84122e7	Sicela ubeke ukubheja kwakho.
+6b7caea	BEKA UKUBHEJA KWAKHO
+d589374	I-BLACKJACK IKHOKHA U-3 KU-2   •   UMHAMBISI UYEMA KUZO ZONKE EZI-17   •   UMSHWALENSE UKHOKHA U-2 KU-1
+3e40f46	SHWALENSA
+097274c	PHINDA KABILI
+a45fe61	Yeka ukuwina! Wonke umuntu uyalibuka leli tafula!
+a6ce2e2	Izinsuku ezingu-{0}... kulungile, uyaziqhenya.
+781246e	Khetha ishipsi, bese uthinta Umdlali, Ibhange noma Ukulingana
+1abb2f2	Thinta amashipsi ukuze ubeke i-ante. I-blind iyalingana.
+5b38c49	{0} livuliwe
+f7b6306	{0} liyavuleka ezingeni {1}. Usezingeni {2}: wonke umzuliswano owudlalayo uyabalwa.
+b7193bc	I-sic bo isekhoneni ngale komkhasheli: amadayisi amathathu, okukhulu noma okuncane.
+8298d28	I-hold'em isekhoneni langemuva kwesobunxele, ngale kwendawo yokuphuza.
+66440e1	Zungezisa amaslothi izikhathi ezingu-20
+9205056	Wina ukuzungezisa oku-5 kwamaslothi
+6978cc0	Wina ukuzungezisa oku-3 kwe-roulette
+457d20f	UKUZUNGEZISA KWANSUKU ZONKE
+9623247	ZUNGEZISA
+80948a4	Ukuzungezisa okukodwa kwamahhala nsuku zonke
+380eb75	Umkhawulo wetafula ngu-{0} ngokuzungezisa ngakunye.
+67b6973	Udinga okungenani amashipsi ayi-10 ukuze uzungezise.
+523f8dc	UKUBUYISELWA: {0}% esikhathini eside. Ukuzungezisa ngakunye kuzimele futhi akuhleliwe.
+c8ebbcc	Shaya inombolo eyodwa obhejele yona
+910a1ed	Isondo laseYurophu  •  inombolo eyodwa ikhokha u-35 ku-1
+f70bfdc	Jacks or Better
+576c683	Ezandleni ezingu-<b>{0}</b> ezilandelayo inzuzo iyancipha kancane kancane, bese wonke amatafula ayi-blackjack ejwayelekile, enobulungiswa evela ebhokisini lamakhadi elixutshiwe elinamadeki ama-6 (i-blackjack ikhokha u-3 ku-2, umhambisi uyema kuzo zonke ezi-17).
+ba5b1de	Ukuqandisa uchungechunge kugcina uchungechunge lwakho luphila ngosuku ongadlali ngalo. Ungaba nakho okungafika ku-{0}.\n\nUfuna ukuthenga okukodwa ngamashipsi angu-{1}?
+8748560	Inhlanhla yabaqalayo isohlangothini lwakho!
+506ade9	Inhlanhla yabaqalayo iphelile. Kusukela manje umdlalo unobulungiswa!
+1998202	{0}: izandla ezingu-{1} ngenhlanhla engu-{2}%, ngemuva kweNhlanhla Yabaqalayo
+0acfb6f	Wamukelekile! Inhlanhla yabaqalayo isohlangothini lwakho namhlanje ebusuku. Beka ukubheja!
+9e69668	Inhlanhla yabaqalayo iphelile. Uchungechunge Lwenhlanhla lwakho luqala manje.
+822f4f4	Inhlanhla yabaqalayo iphelile. Kusukela manje i-blackjack ejwayelekile.
+693f697	INHLANHLA YABAQALAYO
+d4f8fe0	Ezandleni ezingu-<b>{0} ze-blackjack</b> ezilandelayo ngokubheja okungafika <b>kumashipsi angu-{1}</b>, ikhadi ngalinye linethuba elingu-<b>{2}%</b> lokunikezwa ngendlela ekuzuzisayo (inzuzo efanayo neNhlanhla Yabaqalayo).
+272a97f	Inhlanhla Yabaqalayo iphelile: kusukela manje wonke amatafula ayi-blackjack ejwayelekile, enobulungiswa. Uchungechunge Lwenhlanhla lubuyisa inzuzo isikhashana.
+e2a28c9	Ikhadi ngalinye linalelo thuba lokunikezwa ngendlela ekuzuzisayo, ekubhejeni kwe-blackjack okufika kumashipsi angu-{0} (ukubheja okukhulu kujwayelekile futhi akusebenzisi izandla). Kuqala ngemuva kweNhlanhla Yabaqalayo; amaphakethe anamandla asetshenziswa kuqala.
+9b11a09	INHLANHLA YABAQALAYO {0}%
+1920e2f	Ukuphonsa kokuqala: bheja ku-Pass Line, bese uphonsa. U-7 noma u-11 bayawina, u-2, u-3 noma u-12 bayahlulwa. Ukubheja kwe-Place kuqala ukusebenza uma kukhona iphoyinti.
+99f4934	LUCKY ACE 7s  •  IKHOKHA KUFIKA KU-2,500× UKUBHEJA KWAKHO KOMUGQA

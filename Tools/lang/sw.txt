@@ -1,0 +1,659 @@
+# Swahili (sw). Machine translation by Claude.
+bd99124	Konzi la Chipu
+c7c6dc8	Mrundikano wa Chipu
+7512cfd	Trei ya Chipu
+fa36588	Rafu ya Chipu
+7994f65	MAARUFU ZAIDI
+49dcc21	Hazina ya Chipu
+0725283	Sefu ya Mcheza Kamari Mkubwa
+7658705	THAMANI BORA
+2f23432	Maji ya Gesi
+418b820	Espresso
+97b463c	Kinywaji cha Nishati
+43bbfda	Sandwichi ya Klabu
+bce7a75	Mlo wa Baga
+2832a8d	Chakula cha Jioni cha Steki
+dee8ee8	JAZA KABISA
+a7c2255	Mfululizo wa Bahati
+7919163	Mfululizo Moto
+74fdfc2	BAHATI ZAIDI
+d79cd12	Meza ya Shaba
+2a8ff35	Meza ya Fedha
+51877b2	Meza ya Dhahabu
+9282152	Meza ya Almasi
+0de8764	Tafadhali weka mwaka sahihi.
+d4e14c9	Tafadhali weka mwezi sahihi (1-12).
+addd156	Tafadhali weka siku sahihi.
+d78a4f4	Tarehe hiyo iko katika siku zijazo.
+787c7c6	Karibu kwenye meza yangu! Uko tayari kucheza?
+8b0f93e	Nimefurahi kukuona. Keti!
+8338021	Habari! Kadi ni mpya, nami pia.
+75750f9	Karibu! Tuifanye usiku huu uwe mzuri.
+95aac36	Weka dau lako ukiwa tayari.
+8bc63c1	Chipu mezani, tuone kadi.
+984b7f3	Tunachezea nini?
+b74c769	Lo, dau kubwa! Napenda mtindo wako.
+77fc1fc	Hilo ndilo dau. Twende!
+7779a5b	Una ujasiri usiku huu, sivyo?
+479ff82	Kila kitu?! Moyo wangu unadunda!
+7fb527c	Kila kitu kwenye mkono mmoja. Bila woga!
+7bf0c5d	Blackjack! Ajabu!
+123f2d5	Ishirini na moja, hivyo tu!
+cd850a7	Blackjack! Kadi zinakupenda usiku huu.
+55f50ee	Umecheza vizuri!
+79594b1	Mshindi! Hongera.
+0df710e	Uko kwenye mfululizo mzuri!
+20a0c1e	Huo ni wako.
+a45fe61	Ushindi ulioje! Kila mtu anaitazama meza hii!
+54d3982	Mkubwa sana! Unawaka moto usiku huu!
+8da8f1e	Ilikaribia sana! Unaofuata ni wako.
+5d921e1	Kasino ilibahatika safari hii.
+f923af7	Usijali, mkono mpya unakuja.
+853e7ca	Aah, kadi moja zaidi ya kipimo.
+daec44f	Umezidi! Hutokea hata kwa walio bora.
+11ceaef	Sare. Hakuna anayepoteza!
+911a289	Sare. Chipu zako ziko salama.
+a89d9d9	Nimezidi! Una bahati.
+f76c8fd	Nyingi mno kwangu. Umeshinda!
+63f8d0b	Blackjack kwa kasino, samahani!
+465c8bf	Mgawaji ana blackjack. Bahati mbaya.
+6752f40	Ninaonyesha Ace. Bima?
+1920c5a	Tunagawanya! Nafasi mbili za kushinda.
+9f621da	Kuongeza mara mbili. Hatua ya ujasiri!
+59da99d	Ongeza mara mbili! Kadi moja inakuja.
+0b48017	Kiatu kipya, ninachanganya!
+3fa7769	Zinapungua? Keshia anaweza kukuongezea.
+4e5694b	Chipu zinapungua. Ungependa zaidi?
+d41f057	Chipu zimeisha! Tembelea keshia au chukua chipu za bure.
+15d90d3	Mrundikano wako ni mtupu. Keshia yuko nyuma yako.
+a9eaae1	Unaonekana umechoka sana! Pata chakula kwenye baa.
+5cd9e8b	Nguvu zimeisha? Baa itakusaidia.
+37b9672	Usiwe na haraka.
+c64df8c	Wakati wowote ukiwa tayari!
+b8dfc0a	Usiku bado ni mchanga.
+8748560	Bahati ya mwanzilishi iko upande wako!
+e3def50	Kadi ziko upande wako usiku huu!
+506ade9	Bahati ya mwanzilishi imeisha. Kuanzia sasa mchezo ni wa haki!
+953d8b7	Karibu kasino! Kiti chako kinakusubiri.
+9fd9844	Habari za jioni! Meza zina moto usiku huu.
+2d42aaf	Karibu tena! Unajisikia una bahati?
+311bae7	Gusa meza ili uanze kucheza!
+3318099	Unahitaji chipu zaidi? Umefika dirisha sahihi.
+c5b3787	Mirundikano mikubwa, bonasi kubwa!
+21ae665	Una njaa? Chagua chochote kwenye menyu.
+8b83cc0	Kula kidogo hudumisha nishati yako!
+35f4b0e	Karibu kwenye meza yangu!
+8f90245	Uko hapa! Mahali pameng'aa zaidi tayari.
+909e4d6	Jisikie uko nyumbani. Usiku huu ni wako.
+2477f78	Napenda tabasamu hilo. Usiku wa bahati?
+6ac2120	Tulia, uko mikononi mwema hapa.
+089f04b	Wewe! Nilitumaini utapita kwenye dirisha langu.
+3f2c3c9	Daima ni vizuri kuona uso wa kirafiki.
+3021db8	Tazama nani yuko hapa! Unafurahia?
+769980b	Habari, mrembo!
+5361ffd	Napenda mtindo wako usiku huu.
+56b40be	Hey, nimefurahi kukuona tena!
+3316019	Una usiku mzuri? Unastahili.
+28283fd	Jihadhari, huenda nikaanza kukushangilia.
+109ac94	Mchezaji ninayempenda amerudi!
+acba0e6	Keti nami, nitakugawia kitu kizuri.
+eb5ff2a	Unaifanya meza hii iwe ya kufurahisha zaidi.
+772a73c	Unaondoka tayari? Usiku bado ni mchanga!
+178301a	Haya basi, mkono mmoja tu zaidi. Nina hisia nzuri!
+816036a	Huwezi kuniacha sasa, ndiyo kwanza tumeanza!
+5c9b7e2	Nafasi ya mwisho! Mkono unaofuata unaweza kuwa ule mkubwa...
+20ce7b6	Sawa, sawa. Nitakuwekea kiti chako kikiwa na joto. Unaahidi kurudi?
+51d1aeb	Bado huna mfululizo? Cheza raundi {2} leo nami nitaanza kuhesabu.
+10b25d9	Mwanzo mpya! Raundi {2} na mwali wako unawaka.
+0c10711	Nina orodha ndogo ya wanaokuja kila siku. Wewe hauko humo... bado.
+5e7c431	Siku ya {1} inakusubiri. Zimebaki raundi {2} tu!
+b268d84	Siku {0} mfululizo... hutaacha sasa, sivyo?
+b32ae79	Mwali wako unaonekana baridi kidogo leo. Raundi {2} zitaupasha joto.
+a6f3fbd	Nimekuwa nikihesabu: siku {0}. Tuzifanye {1}.
+1dc5c97	Usidhani sikugundua. Zimebaki raundi {2} kudumisha mfululizo wako!
+807b82c	Siku {0} mfululizo? Naanza kufikiri unapapenda hapa.
+6391923	Mfululizo wako uko salama leo. Sasa unajionyesha tu.
+3bfbbf7	Siku ya {0}, imekamilika. Kesho saa hii hii?
+ca2a2c1	Siku {0}! Sasa nikuwekee kiti.
+54f991f	Hii hapa: siku ya kwanza ya mfululizo wako! Rudi kesho tuzifanye mbili.
+a1e7ab0	Wiki nzima mfululizo! Nimevutiwa kweli.
+96cee95	Siku thelathini! Karibu unafanya kazi hapa.
+a9834cd	Siku mia moja. Ninamwambia kila mtu kukuhusu.
+071317f	Hizo ni siku {0} mfululizo! Jitazame.
+0964027	Mfululizo umeokolewa: siku ya {0}! Nilijua utaweza.
+c7f2a1f	Siku ya {0}! Nakuwekea dau hutafika {1}.
+a6ce2e2	Siku {0}... sawa, mjivuni.
+3ab91d0	Cheza mikono 10 ya blackjack
+38e863d	Shinda mikono 5 ya blackjack
+6ac41cc	Pata blackjack
+74cf149	Shinda chipu 500 kwenye blackjack
+66440e1	Zungusha mashine za sloti mara 20
+9205056	Shinda mizunguko 5 ya sloti
+cd60e0c	Shinda mara 5 ya dau lako kwenye sloti
+6f7ac28	Cheza raundi 5 za rulet
+6978cc0	Shinda mizunguko 3 ya rulet
+c8ebbcc	Piga namba moja moja kwa moja
+8a57c54	eneo la GPS
+4919635	mtandao wa simu
+527b094	muunganisho wa intaneti
+f49ae82	mipangilio ya kifaa
+60827d3	nchi ya majaribio
+0b2f8d8	haijathibitishwa (bei ya kawaida)
+50d8b4a	haijulikani
+4fb7a4e	12 za 1
+647a0eb	12 za 2
+a934745	12 za 3
+3de80ab	2 kwa 1
+bb4e68e	NYEKUNDU
+a9414ab	NYEUSI
+710756a	WITIRI
+70ca748	SHUFWA
+4d60d6c	BEI ZA HAKI KWA NCHI YAKO
+1674d95	Bei za duka zinarekebishwa kulingana na uchumi wa nchi yako, ili wachezaji kila mahali walipe bei ya haki.
+4ec27ee	Ili kujua nchi yako, tunaangalia eneo lako la takriban mara moja. Linalinganishwa na nchi kwenye kifaa chako na halitumwi popote. Ukikataa, bei za kawaida zitatumika.
+ff3dbb4	ENDELEA
+43a6a8d	Kuondoka kasino?
+ad209a0	Chipu na maendeleo yako yamehifadhiwa.
+5860c84	ONDOKA
+f1e0808	BAKI
+5b38c49	{0} imefunguliwa
+15ae7ac	Ugandishaji wa mfululizo uliokoa mfululizo wako wa siku {0} jana.
+d375ffb	Ugandishaji {0} uliokoa mfululizo wako wa siku {1}.
+fd8ab39	Mfululizo wako wa siku {0} umeisha. Cheza raundi {1} leo ili uanze mpya!
+7fa2db4	DHAMIRA IMEKAMILIKA
+255325c	+chipu {0}
+d205ece	DHAMIRA ZOTE ZIMEKAMILIKA!
+4acbed2	Bonasi ya kila siku +chipu {0}. Dhamira mpya kesho.
+ab2ceb3	KIWANGO {0}!
+86e2afb	Hatua muhimu! +chipu {0}
+9ae18ad	Rudi kesho kuendelea
+7af7e7c	+1 ugandishaji wa mfululizo
+b5b9597	MFULULIZO WA SIKU {0}!
+62ec60d	Ununuzi haupatikani katika toleo hili.
+1f9786c	Ununuzi umeshindikana. Hukutozwa chochote.
+3e4c600	+chipu {0} zimeongezwa!
+1998202	{0}: mikono {1} kwa bahati ya {2}%, baada ya Bahati ya Mwanzilishi
+728ada5	{0}: mikono {1} kwa bahati ya {2}%!
+af5e232	{0}: +{1}% nishati
+001a53b	Haipatikani kwenye kifaa hiki
+2607004	Video haziwezi kupakia kwenye mtandao huu
+569c30d	Rudi kesho
+ecae6ee	Tayari baada ya sekunde {0}
+9964820	+chipu {0} (zimebaki {1} leo)
+e1bd888	+chipu {0} za bure!
+619bd5d	+1 ugandishaji wa mfululizo!
+f70d794	Hakuna video kwa sasa. Jaribu tena baadaye kidogo.
+264d71b	SHABA
+462e839	FEDHA
+81ff70a	DHAHABU
+50e122e	ALMASI
+57f5f5e	Menyu
+69bd4ef	Mwonekano
+dbfe736	Msalaba
+1cc7820	Duara
+82810cb	Mraba
+73d3ae2	Pembetatu
+a42f608	Tunaangalia eneo lako...
+1db422c	Haijathibitishwa ({0}): bei za kawaida
+9bc0807	{0} ({1}): bei kwa {2}
+ae8c393	Vikumbusho
+aefd59b	Chipu za bure tayari na vikumbusho vya mfululizo
+3125838	Chipu zako za bure ziko tayari
+233027b	Chipu {0} zinakusubiri Lucky Ace.
+b93976b	Dumisha mfululizo wako wa siku {0}
+bd68038	Cheza raundi {0} leo ili usianze upya saa sita usiku.
+0acfb6f	Karibu! Bahati ya mwanzilishi iko upande wako usiku huu. Weka dau!
+d589374	BLACKJACK INALIPA 3 KWA 2   •   MGAWAJI ANASIMAMA KWENYE 17 ZOTE   •   BIMA INALIPA 2 KWA 1
+b700b02	DAU
+16ec74f	FUTA
+928226b	RUDIA DAU
+55591e0	GAWA
+395ed46	ONGEZA
+43e7971	SIMAMA
+097274c	MARA MBILI
+6df63ca	GAWANYA
+3e40f46	WEKA BIMA
+db82d3a	HAPANA, ASANTE
+28d6be8	DAU {0}+
+9587b70	Kiwango cha juu cha meza kimefikiwa
+b9ac47d	Chipu hazitoshi
+d237ade	Mgawaji anaonyesha Ace. Bima kwa {0}?
+bf07c14	Bima inalipa {0}
+b6e674a	Mgawaji hana blackjack. Bima imepotea.
+0cc9679	UMEZIDI
+82ce89d	MGAWAJI AMEZIDI
+6e1e1a4	BLACKJACK!
+662fae5	USHINDI
+8918d00	SARE
+8df6be4	UMEPOTEZA
+9e69668	Bahati ya mwanzilishi imeisha. Mfululizo wako wa Bahati unaanza sasa.
+822f4f4	Bahati ya mwanzilishi imeisha. Kuanzia sasa ni blackjack ya kawaida.
+b0377c7	Mfululizo wako wa Bahati umeisha. Tunarudi kwenye blackjack ya kawaida.
+824ad7c	CHIPU ZIMEISHA
+ff1822d	Tazama video fupi upate chipu {0} za bure, au tembelea keshia.
+e4cac2f	Tembelea keshia ili kujaza chipu zako.
+c3df3e7	CHIPU ZA BURE
+b169d33	KESHIA
+4d38f66	BAADAYE
+cb8171b	Maliza mkono huu kwanza.
+3aa6941	“{0}”
+6f846f4	MKONO MMOJA ZAIDI
+a79d4f2	ONDOKA
+693f697	BAHATI YA MWANZILISHI
+641ad58	MFULULIZO WA BAHATI
+fc45931	Bonasi ya karibu kwa wachezaji wapya: kwa mikono yako <b>{0}</b> ya kwanza kiatu cha mgawaji kimepangwa kwa faida yako, kwa hiyo utashinda karibu kila mkono.
+576c683	Katika mikono <b>{0}</b> inayofuata faida inafifia, na baada ya hapo kila meza ni blackjack ya kawaida na ya haki kutoka kiatu kilichochanganywa cha seti 6 (blackjack inalipa 3 kwa 2, mgawaji anasimama kwenye 17 zote).
+7fb55b3	Faida sasa: <b><color=#7CFC9A>{0}%</color></b>   Mikono iliyobaki: <b>{1}</b>
+d4f8fe0	Kwa <b>mikono {0} ya blackjack</b> inayofuata yenye dau hadi <b>chipu {1}</b>, kila kadi ina nafasi ya <b>{2}%</b> kugawiwa kwa faida yako (faida ile ile ya Bahati ya Mwanzilishi).
+0a5fc06	Ukicheza vizuri hiyo inashinda takriban <b>{0}%</b> ya mikono, ikilinganishwa na takriban {1}% katika blackjack ya kawaida. Dau kubwa zaidi ni blackjack ya kawaida na hazitumii mikono. Mikono ikiisha, kila meza inarudi kuwa blackjack ya kawaida na ya haki.
+c3a8946	NIMEELEWA
+8dfc44a	UNATAKA BAHATI YAKO IRUDI?
+272a97f	Bahati ya Mwanzilishi imeisha: kuanzia sasa kila meza ni blackjack ya kawaida na ya haki. Mfululizo wa Bahati unarudisha faida kwa muda.
+06b7689	KILA SIKU
+4035996	MFULULIZO WA KILA SIKU
+fbe7f18	SIKU MFULULIZO
+7a46866	LEO
+4753707	TAZAMA TANGAZO
+6bb45f3	NUNUA
+62a945f	UGANDISHAJI WA MFULULIZO
+ba5b1de	Ugandishaji wa mfululizo unadumisha mfululizo wako siku usiyocheza. Unaweza kuwa na hadi {0}.\n\nUnunue mmoja kwa chipu {1}?
+38c6090	Ugandishaji wa mfululizo uko tayari.
+8fe681f	Chipu hazitoshi kwa ugandishaji.
+1507c40	GHAIRI
+457d20f	MZUNGUKO WA KILA SIKU
+9623247	ZUNGUSHA
+ac5ef96	Nafasi:
+1200f20	{0}%
+003a689	Umeshinda chipu {0}!
+f757137	DHAMIRA ZA LEO
+7b7f9e2	Bora: siku {0}
+9554fea	Cheza kila siku ili kujenga mfululizo
+5c8dbb8	Lengo la leo limefikiwa! Tuonane kesho.
+1aeb9a1	Leo: raundi {0} / {1} (mchezo wowote)
+bb92856	Ugandishaji wa mfululizo: {0} / {1}
+0ec6216	Okoa mfululizo wako siku utakayokosa. +1 kila siku 7.
+cc0a745	IMEJAA
+419a962	HAKUNA VIDEO
+2dabd99	TANGAZO KARIBUNI
+f12e166	Bonasi ya mfululizo: zawadi ×{0}
+80948a4	Mzunguko mmoja wa bure kila siku
+596b5e0	UNAOFUATA  {0}
+7f7e7fc	Yote yamekamilika! Bonasi imechukuliwa.
+03a0f2a	Dhamira mpya saa sita usiku.
+4784874	Maliza zote tatu: +chipu {0} za bonasi
+42c5cda	CHEZA
+337211e	MICHEZO
+8f5e3bd	Buruta upande wa kushoto kutembea  •  Buruta upande wa kulia kutazama  •  Gusa kwenda
+d00d221	18+ pekee  •  Chipu ni za burudani: hazina thamani ya pesa, haziwezi kubadilishwa kamwe kwa pesa au zawadi
+b60f038	Tunafungua milango...
+2e5bcce	Karibu! Chipu zako {0} za karibu ziko tayari. Meza ziko mbele moja kwa moja!
+7ef7ae3	+chipu {0} za bure! Zaidi baada ya saa {1}.
+5d82af9	Chipu za bure hujazwa kila saa {0}. Zinazofuata baada ya {1}.
+5469985	saa {0} dk {1}
+bb65beb	dk {0} sek {1}
+ac8ba93	DUMISHA MFULULIZO WAKO
+560bfa1	Ungependa kikumbusho jioni ambazo bado hujacheza, na chipu zako za bure zikiwa tayari? Kamwe si zaidi ya hivyo, na unaweza kukizima kwenye Mipangilio.
+b724a40	NIKUMBUSHE
+9e0c898	+chipu {0} ziko tayari!
+1207e28	Tazama video: {0}
+db3655b	Chipu za bure zinazofuata baada ya {0}
+4ca9be5	BLACKJACK
+9a612b1	Meza 4  •  inalipa 3 kwa 2
+1194439	SLOTI
+6555152	Lucky Ace 7s  •  mistari 10
+255b1a1	RULET
+6df1551	Ya Ulaya yenye sifuri moja
+379b146	UMECHOKA SANA
+340e5c4	Kipimo chako cha nishati ni kitupu. Chukua kitu kwenye baa ili uendelee kucheza, au rudi baadaye: nishati hurudi polepole ukiwa mbali.
+a517396	NENDA BAA
+7c7227f	CHAGUA MEZA YAKO
+c963de3	DAU
+c433657	KIWANGO {0}
+083ac39	KETI
+9698219	INAHITAJI {0}
+34b737e	Fikia kiwango {0} ili ucheze hapa. Uko kiwango {1}.
+6cc19a9	KASINO
+6e946b7	SS
+4a3a892	MM
+2857a6a	MMMM
+9d1fece	SIKU
+d3bb0c3	MWEZI
+c0f0cad	MWAKA
+43985ff	ULIZALIWA LINI?
+293fda2	Chipu ni za burudani tu. Hazina thamani ya pesa na haziwezi kubadilishwa kamwe kwa pesa au zawadi.
+3e9128d	SAMAHANI, HUWEZI KUCHEZA
+b5e8985	{0} inapatikana kwa watu wazima pekee.
+bb1b380	TOKA
+d9f9432	Inafungwa baada ya {0}...
+c6e102d	TUAMBIE KUKUHUSU
+31120ce	Tutachagua wenyeji, wagawaji na wafanyakazi wa baa wanaolingana nawe. Unaweza kubadilisha hili wakati wowote kwenye Mipangilio.
+49e8df9	MIMI NI MWANAMUME
+85abe81	MIMI NI MWANAMKE
+76cc98c	SIPENDI KUSEMA
+964daf7	INGIA KASINO
+2efb69a	Wafanyakazi wako usiku huu:
+c10e749	Ukurasa {0} kati ya {1}
+2a3ffd9	LUGHA
+c673535	OTOMATIKI
+d1245d2	NCHI
+15fc12b	Karibuni! Wekeni dau zenu, tafadhali.
+531fb3f	Chipu hazitoshi kwa dau hilo.
+380eb75	Kikomo cha meza ni {0} kwa kila mzunguko.
+55ad592	TENDUA
+8f191f9	JUMLA YA DAU  {0}
+82e1181	Gusa ubao kuweka chipu
+bb19a75	Hakuna dau zaidi!
+5becf07	KIJANI
+bc74f4f	kijani
+7898801	nyekundu
+466bc8c	nyeusi
+f2edfbf	Pigo zuri sana! Hongera!
+b252caf	Mshindi! Umeshinda {0}.
+8587d14	USHINDI  +{0}
+b862a2b	{0} {1}. {2} zinakurudia.
+a306d0a	IMERUDISHWA  {0}
+af3134d	Hakuna ushindi safari hii
+84122e7	Wekeni dau zenu, tafadhali.
+52205f4	Subiri mpira utulie.
+c4b9243	MIPANGILIO
+44d863e	JUMLA
+2bbca79	MICHORO
+955c8b4	SAUTI
+c701f5f	MGUSO
+efcc94a	KIPANYA
+8433628	KIDHIBITI
+d868a50	MTETEMO
+f8692c7	18+ • Chipu hazina thamani ya pesa • Fonti: Bebas Neue, Poppins, Noto (SIL OFL) • Mipaka: Natural Earth • Data ya bei: Benki ya Dunia
+da46447	WAFANYAKAZI WA KASINO
+594b81e	WANAWAKE
+69d3313	WANAUME
+b4325d3	MCHANGANYIKO
+414594a	VIKUMBUSHO
+6cac87b	Chipu za bure tayari, na kikumbusho cha jioni kabla mfululizo haujaisha.
+e43b2e0	ANGALIA TENA
+7c9e8f9	ENEO LA BEI
+495c70e	Haraka zaidi: kasino kama ilivyochorwa, hakuna ziada.
+b052523	Sakafu zinazong'aa, mbao na dhahabu huakisi ukumbi.
+6bd30d7	Mwonekano wa filamu: rangi zilizopangwa, chembe, mng'ao, miale ya mwanga, ngozi halisi.
+21b6e1d	Lenzi ya sinema: ulengaji hufuata jicho lako, michirizi kwenye taa, vumbi kwenye miale.
+fb7c2e8	UBORA
+d8b9679	CHINI
+f68525a	WASTANI
+d77d0b2	JUU
+9289eee	ULTRA
+637e313	UBORA WA PICHA
+2e7b141	Chini zaidi ni laini zaidi lakini hupoa zaidi na huokoa betri.
+93dcfb5	HALI YA SKRINI
+3c6eac3	SKRINI NZIMA
+f3690b1	DIRISHA
+cfa6200	KULAINISHA KINGO
+ad50489	ZIMA
+f178804	Hulainisha kingo zenye michongoko kwenye kasino.
+4266288	KASI YA FREMU
+d031ab0	{0} FPS
+a2b7514	FPS 30 huokoa betri na huweka simu za zamani baridi.
+0babcee	V-SYNC
+6656e25	UWANJA WA KUONA
+244aadb	ONYESHA FPS
+41c8f6e	SAUTI KUU
+bf3af1f	MUZIKI
+bd80907	MADOIDO YA SAUTI
+d098036	SAUTI ZA WAFANYAKAZI
+93c6484	Minong'ono ya wafanyakazi wanapozungumza.
+16bf71a	NYAMAZISHA CHINICHINI
+85b2ee7	Nyamazisha kasino ukiwa kwenye dirisha jingine.
+8e3634e	USIKIVU WA KUTAZAMA
+880dc05	Jinsi kuburuta kunavyogeuza mwonekano kwa kasi.
+750c60f	Jinsi kuburuta kwa kipanya kunavyogeuza mwonekano kwa kasi.
+8b988eb	GEUZA KUTAZAMA KUSHOTO / KULIA
+cacf0cc	GEUZA KUTAZAMA JUU / CHINI
+2d13b68	MPANGILIO WA VITUFE
+50c3f10	OTOMATIKI
+b471e5c	BADILISHANA MENYU / MWONEKANO
+d9a59f1	USIKIVU WA FIMBO
+ec14343	Jinsi fimbo ya kulia inavyogeuza mwonekano kwa kasi.
+a79af23	GEUZA FIMBO KUSHOTO / KULIA
+acfc66e	GEUZA FIMBO JUU / CHINI
+56bb461	VIDOKEZO VYA KIDHIBITI
+51cf49a	Huonyesha kila kitufe kinachofanya unapocheza kwa kidhibiti.
+dff7431	TETEMESHA KWENYE
+34139ab	SIMU
+15ee988	ZOTE MBILI
+465cc91	Otomatiki: kidhibiti kikiwa kimeunganishwa, vinginevyo simu.
+f6fed84	MTETEMO WA SIMU
+8e97fa7	NGUVU YA SIMU
+486ba2d	MTETEMO WA KIDHIBITI
+8008889	NGUVU YA KIDHIBITI
+ea9233e	OTOMATIKI ({0})
+167dda7	{0} hufungua Mipangilio, {1} hufungua Kila Siku.
+29a4ef9	Hakuna kidhibiti kilichounganishwa.
+558ecd2	Kimeunganishwa: {0}. Inaonyesha vitufe vya {1} (A ya kulia inathibitisha).
+d6eee9e	Kimeunganishwa: {0}. Inaonyesha vitufe vya {1}.
+78525d5	BAA
+099db9f	BAHATI
+b4a8b06	Chipu, bahati na chakula ni vitu vya kidijitali kwa burudani tu: hazina thamani ya pesa, haziwezi kukombolewa kwa pesa au zawadi.
+e2a28c9	Kila kadi ina nafasi hiyo ya kugawiwa kwa faida yako, kwa dau za blackjack hadi chipu {0} (dau kubwa zaidi ni za kawaida na hazitumii mikono). Inaanza baada ya Bahati ya Mwanzilishi; vifurushi vyenye nguvu zaidi hutumika kwanza.
+04fbc6d	Ruhusu ufikiaji wa eneo ili upate bei ya nchi yako
+2ae87fc	Ununuzi haupatikani katika toleo hili la mchezo.
+8239a84	DUKA LA MAJARIBIO (hakuna pesa halisi)
+173d916	nishati
+b2c67eb	+{0}% CHIPU
+58e8011	mikono {0}
+ce80712	inashinda takriban {0}% yake
+c69e8ee	LUCKY ACE 7s
+fc99288	JUMLA YA DAU
+c1c00cd	JEDWALI LA MALIPO
+3930abd	BAHATI NJEMA!
+67b6973	Unahitaji angalau chipu 10 kuzungusha.
+5aa1edb	PATA CHIPU
+f5a1812	Dau limepunguzwa hadi kiasi unachoweza kulipa.
+5c63f61	USHINDI MKUBWA SANA!
+652544f	USHINDI MKUBWA!
+91bc41c	IMERUDISHWA {0}
+3714283	HAKUNA USHINDI
+33c0faa	MSTARI {0}: {1} × {2} = {3}
+9f59e6e	NYOTA {0} = {1}
+d6eee90	Cheri
+4459b79	Limau
+09fb6aa	Chungwa
+cb92e50	Plamu
+d419866	Kengele
+e496fd2	Bar
+63abb56	Saba
+b3850e0	Almasi
+fc2b5a9	Ace
+85a7de6	Nyota
+c31b035	NYOTA hulipa popote: 5 = {0}× dau, 4 = {1}× dau, 3 = {2}× dau.
+f97509c	ACE ni wild: inachukua nafasi ya kila alama isipokuwa nyota.
+3e8bc69	Malipo ya mistari ni vizidisho vya dau la mstari (jumla ya dau ÷ 10), kutoka kushoto kwenda kulia kuanzia gurudumu la kwanza.
+523f8dc	MAREJESHO: {0}% kwa muda mrefu. Kila mzunguko ni huru na wa nasibu.
+e0c705d	Tembea
+b8db515	Tazama
+503d46d	Vitufe
+c7f73bb	Mipangilio
+728298d	Kila Siku
+ab166bd	Rekebisha
+76cdb95	Sogea
+8598222	Chagua
+bbfa773	Funga
+b52b36b	Rudi
+ab37588	UMECHOKA
+9b11a09	BAHATI YA MWANZILISHI {0}%
+0c94e98	ZIMEBAKI MIKONO {0}
+51ed273	MFULULIZO WA BAHATI {0}%
+3401470	MIKONO {0}  •  DAU HADI {1}
+f481cc6	KIWANGO
+0139615	KARIBU
+daad514	ONGEA NA MWENYEJI
+bcefb10	Maelekezo na vidokezo
+c28e782	CHIPU  •  BONASI
+0c69ec4	NUNUA CHIPU
+78c0727	Keshia
+1737fab	VINYWAJI  •  VITAFUNIO  •  NISHATI
+9e008ae	CHAKULA NA VINYWAJI
+f7881e8	Baa
+0e979ed	BLACKJACK INALIPA 3 KWA 2
+eea0d12	MGAWAJI LAZIMA ASIMAME KWENYE 17
+4db37bf	CHEZA BLACKJACK
+0ffdd99	Meza ya {0}  •  dau {1} hadi {2}
+b4f938b	CHEZA SLOTI
+6b7caea	WEKENI DAU ZENU
+26b1e39	CHEZA RULET
+910a1ed	Gurudumu la Ulaya  •  namba moja inalipa 35 kwa 1
+7ef0215	AGIZA KINYWAJI
+fe38d73	{0} ataleta
+f7b6306	{0} inafunguka kiwango {1}. Uko kiwango {2}: kila raundi unayocheza inahesabika.
+d85f1ad	Meza hii inahitaji angalau chipu {0}.
+cbfe016	Meza za blackjack ziko mbele moja kwa moja. Tembea hadi moja na ukae!
+64d9faf	Keshia yuko hapa upande wako wa kulia, na baa iko kando ya ukuta wa kushoto.
+e4c6e0b	Umechoka? Kitafunio kwenye baa kinajaza nishati yako mara moja.
+d5ab68f	Gusa popote sakafuni nawe utatembea huko. Gusa meza ili ukae.
+cc21f74	NDOGO
+dc01dec	KUBWA
+5fb90b0	TATU ZOZOTE ZINAZOFANANA
+9c716f1	Meza ya hold'em
+3b6ab84	Cheza mikono 8 ya hold'em
+6c617ca	Shinda mikono 4 ya hold'em
+44ce500	Cheza mikono 10 ya baccarat
+b90cff7	Shinda mikono 5 ya baccarat
+3e4dfa9	Cheza mikono 15 ya video poker
+854fe20	Cheza raundi 8 za sic bo
+dfddac1	Shinda raundi 4 za sic bo
+2973ea7	Rusha kete mara 15 kwenye craps
+737be17	Shinda mirusho 4 kwenye craps
+4dbb81d	Pata flush au bora zaidi kwenye video poker
+19aa07b	Royal flush
+cf83e72	Straight flush
+d27ba03	Nne zinazofanana
+dbe8641	Full house
+7c936d7	Flush
+2501c65	Mfuatano
+ca1a0d4	Tatu zinazofanana
+6876b40	Jozi mbili
+2537f88	Jozi
+b4b323e	Karata ya juu
+f70bfdc	Jack au bora zaidi
+98fd5af	BACCARAT
+df66d5a	Karibu kwenye baccarat! Mchezaji, Benki au Sare?
+5055efd	MCHEZAJI
+3f90696	SARE
+0d75f63	BENKI
+0ebd5a4	MATOKEO YA KARIBUNI
+511993d	M
+ae4f281	B
+c2c53d6	S
+781246e	Chagua chipu, kisha gusa Mchezaji, Benki au Sare
+11023a0	SARE  {0}
+503d5f1	MCHEZAJI ASHINDA  {0} KWA {1}
+0eb4be5	BENKI YASHINDA  {0} KWA {1}
+7859af1	CRAPS
+4083dbd	Karibu kwenye craps! Weka dau kwenye Pass Line kisha urushe.
+d266326	SITA
+c506f3a	TISA
+987f4e9	FIELD
+71c1b2b	2 3 4 9 10 11 12  •  2 na 12 hulipa mara mbili
+d0ac294	7 YOYOTE
+9b2f0c3	CRAPS YOYOTE
+f62ac59	DON'T PASS BAR
+6080ade	1:1  •  12 ni sare
+c07247a	PASS LINE
+6229f78	ODDS
+29bf819	uwiano halisi
+387d7a5	IMEWASHWA
+229c9cc	Odds huwekwa nyuma ya Pass Line kukiwa na pointi.
+c2c8e82	Odds zinahitaji dau kwenye Pass Line.
+1784d43	Odds zako zimefika kiwango cha juu.
+fdc3442	Dau za mstari huwekwa kwenye mrusho wa kwanza.
+97ce95b	MEZANI  {0}
+a895ec0	Pointi ni {0}: irushe tena kabla ya 7. Odds nyuma ya Pass Line hulipa uwiano halisi.
+d9f9d65	RUSHA
+bcf32ef	Pointi ni {0}.
+5b450b4	{0}! Pointi imepatikana. Ushindi!
+9746e08	Saba imetoka. Mrushaji mpya, mrusho wa kwanza mpya.
+4fc4664	{0}, natural! Pass Line inashinda.
+203f466	{0}, craps. Mstari unapoteza.
+0f8e260	Subiri kete zisimame.
+6a98cfe	UNAONDOKA MEZANI?
+8430088	Dau lako la mstari bado linachezwa kwenye pointi {0}. Ukiondoka sasa, unalipoteza.
+0e138d1	HOLD'EM
+5e023be	Karibu kwenye hold'em! Weka ante tuone karata.
+0cd62f5	ANTE
+5e9f331	BLIND
+3b935ab	BLIND HULIPA
+20713a4	Muuzaji anafuzu akiwa na jozi au bora zaidi
+d37267c	CHECK
+9a4e316	FOLD
+88313c4	WEKA DAU {0}×
+42c6fea	Ante {0} + blind {0}. Bakiza {1} zaidi kwa kupandisha.
+1abb2f2	Gusa chipu kuweka ante. Blind ni sawa nayo.
+f541cec	Check, au weka dau mara tatu au nne ya ante?
+fc74a79	Pandisha sasa 4× au 3× ya ante, au check uone flop.
+b687501	Nafasi ya mwisho: weka dau 1× ya ante, au fold upoteze ante na blind.
+400009c	Weka dau 2× ya ante sasa, au check uone karata mbili za mwisho.
+f4abdf9	Hii hapa flop.
+0e51f2c	Turn na river.
+cc856d3	Tuone nina nini.
+6ba1f3e	Muuzaji hajafuzu: ante yako inarudi.
+cf1fdc5	Umefold. Mkono unaofuata ni wako.
+177fab0	Ultimate Texas Hold'em
+c4917b9	Mchezaji, Benki au Sare
+6e4fe7b	VIDEO POKER
+73cabd3	Jacks or Better
+91c4555	SIC BO
+d810061	Kete tatu  •  kubwa au ndogo
+85ab7ec	Pass Line  •  Field  •  Odds
+35d8db6	Karibu kwenye sic bo! Kubwa, ndogo au kitu cha ujasiri zaidi?
+3d05514	Kikomo cha meza ni {0} kwa kila mrusho.
+86ade94	TIKISA
+b69304e	TATU ZA {0}!
+5d1bcc6	IMESHIKWA
+36a21ba	Gawa, shika karata unazotaka, badilisha mara moja.
+99fa8e8	SHIKA
+249d1c0	DOKEZO
+7aab1bd	BADILISHA
+5595eb4	Gusa karata kuzishika, kisha badilisha.
+1c05db9	CHEZA HOLD'EM
+e353e5f	Ultimate Texas Hold'em  •  ante {0} hadi {1}
+6470369	CHEZA BACCARAT
+bbe0077	KUBWA  •  NDOGO  •  TATU TATU
+3ba448f	CHEZA SIC BO
+097c59c	Kete tatu  •  kubwa au ndogo hulipa 1 kwa 1
+af2ca30	PASS LINE  •  FIELD  •  ODDS
+f18398e	CHEZA CRAPS
+eeede6d	Pass Line hulipa 1 kwa 1  •  odds hulipa uwiano halisi
+34e5170	CHEZA VIDEO POKER
+f71bdfb	Jacks or Better  •  jedwali kamili la 9/6
+4a6c087	JACKS OR BETTER  •  ROYAL FLUSH HULIPA 800×
+370a133	Mashine za slot ziko ukuta wa kulia, video poker ukuta wa nyuma, na roulette iko nyuma kabisa.
+8298d28	Hold'em iko kona ya nyuma kushoto, baada ya baa.
+a2a111f	Baccarat iko kushoto mara tu unapoingia.
+b7193bc	Sic bo iko kona baada ya mhazini: kete tatu, kubwa au ndogo.
+25320c8	Meza ya craps iko kulia, mbele ya mashine za slot. Weka dau kwenye Pass Line kisha urushe!
+dc81691	Sofia
+4d9936f	Elena
+3aa0674	Mia
+b724114	Valentina
+34d3f7f	Chloe
+0fc9dd6	Isabella
+bbd3e35	Nadia
+eac677d	Aria
+baaf10f	Luna
+8641381	Camila
+eeee9b7	Aurora
+8a59f05	Bianca
+5a0fc29	Serena
+bf38aa5	Marco
+cfaf50a	Leo
+5815f22	Adrian
+cbede02	Lucas
+f0b9995	Viktor
+7b37259	Daniel
+aaac72d	Gabriel
+2f8f37e	Ethan
+a01126e	Julian
+3e05c90	Rafael
+e1ae457	Mateo
+3398634	Nico
+7aa2d07	Enzo
+1920e2f	Mrusho wa kwanza: weka dau kwenye Pass Line, kisha urushe. 7 au 11 inashinda, 2, 3 au 12 inapoteza. Dau za Place zinaanza kufanya kazi kukiwa na pointi.
+99f4934	LUCKY ACE 7s  •  INALIPA HADI 2,500× DAU LAKO LA MSTARI

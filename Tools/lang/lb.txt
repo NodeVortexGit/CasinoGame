@@ -1,0 +1,659 @@
+# Luxembourgish (lb). Machine translation by Claude.
+bd99124	Eng Handvoll Jetonen
+c7c6dc8	E Koup Jetonen
+7512cfd	En Tablett Jetonen
+fa36588	E Rack Jetonen
+7994f65	AM BELÉIFSTEN
+49dcc21	E Coffre Jetonen
+0725283	Tresor vum High Roller
+7658705	BESTE PRÄIS
+2f23432	Sprudelwaasser
+418b820	Espresso
+97b463c	Energiedrénk
+43bbfda	Club-Sandwich
+bce7a75	Burger-Menü
+2832a8d	Steak-Owesiessen
+dee8ee8	VOLL OPFÜLLEN
+a7c2255	Glécksstréck
+7919163	Waarme Stréck
+74fdfc2	AM MEESCHTE GLÉCK
+d79cd12	Bronzendësch
+2a8ff35	Sëlwerdësch
+51877b2	Goldendësch
+9282152	Diamantendësch
+0de8764	Gëff w.e.g. e gëltegt Joer an.
+d4e14c9	Gëff w.e.g. e gëltege Mount an (1-12).
+addd156	Gëff w.e.g. e gëltegen Dag an.
+d78a4f4	Dësen Datum läit an der Zukunft.
+787c7c6	Wëllkomm u mengem Dësch! Prett fir ze spillen?
+8b0f93e	Schéin dech ze gesinn. Huel Plaz!
+8338021	Moien! D'Kaarte si frësch, an ech och.
+75750f9	Wëllkomm! Loosse mer en flotten Owend draus maachen.
+95aac36	Setz däin Asaz, wann s de prett bass.
+8bc63c1	Jetonen op den Dësch, a mir kucken d'Kaarten.
+984b7f3	Ëm wat spille mer?
+b74c769	Oh, e grousse Asaz! Ech hu däi Stil gär.
+77fc1fc	Dat ass mol en Asaz. Lass!
+7779a5b	Haut den Owend mutteg, wat?
+479ff82	Alles?! Mäin Häerz klappt!
+7fb527c	Alles op eng Hand. Ouni Angscht!
+7bf0c5d	Blackjack! Onheemlech!
+123f2d5	Eenanzwanzeg, einfach esou!
+cd850a7	Blackjack! D'Kaarte si gär mat dir haut den Owend.
+55f50ee	Schéi gespillt!
+79594b1	Gewonnen! Gutt gemaach.
+0df710e	Du bass gutt drun!
+20a0c1e	Déi do ass deng.
+a45fe61	Wat e Gewënn! Jiddereen kuckt op dësen Dësch!
+54d3982	Enorm! Du bass haut den Owend a Form!
+8da8f1e	Sou knapp! Déi nächst ass deng.
+5d921e1	D'Spillbank hat dës Kéier Gléck.
+f923af7	Vergiess et, eng nei Hand kënnt.
+853e7ca	Autsch, eng Kaart ze vill.
+daec44f	Iwwerkaf! Dat geschitt de Beschten.
+11ceaef	Onentscheeden. Keen verléiert!
+911a289	Push. Deng Jetone si sécher.
+a89d9d9	Ech sinn iwwerkaf! Gléck fir dech.
+f76c8fd	Ze vill fir mech. Du gewënns!
+63f8d0b	Blackjack fir d'Spillbank, deet mer leed!
+465c8bf	Blackjack beim Croupier. Pech.
+6752f40	Ech weisen en As. Versécherung?
+1920c5a	Opdeelen! Zwou Chancen ze gewannen.
+9f621da	Verduebelen. Mutteg!
+59da99d	Verduebel! Eng Kaart kënnt.
+0b48017	Neie Schung, ech mëschen!
+3fa7769	Bal eidel? D'Keess fëllt dech op.
+4e5694b	D'Jetone ginn rar. Wëlls de méi?
+d41f057	Keng Jetone méi! Gëff bei d'Keess oder huel gratis Jetonen.
+15d90d3	Däi Koup ass eidel. D'Keess ass direkt hannert dir.
+a9eaae1	Du gesäis erschöpft aus! Iess eppes un der Bar.
+5cd9e8b	Keng Kraaft méi? D'Bar këmmert sech ëm dech.
+37b9672	Huel der Zäit.
+c64df8c	Wann s de prett bass!
+b8dfc0a	D'Nuecht ass nach jonk.
+8748560	Ufängergléck ass op denger Säit!
+e3def50	D'Kaarten sinn haut op denger Säit!
+506ade9	D'Ufängergléck ass eriwwer. Vun elo un ass d'Spill fair!
+953d8b7	Wëllkomm am Casino! Deng Plaz waart.
+9fd9844	Gudden Owend! D'Dëscher si waarm haut.
+2d42aaf	Wëllkomm zréck! Fills de dech glécklech?
+311bae7	Tipp op en Dësch fir ze spillen!
+3318099	Brauchs de méi Jetonen? Du bass um richtege Schalter.
+c5b3787	Méi grouss Koupen, méi grouss Bonussen!
+21ae665	Honger? Wiel eppes vun der Kaart.
+8b83cc0	E Bëssen iessen hält deng Energie héich!
+35f4b0e	Wëllkomm u mengem Dësch!
+8f90245	Do bass de! Et ass direkt méi hell.
+909e4d6	Fill dech wéi doheem. Haut den Owend dréint sech alles ëm dech.
+2477f78	Ech hunn dee Laachen gär. Glécksowend?
+6ac2120	Entspann dech, du bass hei a gudden Hänn.
+089f04b	Hei du! Ech hat gehofft, du kéims bei mäi Schalter.
+3f2c3c9	Ëmmer schéin, e frëndlecht Gesiicht ze gesinn.
+3021db8	Kuck wien do ass! Hues de Spaass?
+769980b	Moien, Schéinen!
+5361ffd	Ech hunn däi Stil haut gär.
+56b40be	Hei, schéin dech nees ze gesinn!
+3316019	E gudden Owend? Du hues en verdéngt.
+28283fd	Opgepasst, soss fänken ech nach un, fir dech ze jubelen.
+109ac94	Mäi Liiblingsspiller ass zréck!
+acba0e6	Setz dech bei mech, ech gi dir eppes Schéines.
+eb5ff2a	Mat dir mécht dësen Dësch vill méi Spaass.
+772a73c	Gees de schonn? D'Nuecht ass nach jonk!
+178301a	Komm, just nach eng Hand. Ech hunn e gutt Gefill!
+816036a	Du kanns mech elo net eleng loossen, mir hu just ugefaangen!
+5c9b7e2	Lescht Chance! Déi nächst Hand kéint déi grouss sinn...
+20ce7b6	Ok, ok. Ech halen deng Plaz waarm. Verspriechs de, datt s de zréckkënns?
+51d1aeb	Nach keng Serie? Spill haut Ronnen ({2}) an ech fänken un ze zielen.
+10b25d9	Neien Ufank! Ronnen ({2}) an deng Flam brennt.
+0c10711	Ech féieren eng kleng Lëscht vun deenen, déi all Dag kommen. Du bass net drop... nach net.
+5e7c431	Dag {1} waart op dech. Nach Ronnen: {2}!
+b268d84	Deeg hannerenee: {0}... du héiers elo dach net op?
+b32ae79	Deng Flam gesäit haut e bësse kal aus. Ronnen ({2}) wäermen se op.
+a6f3fbd	Ech hu gezielt: {0} Deeg. Loosse mer {1} draus maachen.
+1dc5c97	Mengs de, ech hätt et net gemierkt? Nach Ronne fir deng Serie: {2}!
+807b82c	Deeg hannerenee: {0}? Ech mengen, et gefält dir hei.
+6391923	Deng Serie ass fir haut sécher. Elo gëss de just un.
+3bfbbf7	Dag {0}, gepackt. Muer zur selwechter Zäit?
+ca2a2c1	{0} Deeg! Ech sollt dir eng Plaz reservéieren.
+54f991f	Do ass en: den éischten Dag vun denger Serie! Komm muer zréck, da sinn et zwee.
+a1e7ab0	Eng ganz Woch hannerenee! Ech si wierklech beandrockt.
+96cee95	Drësseg Deeg! Du schaffs jo praktesch hei.
+a9834cd	Honnert Deeg. Ech verzielen allen iwwer dech.
+071317f	Dat sinn {0} Deeg hannerenee! Kuck dech mol un.
+0964027	Serie gerett: Dag {0}! Ech wousst, datt s de et packs.
+c7f2a1f	Dag {0}! Ech wetten, du packs keng {1}.
+a6ce2e2	{0} Deeg... ok, du Ugeber.
+3ab91d0	Spill 10 Hänn Blackjack
+38e863d	Gewann 5 Hänn Blackjack
+6ac41cc	Kréi e Blackjack
+74cf149	Gewann 500 Jetonen am Blackjack
+66440e1	Dréi 20 Mol um Spillautomat
+9205056	Gewann 5 Dréiungen um Spillautomat
+cd60e0c	Gewann 5× däin Asaz um Spillautomat
+6f7ac28	Spill 5 Ronnen Roulette
+6978cc0	Gewann 3 Roulette-Dréiungen
+c8ebbcc	Triff eng Zuel plein
+8a57c54	GPS-Standuert
+4919635	Handysnetz
+527b094	Internetverbindung
+f49ae82	Apparatsastellungen
+60827d3	Testland
+0b2f8d8	net verifizéiert (Standardpräis)
+50d8b4a	onbekannt
+4fb7a4e	1. 12
+647a0eb	2. 12
+a934745	3. 12
+3de80ab	2 zu 1
+bb4e68e	ROUT
+a9414ab	SCHWAARZ
+710756a	ONGRAD
+70ca748	GRAD
+4d60d6c	FAIR PRÄISSER FIR DÄI LAND
+1674d95	D'Präisser am Buttek si un d'Wirtschaft vun dengem Land ugepasst, sou datt Spiller iwwerall e faire Präis bezuelen.
+4ec27ee	Fir däi Land ze fannen, kucke mir eemol däin ongeféiere Standuert. E gëtt op dengem Apparat engem Land zougeuerdent an ni iergendwou geschéckt. Wann s de refuséiers, gëllen d'Standardpräisser.
+ff3dbb4	WEIDER
+43a6a8d	De Casino verloossen?
+ad209a0	Deng Jetonen an däi Fortschrëtt si gespäichert.
+5860c84	OPHALEN
+f1e0808	BLEIWEN
+5b38c49	{0} fräigeschalt
+15ae7ac	Eng Serie-Afréierung huet gëschter deng Serie vun {0} Deeg gerett.
+d375ffb	Afréierungen ({0}) hunn deng Serie vun {1} Deeg gerett.
+fd8ab39	Deng Serie vun {0} Deeg ass eriwwer. Spill haut Ronnen ({1}) fir eng nei unzefänken!
+7fa2db4	MISSIOUN ERFËLLT
+255325c	+{0} Jetonen
+d205ece	ALL MISSIOUNE GEMAACH!
+4acbed2	Dagesbonus +{0} Jetonen. Muer nei Missiounen.
+ab2ceb3	LEVEL {0}!
+86e2afb	Meilesteen! +{0} Jetonen
+9ae18ad	Komm muer zréck fir weiderzemaachen
+7af7e7c	+1 Serie-Afréierung
+b5b9597	SERIE VUN {0} DEEG!
+62ec60d	Akeef sinn an dëser Versioun net disponibel.
+1f9786c	Akaf feelgeschloen. Et gouf näischt ofgebucht.
+3e4c600	+{0} Jetonen derbäigesat!
+1998202	{0}: {1} Hänn mat {2} % Gléck, nom Ufängergléck
+728ada5	{0}: {1} Hänn mat {2} % Gléck!
+af5e232	{0}: +{1} % Energie
+001a53b	Op dësem Apparat net disponibel
+2607004	Videoe luede net an dësem Netz
+569c30d	Komm muer zréck
+ecae6ee	Prett an {0} s
+9964820	+{0} Jetonen (haut nach {1})
+e1bd888	+{0} gratis Jetonen!
+619bd5d	+1 Serie-Afréierung!
+f70d794	Grad ass kee Video disponibel. Probéier et an engem Moment nach eng Kéier.
+264d71b	BRONZE
+462e839	SËLWER
+81ff70a	GOLD
+50e122e	DIAMANT
+57f5f5e	Menü
+69bd4ef	Usiicht
+dbfe736	Kräiz
+1cc7820	Krees
+82810cb	Quadrat
+73d3ae2	Dräieck
+a42f608	Deng Regioun gëtt iwwerpréift...
+1db422c	Net verifizéiert ({0}): Standardpräisser
+9bc0807	{0} ({1}): Präisser an {2}
+ae8c393	Erënnerungen
+aefd59b	Gratis Jetone prett an Erënnerunge fir d'Serie
+3125838	Deng gratis Jetone si prett
+233027b	{0} Jetonen waarden op dech bei Lucky Ace.
+b93976b	Hal deng Serie vun {0} Deeg
+bd68038	Spill haut Ronnen ({0}), sou datt se ëm Mëtternuecht net zréckgesat gëtt.
+0acfb6f	Wëllkomm! D'Ufängergléck ass haut op denger Säit. Setz en Asaz!
+d589374	BLACKJACK BEZILT 3 ZU 2   •   DEN CROUPIER BLEIFT BEI ALLE 17 STOEN   •   VERSÉCHERUNG BEZILT 2 ZU 1
+b700b02	ASAZ
+16ec74f	LÄSCHEN
+928226b	NOCH EMOL
+55591e0	GINN
+395ed46	KAART
+43e7971	STOEN
+097274c	DUEBEL
+6df63ca	DEELEN
+3e40f46	VERSÉCHEREN
+db82d3a	NEE MERCI
+28d6be8	ASAZ {0}+
+9587b70	Dëschmaximum erreecht
+b9ac47d	Net genuch Jetonen
+d237ade	De Croupier weist en As. Fir {0} versécheren?
+bf07c14	D'Versécherung bezilt {0}
+b6e674a	Kee Blackjack beim Croupier. Versécherung verluer.
+0cc9679	IWWERKAF
+82ce89d	CROUPIER IWWERKAF
+6e1e1a4	BLACKJACK!
+662fae5	GEWONNEN
+8918d00	PUSH
+8df6be4	VERLUER
+9e69668	D'Ufängergléck ass eriwwer. Däi Glécksstréck fänkt elo un.
+822f4f4	D'Ufängergléck ass eriwwer. Vun elo un ass et normale Blackjack.
+b0377c7	Däi Glécksstréck ass eriwwer. Zréck bei normale Blackjack.
+824ad7c	KENG JETONEN MÉI
+ff1822d	Kuck e kuerze Video fir {0} gratis Jetonen, oder gëff bei d'Keess.
+e4cac2f	Gëff bei d'Keess fir deng Jetonen opzefëllen.
+c3df3e7	GRATIS JETONEN
+b169d33	KEESS
+4d38f66	MÉI SPÉIT
+cb8171b	Spill fir d'éischt dës Hand fäerdeg.
+3aa6941	„{0}“
+6f846f4	NOCH ENG HAND
+a79d4f2	GOEN
+693f697	UFÄNGERGLÉCK
+641ad58	GLÉCKSSTRÉCK
+fc45931	Wëllkommbonus fir nei Spiller: bei dengen éischten <b>{0} Hänn</b> ass de Schung vum Croupier zu dengem Virdeel gemëscht, sou datt s de bal all Hand gewënns.
+576c683	Während den nächsten <b>{0} Hänn</b> verschwënnt de Virdeel lues a lues, an duerno ass all Dësch normale, faire Blackjack aus engem gemëschte Schung mat 6 Spiller (Blackjack bezilt 3 zu 2, de Croupier bleift bei alle 17 stoen).
+7fb55b3	Virdeel elo: <b><color=#7CFC9A>{0} %</color></b>   Hänn iwwreg: <b>{1}</b>
+d4f8fe0	Bei dengen nächsten <b>{0} Blackjack-Hänn</b> mat engem Asaz bis zu <b>{1} Jetonen</b> huet all Kaart eng Chance vu <b>{2} %</b>, zu dengem Virdeel ze kommen (dee selwechte Virdeel wéi d'Ufängergléck).
+0a5fc06	Mat guddem Spill gewënns de domat ongeféier <b>{0} %</b> vun den Hänn, géint ongeféier {1} % beim normale Blackjack. Méi grouss Asäz si normale Blackjack a verbrauche keng Hänn. Wann d'Hänn opgebraucht sinn, ass all Dësch nees normale, faire Blackjack.
+c3a8946	VERSTANEN
+8dfc44a	WËLLS DE DÄI GLÉCK ZRÉCK?
+272a97f	D'Ufängergléck ass eriwwer: vun elo un ass all Dësch normale, faire Blackjack. E Glécksstréck bréngt de Virdeel fir eng Zäit zréck.
+06b7689	DEEGLECH
+4035996	DEEGLECH SERIE
+fbe7f18	DEEG HANNERENEE
+7a46866	HAUT
+4753707	REKLAMM KUCKEN
+6bb45f3	KAFEN
+62a945f	SERIE-AFRÉIERUNG
+ba5b1de	Eng Serie-Afréierung hält deng Serie un engem Dag, wou s de net spills. Du kanns der bis zu {0} hunn.\n\nEng fir {1} Jetone kafen?
+38c6090	Serie-Afréierung prett.
+8fe681f	Net genuch Jetone fir eng Afréierung.
+1507c40	OFBRIECHEN
+457d20f	DEEGLECH DRÉIUNG
+9623247	DRÉINEN
+ac5ef96	Chancen:
+1200f20	{0} %
+003a689	Du hues {0} Jetone gewonnen!
+f757137	HAITEG MISSIOUNEN
+7b7f9e2	Rekord: {0} Deeg
+9554fea	Spill all Dag fir eng Serie opzebauen
+5c8dbb8	D'Zil fir haut ass erreecht! Bis muer.
+1aeb9a1	Haut: {0} / {1} Ronnen (all Spill)
+bb92856	Serie-Afréierungen: {0} / {1}
+0ec6216	Rett deng Serie un engem Dag, deen s de verpass. +1 all 7 Deeg.
+cc0a745	VOLL
+419a962	KEE VIDEO
+2dabd99	REKLAMM GESCHWËNN
+f12e166	Seriebonus: Präisser ×{0}
+80948a4	All Dag eng gratis Dréiung
+596b5e0	NÄCHST  {0}
+7f7e7fc	Alles gemaach! Bonus ofgeholl.
+03a0f2a	Nei Missiounen ëm Mëtternuecht.
+4784874	Maach all dräi: +{0} Bonusjetonen
+42c5cda	SPILLEN
+337211e	SPILLER
+8f5e3bd	Lénks zéien fir ze goen  •  Riets zéien fir ze kucken  •  Tippen fir dohin ze goen
+d00d221	Nëmme 18+  •  Jetone sinn zum Spaass: kee Geldwäert, ni a Geld oder Präisser ëmtauschbar
+b60f038	D'Dieren ginn op...
+2e5bcce	Wëllkomm! Deng {0} Wëllkommsjetone si prett. D'Dëscher si riichtaus!
+7ef7ae3	+{0} gratis Jetonen! Méi an {1} Stonnen.
+5d82af9	Gratis Jetone fëllen all {0} Stonnen op. Déi nächst an {1}.
+5469985	{0} St. {1} Min.
+bb65beb	{0} Min. {1} s
+ac8ba93	HAL DENG SERIE
+560bfa1	Wëlls de eng Erënnerung owes, wann s de nach net gespillt hues, a wann deng gratis Jetone prett sinn? Ni méi wéi dat, an du kanns et an den Astellungen ausschalten.
+b724a40	ERËNNER MECH
+9e0c898	+{0} Jetone prett!
+1207e28	Kuck e Video: {0}
+db3655b	Nächst gratis Jetonen an {0}
+4ca9be5	BLACKJACK
+9a612b1	4 Dëscher  •  bezilt 3 zu 2
+1194439	SPILLAUTOMATEN
+6555152	Lucky Ace 7s  •  10 Linnen
+255b1a1	ROULETTE
+6df1551	Europäesch mat enger Null
+379b146	DU BASS ERSCHÖPFT
+340e5c4	Deng Energiebar ass eidel. Huel der eppes un der Bar fir weiderzespillen, oder komm méi spéit zréck: d'Energie kënnt lues zréck, wann s de net do bass.
+a517396	BEI D'BAR
+7c7227f	WIEL DÄIN DËSCH
+c963de3	ASÄZ
+c433657	LEVEL {0}
+083ac39	SETZEN
+9698219	BRAUCH {0}
+34b737e	Erreech Level {0} fir hei ze spillen. Du bass Level {1}.
+6cc19a9	CASINO
+6e946b7	DD
+4a3a892	MM
+2857a6a	JJJJ
+9d1fece	DAG
+d3bb0c3	MOUNT
+c0f0cad	JOER
+43985ff	WÉINI BASS DE GEBUER?
+293fda2	Jetone sinn nëmmen zur Ënnerhalung. Si hu kee Geldwäert a kënnen ni a Geld oder Präisser ëmgetosch ginn.
+3e9128d	SORRY, DU DARFS NET SPILLEN
+b5e8985	{0} ass nëmme fir Erwuessener.
+bb1b380	ERAUS
+d9f9432	Gëtt an {0} zougemaach...
+c6e102d	VERZIEL EIS VUN DIR
+31120ce	Mir wielen deng Hosten, Croupieren a Barpersonal passend aus. Du kanns dat all Moment an den Astellungen änneren.
+49e8df9	ECH SI MANN
+85abe81	ECH SI FRA
+76cc98c	SOEN ET LÉIWER NET
+964daf7	AN DE CASINO GOEN
+2efb69a	Däi Personal haut den Owend:
+c10e749	Säit {0} vun {1}
+2a3ffd9	SPROOCH
+c673535	AUTOMATESCH
+d1245d2	LAND
+15fc12b	Wëllkomm! Faites vos jeux, w.e.g.
+531fb3f	Net genuch Jetone fir dësen Asaz.
+380eb75	D'Dëschlimit ass {0} pro Dréiung.
+55ad592	RÉCKGÄNGEG
+8f191f9	GESAMTASAZ  {0}
+82e1181	Tipp op d'Spillfeld fir Jetonen ze setzen
+bb19a75	Rien ne va plus!
+5becf07	GRÉNG
+bc74f4f	gréng
+7898801	rout
+466bc8c	schwaarz
+f2edfbf	Wat en Treffer! Felicitatiounen!
+b252caf	Gewonnen! Du gewënns {0}.
+8587d14	GEWËNN  +{0}
+b862a2b	{0} {1}. {2} kënnt zréck bei dech.
+a306d0a	ZRÉCK  {0}
+af3134d	Dës Kéier kee Gewënn
+84122e7	Faites vos jeux, w.e.g.
+52205f4	Waart, bis d'Kugel stoe bleift.
+c4b9243	ASTELLUNGEN
+44d863e	ALLGEMENG
+2bbca79	GRAFIK
+955c8b4	TOUN
+c701f5f	TOUCH
+efcc94a	MAUS
+8433628	CONTROLLER
+d868a50	VIBRATIOUN
+f8692c7	18+ • Jetonen hu kee Geldwäert • Schrëften: Bebas Neue, Poppins, Noto (SIL OFL) • Grenzen: Natural Earth • Präisdaten: Weltbank
+da46447	CASINOPERSONAL
+594b81e	FRAEN
+69d3313	MÄNNER
+b4325d3	GEMËSCHT
+414594a	ERËNNERUNGEN
+6cac87b	Gratis Jetone prett, an e klengen Hiweis owes, ier eng Serie eriwwer wier.
+e43b2e0	NOCH EMOL KUCKEN
+7c9e8f9	PRÄISREGIOUN
+495c70e	Am séierste: de Casino wéi gemoolt, näischt extra.
+b052523	Poléiert Biedem, Holz a Gold spigelen de Sall.
+6bd30d7	Filmlook: Faarfkorrektur, Kären, Glanz, Liichtstrahlen, liewensecht Haut.
+21b6e1d	Kinoobjektiv: d'Schäerft follegt dengem Bléck, Sträifen op Luuchten, Stëbs an de Strahlen.
+fb7c2e8	QUALITÉIT
+d8b9679	NIDDREG
+f68525a	MËTTEL
+d77d0b2	HÉICH
+9289eee	ULTRA
+637e313	OPLÉISUNG
+2e7b141	Méi niddreg ass méi mëll, bleift awer méi kill a spuert Batterie.
+93dcfb5	ANZEIGEMODUS
+3c6eac3	VOLLBILD
+f3690b1	FÉNSTER
+cfa6200	KANTEGLÄTTUNG
+ad50489	AUS
+f178804	Glätt zackeg Kanten am Casino.
+4266288	BILDRAT
+d031ab0	{0} FPS
+a2b7514	30 FPS spuert Batterie an hält eeler Handyen kill.
+0babcee	V-SYNC
+6656e25	SIICHTFELD
+244aadb	FPS UWEISEN
+41c8f6e	GESAMTLAUTSTÄERKT
+bf3af1f	MUSEK
+bd80907	TOUNEFFEKTER
+d098036	STËMME VUM PERSONAL
+93c6484	D'Gemurmels vum Personal, wann et schwätzt.
+16bf71a	AM HANNERGRAND STUMM
+85b2ee7	Mécht de Casino stëll, wann s de an enger anerer Fënster bass.
+8e3634e	BLÉCKEMPFINDLECHKEET
+880dc05	Wéi séier Zéien d'Usiicht dréint.
+750c60f	Wéi séier Zéie mat der Maus d'Usiicht dréint.
+8b988eb	BLÉCK LÉNKS / RIETS ËMDREINEN
+cacf0cc	BLÉCK ROP / ROF ËMDREINEN
+2d13b68	KNÄPPLAYOUT
+50c3f10	AUTO
+b471e5c	MENÜ / USIICHT TAUSCHEN
+d9a59f1	STICK-EMPFINDLECHKEET
+ec14343	Wéi séier de rietse Stick d'Usiicht dréint.
+a79af23	STICK LÉNKS / RIETS ËMDREINEN
+acfc66e	STICK ROP / ROF ËMDREINEN
+56bb461	CONTROLLER-HIWEISER
+51cf49a	Weist, wat all Knäppchen mécht, wann s de mam Controller spills.
+dff7431	VIBRÉIEREN OP
+34139ab	HANDY
+15ee988	BÉID
+465cc91	Auto: de Controller, wann een ugeschloss ass, soss den Handy.
+f6fed84	HANDY-VIBRATIOUN
+8e97fa7	HANDY-STÄERKT
+486ba2d	CONTROLLER-VIBRATIOUN
+8008889	CONTROLLER-STÄERKT
+ea9233e	AUTOMATESCH ({0})
+167dda7	{0} mécht d'Astellungen op, {1} mécht Deeglech op.
+29a4ef9	Kee Controller ugeschloss.
+558ecd2	Ugeschloss: {0}. {1}-Knäppercher ginn ugewisen (A riets bestätegt).
+d6eee9e	Ugeschloss: {0}. {1}-Knäppercher ginn ugewisen.
+78525d5	D'BAR
+099db9f	GLÉCK
+b4a8b06	Jetonen, Gléck an Iessen si virtuell Saachen nëmmen zur Ënnerhalung: kee Geldwäert, net a Geld oder Präisser ëmtauschbar.
+e2a28c9	All Kaart huet dës Chance, zu dengem Virdeel ze kommen, bei Blackjack-Asäz bis zu {0} Jetonen (méi grouss Asäz si normal a verbrauche keng Hänn). Fänkt nom Ufängergléck un; méi staark Packe gi fir d'éischt benotzt.
+04fbc6d	Erlaab den Zougrëff op de Standuert fir de Präis vun dengem Land
+2ae87fc	Akeef sinn an dëser Versioun vum Spill net disponibel.
+8239a84	TESTBUTTEK (kee richtegt Geld)
+173d916	Energie
+b2c67eb	+{0} % JETONEN
+58e8011	{0} Hänn
+ce80712	gewënnt ongeféier {0} % dovun
+c69e8ee	LUCKY ACE 7s
+fc99288	GESAMTASAZ
+c1c00cd	GEWËNNTABELL
+3930abd	VILL GLÉCK!
+67b6973	Du brauchs mindestens 10 Jetone fir ze dréinen.
+5aa1edb	JETONE KRÉIEN
+f5a1812	Asaz op dat erofgesat, wat s de bezuele kanns.
+5c63f61	MEGAGEWËNN!
+652544f	GROUSSE GEWËNN!
+91bc41c	ZRÉCK {0}
+3714283	KEE GEWËNN
+33c0faa	LINN {0}: {1} × {2} = {3}
+9f59e6e	{0} STÄREN = {1}
+d6eee90	Kiischt
+4459b79	Zitroun
+09fb6aa	Orange
+cb92e50	Promm
+d419866	Klack
+e496fd2	Bar
+63abb56	Siwen
+b3850e0	Diamant
+fc2b5a9	As
+85a7de6	Stär
+c31b035	STÄRE bezuelen iwwerall: 5 = {0}× Asaz, 4 = {1}× Asaz, 3 = {2}× Asaz.
+f97509c	Den AS ass Joker: en ersetzt all Symbol ausser dem Stär.
+3e8bc69	Linnegewënner si Villfacher vum Linnenasaz (Gesamtasaz ÷ 10), vu lénks no riets vun der éischter Wal un.
+523f8dc	AUSZUELUNG: {0} % op laang Siicht. All Dréiung ass onofhängeg an zoufälleg.
+e0c705d	Goen
+b8db515	Kucken
+503d46d	Knäppercher
+c7f73bb	Astellungen
+728298d	Deeglech
+ab166bd	Upassen
+76cdb95	Beweegen
+8598222	Wielen
+bbfa773	Zoumaachen
+b52b36b	Zréck
+ab37588	ERSCHÖPFT
+9b11a09	UFÄNGERGLÉCK {0} %
+0c94e98	NACH {0} HÄNN
+51ed273	GLÉCKSSTRÉCK {0} %
+3401470	{0} HÄNN  •  ASÄZ BIS {1}
+f481cc6	LEVEL
+0139615	WËLLKOMM
+daad514	MAT DER HOSTESS SCHWÄTZEN
+bcefb10	Wee a Tipps
+c28e782	JETONEN  •  BONUSSEN
+0c69ec4	JETONE KAFEN
+78c0727	Keess
+1737fab	COCKTAILEN  •  SNACKEN  •  ENERGIE
+9e008ae	IESSEN & DRÉNKEN
+f7881e8	D'Bar
+0e979ed	BLACKJACK BEZILT 3 ZU 2
+eea0d12	DE CROUPIER MUSS BEI 17 STOE BLEIWEN
+4db37bf	BLACKJACK SPILLEN
+0ffdd99	{0}-Dësch  •  Asäz {1} bis {2}
+b4f938b	AM AUTOMAT SPILLEN
+6b7caea	FAITES VOS JEUX
+26b1e39	ROULETTE SPILLEN
+910a1ed	Europäescht Rad  •  Plein bezilt 35 zu 1
+7ef0215	EN DRÉNK BESTELLEN
+fe38d73	{0} bréngt en
+f7b6306	{0} mécht op Level {1} op. Du bass Level {2}: all gespillte Ronn zielt.
+d85f1ad	Fir dësen Dësch brauchs de mindestens {0} Jetonen.
+cbfe016	D'Blackjack-Dëscher si riichtaus. Gëff bei een a setz dech!
+64d9faf	D'Keess ass hei op denger rietser Säit, an d'Bar ass un der lénkser Mauer.
+e4c6e0b	Midd? E Snack un der Bar fëllt deng Energie direkt op.
+d5ab68f	Tipp iergendwou op de Buedem a du gees dohin. Tipp op en Dësch fir dech ze setzen.
+cc21f74	KLENG
+dc01dec	GROUSS
+5fb90b0	IERGENDEN DRILLING
+9c716f1	Hold'em-Dësch
+3b6ab84	Spill 8 Hänn Hold'em
+6c617ca	Gewann 4 Hänn Hold'em
+44ce500	Spill 10 Hänn Baccarat
+b90cff7	Gewann 5 Hänn Baccarat
+3e4dfa9	Spill 15 Hänn Video-Poker
+854fe20	Spill 8 Ronnen Sic Bo
+dfddac1	Gewann 4 Ronnen Sic Bo
+2973ea7	Werf 15 Mol d'Wierfelen um Craps
+737be17	Gewann 4 Wërf um Craps
+4dbb81d	Maach e Flush oder besser beim Video-Poker
+19aa07b	Royal Flush
+cf83e72	Straight Flush
+d27ba03	Véierling
+dbe8641	Full House
+7c936d7	Flush
+2501c65	Strooss
+ca1a0d4	Drilling
+6876b40	Zwee Puer
+2537f88	Puer
+b4b323e	Héchst Kaart
+f70bfdc	Buuwen oder besser
+98fd5af	BACCARAT
+df66d5a	Wëllkomm beim Baccarat! Spiller, Bank oder Onentschidden?
+5055efd	SPILLER
+3f90696	ONENTSCHIDDEN
+0d75f63	BANK
+0ebd5a4	LESCHT RESULTATER
+511993d	S
+ae4f281	B
+c2c53d6	O
+781246e	Wiel en Jeton a tipp op Spiller, Bank oder Onentschidden
+11023a0	ONENTSCHIDDEN  {0}
+503d5f1	DE SPILLER GEWËNNT  {0} ZU {1}
+0eb4be5	D'BANK GEWËNNT  {0} ZU {1}
+7859af1	CRAPS
+4083dbd	Wëllkomm beim Craps! Sëtz op d'Pass Line a werf.
+d266326	SECHS
+c506f3a	NÉNG
+987f4e9	FIELD
+71c1b2b	2 3 4 9 10 11 12  •  2 an 12 bezuelen duebel
+d0ac294	IERGENDENG 7
+9b2f0c3	IERGENDEN CRAPS
+f62ac59	DON'T PASS BAR
+6080ade	1:1  •  12 ass onentschidden
+c07247a	PASS LINE
+6229f78	ODDS
+29bf819	richteg Quoten
+387d7a5	UN
+229c9cc	Odds kommen hannert d'Pass Line, soubal et e Point gëtt.
+c2c8e82	Fir Odds brauchs du en Asaz op der Pass Line.
+1784d43	Deng Odds sinn um Maximum.
+fdc3442	Line-Asätz gi beim Come-out-Wuerf gesat.
+97ce95b	UM DËSCH  {0}
+a895ec0	De Point ass {0}: werf en nach eng Kéier virun enger 7. Odds hannert denger Pass Line bezuelen richteg Quoten.
+d9f9d65	WERFEN
+bcf32ef	De Point ass {0}.
+5b450b4	{0}! Point getraff. Gewonnen!
+9746e08	Seven out. Neie Werfer, neien Come-out.
+4fc4664	{0}, en Natural! D'Pass Line gewënnt.
+203f466	{0}, Craps. D'Line verléiert.
+0f8e260	Waart, bis d'Wierfelen leien.
+6a98cfe	DËSCH VERLOOSSEN?
+8430088	Däin Line-Asaz leeft nach um Point {0}. Wann s du elo gees, ass e verluer.
+0e138d1	HOLD'EM
+5e023be	Wëllkomm beim Hold'em! Sëtz den Ante a mir kucken d'Kaarten.
+0cd62f5	ANTE
+5e9f331	BLIND
+3b935ab	BLIND BEZUELT
+20713a4	Den Dealer qualifizéiert sech mat engem Puer oder besser
+d37267c	CHECK
+9a4e316	FOLD
+88313c4	SËTZ {0}×
+42c6fea	Ante {0} + Blind {0}. Behal nach {1} fir däi Raise.
+1abb2f2	Tipp op Jetonen fir den Ante. De Blind ass gläich.
+f541cec	Checken oder dräi- bis véiermol den Ante setzen?
+fc74a79	Erhéich elo ëm 4× oder 3× den Ante, oder check a kuck de Flop.
+b687501	Lescht Chance: sëtz 1× den Ante oder fold a verléier Ante a Blind.
+400009c	Sëtz elo 2× den Ante, oder check a kuck déi lescht zwou Kaarten.
+f4abdf9	Hei ass de Flop.
+0e51f2c	Turn a River.
+cc856d3	Mol kucken, wat ech hunn.
+6ba1f3e	Den Dealer qualifizéiert sech net: däin Ante kënnt zréck.
+cf1fdc5	Gefoldet. Déi nächst Hand ass deng.
+177fab0	Ultimate Texas Hold'em
+c4917b9	Spiller, Bank oder Onentschidden
+6e4fe7b	VIDEO-POKER
+73cabd3	Jacks or Better
+91c4555	SIC BO
+d810061	Dräi Wierfelen  •  grouss oder kleng
+85ab7ec	Pass Line  •  Field  •  Odds
+35d8db6	Wëllkomm beim Sic Bo! Grouss, kleng oder eppes Méiges?
+3d05514	D'Dëschlimit ass {0} pro Wuerf.
+86ade94	RESELEN
+b69304e	DRILLING {0}!
+5d1bcc6	GEHALEN
+36a21ba	Ginn, déi Kaarte behalen, déi s du wëlls, eemol wiesselen.
+99fa8e8	HALEN
+249d1c0	TIPP
+7aab1bd	WIESSELEN
+5595eb4	Tipp op d'Kaarte fir se ze halen, da wiessel.
+1c05db9	HOLD'EM SPILLEN
+e353e5f	Ultimate Texas Hold'em  •  Ante {0} bis {1}
+6470369	BACCARAT SPILLEN
+bbe0077	GROUSS  •  KLENG  •  DRILLINGEN
+3ba448f	SIC BO SPILLEN
+097c59c	Dräi Wierfelen  •  grouss oder kleng bezuelt 1 zu 1
+af2ca30	PASS LINE  •  FIELD  •  ODDS
+f18398e	CRAPS SPILLEN
+eeede6d	Pass Line bezuelt 1 zu 1  •  Odds bezuelen richteg Quoten
+34e5170	VIDEO-POKER SPILLEN
+f71bdfb	Jacks or Better  •  voll 9/6-Tabell
+4a6c087	JACKS OR BETTER  •  ROYAL FLUSH BEZUELT 800×
+370a133	D'Spillautomate stinn un der rietser Mauer, de Video-Poker un der hënneschter an d'Roulette ganz hannen.
+8298d28	Hold'em ass am Eck hannen lénks, hannert der Bar.
+a2a111f	Baccarat ass direkt lénks, wann s de erakënns.
+b7193bc	Sic Bo ass am Eck hannert der Keess: dräi Wierfelen, grouss oder kleng.
+25320c8	De Craps-Dësch steet riets virun den Automaten. Sëtz op d'Pass Line a werf!
+dc81691	Sofia
+4d9936f	Elena
+3aa0674	Mia
+b724114	Valentina
+34d3f7f	Chloe
+0fc9dd6	Isabella
+bbd3e35	Nadia
+eac677d	Aria
+baaf10f	Luna
+8641381	Camila
+eeee9b7	Aurora
+8a59f05	Bianca
+5a0fc29	Serena
+bf38aa5	Marco
+cfaf50a	Leo
+5815f22	Adrian
+cbede02	Lukas
+f0b9995	Viktor
+7b37259	Daniel
+aaac72d	Gabriel
+2f8f37e	Ethan
+a01126e	Julian
+3e05c90	Rafael
+e1ae457	Mateo
+3398634	Nico
+7aa2d07	Enzo
+1920e2f	Come-out: sëtz op d'Pass Line a werf. 7 oder 11 gewannen, 2, 3 oder 12 verléieren. Place-Wetten fänken un, soubal et e Point gëtt.
+99f4934	LUCKY ACE 7s  •  BEZILT BIS 2.500× VUN DÄINEM LINNEN-ASAZ

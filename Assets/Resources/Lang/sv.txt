@@ -1,0 +1,1004 @@
+LITET
+STORT
+UDDA
+JÄMNA
+VALFRI TRISS
+En näve marker
+En hög marker
+En bricka marker
+Ett ställ marker
+MEST POPULÄR
+Ett valv marker
+High roller-kassaskåp
+BÄST VÄRDE
+Kolsyrat vatten
+Espresso
+Energidryck
+Clubsandwich
+Hamburgermeny
+Stekmiddag
+FULL PÅFYLLNING
+Turstreak
+Het streak
+MEST TUR
+Bronsbord
+Silverbord
+Guldbord
+Diamantbord
+Hold'em-bord
+Ange ett giltigt år.
+Ange en giltig månad (1-12).
+Ange en giltig dag.
+Det datumet ligger i framtiden.
+Välkommen till mitt bord! Redo att spela?
+Kul att se dig. Slå dig ner!
+Hej! Korten är fräscha, och det är jag också.
+Välkommen! Låt oss göra det här till en bra kväll.
+Lägg din insats när du är redo.
+Marker på bordet, så tittar vi på korten.
+Vad spelar vi om?
+Oj, en stor insats! Jag gillar din stil.
+Det kallar jag en insats. Kör!
+Modig i kväll, va?
+Allt?! Mitt hjärta rusar!
+Allt på en hand. Orädd!
+Blackjack! Otroligt!
+Tjugoett, bara sådär!
+Blackjack! Korten älskar dig i kväll.
+Snyggt spelat!
+Vinst! Bra gjort.
+Du är i farten!
+Den där är din.
+Vilken vinst! Alla tittar på det här bordet!
+Enormt! Du brinner i kväll!
+Så nära! Nästa är din.
+Huset hade tur den gången.
+Skaka av dig, en ny hand är på väg.
+Aj, ett kort för mycket.
+Tjock! Det händer de bästa.
+Oavgjort. Ingen förlorar!
+Push. Dina marker är säkra.
+Jag blev tjock! Tur för dig.
+För mycket för mig. Du vinner!
+Blackjack till huset, ledsen!
+Dealern fick blackjack. Otur.
+Jag visar ett ess. Försäkring?
+Vi splittar! Två chanser att vinna.
+Dubblar. Modigt drag!
+Dubbla! Ett kort på väg.
+Ny sko, jag blandar!
+Börjar det ta slut? Kassan fyller på åt dig.
+Markerna tunnas ut. Vill du hämta fler?
+Slut på marker! Gå till kassan eller hämta gratismarker.
+Din hög är tom. Kassan är precis bakom dig.
+Du ser helt slut ut! Ta en bit mat i baren.
+Går du på tomgång? Baren fixar det.
+Ta den tid du behöver.
+När du är redo!
+Kvällen är ung.
+Nybörjartur är på din sida!
+Leken är på din sida i kväll!
+Nybörjarturen är slut. Härifrån är det ett rättvist spel!
+Välkommen till kasinot! Din plats väntar.
+God kväll! Borden är heta i kväll.
+Välkommen tillbaka! Känner du dig lyckosam?
+Tryck på ett bord för att börja spela!
+Behöver du fler marker? Du har kommit till rätt lucka.
+Större högar, större bonusar!
+Hungrig? Välj vad du vill från menyn.
+Lite mat håller energin uppe!
+Välkommen till mitt bord!
+Där är du! Det känns ljusare här redan.
+Känn dig som hemma. I kväll handlar allt om dig.
+Jag älskar det leendet. Turkväll?
+Slappna av, du är i goda händer här.
+Hej du! Jag hoppades att du skulle titta förbi min lucka.
+Alltid trevligt att se ett vänligt ansikte.
+Se vem det är! Har du kul därute?
+Hej där, snygging!
+Jag gillar din stil i kväll.
+Hej, kul att se dig igen!
+Har du en bra kväll? Du förtjänar det.
+Akta dig, jag kanske börjar heja på dig.
+Min favoritspelare är tillbaka!
+Sitt hos mig, så delar jag ut något fint.
+Du gör det här bordet mycket roligare.
+Går du redan? Kvällen är ung!
+Kom igen, bara en hand till. Jag har en bra känsla för den här!
+Du kan inte lämna mig nu, vi har ju precis börjat!
+Sista chansen! Nästa hand kan bli den stora...
+Okej, okej. Jag håller din plats varm. Lovar du att komma tillbaka?
+Ingen streak än? Spela {2} rundor i dag så börjar jag räkna.
+Ny start! {2} rundor och din låga är tänd.
+Jag har en liten lista över vilka som dyker upp varje dag. Du står inte på den... än.
+Dag {1} väntar på dig. Bara {2} rundor kvar!
+{0} dagar i rad... du tänker väl inte sluta nu?
+Din låga ser lite kall ut i dag. {2} rundor borde värma upp den.
+Jag har räknat: {0} dagar. Nu kör vi på {1}.
+Tro inte att jag inte märkte det. {2} rundor kvar för att behålla din streak!
+{0} dagar i rad? Jag börjar tro att du trivs här.
+Din streak är säker för i dag. Nu visar du bara upp dig.
+Dag {0}, klart. Samma tid i morgon?
+{0} dagar! Nu borde jag hålla en plats åt dig.
+Där är den: dag ett av din streak! Kom tillbaka i morgon så blir det två.
+En hel vecka i rad! Jag är verkligen imponerad.
+Trettio dagar! Du jobbar praktiskt taget här nu.
+Hundra dagar. Jag berättar om dig för alla.
+Det är {0} dagar i rad! Titta på dig.
+Streak räddad: dag {0}! Jag visste att du skulle klara det.
+Dag {0}! Slår vad om att du inte klarar {1}.
+{0} dagar... okej, din skrytmåns.
+Spela 10 händer blackjack
+Vinn 5 händer blackjack
+Få en blackjack
+Vinn 500 marker i blackjack
+Snurra på spelautomaten 20 gånger
+Vinn 5 snurr på spelautomaten
+Vinn 5× din insats på spelautomaten
+Spela 5 rundor roulette
+Vinn 3 roulettesnurr
+Träffa ett nummer rakt
+Spela 8 händer hold'em
+Vinn 4 händer hold'em
+Spela 10 händer baccarat
+Vinn 5 händer baccarat
+Spela 15 händer videopoker
+Spela 8 omgångar sic bo
+Vinn 4 omgångar sic bo
+Kasta tärningarna 15 gånger i craps
+Vinn 4 kast i craps
+Få färg eller bättre i videopoker
+Royal flush
+Färgstege
+Fyrtal
+Kåk
+Färg
+Stege
+Triss
+Två par
+Par
+Högt kort
+GPS-position
+mobilnät
+internetanslutning
+enhetsinställningar
+testland
+inte verifierad (standardpris)
+okänd
+1:a 12
+2:a 12
+3:e 12
+2 mot 1
+RÖTT
+SVART
+Knektar eller bättre
+RÄTTVISA PRISER FÖR DITT LAND
+Priserna i butiken anpassas efter ditt lands ekonomi, så att spelare överallt betalar ett rättvist pris.
+För att hitta ditt land kontrollerar vi din ungefärliga position en gång. Den matchas mot ett land på din enhet och skickas aldrig någonstans. Om du tackar nej gäller standardpriser.
+FORTSÄTT
+Lämna kasinot?
+Dina marker och framsteg är sparade.
+AVSLUTA
+STANNA
+{0} upplåst
+En streakfrysning räddade din streak på {0} dagar i går.
+{0} streakfrysningar räddade din streak på {1} dagar.
+Din streak på {0} dagar tog slut. Spela {1} rundor i dag för att starta en ny!
+UPPDRAG KLART
++{0} marker
+ALLA UPPDRAG KLARA!
+Daglig bonus +{0} marker. Nya uppdrag i morgon.
+NIVÅ {0}!
+Milstolpe! +{0} marker
+Kom tillbaka i morgon för att fortsätta
++1 streakfrysning
+{0} DAGAR I RAD!
+Köp är inte tillgängliga i den här versionen.
+Köpet misslyckades. Du har inte debiterats.
++{0} marker tillagda!
+{0}: {1} händer med {2}% tur, efter nybörjarturen
+{0}: {1} händer med {2}% tur!
+{0}: +{1}% energi
+Inte tillgängligt på den här enheten
+Videor kan inte laddas på det här nätverket
+Kom tillbaka i morgon
+Klar om {0} s
++{0} marker ({1} kvar i dag)
++{0} gratismarker!
++1 streakfrysning!
+Ingen video tillgänglig just nu. Försök igen om en stund.
+BRONS
+SILVER
+GULD
+DIAMANT
+Meny
+Vy
+Kryss
+Cirkel
+Fyrkant
+Triangel
+Kontrollerar din region...
+Inte verifierad ({0}): standardpriser
+{0} ({1}): priser i {2}
+Påminnelser
+Gratismarker klara och streakpåminnelser
+Dina gratismarker är klara
+{0} marker väntar på dig på Lucky Ace.
+Behåll din streak på {0} dagar
+Spela {0} rundor i dag så att den inte nollställs vid midnatt.
+BACCARAT
+Välkommen till baccarat! Spelare, Bank eller Oavgjort?
+SPELARE
+OAVGJORT
+BANK
+SENASTE RESULTAT
+S
+B
+O
+ÅNGRA
+RENSA
+SAMMA IGEN
+DELA UT
+Inte tillräckligt med marker för den insatsen.
+Bordets maximum nått
+TOTAL INSATS  {0}
+Välj en mark och tryck på Spelare, Bank eller Oavgjort
+OAVGJORT  {0}
+SPELAREN VINNER  {0} MOT {1}
+BANKEN VINNER  {0} MOT {1}
+VINST  +{0}
+ÅTERBETALT  {0}
+Ingen vinst den här gången
+Spela klart den här handen först.
+Välkommen! Nybörjarturen är på din sida i kväll. Lägg en insats!
+BLACKJACK BETALAR 3 MOT 2   •   DEALERN STANNAR PÅ ALLA 17   •   FÖRSÄKRING BETALAR 2 MOT 1
+INSATS
+KORT
+STANNA
+DUBBLA
+SPLITTA
+FÖRSÄKRA
+NEJ TACK
+INSATS {0}+
+Inte tillräckligt med marker
+Dealern visar ett ess. Försäkra för {0}?
+Försäkringen betalar {0}
+Ingen blackjack för dealern. Försäkringen förlorad.
+TJOCK
+DEALERN TJOCK
+BLACKJACK!
+VINST
+PUSH
+FÖRLUST
+Nybörjarturen är slut. Din Turstreak börjar nu.
+Nybörjarturen är slut. Från och med nu är det vanlig blackjack.
+Din Turstreak är slut. Tillbaka till vanlig blackjack.
+SLUT PÅ MARKER
+Titta på en kort video för {0} gratismarker, eller gå till kassan.
+Gå till kassan för att fylla på dina marker.
+GRATISMARKER
+KASSA
+SENARE
+”{0}”
+EN HAND TILL
+GÅ
+NYBÖRJARTUR
+TURSTREAK
+Välkomstbonus för nya spelare: under dina första <b>{0} händer</b> är dealerns sko blandad till din fördel, så du vinner nästan varje hand.
+Under de följande <b>{0} händerna</b> klingar fördelen av, och därefter är varje bord vanlig, rättvis blackjack från en blandad sko med 6 kortlekar (blackjack betalar 3 mot 2, dealern stannar på alla 17).
+Fördel just nu: <b><color=#7CFC9A>{0}%</color></b>   Händer kvar: <b>{1}</b>
+Under dina nästa <b>{0} blackjackhänder</b> med en insats på upp till <b>{1} marker</b> har varje kort <b>{2}%</b> chans att delas ut till din fördel (samma fördel som nybörjarturen).
+Med bra spel vinner det ungefär <b>{0}%</b> av händerna, mot ungefär {1}% i vanlig blackjack. Större insatser är vanlig blackjack och förbrukar inga händer. När händerna tar slut är varje bord vanlig, rättvis blackjack igen.
+JAG FÖRSTÅR
+VILL DU HA TILLBAKA TUREN?
+Nybörjarturen är slut: härifrån är varje bord vanlig, rättvis blackjack. En Turstreak ger tillbaka fördelen en tid.
+CRAPS
+Välkommen till craps! Satsa på Pass Line och kasta.
+SEX
+NIO
+FIELD
+2 3 4 9 10 11 12  •  2 och 12 betalar dubbelt
+VALFRI 7
+VALFRI CRAPS
+DON'T PASS BAR
+1:1  •  12 blir oavgjort
+PASS LINE
+ODDS
+riktiga odds
+AV
+PÅ
+Odds läggs bakom Pass Line när det finns en point.
+Odds kräver en insats på Pass Line.
+Dina odds är på max.
+Line-insatser läggs vid come-out-kastet.
+PÅ BORDET  {0}
+Come-out-kast: satsa på Pass Line och kasta. 7 eller 11 vinner, 2, 3 eller 12 förlorar. Place-insatser börjar gälla när det finns en point.
+Pointen är {0}: slå den igen före en 7:a. Odds bakom din Pass Line betalar riktiga odds.
+KASTA
+Pointen är {0}.
+{0}! Pointen gjord. Vinst!
+Seven out. Ny kastare, ny come-out.
+{0}, en natural! Pass Line vinner.
+{0}, craps. Linjen förlorar.
+Vänta tills tärningarna ligger still.
+LÄMNA BORDET?
+Din line-insats spelar fortfarande på pointen {0}. Går du nu förlorar du den.
+DAGLIGT
+DAGLIG STREAK
+DAGAR I RAD
+I DAG
+SE REKLAM
+KÖP
+STREAKFRYSNING
+En streakfrysning håller din streak vid liv en dag du inte spelar. Du kan ha {0}.\n\nKöpa en för {1} marker?
+Streakfrysning klar.
+Inte tillräckligt med marker för en frysning.
+AVBRYT
+DAGLIGT SNURR
+SNURRA
+Chanser:
+{0}%
+Du vann {0} marker!
+DAGENS UPPDRAG
+Rekord: {0} dagar
+Spela varje dag för att bygga en streak
+Dagens mål klart! Vi ses i morgon.
+I dag: {0} / {1} rundor (valfritt spel)
+Streakfrysningar: {0} / {1}
+Rädda din streak en dag du missar. +1 var 7:e dag.
+FULL
+INGEN VIDEO
+REKLAM SNART
+Streakbonus: priser ×{0}
+Ett gratis snurr varje dag
+NÄSTA  {0}
+Allt klart! Bonus hämtad.
+Nya uppdrag vid midnatt.
+Klara alla tre: +{0} bonusmarker
+HOLD'EM
+Välkommen till hold'em! Lägg din ante så tittar vi på korten.
+ANTE
+BLIND
+SPELA
+BLIND BETALAR
+Dealern kvalificerar sig med par eller bättre
+CHECKA
+LÄGG
+SATSA {0}×
+Ante {0} + blind {0}. Spara {1} till för din höjning.
+Tryck på marker för din ante. Blinden är lika stor.
+Checka eller satsa tre eller fyra gånger din ante?
+Höj nu 4× eller 3× din ante, eller checka och se floppen.
+Sista chansen: satsa 1× din ante eller lägg dig och förlora ante och blind.
+Satsa 2× din ante nu, eller checka och se de två sista korten.
+Här är floppen.
+Turn och river.
+Få se vad jag har.
+Dealern kvalificerar sig inte: din ante kommer tillbaka.
+Du lade dig. Nästa hand är din.
+SPEL
+Dra på vänster sida för att gå  •  Dra på höger sida för att titta  •  Tryck för att gå dit
+Endast 18+  •  Markerna är för nöjes skull: inget penningvärde, kan aldrig växlas mot pengar eller priser
+Öppnar dörrarna...
+Välkommen! Dina {0} välkomstmarker är klara. Borden finns rakt fram!
++{0} gratismarker! Fler om {1} timmar.
+Gratismarker fylls på var {0}:e timme. Nästa om {1}.
+{0} h {1} min
+{0} min {1} s
+BEHÅLL DIN STREAK
+Vill du ha en påminnelse de kvällar du inte har spelat än, och när dina gratismarker är klara? Aldrig mer än så, och du kan stänga av det i Inställningar.
+PÅMINN MIG
++{0} marker klara!
+Titta på en video: {0}
+Nästa gratismarker om {0}
+BLACKJACK
+4 bord  •  betalar 3 mot 2
+Ultimate Texas Hold'em
+Spelare, Bank eller Oavgjort
+SPELAUTOMATER
+Lucky Ace 7s  •  10 linjer
+VIDEOPOKER
+Jacks or Better
+SIC BO
+Tre tärningar  •  stort eller litet
+Pass Line  •  Field  •  Odds
+ROULETTE
+Europeisk med en nolla
+DU ÄR UTMATTAD
+Din energimätare är tom. Hämta något i baren för att fortsätta spela, eller kom tillbaka senare: energin återhämtar sig sakta medan du är borta.
+GÅ TILL BAREN
+VÄLJ DITT BORD
+INSATSER
+NIVÅ {0}
+SÄTT DIG
+KRÄVER {0}
+Nå nivå {0} för att spela här. Du är på nivå {1}.
+KASINO
+DD
+MM
+ÅÅÅÅ
+DAG
+MÅNAD
+ÅR
+NÄR ÄR DU FÖDD?
+Markerna är endast för underhållning. De har inget penningvärde och kan aldrig växlas mot pengar eller priser.
+TYVÄRR, DU FÅR INTE SPELA
+{0} är endast tillgängligt för vuxna.
+AVSLUTA
+Stänger om {0}...
+BERÄTTA OM DIG
+Vi väljer värdar, dealers och barpersonal som passar. Du kan ändra det när som helst i Inställningar.
+JAG ÄR MAN
+JAG ÄR KVINNA
+VILL INTE SÄGA
+GÅ IN I KASINOT
+Din personal i kväll:
+Sida {0} av {1}
+SPRÅK
+AUTOMATISKT
+LAND
+Välkommen! Placera era insatser, tack.
+Bordsgränsen är {0} per snurr.
+Tryck på bordet för att placera marker
+Inga fler insatser!
+GRÖNT
+grönt
+rött
+svart
+Vilken träff! Grattis!
+Vinst! Du vinner {0}.
+{0} {1}. {2} kommer tillbaka till dig.
+Placera era insatser, tack.
+Vänta tills kulan stannar.
+INSTÄLLNINGAR
+ALLMÄNT
+GRAFIK
+LJUD
+PEKSKÄRM
+MUS
+HANDKONTROLL
+VIBRATION
+18+ • Markerna har inget penningvärde • Typsnitt: Bebas Neue, Poppins, Noto (SIL OFL) • Gränser: Natural Earth • Prisdata: Världsbanken
+KASINOPERSONAL
+KVINNOR
+MÄN
+BLANDAT
+PÅMINNELSER
+Gratismarker klara, och en knuff på kvällen innan en streak skulle ta slut.
+KONTROLLERA IGEN
+PRISREGION
+Snabbast: kasinot som det är målat, inget extra.
+Polerade golv, trä och guld speglar salen.
+Filmkänsla: färggradering, korn, glöd, ljusstrålar, naturtrogen hud.
+Biolins: skärpan följer din blick, strimmor på lampor, damm i ljusstrålarna.
+KVALITET
+LÅG
+MEDEL
+HÖG
+ULTRA
+UPPLÖSNING
+Lägre är mjukare men går svalare och sparar batteri.
+VISNINGSLÄGE
+HELSKÄRM
+FÖNSTER
+KANTUTJÄMNING
+Jämnar ut hackiga kanter i kasinot.
+BILDFREKVENS
+{0} FPS
+30 FPS sparar batteri och håller äldre telefoner svala.
+V-SYNC
+SYNFÄLT
+VISA FPS
+HUVUDVOLYM
+MUSIK
+LJUDEFFEKTER
+PERSONALENS RÖSTER
+Sorlet personalen gör när de pratar.
+TYST I BAKGRUNDEN
+Tystar kasinot medan du är i ett annat fönster.
+TITTKÄNSLIGHET
+Hur snabbt dragningar vrider vyn.
+Hur snabbt dragningar med musen vrider vyn.
+INVERTERA TITTA VÄNSTER / HÖGER
+INVERTERA TITTA UPP / NER
+KNAPPLAYOUT
+AUTO
+BYT MENY / VY
+SPAKKÄNSLIGHET
+Hur snabbt höger spak vrider vyn.
+INVERTERA SPAK VÄNSTER / HÖGER
+INVERTERA SPAK UPP / NER
+KONTROLLTIPS
+Visar vad varje knapp gör medan du spelar med handkontroll.
+VIBRERA PÅ
+TELEFON
+BÅDA
+Auto: handkontrollen när en är ansluten, annars telefonen.
+TELEFONVIBRATION
+STYRKA I TELEFON
+VIBRATION I HANDKONTROLL
+STYRKA I HANDKONTROLL
+AUTOMATISKT ({0})
+{0} öppnar Inställningar, {1} öppnar Dagligt.
+Ingen handkontroll ansluten.
+Ansluten: {0}. Visar {1}-knappar (A till höger bekräftar).
+Ansluten: {0}. Visar {1}-knappar.
+BAREN
+TUR
+Marker, tur och mat är virtuella föremål endast för underhållning: inget penningvärde, kan inte lösas in mot pengar eller priser.
+Varje kort har den chansen att delas ut till din fördel, på blackjackinsatser upp till {0} marker (större insatser är vanliga och förbrukar inga händer). Börjar efter nybörjarturen; starkare paket används först.
+Tillåt platsåtkomst för att få ditt lands pris
+Köp är inte tillgängliga i den här versionen av spelet.
+TESTBUTIK (inga riktiga pengar)
+energi
++{0}% MARKER
+{0} händer
+vinner ungefär {0}% av dem
+Välkommen till sic bo! Stort, litet eller något djärvare?
+Bordsgränsen är {0} per kast.
+SKAKA
+TRISS I {0}!
+LUCKY ACE 7s
+TOTAL INSATS
+VINSTTABELL
+LYCKA TILL!
+Du behöver minst 10 marker för att snurra.
+HÄMTA MARKER
+Insatsen sänkt till vad du har råd med.
+MEGAVINST!
+STORVINST!
+ÅTERBETALT {0}
+INGEN VINST
+LINJE {0}: {1} × {2} = {3}
+{0} STJÄRNOR = {1}
+Körsbär
+Citron
+Apelsin
+Plommon
+Klocka
+Bar
+Sjua
+Diamant
+Ess
+Stjärna
+STJÄRNOR betalar var som helst: 5 = {0}× insats, 4 = {1}× insats, 3 = {2}× insats.
+ESSET är wild: det ersätter alla symboler utom stjärnan.
+Linjevinster är multiplar av linjeinsatsen (total insats ÷ 10), från vänster till höger från första hjulet.
+ÅTERBETALNING: {0}% i det långa loppet. Varje snurr är oberoende och slumpmässigt.
+BEHÅLLS
+Dela ut, behåll de kort du vill, byt en gång.
+BEHÅLL
+TIPS
+BYT
+Tryck på korten du vill behålla och byt sedan.
+Gå
+Titta
+Knappar
+Inställningar
+Dagligt
+Justera
+Flytta
+Välj
+Stäng
+Tillbaka
+UTMATTAD
+NYBÖRJARTUR {0}%
+{0} HÄNDER KVAR
+TURSTREAK {0}%
+{0} HÄNDER  •  INSATSER UPP TILL {1}
+NIVÅ
+Sofia
+Elena
+Mia
+Valentina
+Chloe
+Isabella
+Nadia
+Aria
+Luna
+Camila
+Aurora
+Bianca
+Serena
+Marco
+Leo
+Adrian
+Lucas
+Viktor
+Daniel
+Gabriel
+Ethan
+Julian
+Rafael
+Mateo
+Nico
+Enzo
+VÄLKOMMEN
+PRATA MED VÄRDINNAN
+Vägbeskrivning och tips
+MARKER  •  BONUSAR
+KÖP MARKER
+Kassa
+COCKTAILS  •  SNACKS  •  ENERGI
+MAT & DRYCK
+Baren
+BLACKJACK BETALAR 3 MOT 2
+DEALERN MÅSTE STANNA PÅ 17
+SPELA BLACKJACK
+Bord {0}  •  insatser {1} till {2}
+SPELA HOLD'EM
+Ultimate Texas Hold'em  •  ante {0} till {1}
+SPELA BACCARAT
+STORT  •  LITET  •  TRISSAR
+SPELA SIC BO
+Tre tärningar  •  stort eller litet betalar 1 till 1
+PASS LINE  •  FIELD  •  ODDS
+SPELA CRAPS
+Pass Line betalar 1 till 1  •  odds betalar riktiga odds
+SPELA VIDEOPOKER
+SPELA PÅ AUTOMATERNA
+Jacks or Better  •  full 9/6-tabell
+LUCKY ACE 7s  •  BETALAR UPP TILL 2 500× DIN LINJEINSATS
+JACKS OR BETTER  •  ROYAL FLUSH BETALAR 800×
+PLACERA ERA INSATSER
+SPELA ROULETTE
+Europeiskt hjul  •  rak insats betalar 35 mot 1
+BESTÄLL EN DRINK
+{0} kommer med den
+{0} öppnar på nivå {1}. Du är på nivå {2}: varje runda du spelar räknas.
+Det här bordet kräver minst {0} marker.
+Blackjackborden finns rakt fram. Gå fram till ett och slå dig ner!
+Spelautomaterna står längs högra väggen, videopoker längs bakväggen och roulettehjulet längst in.
+Hold'em finns i hörnet längst in till vänster, förbi baren.
+Baccarat finns direkt till vänster när du kommer in.
+Sic bo finns i hörnet förbi kassan: tre tärningar, stort eller litet.
+Crapsbordet står till höger, framför automaterna. Satsa på Pass Line och kasta!
+Kassan är här till höger om dig, och baren finns längs vänstra väggen.
+Trött? Ett mellanmål i baren fyller på energin direkt.
+Tryck var som helst på golvet så går du dit. Tryck på ett bord för att sätta dig.
+Andorra
+Förenade Arabemiraten
+Afghanistan
+Antigua och Barbuda
+Anguilla
+Albanien
+Armenien
+Angola
+Antarktis
+Argentina
+Amerikanska Samoa
+Österrike
+Australien
+Aruba
+Åland
+Azerbajdzjan
+Bosnien och Hercegovina
+Barbados
+Bangladesh
+Belgien
+Burkina Faso
+Bulgarien
+Bahrain
+Burundi
+Benin
+S:t Barthélemy
+Bermuda
+Brunei
+Bolivia
+Karibiska Nederländerna
+Brasilien
+Bahamas
+Bhutan
+Bouvetön
+Botswana
+Belarus
+Belize
+Kanada
+Kokosöarna
+Kongo-Kinshasa
+Centralafrikanska republiken
+Kongo-Brazzaville
+Schweiz
+Elfenbenskusten
+Cooköarna
+Chile
+Kamerun
+Kina
+Colombia
+Costa Rica
+Kuba
+Kap Verde
+Curaçao
+Julön
+Cypern
+Tjeckien
+Tyskland
+Djibouti
+Danmark
+Dominica
+Dominikanska republiken
+Algeriet
+Ecuador
+Estland
+Egypten
+Västsahara
+Eritrea
+Spanien
+Etiopien
+Finland
+Fiji
+Falklandsöarna
+Mikronesien
+Färöarna
+Frankrike
+Gabon
+Storbritannien
+Grenada
+Georgien
+Franska Guyana
+Guernsey
+Ghana
+Gibraltar
+Grönland
+Gambia
+Guinea
+Guadeloupe
+Ekvatorialguinea
+Grekland
+Sydgeorgien och Sydsandwichöarna
+Guatemala
+Guam
+Guinea-Bissau
+Guyana
+Hongkong SAR
+Heardön och McDonaldöarna
+Honduras
+Kroatien
+Haiti
+Ungern
+Indonesien
+Irland
+Israel
+Isle of Man
+Indien
+Brittiska territoriet i Indiska oceanen
+Irak
+Iran
+Island
+Italien
+Jersey
+Jamaica
+Jordanien
+Japan
+Kenya
+Kirgizistan
+Kambodja
+Kiribati
+Komorerna
+S:t Kitts och Nevis
+Nordkorea
+Sydkorea
+Kuwait
+Caymanöarna
+Kazakstan
+Laos
+Libanon
+S:t Lucia
+Liechtenstein
+Sri Lanka
+Liberia
+Lesotho
+Litauen
+Luxemburg
+Lettland
+Libyen
+Marocko
+Monaco
+Moldavien
+Montenegro
+Saint-Martin
+Madagaskar
+Marshallöarna
+Nordmakedonien
+Mali
+Myanmar (Burma)
+Mongoliet
+Macao SAR
+Nordmarianerna
+Martinique
+Mauretanien
+Montserrat
+Malta
+Mauritius
+Maldiverna
+Malawi
+Mexiko
+Malaysia
+Moçambique
+Namibia
+Nya Kaledonien
+Niger
+Norfolkön
+Nigeria
+Nicaragua
+Nederländerna
+Norge
+Nepal
+Nauru
+Niue
+Nya Zeeland
+Oman
+Panama
+Peru
+Franska Polynesien
+Papua Nya Guinea
+Filippinerna
+Pakistan
+Polen
+S:t Pierre och Miquelon
+Pitcairnöarna
+Puerto Rico
+Palestinska territorierna
+Portugal
+Palau
+Paraguay
+Qatar
+Réunion
+Rumänien
+Serbien
+Ryssland
+Rwanda
+Saudiarabien
+Salomonöarna
+Seychellerna
+Sudan
+Sverige
+Singapore
+S:t Helena
+Slovenien
+Svalbard och Jan Mayen
+Slovakien
+Sierra Leone
+San Marino
+Senegal
+Somalia
+Surinam
+Sydsudan
+São Tomé och Príncipe
+El Salvador
+Sint Maarten
+Syrien
+Eswatini
+Turks- och Caicosöarna
+Tchad
+Franska sydterritorierna
+Togo
+Thailand
+Tadzjikistan
+Tokelauöarna
+Östtimor
+Turkmenistan
+Tunisien
+Tonga
+Turkiet
+Trinidad och Tobago
+Tuvalu
+Taiwan
+Tanzania
+Ukraina
+Uganda
+USA:s yttre öar
+USA
+Uruguay
+Uzbekistan
+Vatikanstaten
+S:t Vincent och Grenadinerna
+Venezuela
+Brittiska Jungfruöarna
+Amerikanska Jungfruöarna
+Vietnam
+Vanuatu
+Wallis- och Futunaöarna
+Samoa
+Kosovo
+Jemen
+Mayotte
+Sydafrika
+Zambia
+Zimbabwe
+Engelska
+Afrikaans
+Amhariska
+Arabiska
+Azerbajdzjanska
+Belarusiska
+Bulgariska
+Bengali
+Bosniska
+Katalanska
+Tjeckiska
+Danska
+Tyska
+Grekiska
+Spanska
+Estniska
+Baskiska
+Persiska
+Finska
+Filippinska
+Franska
+Iriska
+Galiciska
+Gujarati
+Hausa
+Hebreiska
+Hindi
+Kroatiska
+Franska (Haiti)
+Ungerska
+Armeniska
+Indonesiska
+Igbo
+Isländska
+Italienska
+Japanska
+Georgiska
+Kazakiska
+Kambodjanska
+Kannada
+Koreanska
+Kirgiziska
+Luxemburgiska
+Laotiska
+Litauiska
+Lettiska
+Malagassiska
+Makedonska
+Malayalam
+Mongoliska
+Marathi
+Malajiska
+Maltesiska
+Burmesiska
+Norskt bokmål
+Nepalesiska
+Nederländska
+Punjabi
+Polska
+Afghanska
+Portugisiska (Brasilien)
+Portugisiska (Portugal)
+Rätoromanska
+Rumänska
+Ryska
+Kinjarwanda
+Singalesiska
+Slovakiska
+Slovenska
+Somaliska
+Albanska
+Serbiska
+Svenska
+Swahili
+Tamil
+Telugu
+Tadzjikiska
+Thailändska
+Turkmeniska
+Turkiska
+Ukrainska
+Urdu
+Uzbekiska
+Vietnamesiska
+Xhosa
+Yoruba
+Kinesiska (förenklad)
+Kinesiska (traditionell)
+Zulu
+Sön
+Mån
+Tis
+Ons
+Tors
+Fre
+Lör

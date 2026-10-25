@@ -1,0 +1,659 @@
+# Albanian (sq). Machine translation by Claude.
+bd99124	Një grusht fishash
+c7c6dc8	Një stivë fishash
+7512cfd	Një tabaka fishash
+fa36588	Një raft fishash
+7994f65	MË I POPULLARIZUARI
+49dcc21	Një kasafortë fishash
+0725283	Kasaforta e lojtarit të madh
+7658705	VLERA MË E MIRË
+2f23432	Ujë i gazuar
+418b820	Ekspres
+97b463c	Pije energjike
+43bbfda	Sanduiç klubi
+bce7a75	Menu me hamburger
+2832a8d	Darkë me biftek
+dee8ee8	MBUSHJE E PLOTË
+a7c2255	Seri me fat
+7919163	Seri e nxehtë
+74fdfc2	MË SHUMË FAT
+d79cd12	Tavolina e bronztë
+2a8ff35	Tavolina e argjendtë
+51877b2	Tavolina e artë
+9282152	Tavolina e diamantit
+0de8764	Fut një vit të vlefshëm.
+d4e14c9	Fut një muaj të vlefshëm (1-12).
+addd156	Fut një ditë të vlefshme.
+d78a4f4	Kjo datë është në të ardhmen.
+787c7c6	Mirë se erdhe në tavolinën time! Gati për të luajtur?
+8b0f93e	Më vjen mirë që të shoh. Ulu!
+8338021	Përshëndetje! Letrat janë të freskëta, edhe unë.
+75750f9	Mirë se erdhe! Le ta bëjmë këtë mbrëmje të bukur.
+95aac36	Vendos bastin kur të jesh gati.
+8bc63c1	Fishat në tavolinë, dhe le të shohim letrat.
+984b7f3	Për çfarë po luajmë?
+b74c769	Oh, bast i madh! Më pëlqen stili yt.
+77fc1fc	Ky po që është bast. Hajde!
+7779a5b	Je trim sonte, apo jo?
+479ff82	Gjithçka?! Zemra po më rreh fort!
+7fb527c	Gjithçka në një dorë. Pa frikë!
+7bf0c5d	Blackjack! E pabesueshme!
+123f2d5	Njëzet e një, kaq thjesht!
+cd850a7	Blackjack! Letrat të duan sonte.
+55f50ee	E luajtur bukur!
+79594b1	Fitore! Të lumtë.
+0df710e	Po të shkon mbarë!
+20a0c1e	Kjo është e jotja.
+a45fe61	Çfarë fitoreje! Të gjithë po e shohin këtë tavolinë!
+54d3982	E madhe! Je në formë sonte!
+8da8f1e	Kaq afër! E radhës është e jotja.
+5d921e1	Këtë herë kazinoja pati fat.
+f923af7	Mos u mërzit, po vjen një dorë e re.
+853e7ca	Oh, një letër më shumë.
+daec44f	Kalove! U ndodh edhe më të mirëve.
+11ceaef	Barazim. Askush nuk humbet!
+911a289	Barazim. Fishat e tua janë të sigurta.
+a89d9d9	Kalova! Ke fat.
+f76c8fd	Shumë për mua. Fitove!
+63f8d0b	Blackjack për kazinonë, më vjen keq!
+465c8bf	Blackjack i krupierit. Fat i keq.
+6752f40	Po tregoj një as. Sigurim?
+1920c5a	Po ndajmë! Dy mundësi për të fituar.
+9f621da	Dyfishim. Lëvizje e guximshme!
+59da99d	Dyfishoje! Po vjen një letër.
+0b48017	Këpucë e re, po përziej!
+3fa7769	Po të mbarojnë? Arka të mbush sërish.
+4e5694b	Fishat po pakësohen. Do më shumë?
+d41f057	Mbaruan fishat! Shko te arka ose merr fisha falas.
+15d90d3	Stiva jote është bosh. Arka është pikërisht pas teje.
+a9eaae1	Dukesh i rraskapitur! Ha diçka te bari.
+5cd9e8b	Pa energji? Bari kujdeset për ty.
+37b9672	Merr kohën tënde.
+c64df8c	Kur të jesh gati!
+b8dfc0a	Nata është ende e re.
+8748560	Fati i fillestarit është me ty!
+e3def50	Pakoja është me ty sonte!
+506ade9	Fati i fillestarit mbaroi. Nga tani loja është e drejtë!
+953d8b7	Mirë se erdhe në kazino! Vendi yt po të pret.
+9fd9844	Mirëmbrëma! Tavolinat janë të nxehta sonte.
+2d42aaf	Mirë se u ktheve! Ndihesh me fat?
+311bae7	Prek një tavolinë për të filluar lojën!
+3318099	Të duhen më shumë fisha? Ke ardhur te sporteli i duhur.
+c5b3787	Stiva më të mëdha, bonuse më të mëdha!
+21ae665	I uritur? Zgjidh çfarëdo nga menuja.
+8b83cc0	Një kafshatë ushqim të mban energjinë lart!
+35f4b0e	Mirë se erdhe në tavolinën time!
+8f90245	Ja ku je! Vendi duket më i ndritshëm.
+909e4d6	Ndihu si në shtëpi. Sonte gjithçka është për ty.
+2477f78	Ma do zemra atë buzëqeshje. Natë me fat?
+6ac2120	Qetësohu, je në duar të mira këtu.
+089f04b	Hej, ti! Shpresoja se do kaloje nga sporteli im.
+3f2c3c9	Gjithmonë bukur të shohësh një fytyrë miqësore.
+3021db8	Shiko kush është këtu! Po kalon mirë?
+769980b	Përshëndetje, i bukur!
+5361ffd	Më pëlqen stili yt sonte.
+56b40be	Hej, më vjen mirë që të shoh përsëri!
+3316019	Po kalon një mbrëmje të mirë? E meriton.
+28283fd	Kujdes, mund të filloj të të mbështes.
+109ac94	Lojtari im i preferuar u kthye!
+acba0e6	Ulu me mua, do të ndaj diçka të bukur.
+eb5ff2a	Me ty kjo tavolinë është shumë më argëtuese.
+772a73c	Po ikën kaq shpejt? Nata është ende e re!
+178301a	Hajde, vetëm edhe një dorë. Kam një ndjesi të mirë!
+816036a	Nuk mund të më lësh tani, sapo kemi filluar!
+5c9b7e2	Shansi i fundit! Dora e radhës mund të jetë ajo e madhja...
+20ce7b6	Mirë, mirë. Do ta mbaj vendin tënd të ngrohtë. Premton se do kthehesh?
+51d1aeb	Ende pa seri? Luaj sot raunde ({2}) dhe do filloj të numëroj.
+10b25d9	Fillim i ri! Raunde ({2}) dhe flaka jote ndizet.
+0c10711	Mbaj një listë të vogël të atyre që vijnë çdo ditë. Ti nuk je në të... ende.
+5e7c431	Dita {1} po të pret. Raunde të mbetura: {2}!
+b268d84	Ditë rresht: {0}... nuk do ndalesh tani, apo jo?
+b32ae79	Flaka jote duket pak e ftohtë sot. Raundet ({2}) do ta ngrohin.
+a6f3fbd	Kam numëruar: {0} ditë. Le t'i bëjmë {1}.
+1dc5c97	Mos mendo se nuk e vura re. Raunde të mbetura për të mbajtur serinë: {2}!
+807b82c	Ditë rresht: {0}? Po filloj të mendoj se të pëlqen këtu.
+6391923	Seria jote është e sigurt për sot. Tani thjesht po mburresh.
+3bfbbf7	Dita {0}, e kryer. Nesër në të njëjtën orë?
+ca2a2c1	{0} ditë! Duhet të të rezervoj një vend.
+54f991f	Ja ku është: dita e parë e serisë sate! Kthehu nesër dhe do t'i bëjmë dy.
+a1e7ab0	Një javë e tërë rresht! Jam vërtet e mahnitur.
+96cee95	Tridhjetë ditë! Praktikisht punon këtu.
+a9834cd	Njëqind ditë. U tregoj të gjithëve për ty.
+071317f	Kaq {0} ditë rresht! Shiko veten.
+0964027	Seria u shpëtua: dita {0}! E dija që do t'ia dilje.
+c7f2a1f	Dita {0}! Vë bast se nuk arrin në {1}.
+a6ce2e2	{0} ditë... mirë, mburracak.
+3ab91d0	Luaj 10 duar blackjack
+38e863d	Fito 5 duar blackjack
+6ac41cc	Bëj një blackjack
+74cf149	Fito 500 fisha në blackjack
+66440e1	Rrotullo automatet 20 herë
+9205056	Fito 5 rrotullime në automate
+cd60e0c	Fito 5× bastin në automate
+6f7ac28	Luaj 5 raunde ruletë
+6978cc0	Fito 3 rrotullime rulete
+c8ebbcc	Qëllo një numër drejtpërdrejt
+8a57c54	vendndodhja GPS
+4919635	rrjeti celular
+527b094	lidhja me internetin
+f49ae82	cilësimet e pajisjes
+60827d3	vend testimi
+0b2f8d8	i paverifikuar (çmim standard)
+50d8b4a	i panjohur
+4fb7a4e	12 e 1-ra
+647a0eb	12 e 2-ta
+a934745	12 e 3-ta
+3de80ab	2 me 1
+bb4e68e	E KUQE
+a9414ab	E ZEZË
+710756a	TEK
+70ca748	ÇIFT
+4d60d6c	ÇMIME TË DREJTA PËR VENDIN TËND
+1674d95	Çmimet e dyqanit përshtaten me ekonominë e vendit tënd, që lojtarët kudo të paguajnë një çmim të drejtë.
+4ec27ee	Për të gjetur vendin tënd, kontrollojmë një herë vendndodhjen tënde të përafërt. Ajo lidhet me një vend në pajisjen tënde dhe nuk dërgohet askund. Nëse refuzon, zbatohen çmimet standarde.
+ff3dbb4	VAZHDO
+43a6a8d	Të largohesh nga kazinoja?
+ad209a0	Fishat dhe përparimi yt janë ruajtur.
+5860c84	DIL
+f1e0808	QËNDRO
+5b38c49	{0} u zhbllokua
+15ae7ac	Një ngrirje serie të shpëtoi dje serinë prej {0} ditësh.
+d375ffb	Ngrirjet ({0}) të shpëtuan serinë prej {1} ditësh.
+fd8ab39	Seria jote prej {0} ditësh mbaroi. Luaj sot raunde ({1}) për të nisur një të re!
+7fa2db4	MISIONI U KRYE
+255325c	+{0} fisha
+d205ece	TË GJITHA MISIONET U KRYEN!
+4acbed2	Bonus ditor +{0} fisha. Misione të reja nesër.
+ab2ceb3	NIVELI {0}!
+86e2afb	Moment kyç! +{0} fisha
+9ae18ad	Kthehu nesër për të vazhduar
+7af7e7c	+1 ngrirje serie
+b5b9597	SERI {0} DITËSH!
+62ec60d	Blerjet nuk janë të disponueshme në këtë version.
+1f9786c	Blerja dështoi. Nuk u tarifove.
+3e4c600	U shtuan +{0} fisha!
+1998202	{0}: {1} duar me {2}% fat, pas fatit të fillestarit
+728ada5	{0}: {1} duar me {2}% fat!
+af5e232	{0}: +{1}% energji
+001a53b	Nuk disponohet në këtë pajisje
+2607004	Videot nuk ngarkohen në këtë rrjet
+569c30d	Kthehu nesër
+ecae6ee	Gati për {0} s
+9964820	+{0} fisha (sot kanë mbetur {1})
+e1bd888	+{0} fisha falas!
+619bd5d	+1 ngrirje serie!
+f70d794	Nuk ka video për momentin. Provo sërish pas pak.
+264d71b	BRONZ
+462e839	ARGJEND
+81ff70a	AR
+50e122e	DIAMANT
+57f5f5e	Menu
+69bd4ef	Pamja
+dbfe736	Kryq
+1cc7820	Rreth
+82810cb	Katror
+73d3ae2	Trekëndësh
+a42f608	Po kontrollojmë rajonin tënd...
+1db422c	I paverifikuar ({0}): çmime standarde
+9bc0807	{0} ({1}): çmime në {2}
+ae8c393	Kujtesa
+aefd59b	Fisha falas gati dhe kujtesa për serinë
+3125838	Fishat e tua falas janë gati
+233027b	{0} fisha të presin te Lucky Ace.
+b93976b	Mbaj serinë prej {0} ditësh
+bd68038	Luaj sot raunde ({0}) që të mos rivendoset në mesnatë.
+0acfb6f	Mirë se erdhe! Fati i fillestarit është me ty sonte. Vendos një bast!
+d589374	BLACKJACK PAGUAN 3 ME 2   •   KRUPIERI NDALET NË TË GJITHA 17   •   SIGURIMI PAGUAN 2 ME 1
+b700b02	BAST
+16ec74f	PASTRO
+928226b	PËRSËRIT
+55591e0	SHPËRNDA
+395ed46	LETËR
+43e7971	NDALU
+097274c	DYFISHO
+6df63ca	NDAJ
+3e40f46	SIGURO
+db82d3a	JO, FALEMINDERIT
+28d6be8	BAST {0}+
+9587b70	U arrit maksimumi i tavolinës
+b9ac47d	Nuk ke mjaftueshëm fisha
+d237ade	Krupieri tregon një as. Të sigurohesh për {0}?
+bf07c14	Sigurimi paguan {0}
+b6e674a	Krupieri nuk ka blackjack. Sigurimi humbi.
+0cc9679	KALOVE
+82ce89d	KRUPIERI KALOI
+6e1e1a4	BLACKJACK!
+662fae5	FITORE
+8918d00	BARAZIM
+8df6be4	HUMBJE
+9e69668	Fati i fillestarit mbaroi. Seria jote me fat fillon tani.
+822f4f4	Fati i fillestarit mbaroi. Nga tani është blackjack standard.
+b0377c7	Seria jote me fat mbaroi. Kthehemi te blackjack standard.
+824ad7c	PA FISHA
+ff1822d	Shiko një video të shkurtër për {0} fisha falas, ose shko te arka.
+e4cac2f	Shko te arka për të rimbushur fishat.
+c3df3e7	FISHA FALAS
+b169d33	ARKA
+4d38f66	MË VONË
+cb8171b	Përfundo së pari këtë dorë.
+3aa6941	“{0}”
+6f846f4	EDHE NJË DORË
+a79d4f2	IK
+693f697	FATI I FILLESTARIT
+641ad58	SERI ME FAT
+fc45931	Bonus mirëseardhjeje për lojtarët e rinj: në <b>{0} duart</b> e para, këpuca e krupierit është rregulluar në favorin tënd, kështu që do fitosh pothuajse çdo dorë.
+576c683	Gjatë <b>{0} duarve</b> të ardhshme avantazhi zbehet gradualisht, dhe pas kësaj çdo tavolinë është blackjack standard dhe i drejtë, nga një këpucë e përzier me 6 pako (blackjack paguan 3 me 2, krupieri ndalet në të gjitha 17).
+7fb55b3	Avantazhi tani: <b><color=#7CFC9A>{0}%</color></b>   Duar të mbetura: <b>{1}</b>
+d4f8fe0	Për <b>{0} duart e blackjack</b> të ardhshme me bast deri në <b>{1} fisha</b>, çdo letër ka <b>{2}%</b> mundësi të shpërndahet në favorin tënd (i njëjti avantazh si fati i fillestarit).
+0a5fc06	Me lojë të mirë kjo fiton rreth <b>{0}%</b> të duarve, kundrejt rreth {1}% në blackjack standard. Bastet më të mëdha janë blackjack standard dhe nuk konsumojnë duar. Kur duart mbarojnë, çdo tavolinë është sërish blackjack standard dhe i drejtë.
+c3a8946	E KUPTOVA
+8dfc44a	E DO FATIN MBRAPSHT?
+272a97f	Fati i fillestarit mbaroi: nga tani çdo tavolinë është blackjack standard dhe i drejtë. Një seri me fat e kthen avantazhin për pak kohë.
+06b7689	DITORE
+4035996	SERI DITORE
+fbe7f18	DITË RRESHT
+7a46866	SOT
+4753707	SHIKO REKLAMËN
+6bb45f3	BLI
+62a945f	NGRIRJE SERIE
+ba5b1de	Një ngrirje e mban gjallë serinë tënde në një ditë që nuk luan. Mund të kesh deri në {0}.\n\nTë blesh një për {1} fisha?
+38c6090	Ngrirja e serisë gati.
+8fe681f	Nuk ke mjaftueshëm fisha për një ngrirje.
+1507c40	ANULO
+457d20f	RROTULLIMI DITOR
+9623247	RROTULLO
+ac5ef96	Mundësitë:
+1200f20	{0}%
+003a689	Fitove {0} fisha!
+f757137	MISIONET E SOTME
+7b7f9e2	Rekordi: {0} ditë
+9554fea	Luaj çdo ditë për të ndërtuar një seri
+5c8dbb8	Qëllimi i sotëm u arrit! Shihemi nesër.
+1aeb9a1	Sot: {0} / {1} raunde (çdo lojë)
+bb92856	Ngrirje serie: {0} / {1}
+0ec6216	Shpëto serinë në një ditë që e humbet. +1 çdo 7 ditë.
+cc0a745	PLOT
+419a962	PA VIDEO
+2dabd99	REKLAMË SË SHPEJTI
+f12e166	Bonus serie: çmime ×{0}
+80948a4	Një rrotullim falas çdo ditë
+596b5e0	TJETRI  {0}
+7f7e7fc	Gjithçka gati! Bonusi u mblodh.
+03a0f2a	Misione të reja në mesnatë.
+4784874	Përfundo të treja: +{0} fisha bonus
+42c5cda	LUAJ
+337211e	LOJËRA
+8f5e3bd	Tërhiq majtas për të ecur  •  Tërhiq djathtas për të parë  •  Prek për të shkuar
+d00d221	Vetëm 18+  •  Fishat janë për argëtim: pa vlerë monetare, kurrë të këmbyeshme me para ose çmime
+b60f038	Po hapim dyert...
+2e5bcce	Mirë se erdhe! {0} fishat e tua të mirëseardhjes janë gati. Tavolinat janë drejt përpara!
+7ef7ae3	+{0} fisha falas! Të tjera pas {1} orësh.
+5d82af9	Fishat falas rimbushen çdo {0} orë. Të radhës pas {1}.
+5469985	{0} orë {1} min
+bb65beb	{0} min {1} s
+ac8ba93	MBAJ SERINË
+560bfa1	Do një kujtesë në mbrëmjet kur ende nuk ke luajtur, dhe kur fishat falas janë gati? Kurrë më shumë se kaq, dhe mund ta çaktivizosh te Cilësimet.
+b724a40	MË KUJTO
+9e0c898	+{0} fisha gati!
+1207e28	Shiko një video: {0}
+db3655b	Fishat e ardhshme falas pas {0}
+4ca9be5	BLACKJACK
+9a612b1	4 tavolina  •  paguan 3 me 2
+1194439	AUTOMATE
+6555152	Lucky Ace 7s  •  10 linja
+255b1a1	RULETË
+6df1551	Evropiane me një zero
+379b146	JE I RRASKAPITUR
+340e5c4	Shiriti i energjisë është bosh. Merr diçka te bari për të vazhduar lojën, ose kthehu më vonë: energjia rikuperohet ngadalë kur je larg.
+a517396	SHKO TE BARI
+7c7227f	ZGJIDH TAVOLINËN
+c963de3	BASTET
+c433657	NIVELI {0}
+083ac39	ULU
+9698219	DUHEN {0}
+34b737e	Arrij nivelin {0} për të luajtur këtu. Je në nivelin {1}.
+6cc19a9	KAZINO
+6e946b7	DD
+4a3a892	MM
+2857a6a	VVVV
+9d1fece	DITA
+d3bb0c3	MUAJI
+c0f0cad	VITI
+43985ff	KUR KE LINDUR?
+293fda2	Fishat janë vetëm për argëtim. Nuk kanë vlerë monetare dhe nuk mund të këmbehen kurrë me para ose çmime.
+3e9128d	NA VJEN KEQ, NUK MUND TË LUASH
+b5e8985	{0} është i disponueshëm vetëm për të rriturit.
+bb1b380	DALJE
+d9f9432	Mbyllet pas {0}...
+c6e102d	NA TREGO PËR VETEN
+31120ce	Do të zgjedhim mikpritës, krupierë dhe stafin e barit sipas kësaj. Mund ta ndryshosh kurdo te Cilësimet.
+49e8df9	JAM BURRË
+85abe81	JAM GRUA
+76cc98c	PREFEROJ TË MOS E THEM
+964daf7	HYR NË KAZINO
+2efb69a	Stafi yt sonte:
+c10e749	Faqja {0} nga {1}
+2a3ffd9	GJUHA
+c673535	AUTOMATIK
+d1245d2	VENDI
+15fc12b	Mirë se erdhët! Vendosni bastet, ju lutem.
+531fb3f	Nuk ke mjaftueshëm fisha për atë bast.
+380eb75	Kufiri i tavolinës është {0} për rrotullim.
+55ad592	ZHBËJ
+8f191f9	BASTI TOTAL  {0}
+82e1181	Prek tabelën për të vendosur fisha
+bb19a75	Mjaft baste!
+5becf07	E GJELBËR
+bc74f4f	e gjelbër
+7898801	e kuqe
+466bc8c	e zezë
+f2edfbf	Çfarë goditjeje! Urime!
+b252caf	Fitore! Fiton {0}.
+8587d14	FITIM  +{0}
+b862a2b	{0} {1}. Të kthehen {2}.
+a306d0a	U KTHYEN  {0}
+af3134d	Pa fitim këtë herë
+84122e7	Vendosni bastet, ju lutem.
+52205f4	Prit sa të ndalet topthi.
+c4b9243	CILËSIMET
+44d863e	TË PËRGJITHSHME
+2bbca79	GRAFIKA
+955c8b4	ZËRI
+c701f5f	PREKJA
+efcc94a	MIUSHI
+8433628	KONTROLLUESI
+d868a50	DRIDHJA
+f8692c7	18+ • Fishat nuk kanë vlerë monetare • Shkronjat: Bebas Neue, Poppins, Noto (SIL OFL) • Kufijtë: Natural Earth • Të dhënat e çmimeve: Banka Botërore
+da46447	STAFI I KAZINOSË
+594b81e	GRA
+69d3313	BURRA
+b4325d3	I PËRZIER
+414594a	KUJTESA
+6cac87b	Fisha falas gati, dhe një kujtesë në mbrëmje para se të mbarojë një seri.
+e43b2e0	KONTROLLO SËRISH
+7c9e8f9	RAJONI I ÇMIMEVE
+495c70e	Më e shpejta: kazinoja siç është pikturuar, asgjë shtesë.
+b052523	Dyshemetë e lëmuara, druri dhe ari reflektojnë sallën.
+6bd30d7	Pamje filmi: ngjyra të graduara, kokrrizë, shkëlqim, rreze drite, lëkurë e gjallë.
+21b6e1d	Lente kinemaje: fokusi ndjek shikimin tënd, vija në drita, pluhur në rreze.
+fb7c2e8	CILËSIA
+d8b9679	E ULËT
+f68525a	MESATARE
+d77d0b2	E LARTË
+9289eee	ULTRA
+637e313	REZOLUCIONI
+2e7b141	Më e ulët është më e butë, por nxehet më pak dhe kursen baterinë.
+93dcfb5	MËNYRA E EKRANIT
+3c6eac3	EKRAN I PLOTË
+f3690b1	NË DRITARE
+cfa6200	ZBUTJA E SKAJEVE
+ad50489	JOAKTIV
+f178804	Zbut skajet e dhëmbëzuara në kazino.
+4266288	SHPEJTËSIA E KUADROVE
+d031ab0	{0} FPS
+a2b7514	30 FPS kursen baterinë dhe i mban të freskët telefonat e vjetër.
+0babcee	V-SYNC
+6656e25	FUSHA E SHIKIMIT
+244aadb	SHFAQ FPS
+41c8f6e	VOLUMI KRYESOR
+bf3af1f	MUZIKA
+bd80907	EFEKTET ZANORE
+d098036	ZËRAT E STAFIT
+93c6484	Murmurima e stafit kur flasin.
+16bf71a	PA ZË NË SFOND
+85b2ee7	Hesht kazinonë kur je në një dritare tjetër.
+8e3634e	NDJESHMËRIA E SHIKIMIT
+880dc05	Sa shpejt e kthen pamjen tërheqja.
+750c60f	Sa shpejt e kthen pamjen tërheqja me miush.
+8b988eb	PËRMBYS SHIKIMIN MAJTAS / DJATHTAS
+cacf0cc	PËRMBYS SHIKIMIN LART / POSHTË
+2d13b68	RENDITJA E BUTONAVE
+50c3f10	AUTO
+b471e5c	KËMBE MENU / PAMJE
+d9a59f1	NDJESHMËRIA E LEVËS
+ec14343	Sa shpejt e kthen pamjen leva e djathtë.
+a79af23	PËRMBYS LEVËN MAJTAS / DJATHTAS
+acfc66e	PËRMBYS LEVËN LART / POSHTË
+56bb461	UDHËZIME TË KONTROLLUESIT
+51cf49a	Tregon çfarë bën çdo buton kur luan me kontrollues.
+dff7431	DRIDHJA NË
+34139ab	TELEFON
+15ee988	TË DYJA
+465cc91	Auto: kontrolluesi kur është i lidhur, përndryshe telefoni.
+f6fed84	DRIDHJA E TELEFONIT
+8e97fa7	FORCA NË TELEFON
+486ba2d	DRIDHJA E KONTROLLUESIT
+8008889	FORCA NË KONTROLLUES
+ea9233e	AUTOMATIK ({0})
+167dda7	{0} hap Cilësimet, {1} hap Ditoren.
+29a4ef9	Nuk ka kontrollues të lidhur.
+558ecd2	I lidhur: {0}. Po shfaqen butonat {1} (A në të djathtë konfirmon).
+d6eee9e	I lidhur: {0}. Po shfaqen butonat {1}.
+78525d5	BARI
+099db9f	FATI
+b4a8b06	Fishat, fati dhe ushqimi janë sende virtuale vetëm për argëtim: pa vlerë monetare, nuk këmbehen me para ose çmime.
+e2a28c9	Çdo letër ka atë mundësi të shpërndahet në favorin tënd, në bastet e blackjack deri në {0} fisha (bastet më të mëdha janë standarde dhe nuk konsumojnë duar). Fillon pas fatit të fillestarit; paketat më të forta përdoren të parat.
+04fbc6d	Lejo qasjen në vendndodhje për të marrë çmimin e vendit tënd
+2ae87fc	Blerjet nuk janë të disponueshme në këtë version të lojës.
+8239a84	DYQAN TESTIMI (pa para të vërteta)
+173d916	energji
+b2c67eb	+{0}% FISHA
+58e8011	{0} duar
+ce80712	fiton rreth {0}% të tyre
+c69e8ee	LUCKY ACE 7s
+fc99288	BASTI TOTAL
+c1c00cd	TABELA E PAGESAVE
+3930abd	FAT TË MBARË!
+67b6973	Të duhen të paktën 10 fisha për të rrotulluar.
+5aa1edb	MERR FISHA
+f5a1812	Basti u ul në sa mund të mbulosh.
+5c63f61	MEGA FITORE!
+652544f	FITORE E MADHE!
+91bc41c	U KTHYEN {0}
+3714283	PA FITIM
+33c0faa	LINJA {0}: {1} × {2} = {3}
+9f59e6e	{0} YJE = {1}
+d6eee90	Qershi
+4459b79	Limon
+09fb6aa	Portokall
+cb92e50	Kumbull
+d419866	Zile
+e496fd2	Bar
+63abb56	Shtatë
+b3850e0	Diamant
+fc2b5a9	As
+85a7de6	Yll
+c31b035	YJET paguajnë kudo: 5 = {0}× bast, 4 = {1}× bast, 3 = {2}× bast.
+f97509c	ASI është xhoker: zëvendëson çdo simbol përveç yllit.
+3e8bc69	Fitimet e linjave janë shumëfisha të bastit për linjë (basti total ÷ 10), nga e majta në të djathtë nga rrota e parë.
+523f8dc	KTHIMI: {0}% në afat të gjatë. Çdo rrotullim është i pavarur dhe i rastësishëm.
+e0c705d	Ec
+b8db515	Shiko
+503d46d	Butonat
+c7f73bb	Cilësimet
+728298d	Ditore
+ab166bd	Rregullo
+76cdb95	Lëviz
+8598222	Zgjidh
+bbfa773	Mbyll
+b52b36b	Mbrapa
+ab37588	I RRASKAPITUR
+9b11a09	FATI I FILLESTARIT {0}%
+0c94e98	{0} DUAR TË MBETURA
+51ed273	SERI ME FAT {0}%
+3401470	{0} DUAR  •  BASTE DERI NË {1}
+f481cc6	NIVELI
+0139615	MIRË SE ERDHËT
+daad514	FOL ME MIKPRITËSEN
+bcefb10	Udhëzime dhe këshilla
+c28e782	FISHA  •  BONUSE
+0c69ec4	BLI FISHA
+78c0727	Arka
+1737fab	KOKTEJE  •  MEZE  •  ENERGJI
+9e008ae	USHQIM DHE PIJE
+f7881e8	Bari
+0e979ed	BLACKJACK PAGUAN 3 ME 2
+eea0d12	KRUPIERI DUHET TË NDALET NË 17
+4db37bf	LUAJ BLACKJACK
+0ffdd99	Tavolina {0}  •  baste nga {1} deri në {2}
+b4f938b	LUAJ NË AUTOMATE
+6b7caea	VENDOSNI BASTET
+26b1e39	LUAJ RULETË
+910a1ed	Rrotë evropiane  •  numri i drejtpërdrejtë paguan 35 me 1
+7ef0215	POROSIT NJË PIJE
+fe38d73	{0} ta sjell
+f7b6306	{0} hapet në nivelin {1}. Je në nivelin {2}: çdo raund që luan llogaritet.
+d85f1ad	Kjo tavolinë kërkon të paktën {0} fisha.
+cbfe016	Tavolinat e blackjack janë drejt përpara. Afrohu te njëra dhe ulu!
+64d9faf	Arka është këtu në të djathtën tënde, dhe bari përgjatë murit të majtë.
+e4c6e0b	I lodhur? Një meze te bari ta mbush energjinë menjëherë.
+d5ab68f	Prek kudo në dysheme dhe do ecësh atje. Prek një tavolinë për t'u ulur.
+cc21f74	I VOGËL
+dc01dec	I MADH
+5fb90b0	ÇDO TRESHE
+9c716f1	Tavolinë hold'em
+3b6ab84	Luaj 8 duar hold'em
+6c617ca	Fito 4 duar hold'em
+44ce500	Luaj 10 duar bakara
+b90cff7	Fito 5 duar bakara
+3e4dfa9	Luaj 15 duar video poker
+854fe20	Luaj 8 raunde sic bo
+dfddac1	Fito 4 raunde sic bo
+2973ea7	Hidh zarat 15 herë në craps
+737be17	Fito 4 hedhje në craps
+4dbb81d	Bëj ngjyrë ose më mirë në video poker
+19aa07b	Rradhë mbretërore
+cf83e72	Rradhë me ngjyrë
+d27ba03	Katërshe
+dbe8641	Shtëpi e plotë
+7c936d7	Ngjyrë
+2501c65	Rradhë
+ca1a0d4	Treshe
+6876b40	Dy çifte
+2537f88	Çift
+b4b323e	Letër e lartë
+f70bfdc	Fanta ose më mirë
+98fd5af	BAKARA
+df66d5a	Mirë se erdhe në bakara! Lojtar, Bankier apo Barazim?
+5055efd	LOJTAR
+3f90696	BARAZIM
+0d75f63	BANKIER
+0ebd5a4	REZULTATET E FUNDIT
+511993d	L
+ae4f281	B
+c2c53d6	Z
+781246e	Zgjidh një fishë, pastaj prek Lojtar, Bankier ose Barazim
+11023a0	BARAZIM  {0}
+503d5f1	FITON LOJTARI  {0} ME {1}
+0eb4be5	FITON BANKIERI  {0} ME {1}
+7859af1	CRAPS
+4083dbd	Mirë se erdhe në craps! Vë bast te Pass Line dhe hidh.
+d266326	GJASHTË
+c506f3a	NËNTË
+987f4e9	FIELD
+71c1b2b	2 3 4 9 10 11 12  •  2 dhe 12 paguajnë dyfish
+d0ac294	ÇDO 7
+9b2f0c3	ÇDO CRAPS
+f62ac59	DON'T PASS BAR
+6080ade	1:1  •  12 është barazim
+c07247a	PASS LINE
+6229f78	ODDS
+29bf819	koeficientë të vërtetë
+387d7a5	ON
+229c9cc	Odds vihen pas Pass Line kur ka pikë.
+c2c8e82	Odds kërkojnë bast te Pass Line.
+1784d43	Odds e tua janë në maksimum.
+fdc3442	Bastet e vijës vihen në hedhjen e parë.
+97ce95b	NË TAVOLINË  {0}
+a895ec0	Pika është {0}: hidhe përsëri para 7. Odds pas Pass Line paguajnë koeficientë të vërtetë.
+d9f9d65	HIDH
+bcf32ef	Pika është {0}.
+5b450b4	{0}! Pika u bë. Fitore!
+9746e08	Shtatë jashtë. Hedhës i ri, hedhje e parë e re.
+4fc4664	{0}, natyral! Pass Line fiton.
+203f466	{0}, craps. Vija humbet.
+0f8e260	Prit derisa zarat të ndalen.
+6a98cfe	TË LËSH TAVOLINËN?
+8430088	Basti yt i vijës ende luan në pikën {0}. Nëse ikën tani, e humbet.
+0e138d1	HOLD'EM
+5e023be	Mirë se erdhe në hold'em! Vër ante-n dhe le të shohim letrat.
+0cd62f5	ANTE
+5e9f331	BLIND
+3b935ab	BLIND PAGUAN
+20713a4	Krupieri kualifikohet me një çift ose më mirë
+d37267c	CHECK
+9a4e316	FOLD
+88313c4	BAST {0}×
+42c6fea	Ante {0} + blind {0}. Mbaj edhe {1} për ngritjen.
+1abb2f2	Prek fishat për të caktuar ante-n. Blind është i njëjtë.
+f541cec	Check, apo bast tre ose katër herë ante?
+fc74a79	Ngrije tani me 4× ose 3× ante, ose bëj check dhe shiko flop-in.
+b687501	Shansi i fundit: vër 1× ante ose bëj fold dhe humb ante dhe blind.
+400009c	Vër tani 2× ante, ose bëj check dhe shiko dy letrat e fundit.
+f4abdf9	Ja flop-i.
+0e51f2c	Turn dhe river.
+cc856d3	Le të shohim çfarë kam.
+6ba1f3e	Krupieri nuk kualifikohet: ante-ja të kthehet.
+cf1fdc5	Fold. Dora tjetër është e jotja.
+177fab0	Ultimate Texas Hold'em
+c4917b9	Lojtar, Bankier ose Barazim
+6e4fe7b	VIDEO POKER
+73cabd3	Jacks or Better
+91c4555	SIC BO
+d810061	Tre zare  •  i madh apo i vogël
+85ab7ec	Pass Line  •  Field  •  Odds
+35d8db6	Mirë se erdhe në sic bo! I madh, i vogël apo diçka më e guximshme?
+3d05514	Kufiri i tavolinës është {0} për hedhje.
+86ade94	TUND
+b69304e	TRESHE {0}!
+5d1bcc6	E MBAJTUR
+36a21ba	Shpërndaj, mbaj letrat që do, ndërro një herë.
+99fa8e8	MBAJ
+249d1c0	KËSHILLË
+7aab1bd	NDËRRO
+5595eb4	Prek letrat për t'i mbajtur, pastaj ndërro.
+1c05db9	LUAJ HOLD'EM
+e353e5f	Ultimate Texas Hold'em  •  ante nga {0} deri {1}
+6470369	LUAJ BAKARA
+bbe0077	I MADH  •  I VOGËL  •  TRESHE
+3ba448f	LUAJ SIC BO
+097c59c	Tre zare  •  i madh apo i vogël paguan 1 me 1
+af2ca30	PASS LINE  •  FIELD  •  ODDS
+f18398e	LUAJ CRAPS
+eeede6d	Pass Line paguan 1 me 1  •  odds paguajnë koeficientë të vërtetë
+34e5170	LUAJ VIDEO POKER
+f71bdfb	Jacks or Better  •  tabelë e plotë 9/6
+4a6c087	JACKS OR BETTER  •  RRADHA MBRETËRORE PAGUAN 800×
+370a133	Makinat e lojërave janë te muri i djathtë, video pokeri te muri i pasmë dhe ruleta në fund.
+8298d28	Hold'em-i është në cepin e pasmë majtas, pas barit.
+a2a111f	Bakaraja është menjëherë majtas sapo hyn.
+b7193bc	Sic bo është në cep pas arkës: tre zare, i madh apo i vogël.
+25320c8	Tavolina e craps-it është djathtas, para makinave. Vë bast te Pass Line dhe hidh!
+dc81691	Sofia
+4d9936f	Elena
+3aa0674	Mia
+b724114	Valentina
+34d3f7f	Kloe
+0fc9dd6	Isabela
+bbd3e35	Nadia
+eac677d	Aria
+baaf10f	Luna
+8641381	Kamila
+eeee9b7	Aurora
+8a59f05	Bianca
+5a0fc29	Serena
+bf38aa5	Marco
+cfaf50a	Leo
+5815f22	Adrian
+cbede02	Lukas
+f0b9995	Viktor
+7b37259	Daniel
+aaac72d	Gabriel
+2f8f37e	Ethan
+a01126e	Julian
+3e05c90	Rafael
+e1ae457	Mateo
+3398634	Nico
+7aa2d07	Enzo
+1920e2f	Hedhja e parë: vë bast te Pass Line dhe hidh. 7 ose 11 fiton, 2, 3 ose 12 humbet. Bastet Place fillojnë të vlejnë kur ka pikë.
+99f4934	LUCKY ACE 7s  •  PAGUAN DERI NË 2.500× BASTIN TËND PËR LINJË

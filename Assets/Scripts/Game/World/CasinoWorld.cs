@@ -16,15 +16,9 @@ namespace Casino.World
     /// </summary>
     public sealed partial class CasinoWorld : MonoBehaviour
     {
-        const float GreetDistance = 3.4f, StaffAnimDistance = 11f;
+        const float GreetDistance = 3.4f;
 
         public static CasinoWorld Instance { get; private set; }
-
-        /// <summary>Settings changed: anti-aliasing is on the camera.</summary>
-        public void ApplyGraphics()
-        {
-            if (Camera != null) Camera.allowMSAA = QualitySettings.antiAliasing > 0;
-        }
 
         /// <summary>Dev tour only: the world camera draws into this off-screen target every frame.</summary>
         internal static RenderTexture TourTarget;
@@ -92,6 +86,7 @@ namespace Casino.World
             Player.Teleport(new Vector2(0f, -9.6f), 12f);
             Ready = true;
             UpdateCamera(0f);
+            StartCoroutine(Restyle());   // photographs the room for reflections, now the signs are on the world's layer
         }
 
         /// <summary>Show or hide the 3D casino (hidden worlds cost nothing: the camera is simply off).</summary>
@@ -206,6 +201,7 @@ namespace Casino.World
             foreach (var s in spots)
                 if (s.FollowsStaff && s.Staff != null) s.Focus = s.Staff.transform.position + Vector3.up * 1.1f;
 
+            LightWaitress(dt);
             Vector3 eye = Camera.transform.position;
             foreach (var fig in staff)
             {
@@ -215,6 +211,7 @@ namespace Casino.World
             }
 
             Focused = blocked ? null : PickFocused();
+            AimFocus();
             if (!seated) Greet(dt);
         }
 
@@ -241,6 +238,7 @@ namespace Casino.World
                 rot = Quaternion.Slerp(fromRot, rot, k);
                 fov = Mathf.Lerp(fromFov, fov, k);
             }
+            rot *= Handheld(dt);
             Camera.fieldOfView = fov;
             Camera.transform.SetPositionAndRotation(pos, rot);
         }
@@ -353,7 +351,8 @@ namespace Casino.World
         {
             if (!App.I.Progress.Unlocked(def))
             {
-                App.I.UI.Toast($"The {def.Name} opens at level {def.Level}. You're level {App.I.Progress.Level}: every round you play counts.",
+                App.I.UI.Toast(Loc.F("The {0} opens at level {1}. You're level {2}: every round you play counts.", Loc.T(def.Name), def.Level,
+                        App.I.Progress.Level),
                     Palette.Gold, Icon.Lock);
                 return;
             }
@@ -364,7 +363,7 @@ namespace Casino.World
             }
             if (App.I.Wallet.Balance < def.MinBet)
             {
-                App.I.UI.Toast($"This table needs at least {ChipFormat.Short(def.MinBet)} chips.", Palette.Gold, Icon.Coin);
+                App.I.UI.Toast(Loc.F("This table needs at least {0} chips.", ChipFormat.Short(def.MinBet)), Palette.Gold, Icon.Coin);
                 App.I.UI.Modal<ShopModal>(m => m.StartTab = ShopTab.Chips);
                 return;
             }
@@ -392,6 +391,57 @@ namespace Casino.World
             if (!Ready || slotMachines.Count == 0) return false;
             (screen, facing) = slotMachines[Mathf.Abs(index) % slotMachines.Count];
             return true;
+        }
+
+        /// <summary>The hold'em table's centre (dealer on the +z side) and its dealer.</summary>
+        public bool TryHoldemTable(out Vector3 center, out StaffFigure dealer)
+        {
+            center = HoldemCenter;
+            dealer = StaffAt(holdemDealer);
+            return Ready;
+        }
+
+        /// <summary>A video poker machine's screen and the way it faces.</summary>
+        public bool TryVideoPokerMachine(int index, out Vector3 screen, out Vector3 facing)
+        {
+            screen = facing = default;
+            if (!Ready || videoPokerMachines.Count == 0) return false;
+            (screen, facing) = videoPokerMachines[Mathf.Abs(index) % videoPokerMachines.Count];
+            return true;
+        }
+
+        /// <summary>The craps table (layout origin on the floor) and its stickman.</summary>
+        public bool TryCraps(out Vector3 center, out StaffFigure dealer)
+        {
+            center = CrapsCenter;
+            dealer = StaffAt(crapsDealer);
+            return Ready;
+        }
+
+        public void ShowCrapsDecor(bool show)
+        {
+            if (crapsDecor != null) crapsDecor.gameObject.SetActive(show);
+        }
+
+        /// <summary>The sic bo table (layout origin on the floor) and its dealer.</summary>
+        public bool TrySicBo(out Vector3 center, out StaffFigure dealer)
+        {
+            center = SicBoCenter;
+            dealer = StaffAt(sicBoDealer);
+            return Ready;
+        }
+
+        public void ShowSicBoDecor(bool show)
+        {
+            if (sicBoDecor != null) sicBoDecor.gameObject.SetActive(show);
+        }
+
+        /// <summary>The baccarat table's centre (dealer on the +z side) and its dealer.</summary>
+        public bool TryBaccaratTable(out Vector3 center, out StaffFigure dealer)
+        {
+            center = BaccaratCenter;
+            dealer = StaffAt(baccaratDealer);
+            return Ready;
         }
 
         /// <summary>The roulette table (layout origin on the floor) and its croupier.</summary>
@@ -430,18 +480,55 @@ namespace Casino.World
             if (CanPlay()) App.I.UI.Show<RouletteScreen>();
         }
 
+        void OpenVideoPoker(int machine)
+        {
+            if (CanPlay()) App.I.UI.Show<VideoPokerScreen>(s => s.Machine = machine);
+        }
+
+        void OpenCraps()
+        {
+            if (CanPlay()) App.I.UI.Show<CrapsScreen>();
+        }
+
+        void OpenSicBo()
+        {
+            if (CanPlay()) App.I.UI.Show<SicBoScreen>();
+        }
+
+        void OpenBaccarat()
+        {
+            if (CanPlay()) App.I.UI.Show<BaccaratScreen>();
+        }
+
+        void OpenHoldem()
+        {
+            var def = TableCatalog.Holdem;
+            if (!CanPlay()) return;
+            if (App.I.Wallet.Balance < def.MinBet * 6)
+            {
+                App.I.UI.Toast(Loc.F("This table needs at least {0} chips.", ChipFormat.Short(def.MinBet * 6)), Palette.Gold, Icon.Coin);
+                App.I.UI.Modal<ShopModal>(m => m.StartTab = ShopTab.Chips);
+                return;
+            }
+            App.I.UI.Show<HoldemScreen>();
+        }
+
         void HostTips()
         {
             var host = hostIndex >= 0 && hostIndex < staff.Count ? staff[hostIndex] : null;
             string[] tips =
             {
-                "Blackjack tables are straight ahead. Walk up to one and take a seat!",
-                "Slot machines line the right wall, and the roulette wheel is at the back.",
-                "The cashier is right here on your right, and the bar is along the left wall.",
-                "Feeling tired? A snack at the bar fills your energy right up.",
-                "Tap anywhere on the floor and you'll walk there. Tap a table to sit down.",
+                Loc.N("Blackjack tables are straight ahead. Walk up to one and take a seat!"),
+                Loc.N("Slot machines line the right wall, video poker the back wall, and the roulette wheel is at the back."),
+                Loc.N("Hold'em is in the back left corner, past the bar."),
+                Loc.N("Baccarat is just to the left as you come in."),
+                Loc.N("Sic bo is in the corner past the cashier: three dice, big or small."),
+                Loc.N("The craps table is on the right, in front of the slots. Bet the Pass Line and roll!"),
+                Loc.N("The cashier is right here on your right, and the bar is along the left wall."),
+                Loc.N("Feeling tired? A snack at the bar fills your energy right up."),
+                Loc.N("Tap anywhere on the floor and you'll walk there. Tap a table to sit down."),
             };
-            Say(host, tips[App.I.Rng.Next(tips.Length)]);
+            Say(host, Loc.T(tips[App.I.Rng.Next(tips.Length)]));
         }
 
         // ------------------------------------------------------------------ staff life
@@ -532,7 +619,8 @@ namespace Casino.World
         }
 
         internal int TourStaffCount => staff.Count;
-        internal string TourStaffName(int i) => staff[i] == null ? "missing" : staff[i].StaffName + "_" + staff[i].Role;
+        internal bool TourRestyling => restyling;
+        internal string TourStaffName(int i) => staff[i] == null ? "missing" : staff[i].EnglishName + "_" + staff[i].Role;
 
         internal void TourStaffTalk(int i, float seconds) => staff[i]?.Talk(seconds);
 
@@ -548,6 +636,7 @@ namespace Casino.World
             Player.Pitch = pitch;
             glide = 1f;
             UpdateCamera(0f);
+            if (post != null) post.SnapFocus();
         }
 
         internal void TourRender(RenderTexture target)
@@ -563,6 +652,7 @@ namespace Casino.World
             Player.Pitch = pitch;
             glide = 1f;
             UpdateCamera(0f);
+            if (post != null) post.SnapFocus();
         }
     }
 }

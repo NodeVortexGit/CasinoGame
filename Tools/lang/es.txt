@@ -1,0 +1,659 @@
+# Spanish (es). Machine translation by Claude.
+bd99124	Puñado de fichas
+c7c6dc8	Pila de fichas
+7512cfd	Bandeja de fichas
+fa36588	Estante de fichas
+7994f65	MÁS POPULAR
+49dcc21	Bóveda de fichas
+0725283	Caja fuerte VIP
+7658705	MEJOR PRECIO
+2f23432	Agua con gas
+418b820	Espresso
+97b463c	Bebida energética
+43bbfda	Sándwich club
+bce7a75	Menú de hamburguesa
+2832a8d	Cena con bistec
+dee8ee8	RECARGA TOTAL
+a7c2255	Racha de suerte
+7919163	Racha ardiente
+74fdfc2	MÁS SUERTE
+d79cd12	Mesa de bronce
+2a8ff35	Mesa de plata
+51877b2	Mesa de oro
+9282152	Mesa de diamante
+0de8764	Introduce un año válido.
+d4e14c9	Introduce un mes válido (1-12).
+addd156	Introduce un día válido.
+d78a4f4	Esa fecha está en el futuro.
+787c7c6	¡Te doy la bienvenida a mi mesa! ¿Jugamos?
+8b0f93e	Me alegra verte. ¡Siéntate!
+8338021	¡Hola! Las cartas están frescas y yo también.
+75750f9	¡Te damos la bienvenida! Hagamos que esta noche sea genial.
+95aac36	Apuesta cuando quieras.
+8bc63c1	Fichas en la mesa, y veamos las cartas.
+984b7f3	¿Por cuánto jugamos?
+b74c769	¡Uy, una apuesta grande! Me gusta tu estilo.
+77fc1fc	¡Eso sí es una apuesta! ¡Vamos!
+7779a5b	Te sientes valiente esta noche, ¿eh?
+479ff82	¿¡Todo!? ¡Se me acelera el corazón!
+7fb527c	Todo en una mano. ¡Sin miedo!
+7bf0c5d	¡Blackjack! ¡Increíble!
+123f2d5	¡Veintiuno, así sin más!
+cd850a7	¡Blackjack! Las cartas te adoran esta noche.
+55f50ee	¡Bien jugado!
+79594b1	¡Ganador! Muy bien.
+0df710e	¡Estás en racha!
+20a0c1e	Esa es tuya.
+a45fe61	¡Qué victoria! ¡Todos miran esta mesa!
+54d3982	¡Enorme! ¡Estás que ardes esta noche!
+8da8f1e	¡Casi! La próxima es tuya.
+5d921e1	Esta vez la casa tuvo suerte.
+f923af7	Tranquilo, viene una mano nueva.
+853e7ca	Ay, una carta de más.
+daec44f	¡Te pasaste! Les pasa hasta a los mejores.
+11ceaef	Empate. ¡Nadie pierde!
+911a289	Empate. Tus fichas están a salvo.
+a89d9d9	¡Me pasé! Qué suerte tienes.
+f76c8fd	Demasiadas para mí. ¡Ganas tú!
+63f8d0b	Blackjack de la casa, ¡lo siento!
+465c8bf	Blackjack del crupier. Mala suerte.
+6752f40	Tengo un as. ¿Seguro?
+1920c5a	¡Separar! Dos oportunidades de ganar.
+9f621da	Doblando. ¡Qué valiente!
+59da99d	¡Dobla! Viene una carta.
+0b48017	¡Zapato nuevo, barajando!
+3fa7769	¿Te quedan pocas? La cajera puede recargarte.
+4e5694b	Las fichas escasean. ¿Quieres más?
+d41f057	¡Sin fichas! Ve a la caja o consigue fichas gratis.
+15d90d3	Tu pila está vacía. La caja está justo detrás de ti.
+a9eaae1	¡Te ves agotado! Come algo en el bar.
+5cd9e8b	¿Sin energía? El bar te ayuda.
+37b9672	Tómate tu tiempo.
+c64df8c	¡Cuando quieras!
+b8dfc0a	La noche es joven.
+8748560	¡La suerte del principiante está de tu lado!
+e3def50	¡La baraja está a tu favor esta noche!
+506ade9	Se acabó la suerte del principiante. ¡Desde aquí el juego es justo!
+953d8b7	¡Te damos la bienvenida al casino! Tu asiento te espera.
+9fd9844	¡Buenas noches! Las mesas están calientes hoy.
+2d42aaf	¡Qué bueno verte de nuevo! ¿Te sientes con suerte?
+311bae7	¡Toca una mesa para empezar a jugar!
+3318099	¿Necesitas más fichas? Llegaste a la ventanilla correcta.
+c5b3787	¡Pilas más grandes, bonos más grandes!
+21ae665	¿Hambre? Elige lo que quieras del menú.
+8b83cc0	¡Un bocado mantiene tu energía!
+35f4b0e	¡Te doy la bienvenida a mi mesa!
+8f90245	¡Ahí estás! El lugar ya se ve más brillante.
+909e4d6	Estás en tu casa. Esta noche es toda tuya.
+2477f78	Me encanta esa sonrisa. ¿Noche de suerte?
+6ac2120	Relájate, estás en buenas manos.
+089f04b	¡Hola tú! Esperaba que pasaras por mi ventanilla.
+3f2c3c9	Siempre es bueno ver una cara amiga.
+3021db8	¡Mira quién está aquí! ¿Te diviertes?
+769980b	¡Hola, guapo!
+5361ffd	Me gusta tu estilo esta noche.
+56b40be	¡Hola, qué gusto verte otra vez!
+3316019	¿Buena noche? Te la mereces.
+28283fd	Cuidado, que voy a empezar a animarte.
+109ac94	¡Volvió mi jugador favorito!
+acba0e6	Siéntate conmigo, te repartiré algo bonito.
+eb5ff2a	Contigo esta mesa es mucho más divertida.
+772a73c	¿Ya te vas? ¡La noche es joven!
+178301a	Vamos, solo una mano más. ¡Tengo un buen presentimiento!
+816036a	¡No puedes dejarme ahora, apenas empezamos!
+5c9b7e2	¡Última oportunidad! La próxima mano podría ser la grande...
+20ce7b6	Vale, vale. Te guardo el asiento. ¿Prometes volver?
+51d1aeb	¿Aún sin racha? Juega {2} rondas hoy y empiezo a contar.
+10b25d9	¡Nuevo comienzo! {2} rondas y tu llama se enciende.
+0c10711	Llevo una listita de quién viene cada día. Tú no estás en ella... todavía.
+5e7c431	El día {1} te espera. ¡Solo faltan {2} rondas!
+b268d84	{0} días seguidos... no vas a parar ahora, ¿verdad?
+b32ae79	Tu llama está algo fría hoy. {2} rondas la calentarán.
+a6f3fbd	Llevo la cuenta: {0} días. Que sean {1}.
+1dc5c97	No creas que no me di cuenta. ¡Faltan {2} rondas para mantener tu racha!
+807b82c	¿{0} días seguidos? Empiezo a pensar que te gusta este lugar.
+6391923	Tu racha está a salvo por hoy. Ahora solo estás presumiendo.
+3bfbbf7	Día {0}, listo. ¿Mañana a la misma hora?
+ca2a2c1	¡{0} días! A estas alturas debería guardarte un asiento.
+54f991f	Ahí está: ¡el primer día de tu racha! Vuelve mañana y serán dos.
+a1e7ab0	¡Una semana entera seguida! Estoy realmente impresionada.
+96cee95	¡Treinta días! Prácticamente trabajas aquí.
+a9834cd	Cien días. Le hablo a todo el mundo de ti.
+071317f	¡Son {0} días seguidos! Mírate.
+0964027	Racha salvada: ¡día {0}! Sabía que lo lograrías.
+c7f2a1f	¡Día {0}! Apuesto a que no llegas a {1}.
+a6ce2e2	{0} días... vale, fanfarrón.
+3ab91d0	Juega 10 manos de blackjack
+38e863d	Gana 5 manos de blackjack
+6ac41cc	Consigue un blackjack
+74cf149	Gana 500 fichas en el blackjack
+66440e1	Gira las tragamonedas 20 veces
+9205056	Gana 5 giros en las tragamonedas
+cd60e0c	Gana 5× tu apuesta en las tragamonedas
+6f7ac28	Juega 5 rondas de ruleta
+6978cc0	Gana 3 giros de ruleta
+c8ebbcc	Acierta un número pleno
+8a57c54	ubicación GPS
+4919635	red móvil
+527b094	conexión a internet
+f49ae82	ajustes del dispositivo
+60827d3	país de prueba
+0b2f8d8	no verificado (precio estándar)
+50d8b4a	desconocido
+4fb7a4e	1.ª docena
+647a0eb	2.ª docena
+a934745	3.ª docena
+3de80ab	2 a 1
+bb4e68e	ROJO
+a9414ab	NEGRO
+710756a	IMPAR
+70ca748	PAR
+4d60d6c	PRECIOS JUSTOS PARA TU PAÍS
+1674d95	Los precios de la tienda se ajustan a la economía de tu país, para que los jugadores de todas partes paguen un precio justo.
+4ec27ee	Para saber tu país comprobamos tu ubicación aproximada una vez. Se compara con un país en tu dispositivo y nunca se envía a ningún lado. Si no aceptas, se aplican los precios estándar.
+ff3dbb4	CONTINUAR
+43a6a8d	¿Salir del casino?
+ad209a0	Tus fichas y tu progreso están guardados.
+5860c84	SALIR
+f1e0808	QUEDARME
+5b38c49	{0} desbloqueada
+15ae7ac	Ayer un congelador de racha salvó tu racha de {0} días.
+d375ffb	{0} congeladores de racha salvaron tu racha de {1} días.
+fd8ab39	Tu racha de {0} días terminó. ¡Juega {1} rondas hoy para empezar una nueva!
+7fa2db4	MISIÓN CUMPLIDA
+255325c	+{0} fichas
+d205ece	¡TODAS LAS MISIONES CUMPLIDAS!
+4acbed2	Bono diario +{0} fichas. Nuevas misiones mañana.
+ab2ceb3	¡NIVEL {0}!
+86e2afb	¡Hito! +{0} fichas
+9ae18ad	Vuelve mañana para seguir
+7af7e7c	+1 congelador de racha
+b5b9597	¡RACHA DE {0} DÍAS!
+62ec60d	Las compras no están disponibles en esta versión.
+1f9786c	La compra falló. No se te cobró nada.
+3e4c600	¡+{0} fichas añadidas!
+1998202	{0}: {1} manos con {2}% de suerte, después de la Suerte del principiante
+728ada5	{0}: ¡{1} manos con {2}% de suerte!
+af5e232	{0}: +{1}% de energía
+001a53b	No disponible en este dispositivo
+2607004	Los videos no cargan en esta red
+569c30d	Vuelve mañana
+ecae6ee	Listo en {0} s
+9964820	+{0} fichas (quedan {1} hoy)
+e1bd888	¡+{0} fichas gratis!
+619bd5d	¡+1 congelador de racha!
+f70d794	No hay videos disponibles ahora. Inténtalo de nuevo en un momento.
+264d71b	BRONCE
+462e839	PLATA
+81ff70a	ORO
+50e122e	DIAMANTE
+57f5f5e	Menú
+69bd4ef	Vista
+dbfe736	Equis
+1cc7820	Círculo
+82810cb	Cuadrado
+73d3ae2	Triángulo
+a42f608	Comprobando tu región...
+1db422c	Sin verificar ({0}): precios estándar
+9bc0807	{0} ({1}): precios en {2}
+ae8c393	Recordatorios
+aefd59b	Fichas gratis listas y recordatorios de racha
+3125838	Tus fichas gratis están listas
+233027b	{0} fichas te esperan en Lucky Ace.
+b93976b	Mantén tu racha de {0} días
+bd68038	Juega {0} rondas hoy para que no se reinicie a medianoche.
+0acfb6f	¡Te damos la bienvenida! La suerte del principiante está de tu lado esta noche. ¡Haz tu apuesta!
+d589374	EL BLACKJACK PAGA 3 A 2   •   EL CRUPIER SE PLANTA CON 17   •   EL SEGURO PAGA 2 A 1
+b700b02	APUESTA
+16ec74f	BORRAR
+928226b	REPETIR
+55591e0	REPARTIR
+395ed46	PEDIR
+43e7971	PLANTARSE
+097274c	DOBLAR
+6df63ca	SEPARAR
+3e40f46	ASEGURAR
+db82d3a	NO, GRACIAS
+28d6be8	APUESTA {0}+
+9587b70	Máximo de la mesa alcanzado
+b9ac47d	No tienes suficientes fichas
+d237ade	El crupier muestra un as. ¿Asegurar por {0}?
+bf07c14	El seguro paga {0}
+b6e674a	El crupier no tiene blackjack. Seguro perdido.
+0cc9679	TE PASASTE
+82ce89d	EL CRUPIER SE PASA
+6e1e1a4	¡BLACKJACK!
+662fae5	GANAS
+8918d00	EMPATE
+8df6be4	PIERDES
+9e69668	Se acabó la suerte del principiante. Tu Racha de suerte empieza ahora.
+822f4f4	Se acabó la suerte del principiante. Desde ahora es blackjack estándar.
+b0377c7	Tu Racha de suerte terminó. Volvemos al blackjack estándar.
+824ad7c	SIN FICHAS
+ff1822d	Mira un video corto por {0} fichas gratis o visita la caja.
+e4cac2f	Visita la caja para recargar fichas.
+c3df3e7	FICHAS GRATIS
+b169d33	CAJA
+4d38f66	MÁS TARDE
+cb8171b	Termina esta mano primero.
+3aa6941	«{0}»
+6f846f4	UNA MANO MÁS
+a79d4f2	IRME
+693f697	SUERTE DEL PRINCIPIANTE
+641ad58	RACHA DE SUERTE
+fc45931	Bono de bienvenida para nuevos jugadores: en tus primeras <b>{0} manos</b> el zapato del crupier está ordenado a tu favor, así que ganarás casi todas las manos.
+576c683	Durante las siguientes <b>{0} manos</b> la ventaja se desvanece, y después cada mesa es blackjack estándar y justo con un zapato barajado de 6 mazos (el blackjack paga 3 a 2, el crupier se planta con 17).
+7fb55b3	Ventaja actual: <b><color=#7CFC9A>{0}%</color></b>   Manos restantes: <b>{1}</b>
+d4f8fe0	En tus próximas <b>{0} manos de blackjack</b> con una apuesta de hasta <b>{1} fichas</b>, cada carta tiene un <b>{2}%</b> de probabilidad de salir a tu favor (la misma ventaja que la Suerte del principiante).
+0a5fc06	Jugando bien, eso gana cerca del <b>{0}%</b> de las manos, frente a cerca del {1}% en el blackjack estándar. Las apuestas mayores son blackjack estándar y no gastan manos. Cuando se acaban las manos, cada mesa vuelve a ser blackjack estándar y justo.
+c3a8946	ENTENDIDO
+8dfc44a	¿QUIERES RECUPERAR TU SUERTE?
+272a97f	Se acabó la Suerte del principiante: desde aquí cada mesa es blackjack estándar y justo. Una Racha de suerte devuelve la ventaja por un tiempo.
+06b7689	DIARIO
+4035996	RACHA DIARIA
+fbe7f18	DÍAS SEGUIDOS
+7a46866	HOY
+4753707	VER ANUNCIO
+6bb45f3	COMPRAR
+62a945f	CONGELADOR DE RACHA
+ba5b1de	Un congelador de racha mantiene viva tu racha un día que no juegues. Puedes tener {0}.\n\n¿Comprar uno por {1} fichas?
+38c6090	Congelador de racha listo.
+8fe681f	No tienes fichas suficientes para un congelador.
+1507c40	CANCELAR
+457d20f	GIRO DIARIO
+9623247	GIRAR
+ac5ef96	Probabilidades:
+1200f20	{0}%
+003a689	¡Ganaste {0} fichas!
+f757137	MISIONES DE HOY
+7b7f9e2	Récord: {0} días
+9554fea	Juega cada día para crear una racha
+5c8dbb8	¡Meta de hoy cumplida! Hasta mañana.
+1aeb9a1	Hoy: {0} / {1} rondas (cualquier juego)
+bb92856	Congeladores: {0} / {1}
+0ec6216	Salva tu racha el día que faltes. +1 cada 7 días.
+cc0a745	LLENO
+419a962	SIN VIDEO
+2dabd99	ANUNCIO PRONTO
+f12e166	Bono de racha: premios ×{0}
+80948a4	Un giro gratis cada día
+596b5e0	SIGUIENTE  {0}
+7f7e7fc	¡Todo listo! Bono cobrado.
+03a0f2a	Nuevas misiones a medianoche.
+4784874	Completa las tres: +{0} fichas extra
+42c5cda	JUGAR
+337211e	JUEGOS
+8f5e3bd	Arrastra a la izquierda para caminar  •  Arrastra a la derecha para mirar  •  Toca para ir
+d00d221	Solo +18  •  Las fichas son para divertirse: sin valor monetario, nunca canjeables por dinero ni premios
+b60f038	Abriendo las puertas...
+2e5bcce	¡Te damos la bienvenida! Tus {0} fichas de bienvenida están listas. ¡Las mesas están justo delante!
+7ef7ae3	¡+{0} fichas gratis! Más en {1} horas.
+5d82af9	Las fichas gratis se recargan cada {0} horas. Las próximas en {1}.
+5469985	{0} h {1} min
+bb65beb	{0} min {1} s
+ac8ba93	MANTÉN TU RACHA
+560bfa1	¿Quieres un recordatorio las noches que aún no hayas jugado y cuando tus fichas gratis estén listas? Nunca más que eso, y puedes desactivarlo en Ajustes.
+b724a40	RECUÉRDAMELO
+9e0c898	¡+{0} fichas listas!
+1207e28	Mira un video: {0}
+db3655b	Próximas fichas gratis en {0}
+4ca9be5	BLACKJACK
+9a612b1	4 mesas  •  paga 3 a 2
+1194439	TRAGAMONEDAS
+6555152	Lucky Ace 7s  •  10 líneas
+255b1a1	RULETA
+6df1551	Europea de un solo cero
+379b146	ESTÁS AGOTADO
+340e5c4	Tu barra de energía está vacía. Toma algo en el bar para seguir jugando o vuelve más tarde: la energía se recupera poco a poco mientras no estás.
+a517396	IR AL BAR
+7c7227f	ELIGE TU MESA
+c963de3	APUESTAS
+c433657	NIVEL {0}
+083ac39	SENTARSE
+9698219	NECESITAS {0}
+34b737e	Llega al nivel {0} para jugar aquí. Estás en el nivel {1}.
+6e946b7	DD
+4a3a892	MM
+2857a6a	AAAA
+9d1fece	DÍA
+d3bb0c3	MES
+c0f0cad	AÑO
+43985ff	¿CUÁNDO NACISTE?
+293fda2	Las fichas son solo para entretenimiento. No tienen valor monetario y nunca se pueden cambiar por dinero ni premios.
+3e9128d	LO SENTIMOS, NO PUEDES JUGAR
+b5e8985	{0} solo está disponible para adultos.
+bb1b380	SALIR
+d9f9432	Cerrando en {0}...
+c6e102d	CUÉNTANOS SOBRE TI
+31120ce	Elegiremos a tus anfitriones, crupieres y personal del bar según tu respuesta. Puedes cambiarlo cuando quieras en Ajustes.
+49e8df9	SOY HOMBRE
+85abe81	SOY MUJER
+76cc98c	PREFIERO NO DECIRLO
+964daf7	ENTRAR AL CASINO
+2efb69a	Tu personal esta noche:
+c10e749	Página {0} de {1}
+2a3ffd9	IDIOMA
+c673535	AUTOMÁTICO
+d1245d2	PAÍS
+15fc12b	¡Les damos la bienvenida! Hagan sus apuestas, por favor.
+531fb3f	No tienes fichas suficientes para esa apuesta.
+380eb75	El límite de la mesa es {0} por giro.
+55ad592	DESHACER
+8f191f9	APUESTA TOTAL  {0}
+82e1181	Toca el tapete para colocar fichas
+bb19a75	¡No va más!
+5becf07	VERDE
+bc74f4f	verde
+7898801	rojo
+466bc8c	negro
+f2edfbf	¡Qué acierto! ¡Felicidades!
+b252caf	¡Ganador! Ganas {0}.
+8587d14	GANAS  +{0}
+b862a2b	{0} {1}. Te devuelven {2}.
+a306d0a	DEVUELTO  {0}
+af3134d	Esta vez no hay premio
+84122e7	Hagan sus apuestas, por favor.
+52205f4	Espera a que la bola se detenga.
+c4b9243	AJUSTES
+44d863e	GENERAL
+2bbca79	GRÁFICOS
+955c8b4	SONIDO
+c701f5f	TÁCTIL
+efcc94a	RATÓN
+8433628	MANDO
+d868a50	VIBRACIÓN
+f8692c7	18+ • Las fichas no tienen valor monetario • Fuentes: Bebas Neue, Poppins, Noto (SIL OFL) • Fronteras: Natural Earth • Datos de precios: Banco Mundial
+da46447	PERSONAL DEL CASINO
+594b81e	MUJERES
+69d3313	HOMBRES
+b4325d3	MIXTO
+414594a	RECORDATORIOS
+6cac87b	Fichas gratis listas y un aviso por la noche antes de que se pierda tu racha.
+e43b2e0	VOLVER A COMPROBAR
+7c9e8f9	REGIÓN DE PRECIOS
+495c70e	Lo más rápido: el casino tal como está pintado, nada más.
+b052523	Los suelos pulidos, la madera y el oro reflejan la sala.
+6bd30d7	Aspecto de cine: color etalonado, grano, brillo, rayos de luz, piel realista.
+21b6e1d	Lente de cine: el foco sigue tu mirada, destellos en las luces, polvo en los rayos.
+fb7c2e8	CALIDAD
+d8b9679	BAJA
+f68525a	MEDIA
+d77d0b2	ALTA
+9289eee	ULTRA
+637e313	RESOLUCIÓN
+2e7b141	Más baja se ve más suave, pero calienta menos y ahorra batería.
+93dcfb5	MODO DE PANTALLA
+3c6eac3	PANTALLA COMPLETA
+f3690b1	VENTANA
+cfa6200	ANTIALIASING
+ad50489	NO
+f178804	Suaviza los bordes dentados del casino.
+4266288	FOTOGRAMAS
+d031ab0	{0} FPS
+a2b7514	30 FPS ahorran batería y mantienen frescos los teléfonos antiguos.
+0babcee	V-SYNC
+6656e25	CAMPO DE VISIÓN
+244aadb	MOSTRAR FPS
+41c8f6e	VOLUMEN GENERAL
+bf3af1f	MÚSICA
+bd80907	EFECTOS DE SONIDO
+d098036	VOCES DEL PERSONAL
+93c6484	El murmullo del personal mientras habla.
+16bf71a	SILENCIAR EN SEGUNDO PLANO
+85b2ee7	Silencia el casino mientras estás en otra ventana.
+8e3634e	SENSIBILIDAD DE LA VISTA
+880dc05	Qué tan rápido gira la vista al arrastrar.
+750c60f	Qué tan rápido gira la vista al arrastrar con el ratón.
+8b988eb	INVERTIR VISTA IZQUIERDA / DERECHA
+cacf0cc	INVERTIR VISTA ARRIBA / ABAJO
+2d13b68	DISPOSICIÓN DE BOTONES
+50c3f10	AUTO
+b471e5c	INTERCAMBIAR MENÚ / VISTA
+d9a59f1	SENSIBILIDAD DEL STICK
+ec14343	Qué tan rápido gira la vista el stick derecho.
+a79af23	INVERTIR STICK IZQUIERDA / DERECHA
+acfc66e	INVERTIR STICK ARRIBA / ABAJO
+56bb461	AYUDAS DEL MANDO
+51cf49a	Muestra qué hace cada botón mientras juegas con mando.
+dff7431	VIBRAR EN
+34139ab	TELÉFONO
+15ee988	AMBOS
+465cc91	Auto: el mando mientras esté conectado; si no, el teléfono.
+f6fed84	VIBRACIÓN DEL TELÉFONO
+8e97fa7	FUERZA DEL TELÉFONO
+486ba2d	VIBRACIÓN DEL MANDO
+8008889	FUERZA DEL MANDO
+ea9233e	AUTOMÁTICO ({0})
+167dda7	{0} abre Ajustes, {1} abre Diario.
+29a4ef9	No hay ningún mando conectado.
+558ecd2	Conectado: {0}. Mostrando botones de {1} (A a la derecha confirma).
+d6eee9e	Conectado: {0}. Mostrando botones de {1}.
+78525d5	EL BAR
+099db9f	SUERTE
+b4a8b06	Las fichas, la suerte y la comida son objetos virtuales solo para entretenimiento: sin valor monetario, no canjeables por dinero ni premios.
+e2a28c9	Cada carta tiene esa probabilidad de salir a tu favor en apuestas de blackjack de hasta {0} fichas (las apuestas mayores son estándar y no gastan manos). Empieza después de la Suerte del principiante; los paquetes más fuertes se usan primero.
+04fbc6d	Permite el acceso a la ubicación para obtener el precio de tu país
+2ae87fc	Las compras no están disponibles en esta versión del juego.
+8239a84	TIENDA DE PRUEBA (sin dinero real)
+173d916	energía
+b2c67eb	+{0}% FICHAS
+58e8011	{0} manos
+ce80712	gana cerca del {0}% de ellas
+c69e8ee	LUCKY ACE 7s
+fc99288	APUESTA TOTAL
+c1c00cd	TABLA DE PAGOS
+3930abd	¡BUENA SUERTE!
+67b6973	Necesitas al menos 10 fichas para girar.
+5aa1edb	CONSEGUIR FICHAS
+f5a1812	Apuesta reducida a lo que puedes cubrir.
+5c63f61	¡MEGAPREMIO!
+652544f	¡GRAN PREMIO!
+91bc41c	DEVUELTO {0}
+3714283	SIN PREMIO
+33c0faa	LÍNEA {0}: {1} × {2} = {3}
+9f59e6e	{0} ESTRELLAS = {1}
+d6eee90	Cereza
+4459b79	Limón
+09fb6aa	Naranja
+cb92e50	Ciruela
+d419866	Campana
+e496fd2	Bar
+63abb56	Siete
+b3850e0	Diamante
+fc2b5a9	As
+85a7de6	Estrella
+c31b035	Las ESTRELLAS pagan en cualquier lugar: 5 = {0}× la apuesta, 4 = {1}× la apuesta, 3 = {2}× la apuesta.
+f97509c	El AS es comodín: sustituye a cualquier símbolo excepto la estrella.
+3e8bc69	Los premios por línea son múltiplos de la apuesta por línea (apuesta total ÷ 10), de izquierda a derecha desde el primer rodillo.
+523f8dc	RETORNO: {0}% a largo plazo. Cada giro es independiente y aleatorio.
+e0c705d	Caminar
+b8db515	Mirar
+503d46d	Botones
+c7f73bb	Ajustes
+728298d	Diario
+ab166bd	Ajustar
+76cdb95	Mover
+8598222	Elegir
+bbfa773	Cerrar
+b52b36b	Atrás
+ab37588	AGOTADO
+9b11a09	SUERTE DEL PRINCIPIANTE {0}%
+0c94e98	QUEDAN {0} MANOS
+51ed273	RACHA DE SUERTE {0}%
+3401470	{0} MANOS  •  APUESTAS HASTA {1}
+f481cc6	NIVEL
+0139615	BIENVENIDO
+daad514	HABLAR CON LA ANFITRIONA
+bcefb10	Indicaciones y consejos
+c28e782	FICHAS  •  BONOS
+0c69ec4	COMPRAR FICHAS
+78c0727	Caja
+1737fab	CÓCTELES  •  APERITIVOS  •  ENERGÍA
+9e008ae	COMIDA Y BEBIDA
+f7881e8	El bar
+0e979ed	EL BLACKJACK PAGA 3 A 2
+eea0d12	EL CRUPIER SE PLANTA CON 17
+4db37bf	JUGAR BLACKJACK
+0ffdd99	Mesa {0}  •  apuestas de {1} a {2}
+b4f938b	JUGAR TRAGAMONEDAS
+6b7caea	HAGAN SUS APUESTAS
+26b1e39	JUGAR RULETA
+910a1ed	Rueda europea  •  pleno paga 35 a 1
+7ef0215	PEDIR UNA BEBIDA
+fe38d73	{0} te la trae
+f7b6306	La {0} se abre en el nivel {1}. Estás en el nivel {2}: cada ronda que juegas cuenta.
+d85f1ad	Esta mesa necesita al menos {0} fichas.
+cbfe016	Las mesas de blackjack están justo delante. ¡Acércate a una y siéntate!
+64d9faf	La caja está aquí a tu derecha y el bar en la pared izquierda.
+e4c6e0b	¿Cansado? Un aperitivo en el bar te llena de energía.
+d5ab68f	Toca cualquier punto del suelo y caminarás hasta allí. Toca una mesa para sentarte.
+6cc19a9	CASINO
+cc21f74	PEQUEÑO
+dc01dec	GRANDE
+5fb90b0	CUALQUIER TRÍO
+9c716f1	Mesa de hold'em
+3b6ab84	Juega 8 manos de hold'em
+6c617ca	Gana 4 manos de hold'em
+44ce500	Juega 10 manos de baccarat
+b90cff7	Gana 5 manos de baccarat
+3e4dfa9	Juega 15 manos de video póker
+854fe20	Juega 8 rondas de sic bo
+dfddac1	Gana 4 rondas de sic bo
+2973ea7	Tira los dados 15 veces en craps
+737be17	Gana 4 tiradas en craps
+4dbb81d	Consigue color o mejor en video póker
+19aa07b	Escalera real
+cf83e72	Escalera de color
+d27ba03	Póker
+dbe8641	Full
+7c936d7	Color
+2501c65	Escalera
+ca1a0d4	Trío
+6876b40	Doble pareja
+2537f88	Pareja
+b4b323e	Carta alta
+f70bfdc	Jotas o mejor
+98fd5af	BACCARAT
+df66d5a	¡Te damos la bienvenida al baccarat! ¿Jugador, Banca o Empate?
+5055efd	JUGADOR
+3f90696	EMPATE
+0d75f63	BANCA
+0ebd5a4	ÚLTIMOS RESULTADOS
+511993d	J
+ae4f281	B
+c2c53d6	E
+781246e	Elige una ficha y toca Jugador, Banca o Empate
+11023a0	EMPATE  {0}
+503d5f1	GANA EL JUGADOR  {0} A {1}
+0eb4be5	GANA LA BANCA  {0} A {1}
+7859af1	CRAPS
+4083dbd	¡Te damos la bienvenida a los craps! Apuesta en la línea de pase y tira.
+d266326	SEIS
+c506f3a	NUEVE
+987f4e9	CAMPO
+71c1b2b	2 3 4 9 10 11 12  •  el 2 y el 12 pagan doble
+d0ac294	CUALQUIER 7
+9b2f0c3	CUALQUIER CRAPS
+f62ac59	NO PASE
+6080ade	1:1  •  el 12 empata
+c07247a	LÍNEA DE PASE
+6229f78	ODDS
+29bf819	pago real
+387d7a5	ON
+229c9cc	Las odds van detrás de la línea de pase cuando hay punto.
+c2c8e82	Las odds necesitan una apuesta en la línea de pase.
+1784d43	Tus odds están al máximo.
+fdc3442	Las apuestas de línea se hacen en la tirada de salida.
+97ce95b	EN LA MESA  {0}
+a895ec0	El punto es {0}: sácalo otra vez antes de un 7. Las odds detrás de tu línea de pase pagan lo real.
+d9f9d65	TIRAR
+bcf32ef	El punto es {0}.
+5b450b4	¡{0}! Punto hecho. ¡Ganas!
+9746e08	Siete fuera. Nuevo tirador, nueva salida.
+4fc4664	{0}, ¡natural! Gana la línea de pase.
+203f466	{0}, craps. Pierde la línea.
+0f8e260	Espera a que caigan los dados.
+6a98cfe	¿DEJAR LA MESA?
+8430088	Tu apuesta de línea sigue en juego con el punto {0}. Si te vas ahora, la pierdes.
+0e138d1	HOLD'EM
+5e023be	¡Te damos la bienvenida al hold'em! Pon el ante y veamos cartas.
+0cd62f5	ANTE
+5e9f331	CIEGA
+3b935ab	LA CIEGA PAGA
+20713a4	El crupier califica con pareja o mejor
+d37267c	PASAR
+9a4e316	RETIRARSE
+88313c4	APOSTAR {0}×
+42c6fea	Ante {0} + ciega {0}. Reserva {1} más para tu subida.
+1abb2f2	Toca fichas para fijar tu ante. La ciega es igual.
+f541cec	¿Pasas o apuestas tres o cuatro veces tu ante?
+fc74a79	Sube ahora 4× o 3× tu ante, o pasa y mira el flop.
+b687501	Última oportunidad: apuesta 1× tu ante o retírate y pierde ante y ciega.
+400009c	Apuesta 2× tu ante ahora, o pasa y mira las dos últimas cartas.
+f4abdf9	Aquí está el flop.
+0e51f2c	El turn y el river.
+cc856d3	Veamos qué tengo.
+6ba1f3e	El crupier no califica: tu ante vuelve.
+cf1fdc5	Te retiraste. La próxima mano es tuya.
+177fab0	Ultimate Texas Hold'em
+c4917b9	Jugador, Banca o Empate
+6e4fe7b	VIDEO PÓKER
+73cabd3	Jacks or Better
+91c4555	SIC BO
+d810061	Tres dados  •  grande o pequeño
+85ab7ec	Línea de pase  •  Campo  •  Odds
+35d8db6	¡Te damos la bienvenida al sic bo! ¿Grande, pequeño o algo más atrevido?
+3d05514	El límite de la mesa es {0} por tirada.
+86ade94	AGITAR
+b69304e	¡TRÍO DE {0}!
+5d1bcc6	RETENIDA
+36a21ba	Reparte, retén las cartas que quieras y cambia una vez.
+99fa8e8	RETENER
+249d1c0	PISTA
+7aab1bd	CAMBIAR
+5595eb4	Toca las cartas para retenerlas y luego cambia.
+1c05db9	JUGAR HOLD'EM
+e353e5f	Ultimate Texas Hold'em  •  ante de {0} a {1}
+6470369	JUGAR BACCARAT
+bbe0077	GRANDE  •  PEQUEÑO  •  TRÍOS
+3ba448f	JUGAR SIC BO
+097c59c	Tres dados  •  grande o pequeño paga 1 a 1
+af2ca30	LÍNEA DE PASE  •  CAMPO  •  ODDS
+f18398e	JUGAR CRAPS
+eeede6d	La línea de pase paga 1 a 1  •  las odds pagan lo real
+34e5170	JUGAR VIDEO PÓKER
+f71bdfb	Jacks or Better  •  tabla completa 9/6
+4a6c087	JACKS OR BETTER  •  LA ESCALERA REAL PAGA 800×
+370a133	Las tragaperras están en la pared derecha, el video póker en la del fondo y la ruleta al fondo.
+8298d28	El hold'em está en la esquina del fondo a la izquierda, pasado el bar.
+a2a111f	El baccarat está justo a la izquierda al entrar.
+b7193bc	El sic bo está en la esquina pasada la caja: tres dados, grande o pequeño.
+25320c8	La mesa de craps está a la derecha, delante de las tragaperras. ¡Apuesta en la línea de pase y tira!
+dc81691	Sofía
+4d9936f	Elena
+3aa0674	Mia
+b724114	Valentina
+34d3f7f	Chloe
+0fc9dd6	Isabella
+bbd3e35	Nadia
+eac677d	Aria
+baaf10f	Luna
+8641381	Camila
+eeee9b7	Aurora
+8a59f05	Bianca
+5a0fc29	Serena
+bf38aa5	Marco
+cfaf50a	Leo
+5815f22	Adrián
+cbede02	Lucas
+f0b9995	Víctor
+7b37259	Daniel
+aaac72d	Gabriel
+2f8f37e	Ethan
+a01126e	Julián
+3e05c90	Rafael
+e1ae457	Mateo
+3398634	Nico
+7aa2d07	Enzo
+1920e2f	Tirada de salida: apuesta en la línea de pase y tira. 7 u 11 gana, 2, 3 o 12 pierde. Las apuestas place cuentan cuando hay punto.
+99f4934	LUCKY ACE 7s  •  PAGA HASTA 2.500× TU APUESTA POR LÍNEA

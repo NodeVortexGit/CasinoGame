@@ -66,7 +66,7 @@ namespace Casino
         static string UnlockAt(int level)
         {
             foreach (var t in TableCatalog.Blackjack)
-                if (t.Level == level && level > 1) return t.Name + " unlocked";
+                if (t.Level == level && level > 1) return Loc.F("{0} unlocked", Loc.T(t.Name));
             return null;
         }
 
@@ -95,10 +95,10 @@ namespace Casino
             }
             var change = Streak.Settle(today, out int days);
             if (change == StreakChange.Frozen)
-                Notice = days == 1 ? $"A streak freeze saved your {Streak.Count}-day streak yesterday."
-                    : $"{days} streak freezes saved your {Streak.Count}-day streak.";
+                Notice = days == 1 ? Loc.F("A streak freeze saved your {0}-day streak yesterday.", Streak.Count)
+                    : Loc.F("{0} streak freezes saved your {1}-day streak.", days, Streak.Count);
             else if (change == StreakChange.Lost)
-                Notice = $"Your {days}-day streak ended. Play {Streak.DailyGoal} rounds today to start a new one!";
+                Notice = Loc.F("Your {0}-day streak ended. Play {1} rounds today to start a new one!", days, Streak.DailyGoal);
             app.SaveSystem.MarkDirty();
         }
 
@@ -122,8 +122,8 @@ namespace Casino
                 xp += m.RewardXp;
                 Celebrate?.Invoke(new Celebration
                 {
-                    Icon = Icon.Target, Color = Palette.Cyan, Title = "MISSION COMPLETE",
-                    Subtitle = $"{m.Text}  •  +{ChipFormat.Full(m.RewardChips)} chips",
+                    Icon = Icon.Target, Color = Palette.Cyan, Title = Loc.T("MISSION COMPLETE"),
+                    Subtitle = Loc.T(m.Text) + "  •  " + Loc.F("+{0} chips", ChipFormat.Full(m.RewardChips)),
                 });
             }
             if (MissionsDone == Missions.PerDay && !Save.missionBonusPaid)
@@ -132,8 +132,8 @@ namespace Casino
                 app.Wallet.Credit(Missions.AllDoneBonus);
                 Celebrate?.Invoke(new Celebration
                 {
-                    Icon = Icon.Crown, Color = Palette.Gold, Title = "ALL MISSIONS DONE!",
-                    Subtitle = $"Daily bonus +{ChipFormat.Full(Missions.AllDoneBonus)} chips. New missions tomorrow.",
+                    Icon = Icon.Crown, Color = Palette.Gold, Title = Loc.T("ALL MISSIONS DONE!"),
+                    Subtitle = Loc.F("Daily bonus +{0} chips. New missions tomorrow.", ChipFormat.Full(Missions.AllDoneBonus)),
                 });
             }
 
@@ -148,8 +148,8 @@ namespace Casino
                 string unlock = UnlockAt(Save.level);
                 Celebrate?.Invoke(new Celebration
                 {
-                    Icon = Icon.Star, Color = Palette.Gold, Title = $"LEVEL {Save.level}!",
-                    Subtitle = $"+{ChipFormat.Full(reward)} chips" + (unlock != null ? "  •  " + unlock : ""),
+                    Icon = Icon.Star, Color = Palette.Gold, Title = Loc.F("LEVEL {0}!", Save.level),
+                    Subtitle = Loc.F("+{0} chips", ChipFormat.Full(reward)) + (unlock != null ? "  •  " + unlock : ""),
                 });
             }
 
@@ -159,9 +159,9 @@ namespace Casino
                 int n = Streak.Count;
                 long reward = Streak.MilestoneReward(n);
                 if (reward > 0) app.Wallet.Credit(reward);
-                string sub = reward > 0 ? $"Milestone! +{ChipFormat.Full(reward)} chips" : "Come back tomorrow to keep it going";
-                if (n % 7 == 0) sub += "  •  +1 streak freeze";
-                Celebrate?.Invoke(new Celebration { Icon = Icon.Flame, Color = Palette.Hex("FF8A1F"), Title = $"{n} DAY STREAK!", Subtitle = sub });
+                string sub = reward > 0 ? Loc.F("Milestone! +{0} chips", ChipFormat.Full(reward)) : Loc.T("Come back tomorrow to keep it going");
+                if (n % 7 == 0) sub += "  •  " + Loc.T("+1 streak freeze");
+                Celebrate?.Invoke(new Celebration { Icon = Icon.Flame, Color = Palette.Hex("FF8A1F"), Title = Loc.F("{0} DAY STREAK!", n), Subtitle = sub });
                 StreakExtended?.Invoke();
             }
 

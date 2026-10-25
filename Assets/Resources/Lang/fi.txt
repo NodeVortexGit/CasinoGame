@@ -1,0 +1,1004 @@
+PIENI
+ISO
+PARITON
+PARILLINEN
+MIKÄ TAHANSA KOLMOINEN
+Kourallinen pelimerkkejä
+Pino pelimerkkejä
+Tarjottimellinen pelimerkkejä
+Teline pelimerkkejä
+SUOSITUIN
+Holvillinen pelimerkkejä
+Suurpelaajan kassakaappi
+PARAS HINTA
+Kivennäisvesi
+Espresso
+Energiajuoma
+Klubileipä
+Hampurilaisateria
+Pihvi-illallinen
+TÄYSI LATAUS
+Onnenputki
+Kuuma putki
+ENITEN ONNEA
+Pronssipöytä
+Hopeapöytä
+Kultapöytä
+Timanttipöytä
+Hold'em-pöytä
+Anna kelvollinen vuosi.
+Anna kelvollinen kuukausi (1-12).
+Anna kelvollinen päivä.
+Päivämäärä on tulevaisuudessa.
+Tervetuloa pöytääni! Valmiina pelaamaan?
+Kiva nähdä sinua. Istu alas!
+Hei! Kortit ovat tuoreita, ja niin olen minäkin.
+Tervetuloa! Tehdään tästä hyvä ilta.
+Aseta panoksesi, kun olet valmis.
+Pelimerkit pöytään, katsotaan kortteja.
+Mistä pelataan?
+Oho, iso panos! Pidän tyylistäsi.
+Tuota sanon panokseksi. Mennään!
+Rohkealla tuulella tänään, vai mitä?
+Kaikki peliin?! Sydämeni hakkaa!
+Kaikki yhteen käteen. Peloton!
+Blackjack! Uskomatonta!
+Kaksikymmentäyksi, noin vain!
+Blackjack! Kortit rakastavat sinua tänään.
+Hienosti pelattu!
+Voitto! Hyvin tehty.
+Olet vauhdissa!
+Tuo on sinun.
+Mikä voitto! Kaikki katsovat tätä pöytää!
+Valtava! Olet tulessa tänään!
+Niin lähellä! Seuraava on sinun.
+Talolla kävi tuuri sillä kertaa.
+Ravista se pois, uusi käsi tulossa.
+Auts, yksi kortti liikaa.
+Yli! Sattuu parhaillekin.
+Tasapeli. Kukaan ei häviä!
+Tasapeli. Pelimerkkisi ovat turvassa.
+Menin yli! Onnekas sinä.
+Liikaa minulle. Sinä voitat!
+Blackjack talolle, pahoittelut!
+Jakajan blackjack. Huonoa tuuria.
+Näytän ässää. Vakuutus?
+Jaetaan! Kaksi mahdollisuutta voittaa.
+Tuplaus. Rohkea siirto!
+Tuplaa! Yksi kortti tulossa.
+Uusi kenkä, sekoitan!
+Vähissä? Kassa täydentää sinut.
+Pelimerkit vähenevät. Haluatko lisää?
+Pelimerkit loppu! Käy kassalla tai hae ilmaisia pelimerkkejä.
+Pinosi on tyhjä. Kassa on aivan takanasi.
+Näytät uupuneelta! Hae syötävää baarista.
+Akku tyhjänä? Baari hoitaa sinut.
+Ota rauhallisesti.
+Kun vain olet valmis!
+Ilta on vielä nuori.
+Aloittelijan onni on puolellasi!
+Pakka on tänään puolellasi!
+Aloittelijan onni on ohi. Tästä eteenpäin peli on reilu!
+Tervetuloa kasinolle! Paikkasi odottaa.
+Hyvää iltaa! Pöydät ovat kuumina tänään.
+Tervetuloa takaisin! Onnekas olo?
+Napauta pöytää aloittaaksesi!
+Tarvitsetko lisää pelimerkkejä? Tulit oikealle luukulle.
+Isommat pinot, isommat bonukset!
+Nälkä? Valitse mitä tahansa ruokalistalta.
+Pieni välipala pitää energian yllä!
+Tervetuloa pöytääni!
+Siinä olet! Paikka tuntuu heti valoisammalta.
+Ole kuin kotonasi. Tänä iltana kaikki pyörii sinun ympärilläsi.
+Rakastan tuota hymyä. Onnen ilta?
+Rentoudu, olet hyvissä käsissä.
+Hei sinä! Toivoin, että poikkeaisit luukulleni.
+Aina kiva nähdä ystävälliset kasvot.
+Katsos ketä! Onko hauskaa?
+Hei siellä, komistus!
+Pidän tyylistäsi tänä iltana.
+Hei, kiva nähdä taas!
+Onko hyvä ilta? Ansaitset sen.
+Varo, saatan alkaa kannustaa sinua.
+Lempipelaajani on palannut!
+Istu viereeni, jaan sinulle jotain mukavaa.
+Teet tästä pöydästä paljon hauskemman.
+Lähdetkö jo? Ilta on vielä nuori!
+No niin, vielä yksi käsi. Minulla on hyvä tunne tästä!
+Et voi jättää minua nyt, vasta aloitimme!
+Viimeinen tilaisuus! Seuraava käsi voi olla se iso...
+Selvä, selvä. Pidän paikkasi lämpimänä. Lupaatko palata?
+Ei vielä putkea? Pelaa tänään kierroksia: {2}, niin alan laskea.
+Uusi alku! Kierroksia {2}, ja liekkisi syttyy.
+Pidän pientä listaa niistä, jotka tulevat joka päivä. Sinä et ole siinä... vielä.
+Päivä {1} odottaa sinua. Kierroksia jäljellä: {2}!
+Putki {0} päivää... et kai aio lopettaa nyt?
+Liekkisi näyttää tänään vähän viileältä. Kierrokset ({2}) lämmittävät sen.
+Olen laskenut: {0} päivää. Tehdään siitä {1}.
+Älä luule, etten huomannut. Putken pitämiseen kierroksia jäljellä: {2}!
+Putki {0} päivää? Alan uskoa, että viihdyt täällä.
+Putkesi on turvassa tältä päivältä. Nyt vain esittelet taitojasi.
+Päivä {0} tehty. Huomenna samaan aikaan?
+{0} päivää! Tässä vaiheessa minun pitäisi varata sinulle paikka.
+Siinä se: putkesi ensimmäinen päivä! Tule huomenna takaisin, niin niitä on kaksi.
+Kokonainen viikko putkeen! Olen aidosti vaikuttunut.
+Kolmekymmentä päivää! Käytännössä työskentelet täällä.
+Sata päivää. Kerron sinusta kaikille.
+Putki {0} päivää! Katsopa itseäsi.
+Putki pelastettu: päivä {0}! Tiesin, että onnistut.
+Päivä {0}! Lyön vetoa, ettet pääse päivään {1}.
+{0} päivää... selvä, leveilijä.
+Pelaa 10 kättä blackjackia
+Voita 5 kättä blackjackissa
+Saa blackjack
+Voita 500 pelimerkkiä blackjackissa
+Pyöritä kolikkopeliä 20 kertaa
+Voita 5 kolikkopelin pyöräytystä
+Voita 5× panoksesi kolikkopelissä
+Pelaa 5 kierrosta rulettia
+Voita 3 ruletin pyöräytystä
+Osu numeroon suoraan
+Pelaa 8 kättä hold'emia
+Voita 4 kättä hold'emissa
+Pelaa 10 kättä baccaratia
+Voita 5 kättä baccaratissa
+Pelaa 15 kättä videopokeria
+Pelaa 8 kierrosta sic boa
+Voita 4 kierrosta sic bossa
+Heitä noppia 15 kertaa crapsissa
+Voita 4 heittoa crapsissa
+Saa väri tai parempi videopokerissa
+Kuningasvärisuora
+Värisuora
+Neloset
+Täyskäsi
+Väri
+Suora
+Kolmoset
+Kaksi paria
+Pari
+Hai
+GPS-sijainti
+matkapuhelinverkko
+internetyhteys
+laitteen asetukset
+testimaa
+ei vahvistettu (vakiohinta)
+tuntematon
+1. 12
+2. 12
+3. 12
+2 : 1
+PUNAINEN
+MUSTA
+Jätkät tai parempi
+REILUT HINNAT MAALLESI
+Kaupan hinnat on sovitettu maasi talouteen, jotta pelaajat kaikkialla maksavat reilun hinnan.
+Selvittääksemme maasi tarkistamme likimääräisen sijaintisi kerran. Se yhdistetään maahan laitteellasi eikä sitä lähetetä minnekään. Jos kieltäydyt, käytetään vakiohintoja.
+JATKA
+Poistutaanko kasinolta?
+Pelimerkkisi ja edistymisesi on tallennettu.
+LOPETA
+JÄÄ
+Avattu: {0}
+Putken jäädytys pelasti eilen {0} päivän putkesi.
+Jäädytykset ({0}) pelastivat {1} päivän putkesi.
+{0} päivän putkesi päättyi. Pelaa tänään kierroksia: {1}, niin aloitat uuden!
+TEHTÄVÄ SUORITETTU
++{0} pelimerkkiä
+KAIKKI TEHTÄVÄT SUORITETTU!
+Päivän bonus +{0} pelimerkkiä. Uudet tehtävät huomenna.
+TASO {0}!
+Virstanpylväs! +{0} pelimerkkiä
+Palaa huomenna jatkaaksesi
++1 putken jäädytys
+{0} PÄIVÄN PUTKI!
+Ostot eivät ole käytettävissä tässä versiossa.
+Osto epäonnistui. Sinua ei veloitettu.
++{0} pelimerkkiä lisätty!
+{0}: {1} kättä {2} %:n onnella, aloittelijan onnen jälkeen
+{0}: {1} kättä {2} %:n onnella!
+{0}: +{1} % energiaa
+Ei käytettävissä tällä laitteella
+Videot eivät lataudu tässä verkossa
+Palaa huomenna
+Valmis {0} s kuluttua
++{0} pelimerkkiä (tänään jäljellä {1})
++{0} ilmaista pelimerkkiä!
++1 putken jäädytys!
+Videota ei ole juuri nyt saatavilla. Yritä hetken päästä uudelleen.
+PRONSSI
+HOPEA
+KULTA
+TIMANTTI
+Valikko
+Näkymä
+Risti
+Ympyrä
+Neliö
+Kolmio
+Tarkistetaan aluettasi...
+Ei vahvistettu ({0}): vakiohinnat
+{0} ({1}): hinnat valuutassa {2}
+Muistutukset
+Ilmaiset pelimerkit valmiina ja putkimuistutukset
+Ilmaiset pelimerkkisi ovat valmiina
+Lucky Acessa odottaa sinua {0} pelimerkkiä.
+Pidä {0} päivän putkesi
+Pelaa tänään kierroksia: {0}, ettei putki nollaudu keskiyöllä.
+BACCARAT
+Tervetuloa baccaratiin! Pelaaja, Pankki vai Tasapeli?
+PELAAJA
+TASAPELI
+PANKKI
+VIIMEISET TULOKSET
+P
+K
+T
+KUMOA
+TYHJENNÄ
+SAMA UUDESTAAN
+JAA
+Ei tarpeeksi pelimerkkejä tuohon panokseen.
+Pöydän maksimi saavutettu
+KOKONAISPANOS  {0}
+Valitse pelimerkki ja napauta Pelaaja, Pankki tai Tasapeli
+TASAPELI  {0}
+PELAAJA VOITTAA  {0}–{1}
+PANKKI VOITTAA  {0}–{1}
+VOITTO  +{0}
+PALAUTETTU  {0}
+Ei voittoa tällä kertaa
+Pelaa ensin tämä käsi loppuun.
+Tervetuloa! Aloittelijan onni on tänään puolellasi. Aseta panos!
+BLACKJACK MAKSAA 3:2   •   JAKAJA JÄÄ KAIKILLA 17:LLÄ   •   VAKUUTUS MAKSAA 2:1
+PANOS
+OTA
+JÄÄ
+TUPLAA
+JAA KÄSI
+VAKUUTA
+EI KIITOS
+PANOS {0}+
+Ei tarpeeksi pelimerkkejä
+Jakajalla on ässä. Vakuutetaanko hintaan {0}?
+Vakuutus maksaa {0}
+Jakajalla ei blackjackia. Vakuutus menetetty.
+YLI
+JAKAJA YLI
+BLACKJACK!
+VOITTO
+TASAPELI
+HÄVIÖ
+Aloittelijan onni on ohi. Onnenputkesi alkaa nyt.
+Aloittelijan onni on ohi. Tästä eteenpäin pelataan tavallista blackjackia.
+Onnenputkesi on ohi. Takaisin tavalliseen blackjackiin.
+PELIMERKIT LOPPU
+Katso lyhyt video ja saat {0} ilmaista pelimerkkiä, tai käy kassalla.
+Käy kassalla täydentämässä pelimerkkejä.
+ILMAISET PELIMERKIT
+KASSA
+MYÖHEMMIN
+”{0}”
+VIELÄ YKSI KÄSI
+LÄHDE
+ALOITTELIJAN ONNI
+ONNENPUTKI
+Tervetuliaisbonus uusille pelaajille: ensimmäisissä <b>{0} kädessä</b> jakajan kenkä on järjestetty sinun eduksesi, joten voitat lähes jokaisen käden.
+Seuraavien <b>{0} käden</b> aikana etu hiipuu, ja sen jälkeen jokainen pöytä on tavallista, reilua blackjackia sekoitetusta 6 pakan kengästä (blackjack maksaa 3:2, jakaja jää kaikilla 17:llä).
+Etu nyt: <b><color=#7CFC9A>{0} %</color></b>   Käsiä jäljellä: <b>{1}</b>
+Seuraavissa <b>{0} blackjack-kädessä</b>, kun panos on enintään <b>{1} pelimerkkiä</b>, jokaisella kortilla on <b>{2} %</b> mahdollisuus tulla sinun eduksesi (sama etu kuin aloittelijan onnessa).
+Hyvällä pelillä se voittaa noin <b>{0} %</b> käsistä, kun tavallisessa blackjackissa osuus on noin {1} %. Isommat panokset ovat tavallista blackjackia eivätkä kuluta käsiä. Kun kädet loppuvat, jokainen pöytä on taas tavallista, reilua blackjackia.
+SELVÄ
+HALUATKO ONNESI TAKAISIN?
+Aloittelijan onni on ohi: tästä eteenpäin jokainen pöytä on tavallista, reilua blackjackia. Onnenputki tuo edun takaisin hetkeksi.
+CRAPS
+Tervetuloa crapsiin! Panosta Pass Lineen ja heitä.
+KUUSI
+YHDEKSÄN
+FIELD
+2 3 4 9 10 11 12  •  2 ja 12 maksavat tuplana
+MIKÄ TAHANSA 7
+MIKÄ TAHANSA CRAPS
+DON'T PASS BAR
+1:1  •  12 on tasapeli
+PASS LINE
+ODDS
+todelliset kertoimet
+POIS
+PÄÄLLÄ
+Odds-panos menee Pass Linen taakse, kun piste on olemassa.
+Odds vaatii Pass Line -panoksen.
+Odds-panoksesi on maksimissa.
+Linjapanokset asetetaan avausheitossa.
+PÖYDÄLLÄ  {0}
+Avausheitto: panosta Pass Lineen ja heitä. 7 tai 11 voittaa, 2, 3 tai 12 häviää. Place-panokset astuvat voimaan, kun piste on olemassa.
+Piste on {0}: heitä se uudelleen ennen seiskaa. Pass Linen takana oleva odds maksaa todelliset kertoimet.
+HEITÄ
+Piste on {0}.
+{0}! Piste osui. Voitto!
+Seiska. Uusi heittäjä, uusi avausheitto.
+{0}, natural! Pass Line voittaa.
+{0}, craps. Linja häviää.
+Odota, että nopat pysähtyvät.
+POISTUTAANKO PÖYDÄSTÄ?
+Linjapanoksesi on yhä pelissä pisteellä {0}. Jos lähdet nyt, menetät sen.
+PÄIVITTÄIN
+PÄIVÄPUTKI
+PÄIVÄN PUTKI
+TÄNÄÄN
+KATSO MAINOS
+OSTA
+PUTKEN JÄÄDYTYS
+Putken jäädytys pitää putkesi hengissä päivänä, jona et pelaa. Voit pitää niitä enintään {0}.\n\nOstetaanko yksi hintaan {1} pelimerkkiä?
+Putken jäädytys valmiina.
+Ei tarpeeksi pelimerkkejä jäädytykseen.
+PERUUTA
+PÄIVÄN PYÖRÄYTYS
+PYÖRÄYTÄ
+Todennäköisyydet:
+{0} %
+Voitit {0} pelimerkkiä!
+PÄIVÄN TEHTÄVÄT
+Ennätys: {0} päivää
+Pelaa joka päivä kerryttääksesi putkea
+Päivän tavoite saavutettu! Nähdään huomenna.
+Tänään: {0} / {1} kierrosta (mikä tahansa peli)
+Putken jäädytykset: {0} / {1}
+Pelasta putkesi päivänä, jonka jätät väliin. +1 joka 7. päivä.
+TÄYNNÄ
+EI VIDEOTA
+MAINOS PIAN
+Putkibonus: palkinnot ×{0}
+Yksi ilmainen pyöräytys joka päivä
+SEURAAVA  {0}
+Kaikki tehty! Bonus lunastettu.
+Uudet tehtävät keskiyöllä.
+Suorita kaikki kolme: +{0} bonuspelimerkkiä
+HOLD'EM
+Tervetuloa hold'emiin! Aseta ante, niin katsotaan kortteja.
+ANTE
+BLIND
+PELAA
+BLIND MAKSAA
+Jakaja pääsee jatkoon parilla tai paremmalla
+CHECK
+FOLD
+PANOSTA {0}×
+Ante {0} + blind {0}. Pidä vielä {1} korotusta varten.
+Napauta pelimerkkejä asettaaksesi anten. Blind on sama.
+Check vai kolmin- tai nelinkertainen ante?
+Korota nyt 4× tai 3× ante tai sano check ja katso flop.
+Viimeinen tilaisuus: panosta 1× ante tai foldaa ja menetä ante ja blind.
+Panosta nyt 2× ante tai sano check ja katso kaksi viimeistä korttia.
+Tässä flop.
+Turn ja river.
+Katsotaan, mitä minulla on.
+Jakaja ei pääse jatkoon: antesi palautetaan.
+Foldasit. Seuraava käsi on sinun.
+PELIT
+Vedä vasemmalla kävelläksesi  •  Vedä oikealla katsellaksesi  •  Napauta mennäksesi
+Vain 18+  •  Pelimerkit ovat huvia varten: ei rahallista arvoa, ei koskaan vaihdettavissa rahaan tai palkintoihin
+Ovet aukeavat...
+Tervetuloa! {0} tervetuliaispelimerkkiäsi on valmiina. Pöydät ovat suoraan edessä!
++{0} ilmaista pelimerkkiä! Lisää {1} tunnin kuluttua.
+Ilmaiset pelimerkit täyttyvät {0} tunnin välein. Seuraavat: {1}.
+{0} h {1} min
+{0} min {1} s
+PIDÄ PUTKESI
+Haluatko muistutuksen iltaisin, kun et ole vielä pelannut, ja kun ilmaiset pelimerkkisi ovat valmiina? Ei koskaan enempää, ja voit poistaa sen käytöstä asetuksista.
+MUISTUTA MINUA
++{0} pelimerkkiä valmiina!
+Katso video: {0}
+Seuraavat ilmaiset pelimerkit: {0}
+BLACKJACK
+4 pöytää  •  maksaa 3:2
+Ultimate Texas Hold'em
+Pelaaja, Pankki tai Tasapeli
+KOLIKKOPELIT
+Lucky Ace 7s  •  10 linjaa
+VIDEOPOKERI
+Jacks or Better
+SIC BO
+Kolme noppaa  •  iso tai pieni
+Pass Line  •  Field  •  Odds
+RULETTI
+Eurooppalainen, yksi nolla
+OLET UUPUNUT
+Energiapalkkisi on tyhjä. Hae jotain baarista jatkaaksesi pelaamista, tai palaa myöhemmin: energia palautuu hitaasti, kun olet poissa.
+MENE BAARIIN
+VALITSE PÖYTÄSI
+PANOKSET
+TASO {0}
+ISTU ALAS
+VAATII {0}
+Saavuta taso {0} pelataksesi täällä. Olet tasolla {1}.
+KASINO
+PP
+KK
+VVVV
+PÄIVÄ
+KUUKAUSI
+VUOSI
+MILLOIN OLET SYNTYNYT?
+Pelimerkit ovat vain viihdettä varten. Niillä ei ole rahallista arvoa, eikä niitä voi koskaan vaihtaa rahaan tai palkintoihin.
+VALITETTAVASTI ET VOI PELATA
+{0} on vain aikuisille.
+POISTU
+Sulkeutuu {0} kuluttua...
+KERRO MEILLE ITSESTÄSI
+Valitsemme sinulle sopivat isännät, jakajat ja baarihenkilökunnan. Voit muuttaa tätä milloin tahansa asetuksista.
+OLEN MIES
+OLEN NAINEN
+EN HALUA SANOA
+ASTU KASINOLLE
+Henkilökuntasi tänä iltana:
+Sivu {0}/{1}
+KIELI
+AUTOMAATTINEN
+MAA
+Tervetuloa! Panokset, olkaa hyvä.
+Pöydän raja on {0} pyöräytystä kohden.
+Napauta pöytää asettaaksesi pelimerkkejä
+Ei enää panoksia!
+VIHREÄ
+vihreä
+punainen
+musta
+Mikä osuma! Onnittelut!
+Voitto! Voitat {0}.
+{0} {1}. Saat takaisin {2}.
+Panokset, olkaa hyvä.
+Odota, että kuula pysähtyy.
+ASETUKSET
+YLEISET
+GRAFIIKKA
+ÄÄNI
+KOSKETUS
+HIIRI
+OHJAIN
+VÄRINÄ
+18+ • Pelimerkeillä ei ole rahallista arvoa • Fontit: Bebas Neue, Poppins, Noto (SIL OFL) • Rajat: Natural Earth • Hintatiedot: Maailmanpankki
+KASINON HENKILÖKUNTA
+NAISET
+MIEHET
+SEKALAINEN
+MUISTUTUKSET
+Ilmaiset pelimerkit valmiina, ja iltainen tönäisy ennen kuin putki päättyisi.
+TARKISTA UUDELLEEN
+HINTA-ALUE
+Nopein: kasino maalattuna, ei mitään ylimääräistä.
+Kiillotetut lattiat, puu ja kulta heijastavat salia.
+Elokuvamainen: värimäärittely, rakeisuus, hehku, valokeilat, elävä iho.
+Elokuvaobjektiivi: tarkennus seuraa katsettasi, juovat valoissa, pölyä valokeiloissa.
+LAATU
+MATALA
+KESKITASO
+KORKEA
+ULTRA
+TARKKUUS
+Matalampi on pehmeämpi, mutta pysyy viileämpänä ja säästää akkua.
+NÄYTTÖTILA
+KOKO NÄYTTÖ
+IKKUNA
+REUNOJEN PEHMENNYS
+Pehmentää rosoiset reunat kasinolla.
+RUUDUNPÄIVITYS
+{0} FPS
+30 FPS säästää akkua ja pitää vanhemmat puhelimet viileinä.
+V-SYNC
+NÄKÖKENTTÄ
+NÄYTÄ FPS
+PÄÄÄÄNENVOIMAKKUUS
+MUSIIKKI
+ÄÄNITEHOSTEET
+HENKILÖKUNNAN ÄÄNET
+Henkilökunnan puheensorina.
+MYKISTÄ TAUSTALLA
+Hiljentää kasinon, kun olet toisessa ikkunassa.
+KATSEEN HERKKYYS
+Kuinka nopeasti vetäminen kääntää näkymää.
+Kuinka nopeasti hiirellä vetäminen kääntää näkymää.
+KÄÄNNÄ KATSE VASEN / OIKEA
+KÄÄNNÄ KATSE YLÖS / ALAS
+PAINIKEASETTELU
+AUTO
+VAIHDA VALIKKO / NÄKYMÄ
+SAUVAN HERKKYYS
+Kuinka nopeasti oikea sauva kääntää näkymää.
+KÄÄNNÄ SAUVA VASEN / OIKEA
+KÄÄNNÄ SAUVA YLÖS / ALAS
+OHJAIMEN VIHJEET
+Näyttää, mitä kukin painike tekee, kun pelaat ohjaimella.
+VÄRINÄ LAITTEESSA
+PUHELIN
+MOLEMMAT
+Auto: ohjain, kun se on yhdistetty, muuten puhelin.
+PUHELIMEN VÄRINÄ
+PUHELIMEN VOIMAKKUUS
+OHJAIMEN VÄRINÄ
+OHJAIMEN VOIMAKKUUS
+AUTOMAATTINEN ({0})
+{0} avaa asetukset, {1} avaa päivittäiset.
+Ohjainta ei ole yhdistetty.
+Yhdistetty: {0}. Näytetään {1}-painikkeet (oikealla oleva A vahvistaa).
+Yhdistetty: {0}. Näytetään {1}-painikkeet.
+BAARI
+ONNI
+Pelimerkit, onni ja ruoka ovat virtuaalisia esineitä vain viihdekäyttöön: ei rahallista arvoa, ei lunastettavissa rahaksi tai palkinnoiksi.
+Jokaisella kortilla on tuo mahdollisuus tulla sinun eduksesi, kun blackjack-panos on enintään {0} pelimerkkiä (isommat panokset ovat tavallisia eivätkä kuluta käsiä). Alkaa aloittelijan onnen jälkeen; vahvemmat paketit käytetään ensin.
+Salli sijainnin käyttö saadaksesi maasi hinnan
+Ostot eivät ole käytettävissä tässä peliversiossa.
+TESTIKAUPPA (ei oikeaa rahaa)
+energia
++{0} % PELIMERKKEJÄ
+{0} kättä
+voittaa niistä noin {0} %
+Tervetuloa sic bohon! Iso, pieni vai jotain rohkeampaa?
+Pöydän raja on {0} heittoa kohden.
+RAVISTA
+KOLME {0}:STA!
+LUCKY ACE 7s
+KOKONAISPANOS
+VOITTOTAULUKKO
+ONNEA!
+Tarvitset vähintään 10 pelimerkkiä pyöräyttääksesi.
+HAE PELIMERKKEJÄ
+Panosta laskettu siihen, mihin sinulla on varaa.
+MEGAVOITTO!
+ISO VOITTO!
+PALAUTETTU {0}
+EI VOITTOA
+LINJA {0}: {1} × {2} = {3}
+{0} TÄHTEÄ = {1}
+Kirsikka
+Sitruuna
+Appelsiini
+Luumu
+Kello
+Bar
+Seitsemän
+Timantti
+Ässä
+Tähti
+TÄHDET maksavat missä tahansa: 5 = {0}× panos, 4 = {1}× panos, 3 = {2}× panos.
+ÄSSÄ on jokeri: se korvaa kaikki symbolit paitsi tähden.
+Linjavoitot ovat linjapanoksen (kokonaispanos ÷ 10) monikertoja, vasemmalta oikealle ensimmäisestä rullasta alkaen.
+PALAUTUS: {0} % pitkällä aikavälillä. Jokainen pyöräytys on riippumaton ja satunnainen.
+PIDETTY
+Jaa, pidä haluamasi kortit ja vaihda kerran.
+PIDÄ
+VIHJE
+VAIHDA
+Napauta kortteja pitääksesi ne ja vaihda sitten.
+Kävele
+Katso
+Painikkeet
+Asetukset
+Päivittäiset
+Säädä
+Liiku
+Valitse
+Sulje
+Takaisin
+UUPUNUT
+ALOITTELIJAN ONNI {0} %
+KÄSIÄ JÄLJELLÄ {0}
+ONNENPUTKI {0} %
+{0} KÄTTÄ  •  PANOS ENINTÄÄN {1}
+TASO
+Sofia
+Elena
+Mia
+Valentina
+Chloe
+Isabella
+Nadia
+Aria
+Luna
+Camilla
+Aurora
+Bianca
+Serena
+Marco
+Leo
+Adrian
+Lucas
+Viktor
+Daniel
+Gabriel
+Ethan
+Julian
+Rafael
+Mateo
+Nico
+Enzo
+TERVETULOA
+PUHU EMÄNNÄN KANSSA
+Reittiohjeet ja vinkit
+PELIMERKIT  •  BONUKSET
+OSTA PELIMERKKEJÄ
+Kassa
+COCKTAILIT  •  NAPOSTELTAVAT  •  ENERGIA
+RUOKA & JUOMA
+Baari
+BLACKJACK MAKSAA 3:2
+JAKAJAN ON JÄÄTÄVÄ 17:LLÄ
+PELAA BLACKJACKIA
+Pöytä {0}  •  panokset {1}–{2}
+PELAA HOLD'EMIA
+Ultimate Texas Hold'em  •  ante {0}–{1}
+PELAA BACCARATIA
+ISO  •  PIENI  •  KOLMOSET
+PELAA SIC BOA
+Kolme noppaa  •  iso tai pieni maksaa 1:1
+PASS LINE  •  FIELD  •  ODDS
+PELAA CRAPSIA
+Pass Line maksaa 1:1  •  odds maksaa todelliset kertoimet
+PELAA VIDEOPOKERIA
+PELAA KOLIKKOPELIÄ
+Jacks or Better  •  täysi 9/6-taulukko
+LUCKY ACE 7s  •  MAKSAA JOPA 2 500× LINJAPANOKSESI
+JACKS OR BETTER  •  KUNINGASVÄRISUORA MAKSAA 800×
+PANOKSET, OLKAA HYVÄ
+PELAA RULETTIA
+Eurooppalainen pyörä  •  suora numero maksaa 35:1
+TILAA JUOMA
+{0} tuo sen
+{0} avautuu tasolla {1}. Olet tasolla {2}: jokainen pelaamasi kierros lasketaan.
+Tähän pöytään tarvitaan vähintään {0} pelimerkkiä.
+Blackjack-pöydät ovat suoraan edessä. Kävele yhden luo ja istu alas!
+Kolikkopelit ovat oikealla seinällä, videopokeri takaseinällä ja ruletti perällä.
+Hold'em on vasemmassa takanurkassa baarin takana.
+Baccarat on heti vasemmalla sisään tullessa.
+Sic bo on nurkassa kassan takana: kolme noppaa, iso tai pieni.
+Craps-pöytä on oikealla kolikkopelien edessä. Panosta Pass Lineen ja heitä!
+Kassa on tässä oikealla puolellasi, ja baari on vasemman seinän vieressä.
+Väsyttääkö? Välipala baarissa täyttää energiasi heti.
+Napauta mitä tahansa kohtaa lattiassa, niin kävelet sinne. Napauta pöytää istuaksesi.
+Andorra
+Arabiemiirikunnat
+Afganistan
+Antigua ja Barbuda
+Anguilla
+Albania
+Armenia
+Angola
+Antarktis
+Argentiina
+Amerikan Samoa
+Itävalta
+Australia
+Aruba
+Ahvenanmaa
+Azerbaidžan
+Bosnia ja Hertsegovina
+Barbados
+Bangladesh
+Belgia
+Burkina Faso
+Bulgaria
+Bahrain
+Burundi
+Benin
+Saint-Barthélemy
+Bermuda
+Brunei
+Bolivia
+Karibian Alankomaat
+Brasilia
+Bahama
+Bhutan
+Bouvet’nsaari
+Botswana
+Valko-Venäjä
+Belize
+Kanada
+Kookossaaret (Keelingsaaret)
+Kongon demokraattinen tasavalta
+Keski-Afrikan tasavalta
+Kongon tasavalta
+Sveitsi
+Norsunluurannikko
+Cookinsaaret
+Chile
+Kamerun
+Kiina
+Kolumbia
+Costa Rica
+Kuuba
+Kap Verde
+Curaçao
+Joulusaari
+Kypros
+Tšekki
+Saksa
+Djibouti
+Tanska
+Dominica
+Dominikaaninen tasavalta
+Algeria
+Ecuador
+Viro
+Egypti
+Länsi-Sahara
+Eritrea
+Espanja
+Etiopia
+Suomi
+Fidži
+Falklandinsaaret
+Mikronesia
+Färsaaret
+Ranska
+Gabon
+Iso-Britannia
+Grenada
+Georgia
+Ranskan Guayana
+Guernsey
+Ghana
+Gibraltar
+Grönlanti
+Gambia
+Guinea
+Guadeloupe
+Päiväntasaajan Guinea
+Kreikka
+Etelä-Georgia ja Eteläiset Sandwichinsaaret
+Guatemala
+Guam
+Guinea-Bissau
+Guyana
+Hongkong – Kiinan erityishallintoalue
+Heard ja McDonaldinsaaret
+Honduras
+Kroatia
+Haiti
+Unkari
+Indonesia
+Irlanti
+Israel
+Mansaari
+Intia
+Brittiläinen Intian valtameren alue
+Irak
+Iran
+Islanti
+Italia
+Jersey
+Jamaika
+Jordania
+Japani
+Kenia
+Kirgisia
+Kambodža
+Kiribati
+Komorit
+Saint Kitts ja Nevis
+Pohjois-Korea
+Etelä-Korea
+Kuwait
+Caymansaaret
+Kazakstan
+Laos
+Libanon
+Saint Lucia
+Liechtenstein
+Sri Lanka
+Liberia
+Lesotho
+Liettua
+Luxemburg
+Latvia
+Libya
+Marokko
+Monaco
+Moldova
+Montenegro
+Saint-Martin
+Madagaskar
+Marshallinsaaret
+Pohjois-Makedonia
+Mali
+Myanmar (Burma)
+Mongolia
+Macao – Kiinan erityishallintoalue
+Pohjois-Mariaanit
+Martinique
+Mauritania
+Montserrat
+Malta
+Mauritius
+Malediivit
+Malawi
+Meksiko
+Malesia
+Mosambik
+Namibia
+Uusi-Kaledonia
+Niger
+Norfolkinsaari
+Nigeria
+Nicaragua
+Alankomaat
+Norja
+Nepal
+Nauru
+Niue
+Uusi-Seelanti
+Oman
+Panama
+Peru
+Ranskan Polynesia
+Papua-Uusi-Guinea
+Filippiinit
+Pakistan
+Puola
+Saint-Pierre ja Miquelon
+Pitcairn
+Puerto Rico
+Palestiinalaisalue
+Portugali
+Palau
+Paraguay
+Qatar
+Réunion
+Romania
+Serbia
+Venäjä
+Ruanda
+Saudi-Arabia
+Salomonsaaret
+Seychellit
+Sudan
+Ruotsi
+Singapore
+Saint Helena
+Slovenia
+Huippuvuoret ja Jan Mayen
+Slovakia
+Sierra Leone
+San Marino
+Senegal
+Somalia
+Suriname
+Etelä-Sudan
+São Tomé ja Príncipe
+El Salvador
+Sint Maarten
+Syyria
+Eswatini
+Turks- ja Caicossaaret
+Tšad
+Ranskan eteläiset ja antarktiset alueet
+Togo
+Thaimaa
+Tadžikistan
+Tokelau
+Itä-Timor
+Turkmenistan
+Tunisia
+Tonga
+Turkki
+Trinidad ja Tobago
+Tuvalu
+Taiwan
+Tansania
+Ukraina
+Uganda
+Yhdysvaltain erillissaaret
+Yhdysvallat
+Uruguay
+Uzbekistan
+Vatikaani
+Saint Vincent ja Grenadiinit
+Venezuela
+Brittiläiset Neitsytsaaret
+Yhdysvaltain Neitsytsaaret
+Vietnam
+Vanuatu
+Wallis ja Futuna
+Samoa
+Kosovo
+Jemen
+Mayotte
+Etelä-Afrikka
+Sambia
+Zimbabwe
+Englanti
+Afrikaans
+Amhara
+Arabia
+Azeri
+Valkovenäjä
+Bulgaria
+Bengali
+Bosnia
+Katalaani
+Tšekki
+Tanska
+Saksa
+Kreikka
+Espanja
+Viro
+Baski
+Persia
+Suomi
+Filipino
+Ranska
+Iiri
+Galicia
+Gudžarati
+Hausa
+Heprea
+Hindi
+Kroatia
+Ranska (Haiti)
+Unkari
+Armenia
+Indonesia
+Igbo
+Islanti
+Italia
+Japani
+Georgia
+Kazakki
+Khmer
+Kannada
+Korea
+Kirgiisi
+Luxemburg
+Lao
+Liettua
+Latvia
+Malagassi
+Makedonia
+Malajalam
+Mongoli
+Marathi
+Malaiji
+Malta
+Burma
+Norjan bokmål
+Nepali
+Hollanti
+Pandžabi
+Puola
+Paštu
+Portugali (Brasilia)
+Portugali (Portugali)
+Retoromaani
+Romania
+Venäjä
+Ruanda
+Sinhala
+Slovakki
+Sloveeni
+Somali
+Albania
+Serbia
+Ruotsi
+Swahili
+Tamili
+Telugu
+Tadžikki
+Thai
+Turkmeeni
+Turkki
+Ukraina
+Urdu
+Uzbekki
+Vietnam
+Xhosa
+Joruba
+Kiina (yksinkertaistettu)
+Kiina (perinteinen)
+Zulu
+Su
+Ma
+Ti
+Ke
+To
+Pe
+La

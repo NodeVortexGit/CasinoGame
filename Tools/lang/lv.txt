@@ -1,0 +1,659 @@
+# Latvian (lv). Machine translation by Claude.
+bd99124	Sauja žetonu
+c7c6dc8	Žetonu kaudzīte
+7512cfd	Žetonu paplāte
+fa36588	Žetonu statīvs
+7994f65	POPULĀRĀKAIS
+49dcc21	Žetonu glabātava
+0725283	Lielā spēlētāja seifs
+7658705	LABĀKĀ VĒRTĪBA
+2f23432	Gāzēts ūdens
+418b820	Espresso
+97b463c	Enerģijas dzēriens
+43bbfda	Kluba sendvičs
+bce7a75	Burgeru maltīte
+2832a8d	Steika vakariņas
+dee8ee8	PILNA UZPILDE
+a7c2255	Veiksmes sērija
+7919163	Karstā sērija
+74fdfc2	VISVAIRĀK VEIKSMES
+d79cd12	Bronzas galds
+2a8ff35	Sudraba galds
+51877b2	Zelta galds
+9282152	Dimanta galds
+0de8764	Ievadiet derīgu gadu.
+d4e14c9	Ievadiet derīgu mēnesi (1-12).
+addd156	Ievadiet derīgu dienu.
+d78a4f4	Šis datums ir nākotnē.
+787c7c6	Laipni lūgts pie mana galda! Gatavs spēlēt?
+8b0f93e	Prieks tevi redzēt. Apsēdies!
+8338021	Sveiks! Kārtis ir svaigas, un es arī.
+75750f9	Laipni lūgts! Padarīsim šo vakaru jauku.
+95aac36	Liec likmi, kad esi gatavs.
+8bc63c1	Žetoni uz galda, un paskatīsimies kārtis.
+984b7f3	Uz ko spēlējam?
+b74c769	Oho, liela likme! Man patīk tavs stils.
+77fc1fc	Lūk, tā ir likme. Aiziet!
+7779a5b	Šovakar esi drosmīgs, vai ne?
+479ff82	Viss?! Man sirds dauzās!
+7fb527c	Viss uz vienu roku. Bezbailīgi!
+7bf0c5d	Blekdžeks! Neticami!
+123f2d5	Divdesmit viens, vienkārši tā!
+cd850a7	Blekdžeks! Kārtis tevi šovakar dievina.
+55f50ee	Lieliski nospēlēts!
+79594b1	Uzvara! Labi padarīts.
+0df710e	Tev veicas!
+20a0c1e	Šī ir tava.
+a45fe61	Kāds laimests! Visi skatās uz šo galdu!
+54d3982	Milzīgi! Šovakar tu deg!
+8da8f1e	Tik tuvu! Nākamā ir tava.
+5d921e1	Šoreiz kazino paveicās.
+f923af7	Nekas, nāk jauna roka.
+853e7ca	Ai, viena kārts par daudz.
+daec44f	Pārsniegts! Gadās arī labākajiem.
+11ceaef	Neizšķirts. Neviens nezaudē!
+911a289	Neizšķirts. Tavi žetoni ir drošībā.
+a89d9d9	Es pārsniedzu! Tev paveicās.
+f76c8fd	Man par daudz. Tu uzvari!
+63f8d0b	Blekdžeks kazino, piedod!
+465c8bf	Dīlerim blekdžeks. Neveiksme.
+6752f40	Man rādās dūzis. Apdrošināšana?
+1920c5a	Dalām! Divas iespējas uzvarēt.
+9f621da	Dubultojam. Drosmīgs gājiens!
+59da99d	Dubulto! Nāk viena kārts.
+0b48017	Jauna kurpe, jaucu!
+3fa7769	Beidzas? Kase tevi papildinās.
+4e5694b	Žetonu paliek mazāk. Gribi vēl?
+d41f057	Žetoni beigušies! Dodies uz kasi vai paņem bezmaksas žetonus.
+15d90d3	Tava kaudzīte ir tukša. Kase ir tieši aiz tevis.
+a9eaae1	Tu izskaties izsmelts! Uzkod kaut ko bārā.
+5cd9e8b	Spēki izsīkuši? Bārs par tevi parūpēsies.
+37b9672	Nesteidzies.
+c64df8c	Kad vien esi gatavs!
+b8dfc0a	Nakts vēl ir jauna.
+8748560	Iesācēja veiksme ir tavā pusē!
+e3def50	Kava šovakar ir tavā pusē!
+506ade9	Iesācēja veiksme ir beigusies. No šejienes spēle ir godīga!
+953d8b7	Laipni lūgts kazino! Tava vieta gaida.
+9fd9844	Labvakar! Galdi šovakar ir karsti.
+2d42aaf	Laipni lūgts atpakaļ! Jūti veiksmi?
+311bae7	Pieskaries galdam, lai sāktu spēlēt!
+3318099	Vajag vairāk žetonu? Esi pie pareizā lodziņa.
+c5b3787	Lielākas kaudzes, lielāki bonusi!
+21ae665	Izsalcis? Izvēlies jebko no ēdienkartes.
+8b83cc0	Uzkoda uztur enerģiju!
+35f4b0e	Laipni lūgts pie mana galda!
+8f90245	Te tu esi! Uzreiz kļuva gaišāks.
+909e4d6	Jūties kā mājās. Šovakar viss ir par tevi.
+2477f78	Dievinu šo smaidu. Veiksmīgs vakars?
+6ac2120	Atslābsti, tu esi labās rokās.
+089f04b	Ei, tu! Cerēju, ka iegriezīsies pie mana lodziņa.
+3f2c3c9	Vienmēr patīkami redzēt draudzīgu seju.
+3021db8	Paskat, kas te! Jautri?
+769980b	Sveiks, skaistuli!
+5361ffd	Man šovakar patīk tavs stils.
+56b40be	Ei, prieks tevi atkal redzēt!
+3316019	Labs vakars? Tu to esi pelnījis.
+28283fd	Uzmanies, es varētu sākt tev just līdzi.
+109ac94	Mans mīļākais spēlētājs ir atpakaļ!
+acba0e6	Apsēdies pie manis, es tev izdalīšu ko jauku.
+eb5ff2a	Ar tevi pie šī galda ir daudz jautrāk.
+772a73c	Jau ej prom? Nakts vēl ir jauna!
+178301a	Nu taču, vēl tikai viena roka. Man ir laba nojauta!
+816036a	Tu nevari mani tagad pamest, mēs tikko sākām!
+5c9b7e2	Pēdējā iespēja! Nākamā roka var būt tā lielā...
+20ce7b6	Labi, labi. Turēšu tavu vietu siltu. Apsoli, ka atgriezīsies?
+51d1aeb	Vēl nav sērijas? Nospēlē šodien raundus ({2}), un es sākšu skaitīt.
+10b25d9	Jauns sākums! Raundi ({2}), un tava liesma iedegsies.
+0c10711	Es vedu nelielu sarakstu ar tiem, kas nāk katru dienu. Tevis tur nav... pagaidām.
+5e7c431	{1}. diena tevi gaida. Atlikuši raundi: {2}!
+b268d84	Dienas pēc kārtas: {0}... tu taču tagad neapstāsies?
+b32ae79	Tava liesma šodien izskatās mazliet atdzisusi. Raundi ({2}) to sasildīs.
+a6f3fbd	Esmu skaitījusi: dienas {0}. Lai ir {1}.
+1dc5c97	Nedomā, ka nepamanīju. Raundi, lai saglabātu sēriju: {2}!
+807b82c	Dienas pēc kārtas: {0}? Sāku domāt, ka tev te patīk.
+6391923	Tava sērija šodienai ir drošībā. Tagad tu vienkārši lielies.
+3bfbbf7	{0}. diena padarīta. Rīt tajā pašā laikā?
+ca2a2c1	Dienas: {0}! Laiks tev rezervēt vietu.
+54f991f	Lūk, tā ir: tavas sērijas pirmā diena! Atgriezies rīt, un būs divas.
+a1e7ab0	Vesela nedēļa pēc kārtas! Esmu patiesi pārsteigta.
+96cee95	Trīsdesmit dienas! Tu praktiski te strādā.
+a9834cd	Simts dienas. Es visiem stāstu par tevi.
+071317f	Jau {0} dienas pēc kārtas! Tikai paskaties uz sevi.
+0964027	Sērija izglābta: {0}. diena! Zināju, ka tev izdosies.
+c7f2a1f	{0}. diena! Saderam, ka līdz {1}. nenonāksi.
+a6ce2e2	Dienas: {0}... labi, lielībniek.
+3ab91d0	Nospēlē 10 blekdžeka rokas
+38e863d	Uzvari 5 blekdžeka rokās
+6ac41cc	Iegūsti blekdžeku
+74cf149	Laimē 500 žetonu blekdžekā
+66440e1	Pagriez spēļu automātu 20 reizes
+9205056	Laimē 5 griezienus spēļu automātā
+cd60e0c	Laimē 5× likmi spēļu automātā
+6f7ac28	Nospēlē 5 ruletes raundus
+6978cc0	Laimē 3 ruletes griezienus
+c8ebbcc	Trāpi skaitlī ar tiešo likmi
+8a57c54	GPS atrašanās vieta
+4919635	mobilais tīkls
+527b094	interneta savienojums
+f49ae82	ierīces iestatījumi
+60827d3	testa valsts
+0b2f8d8	nav pārbaudīts (standarta cena)
+50d8b4a	nezināms
+4fb7a4e	1. 12
+647a0eb	2. 12
+a934745	3. 12
+3de80ab	2 pret 1
+bb4e68e	SARKANS
+a9414ab	MELNS
+710756a	NEPĀRA
+70ca748	PĀRA
+4d60d6c	GODĪGAS CENAS TAVAI VALSTIJ
+1674d95	Veikala cenas ir pielāgotas tavas valsts ekonomikai, lai spēlētāji visur maksātu godīgu cenu.
+4ec27ee	Lai noteiktu tavu valsti, mēs vienreiz pārbaudām tavu aptuveno atrašanās vietu. Tā tiek saskaņota ar valsti tavā ierīcē un nekur netiek sūtīta. Ja atteiksies, būs spēkā standarta cenas.
+ff3dbb4	TURPINĀT
+43a6a8d	Pamest kazino?
+ad209a0	Tavi žetoni un progress ir saglabāti.
+5860c84	IZIET
+f1e0808	PALIKT
+5b38c49	Atbloķēts: {0}
+15ae7ac	Sērijas sasaldēšana vakar izglāba tavu sēriju (dienas: {0}).
+d375ffb	Sasaldēšanas ({0}) izglāba tavu sēriju (dienas: {1}).
+fd8ab39	Tava sērija (dienas: {0}) beidzās. Nospēlē šodien raundus ({1}), lai sāktu jaunu!
+7fa2db4	MISIJA IZPILDĪTA
+255325c	+{0} žetoni
+d205ece	VISAS MISIJAS IZPILDĪTAS!
+4acbed2	Dienas bonuss +{0} žetoni. Jaunas misijas rīt.
+ab2ceb3	{0}. LĪMENIS!
+86e2afb	Pagrieziena punkts! +{0} žetoni
+9ae18ad	Atgriezies rīt, lai turpinātu
+7af7e7c	+1 sērijas sasaldēšana
+b5b9597	SĒRIJA: {0} DIENAS!
+62ec60d	Pirkumi šajā versijā nav pieejami.
+1f9786c	Pirkums neizdevās. Nauda netika iekasēta.
+3e4c600	Pievienoti +{0} žetoni!
+1998202	{0}: roku {1} ar {2}% veiksmi, pēc iesācēja veiksmes
+728ada5	{0}: roku {1} ar {2}% veiksmi!
+af5e232	{0}: +{1}% enerģijas
+001a53b	Nav pieejams šajā ierīcē
+2607004	Video šajā tīklā nevar ielādēt
+569c30d	Atgriezies rīt
+ecae6ee	Gatavs pēc {0} s
+9964820	+{0} žetoni (šodien vēl {1})
+e1bd888	+{0} bezmaksas žetoni!
+619bd5d	+1 sērijas sasaldēšana!
+f70d794	Pašlaik nav pieejama neviena video. Mēģini vēlreiz pēc brīža.
+264d71b	BRONZA
+462e839	SUDRABS
+81ff70a	ZELTS
+50e122e	DIMANTS
+57f5f5e	Izvēlne
+69bd4ef	Skats
+dbfe736	Krustiņš
+1cc7820	Aplis
+82810cb	Kvadrāts
+73d3ae2	Trīsstūris
+a42f608	Pārbaudām tavu reģionu...
+1db422c	Nav pārbaudīts ({0}): standarta cenas
+9bc0807	{0} ({1}): cenas {2}
+ae8c393	Atgādinājumi
+aefd59b	Bezmaksas žetoni gatavi un sērijas atgādinājumi
+3125838	Tavi bezmaksas žetoni ir gatavi
+233027b	Lucky Ace tevi gaida {0} žetoni.
+b93976b	Saglabā savu sēriju (dienas: {0})
+bd68038	Nospēlē šodien raundus ({0}), lai pusnaktī tā netiktu atiestatīta.
+0acfb6f	Laipni lūgts! Šovakar iesācēja veiksme ir tavā pusē. Liec likmi!
+d589374	BLEKDŽEKS IZMAKSĀ 3 PRET 2   •   DĪLERIS APSTĀJAS PIE VISIEM 17   •   APDROŠINĀŠANA IZMAKSĀ 2 PRET 1
+b700b02	LIKME
+16ec74f	NOTĪRĪT
+928226b	ATKĀRTOT
+55591e0	DALĪT
+395ed46	VĒL
+43e7971	PIETIEK
+097274c	DUBULTOT
+6df63ca	SADALĪT
+3e40f46	APDROŠINĀT
+db82d3a	NĒ, PALDIES
+28d6be8	LIKME {0}+
+9587b70	Sasniegts galda maksimums
+b9ac47d	Nepietiek žetonu
+d237ade	Dīlerim rādās dūzis. Apdrošināt par {0}?
+bf07c14	Apdrošināšana izmaksā {0}
+b6e674a	Dīlerim nav blekdžeka. Apdrošināšana zaudēta.
+0cc9679	PĀRSNIEGTS
+82ce89d	DĪLERIS PĀRSNIEDZA
+6e1e1a4	BLEKDŽEKS!
+662fae5	UZVARA
+8918d00	NEIZŠĶIRTS
+8df6be4	ZAUDĒJUMS
+9e69668	Iesācēja veiksme ir beigusies. Tava Veiksmes sērija sākas tagad.
+822f4f4	Iesācēja veiksme ir beigusies. No šī brīža standarta blekdžeks.
+b0377c7	Tava Veiksmes sērija ir beigusies. Atpakaļ pie standarta blekdžeka.
+824ad7c	ŽETONI BEIGUŠIES
+ff1822d	Noskaties īsu video un saņem {0} bezmaksas žetonus vai dodies uz kasi.
+e4cac2f	Dodies uz kasi, lai papildinātu žetonus.
+c3df3e7	BEZMAKSAS ŽETONI
+b169d33	KASE
+4d38f66	VĒLĀK
+cb8171b	Vispirms pabeidz šo roku.
+3aa6941	“{0}”
+6f846f4	VĒL VIENA ROKA
+a79d4f2	AIZIET
+693f697	IESĀCĒJA VEIKSME
+641ad58	VEIKSMES SĒRIJA
+fc45931	Sveiciena bonuss jaunajiem spēlētājiem: tavās pirmajās <b>{0} rokās</b> dīlera kurpe ir sakārtota tev par labu, tāpēc tu uzvarēsi gandrīz katrā rokā.
+576c683	Nākamajās <b>{0} rokās</b> priekšrocība pakāpeniski izzūd, un pēc tam pie katra galda ir standarta, godīgs blekdžeks no sajauktas 6 kavu kurpes (blekdžeks izmaksā 3 pret 2, dīleris apstājas pie visiem 17).
+7fb55b3	Priekšrocība tagad: <b><color=#7CFC9A>{0}%</color></b>   Atlikušas rokas: <b>{1}</b>
+d4f8fe0	Nākamajās <b>{0} blekdžeka rokās</b> ar likmi līdz <b>{1} žetoniem</b> katrai kārtij ir <b>{2}%</b> iespēja tikt izdalītai tev par labu (tāda pati priekšrocība kā iesācēja veiksmei).
+0a5fc06	Ar labu spēli tas nozīmē uzvaru apmēram <b>{0}%</b> roku, salīdzinot ar aptuveni {1}% standarta blekdžekā. Lielākas likmes ir standarta blekdžeks un neizmanto rokas. Kad rokas beidzas, pie katra galda atkal ir standarta, godīgs blekdžeks.
+c3a8946	SAPRATU
+8dfc44a	GRIBI ATGŪT VEIKSMI?
+272a97f	Iesācēja veiksme ir beigusies: no šī brīža pie katra galda ir standarta, godīgs blekdžeks. Veiksmes sērija uz laiku atgriež priekšrocību.
+06b7689	IKDIENAS
+4035996	IKDIENAS SĒRIJA
+fbe7f18	DIENAS PĒC KĀRTAS
+7a46866	ŠODIEN
+4753707	SKATĪTIES REKLĀMU
+6bb45f3	PIRKT
+62a945f	SĒRIJAS SASALDĒŠANA
+ba5b1de	Sasaldēšana saglabā tavu sēriju dienā, kad tu nespēlē. Vari turēt līdz {0}.\n\nPirkt vienu par {1} žetoniem?
+38c6090	Sērijas sasaldēšana gatava.
+8fe681f	Nepietiek žetonu sasaldēšanai.
+1507c40	ATCELT
+457d20f	IKDIENAS GRIEZIENS
+9623247	GRIEZT
+ac5ef96	Iespējas:
+1200f20	{0}%
+003a689	Tu laimēji {0} žetonus!
+f757137	ŠODIENAS MISIJAS
+7b7f9e2	Rekords: {0} dienas
+9554fea	Spēlē katru dienu, lai veidotu sēriju
+5c8dbb8	Šodienas mērķis sasniegts! Tiekamies rīt.
+1aeb9a1	Šodien: {0} / {1} raundi (jebkura spēle)
+bb92856	Sērijas sasaldēšanas: {0} / {1}
+0ec6216	Izglāb sēriju dienā, kuru izlaid. +1 ik pēc 7 dienām.
+cc0a745	PILNS
+419a962	NAV VIDEO
+2dabd99	REKLĀMA DRĪZUMĀ
+f12e166	Sērijas bonuss: balvas ×{0}
+80948a4	Viens bezmaksas grieziens katru dienu
+596b5e0	NĀKAMAIS  {0}
+7f7e7fc	Viss izdarīts! Bonuss saņemts.
+03a0f2a	Jaunas misijas pusnaktī.
+4784874	Izpildi visas trīs: +{0} bonusa žetoni
+42c5cda	SPĒLĒT
+337211e	SPĒLES
+8f5e3bd	Velc kreisajā pusē, lai ietu  •  Velc labajā pusē, lai skatītos  •  Pieskaries, lai dotos
+d00d221	Tikai 18+  •  Žetoni ir izklaidei: bez naudas vērtības, nekad nav apmaināmi pret naudu vai balvām
+b60f038	Atveram durvis...
+2e5bcce	Laipni lūgts! Tavi sveiciena žetoni ({0}) ir gatavi. Galdi ir tieši priekšā!
+7ef7ae3	+{0} bezmaksas žetoni! Vēl pēc {1} st.
+5d82af9	Bezmaksas žetoni atjaunojas ik pēc {0} st. Nākamie pēc {1}.
+5469985	{0} st. {1} min
+bb65beb	{0} min {1} s
+ac8ba93	SAGLABĀ SĒRIJU
+560bfa1	Gribi atgādinājumu vakaros, kad vēl neesi spēlējis, un kad bezmaksas žetoni ir gatavi? Nekad vairāk par to, un to var izslēgt Iestatījumos.
+b724a40	ATGĀDINI MAN
+9e0c898	+{0} žetoni gatavi!
+1207e28	Noskaties video: {0}
+db3655b	Nākamie bezmaksas žetoni pēc {0}
+4ca9be5	BLEKDŽEKS
+9a612b1	4 galdi  •  izmaksā 3 pret 2
+1194439	SPĒĻU AUTOMĀTI
+6555152	Lucky Ace 7s  •  10 līnijas
+255b1a1	RULETE
+6df1551	Eiropas ar vienu nulli
+379b146	TU ESI IZSMELTS
+340e5c4	Tava enerģija ir beigusies. Paņem kaut ko bārā, lai spēlētu tālāk, vai atgriezies vēlāk: enerģija lēnām atjaunojas, kamēr tevis nav.
+a517396	UZ BĀRU
+7c7227f	IZVĒLIES GALDU
+c963de3	LIKMES
+c433657	{0}. LĪMENIS
+083ac39	APSĒSTIES
+9698219	VAJAG {0}
+34b737e	Sasniedz {0}. līmeni, lai spēlētu šeit. Tev ir {1}. līmenis.
+6cc19a9	KAZINO
+6e946b7	DD
+4a3a892	MM
+2857a6a	GGGG
+9d1fece	DIENA
+d3bb0c3	MĒNESIS
+c0f0cad	GADS
+43985ff	KAD TU PIEDZIMI?
+293fda2	Žetoni ir paredzēti tikai izklaidei. Tiem nav naudas vērtības, un tos nekad nevar apmainīt pret naudu vai balvām.
+3e9128d	PIEDOD, TU NEVARI SPĒLĒT
+b5e8985	{0} ir pieejams tikai pieaugušajiem.
+bb1b380	IZIET
+d9f9432	Aizveras pēc {0}...
+c6e102d	PASTĀSTI PAR SEVI
+31120ce	Atbilstoši izvēlēsimies saimniekus, dīlerus un bāra personālu. To var mainīt jebkurā laikā Iestatījumos.
+49e8df9	ESMU VĪRIETIS
+85abe81	ESMU SIEVIETE
+76cc98c	NEGRIBU TEIKT
+964daf7	IEIET KAZINO
+2efb69a	Tavs personāls šovakar:
+c10e749	{0}. lapa no {1}
+2a3ffd9	VALODA
+c673535	AUTOMĀTISKI
+d1245d2	VALSTS
+15fc12b	Laipni lūdzam! Lūdzu, likmes.
+531fb3f	Šai likmei nepietiek žetonu.
+380eb75	Galda limits ir {0} par griezienu.
+55ad592	ATSAUKT
+8f191f9	KOPĒJĀ LIKME  {0}
+82e1181	Pieskaries laukumam, lai liktu žetonus
+bb19a75	Likmes vairs netiek pieņemtas!
+5becf07	ZAĻŠ
+bc74f4f	zaļš
+7898801	sarkans
+466bc8c	melns
+f2edfbf	Kāds trāpījums! Apsveicu!
+b252caf	Uzvara! Tu laimē {0}.
+8587d14	LAIMESTS  +{0}
+b862a2b	{0} {1}. Tev atgriežas {2}.
+a306d0a	ATGRIEZTS  {0}
+af3134d	Šoreiz bez laimesta
+84122e7	Lūdzu, likmes.
+52205f4	Pagaidi, līdz bumbiņa apstājas.
+c4b9243	IESTATĪJUMI
+44d863e	VISPĀRĪGI
+2bbca79	GRAFIKA
+955c8b4	SKAŅA
+c701f5f	SKĀRIENS
+efcc94a	PELE
+8433628	KONTROLIERIS
+d868a50	VIBRĀCIJA
+f8692c7	18+ • Žetoniem nav naudas vērtības • Fonti: Bebas Neue, Poppins, Noto (SIL OFL) • Robežas: Natural Earth • Cenu dati: Pasaules Banka
+da46447	KAZINO PERSONĀLS
+594b81e	SIEVIETES
+69d3313	VĪRIEŠI
+b4325d3	JAUKTS
+414594a	ATGĀDINĀJUMI
+6cac87b	Bezmaksas žetoni gatavi un vakara atgādinājums, pirms sērija beigtos.
+e43b2e0	PĀRBAUDĪT VĒLREIZ
+7c9e8f9	CENU REĢIONS
+495c70e	Ātrākais: kazino, kā uzgleznots, nekā lieka.
+b052523	Pulētas grīdas, koks un zelts atspoguļo zāli.
+6bd30d7	Kino izskats: krāsu korekcija, graudainums, mirdzums, gaismas stari, dzīva āda.
+21b6e1d	Kino objektīvs: asums seko tavam skatienam, svītras uz gaismām, putekļi staros.
+fb7c2e8	KVALITĀTE
+d8b9679	ZEMA
+f68525a	VIDĒJA
+d77d0b2	AUGSTA
+9289eee	ULTRA
+637e313	IZŠĶIRTSPĒJA
+2e7b141	Zemāka ir mīkstāka, bet tālrunis mazāk karst un taupa akumulatoru.
+93dcfb5	ATTĒLOŠANAS REŽĪMS
+3c6eac3	PILNEKRĀNS
+f3690b1	LOGĀ
+cfa6200	MALU NOGLUDINĀŠANA
+ad50489	IZSL.
+f178804	Nogludina robainās malas kazino.
+4266288	KADRU NOMAIŅA
+d031ab0	{0} FPS
+a2b7514	30 FPS taupa akumulatoru un neļauj vecākiem tālruņiem sakarst.
+0babcee	V-SYNC
+6656e25	REDZESLAUKS
+244aadb	RĀDĪT FPS
+41c8f6e	GALVENAIS SKAĻUMS
+bf3af1f	MŪZIKA
+bd80907	SKAŅAS EFEKTI
+d098036	PERSONĀLA BALSIS
+93c6484	Personāla murmināšana sarunājoties.
+16bf71a	IZSLĒGT SKAŅU FONĀ
+85b2ee7	Apklusina kazino, kamēr esi citā logā.
+8e3634e	SKATA JUTĪBA
+880dc05	Cik ātri vilkšana pagriež skatu.
+750c60f	Cik ātri vilkšana ar peli pagriež skatu.
+8b988eb	APGRIEZT SKATU PA KREISI / PA LABI
+cacf0cc	APGRIEZT SKATU AUGŠUP / LEJUP
+2d13b68	POGU IZKĀRTOJUMS
+50c3f10	AUTO
+b471e5c	SAMAINĪT IZVĒLNI / SKATU
+d9a59f1	SVIRAS JUTĪBA
+ec14343	Cik ātri labā svira pagriež skatu.
+a79af23	APGRIEZT SVIRU PA KREISI / PA LABI
+acfc66e	APGRIEZT SVIRU AUGŠUP / LEJUP
+56bb461	KONTROLIERA PADOMI
+51cf49a	Parāda, ko dara katra poga, kad spēlē ar kontrolieri.
+dff7431	VIBRĒT
+34139ab	TĀLRUNIS
+15ee988	ABI
+465cc91	Auto: kontrolieris, kamēr tas pievienots, citādi tālrunis.
+f6fed84	TĀLRUŅA VIBRĀCIJA
+8e97fa7	TĀLRUŅA STIPRUMS
+486ba2d	KONTROLIERA VIBRĀCIJA
+8008889	KONTROLIERA STIPRUMS
+ea9233e	AUTOMĀTISKI ({0})
+167dda7	{0} atver Iestatījumus, {1} atver Ikdienas.
+29a4ef9	Nav pievienots neviens kontrolieris.
+558ecd2	Pievienots: {0}. Tiek rādītas {1} pogas (A labajā pusē apstiprina).
+d6eee9e	Pievienots: {0}. Tiek rādītas {1} pogas.
+78525d5	BĀRS
+099db9f	VEIKSME
+b4a8b06	Žetoni, veiksme un ēdiens ir virtuāli priekšmeti tikai izklaidei: bez naudas vērtības, nav apmaināmi pret naudu vai balvām.
+e2a28c9	Katrai kārtij ir šāda iespēja tikt izdalītai tev par labu, ja blekdžeka likme ir līdz {0} žetoniem (lielākas likmes ir standarta un neizmanto rokas). Sākas pēc iesācēja veiksmes; stiprākās paketes tiek izmantotas pirmās.
+04fbc6d	Atļauj piekļuvi atrašanās vietai, lai saņemtu savas valsts cenu
+2ae87fc	Pirkumi šajā spēles versijā nav pieejami.
+8239a84	TESTA VEIKALS (bez īstas naudas)
+173d916	enerģija
+b2c67eb	+{0}% ŽETONU
+58e8011	roku: {0}
+ce80712	uzvar apmēram {0}% no tām
+c69e8ee	LUCKY ACE 7s
+fc99288	KOPĒJĀ LIKME
+c1c00cd	IZMAKSU TABULA
+3930abd	VEIKSMI!
+67b6973	Griešanai vajag vismaz 10 žetonus.
+5aa1edb	SAŅEMT ŽETONUS
+f5a1812	Likme samazināta līdz summai, ko vari segt.
+5c63f61	MEGA LAIMESTS!
+652544f	LIELS LAIMESTS!
+91bc41c	ATGRIEZTS {0}
+3714283	BEZ LAIMESTA
+33c0faa	LĪNIJA {0}: {1} × {2} = {3}
+9f59e6e	ZVAIGZNES ×{0} = {1}
+d6eee90	Ķirsis
+4459b79	Citrons
+09fb6aa	Apelsīns
+cb92e50	Plūme
+d419866	Zvaniņš
+e496fd2	Bar
+63abb56	Septiņnieks
+b3850e0	Dimants
+fc2b5a9	Dūzis
+85a7de6	Zvaigzne
+c31b035	ZVAIGZNES izmaksā jebkur: 5 = {0}× likme, 4 = {1}× likme, 3 = {2}× likme.
+f97509c	DŪZIS ir aizstājējs: tas aizstāj jebkuru simbolu, izņemot zvaigzni.
+3e8bc69	Līniju laimesti ir līnijas likmes (kopējā likme ÷ 10) daudzkārtņi, no kreisās uz labo no pirmā ruļļa.
+523f8dc	ATMAKSA: {0}% ilgtermiņā. Katrs grieziens ir neatkarīgs un nejaušs.
+e0c705d	Iet
+b8db515	Skatīties
+503d46d	Pogas
+c7f73bb	Iestatījumi
+728298d	Ikdienas
+ab166bd	Regulēt
+76cdb95	Kustēties
+8598222	Izvēlēties
+bbfa773	Aizvērt
+b52b36b	Atpakaļ
+ab37588	IZSMELTS
+9b11a09	IESĀCĒJA VEIKSME {0}%
+0c94e98	ATLIKUŠAS ROKAS: {0}
+51ed273	VEIKSMES SĒRIJA {0}%
+3401470	ROKAS: {0}  •  LIKMES LĪDZ {1}
+f481cc6	LĪMENIS
+dc81691	Sofija
+4d9936f	Elena
+3aa0674	Mija
+b724114	Valentīna
+34d3f7f	Hloja
+0fc9dd6	Izabella
+bbd3e35	Nadja
+eac677d	Arija
+baaf10f	Luna
+8641381	Kamila
+bf38aa5	Marko
+cfaf50a	Leo
+5815f22	Adriāns
+cbede02	Lūkass
+f0b9995	Viktors
+7b37259	Daniels
+aaac72d	Gabriels
+2f8f37e	Itans
+a01126e	Džulians
+3e05c90	Rafaels
+0139615	LAIPNI LŪDZAM
+daad514	RUNĀT AR SAIMNIECI
+bcefb10	Norādes un padomi
+c28e782	ŽETONI  •  BONUSI
+0c69ec4	PIRKT ŽETONUS
+78c0727	Kase
+1737fab	KOKTEIĻI  •  UZKODAS  •  ENERĢIJA
+9e008ae	ĒDIENI UN DZĒRIENI
+f7881e8	Bārs
+0e979ed	BLEKDŽEKS IZMAKSĀ 3 PRET 2
+eea0d12	DĪLERIM JĀAPSTĀJAS PIE 17
+4db37bf	SPĒLĒT BLEKDŽEKU
+0ffdd99	{0} galds  •  likmes no {1} līdz {2}
+b4f938b	SPĒLĒT AUTOMĀTUS
+6b7caea	LŪDZU, LIKMES
+26b1e39	SPĒLĒT RULETI
+910a1ed	Eiropas rats  •  tiešā likme izmaksā 35 pret 1
+7ef0215	PASŪTI DZĒRIENU
+fe38d73	Atnesīs: {0}
+f7b6306	{0} atveras {1}. līmenī. Tev ir {2}. līmenis: skaitās katrs nospēlētais raunds.
+d85f1ad	Pie šī galda vajag vismaz {0} žetonus.
+cbfe016	Blekdžeka galdi ir tieši priekšā. Pieej pie kāda un apsēdies!
+64d9faf	Kase ir tepat pa labi no tevis, un bārs ir gar kreiso sienu.
+e4c6e0b	Noguris? Uzkoda bārā uzreiz papildina enerģiju.
+d5ab68f	Pieskaries jebkur uz grīdas, un tu tur aiziesi. Pieskaries galdam, lai apsēstos.
+cc21f74	MAZS
+dc01dec	LIELS
+5fb90b0	JEBKURŠ TRIJNIEKS
+9c716f1	Hold'em galds
+3b6ab84	Nospēlē 8 hold'em dalījumus
+6c617ca	Uzvari 4 hold'em dalījumos
+44ce500	Nospēlē 10 bakara dalījumus
+b90cff7	Uzvari 5 bakara dalījumos
+3e4dfa9	Nospēlē 15 videopokera dalījumus
+854fe20	Nospēlē 8 sic bo kārtas
+dfddac1	Uzvari 4 sic bo kārtās
+2973ea7	Met kauliņus 15 reizes kreps spēlē
+737be17	Uzvari 4 metienos kreps spēlē
+4dbb81d	Savāc mastu vai labāk videopokerā
+19aa07b	Karaliskā sērija
+cf83e72	Mastu sērija
+d27ba03	Četrinieks
+dbe8641	Pilna māja
+7c936d7	Masts
+2501c65	Sērija
+ca1a0d4	Trijnieks
+6876b40	Divi pāri
+2537f88	Pāris
+b4b323e	Augstākā kārts
+f70bfdc	Kalpi vai labāk
+98fd5af	BAKARA
+df66d5a	Laipni lūdzam bakarā! Spēlētājs, Baņķieris vai Neizšķirts?
+5055efd	SPĒLĒTĀJS
+3f90696	NEIZŠĶIRTS
+0d75f63	BAŅĶIERIS
+0ebd5a4	PĒDĒJIE REZULTĀTI
+511993d	S
+ae4f281	B
+c2c53d6	N
+781246e	Izvēlies žetonu un pieskaries Spēlētājs, Baņķieris vai Neizšķirts
+11023a0	NEIZŠĶIRTS  {0}
+503d5f1	UZVAR SPĒLĒTĀJS  {0} PRET {1}
+0eb4be5	UZVAR BAŅĶIERIS  {0} PRET {1}
+7859af1	KREPS
+4083dbd	Laipni lūdzam kreps spēlē! Liec likmi uz Pass Line un met.
+d266326	SEŠI
+c506f3a	DEVIŅI
+987f4e9	FIELD
+71c1b2b	2 3 4 9 10 11 12  •  2 un 12 maksā dubulti
+d0ac294	JEBKURŠ 7
+9b2f0c3	JEBKURŠ KREPS
+f62ac59	DON'T PASS BAR
+6080ade	1:1  •  12 ir neizšķirts
+c07247a	PASS LINE
+6229f78	ODDS
+29bf819	īstās izredzes
+387d7a5	IESL
+229c9cc	Odds liek aiz Pass Line, kad ir punkts.
+c2c8e82	Odds vajag likmi uz Pass Line.
+1784d43	Tavas odds ir maksimumā.
+fdc3442	Līnijas likmes liek pirmajā metienā.
+97ce95b	UZ GALDA  {0}
+a895ec0	Punkts ir {0}: met to vēlreiz pirms 7. Odds aiz tavas Pass Line maksā pēc īstajām izredzēm.
+d9f9d65	MEST
+bcf32ef	Punkts ir {0}.
+5b450b4	{0}! Punkts izdevies. Laimests!
+9746e08	Septiņi. Jauns metējs, jauns pirmais metiens.
+4fc4664	{0}, naturāls! Pass Line uzvar.
+203f466	{0}, kreps. Līnija zaudē.
+0f8e260	Pagaidi, līdz kauliņi apstājas.
+6a98cfe	PAMEST GALDU?
+8430088	Tava līnijas likme vēl spēlē uz punktu {0}. Ja aiziesi tagad, tā tiks zaudēta.
+0e138d1	HOLD'EM
+5e023be	Laipni lūdzam hold'em! Liec ante, un skatīsimies kārtis.
+0cd62f5	ANTE
+5e9f331	BLIND
+3b935ab	BLIND MAKSĀ
+20713a4	Dalītājs kvalificējas ar pāri vai labāk
+d37267c	CHECK
+9a4e316	FOLD
+88313c4	LIKT {0}×
+42c6fea	Ante {0} + blind {0}. Atstāj vēl {1} paaugstinājumam.
+1abb2f2	Pieskaries žetoniem, lai iestatītu ante. Blind ir tāds pats.
+f541cec	Check vai likt trīs vai četras reizes ante?
+fc74a79	Paaugstini tagad par 4× vai 3× ante vai dari check un skaties flopu.
+b687501	Pēdējā iespēja: liec 1× ante vai dari fold un zaudē ante un blind.
+400009c	Liec tagad 2× ante vai dari check un skaties pēdējās divas kārtis.
+f4abdf9	Lūk, flops.
+0e51f2c	Tērns un rivers.
+cc856d3	Paskatīsimies, kas man ir.
+6ba1f3e	Dalītājs nekvalificējas: tava ante atgriežas.
+cf1fdc5	Fold. Nākamais dalījums ir tavs.
+177fab0	Ultimate Texas Hold'em
+c4917b9	Spēlētājs, Baņķieris vai Neizšķirts
+6e4fe7b	VIDEOPOKERS
+73cabd3	Jacks or Better
+91c4555	SIC BO
+d810061	Trīs kauliņi  •  liels vai mazs
+85ab7ec	Pass Line  •  Field  •  Odds
+35d8db6	Laipni lūdzam sic bo! Liels, mazs vai kas drosmīgāks?
+3d05514	Galda limits ir {0} vienam metienam.
+86ade94	KRATĪT
+b69304e	TRIJNIEKS {0}!
+5d1bcc6	PATURĒTA
+36a21ba	Izdali, paturi vajadzīgās kārtis, nomaini vienu reizi.
+99fa8e8	PATURĒT
+249d1c0	PADOMS
+7aab1bd	MAINĪT
+5595eb4	Pieskaries kārtīm, lai tās paturētu, tad maini.
+1c05db9	SPĒLĒT HOLD'EM
+e353e5f	Ultimate Texas Hold'em  •  ante no {0} līdz {1}
+6470369	SPĒLĒT BAKARA
+bbe0077	LIELS  •  MAZS  •  TRIJNIEKI
+3ba448f	SPĒLĒT SIC BO
+097c59c	Trīs kauliņi  •  liels vai mazs maksā 1 pret 1
+af2ca30	PASS LINE  •  FIELD  •  ODDS
+f18398e	SPĒLĒT KREPS
+eeede6d	Pass Line maksā 1 pret 1  •  odds maksā pēc īstajām izredzēm
+34e5170	SPĒLĒT VIDEOPOKERU
+f71bdfb	Jacks or Better  •  pilna 9/6 tabula
+4a6c087	JACKS OR BETTER  •  KARALISKĀ SĒRIJA MAKSĀ 800×
+370a133	Spēļu automāti ir pie labās sienas, videopokers pie aizmugurējās, bet rulete pašā aizmugurē.
+8298d28	Hold'em ir kreisajā aizmugurējā stūrī, aiz bāra.
+a2a111f	Bakara ir uzreiz pa kreisi pie ieejas.
+b7193bc	Sic bo ir stūrī aiz kases: trīs kauliņi, liels vai mazs.
+25320c8	Kreps galds ir pa labi, pie automātiem. Liec likmi uz Pass Line un met!
+eeee9b7	Aurora
+8a59f05	Bianka
+5a0fc29	Serena
+e1ae457	Mateo
+3398634	Niko
+7aa2d07	Enzo
+1920e2f	Izlidojuma metiens: liec likmi uz Pass Line, tad met. 7 vai 11 uzvar, 2, 3 vai 12 zaudē. Place likmes sāk darboties, kad ir punkts.
+99f4934	LUCKY ACE 7s  •  IZMAKSĀ LĪDZ 2500× NO TAVAS LĪNIJAS LIKMES

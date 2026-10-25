@@ -1,0 +1,1004 @@
+MIC
+MARE
+IMPAR
+PAR
+ORICE TRIPLĂ
+O mână de jetoane
+Teanc de jetoane
+Tavă de jetoane
+Raft de jetoane
+CEL MAI POPULAR
+Seif de jetoane
+Seiful marelui jucător
+CEL MAI BUN PREȚ
+Apă minerală
+Espresso
+Băutură energizantă
+Club sandvici
+Meniu cu burger
+Cină cu friptură
+REÎNCĂRCARE COMPLETĂ
+Serie norocoasă
+Serie fierbinte
+CEL MAI MULT NOROC
+Masa de bronz
+Masa de argint
+Masa de aur
+Masa de diamant
+Masă de hold'em
+Introdu un an valid.
+Introdu o lună validă (1-12).
+Introdu o zi validă.
+Data este în viitor.
+Bine ai venit la masa mea! Gata de joc?
+Mă bucur să te văd. Ia loc!
+Salut! Cărțile sunt proaspete, și eu la fel.
+Bine ai venit! Hai să facem din seara asta una frumoasă.
+Pariază când ești gata.
+Jetoanele pe masă și hai să vedem cărțile.
+Pe ce jucăm?
+Uau, un pariu mare! Îmi place stilul tău.
+Asta da pariu. Hai să-i dăm drumul!
+Te simți curajos în seara asta, nu?
+All in?! Îmi bate inima nebunește!
+Totul pe o singură mână. Fără frică!
+Blackjack! Incredibil!
+Douăzeci și unu, așa, pur și simplu!
+Blackjack! Cărțile te iubesc în seara asta.
+Frumos jucat!
+Câștig! Bravo.
+Îți merge strună!
+Asta e a ta.
+Ce câștig! Toată lumea se uită la masa asta!
+Uriaș! Ești în formă maximă în seara asta!
+Atât de aproape! Următoarea e a ta.
+De data asta cazinoul a avut noroc.
+Lasă, vine o mână nouă.
+Au, o carte în plus.
+Ai depășit! Li se întâmplă și celor mai buni.
+Egalitate. Nimeni nu pierde!
+Egal. Jetoanele tale sunt în siguranță.
+Am depășit! Norocosule.
+Prea mult pentru mine. Ai câștigat!
+Blackjack pentru cazinou, îmi pare rău!
+Dealerul are blackjack. Ghinion.
+Arăt un as. Asigurare?
+Împărțim! Două șanse de câștig.
+Dublezi. Mișcare curajoasă!
+Dublează! Vine o carte.
+Sabot nou, amestec!
+Rămâi fără? Casieria te reîncarcă.
+Jetoanele se împuținează. Vrei mai multe?
+Ai rămas fără jetoane! Mergi la casierie sau ia jetoane gratuite.
+Teancul tău e gol. Casieria e chiar în spatele tău.
+Arăți epuizat! Mănâncă ceva la bar.
+Ești pe rezervă? Barul are grijă de tine.
+Nu te grăbi.
+Oricând ești gata!
+Noaptea abia a început.
+Norocul începătorului e de partea ta!
+Pachetul e de partea ta în seara asta!
+Norocul începătorului s-a terminat. De acum jocul e corect!
+Bine ai venit în cazinou! Locul tău te așteaptă.
+Bună seara! Mesele sunt fierbinți în seara asta.
+Bine ai revenit! Te simți norocos?
+Atinge o masă ca să începi să joci!
+Ai nevoie de mai multe jetoane? Ai venit la ghișeul potrivit.
+Teancuri mai mari, bonusuri mai mari!
+Ți-e foame? Alege orice din meniu.
+O gustare îți ține energia sus!
+Bine ai venit la masa mea!
+Iată-te! Deja e mai luminos aici.
+Simte-te ca acasă. În seara asta totul e despre tine.
+Ador zâmbetul ăsta. Seară norocoasă?
+Relaxează-te, ești pe mâini bune aici.
+Hei, tu! Speram să treci pe la ghișeul meu.
+Mereu e plăcut să vezi o față prietenoasă.
+Ia uite cine e aici! Te distrezi?
+Salut, frumosule!
+Îmi place stilul tău în seara asta.
+Hei, mă bucur să te revăd!
+Ai o seară bună? O meriți.
+Ai grijă, s-ar putea să încep să țin cu tine.
+Jucătorul meu preferat s-a întors!
+Stai lângă mine, îți împart ceva frumos.
+Cu tine masa asta e mult mai distractivă.
+Pleci deja? Noaptea abia a început!
+Haide, doar încă o mână. Am o presimțire bună!
+Nu poți să mă lași acum, abia am început!
+Ultima șansă! Următoarea mână ar putea fi cea mare...
+Bine, bine. Îți țin locul cald. Promiți că revii?
+Încă nicio serie? Joacă azi runde ({2}) și încep să număr.
+Început nou! Runde ({2}) și flacăra ta se aprinde.
+Țin o mică listă cu cei care vin în fiecare zi. Tu nu ești pe ea... încă.
+Ziua {1} te așteaptă. Mai sunt runde: {2}!
+Zile la rând: {0}... nu te oprești acum, nu?
+Flacăra ta pare cam rece azi. Rundele ({2}) o vor încălzi.
+Am numărat: zile {0}. Hai să fie {1}.
+Să nu crezi că n-am observat. Mai sunt runde ca să-ți păstrezi seria: {2}!
+Zile la rând: {0}? Încep să cred că îți place aici.
+Seria ta e în siguranță pentru azi. Acum doar te dai mare.
+Ziua {0}, gata. Mâine la aceeași oră?
+Zile: {0}! Ar trebui să-ți țin un loc.
+Iat-o: prima zi a seriei tale! Revino mâine și facem două.
+O săptămână întreagă la rând! Sunt sincer impresionată.
+Treizeci de zile! Practic lucrezi aici.
+O sută de zile. Le povestesc tuturor despre tine.
+Deja {0} zile la rând! Ia uită-te la tine.
+Serie salvată: ziua {0}! Știam că o să reușești.
+Ziua {0}! Pun pariu că nu ajungi la {1}.
+Zile: {0}... bine, fălosule.
+Joacă 10 mâini de blackjack
+Câștigă 5 mâini de blackjack
+Fă un blackjack
+Câștigă 500 de jetoane la blackjack
+Învârte păcănelele de 20 de ori
+Câștigă 5 rotiri la păcănele
+Câștigă de 5× miza la păcănele
+Joacă 5 runde de ruletă
+Câștigă 3 rotiri la ruletă
+Nimerește un număr plin
+Joacă 8 mâini de hold'em
+Câștigă 4 mâini de hold'em
+Joacă 10 mâini de baccarat
+Câștigă 5 mâini de baccarat
+Joacă 15 mâini de video poker
+Joacă 8 runde de sic bo
+Câștigă 4 runde de sic bo
+Aruncă zarurile de 15 ori la craps
+Câștigă 4 aruncări la craps
+Fă culoare sau mai bine la video poker
+Chintă roială
+Chintă de culoare
+Careu
+Full house
+Culoare
+Chintă
+Trei de un fel
+Două perechi
+Pereche
+Carte mare
+locația GPS
+rețeaua mobilă
+conexiunea la internet
+setările dispozitivului
+țară de test
+neverificat (preț standard)
+necunoscut
+Primele 12
+Mijlocul 12
+Ultimele 12
+2 la 1
+ROȘU
+NEGRU
+Valeți sau mai bine
+PREȚURI CORECTE PENTRU ȚARA TA
+Prețurile din magazin sunt adaptate economiei țării tale, astfel încât jucătorii de pretutindeni să plătească un preț corect.
+Ca să aflăm țara ta, îți verificăm o singură dată locația aproximativă. Este asociată cu o țară pe dispozitivul tău și nu este trimisă nicăieri. Dacă refuzi, se aplică prețurile standard.
+CONTINUĂ
+Părăsești cazinoul?
+Jetoanele și progresul tău sunt salvate.
+IEȘI
+RĂMÂI
+Deblocat: {0}
+O înghețare de serie ți-a salvat ieri seria (zile: {0}).
+Înghețările ({0}) ți-au salvat seria (zile: {1}).
+Seria ta (zile: {0}) s-a încheiat. Joacă azi runde ({1}) ca să începi una nouă!
+MISIUNE ÎNDEPLINITĂ
++{0} jetoane
+TOATE MISIUNILE ÎNDEPLINITE!
+Bonus zilnic +{0} jetoane. Misiuni noi mâine.
+NIVELUL {0}!
+Prag atins! +{0} jetoane
+Revino mâine ca să continui
++1 înghețare de serie
+SERIE DE {0} ZILE!
+Cumpărăturile nu sunt disponibile în această versiune.
+Cumpărarea a eșuat. Nu ai fost taxat.
+Au fost adăugate +{0} jetoane!
+{0}: {1} mâini cu {2}% noroc, după Norocul începătorului
+{0}: {1} mâini cu {2}% noroc!
+{0}: +{1}% energie
+Indisponibil pe acest dispozitiv
+Videoclipurile nu se pot încărca în această rețea
+Revino mâine
+Gata în {0} s
++{0} jetoane (azi au mai rămas {1})
++{0} jetoane gratuite!
++1 înghețare de serie!
+Momentan nu e disponibil niciun videoclip. Încearcă din nou peste puțin timp.
+BRONZ
+ARGINT
+AUR
+DIAMANT
+Meniu
+Vizualizare
+Cruce
+Cerc
+Pătrat
+Triunghi
+Îți verificăm regiunea...
+Neverificat ({0}): prețuri standard
+{0} ({1}): prețuri în {2}
+Mementouri
+Jetoane gratuite gata și mementouri pentru serie
+Jetoanele tale gratuite sunt gata
+Te așteaptă {0} jetoane la Lucky Ace.
+Păstrează-ți seria (zile: {0})
+Joacă azi runde ({0}) ca să nu se reseteze la miezul nopții.
+BACCARAT
+Bine ai venit la baccarat! Jucător, Bancher sau Egal?
+JUCĂTOR
+EGAL
+BANCHER
+ULTIMELE REZULTATE
+J
+B
+E
+ANULEAZĂ
+ȘTERGE
+REPETĂ
+ÎMPARTE
+Jetoane insuficiente pentru acest pariu.
+Ai atins maximul mesei
+MIZĂ TOTALĂ  {0}
+Alege un jeton, apoi atinge Jucător, Bancher sau Egal
+EGAL  {0}
+CÂȘTIGĂ JUCĂTORUL  {0} LA {1}
+CÂȘTIGĂ BANCHERUL  {0} LA {1}
+CÂȘTIG  +{0}
+RETURNAT  {0}
+Fără câștig de data asta
+Termină mai întâi mâna asta.
+Bine ai venit! Norocul începătorului e de partea ta în seara asta. Pariază!
+BLACKJACK PLĂTEȘTE 3 LA 2   •   DEALERUL STĂ LA TOATE 17   •   ASIGURAREA PLĂTEȘTE 2 LA 1
+PARIU
+CARTE
+STAI
+DUBLEAZĂ
+ÎMPARTE MÂNA
+ASIGURĂ
+NU, MERSI
+PARIU {0}+
+Jetoane insuficiente
+Dealerul arată un as. Te asiguri pentru {0}?
+Asigurarea plătește {0}
+Dealerul nu are blackjack. Asigurarea e pierdută.
+DEPĂȘIT
+DEALERUL A DEPĂȘIT
+BLACKJACK!
+CÂȘTIG
+EGAL
+PIERDERE
+Norocul începătorului s-a terminat. Seria ta norocoasă începe acum.
+Norocul începătorului s-a terminat. De acum e blackjack standard.
+Seria ta norocoasă s-a terminat. Înapoi la blackjack standard.
+FĂRĂ JETOANE
+Urmărește un videoclip scurt pentru {0} jetoane gratuite sau mergi la casierie.
+Mergi la casierie să-ți reîncarci jetoanele.
+JETOANE GRATUITE
+CASIERIE
+MAI TÂRZIU
+„{0}”
+ÎNCĂ O MÂNĂ
+PLEC
+NOROCUL ÎNCEPĂTORULUI
+SERIE NOROCOASĂ
+Bonus de bun venit pentru jucătorii noi: în primele tale <b>{0} mâini</b> sabotul dealerului este aranjat în favoarea ta, așa că vei câștiga aproape fiecare mână.
+În următoarele <b>{0} mâini</b> avantajul dispare treptat, iar apoi fiecare masă este blackjack standard, corect, împărțit dintr-un sabot amestecat de 6 pachete (blackjack plătește 3 la 2, dealerul stă la toate 17).
+Avantaj acum: <b><color=#7CFC9A>{0}%</color></b>   Mâini rămase: <b>{1}</b>
+În următoarele <b>{0} mâini de blackjack</b> cu o miză de până la <b>{1} jetoane</b>, fiecare carte are o șansă de <b>{2}%</b> să vină în favoarea ta (același avantaj ca Norocul începătorului).
+Cu un joc bun, asta înseamnă cam <b>{0}%</b> din mâini câștigate, față de aproximativ {1}% la blackjackul standard. Mizele mai mari sunt blackjack standard și nu consumă mâini. Când mâinile se termină, fiecare masă e din nou blackjack standard, corect.
+AM ÎNȚELES
+ÎȚI VREI NOROCUL ÎNAPOI?
+Norocul începătorului s-a terminat: de acum fiecare masă este blackjack standard, corect. O serie norocoasă aduce avantajul înapoi pentru o vreme.
+CRAPS
+Bine ai venit la craps! Pariază pe Pass Line și aruncă.
+ȘASE
+NOUĂ
+FIELD
+2 3 4 9 10 11 12  •  2 și 12 plătesc dublu
+ORICE 7
+ORICE CRAPS
+DON'T PASS BAR
+1:1  •  12 e egalitate
+PASS LINE
+ODDS
+cote reale
+OPRIT
+ON
+Odds se pun în spatele Pass Line când există un punct.
+Odds cer un pariu pe Pass Line.
+Odds-urile tale sunt la maximum.
+Pariurile pe linie se pun la aruncarea de deschidere.
+PE MASĂ  {0}
+Aruncarea de deschidere: pariază pe Pass Line, apoi aruncă. 7 sau 11 câștigă; 2, 3 sau 12 pierd. Pariurile Place încep să funcționeze când există un punct.
+Punctul e {0}: dă-l din nou înainte de un 7. Odds din spatele Pass Line plătesc cote reale.
+ARUNCĂ
+Punctul e {0}.
+{0}! Punct reușit. Câștig!
+Șapte. Nou aruncător, nouă deschidere.
+{0}, natural! Pass Line câștigă.
+{0}, craps. Linia pierde.
+Așteaptă să se oprească zarurile.
+PĂRĂSEȘTI MASA?
+Pariul tău pe linie încă joacă pe punctul {0}. Dacă pleci acum, îl pierzi.
+ZILNIC
+SERIE ZILNICĂ
+ZILE LA RÂND
+AZI
+VEZI RECLAMA
+CUMPĂRĂ
+ÎNGHEȚARE DE SERIE
+O înghețare îți păstrează seria într-o zi în care nu joci. Poți avea până la {0}.\n\nCumperi una pentru {1} jetoane?
+Înghețare de serie gata.
+Jetoane insuficiente pentru o înghețare.
+ANULEAZĂ
+ROTIRE ZILNICĂ
+ÎNVÂRTE
+Șanse:
+{0}%
+Ai câștigat {0} jetoane!
+MISIUNILE DE AZI
+Record: {0} zile
+Joacă în fiecare zi ca să construiești o serie
+Obiectivul de azi e atins! Pe mâine.
+Azi: {0} / {1} runde (orice joc)
+Înghețări de serie: {0} / {1}
+Salvează-ți seria într-o zi pe care o ratezi. +1 la fiecare 7 zile.
+PLIN
+FĂRĂ VIDEO
+RECLAMĂ ÎN CURÂND
+Bonus de serie: premii ×{0}
+O rotire gratuită în fiecare zi
+URMĂTOAREA  {0}
+Gata tot! Bonus încasat.
+Misiuni noi la miezul nopții.
+Termină-le pe toate trei: +{0} jetoane bonus
+HOLD'EM
+Bine ai venit la hold'em! Pune ante-ul și să vedem cărțile.
+ANTE
+BLIND
+JOACĂ
+BLIND-UL PLĂTEȘTE
+Dealerul se califică cu o pereche sau mai bine
+CHECK
+FOLD
+PARIAZĂ {0}×
+Ante {0} + blind {0}. Mai păstrează {1} pentru mărire.
+Atinge jetoane ca să-ți fixezi ante-ul. Blind-ul e la fel.
+Check sau pariezi de trei ori sau de patru ori ante-ul?
+Mărește acum cu 4× sau 3× ante-ul, sau dă check și vezi flop-ul.
+Ultima șansă: pariază 1× ante-ul sau dă fold și pierzi ante-ul și blind-ul.
+Pariază acum 2× ante-ul, sau dă check și vezi ultimele două cărți.
+Iată flop-ul.
+Turn-ul și river-ul.
+Să vedem ce am.
+Dealerul nu se califică: ante-ul ți se întoarce.
+Fold. Următoarea mână e a ta.
+JOCURI
+Trage în stânga ca să mergi  •  Trage în dreapta ca să privești  •  Atinge ca să mergi acolo
+Doar 18+  •  Jetoanele sunt pentru distracție: fără valoare bănească, nu pot fi schimbate niciodată pe bani sau premii
+Deschidem ușile...
+Bine ai venit! Cele {0} jetoane de bun venit sunt gata. Mesele sunt drept înainte!
++{0} jetoane gratuite! Altele în {1} ore.
+Jetoanele gratuite se reîncarcă la fiecare {0} ore. Următoarele în {1}.
+{0} h {1} min
+{0} min {1} s
+PĂSTREAZĂ-ȚI SERIA
+Vrei un memento în serile în care n-ai jucat încă și când jetoanele gratuite sunt gata? Niciodată mai mult de atât, și îl poți dezactiva din Setări.
+AMINTEȘTE-MI
++{0} jetoane gata!
+Urmărește un videoclip: {0}
+Următoarele jetoane gratuite în {0}
+BLACKJACK
+4 mese  •  plătește 3 la 2
+Ultimate Texas Hold'em
+Jucător, Bancher sau Egal
+PĂCĂNELE
+Lucky Ace 7s  •  10 linii
+VIDEO POKER
+Jacks or Better
+SIC BO
+Trei zaruri  •  mare sau mic
+Pass Line  •  Field  •  Odds
+RULETĂ
+Europeană cu un singur zero
+EȘTI EPUIZAT
+Bara de energie e goală. Ia ceva de la bar ca să joci în continuare sau revino mai târziu: energia se reface încet cât lipsești.
+MERGI LA BAR
+ALEGE-ȚI MASA
+MIZE
+NIVELUL {0}
+IA LOC
+NECESAR {0}
+Atinge nivelul {0} ca să joci aici. Ești la nivelul {1}.
+CAZINO
+ZZ
+LL
+AAAA
+ZI
+LUNĂ
+AN
+CÂND TE-AI NĂSCUT?
+Jetoanele sunt doar pentru divertisment. Nu au valoare bănească și nu pot fi schimbate niciodată pe bani sau premii.
+NE PARE RĂU, NU POȚI JUCA
+{0} este disponibil doar pentru adulți.
+IEȘIRE
+Se închide în {0}...
+SPUNE-NE DESPRE TINE
+Îți alegem gazdele, dealerii și personalul barului pe potrivă. Poți schimba asta oricând din Setări.
+SUNT BĂRBAT
+SUNT FEMEIE
+PREFER SĂ NU SPUN
+INTRĂ ÎN CAZINO
+Personalul tău în seara asta:
+Pagina {0} din {1}
+LIMBĂ
+AUTOMAT
+ȚARĂ
+Bine ați venit! Faceți jocurile, vă rog.
+Limita mesei este {0} pe rotire.
+Atinge tabla ca să pui jetoane
+Nu se mai pariază!
+VERDE
+verde
+roșu
+negru
+Ce lovitură! Felicitări!
+Câștig! Câștigi {0}.
+{0} {1}. Primești înapoi {2}.
+Faceți jocurile, vă rog.
+Așteaptă să se oprească bila.
+SETĂRI
+GENERAL
+GRAFICĂ
+SUNET
+ATINGERE
+MOUSE
+CONTROLER
+VIBRAȚII
+18+ • Jetoanele nu au valoare bănească • Fonturi: Bebas Neue, Poppins, Noto (SIL OFL) • Granițe: Natural Earth • Date despre prețuri: Banca Mondială
+PERSONALUL CAZINOULUI
+FEMEI
+BĂRBAȚI
+MIXT
+MEMENTOURI
+Jetoane gratuite gata și un mic semn seara, înainte să se termine o serie.
+VERIFICĂ DIN NOU
+REGIUNE DE PREȚ
+Cel mai rapid: cazinoul așa cum e pictat, nimic în plus.
+Podele lustruite, lemn și aur reflectă sala.
+Aspect de film: corecție de culoare, granulație, strălucire, raze de lumină, piele naturală.
+Obiectiv de cinema: focalizarea îți urmează privirea, dâre pe lumini, praf în raze.
+CALITATE
+SCĂZUTĂ
+MEDIE
+RIDICATĂ
+ULTRA
+REZOLUȚIE
+Mai mică e mai puțin clară, dar telefonul se încălzește mai puțin și economisește bateria.
+MOD DE AFIȘARE
+ECRAN COMPLET
+ÎN FEREASTRĂ
+ANTI-ALIASING
+Netezește marginile zimțate din cazinou.
+CADRE PE SECUNDĂ
+{0} FPS
+30 FPS economisește bateria și ține telefoanele mai vechi răcoroase.
+V-SYNC
+CÂMP VIZUAL
+AFIȘEAZĂ FPS
+VOLUM GENERAL
+MUZICĂ
+EFECTE SONORE
+VOCILE PERSONALULUI
+Murmurul personalului când vorbește.
+FĂRĂ SUNET ÎN FUNDAL
+Oprește sunetul cazinoului cât ești în altă fereastră.
+SENSIBILITATEA PRIVIRII
+Cât de repede trasul rotește imaginea.
+Cât de repede trasul cu mouse-ul rotește imaginea.
+INVERSEAZĂ PRIVIREA STÂNGA / DREAPTA
+INVERSEAZĂ PRIVIREA SUS / JOS
+DISPUNEREA BUTOANELOR
+AUTO
+INVERSEAZĂ MENIU / VIZUALIZARE
+SENSIBILITATEA STICKULUI
+Cât de repede stickul drept rotește imaginea.
+INVERSEAZĂ STICKUL STÂNGA / DREAPTA
+INVERSEAZĂ STICKUL SUS / JOS
+INDICII PENTRU CONTROLER
+Arată ce face fiecare buton cât joci cu un controler.
+VIBREAZĂ PE
+TELEFON
+AMBELE
+Auto: controlerul cât e conectat, altfel telefonul.
+VIBRAȚII TELEFON
+INTENSITATE TELEFON
+VIBRAȚII CONTROLER
+INTENSITATE CONTROLER
+AUTOMAT ({0})
+{0} deschide Setările, {1} deschide Zilnic.
+Niciun controler conectat.
+Conectat: {0}. Se afișează butoanele {1} (A din dreapta confirmă).
+Conectat: {0}. Se afișează butoanele {1}.
+BARUL
+NOROC
+Jetoanele, norocul și mâncarea sunt obiecte virtuale doar pentru divertisment: fără valoare bănească, nu pot fi preschimbate în bani sau premii.
+Fiecare carte are această șansă să vină în favoarea ta, la mize de blackjack de până la {0} jetoane (mizele mai mari sunt standard și nu consumă mâini). Începe după Norocul începătorului; pachetele mai puternice se folosesc primele.
+Permite accesul la locație ca să primești prețul țării tale
+Cumpărăturile nu sunt disponibile în această versiune a jocului.
+MAGAZIN DE TEST (fără bani reali)
+energie
++{0}% JETOANE
+{0} mâini
+câștigă aproximativ {0}% dintre ele
+Bine ai venit la sic bo! Mare, mic sau ceva mai îndrăzneț?
+Limita mesei este {0} pe aruncare.
+AGITĂ
+TRIPLĂ DE {0}!
+LUCKY ACE 7s
+MIZĂ TOTALĂ
+TABEL DE PLĂȚI
+BAFTĂ!
+Ai nevoie de cel puțin 10 jetoane ca să învârți.
+IA JETOANE
+Miza a fost redusă la cât poți acoperi.
+MEGA CÂȘTIG!
+CÂȘTIG MARE!
+RETURNAT {0}
+FĂRĂ CÂȘTIG
+LINIA {0}: {1} × {2} = {3}
+{0} STELE = {1}
+Cireașă
+Lămâie
+Portocală
+Prună
+Clopoțel
+Bar
+Șeptar
+Diamant
+As
+Stea
+STELELE plătesc oriunde: 5 = {0}× miza, 4 = {1}× miza, 3 = {2}× miza.
+ASUL este wild: înlocuiește orice simbol, mai puțin steaua.
+Câștigurile pe linii sunt multipli ai mizei pe linie (miza totală ÷ 10), de la stânga la dreapta de la primul rotor.
+RETURNARE: {0}% pe termen lung. Fiecare rotire este independentă și aleatorie.
+PĂSTRATĂ
+Împarte, păstrează cărțile dorite, schimbă o dată.
+PĂSTREAZĂ
+INDICIU
+SCHIMBĂ
+Atinge cărțile ca să le păstrezi, apoi schimbă.
+Mergi
+Privește
+Butoane
+Setări
+Zilnic
+Reglează
+Mută
+Alege
+Închide
+Înapoi
+EPUIZAT
+NOROCUL ÎNCEPĂTORULUI {0}%
+MAI SUNT {0} MÂINI
+SERIE NOROCOASĂ {0}%
+{0} MÂINI  •  MIZE DE PÂNĂ LA {1}
+NIVEL
+Sofia
+Elena
+Mia
+Valentina
+Chloe
+Isabella
+Nadia
+Aria
+Luna
+Camila
+Aurora
+Bianca
+Serena
+Marco
+Leo
+Adrian
+Lucas
+Victor
+Daniel
+Gabriel
+Ethan
+Julian
+Rafael
+Mateo
+Nico
+Enzo
+BINE AȚI VENIT
+VORBEȘTE CU GAZDA
+Indicații și sfaturi
+JETOANE  •  BONUSURI
+CUMPĂRĂ JETOANE
+Casierie
+COCKTAILURI  •  GUSTĂRI  •  ENERGIE
+MÂNCARE ȘI BĂUTURI
+Barul
+BLACKJACK PLĂTEȘTE 3 LA 2
+DEALERUL TREBUIE SĂ STEA LA 17
+JOACĂ BLACKJACK
+Masa {0}  •  mize de la {1} la {2}
+JOACĂ HOLD'EM
+Ultimate Texas Hold'em  •  ante de la {0} la {1}
+JOACĂ BACCARAT
+MARE  •  MIC  •  TRIPLE
+JOACĂ SIC BO
+Trei zaruri  •  mare sau mic plătește 1 la 1
+PASS LINE  •  FIELD  •  ODDS
+JOACĂ CRAPS
+Pass Line plătește 1 la 1  •  odds plătesc cote reale
+JOACĂ VIDEO POKER
+JOACĂ LA PĂCĂNELE
+Jacks or Better  •  tabel complet 9/6
+LUCKY ACE 7s  •  PLĂTEȘTE PÂNĂ LA 2.500× MIZA PE LINIE
+JACKS OR BETTER  •  CHINTA ROIALĂ PLĂTEȘTE 800×
+FACEȚI JOCURILE
+JOACĂ RULETĂ
+Roată europeană  •  numărul plin plătește 35 la 1
+COMANDĂ O BĂUTURĂ
+{0} ți-o aduce
+{0} se deschide la nivelul {1}. Ești la nivelul {2}: fiecare rundă jucată contează.
+La această masă ai nevoie de cel puțin {0} jetoane.
+Mesele de blackjack sunt drept înainte. Du-te la una și ia loc!
+Păcănelele sunt pe peretele din dreapta, video pokerul pe peretele din spate, iar ruleta în fund.
+Hold'em-ul e în colțul din stânga spate, după bar.
+Baccaratul e imediat în stânga cum intri.
+Sic bo e în colțul de după casierie: trei zaruri, mare sau mic.
+Masa de craps e în dreapta, în fața păcănelelor. Pariază pe Pass Line și aruncă!
+Casieria e chiar aici, în dreapta ta, iar barul e de-a lungul peretelui din stânga.
+Obosit? O gustare la bar îți umple imediat energia.
+Atinge oriunde pe podea și mergi acolo. Atinge o masă ca să te așezi.
+Andorra
+Emiratele Arabe Unite
+Afganistan
+Antigua și Barbuda
+Anguilla
+Albania
+Armenia
+Angola
+Antarctica
+Argentina
+Samoa Americană
+Austria
+Australia
+Aruba
+Insulele Åland
+Azerbaidjan
+Bosnia și Herțegovina
+Barbados
+Bangladesh
+Belgia
+Burkina Faso
+Bulgaria
+Bahrain
+Burundi
+Benin
+Saint-Barthélemy
+Bermuda
+Brunei
+Bolivia
+Insulele Caraibe Olandeze
+Brazilia
+Bahamas
+Bhutan
+Insula Bouvet
+Botswana
+Belarus
+Belize
+Canada
+Insulele Cocos (Keeling)
+Congo - Kinshasa
+Republica Centrafricană
+Congo - Brazzaville
+Elveția
+Côte d’Ivoire
+Insulele Cook
+Chile
+Camerun
+China
+Columbia
+Costa Rica
+Cuba
+Capul Verde
+Curaçao
+Insula Christmas
+Cipru
+Cehia
+Germania
+Djibouti
+Danemarca
+Dominica
+Republica Dominicană
+Algeria
+Ecuador
+Estonia
+Egipt
+Sahara Occidentală
+Eritreea
+Spania
+Etiopia
+Finlanda
+Fiji
+Insulele Falkland
+Micronezia
+Insulele Feroe
+Franța
+Gabon
+Regatul Unit
+Grenada
+Georgia
+Guyana Franceză
+Guernsey
+Ghana
+Gibraltar
+Groenlanda
+Gambia
+Guineea
+Guadelupa
+Guineea Ecuatorială
+Grecia
+Georgia de Sud și Insulele Sandwich de Sud
+Guatemala
+Guam
+Guineea-Bissau
+Guyana
+R.A.S. Hong Kong, China
+Insula Heard și Insulele McDonald
+Honduras
+Croația
+Haiti
+Ungaria
+Indonezia
+Irlanda
+Israel
+Insula Man
+India
+Teritoriul Britanic din Oceanul Indian
+Irak
+Iran
+Islanda
+Italia
+Jersey
+Jamaica
+Iordania
+Japonia
+Kenya
+Kârgâzstan
+Cambodgia
+Kiribati
+Comore
+Saint Kitts și Nevis
+Coreea de Nord
+Coreea de Sud
+Kuweit
+Insulele Cayman
+Kazahstan
+Laos
+Liban
+Sfânta Lucia
+Liechtenstein
+Sri Lanka
+Liberia
+Lesotho
+Lituania
+Luxemburg
+Letonia
+Libia
+Maroc
+Monaco
+Republica Moldova
+Muntenegru
+Sfântul Martin
+Madagascar
+Insulele Marshall
+Macedonia de Nord
+Mali
+Myanmar (Birmania)
+Mongolia
+R.A.S. Macao, China
+Insulele Mariane de Nord
+Martinica
+Mauritania
+Montserrat
+Malta
+Mauritius
+Maldive
+Malawi
+Mexic
+Malaysia
+Mozambic
+Namibia
+Noua Caledonie
+Niger
+Insula Norfolk
+Nigeria
+Nicaragua
+Țările de Jos
+Norvegia
+Nepal
+Nauru
+Niue
+Noua Zeelandă
+Oman
+Panama
+Peru
+Polinezia Franceză
+Papua-Noua Guinee
+Filipine
+Pakistan
+Polonia
+Saint-Pierre și Miquelon
+Insulele Pitcairn
+Puerto Rico
+Teritoriile Palestiniene
+Portugalia
+Palau
+Paraguay
+Qatar
+Réunion
+România
+Serbia
+Rusia
+Rwanda
+Arabia Saudită
+Insulele Solomon
+Seychelles
+Sudan
+Suedia
+Singapore
+Sfânta Elena
+Slovenia
+Svalbard și Jan Mayen
+Slovacia
+Sierra Leone
+San Marino
+Senegal
+Somalia
+Suriname
+Sudanul de Sud
+São Tomé și Príncipe
+El Salvador
+Sint-Maarten
+Siria
+Eswatini
+Insulele Turks și Caicos
+Ciad
+Teritoriile Australe și Antarctice Franceze
+Togo
+Thailanda
+Tadjikistan
+Tokelau
+Timor-Leste
+Turkmenistan
+Tunisia
+Tonga
+Turcia
+Trinidad și Tobago
+Tuvalu
+Taiwan
+Tanzania
+Ucraina
+Uganda
+Insulele Îndepărtate ale S.U.A.
+Statele Unite ale Americii
+Uruguay
+Uzbekistan
+Statul Cetății Vaticanului
+Saint Vincent și Grenadinele
+Venezuela
+Insulele Virgine Britanice
+Insulele Virgine Americane
+Vietnam
+Vanuatu
+Wallis și Futuna
+Samoa
+Kosovo
+Yemen
+Mayotte
+Africa de Sud
+Zambia
+Zimbabwe
+Engleză
+Afrikaans
+Amharică
+Arabă
+Azeră
+Belarusă
+Bulgară
+Bengaleză
+Bosniacă
+Catalană
+Cehă
+Daneză
+Germană
+Greacă
+Spaniolă
+Estonă
+Bască
+Persană
+Finlandeză
+Filipineză
+Franceză
+Irlandeză
+Galiciană
+Gujarati
+Hausa
+Ebraică
+Hindi
+Croată
+Franceză (Haiti)
+Maghiară
+Armeană
+Indoneziană
+Igbo
+Islandeză
+Italiană
+Japoneză
+Georgiană
+Kazahă
+Khmeră
+Kannada
+Coreeană
+Kârgâză
+Luxemburgheză
+Laoțiană
+Lituaniană
+Letonă
+Malgașă
+Macedoneană
+Malayalam
+Mongolă
+Marathi
+Malaeză
+Malteză
+Birmană
+Norvegiană bokmål
+Nepaleză
+Neerlandeză
+Punjabi
+Poloneză
+Paștună
+Portugheză (Brazilia)
+Portugheză (Portugalia)
+Romanșă
+Română
+Rusă
+Kinyarwanda
+Singhaleză
+Slovacă
+Slovenă
+Somaleză
+Albaneză
+Sârbă
+Suedeză
+Swahili
+Tamilă
+Telugu
+Tadjică
+Thailandeză
+Turkmenă
+Turcă
+Ucraineană
+Urdu
+Uzbecă
+Vietnameză
+Xhosa
+Yoruba
+Chineză (simplificată)
+Chineză (tradițională)
+Zulu
+Dum.
+Lun.
+Mar.
+Mie.
+Joi
+Vin.
+Sâm.

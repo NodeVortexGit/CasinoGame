@@ -1,0 +1,1004 @@
+PETIT
+GRAND
+IMPAIR
+PAIR
+N'IMPORTE QUEL BRELAN
+Poignée de jetons
+Pile de jetons
+Plateau de jetons
+Rack de jetons
+LE PLUS POPULAIRE
+Coffre de jetons
+Coffre du flambeur
+MEILLEUR PRIX
+Eau pétillante
+Expresso
+Boisson énergisante
+Club sandwich
+Menu burger
+Dîner steak
+RECHARGE TOTALE
+Série chanceuse
+Série brûlante
+LE PLUS DE CHANCE
+Table bronze
+Table argent
+Table or
+Table diamant
+Table de hold'em
+Veuillez saisir une année valide.
+Veuillez saisir un mois valide (1-12).
+Veuillez saisir un jour valide.
+Cette date est dans le futur.
+Bienvenue à ma table ! Prêt à jouer ?
+Ravie de vous voir. Installez-vous !
+Bonsoir ! Les cartes sont neuves, et moi aussi.
+Bienvenue ! Faisons de ce soir une belle soirée.
+Misez quand vous êtes prêt.
+Les jetons sur la table, et voyons les cartes.
+On joue pour combien ?
+Oh, une grosse mise ! J'aime votre style.
+Ça, c'est une mise ! Allons-y !
+On se sent audacieux ce soir, hein ?
+Tapis ?! Mon cœur s'emballe !
+Tout sur une seule main. Sans peur !
+Blackjack ! Incroyable !
+Vingt-et-un, comme ça !
+Blackjack ! Les cartes vous adorent ce soir.
+Bien joué !
+Gagné ! Bravo.
+Vous êtes en veine !
+Celle-là est pour vous.
+Quel gain ! Tout le monde regarde cette table !
+Énorme ! Vous êtes en feu ce soir !
+C'était juste ! La prochaine est pour vous.
+La maison a eu de la chance cette fois.
+Ce n'est rien, une nouvelle main arrive.
+Aïe, une carte de trop.
+Sauté ! Ça arrive aux meilleurs.
+Égalité. Personne ne perd !
+Égalité. Vos jetons sont en sécurité.
+J'ai sauté ! Quelle chance vous avez.
+Trop pour moi. Vous gagnez !
+Blackjack pour la maison, désolée !
+Blackjack du croupier. Pas de chance.
+J'ai un as. Assurance ?
+Séparation ! Deux chances de gagner.
+Doublé. Quel courage !
+Doublez ! Une carte arrive.
+Nouveau sabot, je mélange !
+Plus beaucoup de jetons ? La caisse peut vous recharger.
+Les jetons s'amenuisent. Vous en voulez d'autres ?
+Plus de jetons ! Passez à la caisse ou prenez des jetons gratuits.
+Votre pile est vide. La caisse est juste derrière vous.
+Vous avez l'air épuisé ! Mangez un morceau au bar.
+Plus d'énergie ? Le bar s'occupe de vous.
+Prenez votre temps.
+Quand vous voulez !
+La nuit est jeune.
+La chance du débutant est avec vous !
+Le paquet est en votre faveur ce soir !
+La chance du débutant est terminée. Désormais, le jeu est équitable !
+Bienvenue au casino ! Votre place vous attend.
+Bonsoir ! Les tables sont chaudes ce soir.
+Bon retour ! Vous vous sentez chanceux ?
+Touchez une table pour commencer à jouer !
+Besoin de jetons ? Vous êtes au bon guichet.
+Plus de jetons, plus de bonus !
+Une petite faim ? Choisissez ce que vous voulez à la carte.
+Un en-cas garde votre énergie au top !
+Bienvenue à ma table !
+Vous voilà ! L'endroit est déjà plus lumineux.
+Faites comme chez vous. Ce soir, tout est pour vous.
+J'adore ce sourire. Soirée chanceuse ?
+Détendez-vous, vous êtes entre de bonnes mains.
+Coucou ! J'espérais que vous passeriez à mon guichet.
+Toujours agréable de voir un visage amical.
+Regardez qui voilà ! Vous vous amusez ?
+Bonsoir, beau gosse !
+J'aime votre style ce soir.
+Ravie de vous revoir !
+Bonne soirée ? Vous le méritez.
+Attention, je pourrais commencer à vous encourager.
+Mon joueur préféré est de retour !
+Asseyez-vous avec moi, je vais vous servir quelque chose de beau.
+Avec vous, cette table est bien plus amusante.
+Vous partez déjà ? La nuit est jeune !
+Allez, juste une main de plus. Je la sens bien, celle-là !
+Vous ne pouvez pas me laisser maintenant, on commence à peine !
+Dernière chance ! La prochaine main pourrait être la bonne...
+D'accord, d'accord. Je vous garde la place au chaud. Promis, vous revenez ?
+Pas encore de série ? Jouez {2} manches aujourd'hui et je commence à compter.
+Nouveau départ ! {2} manches et votre flamme s'allume.
+Je tiens une petite liste de ceux qui viennent chaque jour. Vous n'y êtes pas... pas encore.
+Le jour {1} vous attend. Plus que {2} manches !
+{0} jours d'affilée... vous n'allez pas vous arrêter maintenant, si ?
+Votre flamme semble un peu froide aujourd'hui. {2} manches devraient la réchauffer.
+Je compte : {0} jours. Passons à {1}.
+Ne croyez pas que je n'ai rien vu. Plus que {2} manches pour garder votre série !
+{0} jours d'affilée ? Je commence à croire que vous vous plaisez ici.
+Votre série est sauve pour aujourd'hui. Maintenant, vous frimez.
+Jour {0}, validé. Demain, même heure ?
+{0} jours ! À ce stade, je devrais vous réserver une place.
+Et voilà : le premier jour de votre série ! Revenez demain et ce sera deux.
+Une semaine entière d'affilée ! Je suis vraiment impressionnée.
+Trente jours ! Vous travaillez presque ici.
+Cent jours. Je parle de vous à tout le monde.
+Ça fait {0} jours d'affilée ! Regardez-vous.
+Série sauvée : jour {0} ! Je savais que vous y arriveriez.
+Jour {0} ! Je parie que vous n'irez pas jusqu'à {1}.
+{0} jours... d'accord, le frimeur.
+Jouez 10 mains de blackjack
+Gagnez 5 mains de blackjack
+Obtenez un blackjack
+Gagnez 500 jetons au blackjack
+Lancez les machines à sous 20 fois
+Gagnez 5 tours aux machines à sous
+Gagnez 5× votre mise aux machines à sous
+Jouez 5 manches de roulette
+Gagnez 3 tours de roulette
+Touchez un numéro plein
+Jouez 8 mains de hold'em
+Gagnez 4 mains de hold'em
+Jouez 10 mains de baccara
+Gagnez 5 mains de baccara
+Jouez 15 mains de vidéo poker
+Jouez 8 tours de sic bo
+Gagnez 4 tours de sic bo
+Lancez les dés 15 fois au craps
+Gagnez 4 lancers au craps
+Faites une couleur ou mieux au vidéo poker
+Quinte flush royale
+Quinte flush
+Carré
+Full
+Couleur
+Quinte
+Brelan
+Double paire
+Paire
+Carte haute
+position GPS
+réseau mobile
+connexion internet
+réglages de l'appareil
+pays de test
+non vérifié (prix standard)
+inconnu
+1re douzaine
+2e douzaine
+3e douzaine
+2 contre 1
+ROUGE
+NOIR
+Valets ou mieux
+DES PRIX JUSTES POUR VOTRE PAYS
+Les prix de la boutique sont adaptés à l'économie de votre pays, pour que les joueurs du monde entier paient un prix juste.
+Pour connaître votre pays, nous vérifions une fois votre position approximative. Elle est associée à un pays sur votre appareil et n'est jamais envoyée nulle part. Si vous refusez, les prix standard s'appliquent.
+CONTINUER
+Quitter le casino ?
+Vos jetons et votre progression sont enregistrés.
+QUITTER
+RESTER
+{0} débloquée
+Hier, un gel de série a sauvé votre série de {0} jours.
+{0} gels de série ont sauvé votre série de {1} jours.
+Votre série de {0} jours est terminée. Jouez {1} manches aujourd'hui pour en commencer une nouvelle !
+MISSION ACCOMPLIE
++{0} jetons
+TOUTES LES MISSIONS ACCOMPLIES !
+Bonus quotidien +{0} jetons. Nouvelles missions demain.
+NIVEAU {0} !
+Palier ! +{0} jetons
+Revenez demain pour continuer
++1 gel de série
+SÉRIE DE {0} JOURS !
+Les achats ne sont pas disponibles dans cette version.
+L'achat a échoué. Vous n'avez pas été débité.
++{0} jetons ajoutés !
+{0} : {1} mains à {2} % de chance, après la Chance du débutant
+{0} : {1} mains à {2} % de chance !
+{0} : +{1} % d'énergie
+Non disponible sur cet appareil
+Les vidéos ne se chargent pas sur ce réseau
+Revenez demain
+Prêt dans {0} s
++{0} jetons ({1} restantes aujourd'hui)
++{0} jetons gratuits !
++1 gel de série !
+Aucune vidéo disponible pour le moment. Réessayez dans un instant.
+BRONZE
+ARGENT
+OR
+DIAMANT
+Menu
+Affichage
+Croix
+Rond
+Carré
+Triangle
+Vérification de votre région...
+Non vérifié ({0}) : prix standard
+{0} ({1}) : prix en {2}
+Rappels
+Jetons gratuits prêts et rappels de série
+Vos jetons gratuits sont prêts
+{0} jetons vous attendent au Lucky Ace.
+Gardez votre série de {0} jours
+Jouez {0} manches aujourd'hui pour qu'elle ne retombe pas à zéro à minuit.
+BACCARA
+Bienvenue au baccara ! Joueur, Banque ou Égalité ?
+JOUEUR
+ÉGALITÉ
+BANQUE
+DERNIERS RÉSULTATS
+J
+B
+É
+ANNULER
+EFFACER
+REMISER
+DISTRIBUER
+Pas assez de jetons pour cette mise.
+Maximum de la table atteint
+MISE TOTALE  {0}
+Choisissez un jeton, puis touchez Joueur, Banque ou Égalité
+ÉGALITÉ  {0}
+LE JOUEUR GAGNE  {0} À {1}
+LA BANQUE GAGNE  {0} À {1}
+GAGNÉ  +{0}
+REMBOURSÉ  {0}
+Pas de gain cette fois
+Terminez d'abord cette main.
+Bienvenue ! La chance du débutant est avec vous ce soir. Faites vos jeux !
+LE BLACKJACK PAIE 3 CONTRE 2   •   LE CROUPIER RESTE SUR TOUS LES 17   •   L'ASSURANCE PAIE 2 CONTRE 1
+MISE
+CARTE
+RESTER
+DOUBLER
+SÉPARER
+ASSURER
+NON MERCI
+MISE {0}+
+Pas assez de jetons
+Le croupier montre un as. Vous assurer pour {0} ?
+L'assurance paie {0}
+Pas de blackjack pour le croupier. Assurance perdue.
+SAUTÉ
+LE CROUPIER SAUTE
+BLACKJACK !
+GAGNÉ
+ÉGALITÉ
+PERDU
+La chance du débutant est terminée. Votre Série chanceuse commence maintenant.
+La chance du débutant est terminée. Désormais, c'est du blackjack standard.
+Votre Série chanceuse est terminée. Retour au blackjack standard.
+PLUS DE JETONS
+Regardez une courte vidéo pour {0} jetons gratuits, ou passez à la caisse.
+Passez à la caisse pour recharger vos jetons.
+JETONS GRATUITS
+CAISSE
+PLUS TARD
+« {0} »
+ENCORE UNE MAIN
+PARTIR
+CHANCE DU DÉBUTANT
+SÉRIE CHANCEUSE
+Bonus de bienvenue : pour vos <b>{0} premières mains</b>, le sabot du croupier est arrangé en votre faveur, vous gagnerez donc presque chaque main.
+Pendant les <b>{0} mains</b> suivantes, l'avantage s'estompe, puis chaque table est un blackjack standard et équitable, distribué depuis un sabot mélangé de 6 jeux (le blackjack paie 3 contre 2, le croupier reste sur tous les 17).
+Avantage actuel : <b><color=#7CFC9A>{0} %</color></b>   Mains restantes : <b>{1}</b>
+Pour vos <b>{0} prochaines mains de blackjack</b> avec une mise jusqu'à <b>{1} jetons</b>, chaque carte a <b>{2} %</b> de chances d'être distribuée en votre faveur (le même avantage que la Chance du débutant).
+Avec un bon jeu, cela gagne environ <b>{0} %</b> des mains, contre environ {1} % au blackjack standard. Les mises plus élevées sont du blackjack standard et n'utilisent pas de mains. Quand les mains sont épuisées, chaque table redevient un blackjack standard et équitable.
+COMPRIS
+VOUS VOULEZ RETROUVER VOTRE CHANCE ?
+La Chance du débutant est terminée : désormais, chaque table est un blackjack standard et équitable. Une Série chanceuse ramène l'avantage pendant un moment.
+CRAPS
+Bienvenue au craps ! Misez sur la Pass Line et lancez.
+SIX
+NEUF
+FIELD
+2 3 4 9 10 11 12  •  le 2 et le 12 paient double
+N'IMPORTE QUEL 7
+N'IMPORTE QUEL CRAPS
+DON'T PASS BAR
+1:1  •  le 12 fait égalité
+PASS LINE
+ODDS
+cote réelle
+NON
+ON
+Les odds se placent derrière la Pass Line une fois le point établi.
+Les odds demandent une mise sur la Pass Line.
+Vos odds sont au maximum.
+Les mises de ligne se placent au lancer de sortie.
+SUR LA TABLE  {0}
+Lancer de sortie : misez sur la Pass Line et lancez. 7 ou 11 gagne, 2, 3 ou 12 perd. Les mises place comptent une fois le point établi.
+Le point est {0} : refaites-le avant un 7. Les odds derrière votre Pass Line paient la cote réelle.
+LANCER
+Le point est {0}.
+{0} ! Point réussi. Gagné !
+Sept, c'est perdu. Nouveau lanceur, nouvelle sortie.
+{0}, un naturel ! La Pass Line gagne.
+{0}, craps. La ligne perd.
+Attendez que les dés s'arrêtent.
+QUITTER LA TABLE ?
+Votre mise de ligne joue toujours sur le point {0}. Si vous partez maintenant, elle est perdue.
+QUOTIDIEN
+SÉRIE QUOTIDIENNE
+JOURS D'AFFILÉE
+AUJ.
+VOIR UNE PUB
+ACHETER
+GEL DE SÉRIE
+Un gel de série garde votre série en vie un jour où vous ne jouez pas. Vous pouvez en avoir {0}.\n\nEn acheter un pour {1} jetons ?
+Gel de série prêt.
+Pas assez de jetons pour un gel.
+ANNULER
+ROUE DU JOUR
+TOURNER
+Chances :
+{0} %
+Vous avez gagné {0} jetons !
+MISSIONS DU JOUR
+Record : {0} jours
+Jouez chaque jour pour construire une série
+Objectif du jour atteint ! À demain.
+Aujourd'hui : {0} / {1} manches (tous jeux)
+Gels de série : {0} / {1}
+Sauvez votre série un jour où vous manquez. +1 tous les 7 jours.
+PLEIN
+PAS DE VIDÉO
+PUB BIENTÔT
+Bonus de série : gains ×{0}
+Un tour gratuit chaque jour
+PROCHAIN  {0}
+Tout est fait ! Bonus encaissé.
+Nouvelles missions à minuit.
+Terminez les trois : +{0} jetons bonus
+HOLD'EM
+Bienvenue au hold'em ! Misez l'ante et voyons les cartes.
+ANTE
+BLIND
+JOUER
+LA BLIND PAIE
+Le croupier se qualifie avec une paire ou mieux
+CHECK
+SE COUCHER
+MISER {0}×
+Ante {0} + blind {0}. Gardez {1} de plus pour relancer.
+Touchez des jetons pour fixer l'ante. La blind est égale.
+Check, ou misez trois ou quatre fois l'ante ?
+Relancez maintenant à 4× ou 3× l'ante, ou checkez et voyez le flop.
+Dernière chance : misez 1× l'ante, ou couchez-vous et perdez ante et blind.
+Misez 2× l'ante maintenant, ou checkez et voyez les deux dernières cartes.
+Voici le flop.
+Le turn et la river.
+Voyons ce que j'ai.
+Le croupier ne se qualifie pas : votre ante vous est rendue.
+Couché. La prochaine main est pour vous.
+JEUX
+Glissez à gauche pour marcher  •  Glissez à droite pour regarder  •  Touchez pour y aller
+18 ans et plus  •  Les jetons sont pour le plaisir : sans valeur monétaire, jamais échangeables contre de l'argent ou des prix
+Ouverture des portes...
+Bienvenue ! Vos {0} jetons de bienvenue sont prêts. Les tables sont droit devant !
++{0} jetons gratuits ! D'autres dans {1} heures.
+Les jetons gratuits se rechargent toutes les {0} heures. Les prochains dans {1}.
+{0} h {1} min
+{0} min {1} s
+GARDEZ VOTRE SÉRIE
+Voulez-vous un rappel les soirs où vous n'avez pas encore joué, et quand vos jetons gratuits sont prêts ? Jamais plus que ça, et vous pouvez le désactiver dans les Réglages.
+ME LE RAPPELER
++{0} jetons prêts !
+Regardez une vidéo : {0}
+Prochains jetons gratuits dans {0}
+BLACKJACK
+4 tables  •  paie 3 contre 2
+Ultimate Texas Hold'em
+Joueur, Banque ou Égalité
+MACHINES À SOUS
+Lucky Ace 7s  •  10 lignes
+VIDÉO POKER
+Jacks or Better
+SIC BO
+Trois dés  •  grand ou petit
+Pass Line  •  Field  •  Odds
+ROULETTE
+Européenne à un seul zéro
+VOUS ÊTES ÉPUISÉ
+Votre barre d'énergie est vide. Prenez quelque chose au bar pour continuer à jouer, ou revenez plus tard : l'énergie remonte doucement pendant votre absence.
+ALLER AU BAR
+CHOISISSEZ VOTRE TABLE
+MISES
+NIVEAU {0}
+S'ASSEOIR
+IL FAUT {0}
+Atteignez le niveau {0} pour jouer ici. Vous êtes niveau {1}.
+CASINO
+JJ
+MM
+AAAA
+JOUR
+MOIS
+ANNÉE
+QUELLE EST VOTRE DATE DE NAISSANCE ?
+Les jetons servent uniquement au divertissement. Ils n'ont aucune valeur monétaire et ne peuvent jamais être échangés contre de l'argent ou des prix.
+DÉSOLÉ, VOUS NE POUVEZ PAS JOUER
+{0} est réservé aux adultes.
+QUITTER
+Fermeture dans {0}...
+PARLEZ-NOUS DE VOUS
+Nous choisirons vos hôtes, croupiers et serveurs en conséquence. Vous pouvez changer cela à tout moment dans les Réglages.
+JE SUIS UN HOMME
+JE SUIS UNE FEMME
+JE PRÉFÈRE NE PAS DIRE
+ENTRER DANS LE CASINO
+Votre équipe ce soir :
+Page {0} sur {1}
+LANGUE
+AUTOMATIQUE
+PAYS
+Bienvenue ! Faites vos jeux, s'il vous plaît.
+La limite de la table est de {0} par tour.
+Touchez le tapis pour placer des jetons
+Rien ne va plus !
+VERT
+vert
+rouge
+noir
+Quel coup ! Félicitations !
+Gagné ! Vous gagnez {0}.
+{0} {1}. {2} vous reviennent.
+Faites vos jeux, s'il vous plaît.
+Attendez que la bille s'arrête.
+RÉGLAGES
+GÉNÉRAL
+GRAPHISMES
+SON
+TACTILE
+SOURIS
+MANETTE
+VIBRATIONS
+18+ • Les jetons n'ont aucune valeur monétaire • Polices : Bebas Neue, Poppins, Noto (SIL OFL) • Frontières : Natural Earth • Données de prix : Banque mondiale
+PERSONNEL DU CASINO
+FEMMES
+HOMMES
+MIXTE
+RAPPELS
+Jetons gratuits prêts, et un petit rappel le soir avant qu'une série ne s'arrête.
+VÉRIFIER
+RÉGION DE PRIX
+Le plus rapide : le casino tel qu'il est peint, rien de plus.
+Les sols cirés, le bois et l'or reflètent la salle.
+Look cinéma : étalonnage, grain, halo, rayons de lumière, peau réaliste.
+Objectif cinéma : la mise au point suit votre regard, traînées sur les lumières, poussière dans les rayons.
+QUALITÉ
+BASSE
+MOYENNE
+HAUTE
+ULTRA
+RÉSOLUTION
+Plus basse, l'image est plus douce, mais le téléphone chauffe moins et économise la batterie.
+MODE D'AFFICHAGE
+PLEIN ÉCRAN
+FENÊTRÉ
+ANTICRÉNELAGE
+Adoucit les bords crénelés du casino.
+IMAGES/S
+{0} FPS
+30 FPS économise la batterie et garde les vieux téléphones au frais.
+SYNCHRO VERTICALE
+CHAMP DE VISION
+AFFICHER LES FPS
+VOLUME GÉNÉRAL
+MUSIQUE
+EFFETS SONORES
+VOIX DU PERSONNEL
+Le murmure du personnel quand il parle.
+MUET EN ARRIÈRE-PLAN
+Coupe le son du casino quand vous êtes dans une autre fenêtre.
+SENSIBILITÉ DE LA VUE
+Vitesse de rotation de la vue quand vous glissez.
+Vitesse de rotation de la vue quand vous glissez avec la souris.
+INVERSER VUE GAUCHE / DROITE
+INVERSER VUE HAUT / BAS
+DISPOSITION DES BOUTONS
+AUTO
+INVERSER MENU / AFFICHAGE
+SENSIBILITÉ DU STICK
+Vitesse de rotation de la vue avec le stick droit.
+INVERSER STICK GAUCHE / DROITE
+INVERSER STICK HAUT / BAS
+AIDES MANETTE
+Affiche le rôle de chaque bouton quand vous jouez à la manette.
+VIBRER SUR
+TÉLÉPHONE
+LES DEUX
+Auto : la manette quand elle est connectée, sinon le téléphone.
+VIBRATION DU TÉLÉPHONE
+FORCE TÉLÉPHONE
+VIBRATION DE LA MANETTE
+FORCE MANETTE
+AUTOMATIQUE ({0})
+{0} ouvre les Réglages, {1} ouvre le Quotidien.
+Aucune manette connectée.
+Connectée : {0}. Boutons {1} affichés (A à droite pour valider).
+Connectée : {0}. Boutons {1} affichés.
+LE BAR
+CHANCE
+Les jetons, la chance et la nourriture sont des objets virtuels pour le divertissement uniquement : sans valeur monétaire, non échangeables contre de l'argent ou des prix.
+Chaque carte a cette chance d'être distribuée en votre faveur, sur les mises de blackjack jusqu'à {0} jetons (les mises plus élevées sont standard et n'utilisent pas de mains). Commence après la Chance du débutant ; les packs les plus forts passent en premier.
+Autorisez la localisation pour obtenir le prix de votre pays
+Les achats ne sont pas disponibles dans cette version du jeu.
+BOUTIQUE DE TEST (pas d'argent réel)
+énergie
++{0} % DE JETONS
+{0} mains
+en gagne environ {0} %
+Bienvenue au sic bo ! Grand, petit ou plus audacieux ?
+La limite de la table est de {0} par lancer.
+SECOUER
+BRELAN DE {0} !
+LUCKY ACE 7s
+MISE TOTALE
+TABLE DES GAINS
+BONNE CHANCE !
+Il vous faut au moins 10 jetons pour lancer.
+OBTENIR DES JETONS
+Mise réduite à ce que vous pouvez couvrir.
+MÉGA GAIN !
+GROS GAIN !
+REMBOURSÉ {0}
+PAS DE GAIN
+LIGNE {0} : {1} × {2} = {3}
+{0} ÉTOILES = {1}
+Cerise
+Citron
+Orange
+Prune
+Cloche
+Bar
+Sept
+Diamant
+As
+Étoile
+Les ÉTOILES paient n'importe où : 5 = {0}× la mise, 4 = {1}× la mise, 3 = {2}× la mise.
+L'AS est joker : il remplace tous les symboles sauf l'étoile.
+Les gains de ligne sont des multiples de la mise par ligne (mise totale ÷ 10), de gauche à droite depuis le premier rouleau.
+TAUX DE RETOUR : {0} % sur le long terme. Chaque tour est indépendant et aléatoire.
+GARDÉE
+Distribuez, gardez les cartes voulues, tirez une fois.
+GARDER
+CONSEIL
+TIRER
+Touchez les cartes à garder, puis tirez.
+Marcher
+Regarder
+Boutons
+Réglages
+Quotidien
+Régler
+Déplacer
+Choisir
+Fermer
+Retour
+ÉPUISÉ
+CHANCE DU DÉBUTANT {0} %
+ENCORE {0} MAINS
+SÉRIE CHANCEUSE {0} %
+{0} MAINS  •  MISES JUSQU'À {1}
+NIVEAU
+Sofia
+Elena
+Mia
+Valentina
+Chloé
+Isabelle
+Nadia
+Aria
+Luna
+Camila
+Aurora
+Bianca
+Serena
+Marco
+Léo
+Adrien
+Lucas
+Victor
+Daniel
+Gabriel
+Ethan
+Julien
+Raphaël
+Mateo
+Nico
+Enzo
+BIENVENUE
+PARLER À L'HÔTESSE
+Indications et conseils
+JETONS  •  BONUS
+ACHETER DES JETONS
+Caisse
+COCKTAILS  •  EN-CAS  •  ÉNERGIE
+À BOIRE ET À MANGER
+Le bar
+LE BLACKJACK PAIE 3 CONTRE 2
+LE CROUPIER RESTE À 17
+JOUER AU BLACKJACK
+Table {0}  •  mises de {1} à {2}
+JOUER AU HOLD'EM
+Ultimate Texas Hold'em  •  ante de {0} à {1}
+JOUER AU BACCARA
+GRAND  •  PETIT  •  BRELANS
+JOUER AU SIC BO
+Trois dés  •  grand ou petit paie 1 pour 1
+PASS LINE  •  FIELD  •  ODDS
+JOUER AU CRAPS
+La Pass Line paie 1 pour 1  •  les odds paient la cote réelle
+JOUER AU VIDÉO POKER
+JOUER AUX MACHINES À SOUS
+Jacks or Better  •  table complète 9/6
+LUCKY ACE 7s  •  JUSQU'À 2 500× VOTRE MISE PAR LIGNE
+JACKS OR BETTER  •  LA QUINTE FLUSH ROYALE PAIE 800×
+FAITES VOS JEUX
+JOUER À LA ROULETTE
+Roue européenne  •  le plein paie 35 contre 1
+COMMANDER UN VERRE
+{0} vous l'apporte
+La {0} s'ouvre au niveau {1}. Vous êtes niveau {2} : chaque manche jouée compte.
+Cette table demande au moins {0} jetons.
+Les tables de blackjack sont droit devant. Approchez-vous de l'une d'elles et asseyez-vous !
+Les machines à sous sont le long du mur de droite, le vidéo poker au mur du fond, et la roulette au fond.
+Le hold'em est dans le coin du fond à gauche, après le bar.
+Le baccara est juste à gauche en entrant.
+Le sic bo est dans le coin après la caisse : trois dés, grand ou petit.
+La table de craps est à droite, devant les machines à sous. Misez sur la Pass Line et lancez !
+La caisse est juste ici sur votre droite, et le bar le long du mur de gauche.
+Fatigué ? Un en-cas au bar vous redonne toute votre énergie.
+Touchez le sol n'importe où et vous y marcherez. Touchez une table pour vous asseoir.
+Andorre
+Émirats arabes unis
+Afghanistan
+Antigua-et-Barbuda
+Anguilla
+Albanie
+Arménie
+Angola
+Antarctique
+Argentine
+Samoa américaines
+Autriche
+Australie
+Aruba
+Îles Åland
+Azerbaïdjan
+Bosnie-Herzégovine
+Barbade
+Bangladesh
+Belgique
+Burkina Faso
+Bulgarie
+Bahreïn
+Burundi
+Bénin
+Saint-Barthélemy
+Bermudes
+Brunei
+Bolivie
+Pays-Bas caribéens
+Brésil
+Bahamas
+Bhoutan
+Île Bouvet
+Botswana
+Biélorussie
+Belize
+Canada
+Îles Cocos
+Congo-Kinshasa
+République centrafricaine
+Congo-Brazzaville
+Suisse
+Côte d’Ivoire
+Îles Cook
+Chili
+Cameroun
+Chine
+Colombie
+Costa Rica
+Cuba
+Cap-Vert
+Curaçao
+Île Christmas
+Chypre
+Tchéquie
+Allemagne
+Djibouti
+Danemark
+Dominique
+République dominicaine
+Algérie
+Équateur
+Estonie
+Égypte
+Sahara occidental
+Érythrée
+Espagne
+Éthiopie
+Finlande
+Fidji
+Îles Malouines
+Micronésie
+Îles Féroé
+France
+Gabon
+Royaume-Uni
+Grenade
+Géorgie
+Guyane française
+Guernesey
+Ghana
+Gibraltar
+Groenland
+Gambie
+Guinée
+Guadeloupe
+Guinée équatoriale
+Grèce
+Géorgie du Sud-et-les Îles Sandwich du Sud
+Guatemala
+Guam
+Guinée-Bissau
+Guyana
+R.A.S. chinoise de Hong Kong
+Îles Heard-et-MacDonald
+Honduras
+Croatie
+Haïti
+Hongrie
+Indonésie
+Irlande
+Israël
+Île de Man
+Inde
+Territoire britannique de l’océan Indien
+Irak
+Iran
+Islande
+Italie
+Jersey
+Jamaïque
+Jordanie
+Japon
+Kenya
+Kirghizstan
+Cambodge
+Kiribati
+Comores
+Saint-Christophe-et-Niévès
+Corée du Nord
+Corée du Sud
+Koweït
+Îles Caïmans
+Kazakhstan
+Laos
+Liban
+Sainte-Lucie
+Liechtenstein
+Sri Lanka
+Liberia
+Lesotho
+Lituanie
+Luxembourg
+Lettonie
+Libye
+Maroc
+Monaco
+Moldavie
+Monténégro
+Saint-Martin
+Madagascar
+Îles Marshall
+Macédoine du Nord
+Mali
+Myanmar (Birmanie)
+Mongolie
+R.A.S. chinoise de Macao
+Îles Mariannes du Nord
+Martinique
+Mauritanie
+Montserrat
+Malte
+Maurice
+Maldives
+Malawi
+Mexique
+Malaisie
+Mozambique
+Namibie
+Nouvelle-Calédonie
+Niger
+Île Norfolk
+Nigeria
+Nicaragua
+Pays-Bas
+Norvège
+Népal
+Nauru
+Niue
+Nouvelle-Zélande
+Oman
+Panama
+Pérou
+Polynésie française
+Papouasie-Nouvelle-Guinée
+Philippines
+Pakistan
+Pologne
+Saint-Pierre-et-Miquelon
+Îles Pitcairn
+Porto Rico
+Territoires palestiniens
+Portugal
+Palaos
+Paraguay
+Qatar
+La Réunion
+Roumanie
+Serbie
+Russie
+Rwanda
+Arabie saoudite
+Îles Salomon
+Seychelles
+Soudan
+Suède
+Singapour
+Sainte-Hélène
+Slovénie
+Svalbard et Jan Mayen
+Slovaquie
+Sierra Leone
+Saint-Marin
+Sénégal
+Somalie
+Suriname
+Soudan du Sud
+Sao Tomé-et-Principe
+Salvador
+Saint-Martin (partie néerlandaise)
+Syrie
+Eswatini
+Îles Turques-et-Caïques
+Tchad
+Terres australes françaises
+Togo
+Thaïlande
+Tadjikistan
+Tokelau
+Timor oriental
+Turkménistan
+Tunisie
+Tonga
+Turquie
+Trinité-et-Tobago
+Tuvalu
+Taïwan
+Tanzanie
+Ukraine
+Ouganda
+Îles mineures éloignées des États-Unis
+États-Unis
+Uruguay
+Ouzbékistan
+État de la Cité du Vatican
+Saint-Vincent-et-les Grenadines
+Venezuela
+Îles Vierges britanniques
+Îles Vierges des États-Unis
+Viêt Nam
+Vanuatu
+Wallis-et-Futuna
+Samoa
+Kosovo
+Yémen
+Mayotte
+Afrique du Sud
+Zambie
+Zimbabwe
+Anglais
+Afrikaans
+Amharique
+Arabe
+Azerbaïdjanais
+Biélorusse
+Bulgare
+Bengali
+Bosniaque
+Catalan
+Tchèque
+Danois
+Allemand
+Grec
+Espagnol
+Estonien
+Basque
+Persan
+Finnois
+Filipino
+Français
+Irlandais
+Galicien
+Goudjarati
+Haoussa
+Hébreu
+Hindi
+Croate
+Français (Haïti)
+Hongrois
+Arménien
+Indonésien
+Igbo
+Islandais
+Italien
+Japonais
+Géorgien
+Kazakh
+Khmer
+Kannada
+Coréen
+Kirghize
+Luxembourgeois
+Lao
+Lituanien
+Letton
+Malgache
+Macédonien
+Malayalam
+Mongol
+Marathi
+Malais
+Maltais
+Birman
+Norvégien bokmål
+Népalais
+Néerlandais
+Pendjabi
+Polonais
+Pachto
+Portugais (Brésil)
+Portugais (Portugal)
+Romanche
+Roumain
+Russe
+Kinyarwanda
+Cingalais
+Slovaque
+Slovène
+Somali
+Albanais
+Serbe
+Suédois
+Swahili
+Tamoul
+Télougou
+Tadjik
+Thaï
+Turkmène
+Turc
+Ukrainien
+Ourdou
+Ouzbek
+Vietnamien
+Xhosa
+Yoruba
+Chinois (simplifié)
+Chinois (traditionnel)
+Zoulou
+Dim.
+Lun.
+Mar.
+Mer.
+Jeu.
+Ven.
+Sam.

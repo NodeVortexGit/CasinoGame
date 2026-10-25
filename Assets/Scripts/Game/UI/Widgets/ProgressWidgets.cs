@@ -76,7 +76,7 @@ namespace Casino.UI
             ((RectTransform)star.transform).At(0f, 0.5f, 6, 0, 78, 78, 0f, 0.5f);
             b.number = UIKit.Label(star.transform, "1", 30, Palette.TextDark, TextAnchor.MiddleCenter, FontKind.Display);
             ((RectTransform)b.number.transform).Stretch(0, 0, 0, 4);
-            var label = UIKit.Label(rt, "LEVEL", 22, Palette.GoldLight, TextAnchor.MiddleLeft, FontKind.Semi);
+            var label = UIKit.Label(rt, Loc.T("LEVEL"), 22, Palette.GoldLight, TextAnchor.MiddleLeft, FontKind.Semi);
             ((RectTransform)label.transform).At(0f, 0.5f, 90, 14, 90, 30, 0f, 0.5f);
             var track = UIKit.Panel(rt, "Track", new Color(1, 1, 1, 0.15f), 6f);
             var trt = ((RectTransform)track.transform).At(0f, 0.5f, 90, -14, 82, 12, 0f, 0.5f);

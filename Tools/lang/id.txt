@@ -1,0 +1,659 @@
+# Indonesian (id). Machine translation by Claude.
+bd99124	Segenggam Chip
+c7c6dc8	Setumpuk Chip
+7512cfd	Senampan Chip
+fa36588	Serak Chip
+7994f65	PALING POPULER
+49dcc21	Brankas Chip
+0725283	Brankas High Roller
+7658705	PALING HEMAT
+2f23432	Air Soda
+418b820	Espresso
+97b463c	Minuman Energi
+43bbfda	Club Sandwich
+bce7a75	Paket Burger
+2832a8d	Makan Malam Steak
+dee8ee8	ISI PENUH
+a7c2255	Rentetan Untung
+7919163	Rentetan Panas
+74fdfc2	PALING BERUNTUNG
+d79cd12	Meja Perunggu
+2a8ff35	Meja Perak
+51877b2	Meja Emas
+9282152	Meja Berlian
+0de8764	Masukkan tahun yang valid.
+d4e14c9	Masukkan bulan yang valid (1-12).
+addd156	Masukkan tanggal yang valid.
+d78a4f4	Tanggal itu ada di masa depan.
+787c7c6	Selamat datang di mejaku! Siap bermain?
+8b0f93e	Senang bertemu kamu. Silakan duduk!
+8338021	Hai! Kartunya masih segar, aku juga.
+75750f9	Selamat datang! Ayo jadikan malam ini menyenangkan.
+95aac36	Pasang taruhanmu kapan pun kamu siap.
+8bc63c1	Chip di meja, ayo kita lihat kartunya.
+984b7f3	Kita main untuk apa?
+b74c769	Wah, taruhan besar! Aku suka gayamu.
+77fc1fc	Nah, itu baru taruhan. Ayo!
+7779a5b	Lagi berani malam ini, ya?
+479ff82	All in?! Jantungku berdebar!
+7fb527c	Semuanya di satu tangan. Tanpa rasa takut!
+7bf0c5d	Blackjack! Luar biasa!
+123f2d5	Dua puluh satu, begitu saja!
+cd850a7	Blackjack! Kartu-kartu sayang kamu malam ini.
+55f50ee	Main yang bagus!
+79594b1	Menang! Hebat.
+0df710e	Kamu lagi di atas angin!
+20a0c1e	Yang itu milikmu.
+a45fe61	Kemenangan yang hebat! Semua orang menonton meja ini!
+54d3982	Besar sekali! Kamu lagi panas malam ini!
+8da8f1e	Hampir saja! Yang berikutnya milikmu.
+5d921e1	Kali ini kasino yang beruntung.
+f923af7	Lupakan saja, tangan baru akan datang.
+853e7ca	Aduh, kelebihan satu kartu.
+daec44f	Bust! Bahkan yang terbaik pun bisa kena.
+11ceaef	Seri. Tidak ada yang kalah!
+911a289	Push. Chip-mu aman.
+a89d9d9	Aku bust! Untung kamu.
+f76c8fd	Kebanyakan buatku. Kamu menang!
+63f8d0b	Blackjack untuk kasino, maaf ya!
+465c8bf	Dealer dapat blackjack. Sial.
+6752f40	Aku menunjukkan As. Asuransi?
+1920c5a	Split! Dua peluang untuk menang.
+9f621da	Double down. Langkah berani!
+59da99d	Gandakan! Satu kartu datang.
+0b48017	Shoe baru, aku kocok dulu!
+3fa7769	Mulai menipis? Kasir bisa mengisi ulang.
+4e5694b	Chip-mu makin sedikit. Mau ambil lagi?
+d41f057	Chip habis! Kunjungi kasir atau ambil chip gratis.
+15d90d3	Tumpukanmu kosong. Kasir ada tepat di belakangmu.
+a9eaae1	Kamu kelihatan lelah sekali! Makan sesuatu di bar.
+5cd9e8b	Kehabisan tenaga? Bar siap membantu.
+37b9672	Santai saja.
+c64df8c	Kapan pun kamu siap!
+b8dfc0a	Malam masih panjang.
+8748560	Keberuntungan pemula ada di pihakmu!
+e3def50	Dek kartu memihakmu malam ini!
+506ade9	Keberuntungan pemula sudah selesai. Mulai sekarang permainannya adil!
+953d8b7	Selamat datang di kasino! Kursimu sudah menunggu.
+9fd9844	Selamat malam! Meja-meja sedang panas malam ini.
+2d42aaf	Selamat datang kembali! Merasa beruntung?
+311bae7	Ketuk meja untuk mulai bermain!
+3318099	Butuh chip lagi? Kamu datang ke loket yang tepat.
+c5b3787	Tumpukan lebih besar, bonus lebih besar!
+21ae665	Lapar? Pilih apa saja dari menu.
+8b83cc0	Makan sedikit menjaga energimu tetap penuh!
+35f4b0e	Selamat datang di mejaku!
+8f90245	Itu dia kamu! Tempat ini langsung terasa lebih cerah.
+909e4d6	Anggap saja rumah sendiri. Malam ini semuanya tentang kamu.
+2477f78	Aku suka senyum itu. Malam keberuntungan?
+6ac2120	Santai, kamu ada di tangan yang tepat.
+089f04b	Hai kamu! Aku berharap kamu mampir ke loketku.
+3f2c3c9	Selalu senang melihat wajah yang ramah.
+3021db8	Lihat siapa yang datang! Seru di sana?
+769980b	Hai, ganteng!
+5361ffd	Aku suka gayamu malam ini.
+56b40be	Hai, senang bertemu lagi!
+3316019	Malammu menyenangkan? Kamu pantas mendapatkannya.
+28283fd	Hati-hati, nanti aku jadi mendukungmu.
+109ac94	Pemain favoritku kembali!
+acba0e6	Duduk denganku, akan kubagikan sesuatu yang bagus.
+eb5ff2a	Kamu membuat meja ini jauh lebih seru.
+772a73c	Sudah mau pergi? Malam masih panjang!
+178301a	Ayolah, satu tangan lagi saja. Aku punya firasat bagus!
+816036a	Jangan tinggalkan aku sekarang, kita baru mulai!
+5c9b7e2	Kesempatan terakhir! Tangan berikutnya bisa jadi yang besar...
+20ce7b6	Oke, oke. Aku jaga kursimu tetap hangat. Janji kembali?
+51d1aeb	Belum ada rentetan? Mainkan {2} ronde hari ini dan aku mulai menghitung.
+10b25d9	Awal baru! {2} ronde dan apimu menyala.
+0c10711	Aku punya daftar kecil orang yang datang setiap hari. Kamu belum ada di sana... belum.
+5e7c431	Hari ke-{1} menunggumu. Tinggal {2} ronde lagi!
+b268d84	{0} hari berturut-turut... kamu tidak akan berhenti sekarang, kan?
+b32ae79	Apimu terlihat agak dingin hari ini. {2} ronde akan menghangatkannya.
+a6f3fbd	Aku sudah menghitung: {0} hari. Ayo jadikan {1}.
+1dc5c97	Jangan kira aku tidak sadar. Tinggal {2} ronde untuk menjaga rentetanmu!
+807b82c	{0} hari berturut-turut? Sepertinya kamu suka di sini.
+6391923	Rentetanmu aman untuk hari ini. Sekarang kamu cuma pamer.
+3bfbbf7	Hari ke-{0}, beres. Besok jam yang sama?
+ca2a2c1	{0} hari! Sepertinya aku harus menyimpan kursi untukmu.
+54f991f	Itu dia: hari pertama rentetanmu! Kembali besok, kita jadikan dua.
+a1e7ab0	Seminggu penuh berturut-turut! Aku benar-benar terkesan.
+96cee95	Tiga puluh hari! Kamu hampir seperti kerja di sini.
+a9834cd	Seratus hari. Aku cerita ke semua orang tentangmu.
+071317f	Sudah {0} hari berturut-turut! Lihat dirimu.
+0964027	Rentetan terselamatkan: hari ke-{0}! Aku tahu kamu bisa.
+c7f2a1f	Hari ke-{0}! Taruhan kamu tidak bisa sampai {1}.
+a6ce2e2	{0} hari... oke, tukang pamer.
+3ab91d0	Mainkan 10 tangan blackjack
+38e863d	Menangkan 5 tangan blackjack
+6ac41cc	Dapatkan blackjack
+74cf149	Menangkan 500 chip di blackjack
+66440e1	Putar slot 20 kali
+9205056	Menangkan 5 putaran slot
+cd60e0c	Menangkan 5× taruhanmu di slot
+6f7ac28	Mainkan 5 ronde rolet
+6978cc0	Menangkan 3 putaran rolet
+c8ebbcc	Tebak satu angka secara langsung
+8a57c54	lokasi GPS
+4919635	jaringan seluler
+527b094	koneksi internet
+f49ae82	pengaturan perangkat
+60827d3	negara uji
+0b2f8d8	belum diverifikasi (harga standar)
+50d8b4a	tidak diketahui
+4fb7a4e	12 ke-1
+647a0eb	12 ke-2
+a934745	12 ke-3
+3de80ab	2 banding 1
+bb4e68e	MERAH
+a9414ab	HITAM
+710756a	GANJIL
+70ca748	GENAP
+4d60d6c	HARGA ADIL UNTUK NEGARAMU
+1674d95	Harga di toko disesuaikan dengan ekonomi negaramu, agar pemain di mana pun membayar harga yang adil.
+4ec27ee	Untuk mengetahui negaramu, kami memeriksa perkiraan lokasimu sekali. Lokasi dicocokkan dengan negara di perangkatmu dan tidak pernah dikirim ke mana pun. Jika kamu menolak, harga standar berlaku.
+ff3dbb4	LANJUTKAN
+43a6a8d	Tinggalkan kasino?
+ad209a0	Chip dan progresmu sudah tersimpan.
+5860c84	KELUAR
+f1e0808	TETAP
+5b38c49	{0} terbuka
+15ae7ac	Pembeku rentetan menyelamatkan rentetan {0} harimu kemarin.
+d375ffb	{0} pembeku rentetan menyelamatkan rentetan {1} harimu.
+fd8ab39	Rentetan {0} harimu berakhir. Mainkan {1} ronde hari ini untuk memulai yang baru!
+7fa2db4	MISI SELESAI
+255325c	+{0} chip
+d205ece	SEMUA MISI SELESAI!
+4acbed2	Bonus harian +{0} chip. Misi baru besok.
+ab2ceb3	LEVEL {0}!
+86e2afb	Pencapaian! +{0} chip
+9ae18ad	Kembali besok untuk melanjutkan
+7af7e7c	+1 pembeku rentetan
+b5b9597	RENTETAN {0} HARI!
+62ec60d	Pembelian tidak tersedia di versi ini.
+1f9786c	Pembelian gagal. Kamu tidak dikenai biaya.
+3e4c600	+{0} chip ditambahkan!
+1998202	{0}: {1} tangan dengan {2}% keberuntungan, setelah Keberuntungan Pemula
+728ada5	{0}: {1} tangan dengan {2}% keberuntungan!
+af5e232	{0}: +{1}% energi
+001a53b	Tidak tersedia di perangkat ini
+2607004	Video tidak bisa dimuat di jaringan ini
+569c30d	Kembali besok
+ecae6ee	Siap dalam {0} dtk
+9964820	+{0} chip (sisa {1} hari ini)
+e1bd888	+{0} chip gratis!
+619bd5d	+1 pembeku rentetan!
+f70d794	Saat ini tidak ada video. Coba lagi sebentar lagi.
+264d71b	PERUNGGU
+462e839	PERAK
+81ff70a	EMAS
+50e122e	BERLIAN
+57f5f5e	Menu
+69bd4ef	Tampilan
+dbfe736	Silang
+1cc7820	Lingkaran
+82810cb	Kotak
+73d3ae2	Segitiga
+a42f608	Memeriksa wilayahmu...
+1db422c	Belum diverifikasi ({0}): harga standar
+9bc0807	{0} ({1}): harga dalam {2}
+ae8c393	Pengingat
+aefd59b	Chip gratis siap dan pengingat rentetan
+3125838	Chip gratismu sudah siap
+233027b	{0} chip menunggumu di Lucky Ace.
+b93976b	Jaga rentetan {0} harimu
+bd68038	Mainkan {0} ronde hari ini agar tidak direset tengah malam.
+0acfb6f	Selamat datang! Keberuntungan pemula ada di pihakmu malam ini. Pasang taruhan!
+d589374	BLACKJACK MEMBAYAR 3 BANDING 2   •   DEALER BERHENTI DI SEMUA 17   •   ASURANSI MEMBAYAR 2 BANDING 1
+b700b02	TARUHAN
+16ec74f	HAPUS
+928226b	ULANGI
+55591e0	BAGIKAN
+395ed46	HIT
+43e7971	STAND
+097274c	DOUBLE
+6df63ca	SPLIT
+3e40f46	ASURANSI
+db82d3a	TIDAK, TERIMA KASIH
+28d6be8	TARUHAN {0}+
+9587b70	Batas maksimum meja tercapai
+b9ac47d	Chip tidak cukup
+d237ade	Dealer menunjukkan As. Asuransi seharga {0}?
+bf07c14	Asuransi membayar {0}
+b6e674a	Dealer tidak dapat blackjack. Asuransi hangus.
+0cc9679	BUST
+82ce89d	DEALER BUST
+6e1e1a4	BLACKJACK!
+662fae5	MENANG
+8918d00	SERI
+8df6be4	KALAH
+9e69668	Keberuntungan pemula sudah selesai. Rentetan Untungmu dimulai sekarang.
+822f4f4	Keberuntungan pemula sudah selesai. Mulai sekarang blackjack standar.
+b0377c7	Rentetan Untungmu sudah selesai. Kembali ke blackjack standar.
+824ad7c	CHIP HABIS
+ff1822d	Tonton video singkat untuk {0} chip gratis, atau kunjungi kasir.
+e4cac2f	Kunjungi kasir untuk mengisi ulang chip-mu.
+c3df3e7	CHIP GRATIS
+b169d33	KASIR
+4d38f66	NANTI
+cb8171b	Selesaikan tangan ini dulu.
+3aa6941	“{0}”
+6f846f4	SATU TANGAN LAGI
+a79d4f2	PERGI
+693f697	KEBERUNTUNGAN PEMULA
+641ad58	RENTETAN UNTUNG
+fc45931	Bonus selamat datang untuk pemain baru: untuk <b>{0} tangan</b> pertamamu, shoe dealer disusun menguntungkanmu, jadi kamu akan menang hampir di setiap tangan.
+576c683	Selama <b>{0} tangan</b> berikutnya keuntungan itu memudar, lalu setiap meja adalah blackjack standar yang adil dari shoe 6 dek yang sudah dikocok (blackjack membayar 3 banding 2, dealer berhenti di semua 17).
+7fb55b3	Keuntungan saat ini: <b><color=#7CFC9A>{0}%</color></b>   Sisa tangan: <b>{1}</b>
+d4f8fe0	Untuk <b>{0} tangan blackjack</b> berikutnya dengan taruhan hingga <b>{1} chip</b>, setiap kartu punya peluang <b>{2}%</b> dibagikan menguntungkanmu (sama seperti Keberuntungan Pemula).
+0a5fc06	Dengan permainan yang baik, itu menang sekitar <b>{0}%</b> tangan, dibanding sekitar {1}% di blackjack standar. Taruhan lebih besar adalah blackjack standar dan tidak memakai jatah tangan. Saat jatah tangan habis, setiap meja kembali menjadi blackjack standar yang adil.
+c3a8946	MENGERTI
+8dfc44a	MAU KEBERUNTUNGANMU KEMBALI?
+272a97f	Keberuntungan Pemula sudah selesai: mulai sekarang setiap meja adalah blackjack standar yang adil. Rentetan Untung mengembalikan keuntungan itu untuk sementara.
+06b7689	HARIAN
+4035996	RENTETAN HARIAN
+fbe7f18	HARI BERTURUT-TURUT
+7a46866	HARI INI
+4753707	TONTON IKLAN
+6bb45f3	BELI
+62a945f	PEMBEKU RENTETAN
+ba5b1de	Pembeku rentetan menjaga rentetanmu tetap hidup pada hari kamu tidak bermain. Kamu bisa menyimpan {0}.\n\nBeli satu seharga {1} chip?
+38c6090	Pembeku rentetan siap.
+8fe681f	Chip tidak cukup untuk pembeku.
+1507c40	BATAL
+457d20f	PUTARAN HARIAN
+9623247	PUTAR
+ac5ef96	Peluang:
+1200f20	{0}%
+003a689	Kamu menang {0} chip!
+f757137	MISI HARI INI
+7b7f9e2	Terbaik: {0} hari
+9554fea	Main setiap hari untuk membangun rentetan
+5c8dbb8	Target hari ini tercapai! Sampai besok.
+1aeb9a1	Hari ini: {0} / {1} ronde (permainan apa saja)
+bb92856	Pembeku rentetan: {0} / {1}
+0ec6216	Selamatkan rentetanmu pada hari yang terlewat. +1 setiap 7 hari.
+cc0a745	PENUH
+419a962	TIDAK ADA VIDEO
+2dabd99	IKLAN SEGERA
+f12e166	Bonus rentetan: hadiah ×{0}
+80948a4	Satu putaran gratis setiap hari
+596b5e0	BERIKUTNYA  {0}
+7f7e7fc	Semua selesai! Bonus diambil.
+03a0f2a	Misi baru tengah malam nanti.
+4784874	Selesaikan ketiganya: +{0} chip bonus
+42c5cda	MAIN
+337211e	PERMAINAN
+8f5e3bd	Geser sisi kiri untuk berjalan  •  Geser sisi kanan untuk melihat  •  Ketuk untuk pergi
+d00d221	Khusus 18+  •  Chip hanya untuk hiburan: tidak bernilai uang, tidak pernah bisa ditukar dengan uang atau hadiah
+b60f038	Membuka pintu...
+2e5bcce	Selamat datang! {0} chip sambutanmu sudah siap. Meja ada lurus di depan!
+7ef7ae3	+{0} chip gratis! Lagi dalam {1} jam.
+5d82af9	Chip gratis terisi ulang setiap {0} jam. Berikutnya dalam {1}.
+5469985	{0}j {1}m
+bb65beb	{0}m {1}d
+ac8ba93	JAGA RENTETANMU
+560bfa1	Mau pengingat di malam saat kamu belum bermain, dan saat chip gratismu siap? Tidak lebih dari itu, dan kamu bisa mematikannya di Pengaturan.
+b724a40	INGATKAN AKU
+9e0c898	+{0} chip siap!
+1207e28	Tonton video: {0}
+db3655b	Chip gratis berikutnya dalam {0}
+4ca9be5	BLACKJACK
+9a612b1	4 meja  •  membayar 3 banding 2
+1194439	SLOT
+6555152	Lucky Ace 7s  •  10 garis
+255b1a1	ROLET
+6df1551	Eropa satu nol
+379b146	KAMU KELELAHAN
+340e5c4	Bar energimu kosong. Ambil sesuatu dari bar untuk terus bermain, atau kembali nanti: energi pulih perlahan saat kamu pergi.
+a517396	KE BAR
+7c7227f	PILIH MEJAMU
+c963de3	TARUHAN
+c433657	LEVEL {0}
+083ac39	DUDUK
+9698219	BUTUH {0}
+34b737e	Capai level {0} untuk bermain di sini. Kamu level {1}.
+6cc19a9	KASINO
+6e946b7	HH
+4a3a892	BB
+2857a6a	TTTT
+9d1fece	HARI
+d3bb0c3	BULAN
+c0f0cad	TAHUN
+43985ff	KAPAN KAMU LAHIR?
+293fda2	Chip hanya untuk hiburan. Chip tidak bernilai uang dan tidak pernah bisa ditukar dengan uang atau hadiah.
+3e9128d	MAAF, KAMU TIDAK BOLEH BERMAIN
+b5e8985	{0} hanya tersedia untuk orang dewasa.
+bb1b380	KELUAR
+d9f9432	Menutup dalam {0}...
+c6e102d	CERITAKAN TENTANG DIRIMU
+31120ce	Kami akan memilihkan host, dealer, dan staf bar yang sesuai. Kamu bisa mengubahnya kapan saja di Pengaturan.
+49e8df9	SAYA PRIA
+85abe81	SAYA WANITA
+76cc98c	TIDAK INGIN MENYEBUTKAN
+964daf7	MASUK KE KASINO
+2efb69a	Staf kamu malam ini:
+c10e749	Halaman {0} dari {1}
+2a3ffd9	BAHASA
+c673535	OTOMATIS
+d1245d2	NEGARA
+15fc12b	Selamat datang! Silakan pasang taruhan.
+531fb3f	Chip tidak cukup untuk taruhan itu.
+380eb75	Batas meja adalah {0} per putaran.
+55ad592	URUNGKAN
+8f191f9	TOTAL TARUHAN  {0}
+82e1181	Ketuk papan untuk menaruh chip
+bb19a75	Taruhan ditutup!
+5becf07	HIJAU
+bc74f4f	hijau
+7898801	merah
+466bc8c	hitam
+f2edfbf	Tebakan jitu! Selamat!
+b252caf	Menang! Kamu memenangkan {0}.
+8587d14	MENANG  +{0}
+b862a2b	{0} {1}. {2} kembali kepadamu.
+a306d0a	DIKEMBALIKAN  {0}
+af3134d	Belum menang kali ini
+84122e7	Silakan pasang taruhan.
+52205f4	Tunggu bolanya berhenti.
+c4b9243	PENGATURAN
+44d863e	UMUM
+2bbca79	GRAFIS
+955c8b4	SUARA
+c701f5f	SENTUH
+efcc94a	MOUSE
+8433628	KONTROLER
+d868a50	GETARAN
+f8692c7	18+ • Chip tidak bernilai uang • Font: Bebas Neue, Poppins, Noto (SIL OFL) • Batas wilayah: Natural Earth • Data harga: Bank Dunia
+da46447	STAF KASINO
+594b81e	WANITA
+69d3313	PRIA
+b4325d3	CAMPURAN
+414594a	PENGINGAT
+6cac87b	Chip gratis siap, dan pengingat di malam hari sebelum rentetan berakhir.
+e43b2e0	PERIKSA LAGI
+7c9e8f9	WILAYAH HARGA
+495c70e	Tercepat: kasino seperti lukisannya, tanpa tambahan.
+b052523	Lantai mengilap, kayu, dan emas memantulkan ruangan.
+6bd30d7	Tampilan film: gradasi warna, grain, cahaya, berkas sinar, kulit yang hidup.
+21b6e1d	Lensa sinema: fokus mengikuti pandanganmu, garis cahaya di lampu, debu di berkas sinar.
+fb7c2e8	KUALITAS
+d8b9679	RENDAH
+f68525a	SEDANG
+d77d0b2	TINGGI
+9289eee	ULTRA
+637e313	RESOLUSI
+2e7b141	Lebih rendah terlihat lebih halus, tapi lebih dingin dan hemat baterai.
+93dcfb5	MODE TAMPILAN
+3c6eac3	LAYAR PENUH
+f3690b1	JENDELA
+cfa6200	ANTI-ALIASING
+ad50489	MATI
+f178804	Menghaluskan tepi bergerigi di kasino.
+4266288	FRAME RATE
+d031ab0	{0} FPS
+a2b7514	30 FPS menghemat baterai dan menjaga ponsel lama tetap dingin.
+0babcee	V-SYNC
+6656e25	BIDANG PANDANG
+244aadb	TAMPILKAN FPS
+41c8f6e	VOLUME UTAMA
+bf3af1f	MUSIK
+bd80907	EFEK SUARA
+d098036	SUARA STAF
+93c6484	Gumaman staf saat mereka berbicara.
+16bf71a	SENYAP DI LATAR BELAKANG
+85b2ee7	Senyapkan kasino saat kamu berada di jendela lain.
+8e3634e	SENSITIVITAS PANDANGAN
+880dc05	Seberapa cepat geseran memutar tampilan.
+750c60f	Seberapa cepat geseran mouse memutar tampilan.
+8b988eb	BALIK PANDANGAN KIRI / KANAN
+cacf0cc	BALIK PANDANGAN ATAS / BAWAH
+2d13b68	TATA LETAK TOMBOL
+50c3f10	OTOMATIS
+b471e5c	TUKAR MENU / TAMPILAN
+d9a59f1	SENSITIVITAS STIK
+ec14343	Seberapa cepat stik kanan memutar tampilan.
+a79af23	BALIK STIK KIRI / KANAN
+acfc66e	BALIK STIK ATAS / BAWAH
+56bb461	PETUNJUK KONTROLER
+51cf49a	Menampilkan fungsi setiap tombol saat kamu bermain dengan kontroler.
+dff7431	GETAR DI
+34139ab	PONSEL
+15ee988	KEDUANYA
+465cc91	Otomatis: kontroler saat terhubung, selain itu ponsel.
+f6fed84	GETARAN PONSEL
+8e97fa7	KEKUATAN PONSEL
+486ba2d	GETARAN KONTROLER
+8008889	KEKUATAN KONTROLER
+ea9233e	OTOMATIS ({0})
+167dda7	{0} membuka Pengaturan, {1} membuka Harian.
+29a4ef9	Tidak ada kontroler yang terhubung.
+558ecd2	Terhubung: {0}. Menampilkan tombol {1} (A di kanan untuk konfirmasi).
+d6eee9e	Terhubung: {0}. Menampilkan tombol {1}.
+78525d5	BAR
+099db9f	KEBERUNTUNGAN
+b4a8b06	Chip, keberuntungan, dan makanan adalah item virtual hanya untuk hiburan: tidak bernilai uang, tidak bisa ditukar dengan uang atau hadiah.
+e2a28c9	Setiap kartu punya peluang itu untuk dibagikan menguntungkanmu, pada taruhan blackjack hingga {0} chip (taruhan lebih besar adalah standar dan tidak memakai jatah tangan). Dimulai setelah Keberuntungan Pemula; paket yang lebih kuat dipakai lebih dulu.
+04fbc6d	Izinkan akses lokasi untuk mendapatkan harga negaramu
+2ae87fc	Pembelian tidak tersedia di versi game ini.
+8239a84	TOKO UJI (bukan uang sungguhan)
+173d916	energi
+b2c67eb	+{0}% CHIP
+58e8011	{0} tangan
+ce80712	menang sekitar {0}% di antaranya
+c69e8ee	LUCKY ACE 7s
+fc99288	TOTAL TARUHAN
+c1c00cd	TABEL PEMBAYARAN
+3930abd	SEMOGA BERUNTUNG!
+67b6973	Kamu butuh minimal 10 chip untuk memutar.
+5aa1edb	AMBIL CHIP
+f5a1812	Taruhan diturunkan sesuai yang bisa kamu tutupi.
+5c63f61	MENANG BESAR SEKALI!
+652544f	MENANG BESAR!
+91bc41c	DIKEMBALIKAN {0}
+3714283	TIDAK MENANG
+33c0faa	GARIS {0}: {1} × {2} = {3}
+9f59e6e	{0} BINTANG = {1}
+d6eee90	Ceri
+4459b79	Lemon
+09fb6aa	Jeruk
+cb92e50	Plum
+d419866	Lonceng
+e496fd2	Bar
+63abb56	Tujuh
+b3850e0	Berlian
+fc2b5a9	As
+85a7de6	Bintang
+c31b035	BINTANG membayar di mana saja: 5 = {0}× taruhan, 4 = {1}× taruhan, 3 = {2}× taruhan.
+f97509c	AS adalah wild: menggantikan semua simbol kecuali bintang.
+3e8bc69	Pembayaran garis adalah kelipatan taruhan per garis (total taruhan ÷ 10), dari kiri ke kanan mulai gulungan pertama.
+523f8dc	PENGEMBALIAN: {0}% dalam jangka panjang. Setiap putaran bersifat independen dan acak.
+e0c705d	Jalan
+b8db515	Lihat
+503d46d	Tombol
+c7f73bb	Pengaturan
+728298d	Harian
+ab166bd	Atur
+76cdb95	Gerak
+8598222	Pilih
+bbfa773	Tutup
+b52b36b	Kembali
+ab37588	KELELAHAN
+9b11a09	KEBERUNTUNGAN PEMULA {0}%
+0c94e98	SISA {0} TANGAN
+51ed273	RENTETAN UNTUNG {0}%
+3401470	{0} TANGAN  •  TARUHAN HINGGA {1}
+f481cc6	LEVEL
+0139615	SELAMAT DATANG
+daad514	BICARA DENGAN HOST
+bcefb10	Petunjuk arah dan tips
+c28e782	CHIP  •  BONUS
+0c69ec4	BELI CHIP
+78c0727	Kasir
+1737fab	KOKTAIL  •  CAMILAN  •  ENERGI
+9e008ae	MAKANAN & MINUMAN
+f7881e8	Bar
+0e979ed	BLACKJACK MEMBAYAR 3 BANDING 2
+eea0d12	DEALER HARUS BERHENTI DI 17
+4db37bf	MAIN BLACKJACK
+0ffdd99	Meja {0}  •  taruhan {1} sampai {2}
+b4f938b	MAIN SLOT
+6b7caea	PASANG TARUHAN ANDA
+26b1e39	MAIN ROLET
+910a1ed	Roda Eropa  •  angka langsung membayar 35 banding 1
+7ef0215	PESAN MINUMAN
+fe38d73	{0} akan mengantarkannya
+f7b6306	{0} terbuka di level {1}. Kamu level {2}: setiap ronde yang kamu mainkan dihitung.
+d85f1ad	Meja ini butuh minimal {0} chip.
+cbfe016	Meja blackjack ada lurus di depan. Dekati salah satu dan duduklah!
+64d9faf	Kasir ada di sini di sebelah kananmu, dan bar ada di sepanjang dinding kiri.
+e4c6e0b	Capek? Camilan di bar langsung mengisi energimu.
+d5ab68f	Ketuk di mana saja di lantai dan kamu akan berjalan ke sana. Ketuk meja untuk duduk.
+cc21f74	KECIL
+dc01dec	BESAR
+5fb90b0	TRIPEL APA SAJA
+9c716f1	Meja hold'em
+3b6ab84	Mainkan 8 tangan hold'em
+6c617ca	Menangkan 4 tangan hold'em
+44ce500	Mainkan 10 tangan bakarat
+b90cff7	Menangkan 5 tangan bakarat
+3e4dfa9	Mainkan 15 tangan video poker
+854fe20	Mainkan 8 ronde sic bo
+dfddac1	Menangkan 4 ronde sic bo
+2973ea7	Lempar dadu 15 kali di craps
+737be17	Menangkan 4 lemparan di craps
+4dbb81d	Dapatkan flush atau lebih baik di video poker
+19aa07b	Royal flush
+cf83e72	Straight flush
+d27ba03	Four of a kind
+dbe8641	Full house
+7c936d7	Flush
+2501c65	Straight
+ca1a0d4	Three of a kind
+6876b40	Two pair
+2537f88	Satu pasang
+b4b323e	Kartu tertinggi
+f70bfdc	Jack atau lebih baik
+98fd5af	BAKARAT
+df66d5a	Selamat datang di bakarat! Pemain, Bankir, atau Seri?
+5055efd	PEMAIN
+3f90696	SERI
+0d75f63	BANKIR
+0ebd5a4	HASIL TERAKHIR
+511993d	P
+ae4f281	B
+c2c53d6	S
+781246e	Pilih chip, lalu ketuk Pemain, Bankir, atau Seri
+11023a0	SERI  {0}
+503d5f1	PEMAIN MENANG  {0} LAWAN {1}
+0eb4be5	BANKIR MENANG  {0} LAWAN {1}
+7859af1	CRAPS
+4083dbd	Selamat datang di craps! Taruh di Pass Line lalu lempar.
+d266326	ENAM
+c506f3a	SEMBILAN
+987f4e9	FIELD
+71c1b2b	2 3 4 9 10 11 12  •  2 dan 12 bayar dua kali lipat
+d0ac294	7 APA SAJA
+9b2f0c3	CRAPS APA SAJA
+f62ac59	DON'T PASS BAR
+6080ade	1:1  •  12 seri
+c07247a	PASS LINE
+6229f78	ODDS
+29bf819	peluang sebenarnya
+387d7a5	ON
+229c9cc	Odds ditaruh di belakang Pass Line setelah ada poin.
+c2c8e82	Odds butuh taruhan di Pass Line.
+1784d43	Odds kamu sudah maksimal.
+fdc3442	Taruhan garis dipasang saat lemparan pembuka.
+97ce95b	DI MEJA  {0}
+a895ec0	Poinnya {0}: lempar lagi angka itu sebelum 7. Odds di belakang Pass Line membayar peluang sebenarnya.
+d9f9d65	LEMPAR
+bcf32ef	Poinnya {0}.
+5b450b4	{0}! Poin tercapai. Menang!
+9746e08	Tujuh keluar. Pelempar baru, lemparan pembuka baru.
+4fc4664	{0}, natural! Pass Line menang.
+203f466	{0}, craps. Garis kalah.
+0f8e260	Tunggu sampai dadu berhenti.
+6a98cfe	TINGGALKAN MEJA?
+8430088	Taruhan garismu masih berjalan di poin {0}. Kalau pergi sekarang, taruhan itu hilang.
+0e138d1	HOLD'EM
+5e023be	Selamat datang di hold'em! Pasang ante dan mari lihat kartunya.
+0cd62f5	ANTE
+5e9f331	BLIND
+3b935ab	BLIND MEMBAYAR
+20713a4	Dealer lolos dengan satu pasang atau lebih baik
+d37267c	CHECK
+9a4e316	FOLD
+88313c4	TARUH {0}×
+42c6fea	Ante {0} + blind {0}. Sisakan {1} lagi untuk raise.
+1abb2f2	Ketuk chip untuk menentukan ante. Blind sama besarnya.
+f541cec	Check, atau taruh tiga atau empat kali ante?
+fc74a79	Raise sekarang 4× atau 3× ante, atau check dan lihat flop.
+b687501	Kesempatan terakhir: taruh 1× ante, atau fold dan kehilangan ante dan blind.
+400009c	Taruh 2× ante sekarang, atau check dan lihat dua kartu terakhir.
+f4abdf9	Ini flop-nya.
+0e51f2c	Turn dan river.
+cc856d3	Mari lihat kartuku.
+6ba1f3e	Dealer tidak lolos: ante kamu kembali.
+cf1fdc5	Fold. Tangan berikutnya milikmu.
+177fab0	Ultimate Texas Hold'em
+c4917b9	Pemain, Bankir, atau Seri
+6e4fe7b	VIDEO POKER
+73cabd3	Jacks or Better
+91c4555	SIC BO
+d810061	Tiga dadu  •  besar atau kecil
+85ab7ec	Pass Line  •  Field  •  Odds
+35d8db6	Selamat datang di sic bo! Besar, kecil, atau yang lebih berani?
+3d05514	Batas meja {0} per lemparan.
+86ade94	KOCOK
+b69304e	TRIPEL {0}!
+5d1bcc6	DITAHAN
+36a21ba	Bagikan, tahan kartu yang kamu mau, tukar sekali.
+99fa8e8	TAHAN
+249d1c0	PETUNJUK
+7aab1bd	TUKAR
+5595eb4	Ketuk kartu untuk menahannya, lalu tukar.
+1c05db9	MAIN HOLD'EM
+e353e5f	Ultimate Texas Hold'em  •  ante {0} sampai {1}
+6470369	MAIN BAKARAT
+bbe0077	BESAR  •  KECIL  •  TRIPEL
+3ba448f	MAIN SIC BO
+097c59c	Tiga dadu  •  besar atau kecil bayar 1 banding 1
+af2ca30	PASS LINE  •  FIELD  •  ODDS
+f18398e	MAIN CRAPS
+eeede6d	Pass Line bayar 1 banding 1  •  odds bayar peluang sebenarnya
+34e5170	MAIN VIDEO POKER
+f71bdfb	Jacks or Better  •  tabel penuh 9/6
+4a6c087	JACKS OR BETTER  •  ROYAL FLUSH BAYAR 800×
+370a133	Mesin slot ada di dinding kanan, video poker di dinding belakang, dan roulette di bagian paling belakang.
+8298d28	Hold'em ada di sudut kiri belakang, lewat bar.
+a2a111f	Bakarat ada tepat di kiri saat kamu masuk.
+b7193bc	Sic bo ada di sudut setelah kasir: tiga dadu, besar atau kecil.
+25320c8	Meja craps ada di kanan, di depan mesin slot. Taruh di Pass Line dan lempar!
+dc81691	Sofia
+4d9936f	Elena
+3aa0674	Mia
+b724114	Valentina
+34d3f7f	Chloe
+0fc9dd6	Isabella
+bbd3e35	Nadia
+eac677d	Aria
+baaf10f	Luna
+8641381	Camila
+eeee9b7	Aurora
+8a59f05	Bianca
+5a0fc29	Serena
+bf38aa5	Marco
+cfaf50a	Leo
+5815f22	Adrian
+cbede02	Lucas
+f0b9995	Viktor
+7b37259	Daniel
+aaac72d	Gabriel
+2f8f37e	Ethan
+a01126e	Julian
+3e05c90	Rafael
+e1ae457	Mateo
+3398634	Nico
+7aa2d07	Enzo
+1920e2f	Lemparan pembuka: taruh di Pass Line, lalu lempar. 7 atau 11 menang; 2, 3, atau 12 kalah. Taruhan place mulai berlaku setelah ada poin.
+99f4934	LUCKY ACE 7s  •  MEMBAYAR HINGGA 2.500× TARUHAN GARISMU

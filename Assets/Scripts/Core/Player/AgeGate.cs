@@ -12,23 +12,23 @@ namespace Casino.Core.Player
             birthDate = default;
             if (year < today.Year - 120 || year > today.Year)
             {
-                error = "Please enter a valid year.";
+                error = Tr.Mark("Please enter a valid year.");
                 return false;
             }
             if (month < 1 || month > 12)
             {
-                error = "Please enter a valid month (1-12).";
+                error = Tr.Mark("Please enter a valid month (1-12).");
                 return false;
             }
             if (day < 1 || day > DateTime.DaysInMonth(year, month))
             {
-                error = "Please enter a valid day.";
+                error = Tr.Mark("Please enter a valid day.");
                 return false;
             }
             birthDate = new DateTime(year, month, day);
             if (birthDate > today.Date)
             {
-                error = "That date is in the future.";
+                error = Tr.Mark("That date is in the future.");
                 return false;
             }
             error = null;

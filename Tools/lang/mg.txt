@@ -1,0 +1,659 @@
+# Malagasy (mg). Machine translation by Claude.
+bd99124	Jetona Iray Tanana
+c7c6dc8	Antontam-Jetona
+7512cfd	Lovia Feno Jetona
+fa36588	Talantalana Jetona
+7994f65	MALAZA INDRINDRA
+49dcc21	Tahiry Jetona
+0725283	Vata Fitehirizan'ny Mpilalao Lehibe
+7658705	SANDA TSARA INDRINDRA
+2f23432	Rano Misy Entona
+418b820	Espresso
+97b463c	Zava-pisotro Angovo
+43bbfda	Sandwich Club
+bce7a75	Sakafo Burger
+2832a8d	Sakafo Hariva misy Steak
+dee8ee8	FAMENOANA FENO
+a7c2255	Filaharan'ny Vintana
+7919163	Filaharana Mafana
+74fdfc2	VINTANA BE INDRINDRA
+d79cd12	Latabatra Varahina
+2a8ff35	Latabatra Volafotsy
+51877b2	Latabatra Volamena
+9282152	Latabatra Diamondra
+0de8764	Ampidiro taona marina azafady.
+d4e14c9	Ampidiro volana marina azafady (1-12).
+addd156	Ampidiro andro marina azafady.
+d78a4f4	Amin'ny ho avy io daty io.
+787c7c6	Tongasoa eto amin'ny latabatro! Vonona hilalao ve ianao?
+8b0f93e	Faly mahita anao aho. Mipetraha!
+8338021	Salama! Vaovao ny karatra, toy izany koa aho.
+75750f9	Tongasoa! Andao hataontsika tsara ity alina ity.
+95aac36	Apetraho ny filokanao rehefa vonona ianao.
+8bc63c1	Jetona eo ambony latabatra, andao hojerentsika ny karatra.
+984b7f3	Inona no lalaovintsika?
+b74c769	Ô, filokana lehibe! Tiako ny fombanao.
+77fc1fc	Izany no filokana. Andao!
+7779a5b	Sahisahy ianao anio alina, sa tsy izany?
+479ff82	Daholo?! Mitempo mafy ny foko!
+7fb527c	Ny zava-drehetra amin'ny tanana iray. Tsy misy tahotra!
+7bf0c5d	Blackjack! Mahagaga!
+123f2d5	Roapolo amby iray, toy izany fotsiny!
+cd850a7	Blackjack! Tia anao ny karatra anio alina.
+55f50ee	Nilalao tsara ianao!
+79594b1	Mpandresy! Tsara izany.
+0df710e	Mandeha tsara ianao!
+20a0c1e	Anao io iray io.
+a45fe61	Fandresena tsara izany! Mijery ity latabatra ity ny rehetra!
+54d3982	Lehibe! Mirehitra ianao anio alina!
+8da8f1e	Akaiky dia akaiky! Anao ny manaraka.
+5d921e1	Nanana vintana ny trano filokana tamin'ity indray mitoraka ity.
+f923af7	Adinoy io, misy tanana vaovao ho avy.
+853e7ca	Aiza, karatra iray be loatra.
+daec44f	Nihoatra! Mitranga amin'ny tsara indrindra izany.
+11ceaef	Mitovy. Tsy misy resy!
+911a289	Mitovy. Voaaro ny jetonanao.
+a89d9d9	Nihoatra aho! Manana vintana ianao.
+f76c8fd	Be loatra ho ahy. Nandresy ianao!
+63f8d0b	Blackjack ho an'ny trano filokana, miala tsiny!
+465c8bf	Manana blackjack ny mpizara. Tsy nanam-bintana.
+6752f40	Mampiseho Ace aho. Fiantohana?
+1920c5a	Mizara izahay! Fahafahana roa handresy.
+9f621da	Avo roa heny. Hetsika feno herim-po!
+59da99d	Ataovy avo roa heny! Karatra iray no ho avy.
+0b48017	Kiraro vaovao, manaro aho!
+3fa7769	Ho lany ve? Afaka manampy anao ny mpitahiry vola.
+4e5694b	Mihena ny jetona. Mila fanampiny ve ianao?
+d41f057	Lany ny jetona! Mandehana any amin'ny mpitahiry vola na makà jetona maimaim-poana.
+15d90d3	Foana ny antontanao. Ao aorianao mihitsy ny mpitahiry vola.
+a9eaae1	Toa reraka be ianao! Mihinana zavatra any amin'ny bar.
+5cd9e8b	Lany hery? Hikarakara anao ny bar.
+37b9672	Aza maika.
+c64df8c	Rehefa vonona ianao!
+b8dfc0a	Mbola tanora ny alina.
+8748560	Eo anilanao ny vintan'ny vao manomboka!
+e3def50	Eo anilanao ny karatra anio alina!
+506ade9	Tapitra ny vintan'ny vao manomboka. Manomboka izao dia ara-drariny ny lalao!
+953d8b7	Tongasoa eto amin'ny trano filokana! Miandry anao ny sezanao.
+9fd9844	Manao ahoana hariva! Mafana ny latabatra anio alina.
+2d42aaf	Tongasoa indray! Mahatsapa ho manam-bintana ve ianao?
+311bae7	Tsindrio ny latabatra iray hanombohana ny lalao!
+3318099	Mila jetona fanampiny ve? Tonga teo amin'ny varavarankely mety ianao.
+c5b3787	Antontany lehibe kokoa, tombony lehibe kokoa!
+21ae665	Noana ve ianao? Safidio izay tianao ao amin'ny sakafo.
+8b83cc0	Sakafo kely mitazona ny herinao!
+35f4b0e	Tongasoa eto amin'ny latabatro!
+8f90245	Indro ianao! Efa mazava kokoa ny toerana.
+909e4d6	Aoka ho toy ny ao an-trano. Anao daholo ity alina ity.
+2477f78	Tiako io tsiky io. Alina manam-bintana?
+6ac2120	Miala sasatra, ao anaty tanana tsara ianao eto.
+089f04b	Ianao! Nanantena aho fa handalo eo amin'ny varavarankeliko ianao.
+3f2c3c9	Mahafinaritra foana ny mahita endrika sariaka.
+3021db8	Jereo hoe iza no tonga! Mahafinaritra anao ve?
+769980b	Salama, ry tsara tarehy!
+5361ffd	Tiako ny fombanao anio alina.
+56b40be	Ô, faly mahita anao indray aho!
+3316019	Mahafinaritra ve ny alinao? Mendrika izany ianao.
+28283fd	Tandremo, mety hanomboka hanohana anao aho.
+109ac94	Niverina ilay mpilalao tiako indrindra!
+acba0e6	Mipetraha miaraka amiko, hizara zavatra tsara ho anao aho.
+eb5ff2a	Mahatonga ity latabatra ity ho mahafinaritra kokoa ianao.
+772a73c	Handeha ve ianao izao? Mbola tanora ny alina!
+178301a	Andao, tanana iray fotsiny ihany. Manana fahatsapana tsara aho!
+816036a	Tsy afaka mandao ahy ianao izao, vao nanomboka isika!
+5c9b7e2	Fahafahana farany! Mety ho ilay lehibe ny tanana manaraka...
+20ce7b6	Eny ary, eny ary. Hotazomiko mafana ny sezanao. Mampanantena hiverina ve ianao?
+51d1aeb	Mbola tsy misy filaharana? Milalao fihodinana {2} anio dia hanomboka hanisa aho.
+10b25d9	Fanombohana vaovao! Fihodinana {2} dia hirehitra ny lelafonao.
+0c10711	Manana lisitra kely aho amin'ireo tonga isan'andro. Tsy ao anatiny ianao... mbola tsy.
+5e7c431	Miandry anao ny andro faha-{1}. Fihodinana {2} sisa!
+b268d84	Andro {0} misesy... tsy hijanona ianao izao, sa tsy izany?
+b32ae79	Toa mangatsiaka kely ny lelafonao anio. Hanafana azy ny fihodinana {2}.
+a6f3fbd	Efa nanisa aho: andro {0}. Andao hataontsika {1}.
+1dc5c97	Aza mieritreritra fa tsy hitako. Fihodinana {2} sisa hitazomana ny filaharanao!
+807b82c	Andro {0} misesy? Manomboka mieritreritra aho fa tianao eto.
+6391923	Voaaro ny filaharanao anio. Izao dia mirehareha fotsiny ianao.
+3bfbbf7	Andro faha-{0}, vita. Rahampitso amin'io ora io ihany?
+ca2a2c1	Andro {0}! Tokony hitahiry seza ho anao aho.
+54f991f	Indro: andro voalohany amin'ny filaharanao! Miverena rahampitso dia hataontsika roa.
+a1e7ab0	Herinandro iray manontolo misesy! Tena gaga aho.
+96cee95	Telopolo andro! Toa miasa eto ianao izao.
+a9834cd	Zato andro. Lazaiko amin'ny rehetra ny momba anao.
+071317f	Andro {0} misesy izany! Jereo ny tenanao.
+0964027	Voavonjy ny filaharana: andro faha-{0}! Fantatro fa ho vitanao.
+c7f2a1f	Andro faha-{0}! Miloka aho fa tsy ho tonga amin'ny {1} ianao.
+a6ce2e2	Andro {0}... eny ary, ry mpirehareha.
+3ab91d0	Milalao tanana blackjack 10
+38e863d	Mandresy tanana blackjack 5
+6ac41cc	Mahazoa blackjack
+74cf149	Mandresy jetona 500 amin'ny blackjack
+66440e1	Ahodino in-20 ny milina slot
+9205056	Mandresy fihodinana slot 5
+cd60e0c	Mandresy avo 5 heny ny filokanao amin'ny slot
+6f7ac28	Milalao fihodinana roulette 5
+6978cc0	Mandresy fihodinana roulette 3
+c8ebbcc	Kendreo mivantana ny isa iray
+8a57c54	toerana GPS
+4919635	tambajotra finday
+527b094	fifandraisana amin'ny aterineto
+f49ae82	fandrindrana fitaovana
+60827d3	firenena fitsapana
+0b2f8d8	tsy voamarina (vidiny mahazatra)
+50d8b4a	tsy fantatra
+4fb7a4e	12 voalohany
+647a0eb	12 faharoa
+a934745	12 fahatelo
+3de80ab	2 amin'ny 1
+bb4e68e	MENA
+a9414ab	MAINTY
+710756a	TSY TSIROAROA
+70ca748	TSIROAROA
+4d60d6c	VIDINY ARA-DRARINY HO AN'NY FIRENENAO
+1674d95	Ampifanarahina amin'ny toekarenan'ny firenenao ny vidin'ny fivarotana, mba handoavan'ny mpilalao na aiza na aiza vidiny ara-drariny.
+4ec27ee	Mba hahitana ny firenenao dia jerentsika indray mandeha ny toerana misy anao eo ho eo. Ampifandraisina amin'ny firenena ao amin'ny fitaovanao izany ary tsy alefa na aiza na aiza. Raha mandà ianao dia mihatra ny vidiny mahazatra.
+ff3dbb4	TOHIZO
+43a6a8d	Hiala amin'ny trano filokana?
+ad209a0	Voatahiry ny jetonanao sy ny fandrosoanao.
+5860c84	MIALA
+f1e0808	MIJANONA
+5b38c49	Voasokatra ny {0}
+15ae7ac	Nisy fanakatonana filaharana namonjy ny filaharanao andro {0} omaly.
+d375ffb	Fanakatonana filaharana {0} no namonjy ny filaharanao andro {1}.
+fd8ab39	Tapitra ny filaharanao andro {0}. Milalao fihodinana {1} anio hanombohana vaovao!
+7fa2db4	VITA NY IRAKA
+255325c	+jetona {0}
+d205ece	VITA DAHOLO NY IRAKA!
+4acbed2	Tombony isan'andro +jetona {0}. Iraka vaovao rahampitso.
+ab2ceb3	DINGANA {0}!
+86e2afb	Dingana lehibe! +jetona {0}
+9ae18ad	Miverena rahampitso mba hanohizana
+7af7e7c	+1 fanakatonana filaharana
+b5b9597	FILAHARANA ANDRO {0}!
+62ec60d	Tsy misy fividianana amin'ity dikan-teny ity.
+1f9786c	Tsy nahomby ny fividianana. Tsy nalaina vola ianao.
+3e4c600	Nampiana +jetona {0}!
+1998202	{0}: tanana {1} miaraka amin'ny vintana {2}%, aorian'ny Vintan'ny Vao Manomboka
+728ada5	{0}: tanana {1} miaraka amin'ny vintana {2}%!
+af5e232	{0}: +{1}% angovo
+001a53b	Tsy misy amin'ity fitaovana ity
+2607004	Tsy afaka mampiditra horonantsary amin'ity tambajotra ity
+569c30d	Miverena rahampitso
+ecae6ee	Vonona afaka {0} segondra
+9964820	+jetona {0} ({1} sisa anio)
+e1bd888	+jetona maimaim-poana {0}!
+619bd5d	+1 fanakatonana filaharana!
+f70d794	Tsy misy horonantsary amin'izao fotoana izao. Andramo indray afaka kelikely.
+264d71b	VARAHINA
+462e839	VOLAFOTSY
+81ff70a	VOLAMENA
+50e122e	DIAMONDRA
+57f5f5e	Menio
+69bd4ef	Fijery
+dbfe736	Lakroa
+1cc7820	Faribolana
+82810cb	Efamira
+73d3ae2	Telozoro
+a42f608	Manamarina ny faritrao...
+1db422c	Tsy voamarina ({0}): vidiny mahazatra
+9bc0807	{0} ({1}): vidiny amin'ny {2}
+ae8c393	Fampahatsiahivana
+aefd59b	Jetona maimaim-poana vonona sy fampahatsiahivana filaharana
+3125838	Vonona ny jetonanao maimaim-poana
+233027b	Jetona {0} no miandry anao ao amin'ny Lucky Ace.
+b93976b	Tazony ny filaharanao andro {0}
+bd68038	Milalao fihodinana {0} anio mba tsy hiverina amin'ny aotra amin'ny misasakalina.
+0acfb6f	Tongasoa! Eo anilanao ny vintan'ny vao manomboka anio alina. Mametraha filokana!
+d589374	MANDOA 3 AMIN'NY 2 NY BLACKJACK   •   MIJANONA AMIN'NY 17 REHETRA NY MPIZARA   •   MANDOA 2 AMIN'NY 1 NY FIANTOHANA
+b700b02	FILOKANA
+16ec74f	FAFAO
+928226b	AVERENO
+55591e0	ZARAO
+395ed46	KARATRA
+43e7971	MIJANONA
+097274c	AVO ROA HENY
+6df63ca	ZARAO ROA
+3e40f46	MIANTOKA
+db82d3a	TSIA, MISAOTRA
+28d6be8	FILOKANA {0}+
+9587b70	Tratra ny farany ambony amin'ny latabatra
+b9ac47d	Tsy ampy ny jetona
+d237ade	Mampiseho Ace ny mpizara. Hiantoka amin'ny {0}?
+bf07c14	Mandoa {0} ny fiantohana
+b6e674a	Tsy manana blackjack ny mpizara. Very ny fiantohana.
+0cc9679	NIHOATRA
+82ce89d	NIHOATRA NY MPIZARA
+6e1e1a4	BLACKJACK!
+662fae5	FANDRESENA
+8918d00	MITOVY
+8df6be4	RESY
+9e69668	Tapitra ny vintan'ny vao manomboka. Manomboka izao ny Filaharan'ny Vintanao.
+822f4f4	Tapitra ny vintan'ny vao manomboka. Manomboka izao dia blackjack mahazatra.
+b0377c7	Tapitra ny Filaharan'ny Vintanao. Miverina amin'ny blackjack mahazatra.
+824ad7c	LANY NY JETONA
+ff1822d	Jereo horonantsary fohy hahazoana jetona maimaim-poana {0}, na mandehana any amin'ny mpitahiry vola.
+e4cac2f	Mandehana any amin'ny mpitahiry vola hamenoana ny jetonanao.
+c3df3e7	JETONA MAIMAIM-POANA
+b169d33	MPITAHIRY VOLA
+4d38f66	ATO ANATY KELY
+cb8171b	Vitao aloha ity tanana ity.
+3aa6941	« {0} »
+6f846f4	TANANA IRAY HAFA
+a79d4f2	MIALA
+693f697	VINTAN'NY VAO MANOMBOKA
+641ad58	FILAHARAN'NY VINTANA
+fc45931	Tombony fandraisana ho an'ny mpilalao vaovao: amin'ny tanana <b>{0}</b> voalohany dia voalamina ho tombontsoanao ny kiraron'ny mpizara, ka ho resinao saika ny tanana rehetra.
+576c683	Mandritra ny tanana <b>{0}</b> manaraka dia mihena tsikelikely ny tombony, ary avy eo dia blackjack mahazatra sy ara-drariny avokoa ny latabatra rehetra avy amin'ny kiraro nafangaro misy karatra 6 kitapo (mandoa 3 amin'ny 2 ny blackjack, mijanona amin'ny 17 rehetra ny mpizara).
+7fb55b3	Tombony izao: <b><color=#7CFC9A>{0}%</color></b>   Tanana sisa: <b>{1}</b>
+d4f8fe0	Ho an'ny <b>tanana blackjack {0}</b> manaraka miaraka amin'ny filokana hatramin'ny <b>jetona {1}</b>, manana fahafahana <b>{2}%</b> hozaraina ho tombontsoanao ny karatra tsirairay (tombony mitovy amin'ny Vintan'ny Vao Manomboka).
+0a5fc06	Raha milalao tsara dia mandresy eo amin'ny <b>{0}%</b> eo ho eo amin'ny tanana izany, raha oharina amin'ny {1}% eo ho eo amin'ny blackjack mahazatra. Blackjack mahazatra ny filokana lehibe kokoa ary tsy mampiasa tanana. Rehefa lany ny tanana dia blackjack mahazatra sy ara-drariny indray ny latabatra rehetra.
+c3a8946	AZOKO
+8dfc44a	TIANAO HIVERINA VE NY VINTANAO?
+272a97f	Tapitra ny Vintan'ny Vao Manomboka: manomboka izao dia blackjack mahazatra sy ara-drariny ny latabatra rehetra. Mamerina ny tombony vetivety ny Filaharan'ny Vintana.
+06b7689	ISAN'ANDRO
+4035996	FILAHARANA ISAN'ANDRO
+fbe7f18	ANDRO MISESY
+7a46866	ANIO
+4753707	JEREO NY DOKAMBAROTRA
+6bb45f3	MIVIDY
+62a945f	FANAKATONANA FILAHARANA
+ba5b1de	Mitazona ny filaharanao ho velona amin'ny andro tsy ilalaovanao ny fanakatonana filaharana. Afaka mitahiry hatramin'ny {0} ianao.\n\nHividy iray amin'ny jetona {1}?
+38c6090	Vonona ny fanakatonana filaharana.
+8fe681f	Tsy ampy ny jetona ho an'ny fanakatonana.
+1507c40	FOANANA
+457d20f	FIHODINANA ISAN'ANDRO
+9623247	AHODINO
+ac5ef96	Fahafahana:
+1200f20	{0}%
+003a689	Nandresy jetona {0} ianao!
+f757137	IRAKA ANIO
+7b7f9e2	Tsara indrindra: andro {0}
+9554fea	Milalao isan'andro hanorenana filaharana
+5c8dbb8	Tratra ny tanjona anio! Mandra-pihaona rahampitso.
+1aeb9a1	Anio: fihodinana {0} / {1} (lalao rehetra)
+bb92856	Fanakatonana filaharana: {0} / {1}
+0ec6216	Vonjeo ny filaharanao amin'ny andro tsy ilalaovanao. +1 isaky ny andro 7.
+cc0a745	FENO
+419a962	TSY MISY HORONANTSARY
+2dabd99	DOKAMBAROTRA HO AVY
+f12e166	Tombony filaharana: loka ×{0}
+80948a4	Fihodinana maimaim-poana iray isan'andro
+596b5e0	MANARAKA  {0}
+7f7e7fc	Vita daholo! Voaray ny tombony.
+03a0f2a	Iraka vaovao amin'ny misasakalina.
+4784874	Vitao avokoa ireo telo: +jetona tombony {0}
+42c5cda	MILALAO
+337211e	LALAO
+8f5e3bd	Sintony amin'ny ankavia handeha  •  Sintony amin'ny ankavanana hijery  •  Tsindrio handeha
+d00d221	18+ ihany  •  Fialam-boly ny jetona: tsy misy sandam-bola, tsy azo takalozina vola na loka mihitsy
+b60f038	Manokatra ny varavarana...
+2e5bcce	Tongasoa! Vonona ny jetona fandraisana {0} anao. Eo anoloana mivantana ny latabatra!
+7ef7ae3	+jetona maimaim-poana {0}! Fanampiny afaka {1} ora.
+5d82af9	Feno indray isaky ny {0} ora ny jetona maimaim-poana. Ny manaraka afaka {1}.
+5469985	{0}o {1}m
+bb65beb	{0}m {1}s
+ac8ba93	TAZONY NY FILAHARANAO
+560bfa1	Mila fampahatsiahivana ve ianao amin'ny hariva tsy mbola nilalaovanao, sy rehefa vonona ny jetonanao maimaim-poana? Tsy mihoatra izany mihitsy, ary azonao vonoina ao amin'ny Fandrindrana.
+b724a40	AMPAHATSIAHIVO AHO
+9e0c898	+jetona {0} vonona!
+1207e28	Jereo horonantsary: {0}
+db3655b	Jetona maimaim-poana manaraka afaka {0}
+4ca9be5	BLACKJACK
+9a612b1	Latabatra 4  •  mandoa 3 amin'ny 2
+1194439	SLOT
+6555152	Lucky Ace 7s  •  andalana 10
+255b1a1	ROULETTE
+6df1551	Eoropeana misy aotra iray
+379b146	REREKA BE IANAO
+340e5c4	Lany ny herinao. Makà zavatra any amin'ny bar hanohizana ny lalao, na miverena any aoriana: miverina moramora ny hery rehefa tsy eo ianao.
+a517396	MANKANESA ANY AMIN'NY BAR
+7c7227f	SAFIDIO NY LATABATRAO
+c963de3	FILOKANA
+c433657	DINGANA {0}
+083ac39	MIPETRAHA
+9698219	ILAINA {0}
+34b737e	Tongava amin'ny dingana {0} hilalaovana eto. Amin'ny dingana {1} ianao.
+6cc19a9	TRANO FILOKANA
+6e946b7	AA
+4a3a892	VV
+2857a6a	TTTT
+9d1fece	ANDRO
+d3bb0c3	VOLANA
+c0f0cad	TAONA
+43985ff	OVIANA IANAO NO TERAKA?
+293fda2	Fialam-boly ihany ny jetona. Tsy manana sandam-bola izy ireo ary tsy azo takalozina vola na loka mihitsy.
+3e9128d	MIALA TSINY, TSY AFAKA MILALAO IANAO
+b5e8985	Ho an'ny olon-dehibe ihany ny {0}.
+bb1b380	MIVOAKA
+d9f9432	Hikatona afaka {0}...
+c6e102d	LAZAO ANAY NY MOMBA ANAO
+31120ce	Hifidy mpandray vahiny, mpizara ary mpiasan'ny bar mifanaraka aminao izahay. Azonao ovaina amin'ny fotoana rehetra ao amin'ny Fandrindrana izany.
+49e8df9	LEHILAHY AHO
+85abe81	VEHIVAVY AHO
+76cc98c	ALEOKO TSY MILAZA
+964daf7	MIDIRA AO AMIN'NY TRANO FILOKANA
+2efb69a	Ny mpiasanao anio alina:
+c10e749	Pejy {0} amin'ny {1}
+2a3ffd9	FITENY
+c673535	MANDEHA HO AZY
+d1245d2	FIRENENA
+15fc12b	Tongasoa! Apetraho ny filokanareo, azafady.
+531fb3f	Tsy ampy ny jetona ho an'io filokana io.
+380eb75	{0} isaky ny fihodinana ny fetran'ny latabatra.
+55ad592	AVERENO AORIANA
+8f191f9	FILOKANA ANKAPOBENY  {0}
+82e1181	Tsindrio ny solaitrabe hametrahana jetona
+bb19a75	Tsy misy filokana intsony!
+5becf07	MAITSO
+bc74f4f	maitso
+7898801	mena
+466bc8c	mainty
+f2edfbf	Tena voakendry! Arahaba!
+b252caf	Mpandresy! Mahazo {0} ianao.
+8587d14	FANDRESENA  +{0}
+b862a2b	{0} {1}. Miverina aminao ny {2}.
+a306d0a	NAVERINA  {0}
+af3134d	Tsy nisy fandresena tamin'ity indray mitoraka ity
+84122e7	Apetraho ny filokanareo, azafady.
+52205f4	Andraso hijanona ny baolina.
+c4b9243	FANDRINDRANA
+44d863e	ANKAPOBENY
+2bbca79	SARY
+955c8b4	FEO
+c701f5f	FIKASIHANA
+efcc94a	TOTOZY
+8433628	FANARA-MASO
+d868a50	FINTOHINA
+f8692c7	18+ • Tsy misy sandam-bola ny jetona • Endri-tsoratra: Bebas Neue, Poppins, Noto (SIL OFL) • Sisintany: Natural Earth • Angona vidiny: Banky Iraisam-pirenena
+da46447	MPIASAN'NY TRANO FILOKANA
+594b81e	VEHIVAVY
+69d3313	LEHILAHY
+b4325d3	MIFANGARO
+414594a	FAMPAHATSIAHIVANA
+6cac87b	Jetona maimaim-poana vonona, sy fampahatsiahivana amin'ny hariva alohan'ny hiafaran'ny filaharana.
+e43b2e0	HAMARINO INDRAY
+7c9e8f9	FARITRA VIDINY
+495c70e	Haingana indrindra: ny trano filokana toy ny nolokoina, tsy misy fanampiny.
+b052523	Gorodona mamirapiratra, hazo ary volamena no mitaratra ny efitrano.
+6bd30d7	Endrika sarimihetsika: loko voalamina, voamaina, famirapiratana, taratra hazavana, hoditra velona.
+21b6e1d	Family sinema: manaraka ny masonao ny fifantohana, tsipika amin'ny jiro, vovoka ao amin'ny taratra.
+fb7c2e8	KALITAO
+d8b9679	AMBANY
+f68525a	ANTONONY
+d77d0b2	AMBONY
+9289eee	ULTRA
+637e313	FAHAMAZAVANA
+2e7b141	Malefaka kokoa ny ambany kokoa nefa mangatsiaka kokoa ary mitsitsy bateria.
+93dcfb5	FOMBA FISEHOANA
+3c6eac3	EFIJERY FENO
+f3690b1	VARAVARANKELY
+cfa6200	FANALEFAHANA SISINY
+ad50489	MAITY
+f178804	Manalefaka ny sisiny mikitoantoana ao amin'ny trano filokana.
+4266288	HAINGANAM-PIOVAN'NY SARY
+d031ab0	{0} FPS
+a2b7514	Mitsitsy bateria ny 30 FPS ary mitazona ho mangatsiaka ny finday taloha.
+0babcee	V-SYNC
+6656e25	SAHAN'NY FIJERY
+244aadb	ASEHOY NY FPS
+41c8f6e	HAMAFIN'NY FEO ANKAPOBENY
+bf3af1f	MOZIKA
+bd80907	FEO FANAMPINY
+d098036	FEON'NY MPIASA
+93c6484	Ny fimonomononon'ny mpiasa rehefa miresaka.
+16bf71a	ATONY AO AORIANA
+85b2ee7	Mampangina ny trano filokana rehefa ao amin'ny varavarankely hafa ianao.
+8e3634e	FAHATSAPAN'NY FIJERY
+880dc05	Ny hafainganan'ny fisintonana manodina ny fijery.
+750c60f	Ny hafainganan'ny fisintonana amin'ny totozy manodina ny fijery.
+8b988eb	AVADIHO NY FIJERY ANKAVIA / ANKAVANANA
+cacf0cc	AVADIHO NY FIJERY AMBONY / AMBANY
+2d13b68	FANDAMINANA BOKOTRA
+50c3f10	HO AZY
+b471e5c	AMPIFANAKALOY MENIO / FIJERY
+d9a59f1	FAHATSAPAN'NY TAHONY
+ec14343	Ny hafainganan'ny tahony havanana manodina ny fijery.
+a79af23	AVADIHO NY TAHONY ANKAVIA / ANKAVANANA
+acfc66e	AVADIHO NY TAHONY AMBONY / AMBANY
+56bb461	TOROLALAN'NY FANARA-MASO
+51cf49a	Mampiseho izay ataon'ny bokotra tsirairay rehefa milalao amin'ny fanara-maso ianao.
+dff7431	MANAOVA FINTOHINA AMIN'NY
+34139ab	FINDAY
+15ee988	ROA ROA
+465cc91	Ho azy: ny fanara-maso rehefa mifandray, raha tsy izany ny finday.
+f6fed84	FINTOHIN'NY FINDAY
+8e97fa7	HERIN'NY FINDAY
+486ba2d	FINTOHIN'NY FANARA-MASO
+8008889	HERIN'NY FANARA-MASO
+ea9233e	MANDEHA HO AZY ({0})
+167dda7	Manokatra ny Fandrindrana ny {0}, manokatra ny Isan'andro ny {1}.
+29a4ef9	Tsy misy fanara-maso mifandray.
+558ecd2	Mifandray: {0}. Aseho ny bokotra {1} (manamafy ny A ankavanana).
+d6eee9e	Mifandray: {0}. Aseho ny bokotra {1}.
+78525d5	NY BAR
+099db9f	VINTANA
+b4a8b06	Zavatra virtoaly ho fialam-boly ihany ny jetona, vintana ary sakafo: tsy misy sandam-bola, tsy azo takalozina vola na loka.
+e2a28c9	Manana izany fahafahana izany ny karatra tsirairay hozaraina ho tombontsoanao, amin'ny filokana blackjack hatramin'ny jetona {0} (mahazatra ny filokana lehibe kokoa ary tsy mampiasa tanana). Manomboka aorian'ny Vintan'ny Vao Manomboka; ny fonosana matanjaka kokoa no ampiasaina voalohany.
+04fbc6d	Avelao hidirana ny toerana mba hahazoana ny vidin'ny firenenao
+2ae87fc	Tsy misy fividianana amin'ity dikan-teny lalao ity.
+8239a84	FIVAROTANA FITSAPANA (tsy vola tena izy)
+173d916	angovo
+b2c67eb	+{0}% JETONA
+58e8011	tanana {0}
+ce80712	mandresy eo amin'ny {0}% eo ho eo amin'izy ireo
+c69e8ee	LUCKY ACE 7s
+fc99288	FILOKANA ANKAPOBENY
+c1c00cd	TABILAOM-PANDOAVANA
+3930abd	MIRARY SOA!
+67b6973	Mila jetona 10 farafahakeliny ianao vao afaka manodina.
+5aa1edb	MAKÀ JETONA
+f5a1812	Nahena ho amin'izay azonao aloa ny filokana.
+5c63f61	FANDRESENA GOAVANA!
+652544f	FANDRESENA LEHIBE!
+91bc41c	NAVERINA {0}
+3714283	TSY NISY FANDRESENA
+33c0faa	ANDALANA {0}: {1} × {2} = {3}
+9f59e6e	KINTANA {0} = {1}
+d6eee90	Serizy
+4459b79	Voasarimakirana
+09fb6aa	Voasary
+cb92e50	Paiso
+d419866	Lakolosy
+e496fd2	Bar
+63abb56	Fito
+b3850e0	Diamondra
+fc2b5a9	Ace
+85a7de6	Kintana
+c31b035	Mandoa na aiza na aiza ny KINTANA: 5 = filokana ×{0}, 4 = filokana ×{1}, 3 = filokana ×{2}.
+f97509c	Wild ny ACE: manolo ny marika rehetra izy afa-tsy ny kintana.
+3e8bc69	Avo heny amin'ny filokana isan'andalana (filokana ankapobeny ÷ 10) ny fandoavana andalana, avy ankavia mankany ankavanana manomboka amin'ny kodiarana voalohany.
+523f8dc	FAMERENANA: {0}% amin'ny fotoana maharitra. Tsy miankina sy kisendrasendra ny fihodinana tsirairay.
+e0c705d	Mandeha
+b8db515	Mijery
+503d46d	Bokotra
+c7f73bb	Fandrindrana
+728298d	Isan'andro
+ab166bd	Amboary
+76cdb95	Mihetsika
+8598222	Safidio
+bbfa773	Hidio
+b52b36b	Miverina
+ab37588	REREKA
+9b11a09	VINTAN'NY VAO MANOMBOKA {0}%
+0c94e98	TANANA {0} SISA
+51ed273	FILAHARAN'NY VINTANA {0}%
+3401470	TANANA {0}  •  FILOKANA HATRAMIN'NY {1}
+f481cc6	DINGANA
+0139615	TONGASOA
+daad514	MIRESAHA AMIN'NY MPANDRAY VAHINY
+bcefb10	Torolalana sy toro-hevitra
+c28e782	JETONA  •  TOMBONY
+0c69ec4	MIVIDIANA JETONA
+78c0727	Mpitahiry vola
+1737fab	KOKTEILY  •  SAKAFO MAIVANA  •  ANGOVO
+9e008ae	SAKAFO SY ZAVA-PISOTRO
+f7881e8	Ny bar
+0e979ed	MANDOA 3 AMIN'NY 2 NY BLACKJACK
+eea0d12	TSY MAINTSY MIJANONA AMIN'NY 17 NY MPIZARA
+4db37bf	MILALAO BLACKJACK
+0ffdd99	Latabatra {0}  •  filokana {1} hatramin'ny {2}
+b4f938b	MILALAO SLOT
+6b7caea	APETRAHO NY FILOKANAREO
+26b1e39	MILALAO ROULETTE
+910a1ed	Kodiarana eoropeana  •  mandoa 35 amin'ny 1 ny isa mivantana
+7ef0215	MANAFATRA ZAVA-PISOTRO
+fe38d73	Hoentin'i {0}
+f7b6306	Misokatra amin'ny dingana {1} ny {0}. Amin'ny dingana {2} ianao: isaina ny fihodinana rehetra ilalaovanao.
+d85f1ad	Mila jetona {0} farafahakeliny ity latabatra ity.
+cbfe016	Eo anoloana mivantana ny latabatra blackjack. Manatona iray ary mipetraha!
+64d9faf	Eto amin'ny ankavananao ny mpitahiry vola, ary eo amin'ny rindrina havia ny bar.
+e4c6e0b	Reraka ve? Sakafo maivana ao amin'ny bar no mameno ny herinao avy hatrany.
+d5ab68f	Tsindrio na aiza na aiza amin'ny gorodona dia handeha any ianao. Tsindrio ny latabatra hipetrahana.
+cc21f74	KELY
+dc01dec	LEHIBE
+5fb90b0	TELO MITOVY NA INONA NA INONA
+9c716f1	Latabatra hold'em
+3b6ab84	Milalao tanana 8 amin'ny hold'em
+6c617ca	Mandresy tanana 4 amin'ny hold'em
+44ce500	Milalao tanana 10 amin'ny baccarat
+b90cff7	Mandresy tanana 5 amin'ny baccarat
+3e4dfa9	Milalao tanana 15 amin'ny video poker
+854fe20	Milalao fihodinana 8 amin'ny sic bo
+dfddac1	Mandresy fihodinana 4 amin'ny sic bo
+2973ea7	Atsipazo in-15 ny dia amin'ny craps
+737be17	Mandresy fanipazana 4 amin'ny craps
+4dbb81d	Manaova flush na tsara kokoa amin'ny video poker
+19aa07b	Royal flush
+cf83e72	Straight flush
+d27ba03	Efatra mitovy
+dbe8641	Full house
+7c936d7	Flush
+2501c65	Mifanarakaraka
+ca1a0d4	Telo mitovy
+6876b40	Roa tsiroaroa
+2537f88	Tsiroaroa
+b4b323e	Karatra ambony indrindra
+f70bfdc	Jack na tsara kokoa
+98fd5af	BACCARAT
+df66d5a	Tongasoa amin'ny baccarat! Mpilalao, Banky sa Mitovy?
+5055efd	MPILALAO
+3f90696	MITOVY
+0d75f63	BANKY
+0ebd5a4	VOKATRA FARANY
+511993d	M
+ae4f281	B
+c2c53d6	T
+781246e	Mifidiana chip, avy eo tsindrio Mpilalao, Banky na Mitovy
+11023a0	MITOVY  {0}
+503d5f1	MANDRESY NY MPILALAO  {0} SY {1}
+0eb4be5	MANDRESY NY BANKY  {0} SY {1}
+7859af1	CRAPS
+4083dbd	Tongasoa amin'ny craps! Miloka amin'ny Pass Line dia manipaza.
+d266326	ENINA
+c506f3a	SIVY
+987f4e9	FIELD
+71c1b2b	2 3 4 9 10 11 12  •  ny 2 sy 12 dia mandoa avo roa heny
+d0ac294	7 NA INONA NA INONA
+9b2f0c3	CRAPS NA INONA NA INONA
+f62ac59	DON'T PASS BAR
+6080ade	1:1  •  mitovy ny 12
+c07247a	PASS LINE
+6229f78	ODDS
+29bf819	tahan'ny vintana marina
+387d7a5	MANDEHA
+229c9cc	Apetraka ao ambadiky ny Pass Line ny odds rehefa misy point.
+c2c8e82	Mila loka amin'ny Pass Line ny odds.
+1784d43	Efa amin'ny farany ambony ny odds-nao.
+fdc3442	Apetraka amin'ny fanipazana voalohany ny loka amin'ny tsipika.
+97ce95b	AMBONY LATABATRA  {0}
+a895ec0	Ny point dia {0}: atsipazo indray alohan'ny 7. Mandoa araka ny tahan'ny vintana marina ny odds ao ambadiky ny Pass Line.
+d9f9d65	ATSIPAZO
+bcf32ef	Ny point dia {0}.
+5b450b4	{0}! Tafiditra ny point. Fandresena!
+9746e08	Nivoaka ny 7. Mpanipaza vaovao, fanipazana voalohany vaovao.
+4fc4664	{0}, natural! Mandresy ny Pass Line.
+203f466	{0}, craps. Resy ny tsipika.
+0f8e260	Andraso hijanona ny dia.
+6a98cfe	HIALA AMIN'NY LATABATRA?
+8430088	Mbola milalao amin'ny point {0} ny lokanao amin'ny tsipika. Raha miala ianao izao dia ho very izany.
+0e138d1	HOLD'EM
+5e023be	Tongasoa amin'ny hold'em! Apetraho ny ante ary andao hijery karatra.
+0cd62f5	ANTE
+5e9f331	BLIND
+3b935ab	MANDOA NY BLIND
+20713a4	Mahafeno fepetra ny mpizara raha manana tsiroaroa na tsara kokoa
+d37267c	CHECK
+9a4e316	FOLD
+88313c4	MILOKA {0}×
+42c6fea	Ante {0} + blind {0}. Tehirizo koa ny {1} ho an'ny fampiakarana.
+1abb2f2	Tsindrio ny chips hametrahana ny ante. Mitovy ny blind.
+f541cec	Check, sa miloka in-telo na in-efatra ny ante?
+fc74a79	Ampiakaro izao 4× na 3× ny ante, na manaova check ary jereo ny flop.
+b687501	Fotoana farany: miloka 1× ny ante, na manaova fold ka very ny ante sy ny blind.
+400009c	Miloka 2× ny ante izao, na manaova check ary jereo ireo karatra roa farany.
+f4abdf9	Indro ny flop.
+0e51f2c	Ny turn sy ny river.
+cc856d3	Andao hojerentsika izay ananako.
+6ba1f3e	Tsy mahafeno fepetra ny mpizara: miverina aminao ny ante.
+cf1fdc5	Nanao fold ianao. Anao ny tanana manaraka.
+177fab0	Ultimate Texas Hold'em
+c4917b9	Mpilalao, Banky na Mitovy
+6e4fe7b	VIDEO POKER
+73cabd3	Jacks or Better
+91c4555	SIC BO
+d810061	Dia telo  •  lehibe na kely
+85ab7ec	Pass Line  •  Field  •  Odds
+35d8db6	Tongasoa amin'ny sic bo! Lehibe, kely sa zavatra sahisahy kokoa?
+3d05514	{0} isaky ny fanipazana ny fetran'ny latabatra.
+86ade94	AHETSIKETSIHO
+b69304e	TELO {0}!
+5d1bcc6	TAZONINA
+36a21ba	Zarao, tazomy ny karatra tianao, ovay indray mandeha.
+99fa8e8	TAZONY
+249d1c0	TOROHEVITRA
+7aab1bd	OVAY
+5595eb4	Tsindrio ny karatra hitazomana azy, avy eo ovay.
+1c05db9	MILALAO HOLD'EM
+e353e5f	Ultimate Texas Hold'em  •  ante {0} hatramin'ny {1}
+6470369	MILALAO BACCARAT
+bbe0077	LEHIBE  •  KELY  •  TELO MITOVY
+3ba448f	MILALAO SIC BO
+097c59c	Dia telo  •  lehibe na kely mandoa 1 amin'ny 1
+af2ca30	PASS LINE  •  FIELD  •  ODDS
+f18398e	MILALAO CRAPS
+eeede6d	Mandoa 1 amin'ny 1 ny Pass Line  •  mandoa vintana marina ny odds
+34e5170	MILALAO VIDEO POKER
+f71bdfb	Jacks or Better  •  tabilao feno 9/6
+4a6c087	JACKS OR BETTER  •  MANDOA 800× NY ROYAL FLUSH
+370a133	Eo amin'ny rindrina ankavanana ny milina slot, eo amin'ny rindrina aoriana ny video poker, ary any amin'ny farany ny roulette.
+8298d28	Ao amin'ny zoro aoriana ankavia ny hold'em, aorian'ny bar.
+a2a111f	Eo ankavia avy hatrany ny baccarat rehefa miditra ianao.
+b7193bc	Ao amin'ny zoro aorian'ny mpitam-bola ny sic bo: dia telo, lehibe na kely.
+25320c8	Eo ankavanana ny latabatra craps, eo anoloan'ny milina slot. Miloka amin'ny Pass Line dia manipaza!
+dc81691	Sofia
+4d9936f	Elena
+3aa0674	Mia
+b724114	Valentina
+34d3f7f	Chloe
+0fc9dd6	Isabella
+bbd3e35	Nadia
+eac677d	Aria
+baaf10f	Luna
+8641381	Camila
+eeee9b7	Aurora
+8a59f05	Bianca
+5a0fc29	Serena
+bf38aa5	Marco
+cfaf50a	Leo
+5815f22	Adrian
+cbede02	Lucas
+f0b9995	Viktor
+7b37259	Daniel
+aaac72d	Gabriel
+2f8f37e	Ethan
+a01126e	Julian
+3e05c90	Rafael
+e1ae457	Mateo
+3398634	Nico
+7aa2d07	Enzo
+1920e2f	Fanipazana come-out: miloka amin'ny Pass Line dia manipaza. Mandresy ny 7 na 11, resy ny 2, 3 na 12. Manomboka mandeha ny loka Place rehefa misy point.
+99f4934	LUCKY ACE 7s  •  MANDOA HATRAMIN'NY 2,500× NY FILOKAO AMIN'NY ANDALANA

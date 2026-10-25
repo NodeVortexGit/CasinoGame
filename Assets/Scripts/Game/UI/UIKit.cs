@@ -95,8 +95,9 @@ namespace Casino.UI
             FontKind font = FontKind.Body, string name = "Label")
         {
             var rt = NewRect(name, parent);
-            var t = rt.gameObject.AddComponent<Text>();
+            var t = rt.gameObject.AddComponent<LocText>();
             t.font = Fonts.Get(font);
+            if (Loc.RightToLeft) align = Mirror(align);
             t.fontSize = size;
             t.color = color;
             t.alignment = align;
@@ -107,6 +108,21 @@ namespace Casino.UI
             t.verticalOverflow = VerticalWrapMode.Overflow;
             t.lineSpacing = 1f;
             return t;
+        }
+
+        /// <summary>Left and right swapped, for right-to-left languages.</summary>
+        public static TextAnchor Mirror(TextAnchor a)
+        {
+            switch (a)
+            {
+                case TextAnchor.UpperLeft: return TextAnchor.UpperRight;
+                case TextAnchor.UpperRight: return TextAnchor.UpperLeft;
+                case TextAnchor.MiddleLeft: return TextAnchor.MiddleRight;
+                case TextAnchor.MiddleRight: return TextAnchor.MiddleLeft;
+                case TextAnchor.LowerLeft: return TextAnchor.LowerRight;
+                case TextAnchor.LowerRight: return TextAnchor.LowerLeft;
+                default: return a;
+            }
         }
 
         public static Shadow TextShadow(Graphic g, float dy = -3f, float alpha = 0.6f)

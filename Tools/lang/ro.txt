@@ -1,0 +1,659 @@
+# Romanian (ro). Machine translation by Claude.
+bd99124	O mână de jetoane
+c7c6dc8	Teanc de jetoane
+7512cfd	Tavă de jetoane
+fa36588	Raft de jetoane
+7994f65	CEL MAI POPULAR
+49dcc21	Seif de jetoane
+0725283	Seiful marelui jucător
+7658705	CEL MAI BUN PREȚ
+2f23432	Apă minerală
+418b820	Espresso
+97b463c	Băutură energizantă
+43bbfda	Club sandvici
+bce7a75	Meniu cu burger
+2832a8d	Cină cu friptură
+dee8ee8	REÎNCĂRCARE COMPLETĂ
+a7c2255	Serie norocoasă
+7919163	Serie fierbinte
+74fdfc2	CEL MAI MULT NOROC
+d79cd12	Masa de bronz
+2a8ff35	Masa de argint
+51877b2	Masa de aur
+9282152	Masa de diamant
+0de8764	Introdu un an valid.
+d4e14c9	Introdu o lună validă (1-12).
+addd156	Introdu o zi validă.
+d78a4f4	Data este în viitor.
+787c7c6	Bine ai venit la masa mea! Gata de joc?
+8b0f93e	Mă bucur să te văd. Ia loc!
+8338021	Salut! Cărțile sunt proaspete, și eu la fel.
+75750f9	Bine ai venit! Hai să facem din seara asta una frumoasă.
+95aac36	Pariază când ești gata.
+8bc63c1	Jetoanele pe masă și hai să vedem cărțile.
+984b7f3	Pe ce jucăm?
+b74c769	Uau, un pariu mare! Îmi place stilul tău.
+77fc1fc	Asta da pariu. Hai să-i dăm drumul!
+7779a5b	Te simți curajos în seara asta, nu?
+479ff82	All in?! Îmi bate inima nebunește!
+7fb527c	Totul pe o singură mână. Fără frică!
+7bf0c5d	Blackjack! Incredibil!
+123f2d5	Douăzeci și unu, așa, pur și simplu!
+cd850a7	Blackjack! Cărțile te iubesc în seara asta.
+55f50ee	Frumos jucat!
+79594b1	Câștig! Bravo.
+0df710e	Îți merge strună!
+20a0c1e	Asta e a ta.
+a45fe61	Ce câștig! Toată lumea se uită la masa asta!
+54d3982	Uriaș! Ești în formă maximă în seara asta!
+8da8f1e	Atât de aproape! Următoarea e a ta.
+5d921e1	De data asta cazinoul a avut noroc.
+f923af7	Lasă, vine o mână nouă.
+853e7ca	Au, o carte în plus.
+daec44f	Ai depășit! Li se întâmplă și celor mai buni.
+11ceaef	Egalitate. Nimeni nu pierde!
+911a289	Egal. Jetoanele tale sunt în siguranță.
+a89d9d9	Am depășit! Norocosule.
+f76c8fd	Prea mult pentru mine. Ai câștigat!
+63f8d0b	Blackjack pentru cazinou, îmi pare rău!
+465c8bf	Dealerul are blackjack. Ghinion.
+6752f40	Arăt un as. Asigurare?
+1920c5a	Împărțim! Două șanse de câștig.
+9f621da	Dublezi. Mișcare curajoasă!
+59da99d	Dublează! Vine o carte.
+0b48017	Sabot nou, amestec!
+3fa7769	Rămâi fără? Casieria te reîncarcă.
+4e5694b	Jetoanele se împuținează. Vrei mai multe?
+d41f057	Ai rămas fără jetoane! Mergi la casierie sau ia jetoane gratuite.
+15d90d3	Teancul tău e gol. Casieria e chiar în spatele tău.
+a9eaae1	Arăți epuizat! Mănâncă ceva la bar.
+5cd9e8b	Ești pe rezervă? Barul are grijă de tine.
+37b9672	Nu te grăbi.
+c64df8c	Oricând ești gata!
+b8dfc0a	Noaptea abia a început.
+8748560	Norocul începătorului e de partea ta!
+e3def50	Pachetul e de partea ta în seara asta!
+506ade9	Norocul începătorului s-a terminat. De acum jocul e corect!
+953d8b7	Bine ai venit în cazinou! Locul tău te așteaptă.
+9fd9844	Bună seara! Mesele sunt fierbinți în seara asta.
+2d42aaf	Bine ai revenit! Te simți norocos?
+311bae7	Atinge o masă ca să începi să joci!
+3318099	Ai nevoie de mai multe jetoane? Ai venit la ghișeul potrivit.
+c5b3787	Teancuri mai mari, bonusuri mai mari!
+21ae665	Ți-e foame? Alege orice din meniu.
+8b83cc0	O gustare îți ține energia sus!
+35f4b0e	Bine ai venit la masa mea!
+8f90245	Iată-te! Deja e mai luminos aici.
+909e4d6	Simte-te ca acasă. În seara asta totul e despre tine.
+2477f78	Ador zâmbetul ăsta. Seară norocoasă?
+6ac2120	Relaxează-te, ești pe mâini bune aici.
+089f04b	Hei, tu! Speram să treci pe la ghișeul meu.
+3f2c3c9	Mereu e plăcut să vezi o față prietenoasă.
+3021db8	Ia uite cine e aici! Te distrezi?
+769980b	Salut, frumosule!
+5361ffd	Îmi place stilul tău în seara asta.
+56b40be	Hei, mă bucur să te revăd!
+3316019	Ai o seară bună? O meriți.
+28283fd	Ai grijă, s-ar putea să încep să țin cu tine.
+109ac94	Jucătorul meu preferat s-a întors!
+acba0e6	Stai lângă mine, îți împart ceva frumos.
+eb5ff2a	Cu tine masa asta e mult mai distractivă.
+772a73c	Pleci deja? Noaptea abia a început!
+178301a	Haide, doar încă o mână. Am o presimțire bună!
+816036a	Nu poți să mă lași acum, abia am început!
+5c9b7e2	Ultima șansă! Următoarea mână ar putea fi cea mare...
+20ce7b6	Bine, bine. Îți țin locul cald. Promiți că revii?
+51d1aeb	Încă nicio serie? Joacă azi runde ({2}) și încep să număr.
+10b25d9	Început nou! Runde ({2}) și flacăra ta se aprinde.
+0c10711	Țin o mică listă cu cei care vin în fiecare zi. Tu nu ești pe ea... încă.
+5e7c431	Ziua {1} te așteaptă. Mai sunt runde: {2}!
+b268d84	Zile la rând: {0}... nu te oprești acum, nu?
+b32ae79	Flacăra ta pare cam rece azi. Rundele ({2}) o vor încălzi.
+a6f3fbd	Am numărat: zile {0}. Hai să fie {1}.
+1dc5c97	Să nu crezi că n-am observat. Mai sunt runde ca să-ți păstrezi seria: {2}!
+807b82c	Zile la rând: {0}? Încep să cred că îți place aici.
+6391923	Seria ta e în siguranță pentru azi. Acum doar te dai mare.
+3bfbbf7	Ziua {0}, gata. Mâine la aceeași oră?
+ca2a2c1	Zile: {0}! Ar trebui să-ți țin un loc.
+54f991f	Iat-o: prima zi a seriei tale! Revino mâine și facem două.
+a1e7ab0	O săptămână întreagă la rând! Sunt sincer impresionată.
+96cee95	Treizeci de zile! Practic lucrezi aici.
+a9834cd	O sută de zile. Le povestesc tuturor despre tine.
+071317f	Deja {0} zile la rând! Ia uită-te la tine.
+0964027	Serie salvată: ziua {0}! Știam că o să reușești.
+c7f2a1f	Ziua {0}! Pun pariu că nu ajungi la {1}.
+a6ce2e2	Zile: {0}... bine, fălosule.
+3ab91d0	Joacă 10 mâini de blackjack
+38e863d	Câștigă 5 mâini de blackjack
+6ac41cc	Fă un blackjack
+74cf149	Câștigă 500 de jetoane la blackjack
+66440e1	Învârte păcănelele de 20 de ori
+9205056	Câștigă 5 rotiri la păcănele
+cd60e0c	Câștigă de 5× miza la păcănele
+6f7ac28	Joacă 5 runde de ruletă
+6978cc0	Câștigă 3 rotiri la ruletă
+c8ebbcc	Nimerește un număr plin
+8a57c54	locația GPS
+4919635	rețeaua mobilă
+527b094	conexiunea la internet
+f49ae82	setările dispozitivului
+60827d3	țară de test
+0b2f8d8	neverificat (preț standard)
+50d8b4a	necunoscut
+4fb7a4e	Primele 12
+647a0eb	Mijlocul 12
+a934745	Ultimele 12
+3de80ab	2 la 1
+bb4e68e	ROȘU
+a9414ab	NEGRU
+710756a	IMPAR
+70ca748	PAR
+4d60d6c	PREȚURI CORECTE PENTRU ȚARA TA
+1674d95	Prețurile din magazin sunt adaptate economiei țării tale, astfel încât jucătorii de pretutindeni să plătească un preț corect.
+4ec27ee	Ca să aflăm țara ta, îți verificăm o singură dată locația aproximativă. Este asociată cu o țară pe dispozitivul tău și nu este trimisă nicăieri. Dacă refuzi, se aplică prețurile standard.
+ff3dbb4	CONTINUĂ
+43a6a8d	Părăsești cazinoul?
+ad209a0	Jetoanele și progresul tău sunt salvate.
+5860c84	IEȘI
+f1e0808	RĂMÂI
+5b38c49	Deblocat: {0}
+15ae7ac	O înghețare de serie ți-a salvat ieri seria (zile: {0}).
+d375ffb	Înghețările ({0}) ți-au salvat seria (zile: {1}).
+fd8ab39	Seria ta (zile: {0}) s-a încheiat. Joacă azi runde ({1}) ca să începi una nouă!
+7fa2db4	MISIUNE ÎNDEPLINITĂ
+255325c	+{0} jetoane
+d205ece	TOATE MISIUNILE ÎNDEPLINITE!
+4acbed2	Bonus zilnic +{0} jetoane. Misiuni noi mâine.
+ab2ceb3	NIVELUL {0}!
+86e2afb	Prag atins! +{0} jetoane
+9ae18ad	Revino mâine ca să continui
+7af7e7c	+1 înghețare de serie
+b5b9597	SERIE DE {0} ZILE!
+62ec60d	Cumpărăturile nu sunt disponibile în această versiune.
+1f9786c	Cumpărarea a eșuat. Nu ai fost taxat.
+3e4c600	Au fost adăugate +{0} jetoane!
+1998202	{0}: {1} mâini cu {2}% noroc, după Norocul începătorului
+728ada5	{0}: {1} mâini cu {2}% noroc!
+af5e232	{0}: +{1}% energie
+001a53b	Indisponibil pe acest dispozitiv
+2607004	Videoclipurile nu se pot încărca în această rețea
+569c30d	Revino mâine
+ecae6ee	Gata în {0} s
+9964820	+{0} jetoane (azi au mai rămas {1})
+e1bd888	+{0} jetoane gratuite!
+619bd5d	+1 înghețare de serie!
+f70d794	Momentan nu e disponibil niciun videoclip. Încearcă din nou peste puțin timp.
+264d71b	BRONZ
+462e839	ARGINT
+81ff70a	AUR
+50e122e	DIAMANT
+57f5f5e	Meniu
+69bd4ef	Vizualizare
+dbfe736	Cruce
+1cc7820	Cerc
+82810cb	Pătrat
+73d3ae2	Triunghi
+a42f608	Îți verificăm regiunea...
+1db422c	Neverificat ({0}): prețuri standard
+9bc0807	{0} ({1}): prețuri în {2}
+ae8c393	Mementouri
+aefd59b	Jetoane gratuite gata și mementouri pentru serie
+3125838	Jetoanele tale gratuite sunt gata
+233027b	Te așteaptă {0} jetoane la Lucky Ace.
+b93976b	Păstrează-ți seria (zile: {0})
+bd68038	Joacă azi runde ({0}) ca să nu se reseteze la miezul nopții.
+0acfb6f	Bine ai venit! Norocul începătorului e de partea ta în seara asta. Pariază!
+d589374	BLACKJACK PLĂTEȘTE 3 LA 2   •   DEALERUL STĂ LA TOATE 17   •   ASIGURAREA PLĂTEȘTE 2 LA 1
+b700b02	PARIU
+16ec74f	ȘTERGE
+928226b	REPETĂ
+55591e0	ÎMPARTE
+395ed46	CARTE
+43e7971	STAI
+097274c	DUBLEAZĂ
+6df63ca	ÎMPARTE MÂNA
+3e40f46	ASIGURĂ
+db82d3a	NU, MERSI
+28d6be8	PARIU {0}+
+9587b70	Ai atins maximul mesei
+b9ac47d	Jetoane insuficiente
+d237ade	Dealerul arată un as. Te asiguri pentru {0}?
+bf07c14	Asigurarea plătește {0}
+b6e674a	Dealerul nu are blackjack. Asigurarea e pierdută.
+0cc9679	DEPĂȘIT
+82ce89d	DEALERUL A DEPĂȘIT
+6e1e1a4	BLACKJACK!
+662fae5	CÂȘTIG
+8918d00	EGAL
+8df6be4	PIERDERE
+9e69668	Norocul începătorului s-a terminat. Seria ta norocoasă începe acum.
+822f4f4	Norocul începătorului s-a terminat. De acum e blackjack standard.
+b0377c7	Seria ta norocoasă s-a terminat. Înapoi la blackjack standard.
+824ad7c	FĂRĂ JETOANE
+ff1822d	Urmărește un videoclip scurt pentru {0} jetoane gratuite sau mergi la casierie.
+e4cac2f	Mergi la casierie să-ți reîncarci jetoanele.
+c3df3e7	JETOANE GRATUITE
+b169d33	CASIERIE
+4d38f66	MAI TÂRZIU
+cb8171b	Termină mai întâi mâna asta.
+3aa6941	„{0}”
+6f846f4	ÎNCĂ O MÂNĂ
+a79d4f2	PLEC
+693f697	NOROCUL ÎNCEPĂTORULUI
+641ad58	SERIE NOROCOASĂ
+fc45931	Bonus de bun venit pentru jucătorii noi: în primele tale <b>{0} mâini</b> sabotul dealerului este aranjat în favoarea ta, așa că vei câștiga aproape fiecare mână.
+576c683	În următoarele <b>{0} mâini</b> avantajul dispare treptat, iar apoi fiecare masă este blackjack standard, corect, împărțit dintr-un sabot amestecat de 6 pachete (blackjack plătește 3 la 2, dealerul stă la toate 17).
+7fb55b3	Avantaj acum: <b><color=#7CFC9A>{0}%</color></b>   Mâini rămase: <b>{1}</b>
+d4f8fe0	În următoarele <b>{0} mâini de blackjack</b> cu o miză de până la <b>{1} jetoane</b>, fiecare carte are o șansă de <b>{2}%</b> să vină în favoarea ta (același avantaj ca Norocul începătorului).
+0a5fc06	Cu un joc bun, asta înseamnă cam <b>{0}%</b> din mâini câștigate, față de aproximativ {1}% la blackjackul standard. Mizele mai mari sunt blackjack standard și nu consumă mâini. Când mâinile se termină, fiecare masă e din nou blackjack standard, corect.
+c3a8946	AM ÎNȚELES
+8dfc44a	ÎȚI VREI NOROCUL ÎNAPOI?
+272a97f	Norocul începătorului s-a terminat: de acum fiecare masă este blackjack standard, corect. O serie norocoasă aduce avantajul înapoi pentru o vreme.
+06b7689	ZILNIC
+4035996	SERIE ZILNICĂ
+fbe7f18	ZILE LA RÂND
+7a46866	AZI
+4753707	VEZI RECLAMA
+6bb45f3	CUMPĂRĂ
+62a945f	ÎNGHEȚARE DE SERIE
+ba5b1de	O înghețare îți păstrează seria într-o zi în care nu joci. Poți avea până la {0}.\n\nCumperi una pentru {1} jetoane?
+38c6090	Înghețare de serie gata.
+8fe681f	Jetoane insuficiente pentru o înghețare.
+1507c40	ANULEAZĂ
+457d20f	ROTIRE ZILNICĂ
+9623247	ÎNVÂRTE
+ac5ef96	Șanse:
+1200f20	{0}%
+003a689	Ai câștigat {0} jetoane!
+f757137	MISIUNILE DE AZI
+7b7f9e2	Record: {0} zile
+9554fea	Joacă în fiecare zi ca să construiești o serie
+5c8dbb8	Obiectivul de azi e atins! Pe mâine.
+1aeb9a1	Azi: {0} / {1} runde (orice joc)
+bb92856	Înghețări de serie: {0} / {1}
+0ec6216	Salvează-ți seria într-o zi pe care o ratezi. +1 la fiecare 7 zile.
+cc0a745	PLIN
+419a962	FĂRĂ VIDEO
+2dabd99	RECLAMĂ ÎN CURÂND
+f12e166	Bonus de serie: premii ×{0}
+80948a4	O rotire gratuită în fiecare zi
+596b5e0	URMĂTOAREA  {0}
+7f7e7fc	Gata tot! Bonus încasat.
+03a0f2a	Misiuni noi la miezul nopții.
+4784874	Termină-le pe toate trei: +{0} jetoane bonus
+42c5cda	JOACĂ
+337211e	JOCURI
+8f5e3bd	Trage în stânga ca să mergi  •  Trage în dreapta ca să privești  •  Atinge ca să mergi acolo
+d00d221	Doar 18+  •  Jetoanele sunt pentru distracție: fără valoare bănească, nu pot fi schimbate niciodată pe bani sau premii
+b60f038	Deschidem ușile...
+2e5bcce	Bine ai venit! Cele {0} jetoane de bun venit sunt gata. Mesele sunt drept înainte!
+7ef7ae3	+{0} jetoane gratuite! Altele în {1} ore.
+5d82af9	Jetoanele gratuite se reîncarcă la fiecare {0} ore. Următoarele în {1}.
+5469985	{0} h {1} min
+bb65beb	{0} min {1} s
+ac8ba93	PĂSTREAZĂ-ȚI SERIA
+560bfa1	Vrei un memento în serile în care n-ai jucat încă și când jetoanele gratuite sunt gata? Niciodată mai mult de atât, și îl poți dezactiva din Setări.
+b724a40	AMINTEȘTE-MI
+9e0c898	+{0} jetoane gata!
+1207e28	Urmărește un videoclip: {0}
+db3655b	Următoarele jetoane gratuite în {0}
+4ca9be5	BLACKJACK
+9a612b1	4 mese  •  plătește 3 la 2
+1194439	PĂCĂNELE
+6555152	Lucky Ace 7s  •  10 linii
+255b1a1	RULETĂ
+6df1551	Europeană cu un singur zero
+379b146	EȘTI EPUIZAT
+340e5c4	Bara de energie e goală. Ia ceva de la bar ca să joci în continuare sau revino mai târziu: energia se reface încet cât lipsești.
+a517396	MERGI LA BAR
+7c7227f	ALEGE-ȚI MASA
+c963de3	MIZE
+c433657	NIVELUL {0}
+083ac39	IA LOC
+9698219	NECESAR {0}
+34b737e	Atinge nivelul {0} ca să joci aici. Ești la nivelul {1}.
+6cc19a9	CAZINO
+6e946b7	ZZ
+4a3a892	LL
+2857a6a	AAAA
+9d1fece	ZI
+d3bb0c3	LUNĂ
+c0f0cad	AN
+43985ff	CÂND TE-AI NĂSCUT?
+293fda2	Jetoanele sunt doar pentru divertisment. Nu au valoare bănească și nu pot fi schimbate niciodată pe bani sau premii.
+3e9128d	NE PARE RĂU, NU POȚI JUCA
+b5e8985	{0} este disponibil doar pentru adulți.
+bb1b380	IEȘIRE
+d9f9432	Se închide în {0}...
+c6e102d	SPUNE-NE DESPRE TINE
+31120ce	Îți alegem gazdele, dealerii și personalul barului pe potrivă. Poți schimba asta oricând din Setări.
+49e8df9	SUNT BĂRBAT
+85abe81	SUNT FEMEIE
+76cc98c	PREFER SĂ NU SPUN
+964daf7	INTRĂ ÎN CAZINO
+2efb69a	Personalul tău în seara asta:
+c10e749	Pagina {0} din {1}
+2a3ffd9	LIMBĂ
+c673535	AUTOMAT
+d1245d2	ȚARĂ
+15fc12b	Bine ați venit! Faceți jocurile, vă rog.
+531fb3f	Jetoane insuficiente pentru acest pariu.
+380eb75	Limita mesei este {0} pe rotire.
+55ad592	ANULEAZĂ
+8f191f9	MIZĂ TOTALĂ  {0}
+82e1181	Atinge tabla ca să pui jetoane
+bb19a75	Nu se mai pariază!
+5becf07	VERDE
+bc74f4f	verde
+7898801	roșu
+466bc8c	negru
+f2edfbf	Ce lovitură! Felicitări!
+b252caf	Câștig! Câștigi {0}.
+8587d14	CÂȘTIG  +{0}
+b862a2b	{0} {1}. Primești înapoi {2}.
+a306d0a	RETURNAT  {0}
+af3134d	Fără câștig de data asta
+84122e7	Faceți jocurile, vă rog.
+52205f4	Așteaptă să se oprească bila.
+c4b9243	SETĂRI
+44d863e	GENERAL
+2bbca79	GRAFICĂ
+955c8b4	SUNET
+c701f5f	ATINGERE
+efcc94a	MOUSE
+8433628	CONTROLER
+d868a50	VIBRAȚII
+f8692c7	18+ • Jetoanele nu au valoare bănească • Fonturi: Bebas Neue, Poppins, Noto (SIL OFL) • Granițe: Natural Earth • Date despre prețuri: Banca Mondială
+da46447	PERSONALUL CAZINOULUI
+594b81e	FEMEI
+69d3313	BĂRBAȚI
+b4325d3	MIXT
+414594a	MEMENTOURI
+6cac87b	Jetoane gratuite gata și un mic semn seara, înainte să se termine o serie.
+e43b2e0	VERIFICĂ DIN NOU
+7c9e8f9	REGIUNE DE PREȚ
+495c70e	Cel mai rapid: cazinoul așa cum e pictat, nimic în plus.
+b052523	Podele lustruite, lemn și aur reflectă sala.
+6bd30d7	Aspect de film: corecție de culoare, granulație, strălucire, raze de lumină, piele naturală.
+21b6e1d	Obiectiv de cinema: focalizarea îți urmează privirea, dâre pe lumini, praf în raze.
+fb7c2e8	CALITATE
+d8b9679	SCĂZUTĂ
+f68525a	MEDIE
+d77d0b2	RIDICATĂ
+9289eee	ULTRA
+637e313	REZOLUȚIE
+2e7b141	Mai mică e mai puțin clară, dar telefonul se încălzește mai puțin și economisește bateria.
+93dcfb5	MOD DE AFIȘARE
+3c6eac3	ECRAN COMPLET
+f3690b1	ÎN FEREASTRĂ
+cfa6200	ANTI-ALIASING
+ad50489	OPRIT
+f178804	Netezește marginile zimțate din cazinou.
+4266288	CADRE PE SECUNDĂ
+d031ab0	{0} FPS
+a2b7514	30 FPS economisește bateria și ține telefoanele mai vechi răcoroase.
+0babcee	V-SYNC
+6656e25	CÂMP VIZUAL
+244aadb	AFIȘEAZĂ FPS
+41c8f6e	VOLUM GENERAL
+bf3af1f	MUZICĂ
+bd80907	EFECTE SONORE
+d098036	VOCILE PERSONALULUI
+93c6484	Murmurul personalului când vorbește.
+16bf71a	FĂRĂ SUNET ÎN FUNDAL
+85b2ee7	Oprește sunetul cazinoului cât ești în altă fereastră.
+8e3634e	SENSIBILITATEA PRIVIRII
+880dc05	Cât de repede trasul rotește imaginea.
+750c60f	Cât de repede trasul cu mouse-ul rotește imaginea.
+8b988eb	INVERSEAZĂ PRIVIREA STÂNGA / DREAPTA
+cacf0cc	INVERSEAZĂ PRIVIREA SUS / JOS
+2d13b68	DISPUNEREA BUTOANELOR
+50c3f10	AUTO
+b471e5c	INVERSEAZĂ MENIU / VIZUALIZARE
+d9a59f1	SENSIBILITATEA STICKULUI
+ec14343	Cât de repede stickul drept rotește imaginea.
+a79af23	INVERSEAZĂ STICKUL STÂNGA / DREAPTA
+acfc66e	INVERSEAZĂ STICKUL SUS / JOS
+56bb461	INDICII PENTRU CONTROLER
+51cf49a	Arată ce face fiecare buton cât joci cu un controler.
+dff7431	VIBREAZĂ PE
+34139ab	TELEFON
+15ee988	AMBELE
+465cc91	Auto: controlerul cât e conectat, altfel telefonul.
+f6fed84	VIBRAȚII TELEFON
+8e97fa7	INTENSITATE TELEFON
+486ba2d	VIBRAȚII CONTROLER
+8008889	INTENSITATE CONTROLER
+ea9233e	AUTOMAT ({0})
+167dda7	{0} deschide Setările, {1} deschide Zilnic.
+29a4ef9	Niciun controler conectat.
+558ecd2	Conectat: {0}. Se afișează butoanele {1} (A din dreapta confirmă).
+d6eee9e	Conectat: {0}. Se afișează butoanele {1}.
+78525d5	BARUL
+099db9f	NOROC
+b4a8b06	Jetoanele, norocul și mâncarea sunt obiecte virtuale doar pentru divertisment: fără valoare bănească, nu pot fi preschimbate în bani sau premii.
+e2a28c9	Fiecare carte are această șansă să vină în favoarea ta, la mize de blackjack de până la {0} jetoane (mizele mai mari sunt standard și nu consumă mâini). Începe după Norocul începătorului; pachetele mai puternice se folosesc primele.
+04fbc6d	Permite accesul la locație ca să primești prețul țării tale
+2ae87fc	Cumpărăturile nu sunt disponibile în această versiune a jocului.
+8239a84	MAGAZIN DE TEST (fără bani reali)
+173d916	energie
+b2c67eb	+{0}% JETOANE
+58e8011	{0} mâini
+ce80712	câștigă aproximativ {0}% dintre ele
+c69e8ee	LUCKY ACE 7s
+fc99288	MIZĂ TOTALĂ
+c1c00cd	TABEL DE PLĂȚI
+3930abd	BAFTĂ!
+67b6973	Ai nevoie de cel puțin 10 jetoane ca să învârți.
+5aa1edb	IA JETOANE
+f5a1812	Miza a fost redusă la cât poți acoperi.
+5c63f61	MEGA CÂȘTIG!
+652544f	CÂȘTIG MARE!
+91bc41c	RETURNAT {0}
+3714283	FĂRĂ CÂȘTIG
+33c0faa	LINIA {0}: {1} × {2} = {3}
+9f59e6e	{0} STELE = {1}
+d6eee90	Cireașă
+4459b79	Lămâie
+09fb6aa	Portocală
+cb92e50	Prună
+d419866	Clopoțel
+e496fd2	Bar
+63abb56	Șeptar
+b3850e0	Diamant
+fc2b5a9	As
+85a7de6	Stea
+c31b035	STELELE plătesc oriunde: 5 = {0}× miza, 4 = {1}× miza, 3 = {2}× miza.
+f97509c	ASUL este wild: înlocuiește orice simbol, mai puțin steaua.
+3e8bc69	Câștigurile pe linii sunt multipli ai mizei pe linie (miza totală ÷ 10), de la stânga la dreapta de la primul rotor.
+523f8dc	RETURNARE: {0}% pe termen lung. Fiecare rotire este independentă și aleatorie.
+e0c705d	Mergi
+b8db515	Privește
+503d46d	Butoane
+c7f73bb	Setări
+728298d	Zilnic
+ab166bd	Reglează
+76cdb95	Mută
+8598222	Alege
+bbfa773	Închide
+b52b36b	Înapoi
+ab37588	EPUIZAT
+9b11a09	NOROCUL ÎNCEPĂTORULUI {0}%
+0c94e98	MAI SUNT {0} MÂINI
+51ed273	SERIE NOROCOASĂ {0}%
+3401470	{0} MÂINI  •  MIZE DE PÂNĂ LA {1}
+f481cc6	NIVEL
+0139615	BINE AȚI VENIT
+daad514	VORBEȘTE CU GAZDA
+bcefb10	Indicații și sfaturi
+c28e782	JETOANE  •  BONUSURI
+0c69ec4	CUMPĂRĂ JETOANE
+78c0727	Casierie
+1737fab	COCKTAILURI  •  GUSTĂRI  •  ENERGIE
+9e008ae	MÂNCARE ȘI BĂUTURI
+f7881e8	Barul
+0e979ed	BLACKJACK PLĂTEȘTE 3 LA 2
+eea0d12	DEALERUL TREBUIE SĂ STEA LA 17
+4db37bf	JOACĂ BLACKJACK
+0ffdd99	Masa {0}  •  mize de la {1} la {2}
+b4f938b	JOACĂ LA PĂCĂNELE
+6b7caea	FACEȚI JOCURILE
+26b1e39	JOACĂ RULETĂ
+910a1ed	Roată europeană  •  numărul plin plătește 35 la 1
+7ef0215	COMANDĂ O BĂUTURĂ
+fe38d73	{0} ți-o aduce
+f7b6306	{0} se deschide la nivelul {1}. Ești la nivelul {2}: fiecare rundă jucată contează.
+d85f1ad	La această masă ai nevoie de cel puțin {0} jetoane.
+cbfe016	Mesele de blackjack sunt drept înainte. Du-te la una și ia loc!
+64d9faf	Casieria e chiar aici, în dreapta ta, iar barul e de-a lungul peretelui din stânga.
+e4c6e0b	Obosit? O gustare la bar îți umple imediat energia.
+d5ab68f	Atinge oriunde pe podea și mergi acolo. Atinge o masă ca să te așezi.
+cc21f74	MIC
+dc01dec	MARE
+5fb90b0	ORICE TRIPLĂ
+9c716f1	Masă de hold'em
+3b6ab84	Joacă 8 mâini de hold'em
+6c617ca	Câștigă 4 mâini de hold'em
+44ce500	Joacă 10 mâini de baccarat
+b90cff7	Câștigă 5 mâini de baccarat
+3e4dfa9	Joacă 15 mâini de video poker
+854fe20	Joacă 8 runde de sic bo
+dfddac1	Câștigă 4 runde de sic bo
+2973ea7	Aruncă zarurile de 15 ori la craps
+737be17	Câștigă 4 aruncări la craps
+4dbb81d	Fă culoare sau mai bine la video poker
+19aa07b	Chintă roială
+cf83e72	Chintă de culoare
+d27ba03	Careu
+dbe8641	Full house
+7c936d7	Culoare
+2501c65	Chintă
+ca1a0d4	Trei de un fel
+6876b40	Două perechi
+2537f88	Pereche
+b4b323e	Carte mare
+f70bfdc	Valeți sau mai bine
+98fd5af	BACCARAT
+df66d5a	Bine ai venit la baccarat! Jucător, Bancher sau Egal?
+5055efd	JUCĂTOR
+3f90696	EGAL
+0d75f63	BANCHER
+0ebd5a4	ULTIMELE REZULTATE
+511993d	J
+ae4f281	B
+c2c53d6	E
+781246e	Alege un jeton, apoi atinge Jucător, Bancher sau Egal
+11023a0	EGAL  {0}
+503d5f1	CÂȘTIGĂ JUCĂTORUL  {0} LA {1}
+0eb4be5	CÂȘTIGĂ BANCHERUL  {0} LA {1}
+7859af1	CRAPS
+4083dbd	Bine ai venit la craps! Pariază pe Pass Line și aruncă.
+d266326	ȘASE
+c506f3a	NOUĂ
+987f4e9	FIELD
+71c1b2b	2 3 4 9 10 11 12  •  2 și 12 plătesc dublu
+d0ac294	ORICE 7
+9b2f0c3	ORICE CRAPS
+f62ac59	DON'T PASS BAR
+6080ade	1:1  •  12 e egalitate
+c07247a	PASS LINE
+6229f78	ODDS
+29bf819	cote reale
+387d7a5	ON
+229c9cc	Odds se pun în spatele Pass Line când există un punct.
+c2c8e82	Odds cer un pariu pe Pass Line.
+1784d43	Odds-urile tale sunt la maximum.
+fdc3442	Pariurile pe linie se pun la aruncarea de deschidere.
+97ce95b	PE MASĂ  {0}
+a895ec0	Punctul e {0}: dă-l din nou înainte de un 7. Odds din spatele Pass Line plătesc cote reale.
+d9f9d65	ARUNCĂ
+bcf32ef	Punctul e {0}.
+5b450b4	{0}! Punct reușit. Câștig!
+9746e08	Șapte. Nou aruncător, nouă deschidere.
+4fc4664	{0}, natural! Pass Line câștigă.
+203f466	{0}, craps. Linia pierde.
+0f8e260	Așteaptă să se oprească zarurile.
+6a98cfe	PĂRĂSEȘTI MASA?
+8430088	Pariul tău pe linie încă joacă pe punctul {0}. Dacă pleci acum, îl pierzi.
+0e138d1	HOLD'EM
+5e023be	Bine ai venit la hold'em! Pune ante-ul și să vedem cărțile.
+0cd62f5	ANTE
+5e9f331	BLIND
+3b935ab	BLIND-UL PLĂTEȘTE
+20713a4	Dealerul se califică cu o pereche sau mai bine
+d37267c	CHECK
+9a4e316	FOLD
+88313c4	PARIAZĂ {0}×
+42c6fea	Ante {0} + blind {0}. Mai păstrează {1} pentru mărire.
+1abb2f2	Atinge jetoane ca să-ți fixezi ante-ul. Blind-ul e la fel.
+f541cec	Check sau pariezi de trei ori sau de patru ori ante-ul?
+fc74a79	Mărește acum cu 4× sau 3× ante-ul, sau dă check și vezi flop-ul.
+b687501	Ultima șansă: pariază 1× ante-ul sau dă fold și pierzi ante-ul și blind-ul.
+400009c	Pariază acum 2× ante-ul, sau dă check și vezi ultimele două cărți.
+f4abdf9	Iată flop-ul.
+0e51f2c	Turn-ul și river-ul.
+cc856d3	Să vedem ce am.
+6ba1f3e	Dealerul nu se califică: ante-ul ți se întoarce.
+cf1fdc5	Fold. Următoarea mână e a ta.
+177fab0	Ultimate Texas Hold'em
+c4917b9	Jucător, Bancher sau Egal
+6e4fe7b	VIDEO POKER
+73cabd3	Jacks or Better
+91c4555	SIC BO
+d810061	Trei zaruri  •  mare sau mic
+85ab7ec	Pass Line  •  Field  •  Odds
+35d8db6	Bine ai venit la sic bo! Mare, mic sau ceva mai îndrăzneț?
+3d05514	Limita mesei este {0} pe aruncare.
+86ade94	AGITĂ
+b69304e	TRIPLĂ DE {0}!
+5d1bcc6	PĂSTRATĂ
+36a21ba	Împarte, păstrează cărțile dorite, schimbă o dată.
+99fa8e8	PĂSTREAZĂ
+249d1c0	INDICIU
+7aab1bd	SCHIMBĂ
+5595eb4	Atinge cărțile ca să le păstrezi, apoi schimbă.
+1c05db9	JOACĂ HOLD'EM
+e353e5f	Ultimate Texas Hold'em  •  ante de la {0} la {1}
+6470369	JOACĂ BACCARAT
+bbe0077	MARE  •  MIC  •  TRIPLE
+3ba448f	JOACĂ SIC BO
+097c59c	Trei zaruri  •  mare sau mic plătește 1 la 1
+af2ca30	PASS LINE  •  FIELD  •  ODDS
+f18398e	JOACĂ CRAPS
+eeede6d	Pass Line plătește 1 la 1  •  odds plătesc cote reale
+34e5170	JOACĂ VIDEO POKER
+f71bdfb	Jacks or Better  •  tabel complet 9/6
+4a6c087	JACKS OR BETTER  •  CHINTA ROIALĂ PLĂTEȘTE 800×
+370a133	Păcănelele sunt pe peretele din dreapta, video pokerul pe peretele din spate, iar ruleta în fund.
+8298d28	Hold'em-ul e în colțul din stânga spate, după bar.
+a2a111f	Baccaratul e imediat în stânga cum intri.
+b7193bc	Sic bo e în colțul de după casierie: trei zaruri, mare sau mic.
+25320c8	Masa de craps e în dreapta, în fața păcănelelor. Pariază pe Pass Line și aruncă!
+dc81691	Sofia
+4d9936f	Elena
+3aa0674	Mia
+b724114	Valentina
+34d3f7f	Chloe
+0fc9dd6	Isabella
+bbd3e35	Nadia
+eac677d	Aria
+baaf10f	Luna
+8641381	Camila
+eeee9b7	Aurora
+8a59f05	Bianca
+5a0fc29	Serena
+bf38aa5	Marco
+cfaf50a	Leo
+5815f22	Adrian
+cbede02	Lucas
+f0b9995	Victor
+7b37259	Daniel
+aaac72d	Gabriel
+2f8f37e	Ethan
+a01126e	Julian
+3e05c90	Rafael
+e1ae457	Mateo
+3398634	Nico
+7aa2d07	Enzo
+1920e2f	Aruncarea de deschidere: pariază pe Pass Line, apoi aruncă. 7 sau 11 câștigă; 2, 3 sau 12 pierd. Pariurile Place încep să funcționeze când există un punct.
+99f4934	LUCKY ACE 7s  •  PLĂTEȘTE PÂNĂ LA 2.500× MIZA PE LINIE

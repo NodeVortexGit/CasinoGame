@@ -1,0 +1,1004 @@
+KLEIN
+GROSS
+UNGERADE
+GERADE
+BELIEBIGER DRILLING
+Handvoll Chips
+Stapel Chips
+Tablett Chips
+Chip-Rack
+AM BELIEBTESTEN
+Chip-Tresor
+High-Roller-Safe
+BESTER WERT
+Sprudelwasser
+Espresso
+Energy-Drink
+Clubsandwich
+Burger-Menü
+Steak-Dinner
+VOLL AUFGELADEN
+Glückssträhne
+Heiße Strähne
+AM MEISTEN GLÜCK
+Bronzetisch
+Silbertisch
+Goldtisch
+Diamanttisch
+Hold'em-Tisch
+Bitte gib ein gültiges Jahr ein.
+Bitte gib einen gültigen Monat ein (1-12).
+Bitte gib einen gültigen Tag ein.
+Dieses Datum liegt in der Zukunft.
+Willkommen an meinem Tisch! Bereit zu spielen?
+Schön, dich zu sehen. Setz dich!
+Hallo! Die Karten sind frisch, und ich auch.
+Willkommen! Machen wir einen schönen Abend daraus.
+Setz, wann immer du bereit bist.
+Chips auf den Tisch, und dann sehen wir uns die Karten an.
+Um was spielen wir?
+Oh, ein großer Einsatz! Dein Stil gefällt mir.
+Das nenne ich einen Einsatz! Los geht's!
+Heute Abend ganz schön mutig, was?
+Alles?! Mein Herz rast!
+Alles auf eine Hand. Furchtlos!
+Blackjack! Unglaublich!
+Einundzwanzig, einfach so!
+Blackjack! Die Karten lieben dich heute.
+Schön gespielt!
+Gewonnen! Gut gemacht.
+Du hast einen Lauf!
+Die gehört dir.
+Was für ein Gewinn! Alle schauen auf diesen Tisch!
+Riesig! Du bist heute Abend on fire!
+Knapp! Die nächste gehört dir.
+Diesmal hatte das Haus Glück.
+Kopf hoch, die nächste Hand kommt.
+Autsch, eine Karte zu viel.
+Überkauft! Passiert den Besten.
+Unentschieden. Niemand verliert!
+Push. Deine Chips sind sicher.
+Ich habe mich überkauft! Glück gehabt.
+Zu viel für mich. Du gewinnst!
+Blackjack für das Haus, tut mir leid!
+Blackjack beim Dealer. Pech gehabt.
+Ich zeige ein Ass. Versicherung?
+Splitten! Zwei Chancen auf den Sieg.
+Verdoppeln. Mutiger Zug!
+Verdopple! Eine Karte kommt.
+Neuer Schlitten, ich mische!
+Knapp bei Kasse? Die Kassiererin hilft dir.
+Die Chips werden knapp. Willst du Nachschub?
+Keine Chips mehr! Geh zur Kasse oder hol dir Gratis-Chips.
+Dein Stapel ist leer. Die Kasse ist direkt hinter dir.
+Du siehst erschöpft aus! Iss etwas an der Bar.
+Keine Energie mehr? Die Bar hilft dir.
+Lass dir Zeit.
+Wann immer du bereit bist!
+Die Nacht ist noch jung.
+Das Anfängerglück ist auf deiner Seite!
+Das Deck ist heute Abend auf deiner Seite!
+Das Anfängerglück ist vorbei. Ab jetzt ist es ein faires Spiel!
+Willkommen im Casino! Dein Platz wartet.
+Guten Abend! Die Tische sind heute heiß.
+Willkommen zurück! Fühlst du dich glücklich?
+Tippe auf einen Tisch, um zu spielen!
+Mehr Chips? Du bist am richtigen Schalter.
+Größere Stapel, größere Boni!
+Hunger? Such dir etwas von der Karte aus.
+Ein Happen hält deine Energie oben!
+Willkommen an meinem Tisch!
+Da bist du ja! Gleich wirkt alles heller.
+Fühl dich wie zu Hause. Heute Abend dreht sich alles um dich.
+Ich liebe dieses Lächeln. Glücksnacht?
+Entspann dich, du bist in guten Händen.
+Hey du! Ich hatte gehofft, du kommst an meinen Schalter.
+Immer schön, ein freundliches Gesicht zu sehen.
+Schau mal, wer da ist! Hast du Spaß?
+Hallo, Hübscher!
+Dein Stil gefällt mir heute Abend.
+Hey, schön, dich wiederzusehen!
+Hast du einen schönen Abend? Du hast ihn verdient.
+Vorsicht, ich könnte anfangen, dir die Daumen zu drücken.
+Mein Lieblingsspieler ist zurück!
+Setz dich zu mir, ich teile dir etwas Schönes aus.
+Mit dir macht dieser Tisch viel mehr Spaß.
+Schon gehen? Die Nacht ist noch jung!
+Komm schon, nur noch eine Hand. Ich habe ein gutes Gefühl!
+Du kannst mich jetzt nicht verlassen, wir fangen gerade erst an!
+Letzte Chance! Die nächste Hand könnte die große sein...
+Okay, okay. Ich halte deinen Platz warm. Versprichst du, wiederzukommen?
+Noch keine Serie? Spiel heute {2} Runden und ich fange an zu zählen.
+Neuanfang! {2} Runden und deine Flamme brennt.
+Ich führe eine kleine Liste, wer jeden Tag kommt. Du stehst nicht drauf... noch nicht.
+Tag {1} wartet auf dich. Nur noch {2} Runden!
+{0} Tage in Folge... du hörst doch jetzt nicht auf, oder?
+Deine Flamme wirkt heute etwas kalt. {2} Runden wärmen sie auf.
+Ich zähle mit: {0} Tage. Machen wir {1} daraus.
+Glaub nicht, ich hätte es nicht bemerkt. Noch {2} Runden, um deine Serie zu halten!
+{0} Tage in Folge? Langsam glaube ich, es gefällt dir hier.
+Deine Serie ist für heute sicher. Jetzt gibst du nur noch an.
+Tag {0}, geschafft. Morgen um dieselbe Zeit?
+{0} Tage! Langsam sollte ich dir einen Platz reservieren.
+Da ist er: Tag eins deiner Serie! Komm morgen wieder, dann sind es zwei.
+Eine ganze Woche am Stück! Ich bin ehrlich beeindruckt.
+Dreißig Tage! Du arbeitest ja praktisch hier.
+Hundert Tage. Ich erzähle allen von dir.
+Das sind {0} Tage in Folge! Sieh dich an.
+Serie gerettet: Tag {0}! Ich wusste, du schaffst es.
+Tag {0}! Wetten, du schaffst keine {1}?
+{0} Tage... schon gut, Angeber.
+Spiele 10 Hände Blackjack
+Gewinne 5 Hände Blackjack
+Erziele einen Blackjack
+Gewinne 500 Chips beim Blackjack
+Drehe die Slots 20-mal
+Gewinne 5 Slot-Drehungen
+Gewinne das 5-Fache deines Einsatzes an den Slots
+Spiele 5 Runden Roulette
+Gewinne 3 Roulette-Drehungen
+Triff eine Zahl direkt (Plein)
+Spiele 8 Hände Hold'em
+Gewinne 4 Hände Hold'em
+Spiele 10 Hände Baccarat
+Gewinne 5 Hände Baccarat
+Spiele 15 Hände Video-Poker
+Spiele 8 Runden Sic Bo
+Gewinne 4 Runden Sic Bo
+Würfle 15-mal beim Craps
+Gewinne 4 Würfe beim Craps
+Mach beim Video-Poker einen Flush oder besser
+Royal Flush
+Straight Flush
+Vierling
+Full House
+Flush
+Straße
+Drilling
+Zwei Paare
+Paar
+Höchste Karte
+GPS-Standort
+Mobilfunknetz
+Internetverbindung
+Geräteeinstellungen
+Testland
+nicht bestätigt (Standardpreis)
+unbekannt
+1. Dutzend
+2. Dutzend
+3. Dutzend
+2 zu 1
+ROT
+SCHWARZ
+Buben oder besser
+FAIRE PREISE FÜR DEIN LAND
+Die Shop-Preise sind an die Wirtschaft deines Landes angepasst, damit Spieler überall einen fairen Preis zahlen.
+Um dein Land zu bestimmen, prüfen wir einmal deinen ungefähren Standort. Er wird auf deinem Gerät einem Land zugeordnet und nirgendwohin gesendet. Wenn du ablehnst, gelten die Standardpreise.
+WEITER
+Das Casino verlassen?
+Deine Chips und dein Fortschritt sind gespeichert.
+BEENDEN
+BLEIBEN
+{0} freigeschaltet
+Gestern hat ein Serien-Schutz deine {0}-Tage-Serie gerettet.
+{0} Serien-Schutze haben deine {1}-Tage-Serie gerettet.
+Deine {0}-Tage-Serie ist vorbei. Spiel heute {1} Runden, um eine neue zu starten!
+MISSION ERFÜLLT
++{0} Chips
+ALLE MISSIONEN ERFÜLLT!
+Tagesbonus +{0} Chips. Neue Missionen morgen.
+LEVEL {0}!
+Meilenstein! +{0} Chips
+Komm morgen wieder, um weiterzumachen
++1 Serien-Schutz
+{0}-TAGE-SERIE!
+Käufe sind in dieser Version nicht verfügbar.
+Kauf fehlgeschlagen. Dir wurde nichts berechnet.
++{0} Chips hinzugefügt!
+{0}: {1} Hände mit {2} % Glück, nach dem Anfängerglück
+{0}: {1} Hände mit {2} % Glück!
+{0}: +{1} % Energie
+Auf diesem Gerät nicht verfügbar
+Videos laden in diesem Netzwerk nicht
+Komm morgen wieder
+Bereit in {0} s
++{0} Chips (heute noch {1})
++{0} Gratis-Chips!
++1 Serien-Schutz!
+Gerade ist kein Video verfügbar. Versuch es gleich noch einmal.
+BRONZE
+SILBER
+GOLD
+DIAMANT
+Menü
+Ansicht
+Kreuz
+Kreis
+Quadrat
+Dreieck
+Deine Region wird geprüft...
+Nicht bestätigt ({0}): Standardpreise
+{0} ({1}): Preise in {2}
+Erinnerungen
+Gratis-Chips bereit und Serien-Erinnerungen
+Deine Gratis-Chips sind bereit
+{0} Chips warten im Lucky Ace auf dich.
+Halte deine {0}-Tage-Serie
+Spiel heute {0} Runden, damit sie um Mitternacht nicht zurückgesetzt wird.
+BACCARAT
+Willkommen beim Baccarat! Spieler, Bank oder Unentschieden?
+SPIELER
+UNENTSCHIEDEN
+BANK
+LETZTE ERGEBNISSE
+S
+B
+U
+RÜCKGÄNGIG
+LÖSCHEN
+ERNEUT
+AUSTEILEN
+Nicht genug Chips für diesen Einsatz.
+Tischmaximum erreicht
+GESAMTEINSATZ  {0}
+Wähle einen Chip und tippe auf Spieler, Bank oder Unentschieden
+UNENTSCHIEDEN  {0}
+SPIELER GEWINNT  {0} ZU {1}
+BANK GEWINNT  {0} ZU {1}
+GEWINN  +{0}
+ZURÜCK  {0}
+Diesmal kein Gewinn
+Beende zuerst diese Hand.
+Willkommen! Das Anfängerglück ist heute auf deiner Seite. Platzier einen Einsatz!
+BLACKJACK ZAHLT 3 ZU 2   •   DEALER STEHT BEI ALLEN 17   •   VERSICHERUNG ZAHLT 2 ZU 1
+EINSATZ
+KARTE
+STEHEN
+VERDOPPELN
+SPLITTEN
+VERSICHERN
+NEIN, DANKE
+EINSATZ {0}+
+Nicht genug Chips
+Der Dealer zeigt ein Ass. Für {0} versichern?
+Versicherung zahlt {0}
+Kein Blackjack beim Dealer. Versicherung verloren.
+ÜBERKAUFT
+DEALER ÜBERKAUFT
+BLACKJACK!
+GEWONNEN
+PUSH
+VERLOREN
+Das Anfängerglück ist vorbei. Deine Glückssträhne beginnt jetzt.
+Das Anfängerglück ist vorbei. Ab jetzt ist es normales Blackjack.
+Deine Glückssträhne ist vorbei. Zurück zum normalen Blackjack.
+KEINE CHIPS MEHR
+Schau ein kurzes Video für {0} Gratis-Chips oder geh zur Kasse.
+Geh zur Kasse, um Chips nachzuladen.
+GRATIS-CHIPS
+KASSE
+SPÄTER
+„{0}“
+NOCH EINE HAND
+GEHEN
+ANFÄNGERGLÜCK
+GLÜCKSSTRÄHNE
+Willkommensbonus für neue Spieler: Bei deinen ersten <b>{0} Händen</b> ist der Schlitten des Dealers zu deinen Gunsten sortiert, du gewinnst also fast jede Hand.
+In den nächsten <b>{0} Händen</b> lässt der Vorteil nach, danach ist jeder Tisch normales, faires Blackjack aus einem gemischten Schlitten mit 6 Decks (Blackjack zahlt 3 zu 2, der Dealer steht bei allen 17).
+Vorteil gerade: <b><color=#7CFC9A>{0} %</color></b>   Verbleibende Hände: <b>{1}</b>
+Bei deinen nächsten <b>{0} Blackjack-Händen</b> mit einem Einsatz bis <b>{1} Chips</b> hat jede Karte eine Chance von <b>{2} %</b>, zu deinen Gunsten ausgeteilt zu werden (derselbe Vorteil wie beim Anfängerglück).
+Bei gutem Spiel gewinnt das etwa <b>{0} %</b> der Hände, gegenüber etwa {1} % beim normalen Blackjack. Höhere Einsätze sind normales Blackjack und verbrauchen keine Hände. Wenn die Hände aufgebraucht sind, ist jeder Tisch wieder normales, faires Blackjack.
+VERSTANDEN
+WILLST DU DEIN GLÜCK ZURÜCK?
+Das Anfängerglück ist vorbei: Ab jetzt ist jeder Tisch normales, faires Blackjack. Eine Glückssträhne bringt den Vorteil für eine Weile zurück.
+CRAPS
+Willkommen beim Craps! Setz auf die Pass Line und würfle.
+SECHS
+NEUN
+FIELD
+2 3 4 9 10 11 12  •  2 und 12 zahlen doppelt
+JEDE 7
+JEDES CRAPS
+DON'T PASS BAR
+1:1  •  bei 12 unentschieden
+PASS LINE
+ODDS
+echte Quoten
+AUS
+ON
+Odds kommen hinter die Pass Line, sobald es einen Point gibt.
+Für Odds brauchst du einen Einsatz auf der Pass Line.
+Deine Odds sind am Maximum.
+Line-Einsätze gibt es beim Come-out-Wurf.
+AUF DEM TISCH  {0}
+Come-out-Wurf: setz auf die Pass Line und würfle. 7 oder 11 gewinnt, 2, 3 oder 12 verliert. Place-Einsätze gelten, sobald es einen Point gibt.
+Der Point ist {0}: würfle ihn noch einmal vor einer 7. Odds hinter deiner Pass Line zahlen echte Quoten.
+WÜRFELN
+Der Point ist {0}.
+{0}! Point getroffen. Gewonnen!
+Seven out. Neuer Werfer, neuer Come-out.
+{0}, ein Natural! Die Pass Line gewinnt.
+{0}, Craps. Die Line verliert.
+Warte, bis die Würfel liegen.
+TISCH VERLASSEN?
+Dein Line-Einsatz läuft noch auf den Point {0}. Wenn du jetzt gehst, ist er verloren.
+TÄGLICH
+TAGESSERIE
+TAGE IN FOLGE
+HEUTE
+WERBUNG ANSEHEN
+KAUFEN
+SERIEN-SCHUTZ
+Ein Serien-Schutz hält deine Serie an einem Tag am Leben, an dem du nicht spielst. Du kannst bis zu {0} haben.\n\nEinen für {1} Chips kaufen?
+Serien-Schutz bereit.
+Nicht genug Chips für einen Serien-Schutz.
+ABBRECHEN
+TÄGLICHES DREHEN
+DREHEN
+Chancen:
+{0} %
+Du hast {0} Chips gewonnen!
+HEUTIGE MISSIONEN
+Rekord: {0} Tage
+Spiel jeden Tag, um eine Serie aufzubauen
+Tagesziel erreicht! Bis morgen.
+Heute: {0} / {1} Runden (beliebiges Spiel)
+Serien-Schutze: {0} / {1}
+Rette deine Serie an einem verpassten Tag. +1 alle 7 Tage.
+VOLL
+KEIN VIDEO
+WERBUNG GLEICH
+Serienbonus: Preise ×{0}
+Jeden Tag einmal gratis drehen
+NÄCHSTES  {0}
+Alles erledigt! Bonus kassiert.
+Neue Missionen um Mitternacht.
+Schaffe alle drei: +{0} Bonus-Chips
+HOLD'EM
+Willkommen beim Hold'em! Ante setzen und Karten sehen.
+ANTE
+BLIND
+SPIELEN
+BLIND ZAHLT
+Der Dealer qualifiziert sich mit einem Paar oder besser
+CHECKEN
+FOLDEN
+SETZE {0}×
+Ante {0} + Blind {0}. Halte {1} mehr für dein Raise bereit.
+Tippe auf Chips für dein Ante. Das Blind ist gleich hoch.
+Checken oder drei- bis vierfach dein Ante setzen?
+Erhöhe jetzt um 4× oder 3× dein Ante, oder checke und sieh den Flop.
+Letzte Chance: setz 1× dein Ante, oder folde und verlier Ante und Blind.
+Setz jetzt 2× dein Ante, oder checke und sieh die letzten zwei Karten.
+Hier ist der Flop.
+Turn und River.
+Mal sehen, was ich habe.
+Der Dealer qualifiziert sich nicht: dein Ante kommt zurück.
+Gefoldet. Die nächste Hand gehört dir.
+SPIELE
+Links ziehen zum Gehen  •  Rechts ziehen zum Umsehen  •  Tippen zum Hingehen
+Nur ab 18  •  Chips sind zum Spaß: kein Geldwert, nie gegen Geld oder Preise eintauschbar
+Die Türen öffnen sich...
+Willkommen! Deine {0} Willkommens-Chips sind bereit. Die Tische sind direkt vor dir!
++{0} Gratis-Chips! Mehr in {1} Stunden.
+Gratis-Chips gibt es alle {0} Stunden. Die nächsten in {1}.
+{0} Std. {1} Min.
+{0} Min. {1} Sek.
+HALTE DEINE SERIE
+Möchtest du eine Erinnerung an Abenden, an denen du noch nicht gespielt hast, und wenn deine Gratis-Chips bereit sind? Nie mehr als das, und du kannst es in den Einstellungen ausschalten.
+ERINNERE MICH
++{0} Chips bereit!
+Video ansehen: {0}
+Nächste Gratis-Chips in {0}
+BLACKJACK
+4 Tische  •  zahlt 3 zu 2
+Ultimate Texas Hold'em
+Spieler, Bank oder Unentschieden
+SLOTS
+Lucky Ace 7s  •  10 Linien
+VIDEO-POKER
+Jacks or Better
+SIC BO
+Drei Würfel  •  groß oder klein
+Pass Line  •  Field  •  Odds
+ROULETTE
+Europäisch mit einer Null
+DU BIST ERSCHÖPFT
+Deine Energie ist leer. Hol dir etwas an der Bar, um weiterzuspielen, oder komm später wieder: Energie erholt sich langsam, während du weg bist.
+ZUR BAR
+WÄHLE DEINEN TISCH
+EINSÄTZE
+LEVEL {0}
+HINSETZEN
+BRAUCHT {0}
+Erreiche Level {0}, um hier zu spielen. Du bist Level {1}.
+CASINO
+TT
+MM
+JJJJ
+TAG
+MONAT
+JAHR
+WANN BIST DU GEBOREN?
+Chips dienen nur der Unterhaltung. Sie haben keinen Geldwert und können niemals gegen Geld oder Preise eingetauscht werden.
+LEIDER DARFST DU NICHT SPIELEN
+{0} ist nur für Erwachsene.
+BEENDEN
+Wird in {0} geschlossen...
+ERZÄHL UNS VON DIR
+Wir wählen deine Gastgeber, Dealer und das Barpersonal passend aus. Du kannst das jederzeit in den Einstellungen ändern.
+ICH BIN EIN MANN
+ICH BIN EINE FRAU
+KEINE ANGABE
+CASINO BETRETEN
+Dein Personal heute Abend:
+Seite {0} von {1}
+SPRACHE
+AUTOMATISCH
+LAND
+Willkommen! Machen Sie Ihr Spiel, bitte.
+Das Tischlimit ist {0} pro Dreh.
+Tippe aufs Tableau, um Chips zu setzen
+Nichts geht mehr!
+GRÜN
+grün
+rot
+schwarz
+Was für ein Treffer! Glückwunsch!
+Gewonnen! Du gewinnst {0}.
+{0} {1}. {2} gehen an dich zurück.
+Machen Sie Ihr Spiel, bitte.
+Warte, bis die Kugel liegt.
+EINSTELLUNGEN
+ALLGEMEIN
+GRAFIK
+TON
+TOUCH
+MAUS
+CONTROLLER
+VIBRATION
+18+ • Chips haben keinen Geldwert • Schriften: Bebas Neue, Poppins, Noto (SIL OFL) • Grenzen: Natural Earth • Preisdaten: Weltbank
+CASINO-PERSONAL
+FRAUEN
+MÄNNER
+GEMISCHT
+ERINNERUNGEN
+Gratis-Chips bereit und ein abendlicher Hinweis, bevor eine Serie endet.
+ERNEUT PRÜFEN
+PREISREGION
+Am schnellsten: das Casino wie gemalt, nichts extra.
+Polierte Böden, Holz und Gold spiegeln den Raum.
+Filmlook: Farbkorrektur, Körnung, Leuchten, Lichtstrahlen, lebensechte Haut.
+Kinoobjektiv: Fokus folgt deinem Blick, Lichtschlieren, Staub in den Strahlen.
+QUALITÄT
+NIEDRIG
+MITTEL
+HOCH
+ULTRA
+AUFLÖSUNG
+Niedriger ist weicher, aber kühler und spart Akku.
+ANZEIGEMODUS
+VOLLBILD
+FENSTER
+KANTENGLÄTTUNG
+Glättet gezackte Kanten im Casino.
+BILDRATE
+{0} FPS
+30 FPS spart Akku und hält ältere Handys kühl.
+V-SYNC
+SICHTFELD
+FPS ANZEIGEN
+GESAMTLAUTSTÄRKE
+MUSIK
+SOUNDEFFEKTE
+STIMMEN DES PERSONALS
+Das Murmeln des Personals beim Sprechen.
+IM HINTERGRUND STUMM
+Schaltet das Casino stumm, wenn du in einem anderen Fenster bist.
+BLICK-EMPFINDLICHKEIT
+Wie schnell Ziehen die Ansicht dreht.
+Wie schnell Ziehen mit der Maus die Ansicht dreht.
+BLICK LINKS / RECHTS UMKEHREN
+BLICK OBEN / UNTEN UMKEHREN
+TASTENBELEGUNG
+AUTO
+MENÜ / ANSICHT TAUSCHEN
+STICK-EMPFINDLICHKEIT
+Wie schnell der rechte Stick die Ansicht dreht.
+STICK LINKS / RECHTS UMKEHREN
+STICK OBEN / UNTEN UMKEHREN
+CONTROLLER-HINWEISE
+Zeigt, was jede Taste macht, während du mit Controller spielst.
+VIBRIEREN AUF
+HANDY
+BEIDE
+Auto: der Controller, solange einer verbunden ist, sonst das Handy.
+HANDY-VIBRATION
+HANDY-STÄRKE
+CONTROLLER-VIBRATION
+CONTROLLER-STÄRKE
+AUTOMATISCH ({0})
+{0} öffnet die Einstellungen, {1} öffnet Täglich.
+Kein Controller verbunden.
+Verbunden: {0}. {1}-Tasten werden angezeigt (A rechts bestätigt).
+Verbunden: {0}. {1}-Tasten werden angezeigt.
+DIE BAR
+GLÜCK
+Chips, Glück und Essen sind virtuelle Gegenstände nur zur Unterhaltung: kein Geldwert, nicht gegen Geld oder Preise einlösbar.
+Jede Karte hat diese Chance, zu deinen Gunsten ausgeteilt zu werden, bei Blackjack-Einsätzen bis {0} Chips (höhere Einsätze sind normal und verbrauchen keine Hände). Beginnt nach dem Anfängerglück; stärkere Pakete werden zuerst verwendet.
+Erlaube den Standortzugriff, um den Preis für dein Land zu bekommen
+Käufe sind in dieser Version des Spiels nicht verfügbar.
+TEST-SHOP (kein echtes Geld)
+Energie
++{0} % CHIPS
+{0} Hände
+gewinnt etwa {0} % davon
+Willkommen beim Sic Bo! Groß, klein oder etwas Mutigeres?
+Das Tischlimit liegt bei {0} pro Wurf.
+SCHÜTTELN
+DRILLING {0}!
+LUCKY ACE 7s
+GESAMTEINSATZ
+GEWINNTABELLE
+VIEL GLÜCK!
+Du brauchst mindestens 10 Chips zum Drehen.
+CHIPS HOLEN
+Einsatz auf das gesenkt, was du decken kannst.
+MEGAGEWINN!
+GROSSER GEWINN!
+ZURÜCK {0}
+KEIN GEWINN
+LINIE {0}: {1} × {2} = {3}
+{0} STERNE = {1}
+Kirsche
+Zitrone
+Orange
+Pflaume
+Glocke
+Bar
+Sieben
+Diamant
+Ass
+Stern
+STERNE zahlen überall: 5 = {0}× Einsatz, 4 = {1}× Einsatz, 3 = {2}× Einsatz.
+Das ASS ist Joker: Es ersetzt jedes Symbol außer dem Stern.
+Liniengewinne sind Vielfache des Linieneinsatzes (Gesamteinsatz ÷ 10), von links nach rechts ab der ersten Walze.
+AUSZAHLUNG: {0} % auf lange Sicht. Jeder Dreh ist unabhängig und zufällig.
+GEHALTEN
+Geben, gewünschte Karten halten, einmal ziehen.
+HALTEN
+TIPP
+ZIEHEN
+Tippe auf Karten, um sie zu halten, dann zieh.
+Gehen
+Umsehen
+Tasten
+Einstellungen
+Täglich
+Anpassen
+Bewegen
+Auswählen
+Schließen
+Zurück
+ERSCHÖPFT
+ANFÄNGERGLÜCK {0} %
+NOCH {0} HÄNDE
+GLÜCKSSTRÄHNE {0} %
+{0} HÄNDE  •  EINSÄTZE BIS {1}
+LEVEL
+Sofia
+Elena
+Mia
+Valentina
+Chloe
+Isabella
+Nadia
+Aria
+Luna
+Camila
+Aurora
+Bianca
+Serena
+Marco
+Leo
+Adrian
+Lucas
+Viktor
+Daniel
+Gabriel
+Ethan
+Julian
+Rafael
+Mateo
+Nico
+Enzo
+WILLKOMMEN
+MIT DER GASTGEBERIN SPRECHEN
+Wegbeschreibung und Tipps
+CHIPS  •  BONI
+CHIPS KAUFEN
+Kasse
+COCKTAILS  •  SNACKS  •  ENERGIE
+ESSEN & GETRÄNKE
+Die Bar
+BLACKJACK ZAHLT 3 ZU 2
+DEALER MUSS BEI 17 STEHEN
+BLACKJACK SPIELEN
+{0}-Tisch  •  Einsätze {1} bis {2}
+HOLD'EM SPIELEN
+Ultimate Texas Hold'em  •  Ante {0} bis {1}
+BACCARAT SPIELEN
+GROSS  •  KLEIN  •  DRILLINGE
+SIC BO SPIELEN
+Drei Würfel  •  groß oder klein zahlt 1 zu 1
+PASS LINE  •  FIELD  •  ODDS
+CRAPS SPIELEN
+Pass Line zahlt 1 zu 1  •  Odds zahlen echte Quoten
+VIDEO-POKER SPIELEN
+SLOTS SPIELEN
+Jacks or Better  •  volle 9/6-Tabelle
+LUCKY ACE 7s  •  ZAHLT BIS ZU 2.500× DEINES LINIENEINSATZES
+JACKS OR BETTER  •  ROYAL FLUSH ZAHLT 800×
+MACHEN SIE IHR SPIEL
+ROULETTE SPIELEN
+Europäischer Kessel  •  Plein zahlt 35 zu 1
+GETRÄNK BESTELLEN
+{0} bringt es dir
+Der {0} öffnet ab Level {1}. Du bist Level {2}: Jede gespielte Runde zählt.
+Dieser Tisch braucht mindestens {0} Chips.
+Die Blackjack-Tische sind direkt vor dir. Geh zu einem und setz dich!
+Die Spielautomaten stehen an der rechten Wand, Video-Poker an der Rückwand, das Roulette hinten.
+Hold'em ist hinten links in der Ecke, hinter der Bar.
+Baccarat ist gleich links, wenn du hereinkommst.
+Sic Bo ist in der Ecke hinter der Kasse: drei Würfel, groß oder klein.
+Der Craps-Tisch steht rechts vor den Automaten. Setz auf die Pass Line und würfle!
+Die Kasse ist hier rechts von dir, die Bar an der linken Wand.
+Müde? Ein Snack an der Bar füllt deine Energie wieder auf.
+Tippe irgendwo auf den Boden und du gehst dorthin. Tippe auf einen Tisch, um dich zu setzen.
+Andorra
+Vereinigte Arabische Emirate
+Afghanistan
+Antigua und Barbuda
+Anguilla
+Albanien
+Armenien
+Angola
+Antarktis
+Argentinien
+Amerikanisch-Samoa
+Österreich
+Australien
+Aruba
+Ålandinseln
+Aserbaidschan
+Bosnien und Herzegowina
+Barbados
+Bangladesch
+Belgien
+Burkina Faso
+Bulgarien
+Bahrain
+Burundi
+Benin
+St. Barthélemy
+Bermuda
+Brunei Darussalam
+Bolivien
+Karibische Niederlande
+Brasilien
+Bahamas
+Bhutan
+Bouvetinsel
+Botsuana
+Belarus
+Belize
+Kanada
+Kokosinseln
+Kongo-Kinshasa
+Zentralafrikanische Republik
+Kongo-Brazzaville
+Schweiz
+Côte d’Ivoire
+Cookinseln
+Chile
+Kamerun
+China
+Kolumbien
+Costa Rica
+Kuba
+Cabo Verde
+Curaçao
+Weihnachtsinsel
+Zypern
+Tschechien
+Deutschland
+Dschibuti
+Dänemark
+Dominica
+Dominikanische Republik
+Algerien
+Ecuador
+Estland
+Ägypten
+Westsahara
+Eritrea
+Spanien
+Äthiopien
+Finnland
+Fidschi
+Falklandinseln
+Mikronesien
+Färöer
+Frankreich
+Gabun
+Vereinigtes Königreich
+Grenada
+Georgien
+Französisch-Guayana
+Guernsey
+Ghana
+Gibraltar
+Grönland
+Gambia
+Guinea
+Guadeloupe
+Äquatorialguinea
+Griechenland
+Südgeorgien und die Südlichen Sandwichinseln
+Guatemala
+Guam
+Guinea-Bissau
+Guyana
+Sonderverwaltungsregion Hongkong
+Heard und McDonaldinseln
+Honduras
+Kroatien
+Haiti
+Ungarn
+Indonesien
+Irland
+Israel
+Isle of Man
+Indien
+Britisches Territorium im Indischen Ozean
+Irak
+Iran
+Island
+Italien
+Jersey
+Jamaika
+Jordanien
+Japan
+Kenia
+Kirgisistan
+Kambodscha
+Kiribati
+Komoren
+St. Kitts und Nevis
+Nordkorea
+Südkorea
+Kuwait
+Kaimaninseln
+Kasachstan
+Laos
+Libanon
+St. Lucia
+Liechtenstein
+Sri Lanka
+Liberia
+Lesotho
+Litauen
+Luxemburg
+Lettland
+Libyen
+Marokko
+Monaco
+Republik Moldau
+Montenegro
+St. Martin
+Madagaskar
+Marshallinseln
+Nordmazedonien
+Mali
+Myanmar
+Mongolei
+Sonderverwaltungsregion Macau
+Nördliche Marianen
+Martinique
+Mauretanien
+Montserrat
+Malta
+Mauritius
+Malediven
+Malawi
+Mexiko
+Malaysia
+Mosambik
+Namibia
+Neukaledonien
+Niger
+Norfolkinsel
+Nigeria
+Nicaragua
+Niederlande
+Norwegen
+Nepal
+Nauru
+Niue
+Neuseeland
+Oman
+Panama
+Peru
+Französisch-Polynesien
+Papua-Neuguinea
+Philippinen
+Pakistan
+Polen
+St. Pierre und Miquelon
+Pitcairninseln
+Puerto Rico
+Palästinensische Autonomiegebiete
+Portugal
+Palau
+Paraguay
+Katar
+Réunion
+Rumänien
+Serbien
+Russland
+Ruanda
+Saudi-Arabien
+Salomonen
+Seychellen
+Sudan
+Schweden
+Singapur
+St. Helena
+Slowenien
+Spitzbergen und Jan Mayen
+Slowakei
+Sierra Leone
+San Marino
+Senegal
+Somalia
+Suriname
+Südsudan
+São Tomé und Príncipe
+El Salvador
+Sint Maarten
+Syrien
+Eswatini
+Turks- und Caicosinseln
+Tschad
+Französische Süd- und Antarktisgebiete
+Togo
+Thailand
+Tadschikistan
+Tokelau
+Timor-Leste
+Turkmenistan
+Tunesien
+Tonga
+Türkei
+Trinidad und Tobago
+Tuvalu
+Taiwan
+Tansania
+Ukraine
+Uganda
+Amerikanische Überseeinseln
+Vereinigte Staaten
+Uruguay
+Usbekistan
+Vatikanstadt
+St. Vincent und die Grenadinen
+Venezuela
+Britische Jungferninseln
+Amerikanische Jungferninseln
+Vietnam
+Vanuatu
+Wallis und Futuna
+Samoa
+Kosovo
+Jemen
+Mayotte
+Südafrika
+Sambia
+Simbabwe
+Englisch
+Afrikaans
+Amharisch
+Arabisch
+Aserbaidschanisch
+Belarussisch
+Bulgarisch
+Bengalisch
+Bosnisch
+Katalanisch
+Tschechisch
+Dänisch
+Deutsch
+Griechisch
+Spanisch
+Estnisch
+Baskisch
+Persisch
+Finnisch
+Filipino
+Französisch
+Irisch
+Galicisch
+Gujarati
+Haussa
+Hebräisch
+Hindi
+Kroatisch
+Französisch (Haiti)
+Ungarisch
+Armenisch
+Indonesisch
+Igbo
+Isländisch
+Italienisch
+Japanisch
+Georgisch
+Kasachisch
+Khmer
+Kannada
+Koreanisch
+Kirgisisch
+Luxemburgisch
+Laotisch
+Litauisch
+Lettisch
+Malagasy
+Mazedonisch
+Malayalam
+Mongolisch
+Marathi
+Malaiisch
+Maltesisch
+Birmanisch
+Norwegisch (Bokmål)
+Nepalesisch
+Niederländisch
+Punjabi
+Polnisch
+Paschtu
+Portugiesisch (Brasilien)
+Portugiesisch (Portugal)
+Rätoromanisch
+Rumänisch
+Russisch
+Kinyarwanda
+Singhalesisch
+Slowakisch
+Slowenisch
+Somali
+Albanisch
+Serbisch
+Schwedisch
+Suaheli
+Tamil
+Telugu
+Tadschikisch
+Thailändisch
+Turkmenisch
+Türkisch
+Ukrainisch
+Urdu
+Usbekisch
+Vietnamesisch
+Xhosa
+Yoruba
+Chinesisch (Vereinfacht)
+Chinesisch (Traditionell)
+Zulu
+So.
+Mo.
+Di.
+Mi.
+Do.
+Fr.
+Sa.

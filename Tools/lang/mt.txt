@@ -1,0 +1,659 @@
+# Maltese (mt). Machine translation by Claude.
+bd99124	Ftit fiċes
+c7c6dc8	Munzell fiċes
+7512cfd	Trej fiċes
+fa36588	Xkaffa fiċes
+7994f65	L-AKTAR POPULARI
+49dcc21	Kaxxaforti ta' fiċes
+0725283	Is-Sejf tal-High Roller
+7658705	L-AQWA VALUR
+2f23432	Ilma frizzanti
+418b820	Espresso
+97b463c	Xarba tal-enerġija
+43bbfda	Club sandwich
+bce7a75	Ikla tal-burger
+2832a8d	Ikla tal-istejk
+dee8ee8	MIMLI GĦAL KOLLOX
+a7c2255	Strixxa tax-Xorti
+7919163	Strixxa Sħuna
+74fdfc2	L-AKTAR XORTI
+d79cd12	Mejda tal-Bronż
+2a8ff35	Mejda tal-Fidda
+51877b2	Mejda tad-Deheb
+9282152	Mejda tad-Djamant
+0de8764	Daħħal sena valida.
+d4e14c9	Daħħal xahar validu (1-12).
+addd156	Daħħal jum validu.
+d78a4f4	Dik id-data hija fil-futur.
+787c7c6	Merħba fil-mejda tiegħi! Lest biex tilgħab?
+8b0f93e	Pjaċir narak. Poġġi bilqiegħda!
+8338021	Bonġu! Il-karti friski, u jien ukoll.
+75750f9	Merħba! Ejja nagħmlu lejla sabiħa.
+95aac36	Agħmel l-imħatra tiegħek meta tkun lest.
+8bc63c1	Il-fiċes fuq il-mejda, u ejja naraw il-karti.
+984b7f3	Għalxiex qed nilagħbu?
+b74c769	Uau, imħatra kbira! Jogħġobni l-istil tiegħek.
+77fc1fc	Din iva imħatra. Ejja!
+7779a5b	Kuraġġuż illejla, hux?
+479ff82	Kollox?! Qalbi qed tħabbat!
+7fb527c	Kollox fuq id waħda. Bla biża'!
+7bf0c5d	Blackjack! Inkredibbli!
+123f2d5	Wieħed u għoxrin, hekk biss!
+cd850a7	Blackjack! Il-karti jħobbuk illejla.
+55f50ee	Lgħabt tajjeb!
+79594b1	Rbaħt! Prosit.
+0df710e	Qiegħed fl-aqwa tiegħek!
+20a0c1e	Dik tiegħek.
+a45fe61	X'rebħa! Kulħadd qed iħares lejn din il-mejda!
+54d3982	Enormi! Qed taqbad nar illejla!
+8da8f1e	Daqshekk viċin! Li jmiss tiegħek.
+5d921e1	Id-dar kellha x-xorti din id-darba.
+f923af7	Tinkwetax, ġejja id ġdida.
+853e7ca	Ajma, karta żejda.
+daec44f	Qbiżt! Jiġri anke lill-aqwa wħud.
+11ceaef	Draw. Ħadd ma jitlef!
+911a289	Push. Il-fiċes tiegħek salvi.
+a89d9d9	Qbiżt jien! Xortik tajba.
+f76c8fd	Wisq għalija. Rbaħt!
+63f8d0b	Blackjack għad-dar, skużani!
+465c8bf	Blackjack tad-dealer. Xorti ħażina.
+6752f40	Qed nuri ass. Assigurazzjoni?
+1920c5a	Naqsmu! Żewġ ċansijiet biex tirbaħ.
+9f621da	Tirdoppja. Mossa kuraġġuża!
+59da99d	Irdoppjaha! Ġejja karta waħda.
+0b48017	Żarbun ġdid, qed inħawwad!
+3fa7769	Għandek ftit? Il-kaxxier jimlik.
+4e5694b	Il-fiċes qed jonqsu. Trid aktar?
+d41f057	Spiċċawlek il-fiċes! Mur għand il-kaxxier jew ħu fiċes b'xejn.
+15d90d3	Il-munzell tiegħek vojt. Il-kaxxier eżatt warajk.
+a9eaae1	Tidher eżawrit! Kul xi ħaġa fil-bar.
+5cd9e8b	Bla enerġija? Il-bar jieħu ħsiebek.
+37b9672	Ħu l-ħin tiegħek.
+c64df8c	Meta tkun lest!
+b8dfc0a	Il-lejl għadu żagħżugħ.
+8748560	Ix-xorti tal-prinċipjant magħk!
+e3def50	Il-pakk tal-karti favurik illejla!
+506ade9	Ix-xorti tal-prinċipjant spiċċat. Minn issa 'l quddiem il-logħba ġusta!
+953d8b7	Merħba fil-każinò! Is-siġġu tiegħek qed jistenna.
+9fd9844	Il-lejl it-tajjeb! Il-mejda sħan illejla.
+2d42aaf	Merħba lura! Tħossok xortik tajba?
+311bae7	Agħfas fuq mejda biex tibda tilgħab!
+3318099	Għandek bżonn aktar fiċes? Ġejt fit-tieqa t-tajba.
+c5b3787	Munzelli akbar, bonusijiet akbar!
+21ae665	Bil-ġuħ? Agħżel xi ħaġa mill-menu.
+8b83cc0	Gidma tikel iżżommlok l-enerġija!
+35f4b0e	Merħba fil-mejda tiegħi!
+8f90245	Hawn int! Il-post diġà aktar jgħajjat.
+909e4d6	Agħmel ruħek id-dar. Illejla kollox għalik.
+2477f78	Inħobb dik it-tbissima. Lejla ta' xorti?
+6ac2120	Irrilassa, int f'idejn tajbin hawn.
+089f04b	Ħej, int! Kont qed nittama li tgħaddi mit-tieqa tiegħi.
+3f2c3c9	Dejjem sabiħ tara wiċċ ħabib.
+3021db8	Ara min hawn! Qed tieħu gost?
+769980b	Bonġu, sabiħ!
+5361ffd	Jogħġobni l-istil tiegħek illejla.
+56b40be	Ħej, pjaċir narak mill-ġdid!
+3316019	Lejla tajba? Jistħoqqlok.
+28283fd	Oqgħod attent, nista' nibda nissapportjak.
+109ac94	Il-plejer favorit tiegħi reġa' lura!
+acba0e6	Poġġi miegħi, se nqassamlek xi ħaġa sabiħa.
+eb5ff2a	Int tagħmel din il-mejda ferm aktar divertenti.
+772a73c	Diġà sejjer? Il-lejl għadu żagħżugħ!
+178301a	Ejja, id oħra biss. Għandi sensazzjoni tajba!
+816036a	Ma tistax titlaqni issa, għadna kemm bdejna!
+5c9b7e2	L-aħħar ċans! L-id li jmiss tista' tkun dik il-kbira...
+20ce7b6	Okay, okay. Inżommlok is-siġġu sħun. Twiegħed li terġa' lura?
+51d1aeb	L-ebda strixxa s'issa? Ilgħab rawnds ({2}) illum u nibda ngħodd.
+10b25d9	Bidu ġdid! Rawnds ({2}) u l-fjamma tiegħek tixgħel.
+0c10711	Inżomm lista żgħira ta' min jiġi kuljum. Int m'intix fiha... għalissa.
+5e7c431	Jum {1} qed jistennik. Rawnds li fadal: {2}!
+b268d84	Jiem wara xulxin: {0}... mhux se tieqaf issa, hux?
+b32ae79	Il-fjamma tiegħek tidher ftit kiesħa llum. Ir-rawnds ({2}) isaħħnuha.
+a6f3fbd	Qed ngħodd: {0} jiem. Ejja nagħmluhom {1}.
+1dc5c97	Taħsibx li ma ndunajtx. Rawnds li fadal biex iżżomm l-istrixxa: {2}!
+807b82c	Jiem wara xulxin: {0}? Qed nibda naħseb li togħġbok hawn.
+6391923	L-istrixxa tiegħek salva għal-lum. Issa qed tiftaħar biss.
+3bfbbf7	Jum {0}, lest. Għada fl-istess ħin?
+ca2a2c1	{0} jiem! Suppost inżommlok siġġu.
+54f991f	Hawn hi: l-ewwel jum tal-istrixxa tiegħek! Erġa' lura għada u nagħmluhom tnejn.
+a1e7ab0	Ġimgħa sħiħa wara xulxin! Verament impressjonata.
+96cee95	Tletin jum! Prattikament taħdem hawn.
+a9834cd	Mitt jum. Qed ngħid lil kulħadd dwarek.
+071317f	Dawk {0} jiem wara xulxin! Ara lilek.
+0964027	Strixxa salvata: jum {0}! Kont naf li se tirnexxi.
+c7f2a1f	Jum {0}! Imħatra li ma tasalx sa {1}.
+a6ce2e2	{0} jiem... okay, ftaħar.
+3ab91d0	Ilgħab 10 idejn blackjack
+38e863d	Irbaħ 5 idejn blackjack
+6ac41cc	Ikseb blackjack
+74cf149	Irbaħ 500 fiċes fil-blackjack
+66440e1	Dawwar il-slots 20 darba
+9205056	Irbaħ 5 dawriet fil-slots
+cd60e0c	Irbaħ 5× l-imħatra fil-slots
+6f7ac28	Ilgħab 5 rawnds roulette
+6978cc0	Irbaħ 3 dawriet tar-roulette
+c8ebbcc	Laqqat numru dritt
+8a57c54	post GPS
+4919635	netwerk mobbli
+527b094	konnessjoni tal-internet
+f49ae82	settings tal-apparat
+60827d3	pajjiż tat-test
+0b2f8d8	mhux ivverifikat (prezz standard)
+50d8b4a	mhux magħruf
+4fb7a4e	L-1 12
+647a0eb	It-2 12
+a934745	It-3 12
+3de80ab	2 għal 1
+bb4e68e	AĦMAR
+a9414ab	ISWED
+710756a	FARD
+70ca748	PARI
+4d60d6c	PREZZIJIET ĠUSTI GĦALL-PAJJIŻ TIEGĦEK
+1674d95	Il-prezzijiet tal-ħanut huma aġġustati għall-ekonomija tal-pajjiż tiegħek, biex il-plejers kullimkien iħallsu prezz ġust.
+4ec27ee	Biex insibu l-pajjiż tiegħek niċċekkjaw il-post approssimattiv tiegħek darba. Jitqabbel ma' pajjiż fuq l-apparat tiegħek u qatt ma jintbagħat imkien. Jekk tirrifjuta, japplikaw il-prezzijiet standard.
+ff3dbb4	KOMPLI
+43a6a8d	Tħalli l-każinò?
+ad209a0	Il-fiċes u l-progress tiegħek salvati.
+5860c84	OĦROĠ
+f1e0808	IBQA
+5b38c49	{0} miftuħ
+15ae7ac	Iffriżar tal-istrixxa salva l-istrixxa tiegħek ({0} jiem) ilbieraħ.
+d375ffb	Iffriżar ({0}) salva l-istrixxa tiegħek ({1} jiem).
+fd8ab39	L-istrixxa tiegħek ({0} jiem) spiċċat. Ilgħab rawnds ({1}) illum biex tibda waħda ġdida!
+7fa2db4	MISSJONI KOMPLUTA
+255325c	+{0} fiċes
+d205ece	IL-MISSJONIJIET KOLLHA LESTI!
+4acbed2	Bonus ta' kuljum +{0} fiċes. Missjonijiet ġodda għada.
+ab2ceb3	LIVELL {0}!
+86e2afb	Għan milħuq! +{0} fiċes
+9ae18ad	Erġa' lura għada biex tkompli
+7af7e7c	+1 iffriżar tal-istrixxa
+b5b9597	STRIXXA TA' {0} JIEM!
+62ec60d	Ix-xiri mhux disponibbli f'din il-verżjoni.
+1f9786c	Ix-xiri falla. Ma ġejtx iċċarġjat.
+3e4c600	Żdiedu +{0} fiċes!
+1998202	{0}: {1} idejn b'{2}% xorti, wara x-xorti tal-prinċipjant
+728ada5	{0}: {1} idejn b'{2}% xorti!
+af5e232	{0}: +{1}% enerġija
+001a53b	Mhux disponibbli fuq dan l-apparat
+2607004	Il-vidjows ma jitgħabbewx fuq dan in-netwerk
+569c30d	Erġa' lura għada
+ecae6ee	Lest f'{0}s
+9964820	+{0} fiċes ({1} fadal illum)
+e1bd888	+{0} fiċes b'xejn!
+619bd5d	+1 iffriżar tal-istrixxa!
+f70d794	L-ebda vidjo disponibbli bħalissa. Erġa' pprova ftit wara.
+264d71b	BRONŻ
+462e839	FIDDA
+81ff70a	DEHEB
+50e122e	DJAMANT
+57f5f5e	Menu
+69bd4ef	Veduta
+dbfe736	Salib
+1cc7820	Ċirku
+82810cb	Kwadru
+73d3ae2	Trijangolu
+a42f608	Qed niċċekkjaw ir-reġjun tiegħek...
+1db422c	Mhux ivverifikat ({0}): prezzijiet standard
+9bc0807	{0} ({1}): prezzijiet f'{2}
+ae8c393	Tfakkiriet
+aefd59b	Fiċes b'xejn lesti u tfakkiriet tal-istrixxa
+3125838	Il-fiċes b'xejn tiegħek lesti
+233027b	{0} fiċes qed jistennewk f'Lucky Ace.
+b93976b	Żomm l-istrixxa tiegħek ({0} jiem)
+bd68038	Ilgħab rawnds ({0}) illum biex ma terġax lura għal żero f'nofsillejl.
+0acfb6f	Merħba! Ix-xorti tal-prinċipjant magħk illejla. Agħmel imħatra!
+d589374	IL-BLACKJACK IĦALLAS 3 GĦAL 2   •   ID-DEALER JIEQAF FUQ IS-17 KOLLHA   •   L-ASSIGURAZZJONI TĦALLAS 2 GĦAL 1
+b700b02	IMĦATRA
+16ec74f	NADDAF
+928226b	ERĠA' IMĦATRA
+55591e0	QASSAM
+395ed46	KARTA
+43e7971	IEQAF
+097274c	IRDOPPJA
+6df63ca	AQSAM
+3e40f46	ASSIGURA
+db82d3a	LE, GRAZZI
+28d6be8	IMĦATRA {0}+
+9587b70	Laħaqt il-massimu tal-mejda
+b9ac47d	M'għandekx biżżejjed fiċes
+d237ade	Id-dealer qed juri ass. Tassigura għal {0}?
+bf07c14	L-assigurazzjoni tħallas {0}
+b6e674a	L-ebda blackjack tad-dealer. Assigurazzjoni mitlufa.
+0cc9679	QBIŻT
+82ce89d	ID-DEALER QABEŻ
+6e1e1a4	BLACKJACK!
+662fae5	REBĦA
+8918d00	PUSH
+8df6be4	TELFA
+9e69668	Ix-xorti tal-prinċipjant spiċċat. L-Istrixxa tax-Xorti tiegħek tibda issa.
+822f4f4	Ix-xorti tal-prinċipjant spiċċat. Minn issa 'l quddiem blackjack standard.
+b0377c7	L-Istrixxa tax-Xorti tiegħek spiċċat. Lura għall-blackjack standard.
+824ad7c	SPIĊĊAW IL-FIĊES
+ff1822d	Ara vidjo qasir għal {0} fiċes b'xejn, jew mur għand il-kaxxier.
+e4cac2f	Mur għand il-kaxxier biex timla l-fiċes tiegħek.
+c3df3e7	FIĊES B'XEJN
+b169d33	KAXXIER
+4d38f66	AKTAR TARD
+cb8171b	Lesti din l-id l-ewwel.
+3aa6941	“{0}”
+6f846f4	ID OĦRA
+a79d4f2	ITLAQ
+693f697	XORTI TAL-PRINĊIPJANT
+641ad58	STRIXXA TAX-XORTI
+fc45931	Bonus ta' merħba għall-plejers ġodda: fl-ewwel <b>{0} idejn</b> tiegħek iż-żarbun tad-dealer huwa ppreparat favurik, għalhekk se tirbaħ kważi kull id.
+576c683	Matul il-<b>{0} idejn</b> li ġejjin il-vantaġġ jgħib bil-mod, u wara dan kull mejda hija blackjack standard u ġust, imqassam minn żarbun imħawwad ta' 6 pakkijiet (il-blackjack iħallas 3 għal 2, id-dealer jieqaf fuq is-17 kollha).
+7fb55b3	Vantaġġ issa: <b><color=#7CFC9A>{0}%</color></b>   Idejn li fadal: <b>{1}</b>
+d4f8fe0	Għall-<b>{0} idejn blackjack</b> li jmiss b'imħatra sa <b>{1} fiċes</b>, kull karta għandha ċans ta' <b>{2}%</b> li titqassam favurik (l-istess vantaġġ tax-xorti tal-prinċipjant).
+0a5fc06	B'logħob tajjeb dan jirbaħ madwar <b>{0}%</b> tal-idejn, kontra madwar {1}% fil-blackjack standard. Imħatri akbar huma blackjack standard u ma jużawx idejn. Meta jispiċċaw l-idejn, kull mejda terġa' tkun blackjack standard u ġust.
+c3a8946	FHIMT
+8dfc44a	TRID IX-XORTI TIEGĦEK LURA?
+272a97f	Ix-xorti tal-prinċipjant spiċċat: minn issa kull mejda hija blackjack standard u ġust. Strixxa tax-Xorti terġa' ġġib il-vantaġġ għal ftit żmien.
+06b7689	KULJUM
+4035996	STRIXXA TA' KULJUM
+fbe7f18	JIEM WARA XULXIN
+7a46866	ILLUM
+4753707	ARA REKLAM
+6bb45f3	IXTRI
+62a945f	IFFRIŻAR TAL-ISTRIXXA
+ba5b1de	Iffriżar iżomm l-istrixxa tiegħek ħajja f'jum li ma tilgħabx. Tista' żżomm sa {0}.\n\nTixtri wieħed għal {1} fiċes?
+38c6090	Iffriżar tal-istrixxa lest.
+8fe681f	M'għandekx biżżejjed fiċes għal iffriżar.
+1507c40	IKKANĊELLA
+457d20f	DAWRA TA' KULJUM
+9623247	DAWWAR
+ac5ef96	Ċansijiet:
+1200f20	{0}%
+003a689	Rbaħt {0} fiċes!
+f757137	MISSJONIJIET TAL-LUM
+7b7f9e2	L-aqwa: {0} jiem
+9554fea	Ilgħab kuljum biex tibni strixxa
+5c8dbb8	L-għan tal-lum milħuq! Narak għada.
+1aeb9a1	Illum: {0} / {1} rawnds (kwalunkwe logħba)
+bb92856	Iffriżar tal-istrixxa: {0} / {1}
+0ec6216	Salva l-istrixxa tiegħek f'jum li taqbeż. +1 kull 7 ijiem.
+cc0a745	MIMLI
+419a962	L-EBDA VIDJO
+2dabd99	REKLAM DALWAQT
+f12e166	Bonus tal-istrixxa: premjijiet ×{0}
+80948a4	Dawra b'xejn waħda kuljum
+596b5e0	LI JMISS  {0}
+7f7e7fc	Kollox lest! Bonus miġbur.
+03a0f2a	Missjonijiet ġodda f'nofsillejl.
+4784874	Lesti t-tlieta: +{0} fiċes bonus
+42c5cda	ILGĦAB
+337211e	LOGĦBIET
+8f5e3bd	Iġbed fuq ix-xellug biex timxi  •  Iġbed fuq il-lemin biex tħares  •  Agħfas biex tmur
+d00d221	18+ biss  •  Il-fiċes huma għad-divertiment: l-ebda valur ta' flus, qatt ma jinbidlu għal flus jew premjijiet
+b60f038	Qed niftħu l-bibien...
+2e5bcce	Merħba! Il-{0} fiċes ta' merħba tiegħek lesti. Il-mwejjed eżatt quddiem!
+7ef7ae3	+{0} fiċes b'xejn! Aktar fi żmien {1} sigħat.
+5d82af9	Il-fiċes b'xejn jimtlew kull {0} sigħat. Li jmiss fi żmien {1}.
+5469985	{0}s {1}m
+bb65beb	{0}m {1}s
+ac8ba93	ŻOMM L-ISTRIXXA TIEGĦEK
+560bfa1	Trid tfakkira fil-lejl meta għadek ma lgħabtx, u meta l-fiċes b'xejn ikunu lesti? Qatt aktar minn hekk, u tista' titfiha fis-Settings.
+b724a40	FAKKARNI
+9e0c898	+{0} fiċes lesti!
+1207e28	Ara vidjo: {0}
+db3655b	Fiċes b'xejn li jmiss fi żmien {0}
+4ca9be5	BLACKJACK
+9a612b1	4 mwejjed  •  iħallas 3 għal 2
+1194439	SLOTS
+6555152	Lucky Ace 7s  •  10 linji
+255b1a1	ROULETTE
+6df1551	Ewropea b'żero wieħed
+379b146	INT EŻAWRIT
+340e5c4	Il-bar tal-enerġija tiegħek vojt. Ħu xi ħaġa mill-bar biex tkompli tilgħab, jew erġa' lura aktar tard: l-enerġija tirkupra bil-mod waqt li m'intix hawn.
+a517396	MUR IL-BAR
+7c7227f	AGĦŻEL IL-MEJDA TIEGĦEK
+c963de3	IMĦATRI
+c433657	LIVELL {0}
+083ac39	POĠĠI BILQIEGĦDA
+9698219	TRID {0}
+34b737e	Ilħaq il-livell {0} biex tilgħab hawn. Int fil-livell {1}.
+6cc19a9	KAŻINÒ
+6e946b7	JJ
+4a3a892	XX
+2857a6a	SSSS
+9d1fece	JUM
+d3bb0c3	XAHAR
+c0f0cad	SENA
+43985ff	META TWELIDT?
+293fda2	Il-fiċes huma għad-divertiment biss. M'għandhom l-ebda valur ta' flus u qatt ma jistgħu jinbidlu għal flus jew premjijiet.
+3e9128d	SKUŻA, MA TISTAX TILGĦAB
+b5e8985	{0} huwa disponibbli għall-adulti biss.
+bb1b380	OĦROĠ
+d9f9432	Jagħlaq fi żmien {0}...
+c6e102d	GĦIDILNA DWARK
+31120ce	Se nagħżlu l-ospiti, id-dealers u l-istaff tal-bar biex jaqblu. Tista' tibdel dan meta trid fis-Settings.
+49e8df9	JIEN RAĠEL
+85abe81	JIEN MARA
+76cc98c	NIPPREFERI MA NGĦIDX
+964daf7	IDĦOL FIL-KAŻINÒ
+2efb69a	L-istaff tiegħek illejla:
+c10e749	Paġna {0} minn {1}
+2a3ffd9	LINGWA
+c673535	AWTOMATIKU
+d1245d2	PAJJIŻ
+15fc12b	Merħba! Agħmlu l-imħatri tagħkom, jekk jogħġobkom.
+531fb3f	M'għandekx biżżejjed fiċes għal dik l-imħatra.
+380eb75	Il-limitu tal-mejda huwa {0} kull dawra.
+55ad592	ĦASSAR
+8f191f9	IMĦATRA TOTALI  {0}
+82e1181	Agħfas il-bord biex tqiegħed il-fiċes
+bb19a75	M'hemmx aktar imħatri!
+5becf07	AĦDAR
+bc74f4f	aħdar
+7898801	aħmar
+466bc8c	iswed
+f2edfbf	X'daqqa! Prosit!
+b252caf	Rbaħt! Tirbaħ {0}.
+8587d14	REBĦA  +{0}
+b862a2b	{0} {1}. {2} jerġgħu lura għandek.
+a306d0a	MREĠĠGĦA  {0}
+af3134d	L-ebda rebħa din id-darba
+84122e7	Agħmlu l-imħatri tagħkom, jekk jogħġobkom.
+52205f4	Stenna sakemm il-ballun jieqaf.
+c4b9243	SETTINGS
+44d863e	ĠENERALI
+2bbca79	GRAFIKA
+955c8b4	ĦOSS
+c701f5f	MISS
+efcc94a	MAWS
+8433628	KONTROLLER
+d868a50	VIBRAZZJONI
+f8692c7	18+ • Il-fiċes m'għandhom l-ebda valur ta' flus • Fonts: Bebas Neue, Poppins, Noto (SIL OFL) • Fruntieri: Natural Earth • Data tal-prezzijiet: Bank Dinji
+da46447	STAFF TAL-KAŻINÒ
+594b81e	NISA
+69d3313	IRĠIEL
+b4325d3	MĦALLAT
+414594a	TFAKKIRIET
+6cac87b	Fiċes b'xejn lesti, u mbuttatura żgħira filgħaxija qabel ma tispiċċa strixxa.
+e43b2e0	IĊĊEKKJA MILL-ĠDID
+7c9e8f9	REĠJUN TAL-PREZZIJIET
+495c70e	L-aktar mgħaġġel: il-każinò kif inhu miżbugħ, xejn żejjed.
+b052523	Art illustrata, injam u deheb jirriflettu s-sala.
+6bd30d7	Dehra ta' film: kulur gradat, qamħ, dija, raġġi tad-dawl, ġilda ħajja.
+21b6e1d	Lenti taċ-ċinema: il-fokus isegwi l-għajn tiegħek, strixxi fuq id-dwal, trab fir-raġġi.
+fb7c2e8	KWALITÀ
+d8b9679	BAXXA
+f68525a	MEDJA
+d77d0b2	GĦOLJA
+9289eee	ULTRA
+637e313	RIŻOLUZZJONI
+2e7b141	Aktar baxxa hija aktar ratba imma tisħon inqas u tiffranka l-batterija.
+93dcfb5	MODALITÀ TAL-URI
+3c6eac3	SKRIN SĦIĦ
+f3690b1	F'TIEQA
+cfa6200	ANTI-ALIASING
+ad50489	MITFI
+f178804	Itejjeb it-truf mhux lixxi fil-każinò.
+4266288	RATA TAL-FRAMES
+d031ab0	{0} FPS
+a2b7514	30 FPS jiffranka l-batterija u jżomm it-telefowns qodma kesħin.
+0babcee	V-SYNC
+6656e25	KAMP TAL-VIŻJONI
+244aadb	URI FPS
+41c8f6e	VOLUM ĠENERALI
+bf3af1f	MUŻIKA
+bd80907	EFFETTI TAL-ĦOSS
+d098036	VUĊIJIET TAL-ISTAFF
+93c6484	It-tgemgim tal-istaff waqt li jitkellmu.
+16bf71a	SKIET FL-ISFOND
+85b2ee7	Isikket il-każinò waqt li tkun f'tieqa oħra.
+8e3634e	SENSITTIVITÀ TAL-ĦARSA
+880dc05	Kemm idawwar malajr il-veduta meta tiġbed.
+750c60f	Kemm idawwar malajr il-veduta meta tiġbed bil-maws.
+8b988eb	AQLEB IL-ĦARSA XELLUG / LEMIN
+cacf0cc	AQLEB IL-ĦARSA FUQ / ISFEL
+2d13b68	TQASSIM TAL-BUTTUNI
+50c3f10	AWTO
+b471e5c	BIDDEL MENU / VEDUTA
+d9a59f1	SENSITTIVITÀ TAL-ISTIKK
+ec14343	Kemm idawwar malajr il-veduta l-istikk tal-lemin.
+a79af23	AQLEB L-ISTIKK XELLUG / LEMIN
+acfc66e	AQLEB L-ISTIKK FUQ / ISFEL
+56bb461	ĦJIEL TAL-KONTROLLER
+51cf49a	Juri x'jagħmel kull buttuna waqt li tilgħab b'kontroller.
+dff7431	IVVIBRA FUQ
+34139ab	TELEFON
+15ee988	IT-TNEJN
+465cc91	Awto: il-kontroller meta jkun imqabbad, inkella t-telefon.
+f6fed84	VIBRAZZJONI TAT-TELEFON
+8e97fa7	SAĦĦA TAT-TELEFON
+486ba2d	VIBRAZZJONI TAL-KONTROLLER
+8008889	SAĦĦA TAL-KONTROLLER
+ea9233e	AWTOMATIKU ({0})
+167dda7	{0} jiftaħ is-Settings, {1} jiftaħ Kuljum.
+29a4ef9	L-ebda kontroller imqabbad.
+558ecd2	Imqabbad: {0}. Qed nuru l-buttuni {1} (A fuq il-lemin jikkonferma).
+d6eee9e	Imqabbad: {0}. Qed nuru l-buttuni {1}.
+78525d5	IL-BAR
+099db9f	XORTI
+b4a8b06	Il-fiċes, ix-xorti u l-ikel huma oġġetti virtwali għad-divertiment biss: l-ebda valur ta' flus, ma jinbidlux għal flus jew premjijiet.
+e2a28c9	Kull karta għandha dak iċ-ċans li titqassam favurik, fuq imħatri tal-blackjack sa {0} fiċes (imħatri akbar huma standard u ma jużawx idejn). Jibda wara x-xorti tal-prinċipjant; il-pakketti l-aktar b'saħħithom jintużaw l-ewwel.
+04fbc6d	Ħalli aċċess għall-post biex tieħu l-prezz tal-pajjiż tiegħek
+2ae87fc	Ix-xiri mhux disponibbli f'din il-verżjoni tal-logħba.
+8239a84	ĦANUT TAT-TEST (l-ebda flus veri)
+173d916	enerġija
+b2c67eb	+{0}% FIĊES
+58e8011	{0} idejn
+ce80712	jirbaħ madwar {0}% minnhom
+c69e8ee	LUCKY ACE 7s
+fc99288	IMĦATRA TOTALI
+c1c00cd	TABELLA TAL-ĦLASIJIET
+3930abd	XORTI TAJBA!
+67b6973	Għandek bżonn mill-inqas 10 fiċes biex iddawwar.
+5aa1edb	IKSEB FIĊES
+f5a1812	L-imħatra tniżżlet għal kemm tista' tkopri.
+5c63f61	MEGA REBĦA!
+652544f	REBĦA KBIRA!
+91bc41c	MREĠĠGĦA {0}
+3714283	L-EBDA REBĦA
+33c0faa	LINJA {0}: {1} × {2} = {3}
+9f59e6e	{0} STILEL = {1}
+d6eee90	Ċirasa
+4459b79	Lumija
+09fb6aa	Larinġa
+cb92e50	Għanbaqra
+d419866	Qanpiena
+e496fd2	Bar
+63abb56	Sebgħa
+b3850e0	Djamant
+fc2b5a9	Ass
+85a7de6	Stilla
+c31b035	L-ISTILEL iħallsu kullimkien: 5 = {0}× l-imħatra, 4 = {1}× l-imħatra, 3 = {2}× l-imħatra.
+f97509c	L-ASS huwa wild: jieħu post kull simbolu ħlief l-istilla.
+3e8bc69	Il-ħlasijiet tal-linji huma multipli tal-imħatra tal-linja (imħatra totali ÷ 10), mix-xellug għal-lemin mill-ewwel rukkell.
+523f8dc	RITORN: {0}% fit-tul. Kull dawra hija indipendenti u każwali.
+e0c705d	Imxi
+b8db515	Ħares
+503d46d	Buttuni
+c7f73bb	Settings
+728298d	Kuljum
+ab166bd	Aġġusta
+76cdb95	Ċaqlaq
+8598222	Agħżel
+bbfa773	Agħlaq
+b52b36b	Lura
+ab37588	EŻAWRIT
+9b11a09	XORTI TAL-PRINĊIPJANT {0}%
+0c94e98	FADAL {0} IDEJN
+51ed273	STRIXXA TAX-XORTI {0}%
+3401470	{0} IDEJN  •  IMĦATRI SA {1}
+f481cc6	LIVELL
+0139615	MERĦBA
+daad514	ITKELLEM MAL-OSPITA
+bcefb10	Direzzjonijiet u pariri
+c28e782	FIĊES  •  BONUSIJIET
+0c69ec4	IXTRI FIĊES
+78c0727	Kaxxier
+1737fab	COCKTAILS  •  SNACKS  •  ENERĠIJA
+9e008ae	IKEL U XORB
+f7881e8	Il-Bar
+0e979ed	IL-BLACKJACK IĦALLAS 3 GĦAL 2
+eea0d12	ID-DEALER IRID JIEQAF FUQ 17
+4db37bf	ILGĦAB BLACKJACK
+0ffdd99	Mejda {0}  •  imħatri minn {1} sa {2}
+b4f938b	ILGĦAB IS-SLOTS
+6b7caea	AGĦMLU L-IMĦATRI
+26b1e39	ILGĦAB ROULETTE
+910a1ed	Rota Ewropea  •  numru dritt iħallas 35 għal 1
+7ef0215	ORDNA XARBA
+fe38d73	{0} iġibhielek
+f7b6306	Il-{0} tiftaħ fil-livell {1}. Int fil-livell {2}: kull rawnd li tilgħab jgħodd.
+d85f1ad	Din il-mejda teħtieġ mill-inqas {0} fiċes.
+cbfe016	Il-mwejjed tal-blackjack eżatt quddiem. Mur għand waħda u poġġi!
+64d9faf	Il-kaxxier qiegħed hawn fuq il-lemin tiegħek, u l-bar mal-ħajt tax-xellug.
+e4c6e0b	Għajjien? Snack fil-bar jimlielek l-enerġija mill-ewwel.
+d5ab68f	Agħfas fejn trid fuq l-art u timxi hemm. Agħfas fuq mejda biex tpoġġi.
+cc21f74	ŻGĦIR
+dc01dec	KBIR
+5fb90b0	KWALUNKWE TRIPLA
+9c716f1	Mejda tal-hold'em
+3b6ab84	Ilgħab 8 idejn hold'em
+6c617ca	Irbaħ 4 idejn hold'em
+44ce500	Ilgħab 10 idejn baccarat
+b90cff7	Irbaħ 5 idejn baccarat
+3e4dfa9	Ilgħab 15-il id video poker
+854fe20	Ilgħab 8 rawnds sic bo
+dfddac1	Irbaħ 4 rawnds sic bo
+2973ea7	Waddab id-dadi 15-il darba fil-craps
+737be17	Irbaħ 4 tefgħat fil-craps
+4dbb81d	Agħmel flush jew aħjar fil-video poker
+19aa07b	Royal flush
+cf83e72	Straight flush
+d27ba03	Erbgħa tal-istess
+dbe8641	Full house
+7c936d7	Flush
+2501c65	Straight
+ca1a0d4	Tlieta tal-istess
+6876b40	Żewġ pari
+2537f88	Par
+b4b323e	Karta għolja
+f70bfdc	Jacks jew aħjar
+98fd5af	BACCARAT
+df66d5a	Merħba fil-baccarat! Plejer, Bankier jew Draw?
+5055efd	PLEJER
+3f90696	DRAW
+0d75f63	BANKIER
+0ebd5a4	L-AĦĦAR RIŻULTATI
+511993d	P
+ae4f281	B
+c2c53d6	D
+781246e	Agħżel fiċċa, imbagħad agħfas Plejer, Bankier jew Draw
+11023a0	DRAW  {0}
+503d5f1	JIRBAĦ IL-PLEJER  {0} KONTRA {1}
+0eb4be5	JIRBAĦ IL-BANKIER  {0} KONTRA {1}
+7859af1	CRAPS
+4083dbd	Merħba fil-craps! Imraħan fuq il-Pass Line u waddab.
+d266326	SITTA
+c506f3a	DISGĦA
+987f4e9	FIELD
+71c1b2b	2 3 4 9 10 11 12  •  2 u 12 iħallsu doppju
+d0ac294	KWALUNKWE 7
+9b2f0c3	KWALUNKWE CRAPS
+f62ac59	DON'T PASS BAR
+6080ade	1:1  •  12 hija draw
+c07247a	PASS LINE
+6229f78	ODDS
+29bf819	odds veri
+387d7a5	ON
+229c9cc	L-odds imorru wara l-Pass Line meta jkun hemm punt.
+c2c8e82	L-odds jeħtieġu mħatra fuq il-Pass Line.
+1784d43	L-odds tiegħek huma fl-ogħla.
+fdc3442	L-imħatri tal-linja jsiru fl-ewwel tefgħa.
+97ce95b	FUQ IL-MEJDA  {0}
+a895ec0	Il-punt huwa {0}: erġa' waddbu qabel 7. L-odds wara l-Pass Line iħallsu odds veri.
+d9f9d65	WADDAB
+bcf32ef	Il-punt huwa {0}.
+5b450b4	{0}! Il-punt sar. Rebaħt!
+9746e08	Sebgħa barra. Min jarmi ġdid, l-ewwel tefgħa ġdida.
+4fc4664	{0}, natural! Il-Pass Line tirbaħ.
+203f466	{0}, craps. Il-linja titlef.
+0f8e260	Stenna sakemm id-dadi jieqfu.
+6a98cfe	TITLAQ MILL-MEJDA?
+8430088	L-imħatra tal-linja tiegħek għadha għaddejja fuq il-punt {0}. Jekk titlaq issa, titlifha.
+0e138d1	HOLD'EM
+5e023be	Merħba fil-hold'em! Poġġi l-ante u ejja naraw il-karti.
+0cd62f5	ANTE
+5e9f331	BLIND
+3b935ab	IL-BLIND IĦALLAS
+20713a4	Id-dealer jikkwalifika b'par jew aħjar
+d37267c	CHECK
+9a4e316	FOLD
+88313c4	IMRAĦAN {0}×
+42c6fea	Ante {0} + blind {0}. Żomm {1} oħra għaż-żieda.
+1abb2f2	Agħfas il-fiċċi biex tagħżel l-ante. Il-blind huwa l-istess.
+f541cec	Check, jew imraħan tliet jew erba' darbiet l-ante?
+fc74a79	Żid issa 4× jew 3× l-ante, jew agħmel check u ara l-flop.
+b687501	L-aħħar ċans: imraħan 1× l-ante jew agħmel fold u titlef l-ante u l-blind.
+400009c	Imraħan issa 2× l-ante, jew agħmel check u ara l-aħħar żewġ karti.
+f4abdf9	Hawn il-flop.
+0e51f2c	It-turn u r-river.
+cc856d3	Ejja naraw x'għandi.
+6ba1f3e	Id-dealer ma jikkwalifikax: l-ante tiegħek jerġa' lura.
+cf1fdc5	Fold. L-id li jmiss hija tiegħek.
+177fab0	Ultimate Texas Hold'em
+c4917b9	Plejer, Bankier jew Draw
+6e4fe7b	VIDEO POKER
+73cabd3	Jacks or Better
+91c4555	SIC BO
+d810061	Tliet dadi  •  kbir jew żgħir
+85ab7ec	Pass Line  •  Field  •  Odds
+35d8db6	Merħba fis-sic bo! Kbir, żgħir jew xi ħaġa aktar kuraġġuża?
+3d05514	Il-limitu tal-mejda huwa {0} kull tefgħa.
+86ade94	ĦAWWAD
+b69304e	TRIPLA TA' {0}!
+5d1bcc6	MIŻMUMA
+36a21ba	Qassam, żomm il-karti li trid, u biddel darba.
+99fa8e8	ŻOMM
+249d1c0	ĦJIEL
+7aab1bd	BIDDEL
+5595eb4	Agħfas il-karti biex iżżommhom, imbagħad biddel.
+1c05db9	ILGĦAB HOLD'EM
+e353e5f	Ultimate Texas Hold'em  •  ante minn {0} sa {1}
+6470369	ILGĦAB BACCARAT
+bbe0077	KBIR  •  ŻGĦIR  •  TRIPLI
+3ba448f	ILGĦAB SIC BO
+097c59c	Tliet dadi  •  kbir jew żgħir iħallas 1 għal 1
+af2ca30	PASS LINE  •  FIELD  •  ODDS
+f18398e	ILGĦAB CRAPS
+eeede6d	Il-Pass Line tħallas 1 għal 1  •  l-odds iħallsu odds veri
+34e5170	ILGĦAB VIDEO POKER
+f71bdfb	Jacks or Better  •  tabella sħiħa 9/6
+4a6c087	JACKS OR BETTER  •  ROYAL FLUSH IĦALLAS 800×
+370a133	Is-slot machines qegħdin mal-ħajt tal-lemin, il-video poker mal-ħajt ta' wara, u r-rulett fil-fond.
+8298d28	Il-hold'em qiegħed fil-kantuniera ta' wara fuq ix-xellug, wara l-bar.
+a2a111f	Il-baccarat qiegħed eżatt fuq ix-xellug hekk kif tidħol.
+b7193bc	Is-sic bo qiegħed fil-kantuniera wara l-kaxxa: tliet dadi, kbir jew żgħir.
+25320c8	Il-mejda tal-craps qegħda fuq il-lemin, quddiem is-slots. Imraħan fuq il-Pass Line u waddab!
+dc81691	Sofia
+4d9936f	Elena
+3aa0674	Mia
+b724114	Valentina
+34d3f7f	Chloe
+0fc9dd6	Isabella
+bbd3e35	Nadia
+eac677d	Aria
+baaf10f	Luna
+8641381	Camila
+eeee9b7	Aurora
+8a59f05	Bianca
+5a0fc29	Serena
+bf38aa5	Marco
+cfaf50a	Leo
+5815f22	Adrian
+cbede02	Lucas
+f0b9995	Viktor
+7b37259	Daniel
+aaac72d	Gabriel
+2f8f37e	Ethan
+a01126e	Julian
+3e05c90	Rafael
+e1ae457	Mateo
+3398634	Nico
+7aa2d07	Enzo
+1920e2f	Tejgħa come-out: imraħan fuq il-Pass Line, u mbagħad waddab. 7 jew 11 jirbħu, 2, 3 jew 12 jitilfu. L-imħatriet Place jibdew jaħdmu malli jkun hemm punt.
+99f4934	LUCKY ACE 7s  •  IĦALLAS SA 2,500× L-IMĦAR TAL-LINJA TIEGĦEK

@@ -43,10 +43,10 @@ namespace Casino.Art
 
         public static readonly TableTheme[] Tables =
         {
-            new TableTheme { Felt = Hex("0D7A45"), Accent = Hex("D08A4A"), Label = "BRONZE" },
-            new TableTheme { Felt = Hex("124F86"), Accent = Hex("D5DCE6"), Label = "SILVER" },
-            new TableTheme { Felt = Hex("8A1730"), Accent = Hex("F5C542"), Label = "GOLD" },
-            new TableTheme { Felt = Hex("43207A"), Accent = Hex("8DF3FF"), Label = "DIAMOND" },
+            new TableTheme { Felt = Hex("0D7A45"), Accent = Hex("D08A4A"), Label = Loc.N("BRONZE") },
+            new TableTheme { Felt = Hex("124F86"), Accent = Hex("D5DCE6"), Label = Loc.N("SILVER") },
+            new TableTheme { Felt = Hex("8A1730"), Accent = Hex("F5C542"), Label = Loc.N("GOLD") },
+            new TableTheme { Felt = Hex("43207A"), Accent = Hex("8DF3FF"), Label = Loc.N("DIAMOND") },
         };
 
         public static Color Hex(string hex)

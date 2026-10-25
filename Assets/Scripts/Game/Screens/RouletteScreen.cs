@@ -94,7 +94,7 @@ namespace Casino.Screens
                 layout = Content;
             }
 
-            TopBar.Create(Content, "ROULETTE", Icon.Back, Leave);
+            TopBar.Create(Content, Loc.T("ROULETTE"), Icon.Back, Leave);
             BuildWheel();
             BuildBoard();
             BuildControls();
@@ -112,7 +112,7 @@ namespace Casino.Screens
             App.I.Progress.StreakExtended += OnStreakExtended;
             App.I.Intensity.Baseline = 0.2f;
             Refresh();
-            Say("Welcome! Place your bets, please.");
+            Say(Loc.T("Welcome! Place your bets, please."));
         }
 
         // ------------------------------------------------------------------ wheel
@@ -284,13 +284,13 @@ namespace Casino.Screens
             if (total + amount > App.I.Wallet.Balance)
             {
                 Sfx.Play(SfxId.Error);
-                App.I.UI.Toast("Not enough chips for that bet.", Palette.TextMuted, Icon.Coin);
+                App.I.UI.Toast(Loc.T("Not enough chips for that bet."), Palette.TextMuted, Icon.Coin);
                 return;
             }
             if (total + amount > MaxTotalBet)
             {
                 Sfx.Play(SfxId.Error);
-                App.I.UI.Toast($"Table limit is {ChipFormat.Short(MaxTotalBet)} per spin.", Palette.TextMuted, Icon.Coin);
+                App.I.UI.Toast(Loc.F("Table limit is {0} per spin.", ChipFormat.Short(MaxTotalBet)), Palette.TextMuted, Icon.Coin);
                 return;
             }
             var spot = spots[key];
@@ -349,13 +349,13 @@ namespace Casino.Screens
                 b.Face.color = Color.white;
                 chipButtons.Add(b);
             }
-            undoButton = UIKit.Button(Content, "UNDO", ButtonStyle.Dark, Undo, 28);
+            undoButton = UIKit.Button(Content, Loc.T("UNDO"), ButtonStyle.Dark, Undo, 28);
             undoButton.Rect.At(0.5f, 0f, 540, 125, 150, 60);
-            clearButton = UIKit.Button(Content, "CLEAR", ButtonStyle.Dark, ClearBets, 28);
+            clearButton = UIKit.Button(Content, Loc.T("CLEAR"), ButtonStyle.Dark, ClearBets, 28);
             clearButton.Rect.At(0.5f, 0f, 540, 60, 150, 60);
-            rebetButton = UIKit.Button(Content, "REBET", ButtonStyle.Blue, Rebet, 28);
+            rebetButton = UIKit.Button(Content, Loc.T("REBET"), ButtonStyle.Blue, Rebet, 28);
             rebetButton.Rect.At(0.5f, 0f, 700, 95, 150, 120);
-            spinButton = UIKit.Button(Content, "SPIN", ButtonStyle.Gold, Spin, 50, Icon.Play);
+            spinButton = UIKit.Button(Content, Loc.T("SPIN"), ButtonStyle.Gold, Spin, 50, Icon.Play);
             spinButton.Rect.At(0.5f, 0f, 875, 95, 180, 120);
 
             totalText = UIKit.Label(Content, "", 30, Palette.GoldLight, TextAnchor.MiddleLeft, FontKind.Semi);
@@ -378,7 +378,7 @@ namespace Casino.Screens
         void Refresh()
         {
             long total = TotalBet();
-            totalText.text = total > 0 ? $"TOTAL BET  {ChipFormat.Full(total)}" : "Tap the board to place chips";
+            totalText.text = total > 0 ? Loc.F("TOTAL BET  {0}", ChipFormat.Full(total)) : Loc.T("Tap the board to place chips");
             spinButton.Interactable = !spinning && total > 0;
             undoButton.Interactable = !spinning && placed.Count > 0;
             clearButton.Interactable = !spinning && placed.Count > 0;
@@ -427,7 +427,7 @@ namespace Casino.Screens
             spinning = true;
             Refresh();
             resultText.text = "";
-            Say("No more bets!");
+            Say(Loc.T("No more bets!"));
             Sfx.Play(SfxId.Whoosh);
             if (seat != null && seat.Staff != null)
                 seat.Staff.SlideOnTable(seat.Layer.TransformPoint(WheelPos + new Vector2(-120f, 260f)), seat.Layer.TransformPoint(WheelPos + new Vector2(140f, 250f)), 0.5f);
@@ -447,9 +447,10 @@ namespace Casino.Screens
             App.I.RecordWager(GameKind.Roulette, total, net, spots[Key(RouletteBetKind.Straight, number)].Bet.Amount > 0);
             App.I.Intensity.OnRoundResult(net, false);
 
-            string colour = number == 0 ? "GREEN" : RouletteRules.IsRed(number) ? "RED" : "BLACK";
+            string colour = number == 0 ? Loc.T("GREEN") : RouletteRules.IsRed(number) ? Loc.T("RED") : Loc.T("BLACK");
+            string said = number == 0 ? Loc.T("green") : RouletteRules.IsRed(number) ? Loc.T("red") : Loc.T("black");
             resultText.color = number == 0 ? Palette.Hex("7CFC9A") : RouletteRules.IsRed(number) ? Palette.Hex("FF6A7E") : Color.white;
-            resultText.text = $"{number}  {colour}";
+            resultText.text = number + "  " + colour;
             AddHistory(number);
             var numberSpot = spots[Key(RouletteBetKind.Straight, number)];
             numberSpot.Rect.gameObject.AddComponent<Pulse>().Amount = 0.12f;
@@ -460,20 +461,20 @@ namespace Casino.Screens
                 bool big = net >= total * 10;
                 Sfx.Play(big ? SfxId.BigWin : SfxId.Win);
                 Confetti.Burst(fx, seat != null ? new Vector2(0, 150) : new Vector2(-560, 0), big ? 90 : 40, true);
-                Say(big ? "What a hit! Congratulations!" : $"Winner! You win {ChipFormat.Full(back)}.");
-                totalText.text = $"WIN  +{ChipFormat.Full(back)}";
+                Say(big ? Loc.T("What a hit! Congratulations!") : Loc.F("Winner! You win {0}.", ChipFormat.Full(back)));
+                totalText.text = Loc.F("WIN  +{0}", ChipFormat.Full(back));
             }
             else if (back > 0)
             {
                 Sfx.Play(SfxId.Tick);
-                Say($"{number} {colour.ToLowerInvariant()}. {ChipFormat.Full(back)} comes back to you.");
-                totalText.text = $"RETURNED  {ChipFormat.Full(back)}";
+                Say(Loc.F("{0} {1}. {2} comes back to you.", number, said, ChipFormat.Full(back)));
+                totalText.text = Loc.F("RETURNED  {0}", ChipFormat.Full(back));
             }
             else
             {
                 Sfx.Play(SfxId.Lose);
                 Say(DealerLines.Pick(DealerMoment.PlayerLose, App.I.Rng));
-                totalText.text = "No win this time";
+                totalText.text = Loc.T("No win this time");
             }
 
             yield return Tween.Wait(2.4f);
@@ -489,7 +490,7 @@ namespace Casino.Screens
             lastRound = new List<(string, long)>(placed);
             spinning = false;
             ClearBets();
-            Say("Place your bets, please.");
+            Say(Loc.T("Place your bets, please."));
         }
 
         void AddHistory(int number)
@@ -514,7 +515,7 @@ namespace Casino.Screens
         {
             if (spinning)
             {
-                App.I.UI.Toast("Wait for the ball to land.", Palette.TextMuted, Icon.Clock);
+                App.I.UI.Toast(Loc.T("Wait for the ball to land."), Palette.TextMuted, Icon.Clock);
                 return;
             }
             App.I.UI.Show<LobbyScreen>();

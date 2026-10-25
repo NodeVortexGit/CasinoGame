@@ -1,0 +1,1004 @@
+NDOGO
+KUBWA
+WITIRI
+SHUFWA
+TATU ZOZOTE ZINAZOFANANA
+Konzi la Chipu
+Mrundikano wa Chipu
+Trei ya Chipu
+Rafu ya Chipu
+MAARUFU ZAIDI
+Hazina ya Chipu
+Sefu ya Mcheza Kamari Mkubwa
+THAMANI BORA
+Maji ya Gesi
+Espresso
+Kinywaji cha Nishati
+Sandwichi ya Klabu
+Mlo wa Baga
+Chakula cha Jioni cha Steki
+JAZA KABISA
+Mfululizo wa Bahati
+Mfululizo Moto
+BAHATI ZAIDI
+Meza ya Shaba
+Meza ya Fedha
+Meza ya Dhahabu
+Meza ya Almasi
+Meza ya hold'em
+Tafadhali weka mwaka sahihi.
+Tafadhali weka mwezi sahihi (1-12).
+Tafadhali weka siku sahihi.
+Tarehe hiyo iko katika siku zijazo.
+Karibu kwenye meza yangu! Uko tayari kucheza?
+Nimefurahi kukuona. Keti!
+Habari! Kadi ni mpya, nami pia.
+Karibu! Tuifanye usiku huu uwe mzuri.
+Weka dau lako ukiwa tayari.
+Chipu mezani, tuone kadi.
+Tunachezea nini?
+Lo, dau kubwa! Napenda mtindo wako.
+Hilo ndilo dau. Twende!
+Una ujasiri usiku huu, sivyo?
+Kila kitu?! Moyo wangu unadunda!
+Kila kitu kwenye mkono mmoja. Bila woga!
+Blackjack! Ajabu!
+Ishirini na moja, hivyo tu!
+Blackjack! Kadi zinakupenda usiku huu.
+Umecheza vizuri!
+Mshindi! Hongera.
+Uko kwenye mfululizo mzuri!
+Huo ni wako.
+Ushindi ulioje! Kila mtu anaitazama meza hii!
+Mkubwa sana! Unawaka moto usiku huu!
+Ilikaribia sana! Unaofuata ni wako.
+Kasino ilibahatika safari hii.
+Usijali, mkono mpya unakuja.
+Aah, kadi moja zaidi ya kipimo.
+Umezidi! Hutokea hata kwa walio bora.
+Sare. Hakuna anayepoteza!
+Sare. Chipu zako ziko salama.
+Nimezidi! Una bahati.
+Nyingi mno kwangu. Umeshinda!
+Blackjack kwa kasino, samahani!
+Mgawaji ana blackjack. Bahati mbaya.
+Ninaonyesha Ace. Bima?
+Tunagawanya! Nafasi mbili za kushinda.
+Kuongeza mara mbili. Hatua ya ujasiri!
+Ongeza mara mbili! Kadi moja inakuja.
+Kiatu kipya, ninachanganya!
+Zinapungua? Keshia anaweza kukuongezea.
+Chipu zinapungua. Ungependa zaidi?
+Chipu zimeisha! Tembelea keshia au chukua chipu za bure.
+Mrundikano wako ni mtupu. Keshia yuko nyuma yako.
+Unaonekana umechoka sana! Pata chakula kwenye baa.
+Nguvu zimeisha? Baa itakusaidia.
+Usiwe na haraka.
+Wakati wowote ukiwa tayari!
+Usiku bado ni mchanga.
+Bahati ya mwanzilishi iko upande wako!
+Kadi ziko upande wako usiku huu!
+Bahati ya mwanzilishi imeisha. Kuanzia sasa mchezo ni wa haki!
+Karibu kasino! Kiti chako kinakusubiri.
+Habari za jioni! Meza zina moto usiku huu.
+Karibu tena! Unajisikia una bahati?
+Gusa meza ili uanze kucheza!
+Unahitaji chipu zaidi? Umefika dirisha sahihi.
+Mirundikano mikubwa, bonasi kubwa!
+Una njaa? Chagua chochote kwenye menyu.
+Kula kidogo hudumisha nishati yako!
+Karibu kwenye meza yangu!
+Uko hapa! Mahali pameng'aa zaidi tayari.
+Jisikie uko nyumbani. Usiku huu ni wako.
+Napenda tabasamu hilo. Usiku wa bahati?
+Tulia, uko mikononi mwema hapa.
+Wewe! Nilitumaini utapita kwenye dirisha langu.
+Daima ni vizuri kuona uso wa kirafiki.
+Tazama nani yuko hapa! Unafurahia?
+Habari, mrembo!
+Napenda mtindo wako usiku huu.
+Hey, nimefurahi kukuona tena!
+Una usiku mzuri? Unastahili.
+Jihadhari, huenda nikaanza kukushangilia.
+Mchezaji ninayempenda amerudi!
+Keti nami, nitakugawia kitu kizuri.
+Unaifanya meza hii iwe ya kufurahisha zaidi.
+Unaondoka tayari? Usiku bado ni mchanga!
+Haya basi, mkono mmoja tu zaidi. Nina hisia nzuri!
+Huwezi kuniacha sasa, ndiyo kwanza tumeanza!
+Nafasi ya mwisho! Mkono unaofuata unaweza kuwa ule mkubwa...
+Sawa, sawa. Nitakuwekea kiti chako kikiwa na joto. Unaahidi kurudi?
+Bado huna mfululizo? Cheza raundi {2} leo nami nitaanza kuhesabu.
+Mwanzo mpya! Raundi {2} na mwali wako unawaka.
+Nina orodha ndogo ya wanaokuja kila siku. Wewe hauko humo... bado.
+Siku ya {1} inakusubiri. Zimebaki raundi {2} tu!
+Siku {0} mfululizo... hutaacha sasa, sivyo?
+Mwali wako unaonekana baridi kidogo leo. Raundi {2} zitaupasha joto.
+Nimekuwa nikihesabu: siku {0}. Tuzifanye {1}.
+Usidhani sikugundua. Zimebaki raundi {2} kudumisha mfululizo wako!
+Siku {0} mfululizo? Naanza kufikiri unapapenda hapa.
+Mfululizo wako uko salama leo. Sasa unajionyesha tu.
+Siku ya {0}, imekamilika. Kesho saa hii hii?
+Siku {0}! Sasa nikuwekee kiti.
+Hii hapa: siku ya kwanza ya mfululizo wako! Rudi kesho tuzifanye mbili.
+Wiki nzima mfululizo! Nimevutiwa kweli.
+Siku thelathini! Karibu unafanya kazi hapa.
+Siku mia moja. Ninamwambia kila mtu kukuhusu.
+Hizo ni siku {0} mfululizo! Jitazame.
+Mfululizo umeokolewa: siku ya {0}! Nilijua utaweza.
+Siku ya {0}! Nakuwekea dau hutafika {1}.
+Siku {0}... sawa, mjivuni.
+Cheza mikono 10 ya blackjack
+Shinda mikono 5 ya blackjack
+Pata blackjack
+Shinda chipu 500 kwenye blackjack
+Zungusha mashine za sloti mara 20
+Shinda mizunguko 5 ya sloti
+Shinda mara 5 ya dau lako kwenye sloti
+Cheza raundi 5 za rulet
+Shinda mizunguko 3 ya rulet
+Piga namba moja moja kwa moja
+Cheza mikono 8 ya hold'em
+Shinda mikono 4 ya hold'em
+Cheza mikono 10 ya baccarat
+Shinda mikono 5 ya baccarat
+Cheza mikono 15 ya video poker
+Cheza raundi 8 za sic bo
+Shinda raundi 4 za sic bo
+Rusha kete mara 15 kwenye craps
+Shinda mirusho 4 kwenye craps
+Pata flush au bora zaidi kwenye video poker
+Royal flush
+Straight flush
+Nne zinazofanana
+Full house
+Flush
+Mfuatano
+Tatu zinazofanana
+Jozi mbili
+Jozi
+Karata ya juu
+eneo la GPS
+mtandao wa simu
+muunganisho wa intaneti
+mipangilio ya kifaa
+nchi ya majaribio
+haijathibitishwa (bei ya kawaida)
+haijulikani
+12 za 1
+12 za 2
+12 za 3
+2 kwa 1
+NYEKUNDU
+NYEUSI
+Jack au bora zaidi
+BEI ZA HAKI KWA NCHI YAKO
+Bei za duka zinarekebishwa kulingana na uchumi wa nchi yako, ili wachezaji kila mahali walipe bei ya haki.
+Ili kujua nchi yako, tunaangalia eneo lako la takriban mara moja. Linalinganishwa na nchi kwenye kifaa chako na halitumwi popote. Ukikataa, bei za kawaida zitatumika.
+ENDELEA
+Kuondoka kasino?
+Chipu na maendeleo yako yamehifadhiwa.
+ONDOKA
+BAKI
+{0} imefunguliwa
+Ugandishaji wa mfululizo uliokoa mfululizo wako wa siku {0} jana.
+Ugandishaji {0} uliokoa mfululizo wako wa siku {1}.
+Mfululizo wako wa siku {0} umeisha. Cheza raundi {1} leo ili uanze mpya!
+DHAMIRA IMEKAMILIKA
++chipu {0}
+DHAMIRA ZOTE ZIMEKAMILIKA!
+Bonasi ya kila siku +chipu {0}. Dhamira mpya kesho.
+KIWANGO {0}!
+Hatua muhimu! +chipu {0}
+Rudi kesho kuendelea
++1 ugandishaji wa mfululizo
+MFULULIZO WA SIKU {0}!
+Ununuzi haupatikani katika toleo hili.
+Ununuzi umeshindikana. Hukutozwa chochote.
++chipu {0} zimeongezwa!
+{0}: mikono {1} kwa bahati ya {2}%, baada ya Bahati ya Mwanzilishi
+{0}: mikono {1} kwa bahati ya {2}%!
+{0}: +{1}% nishati
+Haipatikani kwenye kifaa hiki
+Video haziwezi kupakia kwenye mtandao huu
+Rudi kesho
+Tayari baada ya sekunde {0}
++chipu {0} (zimebaki {1} leo)
++chipu {0} za bure!
++1 ugandishaji wa mfululizo!
+Hakuna video kwa sasa. Jaribu tena baadaye kidogo.
+SHABA
+FEDHA
+DHAHABU
+ALMASI
+Menyu
+Mwonekano
+Msalaba
+Duara
+Mraba
+Pembetatu
+Tunaangalia eneo lako...
+Haijathibitishwa ({0}): bei za kawaida
+{0} ({1}): bei kwa {2}
+Vikumbusho
+Chipu za bure tayari na vikumbusho vya mfululizo
+Chipu zako za bure ziko tayari
+Chipu {0} zinakusubiri Lucky Ace.
+Dumisha mfululizo wako wa siku {0}
+Cheza raundi {0} leo ili usianze upya saa sita usiku.
+BACCARAT
+Karibu kwenye baccarat! Mchezaji, Benki au Sare?
+MCHEZAJI
+SARE
+BENKI
+MATOKEO YA KARIBUNI
+M
+B
+S
+TENDUA
+FUTA
+RUDIA DAU
+GAWA
+Chipu hazitoshi kwa dau hilo.
+Kiwango cha juu cha meza kimefikiwa
+JUMLA YA DAU  {0}
+Chagua chipu, kisha gusa Mchezaji, Benki au Sare
+SARE  {0}
+MCHEZAJI ASHINDA  {0} KWA {1}
+BENKI YASHINDA  {0} KWA {1}
+USHINDI  +{0}
+IMERUDISHWA  {0}
+Hakuna ushindi safari hii
+Maliza mkono huu kwanza.
+Karibu! Bahati ya mwanzilishi iko upande wako usiku huu. Weka dau!
+BLACKJACK INALIPA 3 KWA 2   •   MGAWAJI ANASIMAMA KWENYE 17 ZOTE   •   BIMA INALIPA 2 KWA 1
+DAU
+ONGEZA
+SIMAMA
+MARA MBILI
+GAWANYA
+WEKA BIMA
+HAPANA, ASANTE
+DAU {0}+
+Chipu hazitoshi
+Mgawaji anaonyesha Ace. Bima kwa {0}?
+Bima inalipa {0}
+Mgawaji hana blackjack. Bima imepotea.
+UMEZIDI
+MGAWAJI AMEZIDI
+BLACKJACK!
+USHINDI
+SARE
+UMEPOTEZA
+Bahati ya mwanzilishi imeisha. Mfululizo wako wa Bahati unaanza sasa.
+Bahati ya mwanzilishi imeisha. Kuanzia sasa ni blackjack ya kawaida.
+Mfululizo wako wa Bahati umeisha. Tunarudi kwenye blackjack ya kawaida.
+CHIPU ZIMEISHA
+Tazama video fupi upate chipu {0} za bure, au tembelea keshia.
+Tembelea keshia ili kujaza chipu zako.
+CHIPU ZA BURE
+KESHIA
+BAADAYE
+“{0}”
+MKONO MMOJA ZAIDI
+ONDOKA
+BAHATI YA MWANZILISHI
+MFULULIZO WA BAHATI
+Bonasi ya karibu kwa wachezaji wapya: kwa mikono yako <b>{0}</b> ya kwanza kiatu cha mgawaji kimepangwa kwa faida yako, kwa hiyo utashinda karibu kila mkono.
+Katika mikono <b>{0}</b> inayofuata faida inafifia, na baada ya hapo kila meza ni blackjack ya kawaida na ya haki kutoka kiatu kilichochanganywa cha seti 6 (blackjack inalipa 3 kwa 2, mgawaji anasimama kwenye 17 zote).
+Faida sasa: <b><color=#7CFC9A>{0}%</color></b>   Mikono iliyobaki: <b>{1}</b>
+Kwa <b>mikono {0} ya blackjack</b> inayofuata yenye dau hadi <b>chipu {1}</b>, kila kadi ina nafasi ya <b>{2}%</b> kugawiwa kwa faida yako (faida ile ile ya Bahati ya Mwanzilishi).
+Ukicheza vizuri hiyo inashinda takriban <b>{0}%</b> ya mikono, ikilinganishwa na takriban {1}% katika blackjack ya kawaida. Dau kubwa zaidi ni blackjack ya kawaida na hazitumii mikono. Mikono ikiisha, kila meza inarudi kuwa blackjack ya kawaida na ya haki.
+NIMEELEWA
+UNATAKA BAHATI YAKO IRUDI?
+Bahati ya Mwanzilishi imeisha: kuanzia sasa kila meza ni blackjack ya kawaida na ya haki. Mfululizo wa Bahati unarudisha faida kwa muda.
+CRAPS
+Karibu kwenye craps! Weka dau kwenye Pass Line kisha urushe.
+SITA
+TISA
+FIELD
+2 3 4 9 10 11 12  •  2 na 12 hulipa mara mbili
+7 YOYOTE
+CRAPS YOYOTE
+DON'T PASS BAR
+1:1  •  12 ni sare
+PASS LINE
+ODDS
+uwiano halisi
+ZIMA
+IMEWASHWA
+Odds huwekwa nyuma ya Pass Line kukiwa na pointi.
+Odds zinahitaji dau kwenye Pass Line.
+Odds zako zimefika kiwango cha juu.
+Dau za mstari huwekwa kwenye mrusho wa kwanza.
+MEZANI  {0}
+Mrusho wa kwanza: weka dau kwenye Pass Line, kisha urushe. 7 au 11 inashinda, 2, 3 au 12 inapoteza. Dau za Place zinaanza kufanya kazi kukiwa na pointi.
+Pointi ni {0}: irushe tena kabla ya 7. Odds nyuma ya Pass Line hulipa uwiano halisi.
+RUSHA
+Pointi ni {0}.
+{0}! Pointi imepatikana. Ushindi!
+Saba imetoka. Mrushaji mpya, mrusho wa kwanza mpya.
+{0}, natural! Pass Line inashinda.
+{0}, craps. Mstari unapoteza.
+Subiri kete zisimame.
+UNAONDOKA MEZANI?
+Dau lako la mstari bado linachezwa kwenye pointi {0}. Ukiondoka sasa, unalipoteza.
+KILA SIKU
+MFULULIZO WA KILA SIKU
+SIKU MFULULIZO
+LEO
+TAZAMA TANGAZO
+NUNUA
+UGANDISHAJI WA MFULULIZO
+Ugandishaji wa mfululizo unadumisha mfululizo wako siku usiyocheza. Unaweza kuwa na hadi {0}.\n\nUnunue mmoja kwa chipu {1}?
+Ugandishaji wa mfululizo uko tayari.
+Chipu hazitoshi kwa ugandishaji.
+GHAIRI
+MZUNGUKO WA KILA SIKU
+ZUNGUSHA
+Nafasi:
+{0}%
+Umeshinda chipu {0}!
+DHAMIRA ZA LEO
+Bora: siku {0}
+Cheza kila siku ili kujenga mfululizo
+Lengo la leo limefikiwa! Tuonane kesho.
+Leo: raundi {0} / {1} (mchezo wowote)
+Ugandishaji wa mfululizo: {0} / {1}
+Okoa mfululizo wako siku utakayokosa. +1 kila siku 7.
+IMEJAA
+HAKUNA VIDEO
+TANGAZO KARIBUNI
+Bonasi ya mfululizo: zawadi ×{0}
+Mzunguko mmoja wa bure kila siku
+UNAOFUATA  {0}
+Yote yamekamilika! Bonasi imechukuliwa.
+Dhamira mpya saa sita usiku.
+Maliza zote tatu: +chipu {0} za bonasi
+HOLD'EM
+Karibu kwenye hold'em! Weka ante tuone karata.
+ANTE
+BLIND
+CHEZA
+BLIND HULIPA
+Muuzaji anafuzu akiwa na jozi au bora zaidi
+CHECK
+FOLD
+WEKA DAU {0}×
+Ante {0} + blind {0}. Bakiza {1} zaidi kwa kupandisha.
+Gusa chipu kuweka ante. Blind ni sawa nayo.
+Check, au weka dau mara tatu au nne ya ante?
+Pandisha sasa 4× au 3× ya ante, au check uone flop.
+Nafasi ya mwisho: weka dau 1× ya ante, au fold upoteze ante na blind.
+Weka dau 2× ya ante sasa, au check uone karata mbili za mwisho.
+Hii hapa flop.
+Turn na river.
+Tuone nina nini.
+Muuzaji hajafuzu: ante yako inarudi.
+Umefold. Mkono unaofuata ni wako.
+MICHEZO
+Buruta upande wa kushoto kutembea  •  Buruta upande wa kulia kutazama  •  Gusa kwenda
+18+ pekee  •  Chipu ni za burudani: hazina thamani ya pesa, haziwezi kubadilishwa kamwe kwa pesa au zawadi
+Tunafungua milango...
+Karibu! Chipu zako {0} za karibu ziko tayari. Meza ziko mbele moja kwa moja!
++chipu {0} za bure! Zaidi baada ya saa {1}.
+Chipu za bure hujazwa kila saa {0}. Zinazofuata baada ya {1}.
+saa {0} dk {1}
+dk {0} sek {1}
+DUMISHA MFULULIZO WAKO
+Ungependa kikumbusho jioni ambazo bado hujacheza, na chipu zako za bure zikiwa tayari? Kamwe si zaidi ya hivyo, na unaweza kukizima kwenye Mipangilio.
+NIKUMBUSHE
++chipu {0} ziko tayari!
+Tazama video: {0}
+Chipu za bure zinazofuata baada ya {0}
+BLACKJACK
+Meza 4  •  inalipa 3 kwa 2
+Ultimate Texas Hold'em
+Mchezaji, Benki au Sare
+SLOTI
+Lucky Ace 7s  •  mistari 10
+VIDEO POKER
+Jacks or Better
+SIC BO
+Kete tatu  •  kubwa au ndogo
+Pass Line  •  Field  •  Odds
+RULET
+Ya Ulaya yenye sifuri moja
+UMECHOKA SANA
+Kipimo chako cha nishati ni kitupu. Chukua kitu kwenye baa ili uendelee kucheza, au rudi baadaye: nishati hurudi polepole ukiwa mbali.
+NENDA BAA
+CHAGUA MEZA YAKO
+DAU
+KIWANGO {0}
+KETI
+INAHITAJI {0}
+Fikia kiwango {0} ili ucheze hapa. Uko kiwango {1}.
+KASINO
+SS
+MM
+MMMM
+SIKU
+MWEZI
+MWAKA
+ULIZALIWA LINI?
+Chipu ni za burudani tu. Hazina thamani ya pesa na haziwezi kubadilishwa kamwe kwa pesa au zawadi.
+SAMAHANI, HUWEZI KUCHEZA
+{0} inapatikana kwa watu wazima pekee.
+TOKA
+Inafungwa baada ya {0}...
+TUAMBIE KUKUHUSU
+Tutachagua wenyeji, wagawaji na wafanyakazi wa baa wanaolingana nawe. Unaweza kubadilisha hili wakati wowote kwenye Mipangilio.
+MIMI NI MWANAMUME
+MIMI NI MWANAMKE
+SIPENDI KUSEMA
+INGIA KASINO
+Wafanyakazi wako usiku huu:
+Ukurasa {0} kati ya {1}
+LUGHA
+OTOMATIKI
+NCHI
+Karibuni! Wekeni dau zenu, tafadhali.
+Kikomo cha meza ni {0} kwa kila mzunguko.
+Gusa ubao kuweka chipu
+Hakuna dau zaidi!
+KIJANI
+kijani
+nyekundu
+nyeusi
+Pigo zuri sana! Hongera!
+Mshindi! Umeshinda {0}.
+{0} {1}. {2} zinakurudia.
+Wekeni dau zenu, tafadhali.
+Subiri mpira utulie.
+MIPANGILIO
+JUMLA
+MICHORO
+SAUTI
+MGUSO
+KIPANYA
+KIDHIBITI
+MTETEMO
+18+ • Chipu hazina thamani ya pesa • Fonti: Bebas Neue, Poppins, Noto (SIL OFL) • Mipaka: Natural Earth • Data ya bei: Benki ya Dunia
+WAFANYAKAZI WA KASINO
+WANAWAKE
+WANAUME
+MCHANGANYIKO
+VIKUMBUSHO
+Chipu za bure tayari, na kikumbusho cha jioni kabla mfululizo haujaisha.
+ANGALIA TENA
+ENEO LA BEI
+Haraka zaidi: kasino kama ilivyochorwa, hakuna ziada.
+Sakafu zinazong'aa, mbao na dhahabu huakisi ukumbi.
+Mwonekano wa filamu: rangi zilizopangwa, chembe, mng'ao, miale ya mwanga, ngozi halisi.
+Lenzi ya sinema: ulengaji hufuata jicho lako, michirizi kwenye taa, vumbi kwenye miale.
+UBORA
+CHINI
+WASTANI
+JUU
+ULTRA
+UBORA WA PICHA
+Chini zaidi ni laini zaidi lakini hupoa zaidi na huokoa betri.
+HALI YA SKRINI
+SKRINI NZIMA
+DIRISHA
+KULAINISHA KINGO
+Hulainisha kingo zenye michongoko kwenye kasino.
+KASI YA FREMU
+{0} FPS
+FPS 30 huokoa betri na huweka simu za zamani baridi.
+V-SYNC
+UWANJA WA KUONA
+ONYESHA FPS
+SAUTI KUU
+MUZIKI
+MADOIDO YA SAUTI
+SAUTI ZA WAFANYAKAZI
+Minong'ono ya wafanyakazi wanapozungumza.
+NYAMAZISHA CHINICHINI
+Nyamazisha kasino ukiwa kwenye dirisha jingine.
+USIKIVU WA KUTAZAMA
+Jinsi kuburuta kunavyogeuza mwonekano kwa kasi.
+Jinsi kuburuta kwa kipanya kunavyogeuza mwonekano kwa kasi.
+GEUZA KUTAZAMA KUSHOTO / KULIA
+GEUZA KUTAZAMA JUU / CHINI
+MPANGILIO WA VITUFE
+OTOMATIKI
+BADILISHANA MENYU / MWONEKANO
+USIKIVU WA FIMBO
+Jinsi fimbo ya kulia inavyogeuza mwonekano kwa kasi.
+GEUZA FIMBO KUSHOTO / KULIA
+GEUZA FIMBO JUU / CHINI
+VIDOKEZO VYA KIDHIBITI
+Huonyesha kila kitufe kinachofanya unapocheza kwa kidhibiti.
+TETEMESHA KWENYE
+SIMU
+ZOTE MBILI
+Otomatiki: kidhibiti kikiwa kimeunganishwa, vinginevyo simu.
+MTETEMO WA SIMU
+NGUVU YA SIMU
+MTETEMO WA KIDHIBITI
+NGUVU YA KIDHIBITI
+OTOMATIKI ({0})
+{0} hufungua Mipangilio, {1} hufungua Kila Siku.
+Hakuna kidhibiti kilichounganishwa.
+Kimeunganishwa: {0}. Inaonyesha vitufe vya {1} (A ya kulia inathibitisha).
+Kimeunganishwa: {0}. Inaonyesha vitufe vya {1}.
+BAA
+BAHATI
+Chipu, bahati na chakula ni vitu vya kidijitali kwa burudani tu: hazina thamani ya pesa, haziwezi kukombolewa kwa pesa au zawadi.
+Kila kadi ina nafasi hiyo ya kugawiwa kwa faida yako, kwa dau za blackjack hadi chipu {0} (dau kubwa zaidi ni za kawaida na hazitumii mikono). Inaanza baada ya Bahati ya Mwanzilishi; vifurushi vyenye nguvu zaidi hutumika kwanza.
+Ruhusu ufikiaji wa eneo ili upate bei ya nchi yako
+Ununuzi haupatikani katika toleo hili la mchezo.
+DUKA LA MAJARIBIO (hakuna pesa halisi)
+nishati
++{0}% CHIPU
+mikono {0}
+inashinda takriban {0}% yake
+Karibu kwenye sic bo! Kubwa, ndogo au kitu cha ujasiri zaidi?
+Kikomo cha meza ni {0} kwa kila mrusho.
+TIKISA
+TATU ZA {0}!
+LUCKY ACE 7s
+JUMLA YA DAU
+JEDWALI LA MALIPO
+BAHATI NJEMA!
+Unahitaji angalau chipu 10 kuzungusha.
+PATA CHIPU
+Dau limepunguzwa hadi kiasi unachoweza kulipa.
+USHINDI MKUBWA SANA!
+USHINDI MKUBWA!
+IMERUDISHWA {0}
+HAKUNA USHINDI
+MSTARI {0}: {1} × {2} = {3}
+NYOTA {0} = {1}
+Cheri
+Limau
+Chungwa
+Plamu
+Kengele
+Bar
+Saba
+Almasi
+Ace
+Nyota
+NYOTA hulipa popote: 5 = {0}× dau, 4 = {1}× dau, 3 = {2}× dau.
+ACE ni wild: inachukua nafasi ya kila alama isipokuwa nyota.
+Malipo ya mistari ni vizidisho vya dau la mstari (jumla ya dau ÷ 10), kutoka kushoto kwenda kulia kuanzia gurudumu la kwanza.
+MAREJESHO: {0}% kwa muda mrefu. Kila mzunguko ni huru na wa nasibu.
+IMESHIKWA
+Gawa, shika karata unazotaka, badilisha mara moja.
+SHIKA
+DOKEZO
+BADILISHA
+Gusa karata kuzishika, kisha badilisha.
+Tembea
+Tazama
+Vitufe
+Mipangilio
+Kila Siku
+Rekebisha
+Sogea
+Chagua
+Funga
+Rudi
+UMECHOKA
+BAHATI YA MWANZILISHI {0}%
+ZIMEBAKI MIKONO {0}
+MFULULIZO WA BAHATI {0}%
+MIKONO {0}  •  DAU HADI {1}
+KIWANGO
+Sofia
+Elena
+Mia
+Valentina
+Chloe
+Isabella
+Nadia
+Aria
+Luna
+Camila
+Aurora
+Bianca
+Serena
+Marco
+Leo
+Adrian
+Lucas
+Viktor
+Daniel
+Gabriel
+Ethan
+Julian
+Rafael
+Mateo
+Nico
+Enzo
+KARIBU
+ONGEA NA MWENYEJI
+Maelekezo na vidokezo
+CHIPU  •  BONASI
+NUNUA CHIPU
+Keshia
+VINYWAJI  •  VITAFUNIO  •  NISHATI
+CHAKULA NA VINYWAJI
+Baa
+BLACKJACK INALIPA 3 KWA 2
+MGAWAJI LAZIMA ASIMAME KWENYE 17
+CHEZA BLACKJACK
+Meza ya {0}  •  dau {1} hadi {2}
+CHEZA HOLD'EM
+Ultimate Texas Hold'em  •  ante {0} hadi {1}
+CHEZA BACCARAT
+KUBWA  •  NDOGO  •  TATU TATU
+CHEZA SIC BO
+Kete tatu  •  kubwa au ndogo hulipa 1 kwa 1
+PASS LINE  •  FIELD  •  ODDS
+CHEZA CRAPS
+Pass Line hulipa 1 kwa 1  •  odds hulipa uwiano halisi
+CHEZA VIDEO POKER
+CHEZA SLOTI
+Jacks or Better  •  jedwali kamili la 9/6
+LUCKY ACE 7s  •  INALIPA HADI 2,500× DAU LAKO LA MSTARI
+JACKS OR BETTER  •  ROYAL FLUSH HULIPA 800×
+WEKENI DAU ZENU
+CHEZA RULET
+Gurudumu la Ulaya  •  namba moja inalipa 35 kwa 1
+AGIZA KINYWAJI
+{0} ataleta
+{0} inafunguka kiwango {1}. Uko kiwango {2}: kila raundi unayocheza inahesabika.
+Meza hii inahitaji angalau chipu {0}.
+Meza za blackjack ziko mbele moja kwa moja. Tembea hadi moja na ukae!
+Mashine za slot ziko ukuta wa kulia, video poker ukuta wa nyuma, na roulette iko nyuma kabisa.
+Hold'em iko kona ya nyuma kushoto, baada ya baa.
+Baccarat iko kushoto mara tu unapoingia.
+Sic bo iko kona baada ya mhazini: kete tatu, kubwa au ndogo.
+Meza ya craps iko kulia, mbele ya mashine za slot. Weka dau kwenye Pass Line kisha urushe!
+Keshia yuko hapa upande wako wa kulia, na baa iko kando ya ukuta wa kushoto.
+Umechoka? Kitafunio kwenye baa kinajaza nishati yako mara moja.
+Gusa popote sakafuni nawe utatembea huko. Gusa meza ili ukae.
+Andorra
+Falme za Kiarabu
+Afghanistan
+Antigua na Barbuda
+Anguilla
+Albania
+Armenia
+Angola
+Antaktiki
+Ajentina
+Samoa ya Marekani
+Austria
+Australia
+Aruba
+Visiwa vya Aland
+Azerbaijani
+Bosnia na Hezegovina
+Babadosi
+Bangladeshi
+Ubelgiji
+Bukinafaso
+Bulgaria
+Bahareni
+Burundi
+Benin
+St. Barthelemy
+Bermuda
+Brunei
+Bolivia
+Uholanzi ya Karibiani
+Brazil
+Bahama
+Bhutan
+Kisiwa cha Bouvet
+Botswana
+Belarus
+Belize
+Kanada
+Visiwa vya Cocos (Keeling)
+Jamhuri ya Kidemokrasia ya Kongo
+Jamhuri ya Afrika ya Kati
+Kongo - Brazzaville
+Uswisi
+Cote d’Ivoire
+Visiwa vya Cook
+Chile
+Kameruni
+Uchina
+Kolombia
+Kostarika
+Kuba
+Cape Verde
+Curacao
+Kisiwa cha Krismasi
+Saiprasi
+Chechia
+Ujerumani
+Jibuti
+Denmaki
+Dominika
+Jamhuri ya Dominika
+Aljeria
+Ecuador
+Estonia
+Misri
+Sahara Magharibi
+Eritrea
+Uhispania
+Ethiopia
+Ufini
+Fiji
+Visiwa vya Falkland
+Mikronesia
+Visiwa vya Faroe
+Ufaransa
+Gabon
+Ufalme wa Muungano
+Grenada
+Jojia
+Guiana ya Ufaransa
+Guernsey
+Ghana
+Gibraltar
+Greenland
+Gambia
+Gine
+Guadeloupe
+Guinea ya Ikweta
+Ugiriki
+Visiwa vya Georgia Kusini na Sandwich Kusini
+Guatemala
+Guam
+Ginebisau
+Guyana
+Hong Kong SAR China
+Kisiwa cha Heard na Visiwa vya McDonald
+Honduras
+Croatia
+Haiti
+Hungaria
+Indonesia
+Ayalandi
+Israeli
+Kisiwa cha Man
+India
+Eneo la Uingereza katika Bahari Hindi
+Iraki
+Iran
+Aisilandi
+Italia
+Jersey
+Jamaika
+Jordan
+Japani
+Kenya
+Kirigizistani
+Kambodia
+Kiribati
+Komoro
+St. Kitts na Nevis
+Korea Kaskazini
+Korea Kusini
+Kuwait
+Visiwa vya Cayman
+Kazakistani
+Laos
+Lebanon
+St. Lucia
+Liechtenstein
+Sri Lanka
+Liberia
+Lesoto
+Lithuania
+Luxembourg
+Latvia
+Libya
+Morocco
+Monaco
+Moldova
+Montenegro
+St. Martin
+Madagaska
+Visiwa vya Marshall
+Masedonia ya Kaskazini
+Mali
+Myanmar (Burma)
+Mongolia
+Makau SAR China
+Visiwa vya Mariana vya Kaskazini
+Martinique
+Moritania
+Montserrat
+Malta
+Morisi
+Maldivi
+Malawi
+Meksiko
+Malesia
+Msumbiji
+Namibia
+New Caledonia
+Niger
+Kisiwa cha Norfolk
+Nigeria
+Nikaragwa
+Uholanzi
+Norway
+Nepal
+Nauru
+Niue
+Nyuzilandi
+Oman
+Panama
+Peru
+Polynesia ya Ufaransa
+Papua New Guinea
+Ufilipino
+Pakistani
+Poland
+Santapierre na Miquelon
+Visiwa vya Pitcairn
+Puerto Rico
+Maeneo ya Palestina
+Ureno
+Palau
+Paraguay
+Qatar
+Reunion
+Romania
+Serbia
+Urusi
+Rwanda
+Saudia
+Visiwa vya Solomon
+Ushelisheli
+Sudan
+Uswidi
+Singapore
+St. Helena
+Slovenia
+Svalbard na Jan Mayen
+Slovakia
+Siera Leoni
+San Marino
+Senegali
+Somalia
+Suriname
+Sudan Kusini
+Sao Tome na Principe
+El Salvador
+Sint Maarten
+Syria
+Eswatini
+Visiwa vya Turks na Caicos
+Chad
+Himaya za Kusini za Kifaranza
+Togo
+Tailandi
+Tajikistani
+Tokelau
+Timor-Leste
+Turkmenistan
+Tunisia
+Tonga
+Uturuki
+Trinidad na Tobago
+Tuvalu
+Taiwan
+Tanzania
+Ukraine
+Uganda
+Visiwa Vidogo vya Nje vya Marekani
+Marekani
+Uruguay
+Uzibekistani
+Mji wa Vatican
+St. Vincent na Grenadines
+Venezuela
+Visiwa vya Virgin, Uingereza
+Visiwa vya Virgin, Marekani
+Vietnamu
+Vanuatu
+Wallis na Futuna
+Samoa
+Kosovo
+Yemeni
+Mayotte
+Afrika Kusini
+Zambia
+Zimbabwe
+Kiingereza
+Kiafrikana
+Kiamhari
+Kiarabu
+Kiazerbaijani
+Kibelarusi
+Kibulgaria
+Kibengali
+Kibosnia
+Kikatalani
+Kicheki
+Kidenmaki
+Kijerumani
+Kigiriki
+Kihispania
+Kiestonia
+Kibaski
+Kiajemi
+Kifini
+Kifilipino
+Kifaransa
+Kiayalandi
+Kigalisi
+Kigujarati
+Kihausa
+Kiebrania
+Kihindi
+Kikorasia
+Kifaransa (Haiti)
+Kihungaria
+Kiarmenia
+Kiindonesia
+Kiigbo
+Kiisilandi
+Kiitaliano
+Kijapani
+Kijojia
+Kikazakh
+Kikambodia
+Kikannada
+Kikorea
+Kikyrgyz
+Kilasembagi
+Kilaosi
+Kilithuania
+Kilatvia
+Kimalagasi
+Kimacedonia
+Kimalayalamu
+Kimongolia
+Kimarathi
+Kimalei
+Kimalta
+Kiburma
+Kinorwe cha Bokmal
+Kinepali
+Kiholanzi
+Kipunjabi
+Kipolandi
+Kipashto
+Kireno (Brazil)
+Kireno (Ureno)
+Kiromanshi
+Kiromania
+Kirusi
+Kinyarwanda
+Kisinhala
+Kislovakia
+Kislovenia
+Kisomali
+Kialbania
+Kiserbia
+Kiswidi
+Kiswahili
+Kitamili
+Kitelugu
+Kitajiki
+Kithai
+Kiturukimeni
+Kituruki
+Kiukraini
+Kiurdu
+Kiuzbeki
+Kivietinamu
+Kixhosa
+Kiyoruba
+Kichina (Rahisi)
+Kichina (Cha jadi)
+Kizulu
+Jumapili
+Jumatatu
+Jumanne
+Jumatano
+Alhamisi
+Ijumaa
+Jumamosi

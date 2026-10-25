@@ -1,0 +1,1004 @@
+MALIIT
+MALAKI
+ODD
+EVEN
+KAHIT ANONG TRIPLE
+Isang Dakot na Chips
+Isang Patong ng Chips
+Isang Tray ng Chips
+Isang Rack ng Chips
+PINAKASIKAT
+Isang Vault ng Chips
+Safe ng High Roller
+PINAKASULIT
+Sparkling Water
+Espresso
+Energy Drink
+Club Sandwich
+Burger Meal
+Steak Dinner
+PUNO ULIT
+Swerteng Sunod-sunod
+Mainit na Sunod-sunod
+PINAKAMARAMING SWERTE
+Bronze na Mesa
+Pilak na Mesa
+Gintong Mesa
+Diyamanteng Mesa
+Mesa ng hold'em
+Pakilagay ang tamang taon.
+Pakilagay ang tamang buwan (1-12).
+Pakilagay ang tamang araw.
+Nasa hinaharap ang petsang iyan.
+Maligayang pagdating sa mesa ko! Handa ka na bang maglaro?
+Ang saya kitang makita. Upo ka!
+Hi! Bago pa ang mga baraha, ako rin.
+Maligayang pagdating! Gawin nating masaya ang gabing ito.
+Ilagay mo ang taya mo kapag handa ka na.
+Chips sa mesa, at tingnan natin ang mga baraha.
+Para saan tayo naglalaro?
+Wow, malaking taya! Gusto ko ang istilo mo.
+Ayan ang taya. Tara na!
+Matapang ka ngayong gabi, ha?
+All in?! Kumakabog ang puso ko!
+Lahat sa isang kamay. Walang takot!
+Blackjack! Hindi kapani-paniwala!
+Dalawampu't isa, ganoon lang!
+Blackjack! Mahal ka ng mga baraha ngayong gabi.
+Ang galing ng laro mo!
+Panalo! Magaling.
+Sunod-sunod ang swerte mo!
+Sa iyo na iyan.
+Ang laking panalo! Lahat ay nakatingin sa mesang ito!
+Grabe! Nag-aapoy ka ngayong gabi!
+Muntik na! Sa iyo na ang susunod.
+Sinuwerte ang casino sa pagkakataong iyon.
+Hayaan mo na, may bagong kamay na darating.
+Aray, sobra ng isang baraha.
+Bust! Nangyayari iyan kahit sa pinakamagaling.
+Tabla. Walang talo!
+Push. Ligtas ang chips mo.
+Na-bust ako! Swerte mo.
+Sobra para sa akin. Panalo ka!
+Blackjack para sa casino, pasensya na!
+Blackjack ng dealer. Malas.
+May Ace akong ipinapakita. Insurance?
+Hahatiin! Dalawang pagkakataong manalo.
+Doble. Matapang na galaw!
+Doblehin mo! Isang baraha ang darating.
+Bagong shoe, magbabalasa ako!
+Paubos na? Mapupunuan ka ng kahera.
+Kumakaunti na ang chips mo. Gusto mo pa?
+Ubos na ang chips! Pumunta sa kahera o kumuha ng libreng chips.
+Wala nang laman ang patong mo. Nasa likod mo lang ang kahera.
+Mukha kang pagod na pagod! Kumain ka muna sa bar.
+Ubos na ang lakas? Sagot ka ng bar.
+Dahan-dahan lang.
+Kapag handa ka na!
+Maaga pa ang gabi.
+Kasama mo ang swerte ng baguhan!
+Pabor sa iyo ang deck ngayong gabi!
+Tapos na ang swerte ng baguhan. Mula ngayon patas na ang laro!
+Maligayang pagdating sa casino! Naghihintay na ang upuan mo.
+Magandang gabi! Mainit ang mga mesa ngayong gabi.
+Welcome back! Swerte ka ba ngayon?
+I-tap ang isang mesa para magsimulang maglaro!
+Kailangan mo pa ng chips? Tamang bintana ang napuntahan mo.
+Mas malaking patong, mas malaking bonus!
+Gutom ka? Pumili ng kahit ano sa menu.
+Ang kaunting pagkain ay nagpapanatili ng lakas mo!
+Maligayang pagdating sa mesa ko!
+Ayan ka na! Parang lumiwanag agad ang lugar.
+Feel at home ka. Ikaw ang bida ngayong gabi.
+Gusto ko ang ngiting iyan. Swerteng gabi?
+Relaks lang, nasa mabuting kamay ka rito.
+Uy, ikaw! Umaasa akong dadaan ka sa bintana ko.
+Laging masarap makakita ng palakaibigang mukha.
+Tingnan mo kung sino ang nandito! Nag-eenjoy ka ba?
+Hi diyan, guwapo!
+Gusto ko ang istilo mo ngayong gabi.
+Uy, ang saya kitang makita ulit!
+Masaya ba ang gabi mo? Karapat-dapat ka roon.
+Ingat, baka magsimula na akong mag-cheer para sa iyo.
+Bumalik na ang paborito kong manlalaro!
+Umupo ka sa tabi ko, bibigyan kita ng magandang baraha.
+Mas masaya ang mesang ito dahil sa iyo.
+Aalis ka na agad? Maaga pa ang gabi!
+Sige na, isang kamay pa. Maganda ang pakiramdam ko rito!
+Hindi mo ako puwedeng iwan ngayon, kasisimula pa lang natin!
+Huling pagkakataon! Baka ang susunod na kamay na ang malaki...
+Sige, sige. Pananatilihin kong mainit ang upuan mo. Pangako mong babalik ka?
+Wala pang sunod-sunod? Maglaro ng {2} round ngayon at magsisimula akong magbilang.
+Bagong simula! {2} round at sisindi ang apoy mo.
+May maliit akong listahan ng mga pumupunta araw-araw. Wala ka pa roon... sa ngayon.
+Naghihintay sa iyo ang Araw {1}. {2} round na lang!
+{0} araw nang sunod-sunod... hindi ka titigil ngayon, di ba?
+Medyo malamig ang apoy mo ngayon. Iinit iyan sa {2} round.
+Nagbibilang ako: {0} araw. Gawin nating {1}.
+Huwag mong isiping hindi ko napansin. {2} round pa para mapanatili ang sunod-sunod mo!
+{0} araw nang sunod-sunod? Mukhang gusto mo rito.
+Ligtas ang sunod-sunod mo ngayong araw. Nagpapasikat ka na lang ngayon.
+Araw {0}, tapos na. Bukas sa parehong oras?
+{0} araw! Dapat na yata kitang ipagtabi ng upuan.
+Ayan na: unang araw ng sunod-sunod mo! Bumalik ka bukas at gagawin nating dalawa.
+Isang buong linggo nang sunod-sunod! Talagang humanga ako.
+Tatlumpung araw! Para ka na ring nagtatrabaho rito.
+Isandaang araw. Ikinukuwento kita sa lahat.
+{0} araw na nang sunod-sunod! Tingnan mo ang sarili mo.
+Nailigtas ang sunod-sunod: Araw {0}! Alam kong kaya mo.
+Araw {0}! Pustahan, hindi mo aabutin ang {1}.
+{0} araw... sige na, mayabang.
+Maglaro ng 10 kamay ng blackjack
+Manalo ng 5 kamay ng blackjack
+Makakuha ng blackjack
+Manalo ng 500 chips sa blackjack
+Paikutin ang slots nang 20 beses
+Manalo ng 5 ikot sa slots
+Manalo ng 5× ng taya mo sa slots
+Maglaro ng 5 round ng roulette
+Manalo ng 3 ikot sa roulette
+Tamaan ang isang numero nang diretso
+Maglaro ng 8 kamay ng hold'em
+Manalo ng 4 na kamay ng hold'em
+Maglaro ng 10 kamay ng baccarat
+Manalo ng 5 kamay ng baccarat
+Maglaro ng 15 kamay ng video poker
+Maglaro ng 8 round ng sic bo
+Manalo ng 4 na round ng sic bo
+Ihagis ang dice nang 15 beses sa craps
+Manalo ng 4 na hagis sa craps
+Makabuo ng flush o mas mataas sa video poker
+Royal flush
+Straight flush
+Four of a kind
+Full house
+Flush
+Straight
+Three of a kind
+Two pair
+Pares
+High card
+lokasyon ng GPS
+mobile network
+koneksyon sa internet
+mga setting ng device
+test na bansa
+hindi beripikado (karaniwang presyo)
+hindi alam
+Unang 12
+Ikalawang 12
+Ikatlong 12
+2 sa 1
+PULA
+ITIM
+Jacks o mas mataas
+PATAS NA PRESYO PARA SA BANSA MO
+Iniaangkop ang mga presyo sa tindahan sa ekonomiya ng bansa mo, para patas ang binabayaran ng mga manlalaro saanman.
+Para malaman ang bansa mo, minsan naming tinitingnan ang tinatayang lokasyon mo. Itinutugma ito sa isang bansa sa device mo at hindi kailanman ipinapadala kahit saan. Kung tatanggi ka, karaniwang presyo ang gagamitin.
+MAGPATULOY
+Aalis sa casino?
+Nai-save na ang chips at progreso mo.
+UMALIS
+MANATILI
+Na-unlock ang {0}
+Nailigtas kahapon ng streak freeze ang {0}-araw na sunod-sunod mo.
+{0} streak freeze ang nagligtas sa {1}-araw na sunod-sunod mo.
+Natapos ang {0}-araw na sunod-sunod mo. Maglaro ng {1} round ngayon para magsimula ng bago!
+TAPOS ANG MISYON
++{0} chips
+TAPOS NA LAHAT NG MISYON!
+Pang-araw-araw na bonus +{0} chips. Bagong misyon bukas.
+LEVEL {0}!
+Milestone! +{0} chips
+Bumalik bukas para ituloy
++1 streak freeze
+{0} ARAW NA SUNOD-SUNOD!
+Hindi available ang pagbili sa bersyong ito.
+Nabigo ang pagbili. Hindi ka siningil.
++{0} chips ang naidagdag!
+{0}: {1} kamay na may {2}% swerte, pagkatapos ng Swerte ng Baguhan
+{0}: {1} kamay na may {2}% swerte!
+{0}: +{1}% lakas
+Hindi available sa device na ito
+Hindi maglo-load ang mga video sa network na ito
+Bumalik bukas
+Handa sa loob ng {0}s
++{0} chips ({1} pa ngayong araw)
++{0} libreng chips!
++1 streak freeze!
+Walang video sa ngayon. Subukan ulit mamaya.
+BRONZE
+PILAK
+GINTO
+DIYAMANTE
+Menu
+View
+Cross
+Circle
+Square
+Triangle
+Tinitingnan ang rehiyon mo...
+Hindi beripikado ({0}): karaniwang presyo
+{0} ({1}): presyo sa {2}
+Mga Paalala
+Handa na ang libreng chips at mga paalala sa sunod-sunod
+Handa na ang libreng chips mo
+{0} chips ang naghihintay sa iyo sa Lucky Ace.
+Panatilihin ang {0}-araw na sunod-sunod mo
+Maglaro ng {0} round ngayon para hindi ito ma-reset pagsapit ng hatinggabi.
+BACCARAT
+Maligayang pagdating sa baccarat! Player, Banker, o Tie?
+PLAYER
+TIE
+BANKER
+MGA HULING RESULTA
+P
+B
+T
+I-UNDO
+BURAHIN
+ULITIN
+IBIGAY
+Kulang ang chips para sa tayang iyan.
+Naabot na ang maximum ng mesa
+KABUUANG TAYA  {0}
+Pumili ng chip, saka i-tap ang Player, Banker, o Tie
+TIE  {0}
+PANALO ANG PLAYER  {0} LABAN SA {1}
+PANALO ANG BANKER  {0} LABAN SA {1}
+PANALO  +{0}
+IBINALIK  {0}
+Walang panalo ngayon
+Tapusin muna ang kamay na ito.
+Maligayang pagdating! Kasama mo ang swerte ng baguhan ngayong gabi. Tumaya ka na!
+ANG BLACKJACK AY NAGBABAYAD NG 3 SA 2   •   TUMITIGIL ANG DEALER SA LAHAT NG 17   •   ANG INSURANCE AY NAGBABAYAD NG 2 SA 1
+TAYA
+HIT
+STAND
+DOBLE
+HATIIN
+INSURE
+HINDI, SALAMAT
+TAYA {0}+
+Kulang ang chips
+May Ace ang dealer. Mag-insure sa halagang {0}?
+Nagbabayad ang insurance ng {0}
+Walang blackjack ang dealer. Talo ang insurance.
+BUST
+BUST ANG DEALER
+BLACKJACK!
+PANALO
+PUSH
+TALO
+Tapos na ang swerte ng baguhan. Magsisimula na ngayon ang Swerteng Sunod-sunod mo.
+Tapos na ang swerte ng baguhan. Mula ngayon karaniwang blackjack na.
+Tapos na ang Swerteng Sunod-sunod mo. Balik sa karaniwang blackjack.
+UBOS NA ANG CHIPS
+Manood ng maikling video para sa {0} libreng chips, o pumunta sa kahera.
+Pumunta sa kahera para punuan ang chips mo.
+LIBRENG CHIPS
+KAHERA
+MAMAYA
+“{0}”
+ISANG KAMAY PA
+UMALIS
+SWERTE NG BAGUHAN
+SWERTENG SUNOD-SUNOD
+Welcome bonus para sa mga bagong manlalaro: sa unang <b>{0} kamay</b> mo, nakaayos pabor sa iyo ang shoe ng dealer, kaya mananalo ka sa halos bawat kamay.
+Sa susunod na <b>{0} kamay</b> unti-unting nawawala ang kalamangan, at pagkatapos ay karaniwan at patas na blackjack na ang bawat mesa mula sa binalasang shoe na may 6 na deck (nagbabayad ang blackjack ng 3 sa 2, tumitigil ang dealer sa lahat ng 17).
+Kalamangan ngayon: <b><color=#7CFC9A>{0}%</color></b>   Natitirang kamay: <b>{1}</b>
+Sa susunod mong <b>{0} kamay ng blackjack</b> na may taya hanggang <b>{1} chips</b>, bawat baraha ay may <b>{2}%</b> tsansang maibigay pabor sa iyo (kaparehong kalamangan ng Swerte ng Baguhan).
+Kung mahusay ang laro, nananalo iyon sa mga <b>{0}%</b> ng kamay, kumpara sa mga {1}% sa karaniwang blackjack. Karaniwang blackjack ang mas malalaking taya at hindi nauubos ang mga kamay. Kapag naubos ang mga kamay, karaniwan at patas na blackjack ulit ang bawat mesa.
+NAINTINDIHAN
+GUSTO MO BANG BUMALIK ANG SWERTE MO?
+Tapos na ang Swerte ng Baguhan: mula ngayon karaniwan at patas na blackjack ang bawat mesa. Ibinabalik ng Swerteng Sunod-sunod ang kalamangan nang ilang panahon.
+CRAPS
+Maligayang pagdating sa craps! Tumaya sa Pass Line at maghagis.
+ANIM
+SIYAM
+FIELD
+2 3 4 9 10 11 12  •  doble ang bayad sa 2 at 12
+KAHIT ANONG 7
+KAHIT ANONG CRAPS
+DON'T PASS BAR
+1:1  •  tabla ang 12
+PASS LINE
+ODDS
+tunay na odds
+OFF
+ON
+Inilalagay ang odds sa likod ng Pass Line kapag may point na.
+Kailangan ng taya sa Pass Line para sa odds.
+Nasa pinakamataas na ang odds mo.
+Ang mga taya sa linya ay inilalagay sa unang hagis.
+NASA MESA  {0}
+Unang hagis: tumaya sa Pass Line at ihagis. Ang 7 o 11 ang panalo, ang 2, 3 o 12 ang talo. Umaandar ang mga place bet kapag may point na.
+Ang point ay {0}: ihagis ulit ito bago ang 7. Ang odds sa likod ng Pass Line ay nagbabayad ng tunay na odds.
+IHAGIS
+Ang point ay {0}.
+{0}! Nakuha ang point. Panalo!
+Seven out. Bagong manghahagis, bagong unang hagis.
+{0}, natural! Panalo ang Pass Line.
+{0}, craps. Talo ang linya.
+Hintayin munang huminto ang dice.
+AALIS SA MESA?
+Tumatakbo pa ang taya mo sa linya sa point na {0}. Kapag umalis ka ngayon, mawawala ito.
+ARAW-ARAW
+ARAW-ARAW NA SUNOD-SUNOD
+ARAW NANG SUNOD-SUNOD
+NGAYON
+MANOOD NG AD
+BILHIN
+STREAK FREEZE
+Pinapanatiling buhay ng streak freeze ang sunod-sunod mo sa araw na hindi ka naglaro. Hanggang {0} ang puwede mong itabi.\n\nBumili ng isa sa halagang {1} chips?
+Handa na ang streak freeze.
+Kulang ang chips para sa freeze.
+KANSELAHIN
+ARAW-ARAW NA IKOT
+IKOT
+Tsansa:
+{0}%
+Nanalo ka ng {0} chips!
+MGA MISYON NGAYON
+Pinakamahusay: {0} araw
+Maglaro araw-araw para bumuo ng sunod-sunod
+Tapos na ang layunin ngayon! Kita tayo bukas.
+Ngayon: {0} / {1} round (kahit anong laro)
+Streak freeze: {0} / {1}
+Iligtas ang sunod-sunod mo sa araw na makaligtaan mo. +1 kada 7 araw.
+PUNO
+WALANG VIDEO
+MAY AD NA SANDALI
+Bonus sa sunod-sunod: premyo ×{0}
+Isang libreng ikot araw-araw
+SUSUNOD  {0}
+Tapos na lahat! Nakuha na ang bonus.
+Bagong misyon sa hatinggabi.
+Tapusin ang tatlo: +{0} bonus chips
+HOLD'EM
+Maligayang pagdating sa hold'em! Ilagay ang ante at tingnan natin ang mga baraha.
+ANTE
+BLIND
+MAGLARO
+BAYAD SA BLIND
+Kwalipikado ang dealer kapag may pares o mas mataas
+CHECK
+FOLD
+TUMAYA {0}×
+Ante {0} + blind {0}. Magtabi pa ng {1} para sa raise.
+I-tap ang mga chip para itakda ang ante. Pareho ang blind.
+Check, o tumaya ng tatlo o apat na beses ng ante?
+Mag-raise na ng 4× o 3× ng ante, o mag-check at tingnan ang flop.
+Huling pagkakataon: tumaya ng 1× ng ante, o mag-fold at mawala ang ante at blind.
+Tumaya na ng 2× ng ante, o mag-check at tingnan ang huling dalawang baraha.
+Heto ang flop.
+Ang turn at ang river.
+Tingnan natin ang hawak ko.
+Hindi kwalipikado ang dealer: babalik sa iyo ang ante.
+Nag-fold ka. Iyo ang susunod na kamay.
+MGA LARO
+I-drag sa kaliwa para maglakad  •  I-drag sa kanan para tumingin  •  I-tap para pumunta
+18+ lamang  •  Pang-libangan ang chips: walang halagang pera, hindi kailanman maipagpapalit sa pera o premyo
+Binubuksan ang mga pinto...
+Maligayang pagdating! Handa na ang {0} welcome chips mo. Diretso lang ang mga mesa!
++{0} libreng chips! Mayroon pa pagkalipas ng {1} oras.
+Napupunuan ang libreng chips tuwing {0} oras. Ang susunod ay sa loob ng {1}.
+{0}o {1}m
+{0}m {1}s
+PANATILIHIN ANG SUNOD-SUNOD
+Gusto mo ba ng paalala sa mga gabing hindi ka pa naglalaro, at kapag handa na ang libreng chips mo? Hindi hihigit doon, at puwede mo itong patayin sa Settings.
+PAALALAHANAN MO AKO
++{0} chips ang handa na!
+Manood ng video: {0}
+Susunod na libreng chips sa loob ng {0}
+BLACKJACK
+4 na mesa  •  nagbabayad ng 3 sa 2
+Ultimate Texas Hold'em
+Player, Banker, o Tie
+SLOTS
+Lucky Ace 7s  •  10 linya
+VIDEO POKER
+Jacks or Better
+SIC BO
+Tatlong dice  •  malaki o maliit
+Pass Line  •  Field  •  Odds
+ROULETTE
+European na may iisang zero
+PAGOD NA PAGOD KA NA
+Ubos na ang energy bar mo. Kumuha ng kahit ano sa bar para makapaglaro pa, o bumalik mamaya: dahan-dahang bumabalik ang lakas habang wala ka.
+PUMUNTA SA BAR
+PUMILI NG MESA
+MGA TAYA
+LEVEL {0}
+UMUPO
+KAILANGAN {0}
+Umabot sa level {0} para maglaro rito. Level {1} ka pa lang.
+CASINO
+AA
+BB
+TTTT
+ARAW
+BUWAN
+TAON
+KAILAN KA IPINANGANAK?
+Para sa libangan lamang ang chips. Wala itong halagang pera at hindi kailanman maipagpapalit sa pera o premyo.
+PASENSYA, HINDI KA PUWEDENG MAGLARO
+Para sa mga nasa hustong gulang lamang ang {0}.
+LUMABAS
+Magsasara sa loob ng {0}...
+KUWENTUHAN MO KAMI TUNGKOL SA IYO
+Pipiliin namin ang mga host, dealer at staff ng bar na babagay. Puwede mo itong baguhin anumang oras sa Settings.
+LALAKI AKO
+BABAE AKO
+MAS GUSTO KONG HUWAG SABIHIN
+PUMASOK SA CASINO
+Ang staff mo ngayong gabi:
+Pahina {0} ng {1}
+WIKA
+AWTOMATIKO
+BANSA
+Maligayang pagdating! Ilagay na po ang inyong mga taya.
+Ang limit ng mesa ay {0} kada ikot.
+I-tap ang board para maglagay ng chips
+Wala nang taya!
+BERDE
+berde
+pula
+itim
+Ang galing ng tama! Binabati kita!
+Panalo! Nanalo ka ng {0}.
+{0} {1}. Bumabalik sa iyo ang {2}.
+Ilagay na po ang inyong mga taya.
+Hintaying huminto ang bola.
+SETTINGS
+PANGKALAHATAN
+GRAPHICS
+TUNOG
+TOUCH
+MOUSE
+CONTROLLER
+VIBRATION
+18+ • Walang halagang pera ang chips • Mga font: Bebas Neue, Poppins, Noto (SIL OFL) • Hangganan: Natural Earth • Datos ng presyo: World Bank
+STAFF NG CASINO
+BABAE
+LALAKI
+HALO
+MGA PAALALA
+Handa na ang libreng chips, at paalala sa gabi bago matapos ang sunod-sunod.
+TINGNAN ULIT
+REHIYON NG PRESYO
+Pinakamabilis: ang casino gaya ng pagkakapinta, walang dagdag.
+Nagrereplekta ng silid ang makintab na sahig, kahoy at ginto.
+Itsurang pelikula: graded na kulay, grain, kinang, sinag ng liwanag, buhay na balat.
+Lente ng sinehan: sinusundan ng focus ang tingin mo, guhit sa mga ilaw, alikabok sa sinag.
+KALIDAD
+MABABA
+KATAMTAMAN
+MATAAS
+ULTRA
+RESOLUTION
+Mas malambot ang mas mababa pero mas malamig at nakakatipid ng baterya.
+DISPLAY MODE
+FULLSCREEN
+WINDOWED
+ANTI-ALIASING
+Pinapakinis ang magagaspang na gilid sa casino.
+FRAME RATE
+{0} FPS
+Nakakatipid ng baterya ang 30 FPS at pinapanatiling malamig ang mga lumang telepono.
+V-SYNC
+FIELD OF VIEW
+IPAKITA ANG FPS
+MASTER VOLUME
+MUSIKA
+SOUND EFFECTS
+BOSES NG STAFF
+Ang bulungan ng staff habang nag-uusap.
+I-MUTE SA BACKGROUND
+Pinapatahimik ang casino habang nasa ibang window ka.
+SENSITIVITY NG TINGIN
+Gaano kabilis iniikot ng pag-drag ang view.
+Gaano kabilis iniikot ng pag-drag ng mouse ang view.
+BALIGTARIN ANG TINGIN KALIWA / KANAN
+BALIGTARIN ANG TINGIN TAAS / BABA
+AYOS NG BUTTON
+AUTO
+PAGPALITIN ANG MENU / VIEW
+SENSITIVITY NG STICK
+Gaano kabilis iniikot ng kanang stick ang view.
+BALIGTARIN ANG STICK KALIWA / KANAN
+BALIGTARIN ANG STICK TAAS / BABA
+MGA PAHIWATIG SA CONTROLLER
+Ipinapakita kung ano ang ginagawa ng bawat button habang naglalaro ka gamit ang controller.
+MAG-VIBRATE SA
+TELEPONO
+PAREHO
+Auto: ang controller kapag nakakonekta, kung hindi ang telepono.
+VIBRATION NG TELEPONO
+LAKAS SA TELEPONO
+VIBRATION NG CONTROLLER
+LAKAS SA CONTROLLER
+AWTOMATIKO ({0})
+Binubuksan ng {0} ang Settings, binubuksan ng {1} ang Araw-araw.
+Walang nakakonektang controller.
+Nakakonekta: {0}. Ipinapakita ang mga button ng {1} (A sa kanan ang pagkumpirma).
+Nakakonekta: {0}. Ipinapakita ang mga button ng {1}.
+ANG BAR
+SWERTE
+Ang chips, swerte at pagkain ay mga virtual na item para sa libangan lamang: walang halagang pera, hindi maipapalit sa pera o premyo.
+May ganoong tsansa ang bawat baraha na maibigay pabor sa iyo, sa mga taya sa blackjack hanggang {0} chips (karaniwan ang mas malalaking taya at hindi nauubos ang kamay). Magsisimula pagkatapos ng Swerte ng Baguhan; inuuna ang mas malalakas na pack.
+Payagan ang access sa lokasyon para makuha ang presyo ng bansa mo
+Hindi available ang pagbili sa bersyong ito ng laro.
+TEST STORE (walang totoong pera)
+lakas
++{0}% CHIPS
+{0} kamay
+nananalo sa mga {0}% ng mga ito
+Maligayang pagdating sa sic bo! Malaki, maliit, o mas matapang?
+Ang limitasyon ng mesa ay {0} bawat hagis.
+ALUGIN
+TRIPLE {0}!
+LUCKY ACE 7s
+KABUUANG TAYA
+PAYTABLE
+GOOD LUCK!
+Kailangan mo ng hindi bababa sa 10 chips para makaikot.
+KUMUHA NG CHIPS
+Ibinaba ang taya sa kaya mong bayaran.
+MEGA PANALO!
+MALAKING PANALO!
+IBINALIK {0}
+WALANG PANALO
+LINYA {0}: {1} × {2} = {3}
+{0} BITUIN = {1}
+Cherry
+Lemon
+Dalandan
+Plum
+Kampana
+Bar
+Pito
+Diyamante
+Ace
+Bituin
+Nagbabayad ang mga BITUIN kahit saan: 5 = {0}× taya, 4 = {1}× taya, 3 = {2}× taya.
+Wild ang ACE: pumapalit ito sa lahat ng simbolo maliban sa bituin.
+Ang bayad sa linya ay multiple ng taya sa linya (kabuuang taya ÷ 10), mula kaliwa pakanan simula sa unang reel.
+PAYBACK: {0}% sa pangmatagalan. Bawat ikot ay independyente at random.
+NAKATABI
+Mamigay, itabi ang mga barahang gusto mo, magpalit nang isang beses.
+ITABI
+PAHIWATIG
+PALITAN
+I-tap ang mga baraha para itabi, saka magpalit.
+Lakad
+Tingin
+Mga Button
+Settings
+Araw-araw
+Ayusin
+Galaw
+Piliin
+Isara
+Bumalik
+PAGOD NA
+SWERTE NG BAGUHAN {0}%
+{0} KAMAY NA LANG
+SWERTENG SUNOD-SUNOD {0}%
+{0} KAMAY  •  TAYA HANGGANG {1}
+LEVEL
+Sofia
+Elena
+Mia
+Valentina
+Chloe
+Isabella
+Nadia
+Aria
+Luna
+Camila
+Aurora
+Bianca
+Serena
+Marco
+Leo
+Adrian
+Lucas
+Viktor
+Daniel
+Gabriel
+Ethan
+Julian
+Rafael
+Mateo
+Nico
+Enzo
+MALIGAYANG PAGDATING
+KAUSAPIN ANG HOST
+Direksyon at tips
+CHIPS  •  BONUS
+BUMILI NG CHIPS
+Kahera
+COCKTAILS  •  MERYENDA  •  LAKAS
+PAGKAIN AT INUMIN
+Ang Bar
+ANG BLACKJACK AY NAGBABAYAD NG 3 SA 2
+DAPAT TUMIGIL ANG DEALER SA 17
+MAGLARO NG BLACKJACK
+Mesang {0}  •  taya {1} hanggang {2}
+MAGLARO NG HOLD'EM
+Ultimate Texas Hold'em  •  ante {0} hanggang {1}
+MAGLARO NG BACCARAT
+MALAKI  •  MALIIT  •  TRIPLE
+MAGLARO NG SIC BO
+Tatlong dice  •  1 sa 1 ang malaki o maliit
+PASS LINE  •  FIELD  •  ODDS
+MAGLARO NG CRAPS
+1 sa 1 ang Pass Line  •  tunay na odds ang odds
+MAGLARO NG VIDEO POKER
+MAGLARO NG SLOTS
+Jacks or Better  •  buong 9/6 na talahanayan
+LUCKY ACE 7s  •  NAGBABAYAD HANGGANG 2,500× NG IYONG TAYA SA LINYA
+JACKS OR BETTER  •  800× ANG ROYAL FLUSH
+ILAGAY ANG INYONG TAYA
+MAGLARO NG ROULETTE
+European wheel  •  ang diretsong numero ay nagbabayad ng 35 sa 1
+UMORDER NG INUMIN
+Si {0} ang magdadala nito
+Bubukas ang {0} sa level {1}. Level {2} ka: bawat round na nilalaro mo ay binibilang.
+Kailangan ng mesang ito ng hindi bababa sa {0} chips.
+Diretso lang ang mga mesa ng blackjack. Lapitan ang isa at umupo!
+Nasa kanang dingding ang mga slot machine, nasa likod na dingding ang video poker, at nasa pinakalikod ang roulette.
+Nasa kaliwang sulok sa likod ang hold'em, lampas sa bar.
+Nasa kaliwa agad ang baccarat pagpasok mo.
+Nasa sulok lampas sa cashier ang sic bo: tatlong dice, malaki o maliit.
+Nasa kanan ang mesa ng craps, sa harap ng mga slot. Tumaya sa Pass Line at maghagis!
+Nandito lang sa kanan mo ang kahera, at nasa kaliwang pader ang bar.
+Pagod ka na? Isang meryenda sa bar ang agad na pupuno sa lakas mo.
+I-tap kahit saan sa sahig at maglalakad ka roon. I-tap ang isang mesa para umupo.
+Andorra
+United Arab Emirates
+Afghanistan
+Antigua & Barbuda
+Anguilla
+Albania
+Armenia
+Angola
+Antarctica
+Argentina
+American Samoa
+Austria
+Australia
+Aruba
+Åland Islands
+Azerbaijan
+Bosnia and Herzegovina
+Barbados
+Bangladesh
+Belgium
+Burkina Faso
+Bulgaria
+Bahrain
+Burundi
+Benin
+St. Barthélemy
+Bermuda
+Brunei
+Bolivia
+Caribbean Netherlands
+Brazil
+Bahamas
+Bhutan
+Bouvet Island
+Botswana
+Belarus
+Belize
+Canada
+Cocos (Keeling) Islands
+Congo - Kinshasa
+Central African Republic
+Congo - Brazzaville
+Switzerland
+Côte d’Ivoire
+Cook Islands
+Chile
+Cameroon
+China
+Colombia
+Costa Rica
+Cuba
+Cape Verde
+Curaçao
+Christmas Island
+Cyprus
+Czechia
+Germany
+Djibouti
+Denmark
+Dominica
+Dominican Republic
+Algeria
+Ecuador
+Estonia
+Egypt
+Kanlurang Sahara
+Eritrea
+Spain
+Ethiopia
+Finland
+Fiji
+Falkland Islands
+Micronesia
+Faroe Islands
+France
+Gabon
+United Kingdom
+Grenada
+Georgia
+French Guiana
+Guernsey
+Ghana
+Gibraltar
+Greenland
+Gambia
+Guinea
+Guadeloupe
+Equatorial Guinea
+Greece
+South Georgia & South Sandwich Islands
+Guatemala
+Guam
+Guinea-Bissau
+Guyana
+Hong Kong SAR China
+Heard & McDonald Islands
+Honduras
+Croatia
+Haiti
+Hungary
+Indonesia
+Ireland
+Israel
+Isle of Man
+India
+British Indian Ocean Territory
+Iraq
+Iran
+Iceland
+Italy
+Jersey
+Jamaica
+Jordan
+Japan
+Kenya
+Kyrgyzstan
+Cambodia
+Kiribati
+Comoros
+St. Kitts & Nevis
+Hilagang Korea
+Timog Korea
+Kuwait
+Cayman Islands
+Kazakhstan
+Laos
+Lebanon
+Saint Lucia
+Liechtenstein
+Sri Lanka
+Liberia
+Lesotho
+Lithuania
+Luxembourg
+Latvia
+Libya
+Morocco
+Monaco
+Moldova
+Montenegro
+Saint Martin
+Madagascar
+Marshall Islands
+North Macedonia
+Mali
+Myanmar (Burma)
+Mongolia
+Macau SAR China
+Northern Mariana Islands
+Martinique
+Mauritania
+Montserrat
+Malta
+Mauritius
+Maldives
+Malawi
+Mexico
+Malaysia
+Mozambique
+Namibia
+New Caledonia
+Niger
+Norfolk Island
+Nigeria
+Nicaragua
+Netherlands
+Norway
+Nepal
+Nauru
+Niue
+New Zealand
+Oman
+Panama
+Peru
+French Polynesia
+Papua New Guinea
+Pilipinas
+Pakistan
+Poland
+St. Pierre & Miquelon
+Pitcairn Islands
+Puerto Rico
+Palestinian Territories
+Portugal
+Palau
+Paraguay
+Qatar
+Réunion
+Romania
+Serbia
+Russia
+Rwanda
+Saudi Arabia
+Solomon Islands
+Seychelles
+Sudan
+Sweden
+Singapore
+St. Helena
+Slovenia
+Svalbard & Jan Mayen
+Slovakia
+Sierra Leone
+San Marino
+Senegal
+Somalia
+Suriname
+Timog Sudan
+São Tomé & Príncipe
+El Salvador
+Sint Maarten
+Syria
+Swaziland
+Turks & Caicos Islands
+Chad
+French Southern Territories
+Togo
+Thailand
+Tajikistan
+Tokelau
+Timor-Leste
+Turkmenistan
+Tunisia
+Tonga
+Türkiye
+Trinidad & Tobago
+Tuvalu
+Taiwan
+Tanzania
+Ukraine
+Uganda
+U.S. Outlying Islands
+Estados Unidos
+Uruguay
+Uzbekistan
+Vatican City
+St. Vincent & Grenadines
+Venezuela
+British Virgin Islands
+U.S. Virgin Islands
+Vietnam
+Vanuatu
+Wallis & Futuna
+Samoa
+Kosovo
+Yemen
+Mayotte
+South Africa
+Zambia
+Zimbabwe
+Ingles
+Afrikaans
+Amharic
+Arabic
+Azerbaijani
+Belarusian
+Bulgarian
+Bangla
+Bosnian
+Catalan
+Czech
+Danish
+German
+Greek
+Spanish
+Estonian
+Basque
+Persian
+Finnish
+Filipino
+French
+Irish
+Galician
+Gujarati
+Hausa
+Hebrew
+Hindi
+Croatian
+French (Haiti)
+Hungarian
+Armenian
+Indonesian
+Igbo
+Icelandic
+Italian
+Japanese
+Georgian
+Kazakh
+Khmer
+Kannada
+Korean
+Kirghiz
+Luxembourgish
+Lao
+Lithuanian
+Latvian
+Malagasy
+Macedonian
+Malayalam
+Mongolian
+Marathi
+Malay
+Maltese
+Burmese
+Norwegian Bokmål
+Nepali
+Dutch
+Punjabi
+Polish
+Pashto
+Portuguese (Brazil)
+Portuguese (Portugal)
+Romansh
+Romanian
+Russian
+Kinyarwanda
+Sinhala
+Slovak
+Slovenian
+Somali
+Albanian
+Serbian
+Swedish
+Swahili
+Tamil
+Telugu
+Tajik
+Thai
+Turkmen
+Turkish
+Ukranian
+Urdu
+Uzbek
+Vietnamese
+Xhosa
+Yoruba
+Chinese (Pinasimple)
+Chinese (Tradisyonal)
+Zulu
+Lin
+Lun
+Mar
+Miy
+Huw
+Biy
+Sab

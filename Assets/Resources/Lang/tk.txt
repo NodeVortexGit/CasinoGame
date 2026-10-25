@@ -1,0 +1,1004 @@
+KIÇI
+ULY
+TAK
+JÜBÜT
+ISLENDIK ÜÇLÜK
+Bir penje fişka
+Bir üýşmek fişka
+Bir bulgur fişka
+Bir tekje fişka
+IŇ MEŞHUR
+Fişka hazynasy
+Uly oýunçynyň seýfi
+IŇ BAHALY
+Gazly suw
+Espresso
+Energetik içgi
+Klub sendwiçi
+Burger nahary
+Steýk agşam nahary
+DOLY DOLDURMAK
+Bagtly hatar
+Gyzgyn hatar
+IŇ KÖP BAGT
+Bürünç stol
+Kümüş stol
+Altyn stol
+Almaz stol
+Hold'em stoly
+Dogry ýyly giriziň.
+Dogry aýy giriziň (1-12).
+Dogry güni giriziň.
+Bu sene geljekde.
+Stolyma hoş geldiň! Oýnamaga taýynmy?
+Seni görenime şat. Otur!
+Salam! Kartlar täze, menem şeýle.
+Hoş geldiň! Gel, bu agşamy ajaýyp edeli.
+Taýyn bolanyňda bäsiňi goý.
+Fişkalary stola goý, kartlara seredeli.
+Näme üçin oýnaýarys?
+Wah, uly bäs! Stiliň maňa ýaraýar.
+Ine, bu bäs. Başladyk!
+Şu agşam batyr, şeýle dälmi?
+Hemmesini?! Ýüregim ýarylýar!
+Hemme zat bir ele. Gorkman!
+Blackjack! Ajaýyp!
+Ýigrimi bir, şeýle bir!
+Blackjack! Kartlar şu agşam seni söýýär.
+Gowy oýnadyň!
+Ýeňiji! Berekella.
+Işiň oňuna barýar!
+Ol seniňki.
+Nähili ýeňiş! Hemmeler bu stola seredýär!
+Ullakan! Şu agşam ýanýarsyň!
+Gaty ýakyn! Indikisi seniňki.
+Bu gezek kazino bagtly boldy.
+Üns berme, täze el gelýär.
+Waý, bir kart artyk.
+Geçdiň! Iň gowulara-da bolýar.
+Deňme-deň. Hiç kim utulmaýar!
+Deňme-deň. Fişkalaryň howpsuz.
+Men geçdim! Bagtyň bar.
+Maňa köp boldy. Sen ýeňdiň!
+Kazino üçin blackjack, bagyşla!
+Dilerde blackjack. Bagtsyzlyk.
+Tuz görkezýärin. Ätiýaçlandyryş?
+Bölýäris! Ýeňmek üçin iki mümkinçilik.
+Iki esse. Batyr ädim!
+Iki esse et! Bir kart gelýär.
+Täze aýakgap, garyşdyrýaryn!
+Azalýarmy? Kassa seni doldurar.
+Fişkalar azalýar. Ýene isleýäňmi?
+Fişkalar gutardy! Kassa bar ýa-da mugt fişka al.
+Üýşmegiň boş. Kassa edil arkaňda.
+Gaty ýadaw görünýärsiň! Barda bir zat iý.
+Güýjüň gutardymy? Bar saňa ideg eder.
+Howlukma.
+Haçan taýyn bolsaň!
+Gije entek ýaş.
+Täze başlaýanyň bagty seniň bilen!
+Şu agşam kartlar seniň tarapyňda!
+Täze başlaýanyň bagty gutardy. Mundan beýläk oýun adalatly!
+Kazinoa hoş geldiň! Ýeriň seni garaşýar.
+Agşamyňyz haýyrly! Şu agşam stollar gyzgyn.
+Ýene hoş geldiň! Özüňi bagtly duýýarsyňmy?
+Oýna başlamak üçin stola bas!
+Köpräk fişka gerekmi? Dogry penjirä geldiň.
+Has uly üýşmekler, has uly bonuslar!
+Açmy? Menýudan isleýäniňi saýla.
+Azajyk nahar energiýaňy ýokary saklaýar!
+Stolyma hoş geldiň!
+Ine sen! Bu ýer eýýäm has ýagty.
+Özüňi öýdäki ýaly duý. Şu agşam hemme zat seniň üçin.
+Şol ýylgyryşy söýýärin. Bagtly agşammy?
+Rahatlan, bu ýerde ygtybarly ellerde.
+Heý, sen! Penjireme sowlarsyň diýip umyt edýärdim.
+Mähirli ýüzi görmek hemişe ýakymly.
+Seret, kim gelipdir! Keýpiň kökmi?
+Salam, owadan!
+Şu agşam stiliň maňa ýaraýar.
+Heý, seni ýene görenime şat!
+Agşamyň gowumy? Muňa mynasyp.
+Seresap bol, saňa janköýerlik edip başlamagym mümkin.
+Iň halaýan oýunçym gaýdyp geldi!
+Ýanymda otur, saňa owadan bir zat paýlaýyn.
+Sen bilen bu stol has gyzykly.
+Eýýäm gidýärsiňmi? Gije entek ýaş!
+Gel, ýene bir el. Gowy duýgym bar!
+Meni häzir taşlap gidip bilmersiň, ýaňy başladyk!
+Soňky mümkinçilik! Indiki el uly bolup biler...
+Bolýar, bolýar. Ýeriňi ýyly saklaryn. Gaýdyp geljekdigiňe söz berýärmiň?
+Heniz hatar ýokmy? Şu gün tapgyr oýna ({2}), men sanap başlaryn.
+Täze başlangyç! Tapgyrlar ({2}) we ýalnyň ýanýar.
+Her gün gelýänleriň kiçijik sanawyny saklaýaryn. Sen onda ýok... häzirlikçe.
+{1}-nji gün seni garaşýar. Galan tapgyrlar: {2}!
+Yzygiderli günler: {0}... indi duruzmarsyň-a?
+Ýalnyň şu gün biraz sowuk görünýär. Tapgyrlar ({2}) ony gyzdyrar.
+Sanaýaryn: {0} gün. Gel, {1} edeli.
+Üns bermedim öýtme. Hataryňy saklamak üçin galan tapgyrlar: {2}!
+Yzygiderli günler: {0}? Bu ýer saňa ýaraýana meňzeýär.
+Hataryň şu gün howpsuz. Indi diňe öwünýärsiň.
+{0}-nji gün tamam. Ertir şol wagt?
+{0} gün! Saňa ýer saklamaly.
+Ine: hataryňyň ilkinji güni! Ertir gaýdyp gel, iki ederis.
+Bütin bir hepde yzygiderli! Hakykatdanam haýran galdym.
+Otuz gün! Diýen ýaly şu ýerde işleýärsiň.
+Ýüz gün. Hemmelere seniň barada gürrüň berýärin.
+Eýýäm yzygiderli {0} gün! Özüňe seret.
+Hatar halas edildi: {0}-nji gün! Başarjakdygyňy bilýärdim.
+{0}-nji gün! Bäs tutuşýaryn, {1}-e ýetmersiň.
+{0} gün... bolýar, öwünjeň.
+10 el blackjack oýna
+5 el blackjackda ýeň
+Blackjack ýygna
+Blackjackda 500 fişka utup al
+Slotlary 20 gezek aýla
+5 slot aýlawynda ýeň
+Slotlarda bäsiňiň 5 essesini utup al
+5 tapgyr rulet oýna
+3 rulet aýlawynda ýeň
+Bir sany göni tap
+8 gezek hold'em oýna
+4 gezek hold'emde ut
+10 gezek bakkara oýna
+5 gezek bakkarada ut
+15 gezek wideo poker oýna
+8 tapgyr sic bo oýna
+4 tapgyr sic boda ut
+Crapsda süýekleri 15 gezek at
+Crapsda 4 zyňyşda ut
+Wideo pokerde fleş ýa-da has gowusyny ýygna
+Roýal fleş
+Strit fleş
+Kare
+Ful haus
+Fleş
+Strit
+Üçlük
+Iki jübüt
+Jübüt
+Ýokary karta
+GPS ýerleşişi
+ykjam ulgam
+internet baglanyşygy
+enjam sazlamalary
+synag ýurdy
+tassyklanmadyk (adaty baha)
+näbelli
+1-nji 12
+2-nji 12
+3-nji 12
+2-ä 1
+GYZYL
+GARA
+Walet ýa-da ýokary
+ÝURDUŇ ÜÇIN ADALATLY BAHALAR
+Dükan bahalary ýurduňyň ykdysadyýetine laýyklaşdyrylýar, şeýdip oýunçylar hemme ýerde adalatly baha töleýär.
+Ýurduňy tapmak üçin takmynan ýerleşişiňi bir gezek barlaýarys. Ol enjamyňda ýurt bilen deňeşdirilýär we hiç ýere iberilmeýär. Ret etseň, adaty bahalar ulanylýar.
+DOWAM ET
+Kazinodan çykýarsyňmy?
+Fişkalaryň we ösüşiň ýatda saklandy.
+ÇYK
+GAL
+Açyldy: {0}
+Hatar doňduryjy düýn {0} günlük hataryňy halas etdi.
+Doňduryjylar ({0}) {1} günlük hataryňy halas etdi.
+{0} günlük hataryň gutardy. Täzesine başlamak üçin şu gün tapgyr oýna ({1})!
+WEZIPE ÝERINE ÝETIRILDI
++{0} fişka
+ÄHLI WEZIPELER ÝERINE ÝETIRILDI!
+Gündelik bonus +{0} fişka. Täze wezipeler ertir.
+DEREJE {0}!
+Möhüm tapgyr! +{0} fişka
+Dowam etmek üçin ertir gaýdyp gel
++1 hatar doňduryjy
+{0} GÜNLÜK HATAR!
+Bu wersiýada satyn almak elýeterli däl.
+Satyn alyş başa barmady. Senden pul alynmady.
++{0} fişka goşuldy!
+{0}: {1} el, {2}% bagt, täze başlaýanyň bagtyndan soň
+{0}: {1} el, {2}% bagt!
+{0}: +{1}% energiýa
+Bu enjamda elýeterli däl
+Bu ulgamda wideolar ýüklenmeýär
+Ertir gaýdyp gel
+{0} sekuntdan taýyn
++{0} fişka (şu gün {1} galdy)
++{0} mugt fişka!
++1 hatar doňduryjy!
+Häzir wideo ýok. Biraz soň gaýtadan synanyş.
+BÜRÜNÇ
+KÜMÜŞ
+ALTYN
+ALMAZ
+Menýu
+Görnüş
+Haç
+Tegelek
+Inedördül
+Üçburçluk
+Sebitiň barlanýar...
+Tassyklanmadyk ({0}): adaty bahalar
+{0} ({1}): bahalar {2} bilen
+Ýatlatmalar
+Mugt fişkalar taýyn we hatar ýatlatmalary
+Mugt fişkalaryň taýyn
+Lucky Ace-de seni {0} fişka garaşýar.
+{0} günlük hataryňy sakla
+Ýary gijede nola düşmez ýaly şu gün tapgyr oýna ({0}).
+BAKKARA
+Bakkara hoş geldiň! Oýunçy, Bankir ýa-da Deňme-deň?
+OÝUNÇY
+DEŇME-DEŇ
+BANKIR
+SOŇKY NETIJELER
+O
+B
+D
+YZA AL
+ARASSALA
+GAÝTADAN BÄS
+PAÝLA
+Bu bäs üçin fişka ýeterlik däl.
+Stoluň iň ýokarysyna ýetildi
+JEMI BÄS  {0}
+Fişka saýla, soňra Oýunçy, Bankir ýa-da Deňme-deň bas
+DEŇME-DEŇ  {0}
+OÝUNÇY UTDY  {0}–{1}
+BANKIR UTDY  {0}–{1}
+UTUŞ  +{0}
+GAÝTARYLDY  {0}
+Bu gezek utuş ýok
+Ilki bu eli tamamla.
+Hoş geldiň! Şu agşam täze başlaýanyň bagty seniň bilen. Bäs goý!
+BLACKJACK 3-E 2 TÖLEÝÄR   •   DILER ÄHLI 17-DE DURÝAR   •   ÄTIÝAÇLANDYRYŞ 2-Ä 1 TÖLEÝÄR
+BÄS
+KART
+DUR
+IKI ESSE
+BÖL
+ÄTIÝAÇLANDYR
+ÝOK, SAG BOL
+BÄS {0}+
+Fişka ýeterlik däl
+Diler tuz görkezýär. {0} bilen ätiýaçlandyrmaly?
+Ätiýaçlandyryş töleýär: {0}
+Dilerde blackjack ýok. Ätiýaçlandyryş ýitdi.
+GEÇDIŇ
+DILER GEÇDI
+BLACKJACK!
+ÝEŇIŞ
+DEŇME-DEŇ
+UTULYŞ
+Täze başlaýanyň bagty gutardy. Bagtly hataryň indi başlaýar.
+Täze başlaýanyň bagty gutardy. Mundan beýläk adaty blackjack.
+Bagtly hataryň gutardy. Adaty blackjacka gaýdýarys.
+FIŞKALAR GUTARDY
+{0} mugt fişka üçin gysga wideo gör ýa-da kassa bar.
+Fişkalaryňy doldurmak üçin kassa bar.
+MUGT FIŞKALAR
+KASSA
+SOŇRA
+“{0}”
+ÝENE BIR EL
+GIT
+TÄZE BAŞLAÝANYŇ BAGTY
+BAGTLY HATAR
+Täze oýunçylar üçin hoş geldiň bonusy: ilkinji <b>{0} el</b> dowamynda dileriň aýakgaby seniň peýdaňa düzülen, şonuň üçin diýen ýaly her eli utarsyň.
+Indiki <b>{0} el</b> dowamynda artykmaçlyk kem-kemden azalýar, soňra her stol garyşdyrylan 6 desseli aýakgapdan paýlanýan adaty, adalatly blackjack bolýar (blackjack 3-e 2 töleýär, diler ähli 17-de durýar).
+Häzirki artykmaçlyk: <b><color=#7CFC9A>{0}%</color></b>   Galan eller: <b>{1}</b>
+Indiki <b>{0} blackjack elinde</b> <b>{1} fişka</b> çenli bäs bilen her kartyň seniň peýdaňa düşmek mümkinçiligi <b>{2}%</b> (täze başlaýanyň bagty bilen birmeňzeş artykmaçlyk).
+Gowy oýun bilen bu elleriň takmynan <b>{0}%</b>-ini utýar, adaty blackjackda bolsa takmynan {1}%. Has uly bäsler adaty blackjack bolup, elleri harçlamaýar. Eller gutaranda her stol ýene adaty, adalatly blackjack bolýar.
+DÜŞÜNDIM
+BAGTYŇY YZYNA ISLEÝÄŇMI?
+Täze başlaýanyň bagty gutardy: mundan beýläk her stol adaty, adalatly blackjack. Bagtly hatar artykmaçlygy birnäçe wagtlyk gaýtaryp berýär.
+CRAPS
+Craps hoş geldiň! Pass Line-a goý we at.
+ALTY
+DOKUZ
+FIELD
+2 3 4 9 10 11 12  •  2 we 12 iki esse tölär
+ISLENDIK 7
+ISLENDIK CRAPS
+DON'T PASS BAR
+1:1  •  12 deňme-deň
+PASS LINE
+ODDS
+hakyky koeffisiýent
+ÖÇÜK
+AÇYK
+Bal bar bolanda odds Pass Line-yň aňyrsyna goýulýar.
+Odds üçin Pass Line-a goýum gerek.
+Odds goýumyň iň ýokarda.
+Çyzyk goýumlary ilkinji zyňyşda goýulýar.
+STOLDA  {0}
+Ilkinji zyňyş: Pass Line-a goý, soňra at. 7 ýa-da 11 utýar, 2, 3 ýa-da 12 utulýar. Place goýumlary bal bar bolanok işläp başlaýar.
+Bal {0}: ony 7-den öň ýene at. Pass Line-yň aňyrsyndaky odds hakyky koeffisiýentde tölär.
+AT
+Bal {0}.
+{0}! Bal gazanyldy. Utuş!
+Ýedi çykdy. Täze zyňyjy, täze ilkinji zyňyş.
+{0}, natural! Pass Line utýar.
+{0}, craps. Çyzyk utulýar.
+Süýekler durýança garaş.
+STOLDAN GIDÝÄŇMI?
+Çyzyk goýumyň entek {0} balda oýnaýar. Häzir gitseň, ony ýitirersiň.
+GÜNDELIK
+GÜNDELIK HATAR
+YZYGIDERLI GÜN
+ŞU GÜN
+MAHABATA SERET
+SATYN AL
+HATAR DOŇDURYJY
+Hatar doňduryjy oýnamadyk güniňde hataryňy saklaýar. {0} sanysyna çenli saklap bilersiň.\n\n{1} fişka birini satyn almalymy?
+Hatar doňduryjy taýyn.
+Doňduryjy üçin fişka ýeterlik däl.
+ÝATYR
+GÜNDELIK AÝLAW
+AÝLA
+Mümkinçilikler:
+{0}%
+Sen {0} fişka utduň!
+ŞU GÜNKI WEZIPELER
+Rekord: {0} gün
+Hatar gurmak üçin her gün oýna
+Şu günki maksat ýerine ýetirildi! Ertir görüşeris.
+Şu gün: {0} / {1} tapgyr (islendik oýun)
+Hatar doňduryjylar: {0} / {1}
+Sypdyran güniňde hataryňy halas et. Her 7 günden +1.
+DOLY
+WIDEO ÝOK
+MAHABAT ÝAKYNDA
+Hatar bonusy: baýraklar ×{0}
+Her gün bir mugt aýlaw
+INDIKI  {0}
+Hemmesi tamam! Bonus alyndy.
+Täze wezipeler ýary gijede.
+Üçüsini-de tamamla: +{0} bonus fişka
+HOLD'EM
+Hold'em hoş geldiň! Ante goý, kartlara seredeliň.
+ANTE
+BLIND
+OÝNA
+BLIND TÖLEÝÄR
+Diler jübüt ýa-da has gowusy bilen saýlanýar
+CHECK
+FOLD
+GOÝ {0}×
+Ante {0} + blind {0}. Galdyrmak üçin ýene {1} sakla.
+Ante üçin fişkalara bas. Blind deň.
+Check, ýa-da antäniň üç ýa-da dört essesi?
+Häzir antäniň 4× ýa-da 3× essesine galdyr ýa-da check edip flopa seret.
+Soňky mümkinçilik: antäniň 1× essesini goý ýa-da fold et we ante bilen blind-i ýitir.
+Häzir antäniň 2× essesini goý ýa-da check edip soňky iki karta seret.
+Ine flop.
+Turn we river.
+Görüp göreli, mende näme bar.
+Diler saýlanmady: anteň yzyna gaýdýar.
+Fold etdiň. Indiki el seniňki.
+OÝUNLAR
+Ýöremek üçin çepde süýşür  •  Seretmek üçin sagda süýşür  •  Gitmek üçin bas
+Diňe 18+  •  Fişkalar güýmenje üçin: pul gymmaty ýok, hiç haçan pula ýa-da baýraga çalşylmaýar
+Gapylar açylýar...
+Hoş geldiň! {0} hoş geldiň fişkaň taýyn. Stollar edil öňüňde!
++{0} mugt fişka! Ýene {1} sagatdan.
+Mugt fişkalar her {0} sagatdan dolýar. Indikisi {1} soň.
+{0} sag {1} min
+{0} min {1} sek
+HATARYŇY SAKLA
+Entek oýnamadyk agşamlaryňda we mugt fişkalaryň taýyn bolanda ýatlatma isleýäňmi? Mundan artyk hiç haçan, we ony Sazlamalarda öçürip bilersiň.
+ÝATLAT
++{0} fişka taýyn!
+Wideo gör: {0}
+Indiki mugt fişkalar {0} soň
+BLACKJACK
+4 stol  •  3-e 2 töleýär
+Ultimate Texas Hold'em
+Oýunçy, Bankir ýa-da Deňme-deň
+SLOTLAR
+Lucky Ace 7s  •  10 çyzyk
+WIDEO POKER
+Jacks or Better
+SIC BO
+Üç süýek  •  uly ýa-da kiçi
+Pass Line  •  Field  •  Odds
+RULET
+Ýewropa, bir nolly
+SEN GATY ÝADADYŇ
+Energiýa zolagyň boş. Oýnamagy dowam etmek üçin bardan bir zat al ýa-da soňra gaýdyp gel: sen ýok wagtyň energiýa haýal dikelýär.
+BARA GIT
+STOLUŇY SAÝLA
+BÄSLER
+DEREJE {0}
+OTUR
+GEREK: {0}
+Bu ýerde oýnamak üçin {0} derejä ýet. Seniň derejäň {1}.
+KAZINO
+GG
+AA
+ÝÝÝÝ
+GÜN
+AÝ
+ÝYL
+HAÇAN DOGLUŇ?
+Fişkalar diňe güýmenje üçin. Olaryň pul gymmaty ýok we hiç haçan pula ýa-da baýraga çalşyp bolmaýar.
+BAGYŞLA, OÝNAP BILMERSIŇ
+{0} diňe ulular üçin.
+ÇYKYŞ
+{0} soň ýapylýar...
+ÖZÜŇ BARADA AÝT
+Saňa laýyk alyp baryjylary, dilerleri we bar işgärlerini saýlarys. Muny islendik wagt Sazlamalarda üýtgedip bilersiň.
+MEN ERKEK
+MEN AÝAL
+AÝTMAZLYGY ÜSTÜN GÖRÝÄRIN
+KAZINOA GIR
+Şu agşamky işgärleriň:
+Sahypa {0} / {1}
+DIL
+AWTOMATIK
+ÝURT
+Hoş geldiňiz! Bäsleriňizi goýuň, haýyş edýärin.
+Stol çägi her aýlaw üçin {0}.
+Fişka goýmak üçin tagta bas
+Bäsler kabul edilmeýär!
+ÝAŞYL
+ýaşyl
+gyzyl
+gara
+Nähili urgy! Gutlaýarys!
+Ýeňiji! Utuşyň: {0}.
+{0} {1}. Saňa gaýdyp gelýär: {2}.
+Bäsleriňizi goýuň, haýyş edýärin.
+Top durýança garaş.
+SAZLAMALAR
+UMUMY
+GRAFIKA
+SES
+DEGMEK
+SYÇAN
+KONTROLLER
+TITREME
+18+ • Fişkalaryň pul gymmaty ýok • Şriftler: Bebas Neue, Poppins, Noto (SIL OFL) • Serhetler: Natural Earth • Baha maglumatlary: Bütindünýä banky
+KAZINO IŞGÄRLERI
+AÝALLAR
+ERKEKLER
+GARYŞYK
+ÝATLATMALAR
+Mugt fişkalar taýyn, we hatar gutarmazdan öň agşamky ýatlatma.
+GAÝTADAN BARLA
+BAHA SEBITI
+Iň çalt: kazino çekilişi ýaly, artykmaç zat ýok.
+Ýalpyldawuk pol, agaç we altyn zaly şöhlelendirýär.
+Kino görnüşi: reňk düzedişi, dänejik, ýalkym, ýagtylyk şöhleleri, janly deri.
+Kino obýektiwi: fokus nazaryňy yzarlaýar, çyralarda zolaklar, şöhlelerde tozan.
+HIL
+PES
+ORTA
+ÝOKARY
+ULTRA
+ÇÖZGÜDI
+Pesi has ýumşak, emma telefon az gyzýar we batareýa tygşytlaýar.
+EKRAN REŽIMI
+DOLY EKRAN
+PENJIRE
+GYRALARY ÝYLMANAKLAMAK
+Kazinodaky gädik gyralary ýylmanaklaýar.
+KADR TIZLIGI
+{0} FPS
+30 FPS batareýany tygşytlaýar we köne telefonlary salkyn saklaýar.
+V-SYNC
+GÖRÜŞ MEÝDANY
+FPS GÖRKEZ
+UMUMY SES
+SAZ
+SES EFFEKTLERI
+IŞGÄRLERIŇ SESLERI
+Işgärleriň gürleşende çykarýan hümürdisi.
+FONDA SESSIZ
+Başga penjirede wagtyň kazinonyň sesini öçürýär.
+SERETMEK DUÝGURLYGY
+Süýşürmegiň görnüşi näçe çalt öwürýändigi.
+Syçan bilen süýşürmegiň görnüşi näçe çalt öwürýändigi.
+SERETMEGI TERS ET ÇEP / SAG
+SERETMEGI TERS ET ÝOKARY / AŞAK
+DÜWME ÝERLEŞIŞI
+AWTO
+MENÝU / GÖRNÜŞ ÇALŞ
+TAÝAKJYK DUÝGURLYGY
+Sag taýakjygyň görnüşi näçe çalt öwürýändigi.
+TAÝAKJYGY TERS ET ÇEP / SAG
+TAÝAKJYGY TERS ET ÝOKARY / AŞAK
+KONTROLLER MASLAHATLARY
+Kontroller bilen oýnanyňda her düwmäniň näme edýändigini görkezýär.
+TITRET
+TELEFON
+IKISI HEM
+Awto: birikdirilen bolsa kontroller, bolmasa telefon.
+TELEFON TITREMESI
+TELEFON GÜÝJI
+KONTROLLER TITREMESI
+KONTROLLER GÜÝJI
+AWTOMATIK ({0})
+{0} Sazlamalary açýar, {1} Gündeligi açýar.
+Kontroller birikdirilmedik.
+Birikdirildi: {0}. {1} düwmeleri görkezilýär (sagdaky A tassyklaýar).
+Birikdirildi: {0}. {1} düwmeleri görkezilýär.
+BAR
+BAGT
+Fişkalar, bagt we nahar diňe güýmenje üçin wirtual zatlar: pul gymmaty ýok, pula ýa-da baýraga çalşylmaýar.
+Her kartyň seniň peýdaňa düşmek üçin şeýle mümkinçiligi bar, {0} fişka çenli blackjack bäslerinde (has uly bäsler adaty we elleri harçlamaýar). Täze başlaýanyň bagtyndan soň başlaýar; has güýçli toplumlar ilki ulanylýar.
+Ýurduňyň bahasyny almak üçin ýerleşişe rugsat ber
+Oýnuň bu wersiýasynda satyn almak elýeterli däl.
+SYNAG DÜKANY (hakyky pul däl)
+energiýa
++{0}% FIŞKA
+{0} el
+olaryň takmynan {0}%-ini utýar
+Sic bo hoş geldiň! Uly, kiçi ýa-da has batyrgaý bir zat?
+Stol çägi her zyňyşa {0}.
+SILKELE
+ÜÇLÜK {0}!
+LUCKY ACE 7s
+JEMI BÄS
+TÖLEG TABLISASY
+ÜSTÜNLIK!
+Aýlamak üçin azyndan 10 fişka gerek.
+FIŞKA AL
+Bäs töläp biljek mukdaryňa çenli azaldyldy.
+MEGA UTUŞ!
+ULY UTUŞ!
+GAÝTARYLDY {0}
+UTUŞ ÝOK
+ÇYZYK {0}: {1} × {2} = {3}
+{0} ÝYLDYZ = {1}
+Alça
+Limon
+Apelsin
+Garaly
+Jaň
+Bar
+Ýedi
+Almaz
+Tuz
+Ýyldyz
+ÝYLDYZLAR islendik ýerde töleýär: 5 = bäs ×{0}, 4 = bäs ×{1}, 3 = bäs ×{2}.
+TUZ joker: ýyldyzdan başga her nyşanyň ornuny tutýar.
+Çyzyk tölegleri çyzyk bäsiniň (jemi bäs ÷ 10) essesi, birinji barabandan çepden saga.
+GAÝTARYŞ: uzak möhletde {0}%. Her aýlaw garaşsyz we tötänleýin.
+SAKLANDY
+Paýla, isleýän kartlaryňy sakla, bir gezek çalyş.
+SAKLA
+MASLAHAT
+ÇALYŞ
+Saklamak üçin kartlara bas, soňra çalyş.
+Ýöre
+Seret
+Düwmeler
+Sazlamalar
+Gündelik
+Sazla
+Hereket
+Saýla
+Ýap
+Yza
+ÝADAW
+TÄZE BAŞLAÝANYŇ BAGTY {0}%
+{0} EL GALDY
+BAGTLY HATAR {0}%
+{0} EL  •  BÄSLER {1} ÇENLI
+DEREJE
+Sofia
+Elena
+Mia
+Valentina
+Chloe
+Isabella
+Nadia
+Aria
+Luna
+Camila
+Aurora
+Bianca
+Serena
+Marco
+Leo
+Adrian
+Lucas
+Wiktor
+Daniel
+Gabriel
+Ethan
+Julian
+Rafael
+Mateo
+Nico
+Enzo
+HOŞ GELDIŇIZ
+ALYP BARYJY BILEN GÜRLEŞ
+Ugurlar we maslahatlar
+FIŞKALAR  •  BONUSLAR
+FIŞKA SATYN AL
+Kassa
+KOKTEÝLLER  •  ÝEŇIL NAHARLAR  •  ENERGIÝA
+NAHAR WE IÇGILER
+Bar
+BLACKJACK 3-E 2 TÖLEÝÄR
+DILER 17-DE DURMALY
+BLACKJACK OÝNA
+{0} stol  •  bäsler {1}–{2}
+HOLD'EM OÝNA
+Ultimate Texas Hold'em  •  ante {0}–{1}
+BAKKARA OÝNA
+ULY  •  KIÇI  •  ÜÇLÜKLER
+SIC BO OÝNA
+Üç süýek  •  uly ýa-da kiçi 1-e 1 tölär
+PASS LINE  •  FIELD  •  ODDS
+CRAPS OÝNA
+Pass Line 1-e 1 tölär  •  odds hakyky koeffisiýentde tölär
+WIDEO POKER OÝNA
+SLOT OÝNA
+Jacks or Better  •  doly 9/6 tablisa
+LUCKY ACE 7s  •  ÇYZYK BÄSIŇ 2 500× ÇENLI TÖLEÝÄR
+JACKS OR BETTER  •  ROÝAL FLEŞ 800× TÖLEÝÄR
+BÄSLERIŇIZI GOÝUŇ
+RULET OÝNA
+Ýewropa tigirli  •  göni san 35-e 1 töleýär
+IÇGI SARGYT ET
+Getirer: {0}
+{0} {1}-nji derejede açylýar. Seniň derejäň {2}: oýnan her tapgyryň hasaplanýar.
+Bu stol azyndan {0} fişka talap edýär.
+Blackjack stollary edil öňüňde. Birine ýakynlaş-da otur!
+Slot maşynlary sag diwarda, wideo poker yzky diwarda, rulet bolsa iň yzda.
+Hold'em çep yzky burçda, bardan soň.
+Bakkara girelgede derrew çepde.
+Sic bo kassadan soňky burçda: üç süýek, uly ýa-da kiçi.
+Craps stoly sagda, slotlaryň öňünde. Pass Line-a goý we at!
+Kassa şu ýerde, sag tarapyňda, bar bolsa çep diwar boýunça.
+Ýadadyňmy? Bardaky ýeňil nahar energiýaňy derrew doldurýar.
+Poluň islendik ýerine bas, şol ýere gidersiň. Oturmak üçin stola bas.
+Andorra
+Birleşen Arap Emirlikleri
+Owganystan
+Antigua we Barbuda
+Angilýa
+Albaniýa
+Ermenistan
+Angola
+Antarktika
+Argentina
+Amerikan Samoasy
+Awstriýa
+Awstraliýa
+Aruba
+Aland adalary
+Azerbaýjan
+Bosniýa we Gersegowina
+Barbados
+Bangladeş
+Belgiýa
+Burkina-Faso
+Bolgariýa
+Bahreýn
+Burundi
+Benin
+Sen-Bartelemi
+Bermuda
+Bruneý
+Boliwiýa
+Karib Niderlandlary
+Braziliýa
+Bagama adalary
+Butan
+Buwe adasy
+Botswana
+Belarus
+Beliz
+Kanada
+Kokos (Kiling) adalary
+Kongo - Kinşasa
+Merkezi Afrika Respublikasy
+Kongo - Brazzawil
+Şweýsariýa
+Kot-d’Iwuar
+Kuk adalary
+Çili
+Kamerun
+Hytaý
+Kolumbiýa
+Kosta-Rika
+Kuba
+Kabo-Werde
+Kýurasao
+Roždestwo adasy
+Kipr
+Çehiýa
+Germaniýa
+Jibuti
+Daniýa
+Dominika
+Dominikan Respublikasy
+Alžir
+Ekwador
+Estoniýa
+Müsür
+Günbatar Sahara
+Eritreýa
+Ispaniýa
+Efiopiýa
+Finlýandiýa
+Fiji
+Folklend adalary
+Mikroneziýa
+Farer adalary
+Fransiýa
+Gabon
+Birleşen Patyşalyk
+Grenada
+Gruziýa
+Fransuz Gwianasy
+Gernsi
+Gana
+Gibraltar
+Grenlandiýa
+Gambiýa
+Gwineýa
+Gwadelupa
+Ekwatorial Gwineýa
+Gresiýa
+Günorta Georgiýa we Günorta Sendwiç adasy
+Gwatemala
+Guam
+Gwineýa-Bisau
+Gaýana
+Gonkong AAS Hytaý
+Herd we Makdonald adalary
+Gonduras
+Horwatiýa
+Gaiti
+Wengriýa
+Indoneziýa
+Irlandiýa
+Ysraýyl
+Men adasy
+Hindistan
+Britaniýanyň Hindi okeanyndaky territoriýalary
+Yrak
+Eýran
+Islandiýa
+Italiýa
+Jersi
+Ýamaýka
+Iordaniýa
+Ýaponiýa
+Keniýa
+Gyrgyzystan
+Kamboja
+Kiribati
+Komor adalary
+Sent-Kits we Newis
+Demirgazyk Koreýa
+Günorta Koreýa
+Kuweýt
+Kaýman adalary
+Gazagystan
+Laos
+Liwan
+Sent-Lýusiýa
+Lihtenşteýn
+Şri-Lanka
+Liberiýa
+Lesoto
+Litwa
+Lýuksemburg
+Latwiýa
+Liwiýa
+Marokko
+Monako
+Moldowa
+Çernogoriýa
+Sen-Marten
+Madagaskar
+Marşall adalary
+Demirgazyk Makedoniýa
+Mali
+Mýanma (Birma)
+Mongoliýa
+Makao AAS Hytaý
+Demirgazyk Mariana adalary
+Martinika
+Mawritaniýa
+Monserrat
+Malta
+Mawrikiý
+Maldiwler
+Malawi
+Meksika
+Malaýziýa
+Mozambik
+Namibiýa
+Täze Kaledoniýa
+Niger
+Norfolk adasy
+Nigeriýa
+Nikaragua
+Niderlandlar
+Norwegiýa
+Nepal
+Nauru
+Niue
+Täze Zelandiýa
+Oman
+Panama
+Peru
+Fransuz Polineziýasy
+Papua - Täze Gwineýa
+Filippinler
+Pakistan
+Polşa
+Sen-Pýer we Mikelon
+Pitkern adalary
+Puerto-Riko
+Palestina territoriýasy
+Portugaliýa
+Palau
+Paragwaý
+Katar
+Reýunýon
+Rumyniýa
+Serbiýa
+Russiýa
+Ruanda
+Saud Arabystany
+Solomon adalary
+Seýşel adalary
+Sudan
+Şwesiýa
+Singapur
+Keramatly Ýelena adasy
+Sloweniýa
+Şpisbergen we Ýan-Maýen
+Slowakiýa
+Sýerra-Leone
+San-Marino
+Senegal
+Somali
+Surinam
+Günorta Sudan
+San-Tome we Prinsipi
+Salwador
+Sint-Marten
+Siriýa
+Eswatini
+Terks we Kaýkos adalary
+Çad
+Fransuz günorta territoriýalary
+Togo
+Taýland
+Täjigistan
+Tokelau
+Timor-Leste
+Türkmenistan
+Tunis
+Tonga
+Türkiýe
+Trinidad we Tobago
+Tuwalu
+Taýwan
+Tanzaniýa
+Ukraina
+Uganda
+ABŞ-nyň daşarky adalary
+Amerikanyň Birleşen Ştatlary
+Urugwaý
+Özbegistan
+Watikan
+Sent-Winsent we Grenadinler
+Wenesuela
+Britan Wirgin adalary
+ABŞ-nyň Wirgin adalary
+Wýetnam
+Wanuatu
+Uollis we Futuna
+Samoa
+Kosowo
+Ýemen
+Maýotta
+Günorta Afrika
+Zambiýa
+Zimbabwe
+Iňlis dili
+Afrikaans dili
+Amhar dili
+Arap dili
+Azerbaýjan dili
+Belarus dili
+Bolgar dili
+Bengal dili
+Bosniýa dili
+Katalan dili
+Çeh dili
+Daniýa dili
+Nemes dili
+Grek dili
+Ispan dili
+Eston dili
+Bask dili
+Pars dili
+Fin dili
+Filippin dili
+Fransuz dili
+Irland dili
+Galisiý dili
+Gujarati dili
+Hausa dili
+Ýewreý dili
+Hindi dili
+Horwat dili
+Fransuz dili (Gaiti)
+Wenger dili
+Ermeni dili
+Indonez dili
+Igbo dili
+Island dili
+Italýan dili
+Ýapon dili
+Gruzin dili
+Gazak dili
+Khmer dili
+Kannada dili
+Koreý dili
+Gyrgyz dili
+Lýuksemburg dili
+Laos dili
+Litwa dili
+Latyş dili
+Malagasiý dili
+Makedon dili
+Malaýalam dili
+Mongol dili
+Marathi dili
+Malaý dili
+Malta dili
+Birma dili
+Norwegiýa bukmol dili
+Nepal dili
+Niderland dili
+Penjab dili
+Polýak dili
+Peştun dili
+Portugal dili (Braziliýa)
+Portugal dili (Portugaliýa)
+Retoroman dili
+Rumyn dili
+Rus dili
+Kinýaruanda dili
+Singal dili
+Slowak dili
+Slowen dili
+Somali dili
+Alban dili
+Serb dili
+Şwed dili
+Suahili dili
+Tamil dili
+Telugu dili
+Täjik dili
+Taý dili
+Türkmen dili
+Türk dili
+Ukrain dili
+Urdu
+Özbek dili
+Wýetnam dili
+Kosa dili
+Ýoruba dili
+Hytaý dili (Ýönekeýleşdirilen)
+Hytaý dili (Adaty)
+Zulu dili
+Ýek
+Duş
+Siş
+Çar
+Pen
+Ann
+Şen

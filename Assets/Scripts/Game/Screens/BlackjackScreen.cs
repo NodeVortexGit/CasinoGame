@@ -54,6 +54,9 @@ namespace Casino.Screens
 
         BlackjackRound round;
         IDrawStrategy luckyDraw;
+        double handLuck;      // the boost this hand was dealt with (Beginner's Luck or a paid pack)
+        bool handBoosted;     // a paid pack's hand is used up when the round ends
+        bool offerLuck;
         readonly List<RoundEvent> events = new List<RoundEvent>();
         readonly List<CardView> dealerCards = new List<CardView>();
         readonly List<HandView> hands = new List<HandView>();
@@ -78,7 +81,7 @@ namespace Casino.Screens
             theme = Palette.Tables[Table.Theme];
             var rules = new BlackjackRules();
             round = new BlackjackRound(rules, new Shoe(rules.Decks, rules.Penetration, App.I.Rng), FairDraw.Instance, App.I.Wallet);
-            luckyDraw = new BeginnerLuckDraw(() => App.I.Luck.Luck, App.I.Rng);
+            luckyDraw = new BeginnerLuckDraw(() => handLuck, App.I.Rng);
             lastBet = App.I.Save.lastBet;
 
             var world = CasinoWorld.Instance;
@@ -99,7 +102,7 @@ namespace Casino.Screens
             }
 
             BuildTable();
-            TopBar.Create(Content, Table.Name.ToUpperInvariant(), Icon.Back, Leave);
+            TopBar.Create(Content, Loc.Upper(Loc.T(Table.Name)), Icon.Back, Leave);
             var luck = LuckBanner.Create(Content);
             ((RectTransform)luck.transform).At(0f, 1f, 30, -TopBar.Height - 20, 470, 64, 0f, 1f);
 
@@ -126,7 +129,7 @@ namespace Casino.Screens
             progress.StreakExtended += OnStreakExtended;
             bool tease = App.I.Save.handsPlayed > 0 && !progress.Streak.DoneToday(progress.Day) && App.I.Rng.Next(2) == 0;
             Say(App.I.Luck.IsActive && App.I.Save.handsPlayed == 0
-                ? "Welcome! Beginner's luck is on your side tonight. Place a bet!"
+                ? Loc.T("Welcome! Beginner's luck is on your side tonight. Place a bet!")
                 : tease ? DealerLines.StreakTease(progress.Streak.Count, false,
                     Mathf.Max(1, progress.Streak.DailyGoal - progress.Streak.RoundsToday(progress.Day)), App.I.Rng)
                 : DealerLines.Pick(DealerMoment.Greeting, App.I.Rng), 3.5f);
@@ -159,7 +162,7 @@ namespace Casino.Screens
             rrt.sizeDelta = new Vector2(0, 160);
 
             table = UIKit.NewRect("Table", Content).Stretch();
-            var print = UIKit.Label(table, "BLACKJACK PAYS 3 TO 2   •   DEALER STANDS ON ALL 17s   •   INSURANCE PAYS 2 TO 1",
+            var print = UIKit.Label(table, Loc.T("BLACKJACK PAYS 3 TO 2   •   DEALER STANDS ON ALL 17s   •   INSURANCE PAYS 2 TO 1"),
                 26, Palette.WithAlpha(theme.Accent, 0.55f), TextAnchor.MiddleCenter, FontKind.Display);
             ((RectTransform)print.transform).Center(0, -8, 1500, 36);
 
@@ -183,7 +186,7 @@ namespace Casino.Screens
 
             var spot = UIKit.Image(table, "BetSpot", ProceduralArt.DashedRing, Palette.WithAlpha(theme.Accent, 0.7f));
             pendingSpot = ((RectTransform)spot.transform).Center(0, BetY, 150, 150);
-            var spotLabel = UIKit.Label(pendingSpot, "BET", 30, Palette.WithAlpha(theme.Accent, 0.6f), TextAnchor.MiddleCenter, FontKind.Display);
+            var spotLabel = UIKit.Label(pendingSpot, Loc.T("BET"), 30, Palette.WithAlpha(theme.Accent, 0.6f), TextAnchor.MiddleCenter, FontKind.Display);
             ((RectTransform)spotLabel.transform).Stretch();
             pendingStack = ChipStack.Create(table, Table.ChipValues, 92f);
             pendingStack.Rect.Center(0, BetY + 8, 92, 92);
@@ -223,29 +226,29 @@ namespace Casino.Screens
                 var b = chip.gameObject.AddComponent<UIButtonLite>();
                 b.OnClick = () => AddChip(value, chipIndex, crt);
             }
-            clearButton = UIKit.Button(bettingControls, "CLEAR", ButtonStyle.Dark, ClearBet, 40);
+            clearButton = UIKit.Button(bettingControls, Loc.T("CLEAR"), ButtonStyle.Dark, ClearBet, 40);
             clearButton.Rect.Center(150, 0, 220, 130);
-            rebetButton = UIKit.Button(bettingControls, "REBET", ButtonStyle.Purple, Rebet, 40);
+            rebetButton = UIKit.Button(bettingControls, Loc.T("REBET"), ButtonStyle.Purple, Rebet, 40);
             rebetButton.Rect.Center(400, 0, 240, 130);
-            dealButton = UIKit.Button(bettingControls, "DEAL", ButtonStyle.Gold, Deal, 60);
+            dealButton = UIKit.Button(bettingControls, Loc.T("DEAL"), ButtonStyle.Gold, Deal, 60);
             dealButton.Rect.Center(705, 0, 310, 136);
 
             actionControls = UIKit.NewRect("Actions", Content).At(0.5f, 0f, 0, 82, 1920, 150);
-            hitButton = UIKit.Button(actionControls, "HIT", ButtonStyle.Green, () => Act(() => round.Hit()), 56);
+            hitButton = UIKit.Button(actionControls, Loc.T("HIT"), ButtonStyle.Green, () => Act(() => round.Hit()), 56);
             hitButton.Rect.Center(-480, 0, 300, 136);
-            standButton = UIKit.Button(actionControls, "STAND", ButtonStyle.Red, () => Act(() => round.Stand()), 56);
+            standButton = UIKit.Button(actionControls, Loc.T("STAND"), ButtonStyle.Red, () => Act(() => round.Stand()), 56);
             standButton.Rect.Center(-160, 0, 300, 136);
-            doubleButton = UIKit.Button(actionControls, "DOUBLE", ButtonStyle.Gold, () => Act(DoubleDown), 56);
+            doubleButton = UIKit.Button(actionControls, Loc.T("DOUBLE"), ButtonStyle.Gold, () => Act(DoubleDown), 56);
             doubleButton.Rect.Center(160, 0, 300, 136);
-            splitButton = UIKit.Button(actionControls, "SPLIT", ButtonStyle.Blue, () => Act(SplitHand), 56);
+            splitButton = UIKit.Button(actionControls, Loc.T("SPLIT"), ButtonStyle.Blue, () => Act(SplitHand), 56);
             splitButton.Rect.Center(480, 0, 300, 136);
 
             insuranceControls = UIKit.NewRect("Insurance", Content).At(0.5f, 0f, 0, 82, 1920, 150);
             insuranceText = UIKit.Label(insuranceControls, "", 36, Color.white, TextAnchor.MiddleRight, FontKind.Semi);
             ((RectTransform)insuranceText.transform).Center(-420, 0, 760, 100);
-            insuranceYes = UIKit.Button(insuranceControls, "INSURE", ButtonStyle.Gold, () => Act(() => round.ResolveInsurance(true)), 50);
+            insuranceYes = UIKit.Button(insuranceControls, Loc.T("INSURE"), ButtonStyle.Gold, () => Act(() => round.ResolveInsurance(true)), 50);
             insuranceYes.Rect.Center(140, 0, 280, 130);
-            var no = UIKit.Button(insuranceControls, "NO THANKS", ButtonStyle.Dark, () => Act(() => round.ResolveInsurance(false)), 50);
+            var no = UIKit.Button(insuranceControls, Loc.T("NO THANKS"), ButtonStyle.Dark, () => Act(() => round.ResolveInsurance(false)), 50);
             no.Rect.Center(460, 0, 320, 130);
         }
 
@@ -267,11 +270,11 @@ namespace Casino.Screens
             long balance = App.I.Wallet.Balance;
             pendingStack.SetAmount(pendingBet);
             dealButton.Interactable = pendingBet >= Table.MinBet && pendingBet <= balance;
-            dealButton.SetLabel(pendingBet > 0 ? "DEAL" : "BET " + ChipFormat.Short(Table.MinBet) + "+");
+            dealButton.SetLabel(pendingBet > 0 ? Loc.T("DEAL") : Loc.F("BET {0}+", ChipFormat.Short(Table.MinBet)));
             clearButton.Interactable = pendingBet > 0;
             long rebet = RebetAmount();
             rebetButton.Interactable = rebet > 0;
-            rebetButton.SetLabel(pendingBet > 0 && pendingBet * 2 <= Mathf.Min(balance, Table.MaxBet) ? "x2" : "REBET");
+            rebetButton.SetLabel(pendingBet > 0 && pendingBet * 2 <= Mathf.Min(balance, Table.MaxBet) ? "x2" : Loc.T("REBET"));
         }
 
         long RebetAmount()
@@ -292,7 +295,7 @@ namespace Casino.Screens
                 {
                     Sfx.Play(SfxId.Error);
                     if (App.I.Wallet.Balance < Table.MinBet) OfferChips();
-                    else App.I.UI.Toast(pendingBet >= Table.MaxBet ? "Table maximum reached" : "Not enough chips", Palette.Red, Icon.Lock);
+                    else App.I.UI.Toast(pendingBet >= Table.MaxBet ? Loc.T("Table maximum reached") : Loc.T("Not enough chips"), Palette.Red, Icon.Lock);
                     return;
                 }
             }
@@ -331,7 +334,9 @@ namespace Casino.Screens
             long bet = pendingBet;
             if (bet < Table.MinBet || bet > balanceBefore) return;
 
-            round.DrawStrategy = App.I.Luck.IsActive ? luckyDraw : FairDraw.Instance;
+            handLuck = App.I.LuckFor(bet);
+            handBoosted = !App.I.Luck.IsActive && handLuck > 0;
+            round.DrawStrategy = handLuck > 0 ? luckyDraw : FairDraw.Instance;
             if (!round.Start(bet)) return;
             lastBet = bet;
             App.I.Save.lastBet = bet;
@@ -383,7 +388,7 @@ namespace Casino.Screens
             actionControls.gameObject.SetActive(turn);
             if (insurance)
             {
-                insuranceText.text = $"Dealer shows an ace. Insure for {ChipFormat.Full(round.InsuranceCost)}?";
+                insuranceText.text = Loc.F("Dealer shows an ace. Insure for {0}?", ChipFormat.Full(round.InsuranceCost));
                 insuranceYes.Interactable = round.CanAffordInsurance;
             }
             if (turn)
@@ -434,7 +439,7 @@ namespace Casino.Screens
                     Say(DealerLines.Pick(DealerMoment.Insurance, App.I.Rng), 3f);
                     break;
                 case RoundEventType.InsuranceResolved:
-                    App.I.UI.Toast(e.Amount > 0 ? $"Insurance pays {ChipFormat.Full(e.Amount)}" : "No dealer blackjack. Insurance lost.",
+                    App.I.UI.Toast(e.Amount > 0 ? Loc.F("Insurance pays {0}", ChipFormat.Full(e.Amount)) : Loc.T("No dealer blackjack. Insurance lost."),
                         e.Amount > 0 ? Palette.Green : Palette.TextMuted, Icon.Check);
                     break;
                 case RoundEventType.Split:
@@ -451,7 +456,7 @@ namespace Casino.Screens
                     break;
                 case RoundEventType.PlayerBust:
                     Sfx.Play(SfxId.Bust);
-                    HandStamp(e.HandIndex, "BUST", Palette.Red);
+                    HandStamp(e.HandIndex, Loc.T("BUST"), Palette.Red);
                     Say(DealerLines.Pick(DealerMoment.PlayerBust, App.I.Rng), 2.2f);
                     yield return Tween.Wait(0.5f);
                     break;
@@ -462,7 +467,7 @@ namespace Casino.Screens
                     break;
                 case RoundEventType.DealerBust:
                     Say(DealerLines.Pick(DealerMoment.DealerBust, App.I.Rng), 2.2f);
-                    StartCoroutine(Stamp(OnFx(new Vector2(0, dealerY)), "DEALER BUST", Palette.Green, 70));
+                    StartCoroutine(Stamp(OnFx(new Vector2(0, dealerY)), Loc.T("DEALER BUST"), Palette.Green, 70));
                     yield return Tween.Wait(0.4f);
                     break;
                 case RoundEventType.HandSettled:
@@ -630,16 +635,16 @@ namespace Casino.Screens
             switch (e.Outcome)
             {
                 case HandOutcome.Blackjack:
-                    HandStamp(e.HandIndex, "BLACKJACK!", Palette.Gold);
+                    HandStamp(e.HandIndex, Loc.T("BLACKJACK!"), Palette.Gold);
                     break;
                 case HandOutcome.Win:
-                    HandStamp(e.HandIndex, "WIN", Palette.Green);
+                    HandStamp(e.HandIndex, Loc.T("WIN"), Palette.Green);
                     break;
                 case HandOutcome.Push:
-                    HandStamp(e.HandIndex, "PUSH", Color.white);
+                    HandStamp(e.HandIndex, Loc.T("PUSH"), Color.white);
                     break;
                 case HandOutcome.Lose:
-                    HandStamp(e.HandIndex, "LOSE", Palette.Red);
+                    HandStamp(e.HandIndex, Loc.T("LOSE"), Palette.Red);
                     break;
             }
             if (e.Amount > 0)
@@ -672,12 +677,19 @@ namespace Casino.Screens
             }
             bool wasLucky = App.I.Luck.IsActive;
             App.I.RecordHand(round.TotalWagered, net, natural, won);
+            bool boostEnded = false;
+            if (handBoosted)
+            {
+                App.I.Boost.UseHand();
+                boostEnded = !App.I.Boost.IsActive;
+                handBoosted = false;
+            }
             App.I.Intensity.OnRoundResult(net, natural);
 
             if (natural)
             {
                 Sfx.Play(SfxId.Blackjack);
-                ShowBanner("BLACKJACK!", Palette.Gold);
+                ShowBanner(Loc.T("BLACKJACK!"), Palette.Gold);
                 Confetti.Burst(fx, Vector2.zero, 80, true);
                 Wink(1.6f);
                 Say(DealerLines.Pick(DealerMoment.PlayerBlackjack, App.I.Rng));
@@ -704,11 +716,23 @@ namespace Casino.Screens
 
             if (wasLucky && !App.I.Luck.IsActive)
             {
-                App.I.UI.Toast("Beginner's luck is over. From now on it's standard blackjack.", Palette.Hex("7CFC9A"), Icon.Star);
+                App.I.UI.Toast(App.I.Boost.IsActive ? Loc.T("Beginner's luck is over. Your Lucky Streak starts now.")
+                    : Loc.T("Beginner's luck is over. From now on it's standard blackjack."), Palette.Hex("7CFC9A"), Icon.Star);
                 Say(DealerLines.Pick(DealerMoment.BeginnerLuckOver, App.I.Rng), 3.5f);
+                // Offer more luck once, the first time it runs out (and only if none is already bought).
+                offerLuck = !App.I.Save.luckOfferShown && !App.I.Boost.IsActive && App.I.Store.IsAvailable;
             }
+            if (boostEnded)
+                App.I.UI.Toast(Loc.T("Your Lucky Streak is over. Back to standard blackjack."), Palette.Hex("7CFC9A"), Icon.Sparkle);
 
             yield return Tween.Wait(1.5f);
+            if (offerLuck)
+            {
+                offerLuck = false;
+                App.I.Save.luckOfferShown = true;
+                App.I.SaveSystem.MarkDirty();
+                App.I.UI.Modal<LuckOfferModal>();
+            }
             if (streakLine != null)
             {
                 Say(streakLine, 3f);
@@ -894,17 +918,17 @@ namespace Casino.Screens
 
         void OfferChips()
         {
-            App.I.UI.Modal<ConfirmModal>(m => m.Setup("OUT OF CHIPS",
+            App.I.UI.Modal<ConfirmModal>(m => m.Setup(Loc.T("OUT OF CHIPS"),
                 App.I.Purchases.CanWatchAd
-                    ? $"Watch a short video for {ChipFormat.Full(GameConfig.AdRewardChips)} free chips, or visit the cashier."
-                    : "Visit the cashier to top up your chips.",
-                App.I.Purchases.CanWatchAd ? "FREE CHIPS" : "CASHIER",
+                    ? Loc.F("Watch a short video for {0} free chips, or visit the cashier.", ChipFormat.Full(GameConfig.AdRewardChips))
+                    : Loc.T("Visit the cashier to top up your chips."),
+                App.I.Purchases.CanWatchAd ? Loc.T("FREE CHIPS") : Loc.T("CASHIER"),
                 () =>
                 {
                     if (App.I.Purchases.CanWatchAd) App.I.Purchases.WatchAdForChips(_ => RefreshBetting());
                     else App.I.UI.Modal<ShopModal>(s => s.StartTab = ShopTab.Chips);
                 },
-                App.I.Purchases.CanWatchAd ? "CASHIER" : "LATER",
+                App.I.Purchases.CanWatchAd ? Loc.T("CASHIER") : Loc.T("LATER"),
                 () =>
                 {
                     if (App.I.Purchases.CanWatchAd) App.I.UI.Modal<ShopModal>(s => s.StartTab = ShopTab.Chips);
@@ -953,7 +977,7 @@ namespace Casino.Screens
         {
             if (busy || round.InProgress)
             {
-                App.I.UI.Toast("Finish this hand first.", Palette.TextMuted, Icon.Clock);
+                App.I.UI.Toast(Loc.T("Finish this hand first."), Palette.TextMuted, Icon.Clock);
                 return;
             }
             int attempt = App.I.Persuasion.Attempts;
@@ -1009,16 +1033,16 @@ namespace Casino.Screens
             var p = Staff.Portrait(Panel, 260, StaffRole.Dealer, theme);
             p.Rect.At(0f, 0.5f, 60, 30, 260, 260, 0f, 0.5f);
             p.Wink(10f);
-            var t = UIKit.Label(Panel, "“" + line + "”", 46, Color.white, TextAnchor.MiddleLeft, FontKind.Semi);
+            var t = UIKit.Label(Panel, Loc.F("“{0}”", line), 46, Color.white, TextAnchor.MiddleLeft, FontKind.Semi);
             ((RectTransform)t.transform).Stretch(380, 180, 60, 60);
-            var stay = UIKit.Button(Panel, "ONE MORE HAND", ButtonStyle.Gold, Close, 42);
+            var stay = UIKit.Button(Panel, Loc.T("ONE MORE HAND"), ButtonStyle.Gold, Close, 42);
             stay.Rect.At(0.5f, 0f, 160, 80, 400, 100);
             leaveNow = () =>
             {
                 Close();
                 leave?.Invoke();
             };
-            go = UIKit.Button(Panel, "LEAVE", ButtonStyle.Dark, leaveNow, 42);
+            go = UIKit.Button(Panel, Loc.T("LEAVE"), ButtonStyle.Dark, leaveNow, 42);
             go.Rect.At(0.5f, 0f, -230, 80, 300, 100);
         }
     }

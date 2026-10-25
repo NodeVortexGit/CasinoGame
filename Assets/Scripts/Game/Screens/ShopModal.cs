@@ -10,15 +10,18 @@ using UnityEngine.UI;
 
 namespace Casino.Screens
 {
-    public enum ShopTab { Chips, Food }
+    public enum ShopTab { Chips, Food, Luck }
 
-    /// <summary>The cashier (chip packs) and the bar (food and drinks that refill energy). Prices are regional.</summary>
+    /// <summary>
+    /// The cashier (chip packs), the bar (food and drinks that refill energy) and luck packs (a Lucky Streak of boosted
+    /// blackjack hands). Prices are regional.
+    /// </summary>
     public sealed class ShopModal : UIModal
     {
         public ShopTab StartTab = ShopTab.Chips;
 
         RectTransform grid, staffHolder;
-        UIButton chipsTab, foodTab;
+        UIButton chipsTab, foodTab, luckTab;
         Text regionText, staffLine;
         ShopTab tab;
 
@@ -27,10 +30,12 @@ namespace Casino.Screens
             MakePanel(1760, 900);
             AddCloseButton();
 
-            chipsTab = UIKit.Button(Panel, "CASHIER", ButtonStyle.Gold, () => ShowTab(ShopTab.Chips), 44, Icon.Coin);
-            chipsTab.Rect.At(0.5f, 1f, -230, -70, 400, 96);
-            foodTab = UIKit.Button(Panel, "THE BAR", ButtonStyle.Dark, () => ShowTab(ShopTab.Food), 44, Icon.Food);
-            foodTab.Rect.At(0.5f, 1f, 210, -70, 400, 96);
+            chipsTab = UIKit.Button(Panel, Loc.T("CASHIER"), ButtonStyle.Gold, () => ShowTab(ShopTab.Chips), 44, Icon.Coin);
+            chipsTab.Rect.At(0.5f, 1f, -420, -70, 370, 96);
+            foodTab = UIKit.Button(Panel, Loc.T("THE BAR"), ButtonStyle.Dark, () => ShowTab(ShopTab.Food), 44, Icon.Food);
+            foodTab.Rect.At(0.5f, 1f, -20, -70, 370, 96);
+            luckTab = UIKit.Button(Panel, Loc.T("LUCK"), ButtonStyle.Dark, () => ShowTab(ShopTab.Luck), 44, Icon.Sparkle);
+            luckTab.Rect.At(0.5f, 1f, 380, -70, 370, 96);
 
             staffHolder = UIKit.NewRect("Staff", Panel).At(0f, 0.5f, 210, 40, 300, 560);
             staffLine = UIKit.Label(Panel, "", 28, Color.white, TextAnchor.UpperCenter, FontKind.Semi);
@@ -40,7 +45,7 @@ namespace Casino.Screens
 
             regionText = UIKit.Label(Panel, "", 22, Palette.TextMuted, TextAnchor.MiddleCenter);
             ((RectTransform)regionText.transform).At(0.5f, 0f, 0, 52, 1600, 34);
-            var legal = UIKit.Label(Panel, "Chips and food are virtual items for entertainment only: no cash value, not redeemable for money or prizes.",
+            var legal = UIKit.Label(Panel, Loc.T("Chips, luck and food are virtual items for entertainment only: no cash value, not redeemable for money or prizes."),
                 20, Palette.WithAlpha(Palette.TextMuted, 0.75f), TextAnchor.MiddleCenter);
             ((RectTransform)legal.transform).At(0.5f, 0f, 0, 22, 1600, 30);
 
@@ -62,28 +67,43 @@ namespace Casino.Screens
             tab = t;
             chipsTab.SetStyle(t == ShopTab.Chips ? ButtonStyle.Gold : ButtonStyle.Dark);
             foodTab.SetStyle(t == ShopTab.Food ? ButtonStyle.Gold : ButtonStyle.Dark);
+            luckTab.SetStyle(t == ShopTab.Luck ? ButtonStyle.Gold : ButtonStyle.Dark);
             foreach (Transform c in grid) Destroy(c.gameObject);
             foreach (Transform c in staffHolder) Destroy(c.gameObject);
 
-            var role = t == ShopTab.Chips ? StaffRole.Cashier : StaffRole.Server;
+            var role = t == ShopTab.Food ? StaffRole.Server : StaffRole.Cashier;
             var staff = Staff.Portrait(staffHolder, 260, role);
             staff.Rect.Center(0, 60, 260, 260);
-            staffLine.text = "\"" + DealerLines.Greeting(role, App.I.Rng) + "\"";
+            staffLine.text = Loc.F("“{0}”", DealerLines.Greeting(role, App.I.Rng));
             staff.Talk(1.2f);
 
-            var products = ProductCatalog.OfKind(t == ShopTab.Chips ? ProductKind.Chips : ProductKind.Food);
-            for (int i = 0; i < products.Count; i++)
+            if (t == ShopTab.Luck)
             {
-                int col = i % 3, row = i / 3;
-                BuildItem(products[i], new Vector2(-430 + col * 430, 155 - row * 320));
+                var packs = ProductCatalog.OfKind(ProductKind.Luck);
+                for (int i = 0; i < packs.Count; i++) LuckCard(grid, packs[i], new Vector2((i - (packs.Count - 1) * 0.5f) * 460f, 120f));
+                var how = UIKit.Label(grid,
+                    Loc.F("Each card has that chance of being dealt in your favor, on blackjack bets up to {0} chips " +
+                          "(bigger bets are standard and don't use up hands). Starts after Beginner's Luck; stronger packs are used first.",
+                          ChipFormat.Full(GameConfig.LuckBoostMaxBet)),
+                    24, Palette.TextMuted, TextAnchor.UpperCenter, FontKind.Body);
+                ((RectTransform)how.transform).Center(0, -150, 1100, 120);
+            }
+            else
+            {
+                var products = ProductCatalog.OfKind(t == ShopTab.Chips ? ProductKind.Chips : ProductKind.Food);
+                for (int i = 0; i < products.Count; i++)
+                {
+                    int col = i % 3, row = i / 3;
+                    BuildItem(products[i], new Vector2(-430 + col * 430, 155 - row * 320));
+                }
             }
 
             var region = App.I.Region;
             string where = region.Describe();
             if (region.LocationDeclined)
-                where += "  •  Allow location access to get your country's price";
-            if (!App.I.Store.IsAvailable) where = "Purchases are not available in this version of the game.";
-            else if (App.I.Store is SimulatedStore) where += "  •  TEST STORE (no real money)";
+                where += "  •  " + Loc.T("Allow location access to get your country's price");
+            if (!App.I.Store.IsAvailable) where = Loc.T("Purchases are not available in this version of the game.");
+            else if (App.I.Store is SimulatedStore) where += "  •  " + Loc.T("TEST STORE (no real money)");
             regionText.text = where;
         }
 
@@ -101,20 +121,53 @@ namespace Casino.Screens
             ((RectTransform)icon.transform).Center(-110, 40, 140, 140);
             if (chips && ChipIcon(p) == Icon.Coin) icon.color = Color.white;
 
-            string amount = chips ? ChipFormat.Short(p.Chips) : "+" + Mathf.RoundToInt(p.Energy * 100) + "%";
+            string amount = chips ? ChipFormat.Short(p.Chips) : "+" + Loc.F("{0}%", Mathf.RoundToInt(p.Energy * 100));
             var a = UIKit.Label(rt, amount, 64, chips ? Palette.Gold : Palette.Energy, TextAnchor.MiddleLeft, FontKind.Display);
             ((RectTransform)a.transform).Center(85, 80, 210, 70);
             UIKit.TextShadow(a, -3f, 0.6f);
-            var name = UIKit.Label(rt, chips ? p.Title : p.Title + "\n<size=20><color=#C9BFDB>energy</color></size>", 24, Color.white, TextAnchor.UpperLeft, FontKind.Semi);
+            var name = UIKit.Label(rt, chips ? Loc.T(p.Title) : Loc.T(p.Title) + "\n<size=20><color=#C9BFDB>" + Loc.T("energy") + "</color></size>", 24, Color.white, TextAnchor.UpperLeft, FontKind.Semi);
             ((RectTransform)name.transform).Center(85, 16, 210, 66);
 
             int bonus = ProductCatalog.BonusPercent(p);
-            string badge = !string.IsNullOrEmpty(p.Highlight) ? p.Highlight : bonus > 0 ? $"+{bonus}% CHIPS" : null;
+            string badge = !string.IsNullOrEmpty(p.Highlight) ? Loc.T(p.Highlight) : bonus > 0 ? Loc.F("+{0}% CHIPS", bonus) : null;
             if (badge != null)
             {
                 var b = UIKit.Panel(rt, "Badge", Palette.Pink, 18f);
                 var brt = ((RectTransform)b.transform).At(0.5f, 1f, 0, 14, 230, 40);
                 var bt = UIKit.Label(brt, badge, 22, Color.white, TextAnchor.MiddleCenter, FontKind.Bold);
+                ((RectTransform)bt.transform).Stretch();
+            }
+
+            var buy = UIKit.Button(rt, App.I.Purchases.DisplayPrice(p), ButtonStyle.Green, () => App.I.Purchases.Buy(p), 40, null, FontKind.Bold);
+            buy.Rect.At(0.5f, 0f, 0, 62, 340, 96);
+            buy.Interactable = App.I.Store.IsAvailable;
+        }
+
+        /// <summary>A luck pack: its boost, hands and expected win rate, and its price. Also used by the offer.</summary>
+        public static void LuckCard(Transform parent, ProductDef p, Vector2 pos)
+        {
+            var green = Palette.Hex("7CFC9A");
+            var card = UIKit.Panel(parent, p.Id, Palette.PanelLight, 28f, true);
+            var rt = ((RectTransform)card.transform).Center(pos.x, pos.y, 420, 330);
+            UIKit.Outline(rt, string.IsNullOrEmpty(p.Highlight) ? new Color(1, 1, 1, 0.12f) : green, 28f);
+            var glow = UIKit.Image(rt, "Glow", ProceduralArt.Glow, Palette.WithAlpha(green, 0.18f));
+            ((RectTransform)glow.transform).Center(-120, 60, 260, 260);
+            var icon = UIKit.Image(rt, "Icon", ProceduralArt.IconSprite(Icon.Sparkle), green);
+            ((RectTransform)icon.transform).Center(-120, 70, 120, 120);
+
+            var a = UIKit.Label(rt, Loc.F("{0}%", p.LuckPercent), 72, green, TextAnchor.MiddleLeft, FontKind.Display);
+            ((RectTransform)a.transform).Center(80, 112, 230, 76);
+            UIKit.TextShadow(a, -3f, 0.6f);
+            var name = UIKit.Label(rt, Loc.T(p.Title) + "\n<size=21><color=#C9BFDB>" + Loc.F("{0} hands", p.LuckHands) + "\n" +
+                Loc.F("wins about {0}% of them", Mathf.RoundToInt((float)LuckBoost.WinRate(p.LuckPercent) * 100)) + "</color></size>",
+                26, Color.white, TextAnchor.UpperLeft, FontKind.Semi);
+            ((RectTransform)name.transform).Center(80, 24, 230, 100);
+
+            if (!string.IsNullOrEmpty(p.Highlight))
+            {
+                var b = UIKit.Panel(rt, "Badge", Palette.Pink, 18f);
+                var brt = ((RectTransform)b.transform).At(0.5f, 1f, 0, 14, 230, 40);
+                var bt = UIKit.Label(brt, Loc.T(p.Highlight), 22, Color.white, TextAnchor.MiddleCenter, FontKind.Bold);
                 ((RectTransform)bt.transform).Stretch();
             }
 

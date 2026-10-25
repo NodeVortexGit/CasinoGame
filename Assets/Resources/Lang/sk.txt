@@ -1,0 +1,1004 @@
+MALÉ
+VEĽKÉ
+NEPÁRNE
+PÁRNE
+AKÁKOĽVEK TROJICA
+Hrsť žetónov
+Stĺpik žetónov
+Podnos žetónov
+Stojan žetónov
+NAJOBĽÚBENEJŠIE
+Trezor žetónov
+Sejf high rollera
+NAJLEPŠIA CENA
+Perlivá voda
+Espresso
+Energetický nápoj
+Klubový sendvič
+Burgerové menu
+Steaková večera
+PLNÉ DOBITIE
+Šťastná séria
+Horúca séria
+NAJVIAC ŠŤASTIA
+Bronzový stôl
+Strieborný stôl
+Zlatý stôl
+Diamantový stôl
+Stôl hold'em
+Zadajte platný rok.
+Zadajte platný mesiac (1-12).
+Zadajte platný deň.
+Tento dátum je v budúcnosti.
+Vitaj pri mojom stole! Pripravený hrať?
+Rada ťa vidím. Sadni si!
+Ahoj! Karty sú čerstvé a ja tiež.
+Vitaj! Nech je dnešný večer skvelý.
+Vsaď si, keď budeš pripravený.
+Žetóny na stôl a pozrime sa na karty.
+O čo hráme?
+Ohó, veľká stávka! Páči sa mi tvoj štýl.
+Tomu hovorím stávka. Ideme na to!
+Dnes si odvážny, čo?
+Všetko?! Srdce mi búši!
+Všetko na jednu ruku. Nebojácne!
+Blackjack! Neuveriteľné!
+Dvadsaťjeden, len tak!
+Blackjack! Karty ťa dnes milujú.
+Pekne zahrané!
+Výhra! Dobrá práca.
+Darí sa ti!
+Táto je tvoja.
+Aká výhra! Všetci sa pozerajú na tento stôl!
+Obrovské! Dnes si v ráži!
+Tak tesne! Ďalšia je tvoja.
+Tentoraz malo kasíno šťastie.
+Hoď to za hlavu, ide nová ruka.
+Au, o kartu viac.
+Cez! Stáva sa to aj najlepším.
+Remíza. Nikto neprehráva!
+Remíza. Tvoje žetóny sú v bezpečí.
+Som cez! Máš šťastie.
+Priveľa pre mňa. Vyhrávaš!
+Blackjack pre kasíno, prepáč!
+Krupiér má blackjack. Smola.
+Ukazujem eso. Poistenie?
+Delíme! Dve šance na výhru.
+Zdvojenie. Odvážny ťah!
+Zdvoj! Príde jedna karta.
+Nová topánka, miešam!
+Dochádzajú ti? Pokladňa ti doplní.
+Žetónov ubúda. Chceš ďalšie?
+Žetóny sa minuli! Zájdi do pokladne alebo si zober žetóny zadarmo.
+Tvoj stĺpik je prázdny. Pokladňa je hneď za tebou.
+Vyzeráš vyčerpane! Daj si niečo na bare.
+Ideš na rezervu? Bar sa o teba postará.
+Nikam sa neponáhľaj.
+Kedykoľvek budeš pripravený!
+Noc je ešte mladá.
+Šťastie začiatočníka stojí pri tebe!
+Balíček je dnes na tvojej strane!
+Šťastie začiatočníka skončilo. Odteraz je to férová hra!
+Vitaj v kasíne! Tvoje miesto čaká.
+Dobrý večer! Stoly sú dnes rozpálené.
+Vitaj späť! Cítiš šťastie?
+Ťukni na stôl a začni hrať!
+Potrebuješ viac žetónov? Si pri správnom okienku.
+Väčšie stĺpiky, väčšie bonusy!
+Si hladný? Vyber si čokoľvek z menu.
+Niečo na zahryznutie ti udrží energiu!
+Vitaj pri mojom stole!
+Tu si! Hneď je tu veselšie.
+Buď ako doma. Dnešný večer je len o tebe.
+Milujem ten úsmev. Šťastný večer?
+Uvoľni sa, si tu v dobrých rukách.
+Ahoj ty! Dúfala som, že sa zastavíš pri mojom okienku.
+Vždy rada vidím priateľskú tvár.
+Pozrime sa, kto to je! Bavíš sa?
+Ahoj, fešák!
+Dnes sa mi páči tvoj štýl.
+Ahoj, rada ťa zase vidím!
+Máš dobrý večer? Zaslúžiš si ho.
+Pozor, možno ti začnem fandiť.
+Môj obľúbený hráč je späť!
+Sadni si ku mne, rozdám ti niečo pekné.
+S tebou je pri tomto stole oveľa väčšia zábava.
+Už odchádzaš? Noc je ešte mladá!
+No tak, ešte jednu ruku. Mám z nej dobrý pocit!
+Teraz ma nemôžeš opustiť, ešte len začíname!
+Posledná šanca! Ďalšia ruka môže byť tá veľká...
+Dobre, dobre. Udržím ti miesto teplé. Sľúbiš, že sa vrátiš?
+Ešte žiadna séria? Zahraj si dnes kolá ({2}) a ja začnem počítať.
+Nový začiatok! Kolá ({2}) a tvoj plameň sa rozhorí.
+Vediem si malý zoznam tých, čo chodia každý deň. Ty na ňom nie si... zatiaľ.
+Deň {1} na teba čaká. Zostáva kôl: {2}!
+Dní za sebou: {0}... teraz predsa neprestaneš, nie?
+Tvoj plameň dnes vyzerá trochu chladne. Kolá ({2}) ho zohrejú.
+Počítam: dní {0}. Nech ich je {1}.
+Nemysli si, že som si nevšimla. Zostáva kôl na udržanie série: {2}!
+Dní za sebou: {0}? Začínam si myslieť, že sa ti tu páči.
+Tvoja séria je na dnes v bezpečí. Teraz sa už len predvádzaš.
+Deň {0} hotový. Zajtra v rovnakom čase?
+Dní: {0}! Teraz by som ti mala držať miesto.
+Tu je: prvý deň tvojej série! Vráť sa zajtra a budú dva.
+Celý týždeň za sebou! Naozaj ma ohromuješ.
+Tridsať dní! Prakticky tu pracuješ.
+Sto dní. Rozprávam o tebe všetkým.
+Už {0} dní za sebou! Len sa na seba pozri.
+Séria zachránená: deň {0}! Vedela som, že to zvládneš.
+Deň {0}! Stavím sa, že {1} nezvládneš.
+Dní: {0}... dobre, ty frajer.
+Zahraj 10 rúk blackjacku
+Vyhraj 5 rúk blackjacku
+Získaj blackjack
+Vyhraj 500 žetónov v blackjacku
+Roztoč automat 20-krát
+Vyhraj 5 otočení na automate
+Vyhraj 5× svoju stávku na automate
+Zahraj 5 kôl rulety
+Vyhraj 3 otočenia rulety
+Traf číslo priamou stávkou
+Zahraj 8 rozdaní hold'emu
+Vyhraj 4 rozdania hold'emu
+Zahraj 10 rozdaní baccaratu
+Vyhraj 5 rozdaní baccaratu
+Zahraj 15 rozdaní videopokru
+Zahraj 8 kôl sic bo
+Vyhraj 4 kolá sic bo
+Hoď kockami 15-krát v crapse
+Vyhraj 4 hody v crapse
+Sprav vo videopokri flush alebo lepšie
+Kráľovská postupka
+Čistá postupka
+Poker
+Full house
+Flush
+Postupka
+Trojica
+Dva páry
+Pár
+Najvyššia karta
+poloha GPS
+mobilná sieť
+pripojenie na internet
+nastavenia zariadenia
+testovacia krajina
+neoverené (štandardná cena)
+neznáme
+1. tucet
+2. tucet
+3. tucet
+2 ku 1
+ČERVENÁ
+ČIERNA
+Dolníci alebo lepšie
+FÉROVÉ CENY PRE TVOJU KRAJINU
+Ceny v obchode sú prispôsobené ekonomike tvojej krajiny, aby hráči všade platili férovú cenu.
+Aby sme zistili tvoju krajinu, raz skontrolujeme tvoju približnú polohu. Priradí sa ku krajine priamo v zariadení a nikam sa neodosiela. Ak odmietneš, platia štandardné ceny.
+POKRAČOVAŤ
+Odísť z kasína?
+Tvoje žetóny a postup sú uložené.
+UKONČIŤ
+ZOSTAŤ
+Odomknuté: {0}
+Zmrazenie série včera zachránilo tvoju sériu (dní: {0}).
+Zmrazenia ({0}) zachránili tvoju sériu (dní: {1}).
+Tvoja séria (dní: {0}) skončila. Zahraj si dnes kolá ({1}) a začni novú!
+MISIA SPLNENÁ
++{0} žetónov
+VŠETKY MISIE SPLNENÉ!
+Denný bonus +{0} žetónov. Nové misie zajtra.
+ÚROVEŇ {0}!
+Míľnik! +{0} žetónov
+Vráť sa zajtra a pokračuj
++1 zmrazenie série
+SÉRIA: {0} DNÍ!
+Nákupy nie sú v tejto verzii dostupné.
+Nákup zlyhal. Nič ti nebolo účtované.
+Pridané +{0} žetónov!
+{0}: rúk {1} s {2} % šťastia, po šťastí začiatočníka
+{0}: rúk {1} s {2} % šťastia!
+{0}: +{1} % energie
+Na tomto zariadení nie je dostupné
+Videá sa v tejto sieti nenačítajú
+Vráť sa zajtra
+Pripravené o {0} s
++{0} žetónov (dnes zostáva {1})
++{0} žetónov zadarmo!
++1 zmrazenie série!
+Momentálne nie je k dispozícii žiadne video. Skús to o chvíľu.
+BRONZ
+STRIEBRO
+ZLATO
+DIAMANT
+Menu
+Zobrazenie
+Krížik
+Krúžok
+Štvorec
+Trojuholník
+Zisťujeme tvoj región...
+Neoverené ({0}): štandardné ceny
+{0} ({1}): ceny v {2}
+Pripomienky
+Žetóny zadarmo pripravené a pripomienky série
+Tvoje žetóny zadarmo sú pripravené
+V Lucky Ace na teba čaká {0} žetónov.
+Udrž si sériu (dní: {0})
+Zahraj si dnes kolá ({0}), aby sa o polnoci nevynulovala.
+BACCARAT
+Vitaj pri baccarate! Hráč, Bankár alebo Remíza?
+HRÁČ
+REMÍZA
+BANKÁR
+POSLEDNÉ VÝSLEDKY
+H
+B
+R
+SPÄŤ
+VYMAZAŤ
+ZNOVA
+ROZDAŤ
+Na túto stávku nemáš dosť žetónov.
+Dosiahnuté maximum stola
+CELKOVÁ STÁVKA  {0}
+Vyber žetón a ťukni na Hráč, Bankár alebo Remíza
+REMÍZA  {0}
+VYHRÁVA HRÁČ  {0} NA {1}
+VYHRÁVA BANKÁR  {0} NA {1}
+VÝHRA  +{0}
+VRÁTENÉ  {0}
+Tentoraz bez výhry
+Najprv dohraj túto ruku.
+Vitaj! Šťastie začiatočníka je dnes na tvojej strane. Vsaď si!
+BLACKJACK VYPLÁCA 3 KU 2   •   KRUPIÉR STOJÍ NA VŠETKÝCH 17   •   POISTENIE VYPLÁCA 2 KU 1
+STÁVKA
+KARTU
+STÁŤ
+ZDVOJIŤ
+ROZDELIŤ
+POISTIŤ
+NIE, ĎAKUJEM
+STÁVKA {0}+
+Nedostatok žetónov
+Krupiér ukazuje eso. Poistiť za {0}?
+Poistenie vypláca {0}
+Krupiér nemá blackjack. Poistenie prepadlo.
+CEZ
+KRUPIÉR CEZ
+BLACKJACK!
+VÝHRA
+REMÍZA
+PREHRA
+Šťastie začiatočníka skončilo. Tvoja Šťastná séria sa začína teraz.
+Šťastie začiatočníka skončilo. Odteraz je to štandardný blackjack.
+Tvoja Šťastná séria skončila. Späť k štandardnému blackjacku.
+ŽETÓNY SA MINULI
+Pozri si krátke video za {0} žetónov zadarmo, alebo zájdi do pokladne.
+Zájdi do pokladne a doplň si žetóny.
+ŽETÓNY ZADARMO
+POKLADŇA
+NESKÔR
+„{0}“
+EŠTE JEDNU
+ODÍSŤ
+ŠŤASTIE ZAČIATOČNÍKA
+ŠŤASTNÁ SÉRIA
+Uvítací bonus pre nových hráčov: počas prvých <b>{0} rúk</b> je krupiérova topánka namiešaná v tvoj prospech, takže vyhráš takmer každú ruku.
+Počas ďalších <b>{0} rúk</b> výhoda postupne slabne a potom je pri každom stole štandardný, férový blackjack z namiešanej topánky so 6 balíčkami (blackjack vypláca 3 ku 2, krupiér stojí na všetkých 17).
+Výhoda teraz: <b><color=#7CFC9A>{0} %</color></b>   Zostáva rúk: <b>{1}</b>
+Počas ďalších <b>{0} rúk blackjacku</b> so stávkou do <b>{1} žetónov</b> má každá karta <b>{2} %</b> šancu, že príde v tvoj prospech (rovnaká výhoda ako šťastie začiatočníka).
+Pri dobrej hre to znamená výhru asi v <b>{0} %</b> rúk, oproti asi {1} % v štandardnom blackjacku. Vyššie stávky sú štandardný blackjack a ruky nespotrebúvajú. Keď sa ruky minú, je pri každom stole opäť štandardný, férový blackjack.
+ROZUMIEM
+CHCEŠ SPÄŤ SVOJE ŠŤASTIE?
+Šťastie začiatočníka skončilo: odteraz je pri každom stole štandardný, férový blackjack. Šťastná séria na čas vráti výhodu.
+CRAPS
+Vitaj pri crapse! Stav na Pass Line a hoď.
+ŠESŤ
+DEVÄŤ
+FIELD
+2 3 4 9 10 11 12  •  2 a 12 platia dvojnásobne
+AKÁKOĽVEK 7
+AKÝKOĽVEK CRAPS
+DON'T PASS BAR
+1:1  •  12 je remíza
+PASS LINE
+ODDS
+skutočný kurz
+VYP.
+ZAP
+Odds sa stavia za Pass Line, keď je bod.
+Odds potrebujú stávku na Pass Line.
+Tvoje odds sú na maxime.
+Stávky na líniu sa dávajú pri úvodnom hode.
+NA STOLE  {0}
+Úvodný hod: stav na Pass Line a hoď. 7 alebo 11 vyhráva, 2, 3 alebo 12 prehráva. Stávky Place začínajú platiť, keď je bod.
+Bod je {0}: hoď ho znova skôr ako 7. Odds za tvojou Pass Line platia skutočný kurz.
+HODIŤ
+Bod je {0}.
+{0}! Bod padol. Výhra!
+Sedmička. Nový hádžuci, nový úvodný hod.
+{0}, natural! Pass Line vyhráva.
+{0}, craps. Línia prehráva.
+Počkaj, kým sa kocky zastavia.
+ODÍSŤ OD STOLA?
+Tvoja stávka na líniu stále hrá na bod {0}. Ak teraz odídeš, prepadne.
+DENNE
+DENNÁ SÉRIA
+DNÍ ZA SEBOU
+DNES
+POZRIEŤ REKLAMU
+KÚPIŤ
+ZMRAZENIE SÉRIE
+Zmrazenie série udrží tvoju sériu nažive v deň, keď nehráš. Môžeš ich mať až {0}.\n\nKúpiť jedno za {1} žetónov?
+Zmrazenie série pripravené.
+Nedostatok žetónov na zmrazenie.
+ZRUŠIŤ
+DENNÉ ROZTOČENIE
+ROZTOČIŤ
+Šance:
+{0} %
+Vyhral si {0} žetónov!
+DNEŠNÉ MISIE
+Rekord: {0} dní
+Hraj každý deň a buduj sériu
+Dnešný cieľ splnený! Uvidíme sa zajtra.
+Dnes: {0} / {1} kôl (akákoľvek hra)
+Zmrazenia série: {0} / {1}
+Zachráň sériu v deň, ktorý vynecháš. +1 každých 7 dní.
+PLNÉ
+ŽIADNE VIDEO
+REKLAMA ČOSKORO
+Bonus za sériu: výhry ×{0}
+Jedno roztočenie zadarmo každý deň
+ĎALŠIE  {0}
+Všetko hotové! Bonus vyzdvihnutý.
+Nové misie o polnoci.
+Splň všetky tri: +{0} bonusových žetónov
+HOLD'EM
+Vitaj pri hold'eme! Vsaď ante a pozrime sa na karty.
+ANTE
+BLIND
+HRAŤ
+BLIND PLATÍ
+Krupiér sa kvalifikuje s párom alebo lepším
+CHECK
+FOLD
+STAVIŤ {0}×
+Ante {0} + blind {0}. Nechaj si ešte {1} na navýšenie.
+Ťukni na žetóny a nastav ante. Blind je rovnaký.
+Check, alebo stávka troj- či štvornásobku ante?
+Navýš teraz o 4× alebo 3× ante, alebo daj check a pozri si flop.
+Posledná šanca: vsaď 1× ante, alebo daj fold a prídeš o ante aj blind.
+Vsaď teraz 2× ante, alebo daj check a pozri si posledné dve karty.
+Tu je flop.
+Turn a river.
+Pozrime sa, čo mám.
+Krupiér sa nekvalifikoval: ante sa ti vracia.
+Fold. Ďalšie rozdanie je tvoje.
+HRY
+Ťahaj vľavo na chôdzu  •  Ťahaj vpravo na rozhliadanie  •  Ťukni a choď tam
+Iba 18+  •  Žetóny sú pre zábavu: žiadna peňažná hodnota, nikdy ich nemožno vymeniť za peniaze ani ceny
+Otvárame dvere...
+Vitaj! Tvojich {0} uvítacích žetónov je pripravených. Stoly sú priamo pred tebou!
++{0} žetónov zadarmo! Ďalšie o {1} h.
+Žetóny zadarmo sa dopĺňajú každých {0} h. Ďalšie o {1}.
+{0} h {1} min
+{0} min {1} s
+UDRŽ SI SÉRIU
+Chceš pripomienku večer, keď si ešte nehral, a keď budú žetóny zadarmo pripravené? Nikdy viac než to a v Nastaveniach to môžeš vypnúť.
+PRIPOMEŇ MI TO
++{0} žetónov pripravených!
+Pozri si video: {0}
+Ďalšie žetóny zadarmo o {0}
+BLACKJACK
+4 stoly  •  vypláca 3 ku 2
+Ultimate Texas Hold'em
+Hráč, Bankár alebo Remíza
+AUTOMATY
+Lucky Ace 7s  •  10 línií
+VIDEOPOKER
+Jacks or Better
+SIC BO
+Tri kocky  •  veľké alebo malé
+Pass Line  •  Field  •  Odds
+RULETA
+Európska s jednou nulou
+SI VYČERPANÝ
+Tvoja energia je na nule. Zober si niečo na bare a hraj ďalej, alebo sa vráť neskôr: energia sa pomaly obnovuje, keď si preč.
+ÍSŤ NA BAR
+VYBER SI STÔL
+STÁVKY
+ÚROVEŇ {0}
+SADNÚŤ SI
+POTREBA {0}
+Dosiahni úroveň {0}, aby si tu mohol hrať. Máš úroveň {1}.
+KASÍNO
+DD
+MM
+RRRR
+DEŇ
+MESIAC
+ROK
+KEDY SI SA NARODIL?
+Žetóny slúžia iba na zábavu. Nemajú žiadnu peňažnú hodnotu a nikdy ich nemožno vymeniť za peniaze ani ceny.
+PREPÁČ, NEMÔŽEŠ HRAŤ
+{0} je dostupné iba pre dospelých.
+ODÍSŤ
+Zatvára sa o {0}...
+POVEDZ NÁM O SEBE
+Podľa toho vyberieme hostiteľov, krupiérov a obsluhu baru. Kedykoľvek to môžeš zmeniť v Nastaveniach.
+SOM MUŽ
+SOM ŽENA
+NECHCEM UVIESŤ
+VSTÚPIŤ DO KASÍNA
+Tvoja dnešná obsluha:
+Strana {0} z {1}
+JAZYK
+AUTOMATICKY
+KRAJINA
+Vitajte! Stávky, prosím.
+Limit stola je {0} na roztočenie.
+Ťukni na hraciu plochu a polož žetóny
+Stávky sú uzavreté!
+ZELENÁ
+zelená
+červená
+čierna
+Aký zásah! Gratulujem!
+Výhra! Vyhrávaš {0}.
+{0} {1}. Vracia sa ti {2}.
+Stávky, prosím.
+Počkaj, kým sa gulička zastaví.
+NASTAVENIA
+VŠEOBECNÉ
+GRAFIKA
+ZVUK
+DOTYK
+MYŠ
+OVLÁDAČ
+VIBRÁCIE
+18+ • Žetóny nemajú peňažnú hodnotu • Písma: Bebas Neue, Poppins, Noto (SIL OFL) • Hranice: Natural Earth • Cenové údaje: Svetová banka
+OBSLUHA KASÍNA
+ŽENY
+MUŽI
+ZMIEŠANÁ
+PRIPOMIENKY
+Žetóny zadarmo pripravené a večerné postrčenie predtým, než by séria skončila.
+SKONTROLOVAŤ ZNOVA
+CENOVÝ REGIÓN
+Najrýchlejšie: kasíno, ako je namaľované, nič navyše.
+Leštené podlahy, drevo a zlato odrážajú sálu.
+Filmový vzhľad: farebné ladenie, zrno, žiara, lúče svetla, živá pleť.
+Filmový objektív: ostrosť sleduje tvoj pohľad, odlesky na svetlách, prach v lúčoch.
+KVALITA
+NÍZKA
+STREDNÁ
+VYSOKÁ
+ULTRA
+ROZLÍŠENIE
+Nižšie je mäkšie, ale telefón sa menej hreje a šetrí batériu.
+REŽIM ZOBRAZENIA
+CELÁ OBRAZOVKA
+V OKNE
+VYHLADZOVANIE HRÁN
+Vyhladzuje zubaté hrany v kasíne.
+SNÍMKOVÁ FREKVENCIA
+{0} FPS
+30 FPS šetrí batériu a staršie telefóny sa toľko nehrejú.
+V-SYNC
+ZORNÉ POLE
+ZOBRAZIŤ FPS
+CELKOVÁ HLASITOSŤ
+HUDBA
+ZVUKOVÉ EFEKTY
+HLASY OBSLUHY
+Šum, ktorý obsluha vydáva, keď hovorí.
+STLMIŤ NA POZADÍ
+Stíši kasíno, keď si v inom okne.
+CITLIVOSŤ POHĽADU
+Ako rýchlo ťahanie otáča pohľad.
+Ako rýchlo ťahanie myšou otáča pohľad.
+OBRÁTIŤ POHĽAD VĽAVO / VPRAVO
+OBRÁTIŤ POHĽAD HORE / DOLE
+ROZLOŽENIE TLAČIDIEL
+AUTO
+PREHODIŤ MENU / ZOBRAZENIE
+CITLIVOSŤ PÁČKY
+Ako rýchlo pravá páčka otáča pohľad.
+OBRÁTIŤ PÁČKU VĽAVO / VPRAVO
+OBRÁTIŤ PÁČKU HORE / DOLE
+NÁPOVEDA OVLÁDAČA
+Ukazuje, čo robí každé tlačidlo, keď hráš s ovládačom.
+VIBROVAŤ NA
+TELEFÓN
+OBOJE
+Auto: ovládač, keď je pripojený, inak telefón.
+VIBRÁCIE TELEFÓNU
+SILA V TELEFÓNE
+VIBRÁCIE OVLÁDAČA
+SILA V OVLÁDAČI
+AUTOMATICKY ({0})
+{0} otvorí Nastavenia, {1} otvorí Denne.
+Nie je pripojený žiadny ovládač.
+Pripojené: {0}. Zobrazujú sa tlačidlá {1} (A vpravo potvrdzuje).
+Pripojené: {0}. Zobrazujú sa tlačidlá {1}.
+BAR
+ŠŤASTIE
+Žetóny, šťastie a jedlo sú virtuálne predmety iba na zábavu: žiadna peňažná hodnota, nemožno ich vymeniť za peniaze ani ceny.
+Každá karta má takú šancu, že príde v tvoj prospech, pri stávkach v blackjacku do {0} žetónov (vyššie stávky sú štandardné a ruky nespotrebúvajú). Začína sa po šťastí začiatočníka; silnejšie balíčky sa používajú ako prvé.
+Povoľ prístup k polohe a získaj cenu pre svoju krajinu
+Nákupy nie sú v tejto verzii hry dostupné.
+TESTOVACÍ OBCHOD (žiadne skutočné peniaze)
+energia
++{0} % ŽETÓNOV
+rúk: {0}
+vyhrá asi {0} % z nich
+Vitaj pri sic bo! Veľké, malé, alebo niečo odvážnejšie?
+Limit stola je {0} na hod.
+ZATRIASŤ
+TROJICA {0}!
+LUCKY ACE 7s
+CELKOVÁ STÁVKA
+VÝHERNÁ TABUĽKA
+VEĽA ŠŤASTIA!
+Na roztočenie potrebuješ aspoň 10 žetónov.
+ZÍSKAŤ ŽETÓNY
+Stávka znížená na sumu, ktorú pokryješ.
+MEGA VÝHRA!
+VEĽKÁ VÝHRA!
+VRÁTENÉ {0}
+BEZ VÝHRY
+LÍNIA {0}: {1} × {2} = {3}
+HVIEZDY ×{0} = {1}
+Čerešňa
+Citrón
+Pomaranč
+Slivka
+Zvonček
+Bar
+Sedmička
+Diamant
+Eso
+Hviezda
+HVIEZDY vyplácajú kdekoľvek: 5 = {0}× stávka, 4 = {1}× stávka, 3 = {2}× stávka.
+ESO je divoká karta: nahradí každý symbol okrem hviezdy.
+Výhry na líniách sú násobky stávky na líniu (celková stávka ÷ 10), zľava doprava od prvého valca.
+VÝPLATNOSŤ: {0} % z dlhodobého hľadiska. Každé roztočenie je nezávislé a náhodné.
+DRŽANÉ
+Rozdaj, podrž karty, ktoré chceš, a raz vymeň.
+DRŽAŤ
+RADA
+VYMENIŤ
+Ťukni na karty, ktoré chceš podržať, a potom vymeň.
+Chôdza
+Pohľad
+Tlačidlá
+Nastavenia
+Denne
+Upraviť
+Pohyb
+Vybrať
+Zavrieť
+Späť
+VYČERPANÝ
+ŠŤASTIE ZAČIATOČNÍKA {0} %
+ZOSTÁVA RÚK: {0}
+ŠŤASTNÁ SÉRIA {0} %
+RÚK: {0}  •  STÁVKY DO {1}
+ÚROVEŇ
+Sofia
+Elena
+Mia
+Valentina
+Chloe
+Isabella
+Nadia
+Aria
+Luna
+Camila
+Aurora
+Bianca
+Serena
+Marco
+Leo
+Adrian
+Lucas
+Viktor
+Daniel
+Gabriel
+Ethan
+Julian
+Rafael
+Mateo
+Nico
+Enzo
+VITAJTE
+POROZPRÁVAJ SA S HOSTESKOU
+Cesta a tipy
+ŽETÓNY  •  BONUSY
+KÚPIŤ ŽETÓNY
+Pokladňa
+KOKTEJLY  •  DESIATY  •  ENERGIA
+JEDLO A NÁPOJE
+Bar
+BLACKJACK VYPLÁCA 3 KU 2
+KRUPIÉR MUSÍ STÁŤ NA 17
+HRAŤ BLACKJACK
+Stôl {0}  •  stávky {1} až {2}
+HRAŤ HOLD'EM
+Ultimate Texas Hold'em  •  ante od {0} do {1}
+HRAŤ BACCARAT
+VEĽKÉ  •  MALÉ  •  TROJICE
+HRAŤ SIC BO
+Tri kocky  •  veľké alebo malé platí 1 : 1
+PASS LINE  •  FIELD  •  ODDS
+HRAŤ CRAPS
+Pass Line platí 1 : 1  •  odds platia skutočný kurz
+HRAŤ VIDEOPOKER
+HRAŤ NA AUTOMATOCH
+Jacks or Better  •  plná tabuľka 9/6
+LUCKY ACE 7s  •  VYPLÁCA AŽ 2 500× TVOJU STÁVKU NA LÍNIU
+JACKS OR BETTER  •  KRÁĽOVSKÁ POSTUPKA PLATÍ 800×
+STÁVKY, PROSÍM
+HRAŤ RULETU
+Európske koleso  •  priama stávka vypláca 35 ku 1
+OBJEDNAŤ SI DRINK
+{0} ho prinesie
+{0} sa otvorí na úrovni {1}. Máš úroveň {2}: každé odohrané kolo sa počíta.
+Tento stôl vyžaduje aspoň {0} žetónov.
+Stoly na blackjack sú priamo pred tebou. Prejdi k jednému a sadni si!
+Automaty sú pri pravej stene, videopoker pri zadnej a ruleta úplne vzadu.
+Hold'em je v ľavom zadnom rohu, za barom.
+Baccarat je hneď vľavo pri vchode.
+Sic bo je v rohu za pokladňou: tri kocky, veľké alebo malé.
+Stôl na craps je vpravo pred automatmi. Stav na Pass Line a hoď!
+Pokladňa je tu po tvojej pravici a bar je pozdĺž ľavej steny.
+Unavený? Desiata na bare ti hneď doplní energiu.
+Ťukni kamkoľvek na podlahu a prejdeš tam. Ťukni na stôl a sadneš si.
+Andorra
+Spojené arabské emiráty
+Afganistan
+Antigua a Barbuda
+Anguilla
+Albánsko
+Arménsko
+Angola
+Antarktída
+Argentína
+Americká Samoa
+Rakúsko
+Austrália
+Aruba
+Alandy
+Azerbajdžan
+Bosna a Hercegovina
+Barbados
+Bangladéš
+Belgicko
+Burkina Faso
+Bulharsko
+Bahrajn
+Burundi
+Benin
+Svätý Bartolomej
+Bermudy
+Brunej
+Bolívia
+Karibské Holandsko
+Brazília
+Bahamy
+Bhután
+Bouvetov ostrov
+Botswana
+Bielorusko
+Belize
+Kanada
+Kokosové ostrovy
+Konžská demokratická republika
+Stredoafrická republika
+Konžská republika
+Švajčiarsko
+Pobrežie Slonoviny
+Cookove ostrovy
+Čile
+Kamerun
+Čína
+Kolumbia
+Kostarika
+Kuba
+Kapverdy
+Curaçao
+Vianočný ostrov
+Cyprus
+Česko
+Nemecko
+Džibutsko
+Dánsko
+Dominika
+Dominikánska republika
+Alžírsko
+Ekvádor
+Estónsko
+Egypt
+Západná Sahara
+Eritrea
+Španielsko
+Etiópia
+Fínsko
+Fidži
+Falklandy
+Mikronézia
+Faerské ostrovy
+Francúzsko
+Gabon
+Spojené kráľovstvo
+Grenada
+Gruzínsko
+Francúzska Guyana
+Guernsey
+Ghana
+Gibraltár
+Grónsko
+Gambia
+Guinea
+Guadeloupe
+Rovníková Guinea
+Grécko
+Južná Georgia a Južné Sandwichove ostrovy
+Guatemala
+Guam
+Guinea-Bissau
+Guyana
+Hongkong – OAO Číny
+Heardov ostrov a Macdonaldove ostrovy
+Honduras
+Chorvátsko
+Haiti
+Maďarsko
+Indonézia
+Írsko
+Izrael
+Ostrov Man
+India
+Britské indickooceánske územie
+Irak
+Irán
+Island
+Taliansko
+Jersey
+Jamajka
+Jordánsko
+Japonsko
+Keňa
+Kirgizsko
+Kambodža
+Kiribati
+Komory
+Svätý Krištof a Nevis
+Severná Kórea
+Južná Kórea
+Kuvajt
+Kajmanie ostrovy
+Kazachstan
+Laos
+Libanon
+Svätá Lucia
+Lichtenštajnsko
+Srí Lanka
+Libéria
+Lesotho
+Litva
+Luxembursko
+Lotyšsko
+Líbya
+Maroko
+Monako
+Moldavsko
+Čierna Hora
+Svätý Martin (fr.)
+Madagaskar
+Marshallove ostrovy
+Severné Macedónsko
+Mali
+Mjanmarsko
+Mongolsko
+Macao – OAO Číny
+Severné Mariány
+Martinik
+Mauritánia
+Montserrat
+Malta
+Maurícius
+Maldivy
+Malawi
+Mexiko
+Malajzia
+Mozambik
+Namíbia
+Nová Kaledónia
+Niger
+Norfolk
+Nigéria
+Nikaragua
+Holandsko
+Nórsko
+Nepál
+Nauru
+Niue
+Nový Zéland
+Omán
+Panama
+Peru
+Francúzska Polynézia
+Papua-Nová Guinea
+Filipíny
+Pakistan
+Poľsko
+Saint Pierre a Miquelon
+Pitcairnove ostrovy
+Portoriko
+Palestínske územia
+Portugalsko
+Palau
+Paraguaj
+Katar
+Réunion
+Rumunsko
+Srbsko
+Rusko
+Rwanda
+Saudská Arábia
+Šalamúnove ostrovy
+Seychely
+Sudán
+Švédsko
+Singapur
+Svätá Helena
+Slovinsko
+Svalbard a Jan Mayen
+Slovensko
+Sierra Leone
+San Maríno
+Senegal
+Somálsko
+Surinam
+Južný Sudán
+Svätý Tomáš a Princov ostrov
+Salvádor
+Svätý Martin (hol.)
+Sýria
+Eswatini
+Turks a Caicos
+Čad
+Francúzske južné a antarktické územia
+Togo
+Thajsko
+Tadžikistan
+Tokelau
+Východný Timor
+Turkménsko
+Tunisko
+Tonga
+Turecko
+Trinidad a Tobago
+Tuvalu
+Taiwan
+Tanzánia
+Ukrajina
+Uganda
+Menšie odľahlé ostrovy USA
+Spojené štáty
+Uruguaj
+Uzbekistan
+Vatikán
+Svätý Vincent a Grenadíny
+Venezuela
+Britské Panenské ostrovy
+Americké Panenské ostrovy
+Vietnam
+Vanuatu
+Wallis a Futuna
+Samoa
+Kosovo
+Jemen
+Mayotte
+Južná Afrika
+Zambia
+Zimbabwe
+Angličtina
+Afrikánčina
+Amharčina
+Arabčina
+Azerbajdžančina
+Bieloruština
+Bulharčina
+Bengálčina
+Bosniačtina
+Katalánčina
+Čeština
+Dánčina
+Nemčina
+Gréčtina
+Španielčina
+Estónčina
+Baskičtina
+Perzština
+Fínčina
+Filipínčina
+Francúzština
+Írčina
+Galícijčina
+Gudžarátčina
+Hauština
+Hebrejčina
+Hindčina
+Chorvátčina
+Francúzština (Haiti)
+Maďarčina
+Arménčina
+Indonézština
+Igboština
+Islandčina
+Taliančina
+Japončina
+Gruzínčina
+Kazaština
+Khmérčina
+Kannadčina
+Kórejčina
+Kirgizština
+Luxemburčina
+Laoština
+Litovčina
+Lotyština
+Malgaština
+Macedónčina
+Malajálamčina
+Mongolčina
+Maráthčina
+Malajčina
+Maltčina
+Barmčina
+Nórčina (bokmal)
+Nepálčina
+Holandčina
+Pandžábčina
+Poľština
+Paštčina
+Portugalčina (Brazília)
+Portugalčina (Portugalsko)
+Rétorománčina
+Rumunčina
+Ruština
+Rwandčina
+Sinhalčina
+Slovenčina
+Slovinčina
+Somálčina
+Albánčina
+Srbčina
+Švédčina
+Swahilčina
+Tamilčina
+Telugčina
+Tadžičtina
+Thajčina
+Turkménčina
+Turečtina
+Ukrajinčina
+Urdčina
+Uzbečtina
+Vietnamčina
+Xhoština
+Jorubčina
+Čínština (zjednodušené)
+Čínština (tradičné)
+Zuluština
+Ne
+Po
+Ut
+St
+Št
+Pi
+So

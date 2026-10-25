@@ -1,0 +1,659 @@
+# Haitian Creole (ht). Machine translation by Claude.
+bd99124	Yon Ponyen Jeton
+c7c6dc8	Yon Pil Jeton
+7512cfd	Yon Plato Jeton
+fa36588	Yon Etajè Jeton
+7994f65	PI POPILÈ
+49dcc21	Yon Kòfrefò Jeton
+0725283	Kòfrefò Gwo Jwè a
+7658705	PI BON VALÈ
+2f23432	Dlo Gazez
+418b820	Espresso
+97b463c	Bwason Enèji
+43bbfda	Sandwich Klib
+bce7a75	Manje Burger
+2832a8d	Dine ak Steak
+dee8ee8	RANPLI NÈT
+a7c2255	Seri Chans
+7919163	Seri Cho
+74fdfc2	PLIS CHANS
+d79cd12	Tab an Bwonz
+2a8ff35	Tab an Ajan
+51877b2	Tab an Lò
+9282152	Tab an Dyaman
+0de8764	Tanpri antre yon ane ki valab.
+d4e14c9	Tanpri antre yon mwa ki valab (1-12).
+addd156	Tanpri antre yon jou ki valab.
+d78a4f4	Dat sa a nan lavni.
+787c7c6	Byenvini sou tab mwen! Ou pare pou jwe?
+8b0f93e	Mwen kontan wè w. Chita!
+8338021	Bonjou! Kat yo tou nèf, mwen menm tou.
+75750f9	Byenvini! Ann fè aswè a bèl.
+95aac36	Mete pari w lè w pare.
+8bc63c1	Jeton yo atè, ann wè kèk kat.
+984b7f3	Pou kisa n ap jwe?
+b74c769	Wouy, yon gwo pari! Mwen renmen stil ou.
+77fc1fc	Sa se yon pari. Ann ale!
+7779a5b	Ou brav aswè a, pa vre?
+479ff82	Tout?! Kè m ap bat fò!
+7fb527c	Tout sou yon sèl men. San pè!
+7bf0c5d	Blackjack! Enkwayab!
+123f2d5	Venteyen, konsa konsa!
+cd850a7	Blackjack! Kat yo renmen w aswè a.
+55f50ee	Byen jwe!
+79594b1	Ou genyen! Bravo.
+0df710e	Ou nan bon wout!
+20a0c1e	Sa a se pa w.
+a45fe61	Ala yon viktwa! Tout moun ap gade tab sa a!
+54d3982	Gwo! Ou cho aswè a!
+8da8f1e	Tou pre! Pwochen an se pa w.
+5d921e1	Kazino a te gen chans fwa sa a.
+f923af7	Bliye sa, yon nouvo men ap vini.
+853e7ca	Ay, yon kat twòp.
+daec44f	Ou depase! Sa rive menm pi bon yo.
+11ceaef	Egalite. Pèsonn pa pèdi!
+911a289	Egalite. Jeton w yo an sekirite.
+a89d9d9	Mwen depase! Ou gen chans.
+f76c8fd	Twòp pou mwen. Ou genyen!
+63f8d0b	Blackjack pou kazino a, eskize m!
+465c8bf	Diyè a gen blackjack. Malchans.
+6752f40	M ap montre yon As. Asirans?
+1920c5a	N ap separe! De chans pou genyen.
+9f621da	Double. Mouvman kouraj!
+59da99d	Double l! Yon kat ap vini.
+0b48017	Nouvo soulye, m ap bat kat yo!
+3fa7769	Yo prèske fini? Kesye a ka ranpli w.
+4e5694b	Jeton yo ap diminye. Ou vle plis?
+d41f057	Pa gen jeton ankò! Ale kot kesye a oswa pran jeton gratis.
+15d90d3	Pil ou a vid. Kesye a dèyè w la menm.
+a9eaae1	Ou sanble fatige anpil! Manje yon bagay nan ba a.
+5cd9e8b	Ou pa gen fòs ankò? Ba a ap okipe w.
+37b9672	Pran tan w.
+c64df8c	Nenpòt lè ou pare!
+b8dfc0a	Lannwit lan jèn toujou.
+8748560	Chans debitan an avè w!
+e3def50	Kat yo bò kote w aswè a!
+506ade9	Chans debitan an fini. Depi kounye a jwèt la jis!
+953d8b7	Byenvini nan kazino a! Plas ou ap tann ou.
+9fd9844	Bonswa! Tab yo cho aswè a.
+2d42aaf	Byenvini ankò! Ou santi w gen chans?
+311bae7	Tape sou yon tab pou kòmanse jwe!
+3318099	Ou bezwen plis jeton? Ou vini nan bon fenèt la.
+c5b3787	Pi gwo pil, pi gwo bonis!
+21ae665	Ou grangou? Chwazi nenpòt bagay nan meni an.
+8b83cc0	Yon ti manje kenbe enèji w wo!
+35f4b0e	Byenvini sou tab mwen!
+8f90245	Men ou! Kote a deja pi klere.
+909e4d6	Fè tankou lakay ou. Aswè a se pou ou.
+2477f78	Mwen renmen souri sa a. Yon aswè chans?
+6ac2120	Detann ou, ou nan bon men isit la.
+089f04b	Ou menm! M te espere w t ap pase nan fenèt mwen.
+3f2c3c9	Li toujou bon pou wè yon figi zanmi.
+3021db8	Gade ki moun ki la! W ap pran plezi?
+769980b	Bonjou, bèl!
+5361ffd	Mwen renmen stil ou aswè a.
+56b40be	Hey, mwen kontan wè w ankò!
+3316019	Ou pase yon bon aswè? Ou merite l.
+28283fd	Fè atansyon, m ka kòmanse ankouraje w.
+109ac94	Jwè mwen pi renmen an tounen!
+acba0e6	Chita avè m, m ap ba w yon bagay bèl.
+eb5ff2a	Ou fè tab sa a pi amizan anpil.
+772a73c	Ou deja prale? Lannwit lan jèn toujou!
+178301a	Annou, jis yon men ankò. Mwen gen yon bon santiman!
+816036a	Ou pa ka kite m kounye a, nou fèk kòmanse!
+5c9b7e2	Dènye chans! Pwochen men an ka se gwo a...
+20ce7b6	Oke, oke. M ap kenbe plas ou cho. Ou pwomèt pou w tounen?
+51d1aeb	Ou poko gen seri? Jwe {2} wonn jodi a epi m ap kòmanse konte.
+10b25d9	Nouvo kòmansman! {2} wonn epi flanm ou limen.
+0c10711	Mwen gen yon ti lis moun ki vini chak jou. Ou pa ladan l... poko.
+5e7c431	Jou {1} ap tann ou. Sèlman {2} wonn ki rete!
+b268d84	{0} jou youn dèyè lòt... ou pa pral sispann kounye a, pa vre?
+b32ae79	Flanm ou sanble yon ti jan frèt jodi a. {2} wonn ap chofe l.
+a6f3fbd	M ap konte: {0} jou. Ann fè l {1}.
+1dc5c97	Pa panse m pa remake. {2} wonn ki rete pou kenbe seri w la!
+807b82c	{0} jou youn dèyè lòt? M kòmanse panse ou renmen isit la.
+6391923	Seri w la an sekirite pou jodi a. Kounye a w ap fè grandizè sèlman.
+3bfbbf7	Jou {0}, fini. Demen menm lè?
+ca2a2c1	{0} jou! Mwen ta dwe kenbe yon plas pou ou.
+54f991f	Men li: premye jou seri w la! Tounen demen pou n fè l de.
+a1e7ab0	Yon semèn antye youn dèyè lòt! Mwen vrèman enpresyone.
+96cee95	Trant jou! Ou prèske travay isit la kounye a.
+a9834cd	San jou. M ap pale tout moun de ou.
+071317f	Sa fè {0} jou youn dèyè lòt! Gade w.
+0964027	Seri a sove: jou {0}! M te konnen ou t ap rive.
+c7f2a1f	Jou {0}! M parye ou p ap rive {1}.
+a6ce2e2	{0} jou... oke, grandizè.
+3ab91d0	Jwe 10 men blackjack
+38e863d	Genyen 5 men blackjack
+6ac41cc	Fè yon blackjack
+74cf149	Genyen 500 jeton nan blackjack
+66440e1	Vire machin slot yo 20 fwa
+9205056	Genyen 5 vire slot
+cd60e0c	Genyen 5× pari w nan slot yo
+6f7ac28	Jwe 5 wonn woulèt
+6978cc0	Genyen 3 vire woulèt
+c8ebbcc	Frape yon nimewo dirèk
+8a57c54	pozisyon GPS
+4919635	rezo mobil
+527b094	koneksyon entènèt
+f49ae82	paramèt aparèy la
+60827d3	peyi tès
+0b2f8d8	pa verifye (pri nòmal)
+50d8b4a	enkoni
+4fb7a4e	1ye 12
+647a0eb	2yèm 12
+a934745	3yèm 12
+3de80ab	2 pou 1
+bb4e68e	WOUJ
+a9414ab	NWA
+710756a	ENPÈ
+70ca748	PÈ
+4d60d6c	PRI JIS POU PEYI W
+1674d95	Pri nan magazen an ajiste selon ekonomi peyi w, pou jwè toupatou peye yon pri jis.
+4ec27ee	Pou nou jwenn peyi w, nou tcheke pozisyon apeprè w yon sèl fwa. Nou konpare l ak yon peyi sou aparèy ou a epi nou pa janm voye l okenn kote. Si w refize, pri nòmal yo aplike.
+ff3dbb4	KONTINYE
+43a6a8d	Kite kazino a?
+ad209a0	Jeton ou ak pwogrè w sove.
+5860c84	SOTI
+f1e0808	RETE
+5b38c49	{0} debloke
+15ae7ac	Yon jèl seri te sove seri {0} jou ou a yè.
+d375ffb	{0} jèl seri te sove seri {1} jou ou a.
+fd8ab39	Seri {0} jou ou a fini. Jwe {1} wonn jodi a pou kòmanse yon lòt!
+7fa2db4	MISYON FINI
+255325c	+{0} jeton
+d205ece	TOUT MISYON FINI!
+4acbed2	Bonis chak jou +{0} jeton. Nouvo misyon demen.
+ab2ceb3	NIVO {0}!
+86e2afb	Etap enpòtan! +{0} jeton
+9ae18ad	Tounen demen pou kontinye
+7af7e7c	+1 jèl seri
+b5b9597	SERI {0} JOU!
+62ec60d	Acha pa disponib nan vèsyon sa a.
+1f9786c	Acha a echwe. Yo pa retire lajan sou ou.
+3e4c600	+{0} jeton ajoute!
+1998202	{0}: {1} men ak {2}% chans, apre Chans Debitan an
+728ada5	{0}: {1} men ak {2}% chans!
+af5e232	{0}: +{1}% enèji
+001a53b	Pa disponib sou aparèy sa a
+2607004	Videyo pa ka chaje sou rezo sa a
+569c30d	Tounen demen
+ecae6ee	Pare nan {0}s
+9964820	+{0} jeton ({1} ki rete jodi a)
+e1bd888	+{0} jeton gratis!
+619bd5d	+1 jèl seri!
+f70d794	Pa gen videyo kounye a. Eseye ankò nan yon ti moman.
+264d71b	BWONZ
+462e839	AJAN
+81ff70a	LÒ
+50e122e	DYAMAN
+57f5f5e	Meni
+69bd4ef	Vi
+dbfe736	Kwa
+1cc7820	Sèk
+82810cb	Kare
+73d3ae2	Triyang
+a42f608	N ap tcheke rejyon w...
+1db422c	Pa verifye ({0}): pri nòmal
+9bc0807	{0} ({1}): pri an {2}
+ae8c393	Rapèl
+aefd59b	Jeton gratis pare ak rapèl seri
+3125838	Jeton gratis ou yo pare
+233027b	{0} jeton ap tann ou nan Lucky Ace.
+b93976b	Kenbe seri {0} jou ou a
+bd68038	Jwe {0} wonn jodi a pou l pa rekòmanse a minwi.
+0acfb6f	Byenvini! Chans debitan an avè w aswè a. Mete yon pari!
+d589374	BLACKJACK PEYE 3 POU 2   •   DIYÈ A KANPE SOU TOUT 17   •   ASIRANS PEYE 2 POU 1
+b700b02	PARI
+16ec74f	EFASE
+928226b	REPARYE
+55591e0	DISTRIBYE
+395ed46	KAT
+43e7971	KANPE
+097274c	DOUBLE
+6df63ca	SEPARE
+3e40f46	ASIRE
+db82d3a	NON MÈSI
+28d6be8	PARI {0}+
+9587b70	Ou rive nan maksimòm tab la
+b9ac47d	Pa ase jeton
+d237ade	Diyè a montre yon As. Asire pou {0}?
+bf07c14	Asirans peye {0}
+b6e674a	Diyè a pa gen blackjack. Asirans pèdi.
+0cc9679	DEPASE
+82ce89d	DIYÈ A DEPASE
+6e1e1a4	BLACKJACK!
+662fae5	GENYEN
+8918d00	EGALITE
+8df6be4	PÈDI
+9e69668	Chans debitan an fini. Seri Chans ou kòmanse kounye a.
+822f4f4	Chans debitan an fini. Depi kounye a se blackjack nòmal.
+b0377c7	Seri Chans ou fini. N ap tounen nan blackjack nòmal.
+824ad7c	PA GEN JETON
+ff1822d	Gade yon ti videyo pou {0} jeton gratis, oswa ale kot kesye a.
+e4cac2f	Ale kot kesye a pou ranpli jeton w.
+c3df3e7	JETON GRATIS
+b169d33	KESYE
+4d38f66	PITA
+cb8171b	Fini men sa a anvan.
+3aa6941	« {0} »
+6f846f4	YON MEN ANKÒ
+a79d4f2	ALE
+693f697	CHANS DEBITAN
+641ad58	SERI CHANS
+fc45931	Bonis byenveni pou nouvo jwè: pou premye <b>{0} men</b> ou yo, soulye diyè a ranje an favè w, kidonk ou ap genyen prèske chak men.
+576c683	Pandan <b>{0} men</b> ki vin apre yo, avantaj la ap diminye, epi apre sa chak tab se blackjack nòmal ak jis ki soti nan yon soulye 6 pake ki bat (blackjack peye 3 pou 2, diyè a kanpe sou tout 17).
+7fb55b3	Avantaj kounye a: <b><color=#7CFC9A>{0}%</color></b>   Men ki rete: <b>{1}</b>
+d4f8fe0	Pou pwochen <b>{0} men blackjack</b> ou yo ak yon pari jiska <b>{1} jeton</b>, chak kat gen <b>{2}%</b> chans pou l vini an favè w (menm avantaj ak Chans Debitan an).
+0a5fc06	Ak bon jwèt sa genyen anviwon <b>{0}%</b> nan men yo, konpare ak anviwon {1}% nan blackjack nòmal. Pi gwo pari yo se blackjack nòmal epi yo pa itilize men. Lè men yo fini, chak tab tounen blackjack nòmal ak jis ankò.
+c3a8946	MWEN KONPRANN
+8dfc44a	OU VLE CHANS OU TOUNEN?
+272a97f	Chans Debitan an fini: depi kounye a chak tab se blackjack nòmal ak jis. Yon Seri Chans fè avantaj la tounen pou yon ti tan.
+06b7689	CHAK JOU
+4035996	SERI CHAK JOU
+fbe7f18	JOU YOUN DÈYÈ LÒT
+7a46866	JODI A
+4753707	GADE PIBLISITE
+6bb45f3	ACHTE
+62a945f	JÈL SERI
+ba5b1de	Yon jèl seri kenbe seri w vivan yon jou ou pa jwe. Ou ka genyen jiska {0}.\n\nAchte youn pou {1} jeton?
+38c6090	Jèl seri pare.
+8fe681f	Pa ase jeton pou yon jèl.
+1507c40	ANILE
+457d20f	VIRE CHAK JOU
+9623247	VIRE
+ac5ef96	Chans:
+1200f20	{0}%
+003a689	Ou genyen {0} jeton!
+f757137	MISYON JODI A
+7b7f9e2	Pi bon: {0} jou
+9554fea	Jwe chak jou pou bati yon seri
+5c8dbb8	Objektif jodi a fini! N a wè demen.
+1aeb9a1	Jodi a: {0} / {1} wonn (nenpòt jwèt)
+bb92856	Jèl seri: {0} / {1}
+0ec6216	Sove seri w yon jou ou rate. +1 chak 7 jou.
+cc0a745	PLEN
+419a962	PA GEN VIDEYO
+2dabd99	PIBLISITE BYENTO
+f12e166	Bonis seri: pri ×{0}
+80948a4	Yon vire gratis chak jou
+596b5e0	PWOCHEN  {0}
+7f7e7fc	Tout fini! Bonis ranmase.
+03a0f2a	Nouvo misyon a minwi.
+4784874	Fini tou le twa: +{0} jeton bonis
+42c5cda	JWE
+337211e	JWÈT
+8f5e3bd	Glise bò gòch pou mache  •  Glise bò dwat pou gade  •  Tape pou ale
+d00d221	18+ sèlman  •  Jeton yo se pou plezi: yo pa gen valè lajan, yo pa janm ka chanje pou lajan oswa pri
+b60f038	N ap louvri pòt yo...
+2e5bcce	Byenvini! {0} jeton byenveni ou yo pare. Tab yo dwat devan w!
+7ef7ae3	+{0} jeton gratis! Plis nan {1} èdtan.
+5d82af9	Jeton gratis ranpli chak {0} èdtan. Pwochen an nan {1}.
+5469985	{0}è {1}m
+bb65beb	{0}m {1}s
+ac8ba93	KENBE SERI W
+560bfa1	Ou vle yon rapèl nan aswè ou poko jwe, ak lè jeton gratis ou yo pare? Jamè plis pase sa, epi ou ka fèmen l nan Paramèt.
+b724a40	FÈ M SONJE
+9e0c898	+{0} jeton pare!
+1207e28	Gade yon videyo: {0}
+db3655b	Pwochen jeton gratis nan {0}
+4ca9be5	BLACKJACK
+9a612b1	4 tab  •  peye 3 pou 2
+1194439	SLOT
+6555152	Lucky Ace 7s  •  10 liy
+255b1a1	WOULÈT
+6df1551	Ewopeyen ak yon sèl zewo
+379b146	OU FATIGE ANPIL
+340e5c4	Ba enèji w la vid. Pran yon bagay nan ba a pou kontinye jwe, oswa tounen pita: enèji a ap tounen dousman pandan ou pa la.
+a517396	ALE NAN BA A
+7c7227f	CHWAZI TAB OU
+c963de3	PARI
+c433657	NIVO {0}
+083ac39	CHITA
+9698219	BEZWEN {0}
+34b737e	Rive nivo {0} pou jwe isit la. Ou nivo {1}.
+6cc19a9	KAZINO
+6e946b7	JJ
+4a3a892	MM
+2857a6a	AAAA
+9d1fece	JOU
+d3bb0c3	MWA
+c0f0cad	ANE
+43985ff	KILÈ OU FÈT?
+293fda2	Jeton yo se pou amizman sèlman. Yo pa gen valè lajan epi yo pa janm ka chanje pou lajan oswa pri.
+3e9128d	ESKIZE NOU, OU PA KA JWE
+b5e8985	{0} disponib pou granmoun sèlman.
+bb1b380	SOTI
+d9f9432	L ap fèmen nan {0}...
+c6e102d	PALE NOU DE OU
+31120ce	N ap chwazi otès, diyè ak anplwaye ba ki mache ak ou. Ou ka chanje sa nenpòt lè nan Paramèt.
+49e8df9	MWEN SE YON GASON
+85abe81	MWEN SE YON FI
+76cc98c	MWEN PREFERE PA DI
+964daf7	ANTRE NAN KAZINO A
+2efb69a	Anplwaye w aswè a:
+c10e749	Paj {0} sou {1}
+2a3ffd9	LANG
+c673535	OTOMATIK
+d1245d2	PEYI
+15fc12b	Byenvini! Mete pari nou, tanpri.
+531fb3f	Pa ase jeton pou pari sa a.
+380eb75	Limit tab la se {0} pou chak vire.
+55ad592	ANILE DÈNYE A
+8f191f9	PARI TOTAL  {0}
+82e1181	Tape sou tablo a pou mete jeton
+bb19a75	Pa gen pari ankò!
+5becf07	VÈT
+bc74f4f	vèt
+7898801	wouj
+466bc8c	nwa
+f2edfbf	Ala yon kou! Konpliman!
+b252caf	Ou genyen! Ou genyen {0}.
+8587d14	GENYEN  +{0}
+b862a2b	{0} {1}. {2} tounen ba ou.
+a306d0a	REMÈT  {0}
+af3134d	Pa gen genyen fwa sa a
+84122e7	Mete pari nou, tanpri.
+52205f4	Tann boul la kanpe.
+c4b9243	PARAMÈT
+44d863e	JENERAL
+2bbca79	GRAFIK
+955c8b4	SON
+c701f5f	MANYEN
+efcc94a	SOURI
+8433628	MANNÈT
+d868a50	VIBRASYON
+f8692c7	18+ • Jeton yo pa gen valè lajan • Polis: Bebas Neue, Poppins, Noto (SIL OFL) • Fwontyè: Natural Earth • Done sou pri: Bank Mondyal
+da46447	ANPLWAYE KAZINO A
+594b81e	FANM
+69d3313	GASON
+b4325d3	MELANJE
+414594a	RAPÈL
+6cac87b	Jeton gratis pare, ak yon ti rapèl nan aswè anvan yon seri fini.
+e43b2e0	TCHEKE ANKÒ
+7c9e8f9	REJYON PRI
+495c70e	Pi rapid: kazino a jan li pentire a, anyen anplis.
+b052523	Atè ki klere, bwa ak lò reflete sal la.
+6bd30d7	Aparans fim: koulè ki ajiste, grenn, ekla, reyon limyè, po ki vivan.
+21b6e1d	Lantiy sinema: fokis la swiv je w, tras sou limyè yo, pousyè nan reyon yo.
+fb7c2e8	KALITE
+d8b9679	BA
+f68525a	MWAYEN
+d77d0b2	WO
+9289eee	ULTRA
+637e313	REZOLISYON
+2e7b141	Pi ba a pi dous men li pi frèt epi li sove batri.
+93dcfb5	MÒD EKRAN
+3c6eac3	TOUT EKRAN
+f3690b1	FENÈT
+cfa6200	LISE BÒDI YO
+ad50489	FÈMEN
+f178804	Lise bòdi ki gen dan nan kazino a.
+4266288	VITÈS IMAJ
+d031ab0	{0} FPS
+a2b7514	30 FPS sove batri epi kenbe vye telefòn yo frèt.
+0babcee	V-SYNC
+6656e25	CHAN VIZYON
+244aadb	MONTRE FPS
+41c8f6e	VOLIM PRENSIPAL
+bf3af1f	MIZIK
+bd80907	EFÈ SON
+d098036	VWA ANPLWAYE YO
+93c6484	Bougonnen anplwaye yo fè lè y ap pale.
+16bf71a	SILANS LÈ L DÈYÈ
+85b2ee7	Fè kazino a pe lè ou nan yon lòt fenèt.
+8e3634e	SANSIBILITE GADE
+880dc05	Ki vitès glise vire vi a.
+750c60f	Ki vitès glise ak souri vire vi a.
+8b988eb	ENVÈSE GADE GÒCH / DWAT
+cacf0cc	ENVÈSE GADE ANWO / ANBA
+2d13b68	DISPOZISYON BOUTON
+50c3f10	OTO
+b471e5c	CHANJE MENI / VI
+d9a59f1	SANSIBILITE BATON
+ec14343	Ki vitès baton dwat la vire vi a.
+a79af23	ENVÈSE BATON GÒCH / DWAT
+acfc66e	ENVÈSE BATON ANWO / ANBA
+56bb461	ENDIKASYON MANNÈT
+51cf49a	Montre sa chak bouton fè pandan w ap jwe ak yon mannèt.
+dff7431	VIBRE SOU
+34139ab	TELEFÒN
+15ee988	TOU DE
+465cc91	Oto: mannèt la lè l konekte, sinon telefòn nan.
+f6fed84	VIBRASYON TELEFÒN
+8e97fa7	FÒS TELEFÒN
+486ba2d	VIBRASYON MANNÈT
+8008889	FÒS MANNÈT
+ea9233e	OTOMATIK ({0})
+167dda7	{0} louvri Paramèt, {1} louvri Chak Jou.
+29a4ef9	Pa gen mannèt konekte.
+558ecd2	Konekte: {0}. N ap montre bouton {1} (A adwat la konfime).
+d6eee9e	Konekte: {0}. N ap montre bouton {1}.
+78525d5	BA A
+099db9f	CHANS
+b4a8b06	Jeton, chans ak manje se bagay vityèl pou amizman sèlman: yo pa gen valè lajan, yo pa ka chanje pou lajan oswa pri.
+e2a28c9	Chak kat gen chans sa a pou l vini an favè w, sou pari blackjack jiska {0} jeton (pi gwo pari yo nòmal epi yo pa itilize men). Li kòmanse apre Chans Debitan an; pi fò pake yo itilize an premye.
+04fbc6d	Pèmèt aksè pozisyon pou jwenn pri peyi w
+2ae87fc	Acha pa disponib nan vèsyon jwèt sa a.
+8239a84	MAGAZEN TÈS (pa gen vrè lajan)
+173d916	enèji
+b2c67eb	+{0}% JETON
+58e8011	{0} men
+ce80712	genyen anviwon {0}% nan yo
+c69e8ee	LUCKY ACE 7s
+fc99288	PARI TOTAL
+c1c00cd	TAB PEMAN
+3930abd	BÒN CHANS!
+67b6973	Ou bezwen omwen 10 jeton pou vire.
+5aa1edb	PRAN JETON
+f5a1812	Pari a bese pou sa ou ka peye.
+5c63f61	MEGA GENYEN!
+652544f	GWO GENYEN!
+91bc41c	REMÈT {0}
+3714283	PA GEN GENYEN
+33c0faa	LIY {0}: {1} × {2} = {3}
+9f59e6e	{0} ZETWAL = {1}
+d6eee90	Seriz
+4459b79	Sitwon
+09fb6aa	Zoranj
+cb92e50	Prin
+d419866	Klòch
+e496fd2	Bar
+63abb56	Sèt
+b3850e0	Dyaman
+fc2b5a9	As
+85a7de6	Zetwal
+c31b035	ZETWAL yo peye nenpòt kote: 5 = {0}× pari, 4 = {1}× pari, 3 = {2}× pari.
+f97509c	AS la se jokè: li ranplase tout senbòl eksepte zetwal la.
+3e8bc69	Peman liy yo se miltip pari liy lan (pari total ÷ 10), de gòch a dwat depi premye wou a.
+523f8dc	RETOU: {0}% sou lontan. Chak vire endepandan epi o aza.
+e0c705d	Mache
+b8db515	Gade
+503d46d	Bouton
+c7f73bb	Paramèt
+728298d	Chak Jou
+ab166bd	Ajiste
+76cdb95	Deplase
+8598222	Chwazi
+bbfa773	Fèmen
+b52b36b	Tounen
+ab37588	FATIGE
+9b11a09	CHANS DEBITAN {0}%
+0c94e98	{0} MEN KI RETE
+51ed273	SERI CHANS {0}%
+3401470	{0} MEN  •  PARI JISKA {1}
+f481cc6	NIVO
+0139615	BYENVINI
+daad514	PALE AK OTÈS LA
+bcefb10	Direksyon ak konsèy
+c28e782	JETON  •  BONIS
+0c69ec4	ACHTE JETON
+78c0727	Kesye
+1737fab	KOKTÈL  •  TI MANJE  •  ENÈJI
+9e008ae	MANJE AK BWASON
+f7881e8	Ba a
+0e979ed	BLACKJACK PEYE 3 POU 2
+eea0d12	DIYÈ A DWE KANPE SOU 17
+4db37bf	JWE BLACKJACK
+0ffdd99	Tab {0}  •  pari {1} rive {2}
+b4f938b	JWE SLOT
+6b7caea	METE PARI NOU
+26b1e39	JWE WOULÈT
+910a1ed	Wou ewopeyen  •  nimewo dirèk peye 35 pou 1
+7ef0215	KÒMANDE YON BWASON
+fe38d73	{0} ap pote l
+f7b6306	{0} ap louvri nan nivo {1}. Ou nivo {2}: chak wonn ou jwe konte.
+d85f1ad	Tab sa a bezwen omwen {0} jeton.
+cbfe016	Tab blackjack yo dwat devan w. Mache al jwenn youn epi chita!
+64d9faf	Kesye a la a sou bò dwat ou, epi ba a sou mi gòch la.
+e4c6e0b	Ou fatige? Yon ti manje nan ba a ranpli enèji w touswit.
+d5ab68f	Tape nenpòt kote atè a epi w ap mache rive la. Tape sou yon tab pou chita.
+cc21f74	PITI
+dc01dec	GWO
+5fb90b0	NENPÒT TRIPLE
+9c716f1	Tab hold'em
+3b6ab84	Jwe 8 men hold'em
+6c617ca	Genyen 4 men hold'em
+44ce500	Jwe 10 men baccarat
+b90cff7	Genyen 5 men baccarat
+3e4dfa9	Jwe 15 men video poker
+854fe20	Jwe 8 tou sic bo
+dfddac1	Genyen 4 tou sic bo
+2973ea7	Voye zo yo 15 fwa nan craps
+737be17	Genyen 4 jete nan craps
+4dbb81d	Fè yon flush oswa pi bon nan video poker
+19aa07b	Royal flush
+cf83e72	Straight flush
+d27ba03	Kat menm
+dbe8641	Full house
+7c936d7	Flush
+2501c65	Swit
+ca1a0d4	Twa menm
+6876b40	De pè
+2537f88	Pè
+b4b323e	Kat ki pi wo
+f70bfdc	Jack oswa pi bon
+98fd5af	BACCARAT
+df66d5a	Byenveni nan baccarat! Jwè, Bank oswa Egalite?
+5055efd	JWÈ
+3f90696	EGALITE
+0d75f63	BANK
+0ebd5a4	DÈNYE REZILTA
+511993d	J
+ae4f281	B
+c2c53d6	E
+781246e	Chwazi yon jeton, epi tape Jwè, Bank oswa Egalite
+11023a0	EGALITE  {0}
+503d5f1	JWÈ A GENYEN  {0} KONT {1}
+0eb4be5	BANK LAN GENYEN  {0} KONT {1}
+7859af1	CRAPS
+4083dbd	Byenveni nan craps! Parye sou Pass Line epi voye.
+d266326	SIS
+c506f3a	NÈF
+987f4e9	FIELD
+71c1b2b	2 3 4 9 10 11 12  •  2 ak 12 peye doub
+d0ac294	NENPÒT 7
+9b2f0c3	NENPÒT CRAPS
+f62ac59	DON'T PASS BAR
+6080ade	1:1  •  12 se egalite
+c07247a	PASS LINE
+6229f78	ODDS
+29bf819	vrè chans
+387d7a5	ON
+229c9cc	Odds yo ale dèyè Pass Line lè gen yon pwen.
+c2c8e82	Odds bezwen yon pari sou Pass Line.
+1784d43	Odds ou yo nan maksimòm.
+fdc3442	Pari sou liy yo fèt nan premye jete a.
+97ce95b	SOU TAB LA  {0}
+a895ec0	Pwen an se {0}: voye l ankò anvan 7. Odds dèyè Pass Line ou peye vrè chans.
+d9f9d65	VOYE
+bcf32ef	Pwen an se {0}.
+5b450b4	{0}! Pwen an fèt. Ou genyen!
+9746e08	Sèt soti. Nouvo jetè, nouvo premye jete.
+4fc4664	{0}, natural! Pass Line genyen.
+203f466	{0}, craps. Liy lan pèdi.
+0f8e260	Tann zo yo kanpe.
+6a98cfe	KITE TAB LA?
+8430088	Pari liy ou a toujou ap jwe sou pwen {0}. Si ou ale kounye a, ou pèdi l.
+0e138d1	HOLD'EM
+5e023be	Byenveni nan hold'em! Mete ante a epi ann wè kat yo.
+0cd62f5	ANTE
+5e9f331	BLIND
+3b935ab	BLIND LAN PEYE
+20713a4	Dilè a kalifye ak yon pè oswa pi bon
+d37267c	CHECK
+9a4e316	FOLD
+88313c4	PARYE {0}×
+42c6fea	Ante {0} + blind {0}. Kenbe {1} ankò pou ogmantasyon an.
+1abb2f2	Tape jeton yo pou mete ante a. Blind lan menm jan.
+f541cec	Check, oswa parye twa oswa kat fwa ante a?
+fc74a79	Monte kounye a 4× oswa 3× ante a, oswa fè check epi gade flop la.
+b687501	Dènye chans: parye 1× ante a, oswa fè fold epi pèdi ante ak blind.
+400009c	Parye 2× ante a kounye a, oswa fè check epi gade de dènye kat yo.
+f4abdf9	Men flop la.
+0e51f2c	Turn ak river.
+cc856d3	Ann wè sa m genyen.
+6ba1f3e	Dilè a pa kalifye: ante ou tounen.
+cf1fdc5	Ou fè fold. Pwochen men an se pou ou.
+177fab0	Ultimate Texas Hold'em
+c4917b9	Jwè, Bank oswa Egalite
+6e4fe7b	VIDEO POKER
+73cabd3	Jacks or Better
+91c4555	SIC BO
+d810061	Twa zo  •  gwo oswa piti
+85ab7ec	Pass Line  •  Field  •  Odds
+35d8db6	Byenveni nan sic bo! Gwo, piti oswa yon bagay pi kouraje?
+3d05514	Limit tab la se {0} pou chak jete.
+86ade94	SOUKE
+b69304e	TRIPLE {0}!
+5d1bcc6	KENBE
+36a21ba	Distribye, kenbe kat ou vle yo, chanje yon fwa.
+99fa8e8	KENBE
+249d1c0	KONSÈY
+7aab1bd	CHANJE
+5595eb4	Tape kat yo pou kenbe yo, epi chanje.
+1c05db9	JWE HOLD'EM
+e353e5f	Ultimate Texas Hold'em  •  ante soti {0} rive {1}
+6470369	JWE BACCARAT
+bbe0077	GWO  •  PITI  •  TRIPLE
+3ba448f	JWE SIC BO
+097c59c	Twa zo  •  gwo oswa piti peye 1 pou 1
+af2ca30	PASS LINE  •  FIELD  •  ODDS
+f18398e	JWE CRAPS
+eeede6d	Pass Line peye 1 pou 1  •  odds peye vrè chans
+34e5170	JWE VIDEO POKER
+f71bdfb	Jacks or Better  •  tablo konplè 9/6
+4a6c087	JACKS OR BETTER  •  ROYAL FLUSH PEYE 800×
+370a133	Machin slot yo sou miray adwat la, video poker sou miray dèyè a, epi woulèt la nan fon an.
+8298d28	Hold'em nan kwen dèyè agoch la, apre ba a.
+a2a111f	Baccarat la toudwat agoch lè w antre.
+b7193bc	Sic bo nan kwen apre kesye a: twa zo, gwo oswa piti.
+25320c8	Tab craps la adwat, devan machin slot yo. Parye sou Pass Line epi voye!
+dc81691	Sofia
+4d9936f	Elena
+3aa0674	Mia
+b724114	Valentina
+34d3f7f	Chloe
+0fc9dd6	Isabella
+bbd3e35	Nadia
+eac677d	Aria
+baaf10f	Luna
+8641381	Camila
+eeee9b7	Aurora
+8a59f05	Bianca
+5a0fc29	Serena
+bf38aa5	Marco
+cfaf50a	Leo
+5815f22	Adrian
+cbede02	Lucas
+f0b9995	Viktor
+7b37259	Daniel
+aaac72d	Gabriel
+2f8f37e	Ethan
+a01126e	Julian
+3e05c90	Rafael
+e1ae457	Mateo
+3398634	Nico
+7aa2d07	Enzo
+1920e2f	Premye jete: parye sou Pass Line, epi voye. 7 oswa 11 genyen; 2, 3 oswa 12 pèdi. Pari place yo kòmanse fonksyone lè gen yon pwen.
+99f4934	LUCKY ACE 7s  •  PEYE JISKA 2,500× PARI LIY OU A

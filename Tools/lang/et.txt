@@ -1,0 +1,659 @@
+# Estonian (et). Machine translation by Claude.
+bd99124	Peotäis žetoone
+c7c6dc8	Virn žetoone
+7512cfd	Kandik žetoone
+fa36588	Alus žetoone
+7994f65	KÕIGE POPULAARSEM
+49dcc21	Laegas žetoone
+0725283	Suurmängija seif
+7658705	PARIM HIND
+2f23432	Mullivesi
+418b820	Espresso
+97b463c	Energiajook
+43bbfda	Klubivõileib
+bce7a75	Burgerieine
+2832a8d	Praeõhtusöök
+dee8ee8	TÄIS LAADIMINE
+a7c2255	Õnneseeria
+7919163	Kuum seeria
+74fdfc2	KÕIGE ROHKEM ÕNNE
+d79cd12	Pronkslaud
+2a8ff35	Hõbelaud
+51877b2	Kuldlaud
+9282152	Teemantlaud
+0de8764	Sisesta kehtiv aasta.
+d4e14c9	Sisesta kehtiv kuu (1-12).
+addd156	Sisesta kehtiv päev.
+d78a4f4	See kuupäev on tulevikus.
+787c7c6	Tere tulemast minu lauda! Valmis mängima?
+8b0f93e	Tore sind näha. Võta istet!
+8338021	Tere! Kaardid on värsked, nagu minagi.
+75750f9	Tere tulemast! Teeme sellest toreda õhtu.
+95aac36	Tee panus, kui oled valmis.
+8bc63c1	Žetoonid lauale ja vaatame kaarte.
+984b7f3	Mille peale mängime?
+b74c769	Oo, suur panus! Mulle meeldib su stiil.
+77fc1fc	Vaat see on panus. Lähme!
+7779a5b	Täna õhtul julge, mis?
+479ff82	Kõik sisse?! Süda peksab!
+7fb527c	Kõik ühe käe peale. Kartmatu!
+7bf0c5d	Blackjack! Uskumatu!
+123f2d5	Kakskümmend üks, lihtsalt niisama!
+cd850a7	Blackjack! Kaardid jumaldavad sind täna.
+55f50ee	Hästi mängitud!
+79594b1	Võit! Tubli.
+0df710e	Sul läheb hoogsalt!
+20a0c1e	See on sinu oma.
+a45fe61	Milline võit! Kõik vaatavad seda lauda!
+54d3982	Tohutu! Sa oled täna tules!
+8da8f1e	Nii lähedal! Järgmine on sinu.
+5d921e1	Seekord vedas kasiinol.
+f923af7	Raputa maha, uus käsi tuleb.
+853e7ca	Ai, üks kaart liiga palju.
+daec44f	Lõhki! Juhtub ka parimatega.
+11ceaef	Viik. Keegi ei kaota!
+911a289	Viik. Su žetoonid on kaitstud.
+a89d9d9	Läksin lõhki! Sul vedas.
+f76c8fd	Minu jaoks liiga palju. Sa võidad!
+63f8d0b	Blackjack kasiinole, vabandust!
+465c8bf	Diileril on blackjack. Halb õnn.
+6752f40	Näitan ässa. Kindlustus?
+1920c5a	Jagame! Kaks võimalust võita.
+9f621da	Kahekordistamine. Julge käik!
+59da99d	Kahekordista! Tuleb üks kaart.
+0b48017	Uus king, segan!
+3fa7769	Hakkab otsa saama? Kassa täiendab sind.
+4e5694b	Žetoone jääb vähemaks. Tahad veel?
+d41f057	Žetoonid otsas! Mine kassasse või võta tasuta žetoone.
+15d90d3	Su virn on tühi. Kassa on otse su selja taga.
+a9eaae1	Näed kurnatud välja! Söö baaris midagi.
+5cd9e8b	Jõud otsakorral? Baar hoolitseb sinu eest.
+37b9672	Võta aega.
+c64df8c	Millal iganes oled valmis!
+b8dfc0a	Öö on alles noor.
+8748560	Algaja õnn on sinu poolel!
+e3def50	Kaardipakk on täna õhtul sinu poolel!
+506ade9	Algaja õnn on läbi. Siit edasi on mäng aus!
+953d8b7	Tere tulemast kasiinosse! Sinu koht ootab.
+9fd9844	Head õhtut! Lauad on täna kuumad.
+2d42aaf	Tere tulemast tagasi! Tunned end õnnelikuna?
+311bae7	Puuduta lauda, et mängima hakata!
+3318099	Vajad rohkem žetoone? Tulid õige luugi juurde.
+c5b3787	Suuremad virnad, suuremad boonused!
+21ae665	Kõht tühi? Vali menüüst ükskõik mida.
+8b83cc0	Suutäis toitu hoiab energiat üleval!
+35f4b0e	Tere tulemast minu lauda!
+8f90245	Seal sa oled! Kohe on valgem.
+909e4d6	Tunne end nagu kodus. Täna õhtul on kõik sinu jaoks.
+2477f78	Jumaldan seda naeratust. Õnnelik õhtu?
+6ac2120	Lõõgastu, oled heades kätes.
+089f04b	Hei, sina! Lootsin, et astud mu luugi juurde.
+3f2c3c9	Alati tore näha sõbralikku nägu.
+3021db8	Vaata, kes siin on! Kas on lõbus?
+769980b	Tere, kena poiss!
+5361ffd	Mulle meeldib täna su stiil.
+56b40be	Hei, tore sind jälle näha!
+3316019	Hea õhtu? Sa oled selle ära teeninud.
+28283fd	Ettevaatust, võin hakata sulle kaasa elama.
+109ac94	Mu lemmikmängija on tagasi!
+acba0e6	Istu minu juurde, jagan sulle midagi ilusat.
+eb5ff2a	Sinuga on selle laua taga palju lõbusam.
+772a73c	Juba lähed? Öö on alles noor!
+178301a	No kuule, veel üks käsi. Mul on hea tunne!
+816036a	Sa ei saa mind praegu maha jätta, me alles alustasime!
+5c9b7e2	Viimane võimalus! Järgmine käsi võib olla see suur...
+20ce7b6	Olgu, olgu. Hoian su koha soojas. Lubad tagasi tulla?
+51d1aeb	Seeriat veel pole? Mängi täna ringe ({2}) ja ma hakkan lugema.
+10b25d9	Uus algus! Ringid ({2}) ja su leek süttib.
+0c10711	Pean väikest nimekirja neist, kes käivad iga päev. Sind seal pole... veel.
+5e7c431	Päev {1} ootab sind. Ringe jäänud: {2}!
+b268d84	Päevi järjest: {0}... sa ju ei jää nüüd seisma?
+b32ae79	Su leek paistab täna veidi jahe. Ringid ({2}) soojendavad selle üles.
+a6f3fbd	Olen lugenud: päevi {0}. Teeme {1}.
+1dc5c97	Ära arva, et ma ei märganud. Seeria hoidmiseks jäänud ringe: {2}!
+807b82c	Päevi järjest: {0}? Hakkan arvama, et sulle meeldib siin.
+6391923	Su seeria on tänaseks kindlustatud. Nüüd sa lihtsalt eputad.
+3bfbbf7	Päev {0} tehtud. Homme samal ajal?
+ca2a2c1	Päevi: {0}! Peaksin sulle koha hoidma.
+54f991f	Seal see on: su seeria esimene päev! Tule homme tagasi, siis on kaks.
+a1e7ab0	Terve nädal järjest! Olen tõeliselt muljet avaldanud.
+96cee95	Kolmkümmend päeva! Sa praktiliselt töötad siin.
+a9834cd	Sada päeva. Räägin kõigile sinust.
+071317f	Juba {0} päeva järjest! Vaata ennast.
+0964027	Seeria päästetud: päev {0}! Teadsin, et saad hakkama.
+c7f2a1f	Päev {0}! Vean kihla, et {1}. päevani ei jõua.
+a6ce2e2	Päevi: {0}... olgu, uhkeldaja.
+3ab91d0	Mängi 10 kätt blackjacki
+38e863d	Võida 5 kätt blackjackis
+6ac41cc	Saa blackjack
+74cf149	Võida blackjackis 500 žetooni
+66440e1	Keeruta mänguautomaati 20 korda
+9205056	Võida 5 keerutust mänguautomaadis
+cd60e0c	Võida mänguautomaadis 5× oma panus
+6f7ac28	Mängi 5 ringi ruletti
+6978cc0	Võida 3 ruletikeerutust
+c8ebbcc	Taba number otsepanusega
+8a57c54	GPS-asukoht
+4919635	mobiilivõrk
+527b094	internetiühendus
+f49ae82	seadme seaded
+60827d3	testriik
+0b2f8d8	kinnitamata (standardhind)
+50d8b4a	teadmata
+4fb7a4e	1. 12
+647a0eb	2. 12
+a934745	3. 12
+3de80ab	2 : 1
+bb4e68e	PUNANE
+a9414ab	MUST
+710756a	PAARITU
+70ca748	PAARIS
+4d60d6c	ÕIGLASED HINNAD SINU RIIGILE
+1674d95	Poe hinnad on kohandatud sinu riigi majandusega, et mängijad kõikjal maksaksid õiglast hinda.
+4ec27ee	Sinu riigi leidmiseks kontrollime üks kord sinu ligikaudset asukohta. See seotakse seadmes riigiga ja seda ei saadeta kuhugi. Kui keeldud, kehtivad standardhinnad.
+ff3dbb4	JÄTKA
+43a6a8d	Lahkud kasiinost?
+ad209a0	Su žetoonid ja edenemine on salvestatud.
+5860c84	VÄLJU
+f1e0808	JÄÄN
+5b38c49	Avatud: {0}
+15ae7ac	Seeria külmutus päästis eile su seeria (päevi: {0}).
+d375ffb	Külmutused ({0}) päästsid su seeria (päevi: {1}).
+fd8ab39	Su seeria (päevi: {0}) lõppes. Mängi täna ringe ({1}), et uus alustada!
+7fa2db4	MISSIOON TÄIDETUD
+255325c	+{0} žetooni
+d205ece	KÕIK MISSIOONID TÄIDETUD!
+4acbed2	Päevaboonus +{0} žetooni. Uued missioonid homme.
+ab2ceb3	TASE {0}!
+86e2afb	Verstapost! +{0} žetooni
+9ae18ad	Tule homme tagasi, et jätkata
+7af7e7c	+1 seeria külmutus
+b5b9597	SEERIA: {0} PÄEVA!
+62ec60d	Ostud pole selles versioonis saadaval.
+1f9786c	Ost ebaõnnestus. Sinult raha ei võetud.
+3e4c600	Lisatud +{0} žetooni!
+1998202	{0}: kätt {1} {2}% õnnega, pärast algaja õnne
+728ada5	{0}: kätt {1} {2}% õnnega!
+af5e232	{0}: +{1}% energiat
+001a53b	Pole selles seadmes saadaval
+2607004	Videod ei laadi selles võrgus
+569c30d	Tule homme tagasi
+ecae6ee	Valmis {0} s pärast
+9964820	+{0} žetooni (täna veel {1})
+e1bd888	+{0} tasuta žetooni!
+619bd5d	+1 seeria külmutus!
+f70d794	Praegu pole videot saadaval. Proovi hetke pärast uuesti.
+264d71b	PRONKS
+462e839	HÕBE
+81ff70a	KULD
+50e122e	TEEMANT
+57f5f5e	Menüü
+69bd4ef	Vaade
+dbfe736	Rist
+1cc7820	Ring
+82810cb	Ruut
+73d3ae2	Kolmnurk
+a42f608	Kontrollime su piirkonda...
+1db422c	Kinnitamata ({0}): standardhinnad
+9bc0807	{0} ({1}): hinnad valuutas {2}
+ae8c393	Meeldetuletused
+aefd59b	Tasuta žetoonid valmis ja seeria meeldetuletused
+3125838	Su tasuta žetoonid on valmis
+233027b	Lucky Ace'is ootab sind {0} žetooni.
+b93976b	Hoia oma seeriat (päevi: {0})
+bd68038	Mängi täna ringe ({0}), et see keskööl ei nulliks.
+0acfb6f	Tere tulemast! Täna on algaja õnn sinu poolel. Tee panus!
+d589374	BLACKJACK MAKSAB 3 : 2   •   DIILER PEATUB KÕIGIL 17-L   •   KINDLUSTUS MAKSAB 2 : 1
+b700b02	PANUS
+16ec74f	TÜHJENDA
+928226b	KORDA
+55591e0	JAGA
+395ed46	VEEL
+43e7971	AITAB
+097274c	KAHEKORDISTA
+6df63ca	JAGA KÄSI
+3e40f46	KINDLUSTA
+db82d3a	EI, AITÄH
+28d6be8	PANUS {0}+
+9587b70	Laua maksimum saavutatud
+b9ac47d	Pole piisavalt žetoone
+d237ade	Diiler näitab ässa. Kindlustad hinnaga {0}?
+bf07c14	Kindlustus maksab {0}
+b6e674a	Diileril pole blackjacki. Kindlustus kadus.
+0cc9679	LÕHKI
+82ce89d	DIILER LÕHKI
+6e1e1a4	BLACKJACK!
+662fae5	VÕIT
+8918d00	VIIK
+8df6be4	KAOTUS
+9e69668	Algaja õnn on läbi. Sinu Õnneseeria algab nüüd.
+822f4f4	Algaja õnn on läbi. Nüüdsest on tavaline blackjack.
+b0377c7	Sinu Õnneseeria on läbi. Tagasi tavalise blackjacki juurde.
+824ad7c	ŽETOONID OTSAS
+ff1822d	Vaata lühikest videot {0} tasuta žetooni eest või mine kassasse.
+e4cac2f	Mine kassasse žetoone täiendama.
+c3df3e7	TASUTA ŽETOONID
+b169d33	KASSA
+4d38f66	HILJEM
+cb8171b	Mängi esmalt see käsi lõpuni.
+3aa6941	„{0}“
+6f846f4	VEEL ÜKS KÄSI
+a79d4f2	LAHKU
+693f697	ALGAJA ÕNN
+641ad58	ÕNNESEERIA
+fc45931	Tervitusboonus uutele mängijatele: sinu esimese <b>{0} käe</b> jooksul on diileri king sinu kasuks seatud, nii et võidad peaaegu iga käe.
+576c683	Järgmise <b>{0} käe</b> jooksul eelis järk-järgult kaob ja pärast seda on igas lauas tavaline, aus blackjack segatud 6 pakiga kingast (blackjack maksab 3 : 2, diiler peatub kõigil 17-l).
+7fb55b3	Eelis praegu: <b><color=#7CFC9A>{0}%</color></b>   Käsi jäänud: <b>{1}</b>
+d4f8fe0	Järgmise <b>{0} blackjacki käe</b> jooksul, panusega kuni <b>{1} žetooni</b>, on igal kaardil <b>{2}%</b> võimalus tulla sinu kasuks (sama eelis mis algaja õnnel).
+0a5fc06	Hea mänguga võidab see umbes <b>{0}%</b> kätest, võrreldes umbes {1}%-ga tavalises blackjackis. Suuremad panused on tavaline blackjack ega kuluta käsi. Kui käed otsa saavad, on igas lauas taas tavaline, aus blackjack.
+c3a8946	SELGE
+8dfc44a	TAHAD OMA ÕNNE TAGASI?
+272a97f	Algaja õnn on läbi: siit edasi on igas lauas tavaline, aus blackjack. Õnneseeria toob eelise mõneks ajaks tagasi.
+06b7689	IGAPÄEVANE
+4035996	PÄEVASEERIA
+fbe7f18	PÄEVA JÄRJEST
+7a46866	TÄNA
+4753707	VAATA REKLAAMI
+6bb45f3	OSTA
+62a945f	SEERIA KÜLMUTUS
+ba5b1de	Külmutus hoiab su seeria elus päeval, mil sa ei mängi. Sul võib olla kuni {0}.\n\nOstad ühe {1} žetooni eest?
+38c6090	Seeria külmutus valmis.
+8fe681f	Külmutuseks pole piisavalt žetoone.
+1507c40	TÜHISTA
+457d20f	PÄEVA KEERUTUS
+9623247	KEERUTA
+ac5ef96	Võimalused:
+1200f20	{0}%
+003a689	Võitsid {0} žetooni!
+f757137	TÄNASED MISSIOONID
+7b7f9e2	Rekord: {0} päeva
+9554fea	Mängi iga päev, et seeriat kasvatada
+5c8dbb8	Tänane eesmärk täidetud! Homseni.
+1aeb9a1	Täna: {0} / {1} ringi (ükskõik milline mäng)
+bb92856	Seeria külmutused: {0} / {1}
+0ec6216	Päästa oma seeria päeval, mille vahele jätad. +1 iga 7 päeva järel.
+cc0a745	TÄIS
+419a962	VIDEOT POLE
+2dabd99	REKLAAM PEAGI
+f12e166	Seeria boonus: auhinnad ×{0}
+80948a4	Üks tasuta keerutus iga päev
+596b5e0	JÄRGMINE  {0}
+7f7e7fc	Kõik tehtud! Boonus kätte saadud.
+03a0f2a	Uued missioonid keskööl.
+4784874	Täida kõik kolm: +{0} boonusžetooni
+42c5cda	MÄNGI
+337211e	MÄNGUD
+8f5e3bd	Lohista vasakul, et kõndida  •  Lohista paremal, et ringi vaadata  •  Puuduta, et minna
+d00d221	Ainult 18+  •  Žetoonid on lõbu jaoks: rahalist väärtust pole, neid ei saa kunagi raha ega auhindade vastu vahetada
+b60f038	Avame uksi...
+2e5bcce	Tere tulemast! Su {0} tervitusžetooni on valmis. Lauad on otse ees!
+7ef7ae3	+{0} tasuta žetooni! Veel {1} tunni pärast.
+5d82af9	Tasuta žetoonid täituvad iga {0} tunni järel. Järgmised {1} pärast.
+5469985	{0} t {1} min
+bb65beb	{0} min {1} s
+ac8ba93	HOIA OMA SEERIAT
+560bfa1	Kas soovid meeldetuletust õhtuti, kui sa pole veel mänginud, ja kui tasuta žetoonid on valmis? Mitte kunagi rohkem, ja saad selle seadetes välja lülitada.
+b724a40	TULETA MEELDE
+9e0c898	+{0} žetooni valmis!
+1207e28	Vaata videot: {0}
+db3655b	Järgmised tasuta žetoonid {0} pärast
+4ca9be5	BLACKJACK
+9a612b1	4 lauda  •  maksab 3 : 2
+1194439	MÄNGUAUTOMAADID
+6555152	Lucky Ace 7s  •  10 joont
+255b1a1	RULETT
+6df1551	Euroopa ühe nulliga
+379b146	OLED KURNATUD
+340e5c4	Su energiariba on tühi. Võta baarist midagi, et edasi mängida, või tule hiljem tagasi: energia taastub aeglaselt, kui oled eemal.
+a517396	MINE BAARI
+7c7227f	VALI LAUD
+c963de3	PANUSED
+c433657	TASE {0}
+083ac39	ISTU
+9698219	VAJA {0}
+34b737e	Jõua tasemele {0}, et siin mängida. Sinu tase on {1}.
+6cc19a9	KASIINO
+6e946b7	PP
+4a3a892	KK
+2857a6a	AAAA
+9d1fece	PÄEV
+d3bb0c3	KUU
+c0f0cad	AASTA
+43985ff	MILLAL SA SÜNDISID?
+293fda2	Žetoonid on ainult meelelahutuseks. Neil pole rahalist väärtust ja neid ei saa kunagi raha ega auhindade vastu vahetada.
+3e9128d	VABANDUST, SA EI SAA MÄNGIDA
+b5e8985	{0} on saadaval ainult täiskasvanutele.
+bb1b380	VÄLJU
+d9f9432	Sulgub {0} pärast...
+c6e102d	RÄÄGI MEILE ENDAST
+31120ce	Valime sobivad võõrustajad, diilerid ja baaritöötajad. Saad seda igal ajal seadetes muuta.
+49e8df9	OLEN MEES
+85abe81	OLEN NAINE
+76cc98c	EELISTAN MITTE ÖELDA
+964daf7	SISENE KASIINOSSE
+2efb69a	Sinu töötajad täna õhtul:
+c10e749	Leht {0}/{1}
+2a3ffd9	KEEL
+c673535	AUTOMAATNE
+d1245d2	RIIK
+15fc12b	Tere tulemast! Tehke oma panused.
+531fb3f	Selleks panuseks pole piisavalt žetoone.
+380eb75	Laua limiit on {0} keerutuse kohta.
+55ad592	VÕTA TAGASI
+8f191f9	KOGUPANUS  {0}
+82e1181	Puuduta lauda, et žetoone panna
+bb19a75	Panused on lõppenud!
+5becf07	ROHELINE
+bc74f4f	roheline
+7898801	punane
+466bc8c	must
+f2edfbf	Milline tabamus! Palju õnne!
+b252caf	Võit! Võidad {0}.
+8587d14	VÕIT  +{0}
+b862a2b	{0} {1}. Tagasi saad {2}.
+a306d0a	TAGASTATUD  {0}
+af3134d	Seekord võitu pole
+84122e7	Tehke oma panused.
+52205f4	Oota, kuni kuul peatub.
+c4b9243	SEADED
+44d863e	ÜLDINE
+2bbca79	GRAAFIKA
+955c8b4	HELI
+c701f5f	PUUTE
+efcc94a	HIIR
+8433628	PULT
+d868a50	VIBRATSIOON
+f8692c7	18+ • Žetoonidel pole rahalist väärtust • Fondid: Bebas Neue, Poppins, Noto (SIL OFL) • Piirid: Natural Earth • Hinnaandmed: Maailmapank
+da46447	KASIINO TÖÖTAJAD
+594b81e	NAISED
+69d3313	MEHED
+b4325d3	SEGA
+414594a	MEELDETULETUSED
+6cac87b	Tasuta žetoonid valmis ja õhtune meeldetuletus enne, kui seeria lõpeks.
+e43b2e0	KONTROLLI UUESTI
+7c9e8f9	HINNAPIIRKOND
+495c70e	Kiireim: kasiino nagu maalitud, mitte midagi lisaks.
+b052523	Poleeritud põrandad, puit ja kuld peegeldavad saali.
+6bd30d7	Filmilik: värvikorrektsioon, teralisus, kuma, valguskiired, elutruu nahk.
+21b6e1d	Kinoobjektiiv: teravus järgib su pilku, triibud tuledel, tolm valguskiirtes.
+fb7c2e8	KVALITEET
+d8b9679	MADAL
+f68525a	KESKMINE
+d77d0b2	KÕRGE
+9289eee	ULTRA
+637e313	RESOLUTSIOON
+2e7b141	Madalam on pehmem, kuid töötab jahedamalt ja säästab akut.
+93dcfb5	KUVAREŽIIM
+3c6eac3	TÄISEKRAAN
+f3690b1	AKEN
+cfa6200	SERVADE SILUMINE
+ad50489	VÄLJAS
+f178804	Silub kasiinos sakilised servad.
+4266288	KAADRISAGEDUS
+d031ab0	{0} FPS
+a2b7514	30 FPS säästab akut ja hoiab vanemad telefonid jahedana.
+0babcee	V-SYNC
+6656e25	VAATEVÄLI
+244aadb	NÄITA FPS-I
+41c8f6e	PEAHELITUGEVUS
+bf3af1f	MUUSIKA
+bd80907	HELIEFEKTID
+d098036	TÖÖTAJATE HÄÄLED
+93c6484	Töötajate sumin, kui nad räägivad.
+16bf71a	VAIGISTA TAUSTAL
+85b2ee7	Vaigistab kasiino, kui oled teises aknas.
+8e3634e	VAATE TUNDLIKKUS
+880dc05	Kui kiiresti lohistamine vaadet pöörab.
+750c60f	Kui kiiresti hiirega lohistamine vaadet pöörab.
+8b988eb	PÖÖRA VAADE VASAK / PAREM
+cacf0cc	PÖÖRA VAADE ÜLES / ALLA
+2d13b68	NUPPUDE PAIGUTUS
+50c3f10	AUTO
+b471e5c	VAHETA MENÜÜ / VAADE
+d9a59f1	KANGI TUNDLIKKUS
+ec14343	Kui kiiresti parem kang vaadet pöörab.
+a79af23	PÖÖRA KANG VASAK / PAREM
+acfc66e	PÖÖRA KANG ÜLES / ALLA
+56bb461	PULDI VIHJED
+51cf49a	Näitab, mida iga nupp teeb, kui mängid puldiga.
+dff7431	VIBREERI
+34139ab	TELEFON
+15ee988	MÕLEMAD
+465cc91	Auto: pult, kui see on ühendatud, muidu telefon.
+f6fed84	TELEFONI VIBRATSIOON
+8e97fa7	TELEFONI TUGEVUS
+486ba2d	PULDI VIBRATSIOON
+8008889	PULDI TUGEVUS
+ea9233e	AUTOMAATNE ({0})
+167dda7	{0} avab seaded, {1} avab igapäevase.
+29a4ef9	Ühtegi pulti pole ühendatud.
+558ecd2	Ühendatud: {0}. Kuvatakse {1} nupud (paremal olev A kinnitab).
+d6eee9e	Ühendatud: {0}. Kuvatakse {1} nupud.
+78525d5	BAAR
+099db9f	ÕNN
+b4a8b06	Žetoonid, õnn ja toit on virtuaalsed esemed ainult meelelahutuseks: rahalist väärtust pole, neid ei saa raha ega auhindade vastu lunastada.
+e2a28c9	Igal kaardil on selline võimalus tulla sinu kasuks, kui blackjacki panus on kuni {0} žetooni (suuremad panused on tavalised ega kuluta käsi). Algab pärast algaja õnne; tugevamad paketid kasutatakse ära esimesena.
+04fbc6d	Luba asukohale juurdepääs, et saada oma riigi hind
+2ae87fc	Ostud pole selles mänguversioonis saadaval.
+8239a84	TESTPOOD (päris raha pole)
+173d916	energia
+b2c67eb	+{0}% ŽETOONE
+58e8011	kätt: {0}
+ce80712	võidab neist umbes {0}%
+c69e8ee	LUCKY ACE 7s
+fc99288	KOGUPANUS
+c1c00cd	VÕIDUTABEL
+3930abd	EDU!
+67b6973	Keerutamiseks on vaja vähemalt 10 žetooni.
+5aa1edb	HANGI ŽETOONE
+f5a1812	Panust vähendati summani, mida suudad katta.
+5c63f61	MEGAVÕIT!
+652544f	SUUR VÕIT!
+91bc41c	TAGASTATUD {0}
+3714283	VÕITU POLE
+33c0faa	JOON {0}: {1} × {2} = {3}
+9f59e6e	TÄHED ×{0} = {1}
+d6eee90	Kirss
+4459b79	Sidrun
+09fb6aa	Apelsin
+cb92e50	Ploom
+d419866	Kell
+e496fd2	Bar
+63abb56	Seitse
+b3850e0	Teemant
+fc2b5a9	Äss
+85a7de6	Täht
+c31b035	TÄHED maksavad kõikjal: 5 = {0}× panus, 4 = {1}× panus, 3 = {2}× panus.
+f97509c	ÄSS on metsik: see asendab iga sümbolit peale tähe.
+3e8bc69	Joonevõidud on joonepanuse (kogupanus ÷ 10) kordsed, vasakult paremale esimesest rullist.
+523f8dc	TAGASTUS: {0}% pikas perspektiivis. Iga keerutus on sõltumatu ja juhuslik.
+e0c705d	Kõnni
+b8db515	Vaata
+503d46d	Nupud
+c7f73bb	Seaded
+728298d	Igapäevane
+ab166bd	Reguleeri
+76cdb95	Liigu
+8598222	Vali
+bbfa773	Sulge
+b52b36b	Tagasi
+ab37588	KURNATUD
+9b11a09	ALGAJA ÕNN {0}%
+0c94e98	KÄSI JÄÄNUD: {0}
+51ed273	ÕNNESEERIA {0}%
+3401470	KÄSI: {0}  •  PANUSED KUNI {1}
+f481cc6	TASE
+0139615	TERE TULEMAST
+daad514	RÄÄGI VÕÕRUSTAJAGA
+bcefb10	Juhised ja nõuanded
+c28e782	ŽETOONID  •  BOONUSED
+0c69ec4	OSTA ŽETOONE
+78c0727	Kassa
+1737fab	KOKTEILID  •  SNÄKID  •  ENERGIA
+9e008ae	SÖÖK JA JOOK
+f7881e8	Baar
+0e979ed	BLACKJACK MAKSAB 3 : 2
+eea0d12	DIILER PEAB 17-L PEATUMA
+4db37bf	MÄNGI BLACKJACKI
+0ffdd99	Laud {0}  •  panused {1}–{2}
+b4f938b	MÄNGI AUTOMAATE
+6b7caea	TEHKE OMA PANUSED
+26b1e39	MÄNGI RULETTI
+910a1ed	Euroopa ratas  •  otsepanus maksab 35 : 1
+7ef0215	TELLI JOOK
+fe38d73	Toob: {0}
+f7b6306	{0} avaneb tasemel {1}. Sinu tase on {2}: iga mängitud ring loeb.
+d85f1ad	Selle laua jaoks on vaja vähemalt {0} žetooni.
+cbfe016	Blackjacki lauad on otse ees. Mine ühe juurde ja istu!
+64d9faf	Kassa on siinsamas su paremal pool ja baar vasaku seina ääres.
+e4c6e0b	Väsinud? Suupiste baaris täidab su energia kohe.
+d5ab68f	Puuduta ükskõik kus põrandal ja kõnnid sinna. Puuduta lauda, et istuda.
+cc21f74	VÄIKE
+dc01dec	SUUR
+5fb90b0	ÜKSKÕIK MILLINE KOLMIK
+9c716f1	Hold'emi laud
+3b6ab84	Mängi 8 kätt hold'emi
+6c617ca	Võida 4 kätt hold'emis
+44ce500	Mängi 10 kätt bakarat
+b90cff7	Võida 5 kätt bakaras
+3e4dfa9	Mängi 15 kätt videopokkerit
+854fe20	Mängi 8 vooru sic bo'd
+dfddac1	Võida 4 vooru sic bo's
+2973ea7	Viska täringuid 15 korda crapsis
+737be17	Võida 4 viset crapsis
+4dbb81d	Tee videopokkeris mast või parem
+19aa07b	Kuninglik mastirida
+cf83e72	Mastirida
+d27ba03	Nelik
+dbe8641	Maja
+7c936d7	Mast
+2501c65	Rida
+ca1a0d4	Kolmik
+6876b40	Kaks paari
+2537f88	Paar
+b4b323e	Kõrge kaart
+f70bfdc	Poisid või parem
+98fd5af	BAKARA
+df66d5a	Tere tulemast bakarasse! Mängija, Pankur või Viik?
+5055efd	MÄNGIJA
+3f90696	VIIK
+0d75f63	PANKUR
+0ebd5a4	VIIMASED TULEMUSED
+511993d	M
+ae4f281	P
+c2c53d6	V
+781246e	Vali žetoon ja puuduta Mängija, Pankur või Viik
+11023a0	VIIK  {0}
+503d5f1	MÄNGIJA VÕIDAB  {0}:{1}
+0eb4be5	PANKUR VÕIDAB  {0}:{1}
+7859af1	CRAPS
+4083dbd	Tere tulemast crapsi! Panusta Pass Line'ile ja viska.
+d266326	KUUS
+c506f3a	ÜHEKSA
+987f4e9	FIELD
+71c1b2b	2 3 4 9 10 11 12  •  2 ja 12 maksavad topelt
+d0ac294	ÜKSKÕIK MILLINE 7
+9b2f0c3	ÜKSKÕIK MILLINE CRAPS
+f62ac59	DON'T PASS BAR
+6080ade	1:1  •  12 on viik
+c07247a	PASS LINE
+6229f78	ODDS
+29bf819	tegelikud koefitsiendid
+387d7a5	SEES
+229c9cc	Odds läheb Pass Line'i taha, kui punkt on olemas.
+c2c8e82	Odds vajab panust Pass Line'ile.
+1784d43	Sinu odds on maksimumis.
+fdc3442	Joonepanused tehakse avaviskel.
+97ce95b	LAUAL  {0}
+a895ec0	Punkt on {0}: viska see uuesti enne 7-t. Pass Line'i taga olev odds maksab tegelike koefitsientidega.
+d9f9d65	VISKA
+bcf32ef	Punkt on {0}.
+5b450b4	{0}! Punkt tehtud. Võit!
+9746e08	Seitse. Uus viskaja, uus avavise.
+4fc4664	{0}, natural! Pass Line võidab.
+203f466	{0}, craps. Joon kaotab.
+0f8e260	Oota, kuni täringud peatuvad.
+6a98cfe	LAHKUD LAUAST?
+8430088	Sinu joonepanus mängib veel punktil {0}. Kui praegu lahkud, kaotad selle.
+0e138d1	HOLD'EM
+5e023be	Tere tulemast hold'emisse! Pane ante ja vaatame kaarte.
+0cd62f5	ANTE
+5e9f331	BLIND
+3b935ab	BLIND MAKSAB
+20713a4	Diiler kvalifitseerub paari või parema kombinatsiooniga
+d37267c	CHECK
+9a4e316	FOLD
+88313c4	PANUSTA {0}×
+42c6fea	Ante {0} + blind {0}. Hoia tõstmiseks veel {1}.
+1abb2f2	Puuduta žetoone, et ante määrata. Blind on sama suur.
+f541cec	Check või panus kolm või neli korda ante?
+fc74a79	Tõsta nüüd 4× või 3× ante või tee check ja vaata flopi.
+b687501	Viimane võimalus: panusta 1× ante või tee fold ja kaota ante ning blind.
+400009c	Panusta nüüd 2× ante või tee check ja vaata kaht viimast kaarti.
+f4abdf9	Siin on flop.
+0e51f2c	Turn ja river.
+cc856d3	Vaatame, mis mul on.
+6ba1f3e	Diiler ei kvalifitseeru: sinu ante tuleb tagasi.
+cf1fdc5	Fold. Järgmine käsi on sinu.
+177fab0	Ultimate Texas Hold'em
+c4917b9	Mängija, Pankur või Viik
+6e4fe7b	VIDEOPOKKER
+73cabd3	Jacks or Better
+91c4555	SIC BO
+d810061	Kolm täringut  •  suur või väike
+85ab7ec	Pass Line  •  Field  •  Odds
+35d8db6	Tere tulemast sic bo'sse! Suur, väike või midagi julgemat?
+3d05514	Laua limiit on {0} viske kohta.
+86ade94	RAPUTA
+b69304e	KOLMIK {0}!
+5d1bcc6	HOITUD
+36a21ba	Jaga, hoia soovitud kaardid, vaheta üks kord.
+99fa8e8	HOIA
+249d1c0	VIHJE
+7aab1bd	VAHETA
+5595eb4	Puuduta kaarte, et neid hoida, ja vaheta siis.
+1c05db9	MÄNGI HOLD'EMI
+e353e5f	Ultimate Texas Hold'em  •  ante {0}–{1}
+6470369	MÄNGI BAKARAT
+bbe0077	SUUR  •  VÄIKE  •  KOLMIKUD
+3ba448f	MÄNGI SIC BO'D
+097c59c	Kolm täringut  •  suur või väike maksab 1:1
+af2ca30	PASS LINE  •  FIELD  •  ODDS
+f18398e	MÄNGI CRAPSI
+eeede6d	Pass Line maksab 1:1  •  odds maksab tegelike koefitsientidega
+34e5170	MÄNGI VIDEOPOKKERIT
+f71bdfb	Jacks or Better  •  täis 9/6 tabel
+4a6c087	JACKS OR BETTER  •  KUNINGLIK MASTIRIDA MAKSAB 800×
+370a133	Mänguautomaadid on parempoolse seina ääres, videopokker tagaseina ääres ja rulett päris taga.
+8298d28	Hold'em on vasakus tagumises nurgas, baari taga.
+a2a111f	Bakara on kohe sissepääsust vasakul.
+b7193bc	Sic bo on nurgas kassa taga: kolm täringut, suur või väike.
+25320c8	Crapsi laud on paremal automaatide ees. Panusta Pass Line'ile ja viska!
+dc81691	Sofia
+4d9936f	Elena
+3aa0674	Mia
+b724114	Valentina
+34d3f7f	Chloe
+0fc9dd6	Isabella
+bbd3e35	Nadia
+eac677d	Aria
+baaf10f	Luna
+8641381	Kamila
+eeee9b7	Aurora
+8a59f05	Bianca
+5a0fc29	Serena
+bf38aa5	Marco
+cfaf50a	Leo
+5815f22	Adrian
+cbede02	Lucas
+f0b9995	Viktor
+7b37259	Daniel
+aaac72d	Gabriel
+2f8f37e	Ethan
+a01126e	Julian
+3e05c90	Rafael
+e1ae457	Mateo
+3398634	Nico
+7aa2d07	Enzo
+1920e2f	Avavise: panusta Pass Line'ile ja viska. 7 või 11 võidab, 2, 3 või 12 kaotab. Place-panused hakkavad kehtima, kui punkt on olemas.
+99f4934	LUCKY ACE 7s  •  MAKSAB KUNI 2500× SINU JOONEPANUSE

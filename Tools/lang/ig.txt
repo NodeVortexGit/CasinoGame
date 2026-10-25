@@ -1,0 +1,659 @@
+# Igbo (ig). Machine translation by Claude.
+bd99124	Otu Aka Chip
+c7c6dc8	Ikpo Chip
+fa36588	Raakụ Chip
+7994f65	KACHASỊ EWU EWU
+7658705	ỌNỤAHỊA KACHASỊ MMA
+2f23432	Mmiri Gas
+418b820	Espresso
+97b463c	Ihe Ọṅụṅụ Ike
+43bbfda	Sanwichi Klọb
+bce7a75	Nri Baga
+2832a8d	Nri Abalị Anụ
+dee8ee8	JUPỤTA NIILE
+a7c2255	Usoro Chi Ọma
+7919163	Usoro Ọkụ
+74fdfc2	CHI ỌMA KACHASỊ
+d79cd12	Tebụl Bronz
+2a8ff35	Tebụl Ọlaọcha
+51877b2	Tebụl Ọlaedo
+9282152	Tebụl Daịmọnd
+0de8764	Biko tinye afọ ziri ezi.
+d4e14c9	Biko tinye ọnwa ziri ezi (1-12).
+addd156	Biko tinye ụbọchị ziri ezi.
+d78a4f4	Ụbọchị ahụ dị n'ọdịnihu.
+787c7c6	Nnọọ na tebụl m! Ị dịla njikere ịgba egwu?
+8b0f93e	Obi dị m ụtọ ịhụ gị. Nọdụ ala!
+8338021	Ndewo! Kaadị ndị a dị ọhụrụ, mụ onwe m kwa.
+75750f9	Nnọọ! Ka anyị mee ka abalị a mara mma.
+95aac36	Tinye nzọ gị mgbe ọ bụla ị dị njikere.
+8bc63c1	Chip na tebụl, ka anyị hụ kaadị.
+984b7f3	Gịnị ka anyị na-egwu maka ya?
+b74c769	Ewoo, nzọ buru ibu! Ọ masịrị m ụdị gị.
+77fc1fc	Nke ahụ bụ nzọ. Ka anyị gaa!
+7779a5b	Obi siri gị ike n'abalị a, ọ bụghị ya?
+479ff82	Ihe niile?! Obi m na-akụ ike!
+7fb527c	Ihe niile n'otu aka. Enweghị egwu!
+7bf0c5d	Blackjack! Ọ dị ịtụnanya!
+123f2d5	Iri abụọ na otu, otu ahụ!
+cd850a7	Blackjack! Kaadị hụrụ gị n'anya n'abalị a.
+55f50ee	I gbara ya nke ọma!
+79594b1	Onye mmeri! Ị mere nke ọma.
+0df710e	Ọ na-aga gị nke ọma!
+20a0c1e	Nke ahụ bụ nke gị.
+a45fe61	Lee mmeri! Onye ọ bụla na-ele tebụl a!
+54d3982	Ọ buru ibu! Ị na-enwu ọkụ n'abalị a!
+8da8f1e	Ọ fọdụrụ obere! Nke ọzọ bụ nke gị.
+f923af7	Hapụ ya, aka ọhụrụ na-abịa.
+853e7ca	Ewo, otu kaadị karịrị.
+daec44f	Ị gafere! Ọ na-eme ndị kachasị mma.
+11ceaef	Nha anya. Ọ dịghị onye tụfuru!
+911a289	Nha anya. Chip gị dị mma.
+a89d9d9	Agafere m! Ị nwere chi ọma.
+f76c8fd	Ọ karịrị m. Ị meriri!
+465c8bf	Onye nkesa nwere blackjack. Chi ọjọọ.
+6752f40	Ana m egosi Ace. Mkpuchi?
+1920c5a	Anyị na-ekewa! Ohere abụọ iji merie.
+9f621da	Mee ya okpukpu abụọ. Mmegharị nwere obi ike!
+59da99d	Mee ya okpukpu abụọ! Otu kaadị na-abịa.
+3fa7769	Ọ na-agwụ? Onye ego nwere ike ịgbakwunye gị.
+4e5694b	Chip gị na-ebelata. Ị chọrọ ọzọ?
+d41f057	Chip agwụla! Gaa n'ebe onye ego nọ ma ọ bụ were chip n'efu.
+15d90d3	Ikpo gị tọgbọrọ chakoo. Onye ego nọ n'azụ gị.
+a9eaae1	Ike gwụrụ gị nke ukwuu! Rie ihe n'ụlọ mmanya.
+5cd9e8b	Ike agwụla? Ụlọ mmanya ga-elekọta gị.
+37b9672	Were oge gị.
+c64df8c	Mgbe ọ bụla ị dị njikere!
+b8dfc0a	Abalị ka dị ọhụrụ.
+8748560	Chi ọma onye mbido nọ n'akụkụ gị!
+e3def50	Kaadị nọ n'akụkụ gị n'abalị a!
+506ade9	Chi ọma onye mbido agwụla. Site ugbu a, egwu ahụ ziri ezi!
+953d8b7	Nnọọ na kasino! Oche gị na-eche gị.
+9fd9844	Mgbede ọma! Tebụl ndị a na-ekpo ọkụ n'abalị a.
+2d42aaf	Nnọọ ọzọ! Ị na-enwe mmetụta chi ọma?
+311bae7	Pịa tebụl ka ịmalite igwu egwu!
+3318099	Ị chọrọ chip ọzọ? Ị bịara na windo kwesịrị ekwesị.
+c5b3787	Ikpo buru ibu, onyinye buru ibu!
+21ae665	Agụụ na-agụ gị? Họrọ ihe ọ bụla na menu.
+8b83cc0	Obere nri na-eme ka ike gị dịgide!
+35f4b0e	Nnọọ na tebụl m!
+8f90245	Lee gị! Ebe a ewepụtala ìhè ugbu a.
+909e4d6	Mee onwe gị ka ọ dị n'ụlọ. Abalị a bụ maka gị.
+2477f78	Ọchị ahụ na-atọ m ụtọ. Abalị chi ọma?
+6ac2120	Zuru ike, ị nọ n'aka dị mma ebe a.
+089f04b	Gị! Atụrụ m anya na ị ga-abịa na windo m.
+3f2c3c9	Ọ na-atọ ụtọ mgbe niile ịhụ ihu enyi.
+3021db8	Lee onye nọ ebe a! Ọ na-atọ gị ụtọ?
+769980b	Ndewo, onye mara mma!
+5361ffd	Ọ masịrị m ụdị gị n'abalị a.
+56b40be	Ndewo, obi dị m ụtọ ịhụ gị ọzọ!
+3316019	Ị na-enwe abalị ọma? Ị kwesịrị ya.
+28283fd	Lezie anya, enwere m ike ịmalite ịkwado gị.
+109ac94	Onye egwu m kachasị hụ n'anya alọghachila!
+acba0e6	Nọdụ ala n'akụkụ m, aga m ekenye gị ihe mara mma.
+eb5ff2a	Ị na-eme ka tebụl a tọọ ụtọ karịa.
+772a73c	Ị na-apụ ugbu a? Abalị ka dị ọhụrụ!
+178301a	Bịa, naanị otu aka ọzọ. Enwere m ezigbo mmetụta!
+816036a	Ị nweghị ike ịhapụ m ugbu a, anyị ka malitere!
+5c9b7e2	Ohere ikpeazụ! Aka na-esote nwere ike ịbụ nke ukwu...
+20ce7b6	Ọ dị mma, ọ dị mma. Aga m edobe oche gị ka ọ kpoo ọkụ. Ị kwere nkwa ịlọghachi?
+51d1aeb	Enweghị usoro ka? Gbaa egwu okirikiri {2} taa, m ga-amalite ịgụ.
+10b25d9	Mmalite ọhụrụ! Okirikiri {2} ma ọkụ gị ga-enwu.
+0c10711	Enwere m obere ndepụta ndị na-abịa kwa ụbọchị. Ị nọghị na ya... ka.
+5e7c431	Ụbọchị nke {1} na-eche gị. Naanị okirikiri {2} fọdụrụ!
+b32ae79	Ọkụ gị dị jụụ obere taa. Okirikiri {2} ga-ekpo ya ọkụ.
+a6f3fbd	Anọ m na-agụ: ụbọchị {0}. Ka anyị mee ya {1}.
+1dc5c97	Echela na ahụghị m ya. Okirikiri {2} fọdụrụ iji jide usoro gị!
+807b82c	Ụbọchị {0} n'usoro? Amalitela m iche na ebe a na-atọ gị ụtọ.
+6391923	Usoro gị dị mma maka taa. Ugbu a ị na-egosi onwe gị.
+3bfbbf7	Ụbọchị nke {0}, emechaala. Echi n'otu oge ahụ?
+ca2a2c1	Ụbọchị {0}! Ekwesịrị m idowe gị oche.
+54f991f	Lee ya: ụbọchị mbụ nke usoro gị! Lọghachi echi ka anyị mee ya abụọ.
+a1e7ab0	Otu izu zuru oke n'usoro! O juru m anya n'ezie.
+96cee95	Ụbọchị iri atọ! Ọ dị ka ị na-arụ ọrụ ebe a.
+a9834cd	Otu narị ụbọchị. Ana m agwa onye ọ bụla maka gị.
+071317f	Nke ahụ bụ ụbọchị {0} n'usoro! Lee onwe gị.
+0964027	Azọpụtala usoro: ụbọchị nke {0}! Amaara m na ị ga-eme ya.
+c7f2a1f	Ụbọchị nke {0}! Ana m agba nzọ na ị gaghị eru {1}.
+a6ce2e2	Ụbọchị {0}... ọ dị mma, onye nganga.
+3ab91d0	Gbaa aka blackjack 10
+38e863d	Merie aka blackjack 5
+6ac41cc	Nweta blackjack
+74cf149	Merie chip 500 na blackjack
+66440e1	Tụgharịa slọt ugboro 20
+9205056	Merie ntụgharị slọt 5
+cd60e0c	Merie okpukpu 5 nke nzọ gị na slọt
+6f7ac28	Gbaa okirikiri rulet 5
+6978cc0	Merie ntụgharị rulet 3
+c8ebbcc	Kụọ otu nọmba ozugbo
+8a57c54	ọnọdụ GPS
+4919635	netwọk ekwentị
+527b094	njikọ ịntanetị
+f49ae82	ntọala ngwaọrụ
+60827d3	obodo nnwale
+0b2f8d8	akwadoghị (ọnụahịa nkịtị)
+50d8b4a	amaghị
+4fb7a4e	12 nke mbụ
+647a0eb	12 nke abụọ
+a934745	12 nke atọ
+3de80ab	2 na 1
+bb4e68e	UHIE
+a9414ab	OJII
+70ca748	NKE NHA
+4d60d6c	ỌNỤAHỊA ZIRI EZI MAKA OBODO GỊ
+1674d95	A na-edozi ọnụahịa ụlọ ahịa ka ọ dabara akụ na ụba obodo gị, ka ndị egwu n'ebe niile kwụọ ọnụahịa ziri ezi.
+4ec27ee	Iji chọta obodo gị, anyị na-enyocha ọnọdụ gị dị nso otu ugboro. A na-ejikọ ya na obodo na ngwaọrụ gị, a naghị eziga ya ebe ọ bụla. Ọ bụrụ na ị jụrụ, ọnụahịa nkịtị ga-adị.
+ff3dbb4	GAA N'IHU
+43a6a8d	Ịhapụ kasino?
+ad209a0	Edobela chip na ọganihu gị.
+5860c84	PỤỌ
+f1e0808	NỌRỌ
+5b38c49	Emeghere {0}
+15ae7ac	Mkpọchi usoro zọpụtara usoro ụbọchị {0} gị ụnyaahụ.
+d375ffb	Mkpọchi usoro {0} zọpụtara usoro ụbọchị {1} gị.
+fd8ab39	Usoro ụbọchị {0} gị agwụla. Gbaa okirikiri {1} taa iji malite nke ọhụrụ!
+7fa2db4	EMECHAALA ỌRỤ
+255325c	+chip {0}
+d205ece	EMECHAALA ỌRỤ NIILE!
+4acbed2	Onyinye kwa ụbọchị +chip {0}. Ọrụ ọhụrụ echi.
+ab2ceb3	ỌKWA {0}!
+86e2afb	Nkume ọnọdụ! +chip {0}
+9ae18ad	Lọghachi echi ka ị gaa n'ihu
+7af7e7c	+1 mkpọchi usoro
+b5b9597	USORO ỤBỌCHỊ {0}!
+62ec60d	Ịzụ ahịa adịghị na ụdị a.
+1f9786c	Ịzụ ahịa adaghị. Akwụghị ego ọ bụla.
+3e4c600	Agbakwunyela +chip {0}!
+1998202	{0}: aka {1} na chi ọma {2}%, mgbe Chi Ọma Onye Mbido gasịrị
+728ada5	{0}: aka {1} na chi ọma {2}%!
+af5e232	{0}: +{1}% ike
+001a53b	Adịghị na ngwaọrụ a
+2607004	Vidiyo enweghị ike ibu na netwọk a
+569c30d	Lọghachi echi
+ecae6ee	Ọ ga-adị njikere na sekọnd {0}
+9964820	+chip {0} ({1} fọdụrụ taa)
+e1bd888	+chip {0} n'efu!
+619bd5d	+1 mkpọchi usoro!
+f70d794	Enweghị vidiyo ugbu a. Nwaa ọzọ n'oge na-adịghị anya.
+264d71b	BRONZ
+462e839	ỌLAỌCHA
+81ff70a	ỌLAEDO
+50e122e	DAỊMỌND
+57f5f5e	Menu
+69bd4ef	Nlele
+82810cb	Square
+73d3ae2	Triangle
+a42f608	Na-enyocha mpaghara gị...
+1db422c	Akwadoghị ({0}): ọnụahịa nkịtị
+9bc0807	{0} ({1}): ọnụahịa na {2}
+ae8c393	Ihe ncheta
+aefd59b	Chip n'efu dị njikere na ihe ncheta usoro
+3125838	Chip n'efu gị dị njikere
+233027b	Chip {0} na-eche gị na Lucky Ace.
+b93976b	Jide usoro ụbọchị {0} gị
+bd68038	Gbaa okirikiri {0} taa ka ọ ghara ịmaliteghachi n'etiti abalị.
+0acfb6f	Nnọọ! Chi ọma onye mbido nọ n'akụkụ gị n'abalị a. Tinye nzọ!
+d589374	BLACKJACK NA-AKWỤ 3 NA 2   •   ONYE NKESA NA-AKWỤSỊ NA 17 NIILE   •   MKPUCHI NA-AKWỤ 2 NA 1
+b700b02	NZỌ
+16ec74f	HICHAPỤ
+55591e0	KESAA
+43e7971	KWỤSỊ
+097274c	OKPUKPU ABỤỌ
+6df63ca	KEWAA
+3e40f46	KPUCHIE
+db82d3a	MBA, DAALỤ
+28d6be8	NZỌ {0}+
+9587b70	Eruola oke tebụl
+b9ac47d	Chip ezughị
+d237ade	Onye nkesa na-egosi Ace. Kpuchie maka {0}?
+bf07c14	Mkpuchi na-akwụ {0}
+b6e674a	Onye nkesa enweghị blackjack. Mkpuchi efuola.
+0cc9679	Ị GAFERE
+82ce89d	ONYE NKESA GAFERE
+6e1e1a4	BLACKJACK!
+662fae5	MMERI
+8918d00	NHA ANYA
+9e69668	Chi ọma onye mbido agwụla. Usoro Chi Ọma gị na-amalite ugbu a.
+822f4f4	Chi ọma onye mbido agwụla. Site ugbu a ọ bụ blackjack nkịtị.
+b0377c7	Usoro Chi Ọma gị agwụla. Laghachi na blackjack nkịtị.
+824ad7c	CHIP AGWỤLA
+ff1822d	Lee obere vidiyo maka chip {0} n'efu, ma ọ bụ gaa n'ebe onye ego nọ.
+e4cac2f	Gaa n'ebe onye ego nọ ka ịgbakwunye chip gị.
+c3df3e7	CHIP N'EFU
+b169d33	ONYE EGO
+4d38f66	EMECHAA
+cb8171b	Buru ụzọ mechaa aka a.
+3aa6941	“{0}”
+6f846f4	OTU AKA ỌZỌ
+a79d4f2	PỤỌ
+693f697	CHI ỌMA ONYE MBIDO
+641ad58	USORO CHI ỌMA
+7fb55b3	Uru ugbu a: <b><color=#7CFC9A>{0}%</color></b>   Aka fọdụrụ: <b>{1}</b>
+d4f8fe0	Maka <b>aka blackjack {0}</b> na-esote nwere nzọ ruo <b>chip {1}</b>, kaadị ọ bụla nwere ohere <b>{2}%</b> ịbịa ka ọ baara gị uru (otu uru ahụ dị ka Chi Ọma Onye Mbido).
+0a5fc06	Site n'egwu dị mma nke ahụ na-emeri ihe dị ka <b>{0}%</b> nke aka, ma e jiri ya tụnyere ihe dị ka {1}% na blackjack nkịtị. Nzọ buru ibu bụ blackjack nkịtị ma ha anaghị eji aka. Mgbe aka gwụrụ, tebụl ọ bụla ga-abụ blackjack nkịtị ziri ezi ọzọ.
+c3a8946	AGHỌTARA M
+8dfc44a	Ị CHỌRỌ KA CHI ỌMA GỊ LỌGHACHI?
+272a97f	Chi Ọma Onye Mbido agwụla: site ugbu a tebụl ọ bụla bụ blackjack nkịtị ziri ezi. Usoro Chi Ọma na-eweghachi uru ahụ nwa oge.
+06b7689	KWA ỤBỌCHỊ
+4035996	USORO KWA ỤBỌCHỊ
+fbe7f18	ỤBỌCHỊ N'USORO
+7a46866	TAA
+4753707	LEE MGBASA OZI
+6bb45f3	ZỤTA
+62a945f	MKPỌCHI USORO
+ba5b1de	Mkpọchi usoro na-eme ka usoro gị dị ndụ n'ụbọchị ị na-adịghị egwu egwu. Ị nwere ike ijide ruo {0}.\n\nZụta otu maka chip {1}?
+38c6090	Mkpọchi usoro dị njikere.
+8fe681f	Chip ezughị maka mkpọchi.
+1507c40	KAGBUO
+457d20f	NTỤGHARỊ KWA ỤBỌCHỊ
+9623247	TỤGHARỊA
+ac5ef96	Ohere:
+1200f20	{0}%
+003a689	Ị meriri chip {0}!
+f757137	ỌRỤ TAA
+7b7f9e2	Kachasị mma: ụbọchị {0}
+9554fea	Gbaa egwu kwa ụbọchị iji wuo usoro
+5c8dbb8	Emezuola ebumnuche taa! Ka anyị hụ echi.
+1aeb9a1	Taa: okirikiri {0} / {1} (egwuregwu ọ bụla)
+bb92856	Mkpọchi usoro: {0} / {1}
+0ec6216	Zọpụta usoro gị n'ụbọchị ị tụfuru. +1 kwa ụbọchị asaa.
+cc0a745	JUPỤTARA
+419a962	ENWEGHỊ VIDIYO
+2dabd99	MGBASA OZI NA-ABỊA
+f12e166	Onyinye usoro: ihe nrite ×{0}
+80948a4	Otu ntụgharị n'efu kwa ụbọchị
+596b5e0	NKE NA-ESOTE  {0}
+7f7e7fc	Emechaala ihe niile! Anaala onyinye.
+03a0f2a	Ọrụ ọhụrụ n'etiti abalị.
+4784874	Mechaa atọ niile: +chip onyinye {0}
+42c5cda	GBAA EGWU
+337211e	EGWUREGWU
+8f5e3bd	Dọkpụrụ n'aka ekpe iji jee ije  •  Dọkpụrụ n'aka nri iji lee anya  •  Pịa iji gaa
+d00d221	Naanị 18+  •  Chip bụ maka ntụrụndụ: enweghị uru ego, a gaghị agbanwe ha maka ego ma ọ bụ ihe nrite
+b60f038	Na-emeghe ọnụ ụzọ...
+2e5bcce	Nnọọ! Chip nnabata {0} gị dị njikere. Tebụl ndị ahụ dị n'ihu gị!
+7ef7ae3	+chip {0} n'efu! Ọzọ n'ime awa {1}.
+5d82af9	Chip n'efu na-ejupụta kwa awa {0}. Nke na-esote n'ime {1}.
+5469985	awa {0} nkeji {1}
+bb65beb	nkeji {0} sekọnd {1}
+ac8ba93	JIDE USORO GỊ
+560bfa1	Ị chọrọ ihe ncheta na mgbede ị na-egwubeghị egwu, na mgbe chip n'efu gị dị njikere? Ọ gaghị agafe nke ahụ, ị nwekwara ike gbanyụọ ya na Ntọala.
+b724a40	CHETARA M
+9e0c898	+chip {0} dị njikere!
+1207e28	Lee vidiyo: {0}
+db3655b	Chip n'efu na-esote n'ime {0}
+4ca9be5	BLACKJACK
+9a612b1	Tebụl 4  •  na-akwụ 3 na 2
+1194439	SLỌT
+6555152	Lucky Ace 7s  •  ahịrị 10
+255b1a1	RULET
+6df1551	Nke Europe nwere otu efu
+379b146	IKE AGWỤLA GỊ
+340e5c4	Ike gị agwụla. Were ihe n'ụlọ mmanya iji gaa n'ihu igwu egwu, ma ọ bụ lọghachi emechaa: ike na-alọta nwayọ nwayọ mgbe ị nọghị.
+a517396	GAA N'ỤLỌ MMANYA
+7c7227f	HỌRỌ TEBỤL GỊ
+c963de3	NZỌ
+c433657	ỌKWA {0}
+083ac39	NỌDỤ ALA
+9698219	CHỌRỌ {0}
+34b737e	Ruo ọkwa {0} iji gbaa egwu ebe a. Ị nọ n'ọkwa {1}.
+6cc19a9	KASINO
+6e946b7	ỤỤ
+4a3a892	ỌỌ
+2857a6a	AAAA
+9d1fece	ỤBỌCHỊ
+d3bb0c3	ỌNWA
+c0f0cad	AFỌ
+43985ff	OLEE MGBE A MỤRỤ GỊ?
+293fda2	Chip bụ maka ntụrụndụ naanị. Ha enweghị uru ego, a gaghịkwa agbanwe ha maka ego ma ọ bụ ihe nrite.
+3e9128d	NDO, Ị NWEGHỊ IKE ỊGBA EGWU
+b5e8985	{0} dịịrị naanị ndị toro eto.
+bb1b380	PỤỌ
+d9f9432	Ọ na-emechi n'ime {0}...
+c6e102d	GWA ANYỊ MAKA ONWE GỊ
+31120ce	Anyị ga-ahọrọ ndị nnabata, ndị nkesa na ndị ọrụ ụlọ mmanya kwesịrị gị. Ị nwere ike ịgbanwe nke a mgbe ọ bụla na Ntọala.
+49e8df9	ABỤ M NWOKE
+85abe81	ABỤ M NWANYỊ
+76cc98c	ACHỌGHỊ M IKWU
+964daf7	BANYE KASINO
+2efb69a	Ndị ọrụ gị n'abalị a:
+c10e749	Peeji {0} n'ime {1}
+2a3ffd9	ASỤSỤ
+c673535	AKPAAKA
+d1245d2	OBODO
+15fc12b	Nnọọ! Biko tinye nzọ gị.
+531fb3f	Chip ezughị maka nzọ ahụ.
+380eb75	Oke tebụl bụ {0} kwa ntụgharị.
+55ad592	WEGHACHI
+8f191f9	NCHỊKỌTA NZỌ  {0}
+82e1181	Pịa bọọdụ iji tinye chip
+bb19a75	Enweghị nzọ ọzọ!
+5becf07	AKWỤKWỌ NDỤ
+bc74f4f	akwụkwọ ndụ
+7898801	uhie
+466bc8c	ojii
+f2edfbf	Lee nkụ! Ekele!
+b252caf	Onye mmeri! Ị meriri {0}.
+8587d14	MMERI  +{0}
+b862a2b	{0} {1}. {2} na-alọghachikwute gị.
+a306d0a	E WEGHACHIRI  {0}
+af3134d	Enweghị mmeri oge a
+84122e7	Biko tinye nzọ gị.
+52205f4	Chere ka bọọlụ kwụsị.
+c4b9243	NTỌALA
+44d863e	IZUGBE
+2bbca79	ESERESE
+955c8b4	ỤDA
+c701f5f	METỤ
+efcc94a	ÒKÉ
+8433628	NJIKWA
+d868a50	NKPAGHARỊ
+f8692c7	18+ • Chip enweghị uru ego • Mkpụrụ edemede: Bebas Neue, Poppins, Noto (SIL OFL) • Oke ala: Natural Earth • Data ọnụahịa: Ụlọ akụ ụwa
+da46447	NDỊ ỌRỤ KASINO
+594b81e	NDỊ NWANYỊ
+69d3313	NDỊ NWOKE
+b4325d3	AGWAKỌTARA
+414594a	IHE NCHETA
+6cac87b	Chip n'efu dị njikere, na ncheta mgbede tupu usoro agwụ.
+e43b2e0	NYOCHAA ỌZỌ
+7c9e8f9	MPAGHARA ỌNỤAHỊA
+495c70e	Kachasị ọsọ: kasino dị ka e sere ya, ọ dịghị ihe ọzọ.
+b052523	Ala na-egbuke egbuke, osisi na ọlaedo na-egosipụta ụlọ ahụ.
+21b6e1d	Lensị sinima: nlebara anya na-eso anya gị, ahịrị na ọkụ, uzuzu n'ime ụzarị.
+fb7c2e8	ỊDỊ MMA
+d8b9679	DỊ ALA
+f68525a	ETITI
+d77d0b2	DỊ ELU
+9289eee	ULTRA
+2e7b141	Nke dị ala dị nro mana ọ na-adị jụụ ma na-echekwa batrị.
+93dcfb5	ỤDỊ NGOSI
+f3690b1	WINDO
+cfa6200	ỊMEZI OKPUKPU
+4266288	ỌSỌ FREEM
+d031ab0	{0} FPS
+a2b7514	FPS 30 na-echekwa batrị ma na-eme ka ekwentị ochie dị jụụ.
+0babcee	V-SYNC
+6656e25	MPAGHARA ỊHỤ
+244aadb	GOSI FPS
+41c8f6e	OLU ISI
+bf3af1f	EGWU
+bd80907	MMETỤTA ỤDA
+d098036	OLU NDỊ ỌRỤ
+93c6484	Ntamu ndị ọrụ na-eme mgbe ha na-ekwu okwu.
+16bf71a	MECHIE ỤDA N'AZỤ
+85b2ee7	Na-eme ka kasino dị jụụ mgbe ị nọ na windo ọzọ.
+8e3634e	MMETỤTA NLELE
+880dc05	Ọsọ ịdọkpụrụ si atụgharị nlele.
+750c60f	Ọsọ ịdọkpụrụ òké si atụgharị nlele.
+8b988eb	TỤGHARỊA NLELE EKPE / NRI
+cacf0cc	TỤGHARỊA NLELE ELU / ALA
+2d13b68	NHAZI BỌTỌN
+50c3f10	AKPAAKA
+b471e5c	GBANWEE MENU / NLELE
+d9a59f1	MMETỤTA OSISI
+ec14343	Ọsọ osisi aka nri si atụgharị nlele.
+a79af23	TỤGHARỊA OSISI EKPE / NRI
+acfc66e	TỤGHARỊA OSISI ELU / ALA
+56bb461	NDỤMỌDỤ NJIKWA
+51cf49a	Na-egosi ihe bọtọn ọ bụla na-eme mgbe ị na-eji njikwa egwu egwu.
+dff7431	MEE KA Ọ MAA JIJI NA
+34139ab	EKWENTỊ
+465cc91	Akpaaka: njikwa mgbe ejikọrọ ya, ma ọ bụghị ya ekwentị.
+f6fed84	NKPAGHARỊ EKWENTỊ
+8e97fa7	IKE EKWENTỊ
+486ba2d	NKPAGHARỊ NJIKWA
+8008889	IKE NJIKWA
+ea9233e	AKPAAKA ({0})
+167dda7	{0} na-emeghe Ntọala, {1} na-emeghe Kwa Ụbọchị.
+29a4ef9	Enweghị njikwa ejikọrọ.
+558ecd2	Ejikọrọ: {0}. Na-egosi bọtọn {1} (A n'aka nri na-akwado).
+d6eee9e	Ejikọrọ: {0}. Na-egosi bọtọn {1}.
+78525d5	ỤLỌ MMANYA
+099db9f	CHI ỌMA
+b4a8b06	Chip, chi ọma na nri bụ ihe mebere maka ntụrụndụ naanị: enweghị uru ego, a gaghị agbanwe ha maka ego ma ọ bụ ihe nrite.
+e2a28c9	Kaadị ọ bụla nwere ohere ahụ ịbịa ka ọ baara gị uru, na nzọ blackjack ruo chip {0} (nzọ buru ibu bụ nkịtị ma ha anaghị eji aka). Ọ na-amalite mgbe Chi Ọma Onye Mbido gasịrị; a na-ebu ụzọ jiri ngwugwu siri ike.
+04fbc6d	Kwe ka a nweta ọnọdụ gị iji nweta ọnụahịa obodo gị
+2ae87fc	Ịzụ ahịa adịghị na ụdị egwuregwu a.
+8239a84	ỤLỌ AHỊA NNWALE (ọ bụghị ezigbo ego)
+173d916	ike
+b2c67eb	+{0}% CHIP
+58e8011	aka {0}
+ce80712	na-emeri ihe dị ka {0}% n'ime ha
+c69e8ee	LUCKY ACE 7s
+fc99288	NCHỊKỌTA NZỌ
+c1c00cd	TEBỤL ỊKWỤ ỤGWỌ
+3930abd	CHI ỌMA!
+67b6973	Ị chọrọ opekata mpe chip 10 iji tụgharịa.
+5aa1edb	NWETA CHIP
+f5a1812	Ebelatala nzọ ka ọ ruo ihe ị nwere ike ịkwụ.
+5c63f61	MMERI MEGA!
+652544f	MMERI UKWU!
+91bc41c	E WEGHACHIRI {0}
+3714283	ENWEGHỊ MMERI
+33c0faa	AHỊRỊ {0}: {1} × {2} = {3}
+9f59e6e	KPAKPANDO {0} = {1}
+d6eee90	Cheri
+4459b79	Lemọn
+09fb6aa	Oroma
+cb92e50	Plọm
+d419866	Mgbịrịgba
+e496fd2	Bar
+63abb56	Asaa
+b3850e0	Daịmọnd
+fc2b5a9	Ace
+85a7de6	Kpakpando
+c31b035	KPAKPANDO na-akwụ ebe ọ bụla: 5 = nzọ ×{0}, 4 = nzọ ×{1}, 3 = nzọ ×{2}.
+f97509c	ACE bụ wild: ọ na-anọchi akara ọ bụla ma e wezụga kpakpando.
+3e8bc69	Ụgwọ ahịrị bụ okpukpu nzọ ahịrị (nchịkọta nzọ ÷ 10), site n'aka ekpe gaa n'aka nri site na wiil mbụ.
+523f8dc	ỊLAGHACHI: {0}% n'ogologo oge. Ntụgharị ọ bụla nọ onwe ya ma bụrụ ihe ndabara.
+e0c705d	Jee ije
+b8db515	Lee
+503d46d	Bọtọn
+c7f73bb	Ntọala
+728298d	Kwa ụbọchị
+ab166bd	Dozie
+76cdb95	Gaa
+8598222	Họrọ
+bbfa773	Mechie
+b52b36b	Laghachi
+ab37588	IKE AGWỤLA
+9b11a09	CHI ỌMA ONYE MBIDO {0}%
+0c94e98	AKA {0} FỌDỤRỤ
+51ed273	USORO CHI ỌMA {0}%
+3401470	AKA {0}  •  NZỌ RUO {1}
+f481cc6	ỌKWA
+0139615	NNỌỌ
+daad514	GWA ONYE NNABATA OKWU
+bcefb10	Ntụziaka na ndụmọdụ
+c28e782	CHIP  •  ONYINYE
+0c69ec4	ZỤTA CHIP
+78c0727	Onye ego
+1737fab	MMANYA  •  NRI NTA  •  IKE
+9e008ae	NRI NA IHE ỌṄỤṄỤ
+f7881e8	Ụlọ mmanya
+0e979ed	BLACKJACK NA-AKWỤ 3 NA 2
+eea0d12	ONYE NKESA GA-AKWỤSỊ NA 17
+4db37bf	GBAA BLACKJACK
+0ffdd99	Tebụl {0}  •  nzọ {1} ruo {2}
+b4f938b	GBAA SLỌT
+6b7caea	TINYE NZỌ GỊ
+26b1e39	GBAA RULET
+910a1ed	Wiil Europe  •  nọmba ozugbo na-akwụ 35 na 1
+7ef0215	NYE IWU IHE ỌṄỤṄỤ
+fe38d73	{0} ga-ebute ya
+f7b6306	{0} na-emeghe n'ọkwa {1}. Ị nọ n'ọkwa {2}: okirikiri ọ bụla ị gbara na-agụ.
+d85f1ad	Tebụl a chọrọ opekata mpe chip {0}.
+cbfe016	Tebụl blackjack dị n'ihu gị. Jee na otu ma nọdụ ala!
+64d9faf	Onye ego nọ ebe a n'aka nri gị, ụlọ mmanya dịkwa n'akụkụ mgbidi aka ekpe.
+e4c6e0b	Ike gwụrụ gị? Nri nta n'ụlọ mmanya na-eme ka ike gị jupụta ozugbo.
+d5ab68f	Pịa ebe ọ bụla n'ala ị ga-aga ebe ahụ. Pịa tebụl ka ị nọdụ ala.
+cc21f74	OBERE
+dc01dec	UKWU
+3b6ab84	Gbaa aka 8 nke hold'em
+6c617ca	Merie aka 4 nke hold'em
+44ce500	Gbaa aka 10 nke baccarat
+b90cff7	Merie aka 5 nke baccarat
+3e4dfa9	Gbaa aka 15 nke video poker
+2973ea7	Tụba dice ugboro 15 na craps
+737be17	Merie ntụba 4 na craps
+4dbb81d	Nweta flush ma ọ bụ karịa na video poker
+19aa07b	Royal flush
+cf83e72	Straight flush
+d27ba03	Anọ yiri onwe ha
+dbe8641	Full house
+7c936d7	Flush
+ca1a0d4	Atọ yiri onwe ha
+2537f88	Abụọ yiri onwe ha
+b4b323e	Kaadị kachasị elu
+f70bfdc	Jack ma ọ bụ karịa
+98fd5af	BACCARAT
+df66d5a	Nnọọ na baccarat! Onye egwuregwu, Banki ma ọ bụ Ha nhata?
+5055efd	ONYE EGWUREGWU
+3f90696	HA NHATA
+0d75f63	BANKI
+0ebd5a4	NSONAAZỤ IKPEAZỤ
+511993d	O
+ae4f281	B
+c2c53d6	H
+781246e	Họrọ chip, wee pịa Onye egwuregwu, Banki ma ọ bụ Ha nhata
+11023a0	HA NHATA  {0}
+503d5f1	ONYE EGWUREGWU MERIRI  {0} NA {1}
+0eb4be5	BANKI MERIRI  {0} NA {1}
+7859af1	CRAPS
+4083dbd	Nnọọ na craps! Tinye nzọ na Pass Line wee tụba.
+d266326	ISII
+c506f3a	ITOOLU
+987f4e9	FIELD
+71c1b2b	2 3 4 9 10 11 12  •  2 na 12 na-akwụ ugboro abụọ
+d0ac294	7 Ọ BỤLA
+9b2f0c3	CRAPS Ọ BỤLA
+f62ac59	DON'T PASS BAR
+c07247a	PASS LINE
+6229f78	ODDS
+29bf819	ezi ohere
+387d7a5	NA-ARỤ
+229c9cc	A na-etinye odds n'azụ Pass Line mgbe e nwere point.
+c2c8e82	Odds chọrọ nzọ na Pass Line.
+1784d43	Odds gị eruola oke.
+fdc3442	A na-etinye nzọ ahịrị n'ntụba mbụ.
+97ce95b	NA TEBỤL  {0}
+a895ec0	Point bụ {0}: tụba ya ọzọ tupu 7. Odds n'azụ Pass Line gị na-akwụ ezi ohere.
+d9f9d65	TỤBA
+bcf32ef	Point bụ {0}.
+5b450b4	{0}! Point emezuola. Mmeri!
+9746e08	Asaa pụtara. Onye ọhụrụ na-atụba, ntụba mbụ ọhụrụ.
+4fc4664	{0}, natural! Pass Line meriri.
+203f466	{0}, craps. Ahịrị efuola.
+0f8e260	Chere ka dice kwụsị.
+6a98cfe	Ị GA-AHAPỤ TEBỤL?
+8430088	Nzọ ahịrị gị ka na-arụ na point {0}. Ọ bụrụ na ị pụọ ugbu a, ọ ga-efu.
+0e138d1	HOLD'EM
+5e023be	Nnọọ na hold'em! Tinye ante ka anyị hụ kaadị.
+0cd62f5	ANTE
+5e9f331	BLIND
+3b935ab	BLIND NA-AKWỤ
+20713a4	Onye nkesa na-eru eru site na abụọ yiri onwe ha ma ọ bụ karịa
+d37267c	CHECK
+9a4e316	FOLD
+88313c4	TINYE NZỌ {0}×
+42c6fea	Ante {0} + blind {0}. Debe {1} ọzọ maka ịbawanye.
+f541cec	Check, ka ị tinye ugboro atọ ma ọ bụ anọ nke ante?
+fc74a79	Bawanye ugbu a 4× ma ọ bụ 3× nke ante, ma ọ bụ check hụ flop.
+b687501	Ohere ikpeazụ: tinye 1× nke ante, ma ọ bụ fold ma tụfuo ante na blind.
+400009c	Tinye 2× nke ante ugbu a, ma ọ bụ check hụ kaadị abụọ ikpeazụ.
+f4abdf9	Lee flop.
+0e51f2c	Turn na river.
+cc856d3	Ka anyị hụ ihe m nwere.
+6ba1f3e	Onye nkesa erughị eru: ante gị na-alọghachi.
+cf1fdc5	Ị fold. Aka ọzọ bụ nke gị.
+177fab0	Ultimate Texas Hold'em
+c4917b9	Onye egwuregwu, Banki ma ọ bụ Ha nhata
+6e4fe7b	VIDEO POKER
+73cabd3	Jacks or Better
+91c4555	SIC BO
+d810061	Dice atọ  •  ukwu ma ọ bụ obere
+85ab7ec	Pass Line  •  Field  •  Odds
+35d8db6	Nnọọ na sic bo! Ukwu, obere ma ọ bụ ihe nwere obi ike karịa?
+3d05514	Oke tebụl bụ {0} n'otu ntụba.
+86ade94	KPỌGHARỊA
+b69304e	ATỌ {0}!
+5d1bcc6	EJIDERE
+99fa8e8	JIDE
+249d1c0	NDỤMỌDỤ
+7aab1bd	GBANWEE
+5595eb4	Pịa kaadị iji jide ha, wee gbanwee.
+e353e5f	Ultimate Texas Hold'em  •  ante {0} ruo {1}
+6470369	GBAA BACCARAT
+bbe0077	UKWU  •  OBERE  •  ATỌ ATỌ
+3ba448f	GBAA SIC BO
+097c59c	Dice atọ  •  ukwu ma ọ bụ obere na-akwụ 1 na 1
+af2ca30	PASS LINE  •  FIELD  •  ODDS
+f18398e	GBAA CRAPS
+eeede6d	Pass Line na-akwụ 1 na 1  •  odds na-akwụ ezi ohere
+34e5170	GBAA VIDEO POKER
+f71bdfb	Jacks or Better  •  tebụl zuru ezu 9/6
+4a6c087	JACKS OR BETTER  •  ROYAL FLUSH NA-AKWỤ 800×
+370a133	Igwe slot dị n'akụkụ mgbidi aka nri, video poker n'akụkụ mgbidi azụ, roulette dịkwa n'azụ.
+8298d28	Hold'em dị na nkuku azụ aka ekpe, gafere ụlọ mmanya.
+a2a111f	Baccarat dị n'aka ekpe ozugbo ị banyere.
+25320c8	Tebụl craps dị n'aka nri, n'ihu igwe slot. Tinye nzọ na Pass Line wee tụba!
+dc81691	Sofia
+4d9936f	Elena
+3aa0674	Mia
+b724114	Valentina
+34d3f7f	Chloe
+0fc9dd6	Isabella
+bbd3e35	Nadia
+eac677d	Aria
+baaf10f	Luna
+8641381	Camila
+eeee9b7	Aurora
+8a59f05	Bianca
+5a0fc29	Serena
+bf38aa5	Marco
+cfaf50a	Leo
+5815f22	Adrian
+cbede02	Lucas
+f0b9995	Viktor
+7b37259	Daniel
+aaac72d	Gabriel
+2f8f37e	Ethan
+a01126e	Julian
+3e05c90	Rafael
+e1ae457	Mateo
+3398634	Nico
+7aa2d07	Enzo
+7512cfd	Tre Chip
+5fb90b0	ATỌ Ọ BỤLA
+6876b40	Abụọ yiri onwe ha abụọ
+1c05db9	GBAA HOLD'EM
+dfddac1	Merie okirikiri 4 nke sic bo
+854fe20	Gbaa okirikiri 8 nke sic bo
+1cc7820	Circle
+dbfe736	Cross
+2501c65	Straight
+710756a	ADỊGHỊ NHA
+49dcc21	Ụlọ Nchekwa Chip
+0725283	Igbe Nchekwa Onye Egwu Ukwu
+9c716f1	Tebụl Hold'em
+5d921e1	Kasino nwere chi ọma oge a.
+63f8d0b	Blackjack nye kasino, ndo!
+0b48017	Igbe kaadị ọhụrụ, ana m agwakọta!
+b268d84	Ụbọchị {0} n'usoro... ị gaghị akwụsị ugbu a, ọ bụghị ya?
+928226b	TINYEGHACHI
+395ed46	WERE KAADỊ
+8df6be4	MFU
+fc45931	Onyinye nnabata maka ndị egwu ọhụrụ: n'aka <b>{0}</b> mbụ gị, a haziri igbe kaadị onye nkesa ka ọ baara gị uru, ya mere ị ga-emeri ihe fọrọ nke nta ka ọ bụrụ aka ọ bụla.
+576c683	N'aka <b>{0}</b> na-esote uru ahụ na-adalata nwayọ, mgbe ahụ tebụl ọ bụla bụ blackjack nkịtị ziri ezi, e kesara site n'igbe kaadị e gwakọtara nke nwere ngwugwu kaadị 6 (blackjack na-akwụ 3 na 2, onye nkesa na-akwụsị na 17 niile).
+6080ade	1:1  •  12 bụ nha anya
+ad50489	NA-ARỤGHỊ
+1abb2f2	Pịa chip iji tọọ ante gị. Blind bụ otu ọnụọgụ ahụ.
+6bd30d7	Ọdịdị fim: agba edoziri nke ọma, mkpụrụ fim, ìhè na-enwu enwu, ụzarị ìhè, akpụkpọ ahụ dị ndụ.
+637e313	ỌNỤỌGỤ PIKSELỤ
+3c6eac3	IHUENYO ZURU EZU
+f178804	Na-eme ka ọnụ ọnụ ndị na-adịghị nhata na kasino dị nro.
+15ee988	HA ABỤỌ
+36a21ba	Kesaa, jide kaadị ị chọrọ, gbanwee otu ugboro.
+b7193bc	Sic bo dị na nkuku gafere onye ego: dice atọ, ukwu ma ọ bụ obere.
+1920e2f	Ntụba mbụ: tinye nzọ na Pass Line, wee tụba. 7 ma ọ bụ 11 na-emeri; 2, 3 ma ọ bụ 12 na-efunahụ. Nzọ place na-amalite ịrụ ọrụ mgbe e nwere point.
+99f4934	LUCKY ACE 7s  •  NA-AKWỤ RUO 2,500× NZỌ AHỊRỊ GỊ

@@ -356,21 +356,21 @@ namespace Casino.UI
             rows.Clear();
             if (walking && focus == null)
             {
-                rows.Add((PadGlyphKind.LeftStick, "Walk"));
-                rows.Add((PadGlyphKind.RightStick, "Look"));
+                rows.Add((PadGlyphKind.LeftStick, Loc.T("Walk")));
+                rows.Add((PadGlyphKind.RightStick, Loc.T("Look")));
                 string use = layer.PadConfirmHint;
                 if (!string.IsNullOrEmpty(use)) rows.Add((PadGlyphKind.Confirm, CultureInfo.InvariantCulture.TextInfo.ToTitleCase(use.ToLowerInvariant())));
-                rows.Add((PadGlyphKind.Dpad, "Buttons"));
-                rows.Add((PadGlyphKind.Menu, "Settings"));
-                rows.Add((PadGlyphKind.View, "Daily"));
+                rows.Add((PadGlyphKind.Dpad, Loc.T("Buttons")));
+                rows.Add((PadGlyphKind.Menu, Loc.T("Settings")));
+                rows.Add((PadGlyphKind.View, Loc.T("Daily")));
             }
             else
             {
                 bool slider = focus != null && focus.GetComponent<Slider>() != null;
-                rows.Add((PadGlyphKind.Dpad, slider ? "Adjust" : "Move"));
-                if (!slider) rows.Add((PadGlyphKind.Confirm, "Select"));
-                rows.Add((PadGlyphKind.Back, walking ? "Walk" : layer is UIModal ? "Close" : "Back"));
-                if (!(layer is UIModal) && layer != null && layer.ShowsWorld) rows.Add((PadGlyphKind.Menu, "Settings"));
+                rows.Add((PadGlyphKind.Dpad, slider ? Loc.T("Adjust") : Loc.T("Move")));
+                if (!slider) rows.Add((PadGlyphKind.Confirm, Loc.T("Select")));
+                rows.Add((PadGlyphKind.Back, walking ? Loc.T("Walk") : layer is UIModal ? Loc.T("Close") : Loc.T("Back")));
+                if (!(layer is UIModal) && layer != null && layer.ShowsWorld) rows.Add((PadGlyphKind.Menu, Loc.T("Settings")));
             }
 
             var key = new StringBuilder().Append((int)Pad.Family).Append(App.I.Save.padSwapMenuView);

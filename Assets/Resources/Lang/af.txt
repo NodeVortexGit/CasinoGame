@@ -1,0 +1,1004 @@
+KLEIN
+GROOT
+ONEWE
+EWE
+ENIGE DRIELING
+Handvol skyfies
+Stapel skyfies
+Skinkbord skyfies
+Rak skyfies
+GEWILDSTE
+Kluis vol skyfies
+Grootspeler se kluis
+BESTE WAARDE
+Vonkelwater
+Espresso
+Energiedrankie
+Klubtoebroodjie
+Burgerete
+Steakaandete
+VOLLE HERVUL
+Gelukstreep
+Warm streep
+MEESTE GELUK
+Bronstafel
+Silwertafel
+Goudtafel
+Diamanttafel
+Hold'em-tafel
+Voer asseblief 'n geldige jaar in.
+Voer asseblief 'n geldige maand in (1-12).
+Voer asseblief 'n geldige dag in.
+Daardie datum is in die toekoms.
+Welkom by my tafel! Gereed om te speel?
+Lekker om jou te sien. Sit gerus!
+Hallo daar! Die kaarte is vars, en ek ook.
+Welkom! Kom ons maak vanaand 'n goeie een.
+Plaas jou weddenskap wanneer jy gereed is.
+Skyfies neer, en kom ons kyk na kaarte.
+Waarvoor speel ons?
+Ooh, 'n groot weddenskap! Ek hou van jou styl.
+Dís 'n weddenskap. Kom ons doen dit!
+Jy voel dapper vanaand, nè?
+Alles in?! My hart klop wild!
+Alles op een hand. Vreesloos!
+Blackjack! Ongelooflik!
+Een-en-twintig, net so!
+Blackjack! Die kaarte is lief vir jou vanaand.
+Mooi gespeel!
+Wenner! Mooi so.
+Jy is op dreef!
+Daardie een is joune.
+Wat 'n wen! Almal kyk na hierdie tafel!
+Reusagtig! Jy is vanaand vuurwarm!
+So naby! Die volgende een is joune.
+Die huis was dié keer gelukkig.
+Skud dit af, 'n nuwe hand kom.
+Eina, een kaart te veel.
+Bars! Dit gebeur met die beste van ons.
+Gelykop. Niemand verloor nie!
+Gelykop. Jou skyfies is veilig.
+Ek het gebars! Gelukkige jy.
+Te veel vir my. Jy wen!
+Blackjack vir die huis, jammer!
+Die uitdeler het blackjack. Teëspoed.
+Ek wys 'n aas. Versekering?
+Ons verdeel! Twee kanse om te wen.
+Verdubbel. Dapper skuif!
+Verdubbel! Een kaart kom.
+Nuwe kaartpakke, ek skommel!
+Raak jy min? Die kassier kan jou aanvul.
+Die skyfies raak min. Wil jy meer kry?
+Skyfies op! Besoek die kassier of kry gratis skyfies.
+Jou stapel is leeg. Die kassier is net agter jou.
+Jy lyk uitgeput! Kry iets te ete by die kroeg.
+Loop jy op leeg? Die kroeg help jou reg.
+Vat jou tyd.
+Wanneer jy ook al gereed is!
+Die nag is nog jonk.
+Beginnersgeluk is aan jou kant!
+Die pak is vanaand aan jou kant!
+Beginnersgeluk is verby. Van nou af is dit 'n regverdige spel!
+Welkom by die casino! Jou sitplek wag.
+Goeienaand! Die tafels is warm vanaand.
+Welkom terug! Voel jy gelukkig?
+Tik op 'n tafel om te begin speel!
+Meer skyfies nodig? Jy het by die regte venster gekom.
+Groter stapels, groter bonusse!
+Honger? Kies enigiets van die spyskaart.
+'n Happie hou jou energie op!
+Welkom by my tafel!
+Daar is jy! Die plek voel sommer helderder.
+Maak jou tuis. Vanaand gaan dit alles oor jou.
+Ek is mal oor daardie glimlag. Gelukkige aand?
+Ontspan, jy is in goeie hande hier.
+Haai jy! Ek het gehoop jy sal by my venster inloer.
+Altyd lekker om 'n vriendelike gesig te sien.
+Kyk wie's hier! Geniet jy dit?
+Hallo daar, pragtige!
+Ek hou vanaand van jou styl.
+Haai, lekker om jou weer te sien!
+Het jy 'n lekker aand? Jy verdien dit.
+Pasop, ek begin dalk vir jou duim vashou.
+My gunstelingspeler is terug!
+Sit by my, ek deel iets moois vir jou uit.
+Jy maak hierdie tafel baie meer pret.
+Gaan jy al? Die nag is nog jonk!
+Toe nou, net nog een hand. Ek het 'n goeie gevoel oor hierdie een!
+Jy kan my nie nou los nie, ons het skaars begin!
+Laaste kans! Die volgende hand kan die groot een wees...
+Goed, goed. Ek hou jou sitplek warm. Belowe jy kom terug?
+Nog geen streep nie? Speel vandag {2} rondtes en ek begin tel.
+Nuwe begin! {2} rondtes en jou vlam brand.
+Ek hou 'n lysie van wie elke dag opdaag. Jy is nie daarop nie... nog nie.
+Dag {1} wag vir jou. Nog net {2} rondtes!
+{0} dae op 'n ry... jy gaan tog nie nou ophou nie?
+Jou vlam lyk vandag 'n bietjie koud. {2} rondtes sal dit warm maak.
+Ek het getel: {0} dae. Kom ons maak dit {1}.
+Moenie dink ek het nie opgemerk nie. Nog {2} rondtes om jou streep te hou!
+{0} dae op 'n ry? Ek begin dink jy hou van hier.
+Jou streep is veilig vir vandag. Nou wys jy net af.
+Dag {0}, klaar. Môre dieselfde tyd?
+{0} dae! Ek moet seker 'n sitplek vir jou hou.
+Daar is dit: dag een van jou streep! Kom môre terug en ons maak dit twee.
+'n Hele week op 'n ry! Ek is regtig beïndruk.
+Dertig dae! Jy werk prakties hier.
+Honderd dae. Ek vertel almal van jou.
+Dis {0} dae op 'n ry! Kyk na jou.
+Streep gered: dag {0}! Ek het geweet jy sal dit maak.
+Dag {0}! Ek wed jy haal nie {1} nie.
+{0} dae... goed, spoggerd.
+Speel 10 hande blackjack
+Wen 5 hande blackjack
+Kry 'n blackjack
+Wen 500 skyfies by blackjack
+Draai die slotmasjiene 20 keer
+Wen 5 slotdraaie
+Wen 5× jou weddenskap op die slotmasjiene
+Speel 5 rondtes roulette
+Wen 3 roulettedraaie
+Tref 'n enkelnommer
+Speel 8 hande hold'em
+Wen 4 hande hold'em
+Speel 10 hande baccarat
+Wen 5 hande baccarat
+Speel 15 hande videopoker
+Speel 8 rondtes sic bo
+Wen 4 rondtes sic bo
+Gooi die dobbelstene 15 keer by craps
+Wen 4 gooie by craps
+Maak 'n flush of beter by videopoker
+Royal flush
+Straight flush
+Vier van 'n soort
+Vol huis
+Flush
+Straat
+Drie van 'n soort
+Twee pare
+Paar
+Hoë kaart
+GPS-ligging
+selnetwerk
+internetverbinding
+toestelinstellings
+toetsland
+nie geverifieer nie (standaardprys)
+onbekend
+1ste 12
+2de 12
+3de 12
+2 tot 1
+ROOI
+SWART
+Boere of beter
+REGVERDIGE PRYSE VIR JOU LAND
+Winkelpryse word by jou land se ekonomie aangepas, sodat spelers oral 'n regverdige prys betaal.
+Om jou land te vind, kyk ons een keer na jou benaderde ligging. Dit word op jou toestel by 'n land gepas en nooit iewers heen gestuur nie. As jy weier, geld standaardpryse.
+GAAN VOORT
+Verlaat die casino?
+Jou skyfies en vordering is gestoor.
+VERLAAT
+BLY
+{0} ontsluit
+'n Streepbevriesing het gister jou streep van {0} dae gered.
+{0} streepbevriesings het jou streep van {1} dae gered.
+Jou streep van {0} dae het geëindig. Speel vandag {1} rondtes om 'n nuwe een te begin!
+SENDING VOLTOOI
++{0} skyfies
+ALLE SENDINGS KLAAR!
+Daaglikse bonus +{0} skyfies. Nuwe sendings môre.
+VLAK {0}!
+Mylpaal! +{0} skyfies
+Kom môre terug om aan te hou
++1 streepbevriesing
+{0} DAE OP 'N RY!
+Aankope is nie in hierdie weergawe beskikbaar nie.
+Aankoop het misluk. Jy is nie gehef nie.
++{0} skyfies bygevoeg!
+{0}: {1} hande teen {2}% geluk, ná beginnersgeluk
+{0}: {1} hande teen {2}% geluk!
+{0}: +{1}% energie
+Nie op hierdie toestel beskikbaar nie
+Video's kan nie op hierdie netwerk laai nie
+Kom môre terug
+Gereed oor {0}s
++{0} skyfies ({1} oor vandag)
++{0} gratis skyfies!
++1 streepbevriesing!
+Geen video op die oomblik beskikbaar nie. Probeer weer oor 'n rukkie.
+BRONS
+SILWER
+GOUD
+DIAMANT
+Kieslys
+Aansig
+Cross
+Circle
+Square
+Triangle
+Kontroleer jou streek...
+Nie geverifieer nie ({0}): standaardpryse
+{0} ({1}): pryse in {2}
+Herinneringe
+Gratis skyfies gereed en streepherinneringe
+Jou gratis skyfies is gereed
+{0} skyfies wag vir jou by Lucky Ace.
+Hou jou streep van {0} dae
+Speel vandag {0} rondtes sodat dit nie om middernag terugstel nie.
+BACCARAT
+Welkom by baccarat! Speler, Bank of Gelykop?
+SPELER
+GELYKOP
+BANK
+LAASTE UITSLAE
+S
+B
+G
+ONTDOEN
+MAAK SKOON
+HERHAAL
+DEEL UIT
+Nie genoeg skyfies vir daardie weddenskap nie.
+Tafelmaksimum bereik
+TOTALE WEDDENSKAP  {0}
+Kies 'n skyfie en tik dan op Speler, Bank of Gelykop
+GELYKOP  {0}
+SPELER WEN  {0} TEEN {1}
+BANK WEN  {0} TEEN {1}
+WEN  +{0}
+TERUGBETAAL  {0}
+Geen wen dié keer nie
+Voltooi eers hierdie hand.
+Welkom! Beginnersgeluk is vanaand aan jou kant. Plaas 'n weddenskap!
+BLACKJACK BETAAL 3 TOT 2   •   UITDELER STAAN OP ALLE 17'S   •   VERSEKERING BETAAL 2 TOT 1
+WEDDENSKAP
+TREK KAART
+STAAN
+VERDUBBEL
+VERDEEL
+VERSEKER
+NEE DANKIE
+WED {0}+
+Nie genoeg skyfies nie
+Die uitdeler wys 'n aas. Verseker vir {0}?
+Versekering betaal {0}
+Geen blackjack vir die uitdeler nie. Versekering verloor.
+BARS
+UITDELER BARS
+BLACKJACK!
+WEN
+GELYKOP
+VERLOOR
+Beginnersgeluk is verby. Jou Gelukstreep begin nou.
+Beginnersgeluk is verby. Van nou af is dit gewone blackjack.
+Jou Gelukstreep is verby. Terug na gewone blackjack.
+SKYFIES OP
+Kyk 'n kort video vir {0} gratis skyfies, of besoek die kassier.
+Besoek die kassier om jou skyfies aan te vul.
+GRATIS SKYFIES
+KASSIER
+LATER
+“{0}”
+NOG EEN HAND
+VERTREK
+BEGINNERSGELUK
+GELUKSTREEP
+Welkomsbonus vir nuwe spelers: vir jou eerste <b>{0} hande</b> is die uitdeler se kaartehouer in jou guns gepak, so jy sal amper elke hand wen.
+Oor die volgende <b>{0} hande</b> vervaag die voordeel, en daarna is elke tafel gewone, regverdige blackjack uit 'n geskommelde kaartehouer van 6 pakke (blackjack betaal 3 tot 2, die uitdeler staan op alle 17's).
+Voordeel nou: <b><color=#7CFC9A>{0}%</color></b>   Hande oor: <b>{1}</b>
+Vir jou volgende <b>{0} blackjackhande</b> met 'n weddenskap van tot <b>{1} skyfies</b>, het elke kaart 'n <b>{2}%</b> kans om in jou guns uitgedeel te word (dieselfde voordeel as beginnersgeluk).
+Met goeie spel wen dit sowat <b>{0}%</b> van hande, teenoor sowat {1}% in gewone blackjack. Groter weddenskappe is gewone blackjack en gebruik nie hande op nie. Wanneer die hande op is, is elke tafel weer gewone, regverdige blackjack.
+VERSTAAN
+WIL JY JOU GELUK TERUG HÊ?
+Beginnersgeluk is verby: van nou af is elke tafel gewone, regverdige blackjack. 'n Gelukstreep bring die voordeel vir 'n ruk terug.
+CRAPS
+Welkom by craps! Wed op die Pass Line en gooi.
+SES
+NEGE
+FIELD
+2 3 4 9 10 11 12  •  2 en 12 betaal dubbel
+ENIGE 7
+ENIGE CRAPS
+DON'T PASS BAR
+1:1  •  12 is gelykop
+PASS LINE
+ODDS
+ware kans
+AF
+AAN
+Odds gaan agter die Pass Line sodra daar 'n punt is.
+Odds het 'n weddenskap op die Pass Line nodig.
+Jou odds is op die maksimum.
+Lyn-weddenskappe word op die eerste gooi geplaas.
+OP DIE TAFEL  {0}
+Eerste gooi: wed op die Pass Line, en gooi dan. 7 of 11 wen; 2, 3 of 12 verloor. Place-weddenskappe begin werk sodra daar 'n punt is.
+Die punt is {0}: gooi dit weer voor 'n 7. Odds agter jou Pass Line betaal ware kans.
+GOOI
+Die punt is {0}.
+{0}! Punt gemaak. Wen!
+Sewe uit. Nuwe gooier, nuwe eerste gooi.
+{0}, 'n natural! Die Pass Line wen.
+{0}, craps. Die lyn verloor.
+Wag totdat die dobbelstene stilstaan.
+VERLAAT DIE TAFEL?
+Jou lyn-weddenskap speel nog op die punt {0}. As jy nou weggaan, is dit verlore.
+DAAGLIKS
+DAAGLIKSE STREEP
+DAE OP 'N RY
+VANDAG
+KYK ADVERTENSIE
+KOOP
+STREEPBEVRIESING
+'n Streepbevriesing hou jou streep lewendig op 'n dag wat jy nie speel nie. Jy kan tot {0} hou.\n\nKoop een vir {1} skyfies?
+Streepbevriesing gereed.
+Nie genoeg skyfies vir 'n bevriesing nie.
+KANSELLEER
+DAAGLIKSE DRAAI
+DRAAI
+Kanse:
+{0}%
+Jy het {0} skyfies gewen!
+VANDAG SE SENDINGS
+Beste: {0} dae
+Speel elke dag om 'n streep op te bou
+Vandag se doel bereik! Sien jou môre.
+Vandag: {0} / {1} rondtes (enige spel)
+Streepbevriesings: {0} / {1}
+Red jou streep op 'n dag wat jy mis. +1 elke 7 dae.
+VOL
+GEEN VIDEO
+ADVERT BINNEKORT
+Streepbonus: pryse ×{0}
+Een gratis draai elke dag
+VOLGENDE  {0}
+Alles klaar! Bonus ontvang.
+Nuwe sendings om middernag.
+Voltooi al drie: +{0} bonusskyfies
+HOLD'EM
+Welkom by hold'em! Sit jou ante neer en kom ons kyk na kaarte.
+ANTE
+BLIND
+SPEEL
+BLIND BETAAL
+Die uitdeler kwalifiseer met 'n paar of beter
+CHECK
+FOLD
+WED {0}×
+Ante {0} + blind {0}. Hou nog {1} vir jou verhoging.
+Tik op skyfies om jou ante te kies. Die blind is dieselfde.
+Check, of wed drie of vier keer jou ante?
+Verhoog nou met 4× of 3× jou ante, of check en kyk na die flop.
+Laaste kans: wed 1× jou ante, of fold en verloor ante en blind.
+Wed nou 2× jou ante, of check en kyk na die laaste twee kaarte.
+Hier's die flop.
+Die turn en die river.
+Kom ons kyk wat ek het.
+Die uitdeler kwalifiseer nie: jou ante kom terug.
+Gefold. Die volgende hand is joune.
+SPELETJIES
+Sleep links om te loop  •  Sleep regs om rond te kyk  •  Tik om te gaan
+Net 18+  •  Skyfies is vir pret: geen kontantwaarde nie, nooit ruilbaar vir geld of pryse nie
+Die deure gaan oop...
+Welkom! Jou {0} welkomskyfies is gereed. Die tafels is reg voor!
++{0} gratis skyfies! Meer oor {1} uur.
+Gratis skyfies word elke {0} uur hervul. Volgende oor {1}.
+{0}u {1}m
+{0}m {1}s
+HOU JOU STREEP
+Wil jy 'n herinnering op aande wat jy nog nie gespeel het nie, en wanneer jou gratis skyfies gereed is? Nooit meer as dit nie, en jy kan dit in Instellings afskakel.
+HERINNER MY
++{0} skyfies gereed!
+Kyk 'n video: {0}
+Volgende gratis skyfies oor {0}
+BLACKJACK
+4 tafels  •  betaal 3 tot 2
+Ultimate Texas Hold'em
+Speler, Bank of Gelykop
+SLOTMASJIENE
+Lucky Ace 7s  •  10 lyne
+VIDEOPOKER
+Jacks or Better
+SIC BO
+Drie dobbelstene  •  groot of klein
+Pass Line  •  Field  •  Odds
+ROULETTE
+Europees met enkel nul
+JY IS UITGEPUT
+Jou energiebalk is leeg. Kry iets by die kroeg om aan te hou speel, of kom later terug: energie herstel stadig terwyl jy weg is.
+GAAN NA DIE KROEG
+KIES JOU TAFEL
+WEDDENSKAPPE
+VLAK {0}
+GAAN SIT
+BENODIG {0}
+Bereik vlak {0} om hier te speel. Jy is op vlak {1}.
+CASINO
+DD
+MM
+JJJJ
+DAG
+MAAND
+JAAR
+WANNEER IS JY GEBORE?
+Skyfies is net vir vermaak. Hulle het geen kontantwaarde nie en kan nooit vir geld of pryse geruil word nie.
+JAMMER, JY KAN NIE SPEEL NIE
+{0} is net vir volwassenes beskikbaar.
+VERLAAT
+Sluit oor {0}...
+VERTEL ONS VAN JOU
+Ons kies jou gashere, uitdelers en kroegpersoneel om te pas. Jy kan dit enige tyd in Instellings verander.
+EK IS 'N MAN
+EK IS 'N VROU
+VERKIES OM NIE TE SÊ NIE
+GAAN DIE CASINO BINNE
+Jou personeel vanaand:
+Bladsy {0} van {1}
+TAAL
+OUTOMATIES
+LAND
+Welkom! Plaas asseblief jou weddenskappe.
+Die tafellimiet is {0} per draai.
+Tik op die bord om skyfies te plaas
+Geen weddenskappe meer nie!
+GROEN
+groen
+rooi
+swart
+Wat 'n treffer! Baie geluk!
+Wenner! Jy wen {0}.
+{0} {1}. {2} kom terug na jou.
+Plaas asseblief jou weddenskappe.
+Wag vir die bal om te land.
+INSTELLINGS
+ALGEMEEN
+GRAFIKA
+KLANK
+AANRAKING
+MUIS
+BEHEERDER
+VIBRASIE
+18+ • Skyfies het geen kontantwaarde nie • Lettertipes: Bebas Neue, Poppins, Noto (SIL OFL) • Grense: Natural Earth • Prysdata: Wêreldbank
+CASINOPERSONEEL
+VROUE
+MANS
+GEMENG
+HERINNERINGE
+Gratis skyfies gereed, en 'n aandpor voordat 'n streep sou eindig.
+KONTROLEER WEER
+PRYSSTREEK
+Vinnigste: die casino soos geverf, niks ekstra nie.
+Gepoleerde vloere, hout en goud weerkaats die vertrek.
+Filmvoorkoms: gegradeerde kleur, korrel, gloed, ligstrale, lewensegte vel.
+Rolprentlens: fokus volg jou oog, strepe op ligte, stof in die strale.
+GEHALTE
+LAAG
+GEMIDDELD
+HOOG
+ULTRA
+RESOLUSIE
+Laer is sagter, maar loop koeler en spaar battery.
+VERTOONMODUS
+VOLSKERM
+VENSTER
+RANDGLADMAKING
+Maak skurwe rande in die casino glad.
+RAAMTEMPO
+{0} FPS
+30 FPS spaar battery en hou ouer fone koel.
+V-SYNC
+GESIGSVELD
+WYS FPS
+HOOFVOLUME
+MUSIEK
+KLANKEFFEKTE
+PERSONEELSTEMME
+Die gemurmel wat personeel maak terwyl hulle praat.
+DEMP IN DIE AGTERGROND
+Maak die casino stil terwyl jy in 'n ander venster is.
+KYKSENSITIWITEIT
+Hoe vinnig sleep die aansig draai.
+Hoe vinnig sleep met die muis die aansig draai.
+KEER KYK LINKS / REGS OM
+KEER KYK OP / AF OM
+KNOPPIE-UITLEG
+OUTOMATIES
+RUIL KIESLYS / AANSIG
+STOKSENSITIWITEIT
+Hoe vinnig die regterstok die aansig draai.
+KEER STOK LINKS / REGS OM
+KEER STOK OP / AF OM
+BEHEERDERWENKE
+Wys wat elke knoppie doen terwyl jy met 'n beheerder speel.
+VIBREER OP
+FOON
+BEIDE
+Outo: die beheerder terwyl een gekoppel is, anders die foon.
+FOONVIBRASIE
+FOONSTERKTE
+BEHEERDERVIBRASIE
+BEHEERDERSTERKTE
+OUTOMATIES ({0})
+{0} maak Instellings oop, {1} maak Daagliks oop.
+Geen beheerder gekoppel nie.
+Gekoppel: {0}. Wys {1}-knoppies (A regs bevestig).
+Gekoppel: {0}. Wys {1}-knoppies.
+DIE KROEG
+GELUK
+Skyfies, geluk en kos is virtuele items net vir vermaak: geen kontantwaarde nie, nie inwisselbaar vir geld of pryse nie.
+Elke kaart het daardie kans om in jou guns uitgedeel te word, op blackjack-weddenskappe tot {0} skyfies (groter weddenskappe is gewoon en gebruik nie hande op nie). Begin ná beginnersgeluk; sterker pakke word eerste gebruik.
+Laat liggingtoegang toe om jou land se prys te kry
+Aankope is nie in hierdie weergawe van die spel beskikbaar nie.
+TOETSWINKEL (geen regte geld nie)
+energie
++{0}% SKYFIES
+{0} hande
+wen sowat {0}% daarvan
+Welkom by sic bo! Groot, klein of iets dapperders?
+Die tafellimiet is {0} per gooi.
+SKUD
+DRIELING {0}!
+LUCKY ACE 7s
+TOTALE WEDDENSKAP
+UITBETALINGS
+SUKSES!
+Jy het minstens 10 skyfies nodig om te draai.
+KRY SKYFIES
+Weddenskap verlaag na wat jy kan dek.
+MEGAWEN!
+GROOT WEN!
+TERUGBETAAL {0}
+GEEN WEN NIE
+LYN {0}: {1} × {2} = {3}
+{0} STERRE = {1}
+Kersie
+Suurlemoen
+Lemoen
+Pruim
+Klok
+Bar
+Sewe
+Diamant
+Aas
+Ster
+STERRE betaal oral: 5 = {0}× weddenskap, 4 = {1}× weddenskap, 3 = {2}× weddenskap.
+Die AAS is wild: dit vervang elke simbool behalwe die ster.
+Lynuitbetalings is veelvoude van die lynweddenskap (totale weddenskap ÷ 10), van links na regs vanaf die eerste rol.
+TERUGBETALING: {0}% op die lange duur. Elke draai is onafhanklik en lukraak.
+GEHOU
+Deel uit, hou die kaarte wat jy wil hê en ruil een keer.
+HOU
+WENK
+RUIL
+Tik op die kaarte om hulle te hou en ruil dan.
+Loop
+Kyk
+Knoppies
+Instellings
+Daagliks
+Verstel
+Beweeg
+Kies
+Sluit
+Terug
+UITGEPUT
+BEGINNERSGELUK {0}%
+{0} HANDE OOR
+GELUKSTREEP {0}%
+{0} HANDE  •  WEDDENSKAPPE TOT {1}
+VLAK
+Sofia
+Elena
+Mia
+Valentina
+Chloë
+Isabella
+Nadia
+Aria
+Luna
+Camila
+Aurora
+Bianca
+Serena
+Marco
+Leo
+Adrian
+Lucas
+Viktor
+Daniel
+Gabriel
+Ethan
+Julian
+Rafael
+Mateo
+Nico
+Enzo
+WELKOM
+PRAAT MET DIE GASHEER
+Aanwysings en wenke
+SKYFIES  •  BONUSSE
+KOOP SKYFIES
+Kassier
+MENGELDRANKIES  •  HAPPIES  •  ENERGIE
+KOS EN DRANK
+Die Kroeg
+BLACKJACK BETAAL 3 TOT 2
+UITDELER MOET OP 17 STAAN
+SPEEL BLACKJACK
+{0}-tafel  •  weddenskappe {1} tot {2}
+SPEEL HOLD'EM
+Ultimate Texas Hold'em  •  ante {0} tot {1}
+SPEEL BACCARAT
+GROOT  •  KLEIN  •  DRIELINGE
+SPEEL SIC BO
+Drie dobbelstene  •  groot of klein betaal 1 tot 1
+PASS LINE  •  FIELD  •  ODDS
+SPEEL CRAPS
+Die Pass Line betaal 1 tot 1  •  odds betaal ware kans
+SPEEL VIDEOPOKER
+SPEEL SLOTMASJIENE
+Jacks or Better  •  volle 9/6-tabel
+LUCKY ACE 7s  •  BETAAL TOT 2 500× JOU LYNWEDDENSKAP
+JACKS OR BETTER  •  ROYAL FLUSH BETAAL 800×
+PLAAS JOU WEDDENSKAPPE
+SPEEL ROULETTE
+Europese wiel  •  enkelnommer betaal 35 tot 1
+BESTEL 'N DRANKIE
+{0} bring dit
+Die {0} gaan oop op vlak {1}. Jy is op vlak {2}: elke rondte wat jy speel, tel.
+Hierdie tafel benodig minstens {0} skyfies.
+Die blackjacktafels is reg voor. Stap na een toe en gaan sit!
+Die slotmasjiene staan teen die regtermuur, videopoker teen die agtermuur en die roulette heel agter.
+Hold'em is in die agterste linkerhoek, verby die kroeg.
+Baccarat is net links as jy inkom.
+Sic bo is in die hoek verby die kassier: drie dobbelstene, groot of klein.
+Die craps-tafel is regs, voor die slotmasjiene. Wed op die Pass Line en gooi!
+Die kassier is reg hier aan jou regterkant, en die kroeg is teen die linkermuur.
+Moeg? 'n Happie by die kroeg vul jou energie dadelik aan.
+Tik oral op die vloer en jy loop soontoe. Tik op 'n tafel om te gaan sit.
+Andorra
+Verenigde Arabiese Emirate
+Afganistan
+Antigua en Barbuda
+Anguilla
+Albanië
+Armenië
+Angola
+Antarktika
+Argentinië
+Amerikaanse Samoa
+Oostenryk
+Australië
+Aruba
+Ålandeilande
+Azerbeidjan
+Bosnië en Herzegowina
+Barbados
+Bangladesj
+België
+Burkina Faso
+Bulgarye
+Bahrein
+Burundi
+Benin
+Sint Barthélemy
+Bermuda
+Broenei
+Bolivië
+Karibiese Nederland
+Brasilië
+Bahamas
+Bhoetan
+Bouvet-eiland
+Botswana
+Belarus
+Belize
+Kanada
+Kokoseilande
+Demokratiese Republiek van die Kongo
+Sentraal-Afrikaanse Republiek
+Kongo-Brazzaville
+Switserland
+Ivoorkus
+Cookeilande
+Chili
+Kameroen
+China
+Colombië
+Costa Rica
+Kuba
+Kaap Verde
+Curaçao
+Kerseiland
+Siprus
+Tsjeggië
+Duitsland
+Djiboeti
+Denemarke
+Dominica
+Dominikaanse Republiek
+Algerië
+Ecuador
+Estland
+Egipte
+Wes-Sahara
+Eritrea
+Spanje
+Ethiopië
+Finland
+Fidji
+Falklandeilande
+Mikronesië
+Faroëreilande
+Frankryk
+Gaboen
+Verenigde Koninkryk
+Grenada
+Georgië
+Frans-Guyana
+Guernsey
+Ghana
+Gibraltar
+Groenland
+Gambië
+Guinee
+Guadeloupe
+Ekwatoriaal-Guinee
+Griekeland
+Suid-Georgië en die Suidelike Sandwicheilande
+Guatemala
+Guam
+Guinee-Bissau
+Guyana
+Hongkong SAS China
+Heardeiland en McDonaldeilande
+Honduras
+Kroasië
+Haïti
+Hongarye
+Indonesië
+Ierland
+Israel
+Eiland Man
+Indië
+Brits-Indiese Oseaangebied
+Irak
+Iran
+Ysland
+Italië
+Jersey
+Jamaika
+Jordanië
+Japan
+Kenia
+Kirgistan
+Kambodja
+Kiribati
+Comore
+Sint Kitts en Nevis
+Noord-Korea
+Suid-Korea
+Koeweit
+Kaaimanseilande
+Kazakstan
+Laos
+Libanon
+Sint Lucia
+Liechtenstein
+Sri Lanka
+Liberië
+Lesotho
+Litaue
+Luxemburg
+Letland
+Libië
+Marokko
+Monaco
+Moldowa
+Montenegro
+Sint Martin
+Madagaskar
+Marshalleilande
+Noord-Macedonië
+Mali
+Mianmar (Birma)
+Mongolië
+Macau SAS China
+Noord-Mariane-eilande
+Martinique
+Mauritanië
+Montserrat
+Malta
+Mauritius
+Maledive
+Malawi
+Meksiko
+Maleisië
+Mosambiek
+Namibië
+Nieu-Kaledonië
+Niger
+Norfolkeiland
+Nigerië
+Nicaragua
+Nederland
+Noorweë
+Nepal
+Nauru
+Niue
+Nieu-Seeland
+Oman
+Panama
+Peru
+Frans-Polinesië
+Papoea-Nieu-Guinee
+Filippyne
+Pakistan
+Pole
+Sint Pierre en Miquelon
+Pitcairneilande
+Puerto Rico
+Palestynse Grondgebiede
+Portugal
+Palau
+Paraguay
+Katar
+Réunion
+Roemenië
+Serwië
+Rusland
+Rwanda
+Saoedi-Arabië
+Salomonseilande
+Seychelle
+Soedan
+Swede
+Singapoer
+Sint Helena
+Slowenië
+Spitsbergen en Jan Mayen
+Slowakye
+Sierra Leone
+San Marino
+Senegal
+Somalië
+Suriname
+Suid-Soedan
+São Tomé en Príncipe
+El Salvador
+Sint Maarten
+Sirië
+Eswatini
+Turks- en Caicoseilande
+Tsjad
+Franse Suidelike Gebiede
+Togo
+Thailand
+Tadjikistan
+Tokelau
+Oos-Timor
+Turkmenistan
+Tunisië
+Tonga
+Turkye
+Trinidad en Tobago
+Tuvalu
+Taiwan
+Tanzanië
+Oekraïne
+Uganda
+Klein afgeleë eilande van die VSA
+Verenigde State van Amerika
+Uruguay
+Oesbekistan
+Vatikaanstad
+Sint Vincent en die Grenadine
+Venezuela
+Britse Maagde-eilande
+VSA se Maagde-eilande
+Viëtnam
+Vanuatu
+Wallis en Futuna
+Samoa
+Kosovo
+Jemen
+Mayotte
+Suid-Afrika
+Zambië
+Zimbabwe
+Engels
+Afrikaans
+Amharies
+Arabies
+Azerbeidjans
+Belarussies
+Bulgaars
+Bengaals
+Bosnies
+Katalaans
+Tsjeggies
+Deens
+Duits
+Grieks
+Spaans
+Estnies
+Baskies
+Persies
+Fins
+Filippyns
+Frans
+Iers
+Galisies
+Goedjarati
+Hausa
+Hebreeus
+Hindi
+Kroaties
+Frans (Haïti)
+Hongaars
+Armeens
+Indonesies
+Igbo
+Yslands
+Italiaans
+Japannees
+Georgies
+Kazaks
+Khmer
+Kannada
+Koreaans
+Kirgisies
+Luxemburgs
+Lao
+Litaus
+Letties
+Malgassies
+Masedonies
+Malabaars
+Mongools
+Marathi
+Maleis
+Maltees
+Birmaans
+Boeknoors
+Nepalees
+Nederlands
+Pandjabi
+Pools
+Pasjtoe
+Portugees (Brasilië)
+Portugees (Portugal)
+Reto-Romaans
+Roemeens
+Russies
+Rwandees
+Sinhala
+Slowaaks
+Sloweens
+Somalies
+Albanees
+Serwies
+Sweeds
+Swahili
+Tamil
+Teloegoe
+Tadjiks
+Thai
+Turkmeens
+Turks
+Oekraïens
+Oerdoe
+Oesbekies
+Viëtnamees
+Xhosa
+Joroeba
+Chinees (Vereenvoudig)
+Chinees (Tradisioneel)
+Zoeloe
+So.
+Ma.
+Di.
+Wo.
+Do.
+Vr.
+Sa.

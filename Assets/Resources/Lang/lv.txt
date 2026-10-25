@@ -1,0 +1,1004 @@
+MAZS
+LIELS
+NEPĀRA
+PĀRA
+JEBKURŠ TRIJNIEKS
+Sauja žetonu
+Žetonu kaudzīte
+Žetonu paplāte
+Žetonu statīvs
+POPULĀRĀKAIS
+Žetonu glabātava
+Lielā spēlētāja seifs
+LABĀKĀ VĒRTĪBA
+Gāzēts ūdens
+Espresso
+Enerģijas dzēriens
+Kluba sendvičs
+Burgeru maltīte
+Steika vakariņas
+PILNA UZPILDE
+Veiksmes sērija
+Karstā sērija
+VISVAIRĀK VEIKSMES
+Bronzas galds
+Sudraba galds
+Zelta galds
+Dimanta galds
+Hold'em galds
+Ievadiet derīgu gadu.
+Ievadiet derīgu mēnesi (1-12).
+Ievadiet derīgu dienu.
+Šis datums ir nākotnē.
+Laipni lūgts pie mana galda! Gatavs spēlēt?
+Prieks tevi redzēt. Apsēdies!
+Sveiks! Kārtis ir svaigas, un es arī.
+Laipni lūgts! Padarīsim šo vakaru jauku.
+Liec likmi, kad esi gatavs.
+Žetoni uz galda, un paskatīsimies kārtis.
+Uz ko spēlējam?
+Oho, liela likme! Man patīk tavs stils.
+Lūk, tā ir likme. Aiziet!
+Šovakar esi drosmīgs, vai ne?
+Viss?! Man sirds dauzās!
+Viss uz vienu roku. Bezbailīgi!
+Blekdžeks! Neticami!
+Divdesmit viens, vienkārši tā!
+Blekdžeks! Kārtis tevi šovakar dievina.
+Lieliski nospēlēts!
+Uzvara! Labi padarīts.
+Tev veicas!
+Šī ir tava.
+Kāds laimests! Visi skatās uz šo galdu!
+Milzīgi! Šovakar tu deg!
+Tik tuvu! Nākamā ir tava.
+Šoreiz kazino paveicās.
+Nekas, nāk jauna roka.
+Ai, viena kārts par daudz.
+Pārsniegts! Gadās arī labākajiem.
+Neizšķirts. Neviens nezaudē!
+Neizšķirts. Tavi žetoni ir drošībā.
+Es pārsniedzu! Tev paveicās.
+Man par daudz. Tu uzvari!
+Blekdžeks kazino, piedod!
+Dīlerim blekdžeks. Neveiksme.
+Man rādās dūzis. Apdrošināšana?
+Dalām! Divas iespējas uzvarēt.
+Dubultojam. Drosmīgs gājiens!
+Dubulto! Nāk viena kārts.
+Jauna kurpe, jaucu!
+Beidzas? Kase tevi papildinās.
+Žetonu paliek mazāk. Gribi vēl?
+Žetoni beigušies! Dodies uz kasi vai paņem bezmaksas žetonus.
+Tava kaudzīte ir tukša. Kase ir tieši aiz tevis.
+Tu izskaties izsmelts! Uzkod kaut ko bārā.
+Spēki izsīkuši? Bārs par tevi parūpēsies.
+Nesteidzies.
+Kad vien esi gatavs!
+Nakts vēl ir jauna.
+Iesācēja veiksme ir tavā pusē!
+Kava šovakar ir tavā pusē!
+Iesācēja veiksme ir beigusies. No šejienes spēle ir godīga!
+Laipni lūgts kazino! Tava vieta gaida.
+Labvakar! Galdi šovakar ir karsti.
+Laipni lūgts atpakaļ! Jūti veiksmi?
+Pieskaries galdam, lai sāktu spēlēt!
+Vajag vairāk žetonu? Esi pie pareizā lodziņa.
+Lielākas kaudzes, lielāki bonusi!
+Izsalcis? Izvēlies jebko no ēdienkartes.
+Uzkoda uztur enerģiju!
+Laipni lūgts pie mana galda!
+Te tu esi! Uzreiz kļuva gaišāks.
+Jūties kā mājās. Šovakar viss ir par tevi.
+Dievinu šo smaidu. Veiksmīgs vakars?
+Atslābsti, tu esi labās rokās.
+Ei, tu! Cerēju, ka iegriezīsies pie mana lodziņa.
+Vienmēr patīkami redzēt draudzīgu seju.
+Paskat, kas te! Jautri?
+Sveiks, skaistuli!
+Man šovakar patīk tavs stils.
+Ei, prieks tevi atkal redzēt!
+Labs vakars? Tu to esi pelnījis.
+Uzmanies, es varētu sākt tev just līdzi.
+Mans mīļākais spēlētājs ir atpakaļ!
+Apsēdies pie manis, es tev izdalīšu ko jauku.
+Ar tevi pie šī galda ir daudz jautrāk.
+Jau ej prom? Nakts vēl ir jauna!
+Nu taču, vēl tikai viena roka. Man ir laba nojauta!
+Tu nevari mani tagad pamest, mēs tikko sākām!
+Pēdējā iespēja! Nākamā roka var būt tā lielā...
+Labi, labi. Turēšu tavu vietu siltu. Apsoli, ka atgriezīsies?
+Vēl nav sērijas? Nospēlē šodien raundus ({2}), un es sākšu skaitīt.
+Jauns sākums! Raundi ({2}), un tava liesma iedegsies.
+Es vedu nelielu sarakstu ar tiem, kas nāk katru dienu. Tevis tur nav... pagaidām.
+{1}. diena tevi gaida. Atlikuši raundi: {2}!
+Dienas pēc kārtas: {0}... tu taču tagad neapstāsies?
+Tava liesma šodien izskatās mazliet atdzisusi. Raundi ({2}) to sasildīs.
+Esmu skaitījusi: dienas {0}. Lai ir {1}.
+Nedomā, ka nepamanīju. Raundi, lai saglabātu sēriju: {2}!
+Dienas pēc kārtas: {0}? Sāku domāt, ka tev te patīk.
+Tava sērija šodienai ir drošībā. Tagad tu vienkārši lielies.
+{0}. diena padarīta. Rīt tajā pašā laikā?
+Dienas: {0}! Laiks tev rezervēt vietu.
+Lūk, tā ir: tavas sērijas pirmā diena! Atgriezies rīt, un būs divas.
+Vesela nedēļa pēc kārtas! Esmu patiesi pārsteigta.
+Trīsdesmit dienas! Tu praktiski te strādā.
+Simts dienas. Es visiem stāstu par tevi.
+Jau {0} dienas pēc kārtas! Tikai paskaties uz sevi.
+Sērija izglābta: {0}. diena! Zināju, ka tev izdosies.
+{0}. diena! Saderam, ka līdz {1}. nenonāksi.
+Dienas: {0}... labi, lielībniek.
+Nospēlē 10 blekdžeka rokas
+Uzvari 5 blekdžeka rokās
+Iegūsti blekdžeku
+Laimē 500 žetonu blekdžekā
+Pagriez spēļu automātu 20 reizes
+Laimē 5 griezienus spēļu automātā
+Laimē 5× likmi spēļu automātā
+Nospēlē 5 ruletes raundus
+Laimē 3 ruletes griezienus
+Trāpi skaitlī ar tiešo likmi
+Nospēlē 8 hold'em dalījumus
+Uzvari 4 hold'em dalījumos
+Nospēlē 10 bakara dalījumus
+Uzvari 5 bakara dalījumos
+Nospēlē 15 videopokera dalījumus
+Nospēlē 8 sic bo kārtas
+Uzvari 4 sic bo kārtās
+Met kauliņus 15 reizes kreps spēlē
+Uzvari 4 metienos kreps spēlē
+Savāc mastu vai labāk videopokerā
+Karaliskā sērija
+Mastu sērija
+Četrinieks
+Pilna māja
+Masts
+Sērija
+Trijnieks
+Divi pāri
+Pāris
+Augstākā kārts
+GPS atrašanās vieta
+mobilais tīkls
+interneta savienojums
+ierīces iestatījumi
+testa valsts
+nav pārbaudīts (standarta cena)
+nezināms
+1. 12
+2. 12
+3. 12
+2 pret 1
+SARKANS
+MELNS
+Kalpi vai labāk
+GODĪGAS CENAS TAVAI VALSTIJ
+Veikala cenas ir pielāgotas tavas valsts ekonomikai, lai spēlētāji visur maksātu godīgu cenu.
+Lai noteiktu tavu valsti, mēs vienreiz pārbaudām tavu aptuveno atrašanās vietu. Tā tiek saskaņota ar valsti tavā ierīcē un nekur netiek sūtīta. Ja atteiksies, būs spēkā standarta cenas.
+TURPINĀT
+Pamest kazino?
+Tavi žetoni un progress ir saglabāti.
+IZIET
+PALIKT
+Atbloķēts: {0}
+Sērijas sasaldēšana vakar izglāba tavu sēriju (dienas: {0}).
+Sasaldēšanas ({0}) izglāba tavu sēriju (dienas: {1}).
+Tava sērija (dienas: {0}) beidzās. Nospēlē šodien raundus ({1}), lai sāktu jaunu!
+MISIJA IZPILDĪTA
++{0} žetoni
+VISAS MISIJAS IZPILDĪTAS!
+Dienas bonuss +{0} žetoni. Jaunas misijas rīt.
+{0}. LĪMENIS!
+Pagrieziena punkts! +{0} žetoni
+Atgriezies rīt, lai turpinātu
++1 sērijas sasaldēšana
+SĒRIJA: {0} DIENAS!
+Pirkumi šajā versijā nav pieejami.
+Pirkums neizdevās. Nauda netika iekasēta.
+Pievienoti +{0} žetoni!
+{0}: roku {1} ar {2}% veiksmi, pēc iesācēja veiksmes
+{0}: roku {1} ar {2}% veiksmi!
+{0}: +{1}% enerģijas
+Nav pieejams šajā ierīcē
+Video šajā tīklā nevar ielādēt
+Atgriezies rīt
+Gatavs pēc {0} s
++{0} žetoni (šodien vēl {1})
++{0} bezmaksas žetoni!
++1 sērijas sasaldēšana!
+Pašlaik nav pieejama neviena video. Mēģini vēlreiz pēc brīža.
+BRONZA
+SUDRABS
+ZELTS
+DIMANTS
+Izvēlne
+Skats
+Krustiņš
+Aplis
+Kvadrāts
+Trīsstūris
+Pārbaudām tavu reģionu...
+Nav pārbaudīts ({0}): standarta cenas
+{0} ({1}): cenas {2}
+Atgādinājumi
+Bezmaksas žetoni gatavi un sērijas atgādinājumi
+Tavi bezmaksas žetoni ir gatavi
+Lucky Ace tevi gaida {0} žetoni.
+Saglabā savu sēriju (dienas: {0})
+Nospēlē šodien raundus ({0}), lai pusnaktī tā netiktu atiestatīta.
+BAKARA
+Laipni lūdzam bakarā! Spēlētājs, Baņķieris vai Neizšķirts?
+SPĒLĒTĀJS
+NEIZŠĶIRTS
+BAŅĶIERIS
+PĒDĒJIE REZULTĀTI
+S
+B
+N
+ATSAUKT
+NOTĪRĪT
+ATKĀRTOT
+DALĪT
+Šai likmei nepietiek žetonu.
+Sasniegts galda maksimums
+KOPĒJĀ LIKME  {0}
+Izvēlies žetonu un pieskaries Spēlētājs, Baņķieris vai Neizšķirts
+NEIZŠĶIRTS  {0}
+UZVAR SPĒLĒTĀJS  {0} PRET {1}
+UZVAR BAŅĶIERIS  {0} PRET {1}
+LAIMESTS  +{0}
+ATGRIEZTS  {0}
+Šoreiz bez laimesta
+Vispirms pabeidz šo roku.
+Laipni lūgts! Šovakar iesācēja veiksme ir tavā pusē. Liec likmi!
+BLEKDŽEKS IZMAKSĀ 3 PRET 2   •   DĪLERIS APSTĀJAS PIE VISIEM 17   •   APDROŠINĀŠANA IZMAKSĀ 2 PRET 1
+LIKME
+VĒL
+PIETIEK
+DUBULTOT
+SADALĪT
+APDROŠINĀT
+NĒ, PALDIES
+LIKME {0}+
+Nepietiek žetonu
+Dīlerim rādās dūzis. Apdrošināt par {0}?
+Apdrošināšana izmaksā {0}
+Dīlerim nav blekdžeka. Apdrošināšana zaudēta.
+PĀRSNIEGTS
+DĪLERIS PĀRSNIEDZA
+BLEKDŽEKS!
+UZVARA
+NEIZŠĶIRTS
+ZAUDĒJUMS
+Iesācēja veiksme ir beigusies. Tava Veiksmes sērija sākas tagad.
+Iesācēja veiksme ir beigusies. No šī brīža standarta blekdžeks.
+Tava Veiksmes sērija ir beigusies. Atpakaļ pie standarta blekdžeka.
+ŽETONI BEIGUŠIES
+Noskaties īsu video un saņem {0} bezmaksas žetonus vai dodies uz kasi.
+Dodies uz kasi, lai papildinātu žetonus.
+BEZMAKSAS ŽETONI
+KASE
+VĒLĀK
+“{0}”
+VĒL VIENA ROKA
+AIZIET
+IESĀCĒJA VEIKSME
+VEIKSMES SĒRIJA
+Sveiciena bonuss jaunajiem spēlētājiem: tavās pirmajās <b>{0} rokās</b> dīlera kurpe ir sakārtota tev par labu, tāpēc tu uzvarēsi gandrīz katrā rokā.
+Nākamajās <b>{0} rokās</b> priekšrocība pakāpeniski izzūd, un pēc tam pie katra galda ir standarta, godīgs blekdžeks no sajauktas 6 kavu kurpes (blekdžeks izmaksā 3 pret 2, dīleris apstājas pie visiem 17).
+Priekšrocība tagad: <b><color=#7CFC9A>{0}%</color></b>   Atlikušas rokas: <b>{1}</b>
+Nākamajās <b>{0} blekdžeka rokās</b> ar likmi līdz <b>{1} žetoniem</b> katrai kārtij ir <b>{2}%</b> iespēja tikt izdalītai tev par labu (tāda pati priekšrocība kā iesācēja veiksmei).
+Ar labu spēli tas nozīmē uzvaru apmēram <b>{0}%</b> roku, salīdzinot ar aptuveni {1}% standarta blekdžekā. Lielākas likmes ir standarta blekdžeks un neizmanto rokas. Kad rokas beidzas, pie katra galda atkal ir standarta, godīgs blekdžeks.
+SAPRATU
+GRIBI ATGŪT VEIKSMI?
+Iesācēja veiksme ir beigusies: no šī brīža pie katra galda ir standarta, godīgs blekdžeks. Veiksmes sērija uz laiku atgriež priekšrocību.
+KREPS
+Laipni lūdzam kreps spēlē! Liec likmi uz Pass Line un met.
+SEŠI
+DEVIŅI
+FIELD
+2 3 4 9 10 11 12  •  2 un 12 maksā dubulti
+JEBKURŠ 7
+JEBKURŠ KREPS
+DON'T PASS BAR
+1:1  •  12 ir neizšķirts
+PASS LINE
+ODDS
+īstās izredzes
+IZSL.
+IESL
+Odds liek aiz Pass Line, kad ir punkts.
+Odds vajag likmi uz Pass Line.
+Tavas odds ir maksimumā.
+Līnijas likmes liek pirmajā metienā.
+UZ GALDA  {0}
+Izlidojuma metiens: liec likmi uz Pass Line, tad met. 7 vai 11 uzvar, 2, 3 vai 12 zaudē. Place likmes sāk darboties, kad ir punkts.
+Punkts ir {0}: met to vēlreiz pirms 7. Odds aiz tavas Pass Line maksā pēc īstajām izredzēm.
+MEST
+Punkts ir {0}.
+{0}! Punkts izdevies. Laimests!
+Septiņi. Jauns metējs, jauns pirmais metiens.
+{0}, naturāls! Pass Line uzvar.
+{0}, kreps. Līnija zaudē.
+Pagaidi, līdz kauliņi apstājas.
+PAMEST GALDU?
+Tava līnijas likme vēl spēlē uz punktu {0}. Ja aiziesi tagad, tā tiks zaudēta.
+IKDIENAS
+IKDIENAS SĒRIJA
+DIENAS PĒC KĀRTAS
+ŠODIEN
+SKATĪTIES REKLĀMU
+PIRKT
+SĒRIJAS SASALDĒŠANA
+Sasaldēšana saglabā tavu sēriju dienā, kad tu nespēlē. Vari turēt līdz {0}.\n\nPirkt vienu par {1} žetoniem?
+Sērijas sasaldēšana gatava.
+Nepietiek žetonu sasaldēšanai.
+ATCELT
+IKDIENAS GRIEZIENS
+GRIEZT
+Iespējas:
+{0}%
+Tu laimēji {0} žetonus!
+ŠODIENAS MISIJAS
+Rekords: {0} dienas
+Spēlē katru dienu, lai veidotu sēriju
+Šodienas mērķis sasniegts! Tiekamies rīt.
+Šodien: {0} / {1} raundi (jebkura spēle)
+Sērijas sasaldēšanas: {0} / {1}
+Izglāb sēriju dienā, kuru izlaid. +1 ik pēc 7 dienām.
+PILNS
+NAV VIDEO
+REKLĀMA DRĪZUMĀ
+Sērijas bonuss: balvas ×{0}
+Viens bezmaksas grieziens katru dienu
+NĀKAMAIS  {0}
+Viss izdarīts! Bonuss saņemts.
+Jaunas misijas pusnaktī.
+Izpildi visas trīs: +{0} bonusa žetoni
+HOLD'EM
+Laipni lūdzam hold'em! Liec ante, un skatīsimies kārtis.
+ANTE
+BLIND
+SPĒLĒT
+BLIND MAKSĀ
+Dalītājs kvalificējas ar pāri vai labāk
+CHECK
+FOLD
+LIKT {0}×
+Ante {0} + blind {0}. Atstāj vēl {1} paaugstinājumam.
+Pieskaries žetoniem, lai iestatītu ante. Blind ir tāds pats.
+Check vai likt trīs vai četras reizes ante?
+Paaugstini tagad par 4× vai 3× ante vai dari check un skaties flopu.
+Pēdējā iespēja: liec 1× ante vai dari fold un zaudē ante un blind.
+Liec tagad 2× ante vai dari check un skaties pēdējās divas kārtis.
+Lūk, flops.
+Tērns un rivers.
+Paskatīsimies, kas man ir.
+Dalītājs nekvalificējas: tava ante atgriežas.
+Fold. Nākamais dalījums ir tavs.
+SPĒLES
+Velc kreisajā pusē, lai ietu  •  Velc labajā pusē, lai skatītos  •  Pieskaries, lai dotos
+Tikai 18+  •  Žetoni ir izklaidei: bez naudas vērtības, nekad nav apmaināmi pret naudu vai balvām
+Atveram durvis...
+Laipni lūgts! Tavi sveiciena žetoni ({0}) ir gatavi. Galdi ir tieši priekšā!
++{0} bezmaksas žetoni! Vēl pēc {1} st.
+Bezmaksas žetoni atjaunojas ik pēc {0} st. Nākamie pēc {1}.
+{0} st. {1} min
+{0} min {1} s
+SAGLABĀ SĒRIJU
+Gribi atgādinājumu vakaros, kad vēl neesi spēlējis, un kad bezmaksas žetoni ir gatavi? Nekad vairāk par to, un to var izslēgt Iestatījumos.
+ATGĀDINI MAN
++{0} žetoni gatavi!
+Noskaties video: {0}
+Nākamie bezmaksas žetoni pēc {0}
+BLEKDŽEKS
+4 galdi  •  izmaksā 3 pret 2
+Ultimate Texas Hold'em
+Spēlētājs, Baņķieris vai Neizšķirts
+SPĒĻU AUTOMĀTI
+Lucky Ace 7s  •  10 līnijas
+VIDEOPOKERS
+Jacks or Better
+SIC BO
+Trīs kauliņi  •  liels vai mazs
+Pass Line  •  Field  •  Odds
+RULETE
+Eiropas ar vienu nulli
+TU ESI IZSMELTS
+Tava enerģija ir beigusies. Paņem kaut ko bārā, lai spēlētu tālāk, vai atgriezies vēlāk: enerģija lēnām atjaunojas, kamēr tevis nav.
+UZ BĀRU
+IZVĒLIES GALDU
+LIKMES
+{0}. LĪMENIS
+APSĒSTIES
+VAJAG {0}
+Sasniedz {0}. līmeni, lai spēlētu šeit. Tev ir {1}. līmenis.
+KAZINO
+DD
+MM
+GGGG
+DIENA
+MĒNESIS
+GADS
+KAD TU PIEDZIMI?
+Žetoni ir paredzēti tikai izklaidei. Tiem nav naudas vērtības, un tos nekad nevar apmainīt pret naudu vai balvām.
+PIEDOD, TU NEVARI SPĒLĒT
+{0} ir pieejams tikai pieaugušajiem.
+IZIET
+Aizveras pēc {0}...
+PASTĀSTI PAR SEVI
+Atbilstoši izvēlēsimies saimniekus, dīlerus un bāra personālu. To var mainīt jebkurā laikā Iestatījumos.
+ESMU VĪRIETIS
+ESMU SIEVIETE
+NEGRIBU TEIKT
+IEIET KAZINO
+Tavs personāls šovakar:
+{0}. lapa no {1}
+VALODA
+AUTOMĀTISKI
+VALSTS
+Laipni lūdzam! Lūdzu, likmes.
+Galda limits ir {0} par griezienu.
+Pieskaries laukumam, lai liktu žetonus
+Likmes vairs netiek pieņemtas!
+ZAĻŠ
+zaļš
+sarkans
+melns
+Kāds trāpījums! Apsveicu!
+Uzvara! Tu laimē {0}.
+{0} {1}. Tev atgriežas {2}.
+Lūdzu, likmes.
+Pagaidi, līdz bumbiņa apstājas.
+IESTATĪJUMI
+VISPĀRĪGI
+GRAFIKA
+SKAŅA
+SKĀRIENS
+PELE
+KONTROLIERIS
+VIBRĀCIJA
+18+ • Žetoniem nav naudas vērtības • Fonti: Bebas Neue, Poppins, Noto (SIL OFL) • Robežas: Natural Earth • Cenu dati: Pasaules Banka
+KAZINO PERSONĀLS
+SIEVIETES
+VĪRIEŠI
+JAUKTS
+ATGĀDINĀJUMI
+Bezmaksas žetoni gatavi un vakara atgādinājums, pirms sērija beigtos.
+PĀRBAUDĪT VĒLREIZ
+CENU REĢIONS
+Ātrākais: kazino, kā uzgleznots, nekā lieka.
+Pulētas grīdas, koks un zelts atspoguļo zāli.
+Kino izskats: krāsu korekcija, graudainums, mirdzums, gaismas stari, dzīva āda.
+Kino objektīvs: asums seko tavam skatienam, svītras uz gaismām, putekļi staros.
+KVALITĀTE
+ZEMA
+VIDĒJA
+AUGSTA
+ULTRA
+IZŠĶIRTSPĒJA
+Zemāka ir mīkstāka, bet tālrunis mazāk karst un taupa akumulatoru.
+ATTĒLOŠANAS REŽĪMS
+PILNEKRĀNS
+LOGĀ
+MALU NOGLUDINĀŠANA
+Nogludina robainās malas kazino.
+KADRU NOMAIŅA
+{0} FPS
+30 FPS taupa akumulatoru un neļauj vecākiem tālruņiem sakarst.
+V-SYNC
+REDZESLAUKS
+RĀDĪT FPS
+GALVENAIS SKAĻUMS
+MŪZIKA
+SKAŅAS EFEKTI
+PERSONĀLA BALSIS
+Personāla murmināšana sarunājoties.
+IZSLĒGT SKAŅU FONĀ
+Apklusina kazino, kamēr esi citā logā.
+SKATA JUTĪBA
+Cik ātri vilkšana pagriež skatu.
+Cik ātri vilkšana ar peli pagriež skatu.
+APGRIEZT SKATU PA KREISI / PA LABI
+APGRIEZT SKATU AUGŠUP / LEJUP
+POGU IZKĀRTOJUMS
+AUTO
+SAMAINĪT IZVĒLNI / SKATU
+SVIRAS JUTĪBA
+Cik ātri labā svira pagriež skatu.
+APGRIEZT SVIRU PA KREISI / PA LABI
+APGRIEZT SVIRU AUGŠUP / LEJUP
+KONTROLIERA PADOMI
+Parāda, ko dara katra poga, kad spēlē ar kontrolieri.
+VIBRĒT
+TĀLRUNIS
+ABI
+Auto: kontrolieris, kamēr tas pievienots, citādi tālrunis.
+TĀLRUŅA VIBRĀCIJA
+TĀLRUŅA STIPRUMS
+KONTROLIERA VIBRĀCIJA
+KONTROLIERA STIPRUMS
+AUTOMĀTISKI ({0})
+{0} atver Iestatījumus, {1} atver Ikdienas.
+Nav pievienots neviens kontrolieris.
+Pievienots: {0}. Tiek rādītas {1} pogas (A labajā pusē apstiprina).
+Pievienots: {0}. Tiek rādītas {1} pogas.
+BĀRS
+VEIKSME
+Žetoni, veiksme un ēdiens ir virtuāli priekšmeti tikai izklaidei: bez naudas vērtības, nav apmaināmi pret naudu vai balvām.
+Katrai kārtij ir šāda iespēja tikt izdalītai tev par labu, ja blekdžeka likme ir līdz {0} žetoniem (lielākas likmes ir standarta un neizmanto rokas). Sākas pēc iesācēja veiksmes; stiprākās paketes tiek izmantotas pirmās.
+Atļauj piekļuvi atrašanās vietai, lai saņemtu savas valsts cenu
+Pirkumi šajā spēles versijā nav pieejami.
+TESTA VEIKALS (bez īstas naudas)
+enerģija
++{0}% ŽETONU
+roku: {0}
+uzvar apmēram {0}% no tām
+Laipni lūdzam sic bo! Liels, mazs vai kas drosmīgāks?
+Galda limits ir {0} vienam metienam.
+KRATĪT
+TRIJNIEKS {0}!
+LUCKY ACE 7s
+KOPĒJĀ LIKME
+IZMAKSU TABULA
+VEIKSMI!
+Griešanai vajag vismaz 10 žetonus.
+SAŅEMT ŽETONUS
+Likme samazināta līdz summai, ko vari segt.
+MEGA LAIMESTS!
+LIELS LAIMESTS!
+ATGRIEZTS {0}
+BEZ LAIMESTA
+LĪNIJA {0}: {1} × {2} = {3}
+ZVAIGZNES ×{0} = {1}
+Ķirsis
+Citrons
+Apelsīns
+Plūme
+Zvaniņš
+Bar
+Septiņnieks
+Dimants
+Dūzis
+Zvaigzne
+ZVAIGZNES izmaksā jebkur: 5 = {0}× likme, 4 = {1}× likme, 3 = {2}× likme.
+DŪZIS ir aizstājējs: tas aizstāj jebkuru simbolu, izņemot zvaigzni.
+Līniju laimesti ir līnijas likmes (kopējā likme ÷ 10) daudzkārtņi, no kreisās uz labo no pirmā ruļļa.
+ATMAKSA: {0}% ilgtermiņā. Katrs grieziens ir neatkarīgs un nejaušs.
+PATURĒTA
+Izdali, paturi vajadzīgās kārtis, nomaini vienu reizi.
+PATURĒT
+PADOMS
+MAINĪT
+Pieskaries kārtīm, lai tās paturētu, tad maini.
+Iet
+Skatīties
+Pogas
+Iestatījumi
+Ikdienas
+Regulēt
+Kustēties
+Izvēlēties
+Aizvērt
+Atpakaļ
+IZSMELTS
+IESĀCĒJA VEIKSME {0}%
+ATLIKUŠAS ROKAS: {0}
+VEIKSMES SĒRIJA {0}%
+ROKAS: {0}  •  LIKMES LĪDZ {1}
+LĪMENIS
+Sofija
+Elena
+Mija
+Valentīna
+Hloja
+Izabella
+Nadja
+Arija
+Luna
+Kamila
+Aurora
+Bianka
+Serena
+Marko
+Leo
+Adriāns
+Lūkass
+Viktors
+Daniels
+Gabriels
+Itans
+Džulians
+Rafaels
+Mateo
+Niko
+Enzo
+LAIPNI LŪDZAM
+RUNĀT AR SAIMNIECI
+Norādes un padomi
+ŽETONI  •  BONUSI
+PIRKT ŽETONUS
+Kase
+KOKTEIĻI  •  UZKODAS  •  ENERĢIJA
+ĒDIENI UN DZĒRIENI
+Bārs
+BLEKDŽEKS IZMAKSĀ 3 PRET 2
+DĪLERIM JĀAPSTĀJAS PIE 17
+SPĒLĒT BLEKDŽEKU
+{0} galds  •  likmes no {1} līdz {2}
+SPĒLĒT HOLD'EM
+Ultimate Texas Hold'em  •  ante no {0} līdz {1}
+SPĒLĒT BAKARA
+LIELS  •  MAZS  •  TRIJNIEKI
+SPĒLĒT SIC BO
+Trīs kauliņi  •  liels vai mazs maksā 1 pret 1
+PASS LINE  •  FIELD  •  ODDS
+SPĒLĒT KREPS
+Pass Line maksā 1 pret 1  •  odds maksā pēc īstajām izredzēm
+SPĒLĒT VIDEOPOKERU
+SPĒLĒT AUTOMĀTUS
+Jacks or Better  •  pilna 9/6 tabula
+LUCKY ACE 7s  •  IZMAKSĀ LĪDZ 2500× NO TAVAS LĪNIJAS LIKMES
+JACKS OR BETTER  •  KARALISKĀ SĒRIJA MAKSĀ 800×
+LŪDZU, LIKMES
+SPĒLĒT RULETI
+Eiropas rats  •  tiešā likme izmaksā 35 pret 1
+PASŪTI DZĒRIENU
+Atnesīs: {0}
+{0} atveras {1}. līmenī. Tev ir {2}. līmenis: skaitās katrs nospēlētais raunds.
+Pie šī galda vajag vismaz {0} žetonus.
+Blekdžeka galdi ir tieši priekšā. Pieej pie kāda un apsēdies!
+Spēļu automāti ir pie labās sienas, videopokers pie aizmugurējās, bet rulete pašā aizmugurē.
+Hold'em ir kreisajā aizmugurējā stūrī, aiz bāra.
+Bakara ir uzreiz pa kreisi pie ieejas.
+Sic bo ir stūrī aiz kases: trīs kauliņi, liels vai mazs.
+Kreps galds ir pa labi, pie automātiem. Liec likmi uz Pass Line un met!
+Kase ir tepat pa labi no tevis, un bārs ir gar kreiso sienu.
+Noguris? Uzkoda bārā uzreiz papildina enerģiju.
+Pieskaries jebkur uz grīdas, un tu tur aiziesi. Pieskaries galdam, lai apsēstos.
+Andora
+Apvienotie Arābu Emirāti
+Afganistāna
+Antigva un Barbuda
+Angilja
+Albānija
+Armēnija
+Angola
+Antarktika
+Argentīna
+ASV Samoa
+Austrija
+Austrālija
+Aruba
+Olandes salas
+Azerbaidžāna
+Bosnija un Hercegovina
+Barbadosa
+Bangladeša
+Beļģija
+Burkinafaso
+Bulgārija
+Bahreina
+Burundija
+Benina
+Senbartelmī
+Bermudu salas
+Bruneja
+Bolīvija
+Nīderlandes Karību salas
+Brazīlija
+Bahamu salas
+Butāna
+Buvē sala
+Botsvāna
+Baltkrievija
+Beliza
+Kanāda
+Kokosu (Kīlinga) salas
+Kongo (Kinšasa)
+Centrālāfrikas Republika
+Kongo (Brazavila)
+Šveice
+Kotdivuāra
+Kuka salas
+Čīle
+Kamerūna
+Ķīna
+Kolumbija
+Kostarika
+Kuba
+Kaboverde
+Kirasao
+Ziemsvētku sala
+Kipra
+Čehija
+Vācija
+Džibutija
+Dānija
+Dominika
+Dominikāna
+Alžīrija
+Ekvadora
+Igaunija
+Ēģipte
+Rietumsahāra
+Eritreja
+Spānija
+Etiopija
+Somija
+Fidži
+Folklenda salas
+Mikronēzija
+Fēru salas
+Francija
+Gabona
+Apvienotā Karaliste
+Grenāda
+Gruzija
+Francijas Gviāna
+Gērnsija
+Gana
+Gibraltārs
+Grenlande
+Gambija
+Gvineja
+Gvadelupa
+Ekvatoriālā Gvineja
+Grieķija
+Dienviddžordžija un Dienvidsendviču salas
+Gvatemala
+Guama
+Gvineja-Bisava
+Gajāna
+Ķīnas īpašās pārvaldes apgabals Honkonga
+Hērda sala un Makdonalda salas
+Hondurasa
+Horvātija
+Haiti
+Ungārija
+Indonēzija
+Īrija
+Izraēla
+Menas sala
+Indija
+Indijas okeāna Britu teritorija
+Irāka
+Irāna
+Islande
+Itālija
+Džērsija
+Jamaika
+Jordānija
+Japāna
+Kenija
+Kirgizstāna
+Kambodža
+Kiribati
+Komoru salas
+Sentkitsa un Nevisa
+Ziemeļkoreja
+Dienvidkoreja
+Kuveita
+Kaimanu salas
+Kazahstāna
+Laosa
+Libāna
+Sentlūsija
+Lihtenšteina
+Šrilanka
+Libērija
+Lesoto
+Lietuva
+Luksemburga
+Latvija
+Lībija
+Maroka
+Monako
+Moldova
+Melnkalne
+Senmartēna
+Madagaskara
+Māršala salas
+Ziemeļmaķedonija
+Mali
+Mjanma (Birma)
+Mongolija
+ĶTR īpašais administratīvais reģions Makao
+Ziemeļu Marianas salas
+Martinika
+Mauritānija
+Montserrata
+Malta
+Maurīcija
+Maldīvija
+Malāvija
+Meksika
+Malaizija
+Mozambika
+Namībija
+Jaunkaledonija
+Nigēra
+Norfolkas sala
+Nigērija
+Nikaragva
+Nīderlande
+Norvēģija
+Nepāla
+Nauru
+Niue
+Jaunzēlande
+Omāna
+Panama
+Peru
+Francijas Polinēzija
+Papua-Jaungvineja
+Filipīnas
+Pakistāna
+Polija
+Senpjēra un Mikelona
+Pitkērnas salas
+Puertoriko
+Palestīnas teritorijas
+Portugāle
+Palau
+Paragvaja
+Katara
+Reinjona
+Rumānija
+Serbija
+Krievija
+Ruanda
+Saūda Arābija
+Zālamana salas
+Seišelu salas
+Sudāna
+Zviedrija
+Singapūra
+Sv.Helēnas sala
+Slovēnija
+Svalbāra un Jana Majena sala
+Slovākija
+Sjerraleone
+Sanmarīno
+Senegāla
+Somālija
+Surinama
+Dienvidsudāna
+Santome un Prinsipi
+Salvadora
+Sintmārtena
+Sīrija
+Svatini
+Tērksas un Kaikosas salas
+Čada
+Francijas Dienvidjūru teritorija
+Togo
+Taizeme
+Tadžikistāna
+Tokelau
+Austrumtimora
+Turkmenistāna
+Tunisija
+Tonga
+Turcija
+Trinidāda un Tobāgo
+Tuvalu
+Taivāna
+Tanzānija
+Ukraina
+Uganda
+ASV Mazās Aizjūras salas
+Amerikas Savienotās Valstis
+Urugvaja
+Uzbekistāna
+Vatikāns
+Sentvinsenta un Grenadīnas
+Venecuēla
+Britu Virdžīnas
+ASV Virdžīnas
+Vjetnama
+Vanuatu
+Volisa un Futunas salas
+Samoa
+Kosova
+Jemena
+Majota
+Dienvidāfrikas Republika
+Zambija
+Zimbabve
+Angļu
+Afrikandu
+Amharu
+Arābu
+Azerbaidžāņu
+Baltkrievu
+Bulgāru
+Bengāļu
+Bosniešu
+Katalāņu
+Čehu
+Dāņu
+Vācu
+Grieķu
+Spāņu
+Igauņu
+Basku
+Persiešu
+Somu
+Filipīniešu
+Franču
+Īru
+Galisiešu
+Gudžaratu
+Hausu
+Ivrits
+Hindi
+Horvātu
+Franču (Haiti)
+Ungāru
+Armēņu
+Indonēziešu
+Igbo
+Islandiešu
+Itāļu
+Japāņu
+Gruzīnu
+Kazahu
+Khmeru
+Kannadu
+Korejiešu
+Kirgīzu
+Luksemburgiešu
+Laosiešu
+Lietuviešu
+Latviešu
+Malagasu
+Maķedoniešu
+Malajalu
+Mongoļu
+Marathu
+Malajiešu
+Maltiešu
+Birmiešu
+Norvēģu bukmols
+Nepāliešu
+Holandiešu
+Pandžabu
+Poļu
+Puštu
+Portugāļu (Brazīlija)
+Portugāļu (Portugāle)
+Retoromāņu
+Rumāņu
+Krievu
+Kiņaruanda
+Singāļu
+Slovāku
+Slovēņu
+Somāļu
+Albāņu
+Serbu
+Zviedru
+Svahili
+Tamilu
+Telugu
+Tadžiku
+Taju
+Turkmēņu
+Turku
+Ukraiņu
+Urdu
+Uzbeku
+Vjetnamiešu
+Khosu
+Jorubu
+Ķīniešu (vienkāršotā)
+Ķīniešu (tradicionālā)
+Zulu
+Svētd.
+Pirmd.
+Otrd.
+Trešd.
+Ceturtd.
+Piektd.
+Sestd.

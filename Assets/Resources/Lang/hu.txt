@@ -1,0 +1,1004 @@
+KICSI
+NAGY
+PÁRATLAN
+PÁROS
+BÁRMELY HÁRMAS
+Egy marék zseton
+Egy köteg zseton
+Egy tálca zseton
+Egy állvány zseton
+LEGNÉPSZERŰBB
+Egy széf zseton
+Nagy játékos széfje
+LEGJOBB ÉRTÉK
+Szénsavas víz
+Eszpresszó
+Energiaital
+Klubszendvics
+Hamburgermenü
+Steakvacsora
+TELJES FELTÖLTÉS
+Szerencsesorozat
+Forró sorozat
+A LEGTÖBB SZERENCSE
+Bronzasztal
+Ezüstasztal
+Aranyasztal
+Gyémántasztal
+Hold'em asztal
+Adj meg egy érvényes évet.
+Adj meg egy érvényes hónapot (1-12).
+Adj meg egy érvényes napot.
+Ez a dátum a jövőben van.
+Üdv az asztalomnál! Készen állsz a játékra?
+Jó látni téged. Foglalj helyet!
+Szia! A lapok frissek, és én is.
+Üdv! Tegyük ezt az estét emlékezetessé.
+Tedd meg a téted, amikor készen állsz.
+Zsetonokat az asztalra, és lássuk a lapokat.
+Miben játszunk?
+Ó, nagy tét! Tetszik a stílusod.
+Na, ez aztán a tét. Gyerünk!
+Bátor vagy ma este, mi?
+All in?! Kalapál a szívem!
+Mindent egy leosztásra. Félelem nélkül!
+Blackjack! Hihetetlen!
+Huszonegy, csak úgy!
+Blackjack! Ma este imádnak a lapok.
+Szépen játszottál!
+Nyertél! Szép munka.
+Nagyon megy ma!
+Ez a tiéd.
+Micsoda nyeremény! Mindenki ezt az asztalt nézi!
+Óriási! Ma este lángolsz!
+Ez nagyon közel volt! A következő a tiéd.
+Most a háznak volt szerencséje.
+Rázd le, jön az új leosztás.
+Jaj, egy lappal túl sok.
+Besokalltál! A legjobbakkal is megesik.
+Döntetlen. Senki sem veszít!
+Döntetlen. A zsetonjaid biztonságban vannak.
+Besokalltam! Szerencséd van.
+Ez nekem sok. Te nyertél!
+Blackjack a háznak, bocsi!
+Az osztónak blackjackje van. Balszerencse.
+Ászt mutatok. Biztosítás?
+Szétválasztunk! Két esély a nyerésre.
+Duplázás. Bátor lépés!
+Duplázz! Jön egy lap.
+Új kártyacipő, keverek!
+Fogyóban? A pénztár feltölt.
+Fogynak a zsetonok. Kérsz még?
+Elfogytak a zsetonok! Menj a pénztárhoz, vagy vegyél fel ingyen zsetonokat.
+A kupacod üres. A pénztár pont mögötted van.
+Kimerültnek tűnsz! Egyél valamit a bárban.
+Tartalékon vagy? A bár gondoskodik rólad.
+Nyugodtan, nem sietünk.
+Amikor csak készen állsz!
+Az éjszaka még fiatal.
+A kezdők szerencséje veled van!
+A pakli ma este melletted áll!
+A kezdők szerencséje véget ért. Innentől tisztességes a játék!
+Üdv a kaszinóban! A helyed vár.
+Jó estét! Ma este forrók az asztalok.
+Üdv újra! Szerencsésnek érzed magad?
+Koppints egy asztalra a játék kezdéséhez!
+Több zseton kell? Jó ablakhoz jöttél.
+Nagyobb kupacok, nagyobb bónuszok!
+Éhes vagy? Válassz bármit az étlapról.
+Egy falat étel fenntartja az energiádat!
+Üdv az asztalomnál!
+Hát itt vagy! Máris világosabb lett.
+Érezd magad otthon. Ma este minden rólad szól.
+Imádom ezt a mosolyt. Szerencsés este?
+Lazíts, jó kezekben vagy.
+Hé, te! Reméltem, hogy benézel az ablakomhoz.
+Mindig jó egy barátságos arcot látni.
+Nézd csak, ki van itt! Jól szórakozol?
+Szia, szépfiú!
+Ma este tetszik a stílusod.
+Hé, de jó újra látni!
+Jó estéd van? Megérdemled.
+Vigyázz, még a végén neked kezdek szurkolni.
+Visszatért a kedvenc játékosom!
+Ülj mellém, osztok neked valami szépet.
+Veled sokkal szórakoztatóbb ez az asztal.
+Máris mész? Az éjszaka még fiatal!
+Ugyan már, csak még egy leosztás. Jó érzésem van!
+Most nem hagyhatsz itt, épp csak belekezdtünk!
+Utolsó esély! A következő leosztás lehet a nagy durranás...
+Jó, jó. Melegen tartom a helyed. Megígéred, hogy visszajössz?
+Még nincs sorozatod? Játssz ma köröket ({2}), és elkezdem számolni.
+Új kezdet! Körök ({2}), és meggyullad a lángod.
+Vezetek egy kis listát azokról, akik minden nap eljönnek. Te nem vagy rajta... még.
+A(z) {1}. nap vár rád. Hátralévő körök: {2}!
+Egymás utáni napok: {0}... most csak nem hagyod abba?
+A lángod ma kicsit hidegnek tűnik. A körök ({2}) majd felmelegítik.
+Számolom: {0} nap. Legyen belőle {1}.
+Ne hidd, hogy nem vettem észre. Hátralévő körök a sorozatod megtartásához: {2}!
+Egymás utáni napok: {0}? Kezdem azt hinni, hogy tetszik itt.
+A sorozatod mára biztonságban van. Most már csak villogsz.
+{0}. nap, kész. Holnap ugyanekkor?
+{0} nap! Ideje helyet foglalnom neked.
+Megvan: a sorozatod első napja! Gyere vissza holnap, és kettő lesz belőle.
+Egy teljes hét egymás után! Őszintén le vagyok nyűgözve.
+Harminc nap! Gyakorlatilag már itt dolgozol.
+Száz nap. Mindenkinek mesélek rólad.
+Már {0} nap egymás után! Nézz magadra.
+Sorozat megmentve: {0}. nap! Tudtam, hogy sikerülni fog.
+{0}. nap! Lefogadom, hogy a(z) {1}. napig nem jutsz el.
+{0} nap... jól van, nagyzoló.
+Játssz 10 blackjack leosztást
+Nyerj meg 5 blackjack leosztást
+Szerezz egy blackjacket
+Nyerj 500 zsetont blackjacken
+Pörgesd meg a nyerőgépet 20-szor
+Nyerj 5 pörgetést a nyerőgépen
+Nyerd meg a tét 5×-ösét a nyerőgépen
+Játssz 5 kört rulettben
+Nyerj 3 rulettpörgetést
+Találj el egy számot telitalálattal
+Játssz 8 leosztást hold'emben
+Nyerj 4 leosztást hold'emben
+Játssz 10 leosztást baccaratban
+Nyerj 5 leosztást baccaratban
+Játssz 15 leosztást videópókerben
+Játssz 8 kört sic bóban
+Nyerj 4 kört sic bóban
+Dobj 15-ször a kockákkal crapsben
+Nyerj 4 dobást crapsben
+Csinálj flöst vagy jobbat videópókerben
+Royal flös
+Színsor
+Póker
+Full
+Flös
+Sor
+Drill
+Két pár
+Pár
+Magas lap
+GPS-helyzet
+mobilhálózat
+internetkapcsolat
+eszközbeállítások
+tesztország
+nincs ellenőrizve (normál ár)
+ismeretlen
+1. tucat
+2. tucat
+3. tucat
+2:1
+PIROS
+FEKETE
+Bubik vagy jobb
+IGAZSÁGOS ÁRAK AZ ORSZÁGODNAK
+A bolt árai az országod gazdaságához igazodnak, így a játékosok mindenhol méltányos árat fizetnek.
+Az országod megállapításához egyszer ellenőrizzük a hozzávetőleges helyzetedet. Ezt az eszközödön párosítjuk egy országgal, és sehova sem küldjük el. Ha elutasítod, a normál árak érvényesek.
+TOVÁBB
+Elhagyod a kaszinót?
+A zsetonjaidat és az előrehaladásodat elmentettük.
+KILÉPÉS
+MARADOK
+Feloldva: {0}
+Egy sorozatfagyasztás tegnap megmentette a(z) {0} napos sorozatodat.
+Sorozatfagyasztások ({0}) megmentették a(z) {1} napos sorozatodat.
+A(z) {0} napos sorozatod véget ért. Játssz ma köröket ({1}), hogy újat kezdj!
+KÜLDETÉS TELJESÍTVE
++{0} zseton
+MINDEN KÜLDETÉS KÉSZ!
+Napi bónusz +{0} zseton. Holnap új küldetések.
+{0}. SZINT!
+Mérföldkő! +{0} zseton
+Gyere vissza holnap, hogy folytasd
++1 sorozatfagyasztás
+{0} NAPOS SOROZAT!
+A vásárlás ebben a verzióban nem érhető el.
+A vásárlás nem sikerült. Nem terheltünk meg.
++{0} zseton jóváírva!
+{0}: {1} leosztás {2}% szerencsével, a kezdők szerencséje után
+{0}: {1} leosztás {2}% szerencsével!
+{0}: +{1}% energia
+Ezen az eszközön nem érhető el
+A videók nem töltődnek be ezen a hálózaton
+Gyere vissza holnap
+Kész {0} mp múlva
++{0} zseton (ma még {1})
++{0} ingyen zseton!
++1 sorozatfagyasztás!
+Most nincs elérhető videó. Próbáld újra egy kicsit később.
+BRONZ
+EZÜST
+ARANY
+GYÉMÁNT
+Menü
+Nézet
+Kereszt
+Kör
+Négyzet
+Háromszög
+Régió ellenőrzése...
+Nincs ellenőrizve ({0}): normál árak
+{0} ({1}): árak ebben: {2}
+Emlékeztetők
+Ingyen zsetonok és sorozatemlékeztetők
+Elkészültek az ingyen zsetonjaid
+{0} zseton vár rád a Lucky Ace-ben.
+Tartsd meg a(z) {0} napos sorozatodat
+Játssz ma köröket ({0}), hogy éjfélkor ne nullázódjon le.
+BACCARAT
+Üdv a baccaratnál! Játékos, Bankár vagy Döntetlen?
+JÁTÉKOS
+DÖNTETLEN
+BANKÁR
+UTOLSÓ EREDMÉNYEK
+J
+B
+D
+VISSZAVONÁS
+TÖRLÉS
+ISMÉT
+OSZTÁS
+Nincs elég zseton ehhez a téthez.
+Elérted az asztal maximumát
+ÖSSZES TÉT  {0}
+Válassz zsetont, majd koppints a Játékosra, a Bankárra vagy a Döntetlenre
+DÖNTETLEN  {0}
+A JÁTÉKOS NYER  {0}–{1}
+A BANKÁR NYER  {0}–{1}
+NYEREMÉNY  +{0}
+VISSZAJÁR  {0}
+Most nem nyertél
+Előbb fejezd be ezt a leosztást.
+Üdv! Ma este a kezdők szerencséje veled van. Tedd meg a téted!
+A BLACKJACK 3:2-T FIZET   •   AZ OSZTÓ MINDEN 17-NÉL MEGÁLL   •   A BIZTOSÍTÁS 2:1-ET FIZET
+TÉT
+LAPOT
+MEGÁLLOK
+DUPLÁZÁS
+SZÉTVÁLASZTÁS
+BIZTOSÍTÁS
+NEM, KÖSZÖNÖM
+TÉT {0}+
+Nincs elég zseton
+Az osztó ászt mutat. Biztosítod {0} értékben?
+A biztosítás kifizetése: {0}
+Az osztónak nincs blackjackje. A biztosítás elveszett.
+BESOKALL
+AZ OSZTÓ BESOKALLT
+BLACKJACK!
+NYERTÉL
+DÖNTETLEN
+VESZTETTÉL
+A kezdők szerencséje véget ért. Most indul a Szerencsesorozatod.
+A kezdők szerencséje véget ért. Mostantól normál blackjack.
+A Szerencsesorozatod véget ért. Vissza a normál blackjackhez.
+ELFOGYTAK A ZSETONOK
+Nézz meg egy rövid videót {0} ingyen zsetonért, vagy menj a pénztárhoz.
+Menj a pénztárhoz, hogy feltöltsd a zsetonjaidat.
+INGYEN ZSETONOK
+PÉNZTÁR
+KÉSŐBB
+„{0}”
+MÉG EGY LEOSZTÁS
+TÁVOZOM
+KEZDŐK SZERENCSÉJE
+SZERENCSESOROZAT
+Üdvözlő bónusz új játékosoknak: az első <b>{0} leosztásodban</b> az osztó kártyacipője a javadra van rendezve, így szinte minden leosztást megnyersz.
+A következő <b>{0} leosztásban</b> az előny fokozatosan elhalványul, utána pedig minden asztalnál normál, tisztességes blackjack folyik egy megkevert, 6 paklis cipőből (a blackjack 3:2-t fizet, az osztó minden 17-nél megáll).
+Előny most: <b><color=#7CFC9A>{0}%</color></b>   Hátralévő leosztások: <b>{1}</b>
+A következő <b>{0} blackjack leosztásodban</b> legfeljebb <b>{1} zseton</b> téttel minden lapnak <b>{2}%</b> esélye van, hogy a javadra érkezzen (ugyanaz az előny, mint a kezdők szerencséje).
+Jó játékkal ez a leosztások nagyjából <b>{0}%</b>-át nyeri, szemben a normál blackjack kb. {1}%-ával. A nagyobb tétek normál blackjacknek számítanak, és nem fogyasztanak leosztást. Ha elfogynak a leosztások, minden asztal ismét normál, tisztességes blackjack.
+ÉRTEM
+VISSZA AKAROD A SZERENCSÉDET?
+A kezdők szerencséje véget ért: innentől minden asztal normál, tisztességes blackjack. Egy Szerencsesorozat egy időre visszahozza az előnyt.
+CRAPS
+Üdv a crapsnél! Tégy a Pass Line-ra, és dobj.
+HAT
+KILENC
+FIELD
+2 3 4 9 10 11 12  •  a 2 és a 12 duplán fizet
+BÁRMELY 7
+BÁRMELY CRAPS
+DON'T PASS BAR
+1:1  •  a 12 döntetlen
+PASS LINE
+ODDS
+valós odds
+KI
+BE
+Az odds a Pass Line mögé kerül, ha már van pont.
+Az oddshoz Pass Line tét kell.
+Az oddsod a maximumon van.
+A vonaltétek a nyitó dobásnál kerülnek fel.
+AZ ASZTALON  {0}
+Nyitó dobás: tégy a Pass Line-ra, majd dobj. 7 vagy 11 nyer; 2, 3 vagy 12 veszít. A place fogadások csak akkor kezdenek működni, ha van pont.
+A pont {0}: dobd ki újra egy 7 előtt. A Pass Line mögötti odds valós oddsot fizet.
+DOBÁS
+A pont {0}.
+{0}! A pont megvan. Nyeremény!
+Hetes. Új dobó, új nyitó dobás.
+{0}, natural! A Pass Line nyer.
+{0}, craps. A vonal veszít.
+Várd meg, amíg a kockák megállnak.
+ELHAGYOD AZ ASZTALT?
+A vonaltéted még játékban van a(z) {0} ponton. Ha most távozol, elveszik.
+NAPI
+NAPI SOROZAT
+NAPOS SOROZAT
+MA
+REKLÁM MEGNÉZÉSE
+VÁSÁRLÁS
+SOROZATFAGYASZTÁS
+A sorozatfagyasztás életben tartja a sorozatodat egy olyan napon, amikor nem játszol. Legfeljebb {0} lehet nálad.\n\nVeszel egyet {1} zsetonért?
+Sorozatfagyasztás kész.
+Nincs elég zseton a fagyasztáshoz.
+MÉGSE
+NAPI PÖRGETÉS
+PÖRGETÉS
+Esélyek:
+{0}%
+{0} zsetont nyertél!
+MAI KÜLDETÉSEK
+Rekord: {0} nap
+Játssz minden nap, hogy sorozatot építs
+A mai cél teljesítve! Holnap találkozunk.
+Ma: {0} / {1} kör (bármelyik játék)
+Sorozatfagyasztások: {0} / {1}
+Mentsd meg a sorozatod egy kihagyott napon. +1 minden 7. napon.
+TELE
+NINCS VIDEÓ
+REKLÁM HAMAROSAN
+Sorozatbónusz: nyeremények ×{0}
+Egy ingyen pörgetés minden nap
+KÖVETKEZŐ  {0}
+Minden kész! Bónusz begyűjtve.
+Új küldetések éjfélkor.
+Teljesítsd mindhármat: +{0} bónuszzseton
+HOLD'EM
+Üdv a hold'emnél! Tedd fel az antét, és lássuk a lapokat.
+ANTE
+BLIND
+JÁTÉK
+A BLIND FIZET
+Az osztó egy párral vagy jobbal kvalifikál
+CHECK
+FOLD
+TÉT {0}×
+Ante {0} + blind {0}. Tarts meg még {1}-t az emeléshez.
+Koppints zsetonokra az antéhoz. A blind ugyanannyi.
+Check, vagy az ante három- vagy négyszerese?
+Emelj most az ante 4×-ével vagy 3×-ával, vagy checkelj és nézd meg a flopot.
+Utolsó esély: tégy 1× antét, vagy dobd el a lapot, és elveszik az ante és a blind.
+Tégy most 2× antét, vagy checkelj és nézd meg az utolsó két lapot.
+Itt a flop.
+A turn és a river.
+Lássuk, mi van nálam.
+Az osztó nem kvalifikál: az antéd visszajár.
+Eldobtad. A következő leosztás a tiéd.
+JÁTÉKOK
+Húzd a bal oldalon a járáshoz  •  Húzd a jobb oldalon a körülnézéshez  •  Koppints, hogy odamenj
+Csak 18+  •  A zsetonok szórakozásra valók: nincs pénzbeli értékük, soha nem válthatók pénzre vagy nyereményre
+Nyílnak az ajtók...
+Üdv! A(z) {0} üdvözlő zsetonod kész. Az asztalok egyenesen előtted vannak!
++{0} ingyen zseton! Újabbak {1} óra múlva.
+Az ingyen zsetonok {0} óránként töltődnek fel. A következő: {1} múlva.
+{0} ó {1} p
+{0} p {1} mp
+TARTSD MEG A SOROZATOD
+Kérsz emlékeztetőt azokon az estéken, amikor még nem játszottál, és amikor az ingyen zsetonjaid elkészültek? Ennél többet soha, és a Beállításokban kikapcsolhatod.
+EMLÉKEZTESS
++{0} zseton kész!
+Nézz meg egy videót: {0}
+Következő ingyen zsetonok: {0} múlva
+BLACKJACK
+4 asztal  •  3:2-t fizet
+Ultimate Texas Hold'em
+Játékos, Bankár vagy Döntetlen
+NYERŐGÉPEK
+Lucky Ace 7s  •  10 nyerővonal
+VIDEÓPÓKER
+Jacks or Better
+SIC BO
+Három kocka  •  nagy vagy kicsi
+Pass Line  •  Field  •  Odds
+RULETT
+Európai, egy nullával
+KIMERÜLTÉL
+Az energiasávod üres. Vegyél valamit a bárban, hogy tovább játszhass, vagy gyere vissza később: az energia lassan visszatöltődik, amíg távol vagy.
+IRÁNY A BÁR
+VÁLASSZ ASZTALT
+TÉTEK
+{0}. SZINT
+LEÜLÖK
+KELL: {0}
+Érd el a(z) {0}. szintet, hogy itt játszhass. Te a(z) {1}. szinten vagy.
+KASZINÓ
+NN
+HH
+ÉÉÉÉ
+NAP
+HÓNAP
+ÉV
+MIKOR SZÜLETTÉL?
+A zsetonok kizárólag szórakozásra szolgálnak. Nincs pénzbeli értékük, és soha nem válthatók pénzre vagy nyereményre.
+SAJNÁLJUK, NEM JÁTSZHATSZ
+A(z) {0} csak felnőttek számára érhető el.
+KILÉPÉS
+Bezárás {0} múlva...
+MESÉLJ MAGADRÓL
+Ehhez illő háziasszonyokat, osztókat és bárszemélyzetet választunk. Ezt bármikor megváltoztathatod a Beállításokban.
+FÉRFI VAGYOK
+NŐ VAGYOK
+NEM SZERETNÉM MEGADNI
+BELÉPÉS A KASZINÓBA
+A ma esti személyzeted:
+{0}. oldal / {1}
+NYELV
+AUTOMATIKUS
+ORSZÁG
+Üdvözöljük! Tegyék meg tétjeiket.
+Az asztal limitje pörgetésenként {0}.
+Koppints a táblára a zsetonok elhelyezéséhez
+Nincs több tét!
+ZÖLD
+zöld
+piros
+fekete
+Micsoda találat! Gratulálok!
+Nyertél! A nyereményed {0}.
+{0} {1}. Visszajár: {2}.
+Tegyék meg tétjeiket.
+Várd meg, amíg a golyó megáll.
+BEÁLLÍTÁSOK
+ÁLTALÁNOS
+GRAFIKA
+HANG
+ÉRINTÉS
+EGÉR
+KONTROLLER
+REZGÉS
+18+ • A zsetonoknak nincs pénzbeli értékük • Betűtípusok: Bebas Neue, Poppins, Noto (SIL OFL) • Határok: Natural Earth • Áradatok: Világbank
+KASZINÓ SZEMÉLYZETE
+NŐK
+FÉRFIAK
+VEGYES
+EMLÉKEZTETŐK
+Ingyen zsetonok, és egy esti figyelmeztetés, mielőtt egy sorozat megszakadna.
+ÚJRAELLENŐRZÉS
+ÁRRÉGIÓ
+Leggyorsabb: a kaszinó, ahogy megfestették, semmi extra.
+A csiszolt padló, a fa és az arany tükrözi a termet.
+Filmes hatás: színkorrekció, szemcse, ragyogás, fénysugarak, élethű bőr.
+Mozis objektív: az élesség követi a tekinteted, csíkok a fényeken, por a fénysugarakban.
+MINŐSÉG
+ALACSONY
+KÖZEPES
+MAGAS
+ULTRA
+FELBONTÁS
+Az alacsonyabb lágyabb, de hűvösebben fut és kíméli az akkumulátort.
+MEGJELENÍTÉSI MÓD
+TELJES KÉPERNYŐ
+ABLAKOS
+ÉLSIMÍTÁS
+Kisimítja a recés éleket a kaszinóban.
+KÉPFRISSÍTÉS
+{0} FPS
+A 30 FPS kíméli az akkumulátort, és hűvösen tartja a régebbi telefonokat.
+V-SYNC
+LÁTÓMEZŐ
+FPS MUTATÁSA
+FŐ HANGERŐ
+ZENE
+HANGEFFEKTEK
+SZEMÉLYZET HANGJA
+A személyzet beszéd közbeni morajlása.
+NÉMÍTÁS HÁTTÉRBEN
+Elnémítja a kaszinót, amíg másik ablakban vagy.
+NÉZÉS ÉRZÉKENYSÉGE
+Milyen gyorsan fordítja a húzás a nézetet.
+Milyen gyorsan fordítja az egérrel húzás a nézetet.
+NÉZÉS FORDÍTÁSA BALRA / JOBBRA
+NÉZÉS FORDÍTÁSA FEL / LE
+GOMBKIOSZTÁS
+AUTO
+MENÜ / NÉZET CSERÉJE
+KAR ÉRZÉKENYSÉGE
+Milyen gyorsan fordítja a jobb kar a nézetet.
+KAR FORDÍTÁSA BALRA / JOBBRA
+KAR FORDÍTÁSA FEL / LE
+KONTROLLER TIPPEK
+Megmutatja, mit csinálnak az egyes gombok, amikor kontrollerrel játszol.
+REZGÉS ITT
+TELEFON
+MINDKETTŐ
+Auto: a kontroller, ha csatlakoztatva van, egyébként a telefon.
+TELEFON REZGÉSE
+TELEFON ERŐSSÉGE
+KONTROLLER REZGÉSE
+KONTROLLER ERŐSSÉGE
+AUTOMATIKUS ({0})
+{0}: Beállítások, {1}: Napi.
+Nincs csatlakoztatott kontroller.
+Csatlakoztatva: {0}. {1} gombok láthatók (a jobb oldali A megerősít).
+Csatlakoztatva: {0}. {1} gombok láthatók.
+A BÁR
+SZERENCSE
+A zsetonok, a szerencse és az étel virtuális tárgyak, kizárólag szórakozásra: nincs pénzbeli értékük, nem válthatók pénzre vagy nyereményre.
+Minden lapnak ekkora esélye van, hogy a javadra érkezzen, legfeljebb {0} zsetonos blackjack téteknél (a nagyobb tétek normálak, és nem fogyasztanak leosztást). A kezdők szerencséje után indul; az erősebb csomagok fogynak először.
+Engedélyezd a helyhozzáférést, hogy megkapd az országod árát
+A vásárlás a játék ezen verziójában nem érhető el.
+TESZTBOLT (nem valódi pénz)
+energia
++{0}% ZSETON
+{0} leosztás
+ezek kb. {0}%-át nyeri
+Üdv a sic bónál! Nagy, kicsi vagy valami merészebb?
+Az asztali limit dobásonként {0}.
+RÁZÁS
+HÁRMAS {0}!
+LUCKY ACE 7s
+ÖSSZES TÉT
+NYEREMÉNYTÁBLA
+SOK SZERENCSÉT!
+A pörgetéshez legalább 10 zseton kell.
+ZSETONOK
+A tétet arra csökkentettük, amit fedezni tudsz.
+MEGANYEREMÉNY!
+NAGY NYEREMÉNY!
+VISSZAJÁR {0}
+NINCS NYEREMÉNY
+{0}. VONAL: {1} × {2} = {3}
+{0} CSILLAG = {1}
+Cseresznye
+Citrom
+Narancs
+Szilva
+Csengő
+Bar
+Hetes
+Gyémánt
+Ász
+Csillag
+A CSILLAGOK bárhol fizetnek: 5 = a tét {0}×-ese, 4 = a tét {1}×-ese, 3 = a tét {2}×-ese.
+Az ÁSZ joker: minden szimbólumot helyettesít, kivéve a csillagot.
+A vonalnyeremények a vonaltét (összes tét ÷ 10) többszörösei, balról jobbra az első tárcsától.
+VISSZAFIZETÉS: {0}% hosszú távon. Minden pörgetés független és véletlenszerű.
+TARTVA
+Ossz, tartsd meg a kívánt lapokat, cserélj egyszer.
+TART
+TIPP
+CSERE
+Koppints a lapokra a megtartáshoz, aztán cserélj.
+Járás
+Nézés
+Gombok
+Beállítások
+Napi
+Állítás
+Mozgás
+Kiválasztás
+Bezárás
+Vissza
+KIMERÜLT
+KEZDŐK SZERENCSÉJE {0}%
+MÉG {0} LEOSZTÁS
+SZERENCSESOROZAT {0}%
+{0} LEOSZTÁS  •  TÉT LEGFELJEBB {1}
+SZINT
+Szófia
+Elena
+Mia
+Valentina
+Chloé
+Izabella
+Nádia
+Aria
+Luna
+Kamilla
+Aurora
+Bianka
+Serena
+Marco
+Leó
+Adrián
+Lukács
+Viktor
+Dániel
+Gábriel
+Ethan
+Julián
+Ráfael
+Mateo
+Nico
+Enzo
+ÜDVÖZÖLJÜK
+BESZÉLJ A HÁZIGAZDÁVAL
+Útbaigazítás és tippek
+ZSETONOK  •  BÓNUSZOK
+ZSETON VÁSÁRLÁSA
+Pénztár
+KOKTÉLOK  •  RÁGCSÁLNIVALÓ  •  ENERGIA
+ÉTEL ÉS ITAL
+A bár
+A BLACKJACK 3:2-T FIZET
+AZ OSZTÓ 17-NÉL MEGÁLL
+BLACKJACK
+{0} asztal  •  tét {1}–{2}
+HOLD'EM JÁTÉK
+Ultimate Texas Hold'em  •  ante {0}–{1}
+BACCARAT JÁTÉK
+NAGY  •  KICSI  •  HÁRMASOK
+SIC BO JÁTÉK
+Három kocka  •  a nagy vagy kicsi 1:1-re fizet
+PASS LINE  •  FIELD  •  ODDS
+CRAPS JÁTÉK
+A Pass Line 1:1-re fizet  •  az odds valós oddsot fizet
+VIDEÓPÓKER JÁTÉK
+NYERŐGÉP
+Jacks or Better  •  teljes 9/6-os tábla
+LUCKY ACE 7s  •  AKÁR A VONALTÉTED 2 500-SZOROSÁT FIZETI
+JACKS OR BETTER  •  A ROYAL FLÖS 800×-OT FIZET
+TEGYÉK MEG TÉTJEIKET
+RULETT
+Európai kerék  •  a telitalálat 35:1-et fizet
+RENDELJ EGY ITALT
+{0} kihozza neked
+A(z) {0} a(z) {1}. szinten nyílik meg. Te a(z) {2}. szinten vagy: minden lejátszott kör számít.
+Ehhez az asztalhoz legalább {0} zseton kell.
+A blackjack asztalok egyenesen előtted vannak. Sétálj oda az egyikhez, és ülj le!
+A nyerőgépek a jobb fal mentén vannak, a videópóker a hátsó falnál, a rulett pedig hátul.
+A hold'em a bal hátsó sarokban van, a báron túl.
+A baccarat rögtön balra van a bejáratnál.
+A sic bo a pénztár utáni sarokban van: három kocka, nagy vagy kicsi.
+A craps asztal jobbra van, a nyerőgépek előtt. Tégy a Pass Line-ra, és dobj!
+A pénztár itt van tőled jobbra, a bár pedig a bal oldali fal mentén.
+Fáradt vagy? Egy falat a bárban azonnal feltölti az energiádat.
+Koppints bárhova a padlón, és odasétálsz. Koppints egy asztalra, hogy leülj.
+Andorra
+Egyesült Arab Emírségek
+Afganisztán
+Antigua és Barbuda
+Anguilla
+Albánia
+Örményország
+Angola
+Antarktisz
+Argentína
+Amerikai Szamoa
+Ausztria
+Ausztrália
+Aruba
+Åland-szigetek
+Azerbajdzsán
+Bosznia-Hercegovina
+Barbados
+Banglades
+Belgium
+Burkina Faso
+Bulgária
+Bahrein
+Burundi
+Benin
+Saint-Barthélemy
+Bermuda
+Brunei
+Bolívia
+Holland Karib-térség
+Brazília
+Bahama-szigetek
+Bhután
+Bouvet-sziget
+Botswana
+Belarusz
+Belize
+Kanada
+Kókusz (Keeling)-szigetek
+Kongó – Kinshasa
+Közép-afrikai Köztársaság
+Kongó – Brazzaville
+Svájc
+Elefántcsontpart
+Cook-szigetek
+Chile
+Kamerun
+Kína
+Kolumbia
+Costa Rica
+Kuba
+Zöld-foki Köztársaság
+Curaçao
+Karácsony-sziget
+Ciprus
+Csehország
+Németország
+Dzsibuti
+Dánia
+Dominika
+Dominikai Köztársaság
+Algéria
+Ecuador
+Észtország
+Egyiptom
+Nyugat-Szahara
+Eritrea
+Spanyolország
+Etiópia
+Finnország
+Fidzsi
+Falkland-szigetek
+Mikronézia
+Feröer szigetek
+Franciaország
+Gabon
+Egyesült Királyság
+Grenada
+Grúzia
+Francia Guyana
+Guernsey
+Ghána
+Gibraltár
+Grönland
+Gambia
+Guinea
+Guadeloupe
+Egyenlítői-Guinea
+Görögország
+Déli-Georgia és Déli-Sandwich-szigetek
+Guatemala
+Guam
+Bissau-Guinea
+Guyana
+Hongkong KKT
+Heard-sziget és McDonald-szigetek
+Honduras
+Horvátország
+Haiti
+Magyarország
+Indonézia
+Írország
+Izrael
+Man-sziget
+India
+Brit Indiai-óceáni Terület
+Irak
+Irán
+Izland
+Olaszország
+Jersey
+Jamaica
+Jordánia
+Japán
+Kenya
+Kirgizisztán
+Kambodzsa
+Kiribati
+Comore-szigetek
+Saint Kitts és Nevis
+Észak-Korea
+Dél-Korea
+Kuvait
+Kajmán-szigetek
+Kazahsztán
+Laosz
+Libanon
+Saint Lucia
+Liechtenstein
+Srí Lanka
+Libéria
+Lesotho
+Litvánia
+Luxemburg
+Lettország
+Líbia
+Marokkó
+Monaco
+Moldova
+Montenegró
+Saint Martin
+Madagaszkár
+Marshall-szigetek
+Észak-Macedónia
+Mali
+Mianmar
+Mongólia
+Makaó KKT
+Északi Mariana-szigetek
+Martinique
+Mauritánia
+Montserrat
+Málta
+Mauritius
+Maldív-szigetek
+Malawi
+Mexikó
+Malajzia
+Mozambik
+Namíbia
+Új-Kaledónia
+Niger
+Norfolk-sziget
+Nigéria
+Nicaragua
+Hollandia
+Norvégia
+Nepál
+Nauru
+Niue
+Új-Zéland
+Omán
+Panama
+Peru
+Francia Polinézia
+Pápua Új-Guinea
+Fülöp-szigetek
+Pakisztán
+Lengyelország
+Saint-Pierre és Miquelon
+Pitcairn-szigetek
+Puerto Rico
+Palesztin Autonómia
+Portugália
+Palau
+Paraguay
+Katar
+Réunion
+Románia
+Szerbia
+Oroszország
+Ruanda
+Szaúd-Arábia
+Salamon-szigetek
+Seychelle-szigetek
+Szudán
+Svédország
+Szingapúr
+Szent Ilona
+Szlovénia
+Svalbard és Jan Mayen
+Szlovákia
+Sierra Leone
+San Marino
+Szenegál
+Szomália
+Suriname
+Dél-Szudán
+São Tomé és Príncipe
+Salvador
+Sint Maarten
+Szíria
+Szváziföld
+Turks- és Caicos-szigetek
+Csád
+Francia Déli Területek
+Togo
+Thaiföld
+Tádzsikisztán
+Tokelau
+Kelet-Timor
+Türkmenisztán
+Tunézia
+Tonga
+Törökország
+Trinidad és Tobago
+Tuvalu
+Tajvan
+Tanzánia
+Ukrajna
+Uganda
+Az USA lakatlan külbirtokai
+Egyesült Államok
+Uruguay
+Üzbegisztán
+Vatikán
+Saint Vincent és a Grenadine-szigetek
+Venezuela
+Brit Virgin-szigetek
+Amerikai Virgin-szigetek
+Vietnám
+Vanuatu
+Wallis és Futuna
+Szamoa
+Koszovó
+Jemen
+Mayotte
+Dél-afrikai Köztársaság
+Zambia
+Zimbabwe
+Angol
+Afrikaans
+Amhara
+Arab
+Azerbajdzsáni
+Belarusz
+Bolgár
+Bangla
+Bosnyák
+Katalán
+Cseh
+Dán
+Német
+Görög
+Spanyol
+Észt
+Baszk
+Perzsa
+Finn
+Filippínó
+Francia
+Ír
+Gallego
+Gudzsaráti
+Hausza
+Héber
+Hindi
+Horvát
+Francia (Haiti)
+Magyar
+Örmény
+Indonéz
+Igbó
+Izlandi
+Olasz
+Japán
+Grúz
+Kazah
+Khmer
+Kannada
+Koreai
+Kirgiz
+Luxemburgi
+Lao
+Litván
+Lett
+Malgas
+Macedón
+Malajálam
+Mongol
+Maráthi
+Maláj
+Máltai
+Burmai
+Norvég (bokmål)
+Nepáli
+Holland
+Pandzsábi
+Lengyel
+Pastu
+Portugál (Brazília)
+Portugál (Portugália)
+Rétoromán
+Román
+Orosz
+Kinyarvanda
+Szingaléz
+Szlovák
+Szlovén
+Szomáli
+Albán
+Szerb
+Svéd
+Szuahéli
+Tamil
+Telugu
+Tadzsik
+Thai
+Türkmén
+Török
+Ukrán
+Urdu
+Üzbég
+Vietnámi
+Xhosza
+Joruba
+Kínai (Egyszerűsített)
+Kínai (Hagyományos)
+Zulu
+V
+H
+K
+Sze
+Cs
+P
+Szo

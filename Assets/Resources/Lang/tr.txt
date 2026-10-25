@@ -1,0 +1,1004 @@
+KÜÇÜK
+BÜYÜK
+TEK
+ÇİFT
+HERHANGİ ÜÇLÜ
+Bir avuç fiş
+Bir deste fiş
+Bir tepsi fiş
+Fiş rafı
+EN POPÜLER
+Fiş kasası
+Büyük oyuncu kasası
+EN İYİ DEĞER
+Maden suyu
+Espresso
+Enerji içeceği
+Kulüp sandviç
+Burger menü
+Biftek akşam yemeği
+TAM DOLUM
+Şans Serisi
+Sıcak Seri
+EN ÇOK ŞANS
+Bronz Masa
+Gümüş Masa
+Altın Masa
+Elmas Masa
+Hold'em masası
+Lütfen geçerli bir yıl girin.
+Lütfen geçerli bir ay girin (1-12).
+Lütfen geçerli bir gün girin.
+Bu tarih gelecekte.
+Masama hoş geldin! Oynamaya hazır mısın?
+Seni görmek güzel. Otur bakalım!
+Merhaba! Kartlar taze, ben de öyle.
+Hoş geldin! Bu geceyi güzel bir geceye çevirelim.
+Hazır olduğunda bahsini koy.
+Fişler masaya, hadi kartlara bakalım.
+Ne için oynuyoruz?
+Vay, büyük bahis! Tarzını sevdim.
+İşte buna bahis denir! Hadi başlayalım!
+Bu gece cesursun, değil mi?
+Hepsi mi?! Kalbim çok hızlı atıyor!
+Her şey tek elde. Korkusuzca!
+Blackjack! İnanılmaz!
+Yirmi bir, işte böyle!
+Blackjack! Kartlar bu gece seni seviyor.
+Güzel oynadın!
+Kazandın! Aferin.
+Şansın yaver gidiyor!
+Bu el senin.
+Ne kazanç ama! Herkes bu masayı izliyor!
+Muhteşem! Bu gece alev alevsin!
+Çok az kaldı! Sıradaki senin.
+Bu sefer kasa şanslıydı.
+Boş ver, yeni el geliyor.
+Ah, bir kart fazla.
+Battın! En iyilerin bile başına gelir.
+Berabere. Kimse kaybetmedi!
+Berabere. Fişlerin güvende.
+Ben battım! Şanslısın.
+Bana fazla geldi. Sen kazandın!
+Kasaya blackjack, üzgünüm!
+Krupiyeye blackjack. Kötü şans.
+Bende as var. Sigorta ister misin?
+Bölüyoruz! Kazanmak için iki şans.
+İkiye katlama. Cesur hamle!
+İkiye katla! Bir kart geliyor.
+Yeni kutu, kartları karıştırıyorum!
+Fişler azaldı mı? Kasiyer sana yükleme yapabilir.
+Fişler azalıyor. Biraz daha ister misin?
+Fişin kalmadı! Kasaya uğra ya da bedava fiş al.
+Yığının boş. Kasa hemen arkanda.
+Çok yorgun görünüyorsun! Barda bir şeyler ye.
+Enerjin mi bitti? Bar seni toparlar.
+Acele etme.
+Hazır olduğunda!
+Gece daha yeni başlıyor.
+Acemi şansı seninle!
+Bu gece deste senin tarafında!
+Acemi şansı bitti. Bundan sonra oyun adil!
+Kumarhaneye hoş geldin! Yerin seni bekliyor.
+İyi akşamlar! Masalar bu gece çok hareketli.
+Tekrar hoş geldin! Şanslı hissediyor musun?
+Oynamaya başlamak için bir masaya dokun!
+Daha fazla fiş mi lazım? Doğru veznedesin.
+Daha büyük yığınlar, daha büyük bonuslar!
+Acıktın mı? Menüden istediğini seç.
+Bir lokma bir şey enerjini yüksek tutar!
+Masama hoş geldin!
+İşte geldin! Mekân şimdiden aydınlandı.
+Kendi evindeymiş gibi rahat ol. Bu gece tamamen senin.
+Bu gülüşe bayılıyorum. Şanslı bir gece mi?
+Rahatla, emin ellerdesin.
+Hey sen! Vezneme uğramanı umuyordum.
+Tanıdık bir yüz görmek hep güzel.
+Bak kimler gelmiş! Eğleniyor musun?
+Merhaba yakışıklı!
+Bu geceki tarzını sevdim.
+Hey, seni tekrar görmek güzel!
+Güzel bir gece mi geçiriyorsun? Bunu hak ediyorsun.
+Dikkat et, sana tezahürat yapmaya başlayabilirim.
+En sevdiğim oyuncum geri döndü!
+Yanıma otur, sana güzel kartlar dağıtayım.
+Seninle bu masa çok daha eğlenceli.
+Gidiyor musun? Gece daha yeni başlıyor!
+Hadi, sadece bir el daha. Bu el için içimde iyi bir his var!
+Beni şimdi bırakamazsın, daha yeni başladık!
+Son şans! Sıradaki el büyük el olabilir...
+Tamam, tamam. Yerini sıcak tutacağım. Geri döneceğine söz veriyor musun?
+Henüz serin yok mu? Bugün {2} tur oyna, saymaya başlayayım.
+Yeni başlangıç! {2} tur ve alevin yanar.
+Her gün gelenlerin küçük bir listesini tutuyorum. Sen henüz yoksun... şimdilik.
+{1}. gün seni bekliyor. Sadece {2} tur kaldı!
+Üst üste {0} gün... şimdi durmayacaksın, değil mi?
+Alevin bugün biraz soğuk görünüyor. {2} tur onu ısıtır.
+Sayıyorum: {0} gün. Hadi {1} yapalım.
+Fark etmedim sanma. Serini korumak için {2} tur kaldı!
+Üst üste {0} gün mü? Burayı sevdiğini düşünmeye başladım.
+Serin bugünlük güvende. Artık sadece hava atıyorsun.
+{0}. gün tamam. Yarın aynı saatte mi?
+{0} gün! Artık sana bir yer ayırmalıyım.
+İşte: serinin ilk günü! Yarın gel, iki olsun.
+Koca bir hafta üst üste! Gerçekten etkilendim.
+Otuz gün! Neredeyse burada çalışıyorsun.
+Yüz gün. Herkese senden bahsediyorum.
+Üst üste {0} gün oldu! Şu haline bak.
+Seri kurtuldu: {0}. gün! Başaracağını biliyordum.
+{0}. gün! İddiaya girerim {1}'e ulaşamazsın.
+{0} gün... tamam, gösterişçi.
+10 el blackjack oyna
+5 el blackjack kazan
+Bir blackjack yap
+Blackjackte 500 fiş kazan
+Slotları 20 kez çevir
+Slotlarda 5 çevirme kazan
+Slotlarda bahsinin 5 katını kazan
+5 tur rulet oyna
+3 rulet çevirmesi kazan
+Tek sayıya isabet ettir
+8 el hold'em oyna
+4 el hold'em kazan
+10 el bakara oyna
+5 el bakara kazan
+15 el video poker oyna
+8 tur sic bo oyna
+4 tur sic bo kazan
+Craps'te zarları 15 kez at
+Craps'te 4 atış kazan
+Video pokerde floş veya daha iyisini yap
+Royal floş
+Straight floş
+Kare
+Full house
+Floş
+Kent
+Üçlü
+İki çift
+Çift
+Yüksek kart
+GPS konumu
+mobil ağ
+internet bağlantısı
+cihaz ayarları
+test ülkesi
+doğrulanmadı (standart fiyat)
+bilinmiyor
+1. düzine
+2. düzine
+3. düzine
+2'ye 1
+KIRMIZI
+SİYAH
+Vale veya üstü
+ÜLKENE ADİL FİYATLAR
+Mağaza fiyatları ülkenin ekonomisine göre ayarlanır, böylece her yerdeki oyuncular adil bir fiyat öder.
+Ülkeni bulmak için yaklaşık konumunu bir kez kontrol ederiz. Konum cihazında bir ülkeyle eşleştirilir ve hiçbir yere gönderilmez. Reddedersen standart fiyatlar geçerli olur.
+DEVAM
+Kumarhaneden çıkılsın mı?
+Fişlerin ve ilerlemen kaydedildi.
+ÇIK
+KAL
+{0} açıldı
+Dün bir seri dondurma {0} günlük serini kurtardı.
+{0} seri dondurma {1} günlük serini kurtardı.
+{0} günlük serin sona erdi. Yenisine başlamak için bugün {1} tur oyna!
+GÖREV TAMAMLANDI
++{0} fiş
+TÜM GÖREVLER TAMAMLANDI!
+Günlük bonus +{0} fiş. Yarın yeni görevler.
+SEVİYE {0}!
+Dönüm noktası! +{0} fiş
+Devam etmek için yarın gel
++1 seri dondurma
+{0} GÜNLÜK SERİ!
+Bu sürümde satın alma yok.
+Satın alma başarısız. Ücret alınmadı.
++{0} fiş eklendi!
+{0}: %{2} şansla {1} el, Acemi Şansı'ndan sonra
+{0}: %{2} şansla {1} el!
+{0}: +%{1} enerji
+Bu cihazda kullanılamaz
+Videolar bu ağda yüklenemiyor
+Yarın gel
+{0} sn içinde hazır
++{0} fiş (bugün {1} kaldı)
++{0} bedava fiş!
++1 seri dondurma!
+Şu anda video yok. Birazdan tekrar dene.
+BRONZ
+GÜMÜŞ
+ALTIN
+ELMAS
+Menü
+Görünüm
+Çarpı
+Daire
+Kare
+Üçgen
+Bölgen kontrol ediliyor...
+Doğrulanmadı ({0}): standart fiyatlar
+{0} ({1}): fiyatlar {2} cinsinden
+Hatırlatıcılar
+Bedava fiş hazır ve seri hatırlatıcıları
+Bedava fişlerin hazır
+Lucky Ace'te {0} fiş seni bekliyor.
+{0} günlük serini koru
+Gece yarısı sıfırlanmaması için bugün {0} tur oyna.
+BAKARA
+Bakaraya hoş geldin! Oyuncu, Banker mi, Beraberlik mi?
+OYUNCU
+BERABERLİK
+BANKER
+SON SONUÇLAR
+O
+B
+E
+GERİ AL
+TEMİZLE
+TEKRAR
+DAĞIT
+Bu bahis için yeterli fiş yok.
+Masa üst sınırına ulaşıldı
+TOPLAM BAHİS  {0}
+Bir fiş seç, sonra Oyuncu, Banker veya Beraberliğe dokun
+BERABERLİK  {0}
+OYUNCU KAZANIR  {0}–{1}
+BANKER KAZANIR  {0}–{1}
+KAZANÇ  +{0}
+İADE  {0}
+Bu sefer kazanç yok
+Önce bu eli bitir.
+Hoş geldin! Bu gece acemi şansı seninle. Bahsini koy!
+BLACKJACK 3'E 2 ÖDER   •   KRUPİYE TÜM 17'LERDE DURUR   •   SİGORTA 2'YE 1 ÖDER
+BAHİS
+KART
+DUR
+İKİYE KATLA
+BÖL
+SİGORTA
+HAYIR, TEŞEKKÜRLER
+BAHİS {0}+
+Yeterli fiş yok
+Krupiyede as var. {0} karşılığında sigorta yapılsın mı?
+Sigorta {0} ödüyor
+Krupiyede blackjack yok. Sigorta kaybedildi.
+BATTI
+KRUPİYE BATTI
+BLACKJACK!
+KAZANDIN
+BERABERE
+KAYBETTİN
+Acemi şansı bitti. Şans Serin şimdi başlıyor.
+Acemi şansı bitti. Bundan sonra standart blackjack.
+Şans Serin bitti. Standart blackjacke dönüyoruz.
+FİŞ KALMADI
+{0} bedava fiş için kısa bir video izle ya da kasaya uğra.
+Fiş yüklemek için kasaya uğra.
+BEDAVA FİŞ
+KASA
+SONRA
+“{0}”
+BİR EL DAHA
+AYRIL
+ACEMİ ŞANSI
+ŞANS SERİSİ
+Yeni oyunculara hoş geldin bonusu: ilk <b>{0} elde</b> krupiyenin kutusu senin lehine dizilir, yani neredeyse her eli kazanırsın.
+Sonraki <b>{0} elde</b> avantaj yavaş yavaş azalır, ardından her masa karıştırılmış 6 desteli kutudan standart ve adil blackjack olur (blackjack 3'e 2 öder, krupiye tüm 17'lerde durur).
+Şu anki avantaj: <b><color=#7CFC9A>%{0}</color></b>   Kalan el: <b>{1}</b>
+Sonraki <b>{0} blackjack elinde</b>, <b>{1} fişe</b> kadar bahislerde her kartın senin lehine gelme şansı <b>%{2}</b> olur (Acemi Şansı ile aynı avantaj).
+İyi oynarsan ellerin yaklaşık <b>%{0}</b>'ını kazanırsın, standart blackjackte ise bu yaklaşık %{1}'dir. Daha büyük bahisler standart blackjacktir ve el harcamaz. Eller bitince her masa yeniden standart ve adil blackjack olur.
+ANLADIM
+ŞANSINI GERİ İSTER MİSİN?
+Acemi Şansı bitti: bundan sonra her masa standart ve adil blackjack. Şans Serisi avantajı bir süreliğine geri getirir.
+CRAPS
+Craps'e hoş geldin! Pass Line'a bahis koy ve zar at.
+ALTI
+DOKUZ
+SAHA
+2 3 4 9 10 11 12  •  2 ve 12 çift öder
+HERHANGİ 7
+HERHANGİ CRAPS
+DON'T PASS BAR
+1:1  •  12 berabere
+PASS LINE
+ODDS
+gerçek oran
+KAPALI
+AÇIK
+Odds, bir puan olunca Pass Line'ın arkasına konur.
+Odds için Pass Line bahsi gerekir.
+Odds bahsin en yüksekte.
+Çizgi bahisleri ilk atışta konur.
+MASADA  {0}
+İlk atış: Pass Line'a bahis koy, sonra at. 7 veya 11 kazanır, 2, 3 veya 12 kaybeder. Place bahisleri puan oluşunca çalışmaya başlar.
+Puan {0}: 7'den önce yeniden at. Pass Line'ın arkasındaki odds gerçek oranla öder.
+AT
+Puan {0}.
+{0}! Puan tuttu. Kazandın!
+Yedi çıktı. Yeni atıcı, yeni ilk atış.
+{0}, doğal! Pass Line kazanır.
+{0}, craps. Çizgi kaybeder.
+Zarların durmasını bekle.
+MASADAN AYRILIYOR MUSUN?
+Çizgi bahsin {0} puanında hâlâ oyunda. Şimdi ayrılırsan kaybedersin.
+GÜNLÜK
+GÜNLÜK SERİ
+GÜNLÜK SERİ
+BUGÜN
+REKLAM İZLE
+SATIN AL
+SERİ DONDURMA
+Seri dondurma, oynamadığın bir günde serini canlı tutar. En fazla {0} tane tutabilirsin.\n\n{1} fişe bir tane alınsın mı?
+Seri dondurma hazır.
+Dondurma için yeterli fiş yok.
+İPTAL
+GÜNLÜK ÇARK
+ÇEVİR
+Olasılıklar:
+%{0}
+{0} fiş kazandın!
+BUGÜNÜN GÖREVLERİ
+En iyi: {0} gün
+Seri oluşturmak için her gün oyna
+Bugünün hedefi tamam! Yarın görüşürüz.
+Bugün: {0} / {1} tur (herhangi bir oyun)
+Seri dondurma: {0} / {1}
+Kaçırdığın bir günde serini kurtar. Her 7 günde +1.
+DOLU
+VİDEO YOK
+REKLAM YAKINDA
+Seri bonusu: ödüller ×{0}
+Her gün bir bedava çevirme
+SONRAKİ  {0}
+Hepsi tamam! Bonus alındı.
+Yeni görevler gece yarısı.
+Üçünü de bitir: +{0} bonus fiş
+HOLD'EM
+Hold'em'e hoş geldin! Anteyi koy, kartlara bakalım.
+ANTE
+BLIND
+OYNA
+BLIND ÖDEMESİ
+Krupiye bir çift veya daha iyisiyle oyuna kalır
+PAS
+ÇEKİL
+BAHİS {0}×
+Ante {0} + blind {0}. Arttırman için {1} daha ayır.
+Anteni ayarlamak için fişlere dokun. Blind aynıdır.
+Pas mı, yoksa antenin üç ya da dört katı bahis mi?
+Şimdi antenin 4 ya da 3 katı arttır, veya pas geçip flopu gör.
+Son şans: antenin 1 katı bahis yap ya da çekil, ante ve blind gider.
+Şimdi antenin 2 katı bahis yap, ya da pas geçip son iki kartı gör.
+İşte flop.
+Turn ve river.
+Bakalım bende ne var.
+Krupiye oyuna kalmadı: anten geri geliyor.
+Çekildin. Sıradaki el senin.
+OYUNLAR
+Yürümek için sola sürükle  •  Bakmak için sağa sürükle  •  Gitmek için dokun
+Sadece 18+  •  Fişler eğlence içindir: nakit değeri yoktur, asla para veya ödülle değiştirilemez
+Kapılar açılıyor...
+Hoş geldin! {0} hoş geldin fişin hazır. Masalar tam karşında!
++{0} bedava fiş! {1} saat sonra daha fazlası.
+Bedava fişler her {0} saatte yenilenir. Sonraki {1} sonra.
+{0} sa {1} dk
+{0} dk {1} sn
+SERİNİ KORU
+Henüz oynamadığın akşamlarda ve bedava fişlerin hazır olduğunda hatırlatma ister misin? Bundan fazlası asla yok ve Ayarlar'dan kapatabilirsin.
+HATIRLAT
++{0} fiş hazır!
+Video izle: {0}
+Sonraki bedava fişe {0}
+BLACKJACK
+4 masa  •  3'e 2 öder
+Ultimate Texas Hold'em
+Oyuncu, Banker veya Beraberlik
+SLOTLAR
+Lucky Ace 7s  •  10 hat
+VİDEO POKER
+Jacks or Better
+SIC BO
+Üç zar  •  büyük ya da küçük
+Pass Line  •  Saha  •  Odds
+RULET
+Tek sıfırlı Avrupa ruleti
+BİTKİNSİN
+Enerji çubuğun boş. Oynamaya devam etmek için bardan bir şey al ya da sonra gel: sen yokken enerji yavaşça dolar.
+BARA GİT
+MASANI SEÇ
+BAHİSLER
+SEVİYE {0}
+OTUR
+GEREKEN {0}
+Burada oynamak için {0}. seviyeye ulaş. Sen {1}. seviyedesin.
+KUMARHANE
+GG
+AA
+YYYY
+GÜN
+AY
+YIL
+NE ZAMAN DOĞDUN?
+Fişler yalnızca eğlence içindir. Nakit değerleri yoktur ve asla para ya da ödülle değiştirilemez.
+ÜZGÜNÜZ, OYNAYAMAZSIN
+{0} yalnızca yetişkinlere açıktır.
+ÇIKIŞ
+{0} içinde kapanıyor...
+BİZE KENDİNDEN BAHSET
+Ev sahiplerini, krupiyeleri ve bar personelini buna göre seçeceğiz. Bunu istediğin zaman Ayarlar'dan değiştirebilirsin.
+ERKEĞİM
+KADINIM
+BELİRTMEK İSTEMİYORUM
+KUMARHANEYE GİR
+Bu geceki personelin:
+Sayfa {0} / {1}
+DİL
+OTOMATİK
+ÜLKE
+Hoş geldin! Bahislerinizi yapın lütfen.
+Masa sınırı çevirme başına {0}.
+Fiş koymak için tahtaya dokun
+Bahisler kapandı!
+YEŞİL
+yeşil
+kırmızı
+siyah
+Ne isabet! Tebrikler!
+Kazandın! {0} kazandın.
+{0} {1}. {2} sana geri dönüyor.
+Bahislerinizi yapın lütfen.
+Topun durmasını bekle.
+AYARLAR
+GENEL
+GRAFİK
+SES
+DOKUNMA
+FARE
+KUMANDA
+TİTREŞİM
+18+ • Fişlerin nakit değeri yoktur • Yazı tipleri: Bebas Neue, Poppins, Noto (SIL OFL) • Sınırlar: Natural Earth • Fiyat verisi: Dünya Bankası
+KUMARHANE PERSONELİ
+KADINLAR
+ERKEKLER
+KARIŞIK
+HATIRLATICILAR
+Bedava fiş hazır olunca ve seri bitmeden önce akşam küçük bir hatırlatma.
+TEKRAR KONTROL ET
+FİYAT BÖLGESİ
+En hızlı: kumarhane olduğu gibi, ek bir şey yok.
+Cilalı zeminler, ahşap ve altın salonu yansıtır.
+Sinema görünümü: renk düzenleme, film greni, parıltı, ışık huzmeleri, canlı ten.
+Sinema lensi: odak bakışını izler, ışıklarda çizgiler, huzmelerde toz.
+KALİTE
+DÜŞÜK
+ORTA
+YÜKSEK
+ULTRA
+ÇÖZÜNÜRLÜK
+Düşük olan daha yumuşaktır ama telefon daha serin kalır ve pil tasarrufu sağlar.
+EKRAN MODU
+TAM EKRAN
+PENCERE
+KENAR YUMUŞATMA
+Kumarhanedeki pürüzlü kenarları yumuşatır.
+KARE HIZI
+{0} FPS
+30 FPS pil tasarrufu sağlar ve eski telefonları serin tutar.
+V-SYNC
+GÖRÜŞ ALANI
+FPS GÖSTER
+ANA SES
+MÜZİK
+SES EFEKTLERİ
+PERSONEL SESLERİ
+Personelin konuşurken çıkardığı mırıltı.
+ARKA PLANDA SESSİZ
+Başka bir penceredeyken kumarhanenin sesini kapatır.
+BAKIŞ HASSASİYETİ
+Sürüklemenin görüşü ne kadar hızlı döndürdüğü.
+Fareyle sürüklemenin görüşü ne kadar hızlı döndürdüğü.
+BAKIŞI SOL / SAĞ TERS ÇEVİR
+BAKIŞI YUKARI / AŞAĞI TERS ÇEVİR
+TUŞ DÜZENİ
+OTOMATİK
+MENÜ / GÖRÜNÜM DEĞİŞTİR
+ÇUBUK HASSASİYETİ
+Sağ çubuğun görüşü ne kadar hızlı döndürdüğü.
+ÇUBUĞU SOL / SAĞ TERS ÇEVİR
+ÇUBUĞU YUKARI / AŞAĞI TERS ÇEVİR
+KUMANDA İPUÇLARI
+Kumandayla oynarken her tuşun ne yaptığını gösterir.
+TİTREŞİM CİHAZI
+TELEFON
+İKİSİ DE
+Otomatik: bağlıyken kumanda, değilse telefon.
+TELEFON TİTREŞİMİ
+TELEFON GÜCÜ
+KUMANDA TİTREŞİMİ
+KUMANDA GÜCÜ
+OTOMATİK ({0})
+{0} Ayarlar'ı, {1} Günlük'ü açar.
+Bağlı kumanda yok.
+Bağlı: {0}. {1} tuşları gösteriliyor (sağdaki A onaylar).
+Bağlı: {0}. {1} tuşları gösteriliyor.
+BAR
+ŞANS
+Fişler, şans ve yiyecekler yalnızca eğlence amaçlı sanal ürünlerdir: nakit değeri yoktur, para veya ödülle değiştirilemez.
+{0} fişe kadar blackjack bahislerinde her kartın senin lehine gelme şansı budur (daha büyük bahisler standarttır ve el harcamaz). Acemi Şansı'ndan sonra başlar; daha güçlü paketler önce kullanılır.
+Ülkenin fiyatını almak için konum erişimine izin ver
+Oyunun bu sürümünde satın alma yok.
+TEST MAĞAZASI (gerçek para yok)
+enerji
++%{0} FİŞ
+{0} el
+bunların yaklaşık %{0}'ını kazanır
+Sic bo'ya hoş geldin! Büyük, küçük, yoksa daha cesur bir şey mi?
+Masa limiti atış başına {0}.
+SALLA
+ÜÇLÜ {0}!
+LUCKY ACE 7s
+TOPLAM BAHİS
+ÖDEME TABLOSU
+BOL ŞANS!
+Çevirmek için en az 10 fiş gerekir.
+FİŞ AL
+Bahis karşılayabileceğin miktara düşürüldü.
+MEGA KAZANÇ!
+BÜYÜK KAZANÇ!
+İADE {0}
+KAZANÇ YOK
+HAT {0}: {1} × {2} = {3}
+{0} YILDIZ = {1}
+Kiraz
+Limon
+Portakal
+Erik
+Çan
+Bar
+Yedi
+Elmas
+As
+Yıldız
+YILDIZLAR her yerde öder: 5 = bahsin {0}×, 4 = bahsin {1}×, 3 = bahsin {2}×.
+AS jokerdir: yıldız dışındaki her sembolün yerine geçer.
+Hat kazançları hat bahsinin (toplam bahis ÷ 10) katlarıdır, ilk makaradan soldan sağa.
+GERİ ÖDEME: Uzun vadede %{0}. Her çevirme bağımsız ve rastgeledir.
+TUTULDU
+Dağıt, istediğin kartları tut, bir kez değiştir.
+TUT
+İPUCU
+DEĞİŞTİR
+Tutmak için kartlara dokun, sonra değiştir.
+Yürü
+Bak
+Tuşlar
+Ayarlar
+Günlük
+Ayarla
+Hareket
+Seç
+Kapat
+Geri
+BİTKİN
+ACEMİ ŞANSI %{0}
+{0} EL KALDI
+ŞANS SERİSİ %{0}
+{0} EL  •  {1}'E KADAR BAHİS
+SEVİYE
+Sofya
+Elena
+Mia
+Valentina
+Chloe
+İsabella
+Nadia
+Aria
+Luna
+Kamila
+Aurora
+Bianca
+Serena
+Marco
+Leo
+Adrian
+Lucas
+Viktor
+Daniel
+Gabriel
+Ethan
+Julian
+Rafael
+Mateo
+Nico
+Enzo
+HOŞ GELDİNİZ
+EV SAHİBİYLE KONUŞ
+Yol tarifi ve ipuçları
+FİŞ  •  BONUS
+FİŞ SATIN AL
+Kasa
+KOKTEYL  •  ATIŞTIRMALIK  •  ENERJİ
+YİYECEK VE İÇECEK
+Bar
+BLACKJACK 3'E 2 ÖDER
+KRUPİYE 17'DE DURMALIDIR
+BLACKJACK OYNA
+{0} masa  •  {1} ile {2} arası bahis
+HOLD'EM OYNA
+Ultimate Texas Hold'em  •  ante {0}–{1}
+BAKARA OYNA
+BÜYÜK  •  KÜÇÜK  •  ÜÇLÜLER
+SIC BO OYNA
+Üç zar  •  büyük ya da küçük 1'e 1 öder
+PASS LINE  •  SAHA  •  ODDS
+CRAPS OYNA
+Pass Line 1'e 1 öder  •  odds gerçek oranla öder
+VİDEO POKER OYNA
+SLOT OYNA
+Jacks or Better  •  tam ödemeli 9/6
+LUCKY ACE 7s  •  HAT BAHSİNİN 2.500×'İNE KADAR ÖDER
+JACKS OR BETTER  •  ROYAL FLOŞ 800× ÖDER
+BAHİSLERİNİZİ YAPIN
+RULET OYNA
+Avrupa çarkı  •  tek sayı 35'e 1 öder
+İÇECEK SİPARİŞ ET
+{0} getiriyor
+{0} {1}. seviyede açılır. Sen {2}. seviyedesin: oynadığın her tur sayılır.
+Bu masa için en az {0} fiş gerekir.
+Blackjack masaları tam karşında. Birine git ve otur!
+Slot makineleri sağ duvarda, video poker arka duvarda, rulet ise en arkada.
+Hold'em barın ardında, arka sol köşede.
+Bakara girişte hemen solda.
+Sic bo kasanın ilerisindeki köşede: üç zar, büyük ya da küçük.
+Craps masası sağda, slotların önünde. Pass Line'a bahis koy ve at!
+Kasa hemen sağında, bar ise sol duvar boyunca.
+Yoruldun mu? Barda bir atıştırmalık enerjini doldurur.
+Zeminde herhangi bir yere dokun, oraya yürürsün. Oturmak için bir masaya dokun.
+Andorra
+Birleşik Arap Emirlikleri
+Afganistan
+Antigua ve Barbuda
+Anguilla
+Arnavutluk
+Ermenistan
+Angola
+Antarktika
+Arjantin
+Amerikan Samoası
+Avusturya
+Avustralya
+Aruba
+Åland Adaları
+Azerbaycan
+Bosna-Hersek
+Barbados
+Bangladeş
+Belçika
+Burkina Faso
+Bulgaristan
+Bahreyn
+Burundi
+Benin
+Saint Barthelemy
+Bermuda
+Brunei
+Bolivya
+Karayip Hollandası
+Brezilya
+Bahamalar
+Butan
+Bouvet Adası
+Botsvana
+Belarus
+Belize
+Kanada
+Cocos (Keeling) Adaları
+Kongo - Kinşasa
+Orta Afrika Cumhuriyeti
+Kongo - Brazavil
+İsviçre
+Côte d’Ivoire
+Cook Adaları
+Şili
+Kamerun
+Çin
+Kolombiya
+Kosta Rika
+Küba
+Cabo Verde
+Curaçao
+Christmas Adası
+Kıbrıs
+Çekya
+Almanya
+Cibuti
+Danimarka
+Dominika
+Dominik Cumhuriyeti
+Cezayir
+Ekvador
+Estonya
+Mısır
+Batı Sahra
+Eritre
+İspanya
+Etiyopya
+Finlandiya
+Fiji
+Falkland Adaları
+Mikronezya
+Faroe Adaları
+Fransa
+Gabon
+Birleşik Krallık
+Grenada
+Gürcistan
+Fransız Guyanası
+Guernsey
+Gana
+Cebelitarık
+Grönland
+Gambiya
+Gine
+Guadeloupe
+Ekvator Ginesi
+Yunanistan
+Güney Georgia ve Güney Sandwich Adaları
+Guatemala
+Guam
+Gine-Bissau
+Guyana
+Çin Hong Kong ÖİB
+Heard Adası ve McDonald Adaları
+Honduras
+Hırvatistan
+Haiti
+Macaristan
+Endonezya
+İrlanda
+İsrail
+Man Adası
+Hindistan
+Britanya Hint Okyanusu Toprakları
+Irak
+İran
+İzlanda
+İtalya
+Jersey
+Jamaika
+Ürdün
+Japonya
+Kenya
+Kırgızistan
+Kamboçya
+Kiribati
+Komorlar
+Saint Kitts ve Nevis
+Kuzey Kore
+Güney Kore
+Kuveyt
+Cayman Adaları
+Kazakistan
+Laos
+Lübnan
+Saint Lucia
+Liechtenstein
+Sri Lanka
+Liberya
+Lesotho
+Litvanya
+Lüksemburg
+Letonya
+Libya
+Fas
+Monako
+Moldova
+Karadağ
+Saint Martin
+Madagaskar
+Marshall Adaları
+Kuzey Makedonya
+Mali
+Myanmar (Burma)
+Moğolistan
+Çin Makao ÖİB
+Kuzey Mariana Adaları
+Martinik
+Moritanya
+Montserrat
+Malta
+Mauritius
+Maldivler
+Malavi
+Meksika
+Malezya
+Mozambik
+Namibya
+Yeni Kaledonya
+Nijer
+Norfolk Adası
+Nijerya
+Nikaragua
+Hollanda
+Norveç
+Nepal
+Nauru
+Niue
+Yeni Zelanda
+Umman
+Panama
+Peru
+Fransız Polinezyası
+Papua Yeni Gine
+Filipinler
+Pakistan
+Polonya
+Saint Pierre ve Miquelon
+Pitcairn Adaları
+Porto Riko
+Filistin Bölgeleri
+Portekiz
+Palau
+Paraguay
+Katar
+Reunion
+Romanya
+Sırbistan
+Rusya
+Ruanda
+Suudi Arabistan
+Solomon Adaları
+Seyşeller
+Sudan
+İsveç
+Singapur
+Saint Helena
+Slovenya
+Svalbard ve Jan Mayen
+Slovakya
+Sierra Leone
+San Marino
+Senegal
+Somali
+Surinam
+Güney Sudan
+Sao Tome ve Principe
+El Salvador
+Sint Maarten
+Suriye
+Esvatini
+Turks ve Caicos Adaları
+Çad
+Fransız Güney Toprakları
+Togo
+Tayland
+Tacikistan
+Tokelau
+Timor-Leste
+Türkmenistan
+Tunus
+Tonga
+Türkiye
+Trinidad ve Tobago
+Tuvalu
+Tayvan
+Tanzanya
+Ukrayna
+Uganda
+ABD Küçük Harici Adaları
+Amerika Birleşik Devletleri
+Uruguay
+Özbekistan
+Vatikan
+Saint Vincent ve Grenadinler
+Venezuela
+Britanya Virjin Adaları
+ABD Virjin Adaları
+Vietnam
+Vanuatu
+Wallis ve Futuna
+Samoa
+Kosova
+Yemen
+Mayotte
+Güney Afrika
+Zambiya
+Zimbabve
+İngilizce
+Afrikaanca
+Amharca
+Arapça
+Azerbaycan dili
+Belarusça
+Bulgarca
+Bengalce
+Boşnakça
+Katalanca
+Çekçe
+Danca
+Almanca
+Yunanca
+İspanyolca
+Estonca
+Baskça
+Farsça
+Fince
+Filipince
+Fransızca
+İrlandaca
+Galiçyaca
+Güceratça
+Hausa dili
+İbranice
+Hintçe
+Hırvatça
+Fransızca (Haiti)
+Macarca
+Ermenice
+Endonezce
+İbo dili
+İzlandaca
+İtalyanca
+Japonca
+Gürcüce
+Kazakça
+Khmer dili
+Kannada dili
+Korece
+Kırgızca
+Lüksemburgca
+Lao dili
+Litvanca
+Letonca
+Malgaşça
+Makedonca
+Malayalam dili
+Moğolca
+Marathi dili
+Malayca
+Maltaca
+Birman dili
+Norveççe Bokmål
+Nepalce
+Felemenkçe
+Pencapça
+Lehçe
+Peştuca
+Portekizce (Brezilya)
+Portekizce (Portekiz)
+Romanşça
+Rumence
+Rusça
+Kinyarwanda
+Sinhali dili
+Slovakça
+Slovence
+Somalice
+Arnavutça
+Sırpça
+İsveççe
+Svahili dili
+Tamilce
+Telugu dili
+Tacikçe
+Tayca
+Türkmence
+Türkçe
+Ukraynaca
+Urduca
+Özbekçe
+Vietnamca
+Zosa dili
+Yorubaca
+Çince (Basitleştirilmiş)
+Çince (Geleneksel)
+Zuluca
+Paz
+Pzt
+Sal
+Çar
+Per
+Cum
+Cmt

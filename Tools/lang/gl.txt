@@ -1,0 +1,659 @@
+# Galician (gl). Machine translation by Claude.
+bd99124	Presa de fichas
+c7c6dc8	Morea de fichas
+7512cfd	Bandexa de fichas
+fa36588	Estante de fichas
+7994f65	O MÁIS POPULAR
+49dcc21	Cámara de fichas
+0725283	Caixa forte de gran xogador
+7658705	MELLOR PREZO
+2f23432	Auga con gas
+418b820	Expreso
+97b463c	Bebida enerxética
+43bbfda	Sándwich club
+bce7a75	Menú de hamburguesa
+2832a8d	Cea con bisté
+dee8ee8	RECARGA COMPLETA
+a7c2255	Racha de sorte
+7919163	Racha quente
+74fdfc2	MÁIS SORTE
+d79cd12	Mesa de bronce
+2a8ff35	Mesa de prata
+51877b2	Mesa de ouro
+9282152	Mesa de diamante
+0de8764	Introduce un ano válido.
+d4e14c9	Introduce un mes válido (1-12).
+addd156	Introduce un día válido.
+d78a4f4	Esa data está no futuro.
+787c7c6	Dóuche a benvida á miña mesa! Xogamos?
+8b0f93e	Alégrome de verte. Senta!
+8338021	Ola! As cartas están frescas, e eu tamén.
+75750f9	Dámosche a benvida! Fagamos desta unha boa noite.
+95aac36	Fai a túa aposta cando queiras.
+8bc63c1	Fichas na mesa, e vexamos unhas cartas.
+984b7f3	Que nos xogamos?
+b74c769	Vaia, unha aposta grande! Gústame o teu estilo.
+77fc1fc	Iso si que é unha aposta. Imos!
+7779a5b	Esta noite estás valente, eh?
+479ff82	Todo?! O corazón vaime a mil!
+7fb527c	Todo a unha soa man. Sen medo!
+7bf0c5d	Blackjack! Incrible!
+123f2d5	Vinte e un, así sen máis!
+cd850a7	Blackjack! As cartas quérente esta noite.
+55f50ee	Ben xogado!
+79594b1	Gañas! Moi ben.
+0df710e	Estás en racha!
+20a0c1e	Esa é túa.
+a45fe61	Que vitoria! Todos miran esta mesa!
+54d3982	Enorme! Esta noite estás que ardes!
+8da8f1e	Por pouco! A seguinte é túa.
+5d921e1	Esta vez a casa tivo sorte.
+f923af7	Non lle deas voltas, vén unha man nova.
+853e7ca	Ai, unha carta de máis.
+daec44f	Pasácheste! Pásalles ata aos mellores.
+11ceaef	Empate. Ninguén perde!
+911a289	Empate. As túas fichas están a salvo.
+a89d9d9	Paseime! Que sorte tes.
+f76c8fd	Demasiado para min. Gañas!
+63f8d0b	Blackjack para a casa, síntoo!
+465c8bf	Blackjack do crupier. Mala sorte.
+6752f40	Amoso un as. Seguro?
+1920c5a	Separamos! Dúas oportunidades de gañar.
+9f621da	Dobras. Movemento valente!
+59da99d	Dóbraa! Vén unha carta.
+0b48017	Zapata nova, baralleo!
+3fa7769	Quédanche poucas? A caixa recárgache.
+4e5694b	As fichas escasean. Queres máis?
+d41f057	Quedaches sen fichas! Pasa pola caixa ou colle fichas de balde.
+15d90d3	A túa morea está baleira. A caixa está xusto detrás de ti.
+a9eaae1	Tes cara de canso! Come algo no bar.
+5cd9e8b	Vas na reserva? O bar cóidate.
+37b9672	Tómao con calma.
+c64df8c	Cando queiras!
+b8dfc0a	A noite é nova.
+8748560	A sorte do principiante está contigo!
+e3def50	A baralla está do teu lado esta noite!
+506ade9	A sorte do principiante rematou. De aquí en diante o xogo é xusto!
+953d8b7	Dámosche a benvida ao casino! O teu asento agarda.
+9fd9844	Boas noites! As mesas están quentes esta noite.
+2d42aaf	Que ben verte de novo! Séntete con sorte?
+311bae7	Toca unha mesa para comezar a xogar!
+3318099	Precisas máis fichas? Viñeches á xanela axeitada.
+c5b3787	Moreas máis grandes, bonificacións máis grandes!
+21ae665	Tes fame? Escolle o que queiras da carta.
+8b83cc0	Comer algo mantén a túa enerxía!
+35f4b0e	Dóuche a benvida á miña mesa!
+8f90245	Xa estás aquí! Todo parece máis luminoso.
+909e4d6	Coma na túa casa. Esta noite é toda para ti.
+2477f78	Encántame ese sorriso. Noite de sorte?
+6ac2120	Relaxa, aquí estás en boas mans.
+089f04b	Ei, ti! Agardaba que pasases pola miña xanela.
+3f2c3c9	Sempre é agradable ver unha cara amable.
+3021db8	Mira quen está aquí! Pásalo ben?
+769980b	Ola, guapo!
+5361ffd	Gústame o teu estilo esta noite.
+56b40be	Ei, que ben verte de novo!
+3316019	Estás pasando unha boa noite? Merécela.
+28283fd	Coidado, igual empezo a animarte.
+109ac94	O meu xogador favorito volveu!
+acba0e6	Senta comigo, vouche repartir algo bonito.
+eb5ff2a	Contigo esta mesa é moito máis divertida.
+772a73c	Xa te vas? A noite é nova!
+178301a	Veña, só unha man máis. Teño un bo presentimento!
+816036a	Non me podes deixar agora, se acabamos de comezar!
+5c9b7e2	Última oportunidade! A próxima man podería ser a grande...
+20ce7b6	Vale, vale. Gardareiche o asento quente. Prometes volver?
+51d1aeb	Aínda sen racha? Xoga hoxe roldas ({2}) e empezarei a contar.
+10b25d9	Novo comezo! Roldas ({2}) e a túa chama acéndese.
+0c10711	Levo unha lista de quen vén cada día. Ti non estás nela... aínda.
+5e7c431	O día {1} agárdate. Quedan roldas: {2}!
+b268d84	Días seguidos: {0}... non vas parar agora, verdade?
+b32ae79	A túa chama parece algo fría hoxe. As roldas ({2}) quentarana.
+a6f3fbd	Estiven contando: días {0}. Fagamos que sexan {1}.
+1dc5c97	Non penses que non me decatei. Roldas para manter a racha: {2}!
+807b82c	Días seguidos: {0}? Empezo a pensar que che gusta estar aquí.
+6391923	A túa racha está a salvo hoxe. Agora só estás a presumir.
+3bfbbf7	Día {0}, feito. Mañá á mesma hora?
+ca2a2c1	Días: {0}! Debería reservarche un asento.
+54f991f	Aquí a tes: o primeiro día da túa racha! Volve mañá e farémolo dous.
+a1e7ab0	Unha semana enteira seguida! Estou impresionada de verdade.
+96cee95	Trinta días! Practicamente traballas aquí.
+a9834cd	Cen días. Falo de ti a todo o mundo.
+071317f	Xa son {0} días seguidos! Mírate.
+0964027	Racha salvada: día {0}! Sabía que o conseguirías.
+c7f2a1f	Día {0}! A que non chegas ao {1}.
+a6ce2e2	Días: {0}... vale, fachendoso.
+3ab91d0	Xoga 10 mans de blackjack
+38e863d	Gaña 5 mans de blackjack
+6ac41cc	Consegue un blackjack
+74cf149	Gaña 500 fichas no blackjack
+66440e1	Fai xirar as tragaperras 20 veces
+9205056	Gaña 5 xiros nas tragaperras
+cd60e0c	Gaña 5× a túa aposta nas tragaperras
+6f7ac28	Xoga 5 roldas de ruleta
+6978cc0	Gaña 3 xiros de ruleta
+c8ebbcc	Acerta un número a pleno
+8a57c54	localización GPS
+4919635	rede móbil
+527b094	conexión a internet
+f49ae82	configuración do dispositivo
+60827d3	país de proba
+0b2f8d8	non verificado (prezo estándar)
+50d8b4a	descoñecido
+4fb7a4e	1.ª 12
+647a0eb	2.ª 12
+a934745	3.ª 12
+3de80ab	2 a 1
+bb4e68e	VERMELLO
+a9414ab	NEGRO
+710756a	IMPAR
+70ca748	PAR
+4d60d6c	PREZOS XUSTOS PARA O TEU PAÍS
+1674d95	Os prezos da tenda axústanse á economía do teu país, para que os xogadores de todas partes paguen un prezo xusto.
+4ec27ee	Para saber o teu país, comprobamos unha soa vez a túa localización aproximada. Asóciase a un país no teu dispositivo e non se envía a ningures. Se te negas, aplícanse os prezos estándar.
+ff3dbb4	CONTINUAR
+43a6a8d	Saír do casino?
+ad209a0	As túas fichas e o teu progreso están gardados.
+5860c84	SAÍR
+f1e0808	QUEDAR
+5b38c49	Desbloqueado: {0}
+15ae7ac	Unha conxelación de racha salvou onte a túa racha (días: {0}).
+d375ffb	Conxelacións ({0}) salvaron a túa racha (días: {1}).
+fd8ab39	A túa racha (días: {0}) rematou. Xoga hoxe roldas ({1}) para comezar unha nova!
+7fa2db4	MISIÓN COMPLETADA
+255325c	+{0} fichas
+d205ece	TODAS AS MISIÓNS FEITAS!
+4acbed2	Bonificación diaria +{0} fichas. Novas misións mañá.
+ab2ceb3	NIVEL {0}!
+86e2afb	Fito! +{0} fichas
+9ae18ad	Volve mañá para continuar
+7af7e7c	+1 conxelación de racha
+b5b9597	RACHA DE {0} DÍAS!
+62ec60d	As compras non están dispoñibles nesta versión.
+1f9786c	A compra fallou. Non se che cobrou nada.
+3e4c600	Engadíronse +{0} fichas!
+1998202	{0}: {1} mans cun {2}% de sorte, despois da sorte do principiante
+728ada5	{0}: {1} mans cun {2}% de sorte!
+af5e232	{0}: +{1}% de enerxía
+001a53b	Non dispoñible neste dispositivo
+2607004	Os vídeos non se poden cargar nesta rede
+569c30d	Volve mañá
+ecae6ee	Listo en {0} s
+9964820	+{0} fichas (quedan {1} hoxe)
+e1bd888	+{0} fichas de balde!
+619bd5d	+1 conxelación de racha!
+f70d794	Agora mesmo non hai ningún vídeo dispoñible. Téntao de novo nun momento.
+264d71b	BRONCE
+462e839	PRATA
+81ff70a	OURO
+50e122e	DIAMANTE
+57f5f5e	Menú
+69bd4ef	Vista
+dbfe736	Cruz
+1cc7820	Círculo
+82810cb	Cadrado
+73d3ae2	Triángulo
+a42f608	Comprobando a túa rexión...
+1db422c	Non verificado ({0}): prezos estándar
+9bc0807	{0} ({1}): prezos en {2}
+ae8c393	Lembretes
+aefd59b	Fichas de balde listas e lembretes de racha
+3125838	As túas fichas de balde están listas
+233027b	Agárdante {0} fichas en Lucky Ace.
+b93976b	Mantén a túa racha (días: {0})
+bd68038	Xoga hoxe roldas ({0}) para que non se reinicie á medianoite.
+0acfb6f	Dámosche a benvida! A sorte do principiante está contigo esta noite. Fai unha aposta!
+d589374	O BLACKJACK PAGA 3 A 2   •   O CRUPIER PÁRASE EN TODOS OS 17   •   O SEGURO PAGA 2 A 1
+b700b02	APOSTA
+16ec74f	BORRAR
+928226b	REPETIR
+55591e0	REPARTIR
+395ed46	CARTA
+43e7971	PLANTARSE
+097274c	DOBRAR
+6df63ca	SEPARAR
+3e40f46	ASEGURAR
+db82d3a	NON, GRAZAS
+28d6be8	APOSTA {0}+
+9587b70	Chegaches ao máximo da mesa
+b9ac47d	Non tes fichas dabondo
+d237ade	O crupier amosa un as. Asegurar por {0}?
+bf07c14	O seguro paga {0}
+b6e674a	O crupier non ten blackjack. Seguro perdido.
+0cc9679	PASÁCHESTE
+82ce89d	O CRUPIER PASOUSE
+6e1e1a4	BLACKJACK!
+662fae5	GAÑAS
+8918d00	EMPATE
+8df6be4	PERDES
+9e69668	A sorte do principiante rematou. A túa Racha de sorte comeza agora.
+822f4f4	A sorte do principiante rematou. A partir de agora é blackjack estándar.
+b0377c7	A túa Racha de sorte rematou. Volvemos ao blackjack estándar.
+824ad7c	SEN FICHAS
+ff1822d	Mira un vídeo curto por {0} fichas de balde, ou pasa pola caixa.
+e4cac2f	Pasa pola caixa para recargar as túas fichas.
+c3df3e7	FICHAS DE BALDE
+b169d33	CAIXA
+4d38f66	MÁIS TARDE
+cb8171b	Remata primeiro esta man.
+3aa6941	«{0}»
+6f846f4	UNHA MAN MÁIS
+a79d4f2	MARCHAR
+693f697	SORTE DO PRINCIPIANTE
+641ad58	RACHA DE SORTE
+fc45931	Bonificación de benvida para novos xogadores: nas túas primeiras <b>{0} mans</b> a zapata do crupier está preparada ao teu favor, así que gañarás case todas as mans.
+576c683	Durante as seguintes <b>{0} mans</b> a vantaxe vaise esvaecendo, e despois todas as mesas son blackjack estándar e xusto, repartido dunha zapata baralleada de 6 barallas (o blackjack paga 3 a 2, o crupier párase en todos os 17).
+7fb55b3	Vantaxe agora: <b><color=#7CFC9A>{0}%</color></b>   Mans restantes: <b>{1}</b>
+d4f8fe0	Nas túas próximas <b>{0} mans de blackjack</b> cunha aposta de ata <b>{1} fichas</b>, cada carta ten un <b>{2}%</b> de probabilidade de saír ao teu favor (a mesma vantaxe que a sorte do principiante).
+0a5fc06	Xogando ben, iso gaña arredor do <b>{0}%</b> das mans, fronte a arredor dun {1}% no blackjack estándar. As apostas máis grandes son blackjack estándar e non gastan mans. Cando se acaban as mans, todas as mesas volven ser blackjack estándar e xusto.
+c3a8946	ENTENDIDO
+8dfc44a	QUERES RECUPERAR A SORTE?
+272a97f	A sorte do principiante rematou: de aquí en diante todas as mesas son blackjack estándar e xusto. Unha Racha de sorte devolve a vantaxe durante un tempo.
+06b7689	DIARIO
+4035996	RACHA DIARIA
+fbe7f18	DÍAS SEGUIDOS
+7a46866	HOXE
+4753707	VER ANUNCIO
+6bb45f3	COMPRAR
+62a945f	CONXELACIÓN DE RACHA
+ba5b1de	Unha conxelación mantén viva a túa racha un día que non xogas. Podes ter ata {0}.\n\nComprar unha por {1} fichas?
+38c6090	Conxelación de racha lista.
+8fe681f	Non tes fichas dabondo para unha conxelación.
+1507c40	CANCELAR
+457d20f	XIRO DIARIO
+9623247	XIRAR
+ac5ef96	Probabilidades:
+1200f20	{0}%
+003a689	Gañaches {0} fichas!
+f757137	MISIÓNS DE HOXE
+7b7f9e2	Récord: {0} días
+9554fea	Xoga cada día para construír unha racha
+5c8dbb8	Obxectivo de hoxe cumprido! Ata mañá.
+1aeb9a1	Hoxe: {0} / {1} roldas (calquera xogo)
+bb92856	Conxelacións de racha: {0} / {1}
+0ec6216	Salva a túa racha un día que perdas. +1 cada 7 días.
+cc0a745	CHEO
+419a962	SEN VÍDEO
+2dabd99	ANUNCIO EN BREVE
+f12e166	Bonificación de racha: premios ×{0}
+80948a4	Un xiro de balde cada día
+596b5e0	SEGUINTE  {0}
+7f7e7fc	Todo feito! Bonificación recollida.
+03a0f2a	Novas misións á medianoite.
+4784874	Completa as tres: +{0} fichas de bonificación
+42c5cda	XOGAR
+337211e	XOGOS
+8f5e3bd	Arrastra á esquerda para camiñar  •  Arrastra á dereita para mirar  •  Toca para ir
+d00d221	Só +18  •  As fichas son para divertirse: sen valor monetario, nunca cambiables por diñeiro nin premios
+b60f038	Abrindo as portas...
+2e5bcce	Dámosche a benvida! As túas {0} fichas de benvida están listas. As mesas están xusto diante!
+7ef7ae3	+{0} fichas de balde! Máis en {1} horas.
+5d82af9	As fichas de balde recárganse cada {0} horas. As seguintes en {1}.
+5469985	{0} h {1} min
+bb65beb	{0} min {1} s
+ac8ba93	MANTÉN A TÚA RACHA
+560bfa1	Queres un lembrete as noites que aínda non xogaches e cando as fichas de balde estean listas? Nunca máis ca iso, e podes desactivalo na Configuración.
+b724a40	LÉMBRAMO
+9e0c898	+{0} fichas listas!
+1207e28	Mira un vídeo: {0}
+db3655b	Próximas fichas de balde en {0}
+4ca9be5	BLACKJACK
+9a612b1	4 mesas  •  paga 3 a 2
+1194439	TRAGAPERRAS
+6555152	Lucky Ace 7s  •  10 liñas
+255b1a1	RULETA
+6df1551	Europea dun só cero
+379b146	ESTÁS ESGOTADO
+340e5c4	A túa barra de enerxía está baleira. Colle algo no bar para seguir xogando, ou volve máis tarde: a enerxía recupérase amodo mentres non estás.
+a517396	IR AO BAR
+7c7227f	ESCOLLE A TÚA MESA
+c963de3	APOSTAS
+c433657	NIVEL {0}
+083ac39	SENTAR
+9698219	PRECISAS {0}
+34b737e	Chega ao nivel {0} para xogar aquí. Estás no nivel {1}.
+6cc19a9	CASINO
+6e946b7	DD
+4a3a892	MM
+2857a6a	AAAA
+9d1fece	DÍA
+d3bb0c3	MES
+c0f0cad	ANO
+43985ff	CANDO NACICHES?
+293fda2	As fichas son só para entretemento. Non teñen valor monetario e nunca se poden cambiar por diñeiro nin premios.
+3e9128d	SENTÍMOLO, NON PODES XOGAR
+b5e8985	{0} só está dispoñible para adultos.
+bb1b380	SAÍR
+d9f9432	Péchase en {0}...
+c6e102d	FÁLANOS DE TI
+31120ce	Escolleremos os anfitrións, crupiers e persoal do bar en consecuencia. Podes cambialo cando queiras na Configuración.
+49e8df9	SON UN HOME
+85abe81	SON UNHA MULLER
+76cc98c	PREFIRO NON DICILO
+964daf7	ENTRAR NO CASINO
+2efb69a	O teu persoal esta noite:
+c10e749	Páxina {0} de {1}
+2a3ffd9	IDIOMA
+c673535	AUTOMÁTICO
+d1245d2	PAÍS
+15fc12b	Benvidos! Fagan as súas apostas, por favor.
+531fb3f	Non tes fichas dabondo para esa aposta.
+380eb75	O límite da mesa é {0} por xiro.
+55ad592	DESFACER
+8f191f9	APOSTA TOTAL  {0}
+82e1181	Toca o taboleiro para poñer fichas
+bb19a75	Non vai máis!
+5becf07	VERDE
+bc74f4f	verde
+7898801	vermello
+466bc8c	negro
+f2edfbf	Que acerto! Parabéns!
+b252caf	Gañas! Gañaches {0}.
+8587d14	GAÑO  +{0}
+b862a2b	{0} {1}. Devólvenche {2}.
+a306d0a	DEVOLTO  {0}
+af3134d	Esta vez non hai premio
+84122e7	Fagan as súas apostas, por favor.
+52205f4	Agarda a que a bóla se deteña.
+c4b9243	CONFIGURACIÓN
+44d863e	XERAL
+2bbca79	GRÁFICOS
+955c8b4	SON
+c701f5f	TÁCTIL
+efcc94a	RATO
+8433628	MANDO
+d868a50	VIBRACIÓN
+f8692c7	+18 • As fichas non teñen valor monetario • Tipos de letra: Bebas Neue, Poppins, Noto (SIL OFL) • Fronteiras: Natural Earth • Datos de prezos: Banco Mundial
+da46447	PERSOAL DO CASINO
+594b81e	MULLERES
+69d3313	HOMES
+b4325d3	MIXTO
+414594a	LEMBRETES
+6cac87b	Fichas de balde listas, e un aviso pola noite antes de que remate unha racha.
+e43b2e0	COMPROBAR DE NOVO
+7c9e8f9	REXIÓN DE PREZOS
+495c70e	O máis rápido: o casino tal como está pintado, nada máis.
+b052523	Chans pulidos, madeira e ouro reflicten a sala.
+6bd30d7	Aspecto de cine: cor etalonada, gran, brillo, raios de luz, pel realista.
+21b6e1d	Lente de cine: o enfoque segue a túa mirada, raias nas luces, po nos raios.
+fb7c2e8	CALIDADE
+d8b9679	BAIXA
+f68525a	MEDIA
+d77d0b2	ALTA
+9289eee	ULTRA
+637e313	RESOLUCIÓN
+2e7b141	Unha máis baixa é máis suave, pero quenta menos e aforra batería.
+93dcfb5	MODO DE PANTALLA
+3c6eac3	PANTALLA COMPLETA
+f3690b1	XANELA
+cfa6200	ANTIALIASING
+ad50489	DESACTIVADO
+f178804	Suaviza os bordos dentados do casino.
+4266288	FOTOGRAMAS POR SEGUNDO
+d031ab0	{0} FPS
+a2b7514	30 FPS aforra batería e mantén frescos os teléfonos antigos.
+0babcee	V-SYNC
+6656e25	CAMPO DE VISIÓN
+244aadb	AMOSAR FPS
+41c8f6e	VOLUME XERAL
+bf3af1f	MÚSICA
+bd80907	EFECTOS DE SON
+d098036	VOCES DO PERSOAL
+93c6484	O murmurio do persoal mentres fala.
+16bf71a	SILENCIAR EN SEGUNDO PLANO
+85b2ee7	Silencia o casino mentres estás noutra xanela.
+8e3634e	SENSIBILIDADE DA MIRADA
+880dc05	Que rápido xira a vista ao arrastrar.
+750c60f	Que rápido xira a vista ao arrastrar co rato.
+8b988eb	INVERTER MIRADA ESQUERDA / DEREITA
+cacf0cc	INVERTER MIRADA ARRIBA / ABAIXO
+2d13b68	DISPOSICIÓN DOS BOTÓNS
+50c3f10	AUTO
+b471e5c	INTERCAMBIAR MENÚ / VISTA
+d9a59f1	SENSIBILIDADE DO STICK
+ec14343	Que rápido xira a vista o stick dereito.
+a79af23	INVERTER STICK ESQUERDA / DEREITA
+acfc66e	INVERTER STICK ARRIBA / ABAIXO
+56bb461	AXUDAS DO MANDO
+51cf49a	Amosa o que fai cada botón mentres xogas co mando.
+dff7431	VIBRAR EN
+34139ab	TELÉFONO
+15ee988	AMBOS
+465cc91	Auto: o mando se hai un conectado, se non, o teléfono.
+f6fed84	VIBRACIÓN DO TELÉFONO
+8e97fa7	INTENSIDADE NO TELÉFONO
+486ba2d	VIBRACIÓN DO MANDO
+8008889	INTENSIDADE NO MANDO
+ea9233e	AUTOMÁTICO ({0})
+167dda7	{0} abre a Configuración, {1} abre o Diario.
+29a4ef9	Non hai ningún mando conectado.
+558ecd2	Conectado: {0}. Amósanse os botóns {1} (o A da dereita confirma).
+d6eee9e	Conectado: {0}. Amósanse os botóns {1}.
+78525d5	O BAR
+099db9f	SORTE
+b4a8b06	As fichas, a sorte e a comida son obxectos virtuais só para entretemento: sen valor monetario, non cambiables por diñeiro nin premios.
+e2a28c9	Cada carta ten esa probabilidade de saír ao teu favor, en apostas de blackjack de ata {0} fichas (as apostas máis grandes son estándar e non gastan mans). Comeza despois da sorte do principiante; os paquetes máis fortes úsanse primeiro.
+04fbc6d	Permite o acceso á localización para obter o prezo do teu país
+2ae87fc	As compras non están dispoñibles nesta versión do xogo.
+8239a84	TENDA DE PROBA (sen diñeiro real)
+173d916	enerxía
+b2c67eb	+{0}% FICHAS
+58e8011	{0} mans
+ce80712	gaña arredor do {0}% delas
+c69e8ee	LUCKY ACE 7s
+fc99288	APOSTA TOTAL
+c1c00cd	TÁBOA DE PREMIOS
+3930abd	BOA SORTE!
+67b6973	Precisas polo menos 10 fichas para xirar.
+5aa1edb	COLLER FICHAS
+f5a1812	Aposta reducida ao que podes cubrir.
+5c63f61	MEGAPREMIO!
+652544f	GRAN PREMIO!
+91bc41c	DEVOLTO {0}
+3714283	SEN PREMIO
+33c0faa	LIÑA {0}: {1} × {2} = {3}
+9f59e6e	{0} ESTRELAS = {1}
+d6eee90	Cereixa
+4459b79	Limón
+09fb6aa	Laranxa
+cb92e50	Ameixa
+d419866	Campá
+e496fd2	Bar
+63abb56	Sete
+b3850e0	Diamante
+fc2b5a9	As
+85a7de6	Estrela
+c31b035	As ESTRELAS pagan en calquera lugar: 5 = {0}× a aposta, 4 = {1}× a aposta, 3 = {2}× a aposta.
+f97509c	O AS é comodín: substitúe calquera símbolo agás a estrela.
+3e8bc69	Os premios de liña son múltiplos da aposta por liña (aposta total ÷ 10), de esquerda a dereita desde o primeiro rolo.
+523f8dc	RETORNO: {0}% a longo prazo. Cada xiro é independente e aleatorio.
+e0c705d	Camiñar
+b8db515	Mirar
+503d46d	Botóns
+c7f73bb	Configuración
+728298d	Diario
+ab166bd	Axustar
+76cdb95	Mover
+8598222	Escoller
+bbfa773	Pechar
+b52b36b	Atrás
+ab37588	ESGOTADO
+9b11a09	SORTE DO PRINCIPIANTE {0}%
+0c94e98	QUEDAN {0} MANS
+51ed273	RACHA DE SORTE {0}%
+3401470	{0} MANS  •  APOSTAS ATA {1}
+f481cc6	NIVEL
+0139615	BENVIDOS
+daad514	FALA COA ANFITRIOA
+bcefb10	Indicacións e consellos
+c28e782	FICHAS  •  BONIFICACIÓNS
+0c69ec4	COMPRAR FICHAS
+78c0727	Caixa
+1737fab	CÓCTELES  •  PETISCOS  •  ENERXÍA
+9e008ae	COMIDA E BEBIDA
+f7881e8	O bar
+0e979ed	O BLACKJACK PAGA 3 A 2
+eea0d12	O CRUPIER DEBE PLANTARSE EN 17
+4db37bf	XOGAR AO BLACKJACK
+0ffdd99	Mesa {0}  •  apostas de {1} a {2}
+b4f938b	XOGAR ÁS TRAGAPERRAS
+6b7caea	FAGAN AS SÚAS APOSTAS
+26b1e39	XOGAR Á RULETA
+910a1ed	Roda europea  •  o pleno paga 35 a 1
+7ef0215	PIDE UNHA BEBIDA
+fe38d73	Tráecha {0}
+f7b6306	A {0} ábrese no nivel {1}. Estás no nivel {2}: conta cada rolda que xogas.
+d85f1ad	Esta mesa precisa polo menos {0} fichas.
+cbfe016	As mesas de blackjack están xusto diante. Achégate a unha e senta!
+64d9faf	A caixa está aquí mesmo á túa dereita, e o bar está ao longo da parede esquerda.
+e4c6e0b	Canso? Un petisco no bar énchete a enerxía axiña.
+d5ab68f	Toca en calquera lugar do chan e camiñarás ata alí. Toca unha mesa para sentar.
+cc21f74	PEQUENO
+dc01dec	GRANDE
+5fb90b0	CALQUERA TRÍO
+9c716f1	Mesa de hold'em
+3b6ab84	Xoga 8 mans de hold'em
+6c617ca	Gaña 4 mans de hold'em
+44ce500	Xoga 10 mans de bacará
+b90cff7	Gaña 5 mans de bacará
+3e4dfa9	Xoga 15 mans de vídeo póquer
+854fe20	Xoga 8 roldas de sic bo
+dfddac1	Gaña 4 roldas de sic bo
+2973ea7	Tira os dados 15 veces no craps
+737be17	Gaña 4 tiradas no craps
+4dbb81d	Fai cor ou mellor no vídeo póquer
+19aa07b	Escaleira real
+cf83e72	Escaleira de cor
+d27ba03	Póquer
+dbe8641	Full
+7c936d7	Cor
+2501c65	Escaleira
+ca1a0d4	Trío
+6876b40	Dobre parella
+2537f88	Parella
+b4b323e	Carta alta
+f70bfdc	Xotas ou mellor
+98fd5af	BACARÁ
+df66d5a	Dámosche a benvida ao bacará! Xogador, Banca ou Empate?
+5055efd	XOGADOR
+3f90696	EMPATE
+0d75f63	BANCA
+0ebd5a4	ÚLTIMOS RESULTADOS
+511993d	X
+ae4f281	B
+c2c53d6	E
+781246e	Escolle unha ficha e toca Xogador, Banca ou Empate
+11023a0	EMPATE  {0}
+503d5f1	GAÑA O XOGADOR  {0} A {1}
+0eb4be5	GAÑA A BANCA  {0} A {1}
+7859af1	CRAPS
+4083dbd	Dámosche a benvida ao craps! Aposta na liña de pase e tira.
+d266326	SEIS
+c506f3a	NOVE
+987f4e9	CAMPO
+71c1b2b	2 3 4 9 10 11 12  •  o 2 e o 12 pagan dobre
+d0ac294	CALQUERA 7
+9b2f0c3	CALQUERA CRAPS
+f62ac59	NON PASE
+6080ade	1:1  •  o 12 empata
+c07247a	LIÑA DE PASE
+6229f78	ODDS
+29bf819	pagamento real
+387d7a5	ON
+229c9cc	As odds van detrás da liña de pase cando hai punto.
+c2c8e82	As odds precisan unha aposta na liña de pase.
+1784d43	As túas odds están no máximo.
+fdc3442	As apostas de liña fanse na tirada de saída.
+97ce95b	NA MESA  {0}
+a895ec0	O punto é {0}: sácao outra vez antes dun 7. As odds detrás da túa liña pagan o real.
+d9f9d65	TIRAR
+bcf32ef	O punto é {0}.
+5b450b4	{0}! Punto feito. Gañas!
+9746e08	Sete fóra. Novo tirador, nova saída.
+4fc4664	{0}, natural! Gaña a liña de pase.
+203f466	{0}, craps. Perde a liña.
+0f8e260	Agarda a que paren os dados.
+6a98cfe	DEIXAR A MESA?
+8430088	A túa aposta de liña aínda xoga no punto {0}. Se te vas agora, pérdela.
+0e138d1	HOLD'EM
+5e023be	Dámosche a benvida ao hold'em! Pon o ante e vexamos cartas.
+0cd62f5	ANTE
+5e9f331	CEGA
+3b935ab	A CEGA PAGA
+20713a4	O crupier cualifica con parella ou mellor
+d37267c	PASAR
+9a4e316	RETIRARSE
+88313c4	APOSTAR {0}×
+42c6fea	Ante {0} + cega {0}. Garda {1} máis para a subida.
+1abb2f2	Toca fichas para fixar o ante. A cega é igual.
+f541cec	Pasas ou apostas tres ou catro veces o ante?
+fc74a79	Sube agora 4× ou 3× o ante, ou pasa e mira o flop.
+b687501	Última oportunidade: aposta 1× o ante ou retírate e perde ante e cega.
+400009c	Aposta agora 2× o ante, ou pasa e mira as dúas últimas cartas.
+f4abdf9	Aquí está o flop.
+0e51f2c	O turn e o river.
+cc856d3	Vexamos que teño.
+6ba1f3e	O crupier non cualifica: o ante vólvete.
+cf1fdc5	Retirácheste. A seguinte man é túa.
+177fab0	Ultimate Texas Hold'em
+c4917b9	Xogador, Banca ou Empate
+6e4fe7b	VÍDEO PÓQUER
+73cabd3	Jacks or Better
+91c4555	SIC BO
+d810061	Tres dados  •  grande ou pequeno
+85ab7ec	Liña de pase  •  Campo  •  Odds
+35d8db6	Dámosche a benvida ao sic bo! Grande, pequeno ou algo máis atrevido?
+3d05514	O límite da mesa é {0} por tirada.
+86ade94	AXITAR
+b69304e	TRÍO DE {0}!
+5d1bcc6	RETIDA
+36a21ba	Reparte, retén as cartas que queiras e cambia unha vez.
+99fa8e8	RETER
+249d1c0	PISTA
+7aab1bd	CAMBIAR
+5595eb4	Toca as cartas para retelas e logo cambia.
+1c05db9	XOGAR AO HOLD'EM
+e353e5f	Ultimate Texas Hold'em  •  ante de {0} a {1}
+6470369	XOGAR AO BACARÁ
+bbe0077	GRANDE  •  PEQUENO  •  TRÍOS
+3ba448f	XOGAR AO SIC BO
+097c59c	Tres dados  •  grande ou pequeno paga 1 a 1
+af2ca30	LIÑA DE PASE  •  CAMPO  •  ODDS
+f18398e	XOGAR AO CRAPS
+eeede6d	A liña de pase paga 1 a 1  •  as odds pagan o real
+34e5170	XOGAR AO VÍDEO PÓQUER
+f71bdfb	Jacks or Better  •  táboa completa 9/6
+4a6c087	JACKS OR BETTER  •  A ESCALEIRA REAL PAGA 800×
+370a133	As tragaperras están na parede dereita, o vídeo póquer na do fondo e a ruleta ao fondo.
+8298d28	O hold'em está no recanto do fondo á esquerda, pasado o bar.
+a2a111f	O bacará está xusto á esquerda ao entrar.
+b7193bc	O sic bo está no recanto pasada a caixa: tres dados, grande ou pequeno.
+25320c8	A mesa de craps está á dereita, diante das tragaperras. Aposta na liña de pase e tira!
+dc81691	Sofía
+4d9936f	Elena
+3aa0674	Mia
+b724114	Valentina
+34d3f7f	Chloe
+0fc9dd6	Isabel
+bbd3e35	Nadia
+eac677d	Aria
+baaf10f	Luna
+8641381	Camila
+eeee9b7	Aurora
+8a59f05	Bianca
+5a0fc29	Serena
+bf38aa5	Marco
+cfaf50a	Leo
+5815f22	Adrián
+cbede02	Lucas
+f0b9995	Víctor
+7b37259	Daniel
+aaac72d	Gabriel
+2f8f37e	Ethan
+a01126e	Xulián
+3e05c90	Rafael
+e1ae457	Mateo
+3398634	Nico
+7aa2d07	Enzo
+1920e2f	Tirada de saída: aposta na liña de pase e tira. 7 ou 11 gaña, 2, 3 ou 12 perde. As apostas place contan cando hai punto.
+99f4934	LUCKY ACE 7s  •  PAGA ATA 2.500× A TÚA APOSTA POR LIÑA

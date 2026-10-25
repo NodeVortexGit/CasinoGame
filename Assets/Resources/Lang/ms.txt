@@ -1,0 +1,1004 @@
+KECIL
+BESAR
+GANJIL
+GENAP
+MANA-MANA TRIPEL
+Segenggam Cip
+Setimbun Cip
+Sedulang Cip
+Serak Cip
+PALING POPULAR
+Peti Besi Cip
+Peti Besi High Roller
+NILAI TERBAIK
+Air Berkarbonat
+Espresso
+Minuman Tenaga
+Sandwic Kelab
+Set Burger
+Makan Malam Stik
+ISI PENUH
+Rentak Bertuah
+Rentak Panas
+PALING BERTUAH
+Meja Gangsa
+Meja Perak
+Meja Emas
+Meja Berlian
+Meja hold'em
+Sila masukkan tahun yang sah.
+Sila masukkan bulan yang sah (1-12).
+Sila masukkan hari yang sah.
+Tarikh itu pada masa hadapan.
+Selamat datang ke meja saya! Sedia untuk bermain?
+Gembira jumpa awak. Silakan duduk!
+Hai! Kad masih segar, saya pun sama.
+Selamat datang! Jom jadikan malam ini yang terbaik.
+Letakkan pertaruhan bila awak sudah sedia.
+Cip di atas meja, jom kita tengok kad.
+Kita bermain untuk apa?
+Wah, pertaruhan besar! Saya suka gaya awak.
+Barulah pertaruhan namanya. Jom!
+Berani malam ini, ya?
+Semua sekali?! Jantung saya berdebar!
+Semuanya pada satu tangan. Tanpa takut!
+Blackjack! Hebat sungguh!
+Dua puluh satu, begitu saja!
+Blackjack! Kad-kad sayang awak malam ini.
+Main dengan baik!
+Menang! Syabas.
+Awak sedang bernasib baik!
+Yang itu milik awak.
+Kemenangan yang hebat! Semua orang tengok meja ini!
+Besar sungguh! Awak sedang hangat malam ini!
+Hampir sangat! Yang seterusnya milik awak.
+Kali ini kasino yang bertuah.
+Lupakan saja, tangan baharu akan tiba.
+Aduh, terlebih satu kad.
+Bust! Orang terbaik pun kena.
+Seri. Tiada siapa kalah!
+Push. Cip awak selamat.
+Saya bust! Bertuahnya awak.
+Terlalu banyak untuk saya. Awak menang!
+Blackjack untuk kasino, maaf!
+Peniaga dapat blackjack. Nasib malang.
+Saya tunjuk Ace. Insurans?
+Pecah! Dua peluang untuk menang.
+Gandakan. Langkah berani!
+Gandakan! Satu kad akan datang.
+Kasut baharu, saya kocok!
+Semakin sedikit? Juruwang boleh tambah untuk awak.
+Cip semakin berkurang. Mahu ambil lagi?
+Cip habis! Pergi ke juruwang atau ambil cip percuma.
+Timbunan awak kosong. Juruwang ada betul-betul di belakang awak.
+Awak nampak sangat penat! Makan sesuatu di bar.
+Kehabisan tenaga? Bar akan bantu awak.
+Ambil masa awak.
+Bila-bila awak sedia!
+Malam masih muda.
+Tuah pemula berpihak kepada awak!
+Dek kad berpihak kepada awak malam ini!
+Tuah pemula sudah tamat. Mulai sekarang permainan adil!
+Selamat datang ke kasino! Tempat duduk awak sedang menunggu.
+Selamat malam! Meja-meja panas malam ini.
+Selamat kembali! Rasa bertuah?
+Ketik meja untuk mula bermain!
+Perlukan cip lagi? Awak datang ke kaunter yang betul.
+Timbunan lebih besar, bonus lebih besar!
+Lapar? Pilih apa saja dari menu.
+Makan sedikit mengekalkan tenaga awak!
+Selamat datang ke meja saya!
+Itu pun awak! Tempat ini terus terasa lebih ceria.
+Buat macam rumah sendiri. Malam ini semuanya tentang awak.
+Saya suka senyuman itu. Malam bertuah?
+Bertenang, awak di tangan yang baik di sini.
+Hai awak! Saya harap awak singgah di kaunter saya.
+Sentiasa seronok melihat wajah yang mesra.
+Tengok siapa yang datang! Seronok di sana?
+Hai, si kacak!
+Saya suka gaya awak malam ini.
+Hai, gembira jumpa awak lagi!
+Malam yang seronok? Awak layak mendapatnya.
+Hati-hati, nanti saya mula menyokong awak.
+Pemain kegemaran saya sudah kembali!
+Duduklah dengan saya, saya akan bahagikan sesuatu yang bagus.
+Awak buat meja ini jauh lebih seronok.
+Sudah mahu pergi? Malam masih muda!
+Ayuh, satu tangan lagi saja. Saya ada firasat baik!
+Jangan tinggalkan saya sekarang, kita baru bermula!
+Peluang terakhir! Tangan seterusnya mungkin yang besar...
+Baiklah, baiklah. Saya jaga tempat duduk awak supaya hangat. Janji akan kembali?
+Belum ada rentak? Main {2} pusingan hari ini dan saya mula mengira.
+Permulaan baharu! {2} pusingan dan api awak menyala.
+Saya simpan senarai kecil orang yang datang setiap hari. Awak belum ada di situ... belum lagi.
+Hari ke-{1} menanti awak. Tinggal {2} pusingan lagi!
+{0} hari berturut-turut... awak takkan berhenti sekarang, kan?
+Api awak nampak agak sejuk hari ini. {2} pusingan akan memanaskannya.
+Saya sudah kira: {0} hari. Jom jadikan {1}.
+Jangan ingat saya tak perasan. Tinggal {2} pusingan untuk kekalkan rentak awak!
+{0} hari berturut-turut? Nampaknya awak suka di sini.
+Rentak awak selamat untuk hari ini. Sekarang awak cuma menunjuk-nunjuk.
+Hari ke-{0}, selesai. Esok waktu yang sama?
+{0} hari! Saya patut simpan tempat duduk untuk awak.
+Itu dia: hari pertama rentak awak! Datang lagi esok, kita jadikan dua.
+Seminggu penuh berturut-turut! Saya benar-benar kagum.
+Tiga puluh hari! Awak hampir macam bekerja di sini.
+Seratus hari. Saya cerita tentang awak kepada semua orang.
+Sudah {0} hari berturut-turut! Tengoklah awak.
+Rentak diselamatkan: hari ke-{0}! Saya tahu awak boleh.
+Hari ke-{0}! Saya bertaruh awak tak sampai {1}.
+{0} hari... baiklah, si penunjuk-nunjuk.
+Main 10 tangan blackjack
+Menang 5 tangan blackjack
+Dapatkan blackjack
+Menang 500 cip dalam blackjack
+Putar mesin slot 20 kali
+Menang 5 putaran slot
+Menang 5× pertaruhan di mesin slot
+Main 5 pusingan rolet
+Menang 3 putaran rolet
+Kena satu nombor terus
+Main 8 tangan hold'em
+Menangi 4 tangan hold'em
+Main 10 tangan bakarat
+Menangi 5 tangan bakarat
+Main 15 tangan video poker
+Main 8 pusingan sic bo
+Menangi 4 pusingan sic bo
+Baling dadu 15 kali di craps
+Menangi 4 balingan di craps
+Dapatkan flush atau lebih baik di video poker
+Royal flush
+Straight flush
+Four of a kind
+Full house
+Flush
+Straight
+Three of a kind
+Dua pasang
+Sepasang
+Kad tertinggi
+lokasi GPS
+rangkaian mudah alih
+sambungan internet
+tetapan peranti
+negara ujian
+belum disahkan (harga standard)
+tidak diketahui
+12 pertama
+12 kedua
+12 ketiga
+2 kepada 1
+MERAH
+HITAM
+Jack atau lebih baik
+HARGA ADIL UNTUK NEGARA AWAK
+Harga kedai diselaraskan dengan ekonomi negara awak, supaya pemain di mana-mana membayar harga yang adil.
+Untuk mengenal pasti negara awak, kami semak anggaran lokasi awak sekali sahaja. Ia dipadankan dengan negara pada peranti awak dan tidak dihantar ke mana-mana. Jika awak menolak, harga standard digunakan.
+TERUSKAN
+Tinggalkan kasino?
+Cip dan kemajuan awak telah disimpan.
+KELUAR
+KEKAL
+{0} dibuka
+Pembeku rentak menyelamatkan rentak {0} hari awak semalam.
+{0} pembeku rentak menyelamatkan rentak {1} hari awak.
+Rentak {0} hari awak telah tamat. Main {1} pusingan hari ini untuk mulakan yang baharu!
+MISI SELESAI
++{0} cip
+SEMUA MISI SELESAI!
+Bonus harian +{0} cip. Misi baharu esok.
+TAHAP {0}!
+Pencapaian! +{0} cip
+Datang lagi esok untuk teruskan
++1 pembeku rentak
+RENTAK {0} HARI!
+Pembelian tidak tersedia dalam versi ini.
+Pembelian gagal. Awak tidak dicaj.
++{0} cip ditambah!
+{0}: {1} tangan dengan {2}% tuah, selepas Tuah Pemula
+{0}: {1} tangan dengan {2}% tuah!
+{0}: +{1}% tenaga
+Tidak tersedia pada peranti ini
+Video tidak boleh dimuatkan pada rangkaian ini
+Datang lagi esok
+Sedia dalam {0}s
++{0} cip ({1} lagi hari ini)
++{0} cip percuma!
++1 pembeku rentak!
+Tiada video buat masa ini. Cuba lagi sebentar nanti.
+GANGSA
+PERAK
+EMAS
+BERLIAN
+Menu
+Paparan
+Silang
+Bulatan
+Segi Empat
+Segi Tiga
+Menyemak wilayah awak...
+Belum disahkan ({0}): harga standard
+{0} ({1}): harga dalam {2}
+Peringatan
+Cip percuma sedia dan peringatan rentak
+Cip percuma awak sudah sedia
+{0} cip sedang menunggu awak di Lucky Ace.
+Kekalkan rentak {0} hari awak
+Main {0} pusingan hari ini supaya ia tidak ditetapkan semula pada tengah malam.
+BAKARAT
+Selamat datang ke bakarat! Pemain, Bankir atau Seri?
+PEMAIN
+SERI
+BANKIR
+KEPUTUSAN TERKINI
+P
+B
+S
+BUAT ASAL
+KOSONGKAN
+ULANG
+AGIH
+Cip tidak mencukupi untuk pertaruhan itu.
+Had maksimum meja dicapai
+JUMLAH PERTARUHAN  {0}
+Pilih cip, kemudian ketik Pemain, Bankir atau Seri
+SERI  {0}
+PEMAIN MENANG  {0} LAWAN {1}
+BANKIR MENANG  {0} LAWAN {1}
+MENANG  +{0}
+DIPULANGKAN  {0}
+Tiada kemenangan kali ini
+Habiskan tangan ini dahulu.
+Selamat datang! Tuah pemula berpihak kepada awak malam ini. Buat pertaruhan!
+BLACKJACK MEMBAYAR 3 KEPADA 2   •   PENIAGA BERHENTI PADA SEMUA 17   •   INSURANS MEMBAYAR 2 KEPADA 1
+PERTARUHAN
+HIT
+STAND
+GANDA
+PECAH
+INSURANS
+TIDAK, TERIMA KASIH
+PERTARUHAN {0}+
+Cip tidak mencukupi
+Peniaga menunjukkan Ace. Insurans untuk {0}?
+Insurans membayar {0}
+Peniaga tiada blackjack. Insurans hilang.
+BUST
+PENIAGA BUST
+BLACKJACK!
+MENANG
+SERI
+KALAH
+Tuah pemula sudah tamat. Rentak Bertuah awak bermula sekarang.
+Tuah pemula sudah tamat. Mulai sekarang blackjack standard.
+Rentak Bertuah awak sudah tamat. Kembali kepada blackjack standard.
+CIP HABIS
+Tonton video pendek untuk {0} cip percuma, atau pergi ke juruwang.
+Pergi ke juruwang untuk menambah cip awak.
+CIP PERCUMA
+JURUWANG
+NANTI
+“{0}”
+SATU TANGAN LAGI
+PERGI
+TUAH PEMULA
+RENTAK BERTUAH
+Bonus selamat datang untuk pemain baharu: bagi <b>{0} tangan</b> pertama awak, kasut peniaga disusun memihak kepada awak, jadi awak akan menang hampir setiap tangan.
+Sepanjang <b>{0} tangan</b> seterusnya kelebihan itu beransur hilang, dan selepas itu setiap meja ialah blackjack standard yang adil dari kasut 6 dek yang dikocok (blackjack membayar 3 kepada 2, peniaga berhenti pada semua 17).
+Kelebihan sekarang: <b><color=#7CFC9A>{0}%</color></b>   Baki tangan: <b>{1}</b>
+Untuk <b>{0} tangan blackjack</b> seterusnya dengan pertaruhan sehingga <b>{1} cip</b>, setiap kad mempunyai peluang <b>{2}%</b> diagihkan memihak kepada awak (kelebihan yang sama seperti Tuah Pemula).
+Dengan permainan yang baik, itu menang kira-kira <b>{0}%</b> tangan, berbanding kira-kira {1}% dalam blackjack standard. Pertaruhan lebih besar ialah blackjack standard dan tidak menggunakan tangan. Apabila tangan habis, setiap meja kembali menjadi blackjack standard yang adil.
+FAHAM
+MAHU TUAH AWAK KEMBALI?
+Tuah Pemula sudah tamat: mulai sekarang setiap meja ialah blackjack standard yang adil. Rentak Bertuah mengembalikan kelebihan itu buat seketika.
+CRAPS
+Selamat datang ke craps! Bertaruh pada Pass Line dan baling.
+ENAM
+SEMBILAN
+FIELD
+2 3 4 9 10 11 12  •  2 dan 12 bayar dua kali ganda
+MANA-MANA 7
+MANA-MANA CRAPS
+DON'T PASS BAR
+1:1  •  12 seri
+PASS LINE
+ODDS
+peluang sebenar
+MATI
+ON
+Odds diletakkan di belakang Pass Line apabila ada mata.
+Odds memerlukan pertaruhan pada Pass Line.
+Odds anda sudah maksimum.
+Pertaruhan garisan dibuat pada balingan pembuka.
+DI MEJA  {0}
+Balingan come-out: bertaruh pada Pass Line, kemudian baling. 7 atau 11 menang, 2, 3 atau 12 kalah. Pertaruhan Place mula berfungsi apabila ada mata.
+Mata ialah {0}: baling semula sebelum 7. Odds di belakang Pass Line membayar peluang sebenar.
+BALING
+Mata ialah {0}.
+{0}! Mata tercapai. Menang!
+Tujuh keluar. Pembaling baharu, balingan pembuka baharu.
+{0}, natural! Pass Line menang.
+{0}, craps. Garisan kalah.
+Tunggu sehingga dadu berhenti.
+TINGGALKAN MEJA?
+Pertaruhan garisan anda masih berjalan pada mata {0}. Jika pergi sekarang, ia hilang.
+HARIAN
+RENTAK HARIAN
+HARI BERTURUT-TURUT
+HARI INI
+TONTON IKLAN
+BELI
+PEMBEKU RENTAK
+Pembeku rentak mengekalkan rentak awak pada hari awak tidak bermain. Awak boleh simpan sehingga {0}.\n\nBeli satu untuk {1} cip?
+Pembeku rentak sedia.
+Cip tidak mencukupi untuk pembeku.
+BATAL
+PUTARAN HARIAN
+PUTAR
+Peluang:
+{0}%
+Awak menang {0} cip!
+MISI HARI INI
+Terbaik: {0} hari
+Main setiap hari untuk membina rentak
+Sasaran hari ini tercapai! Jumpa esok.
+Hari ini: {0} / {1} pusingan (mana-mana permainan)
+Pembeku rentak: {0} / {1}
+Selamatkan rentak awak pada hari yang terlepas. +1 setiap 7 hari.
+PENUH
+TIADA VIDEO
+IKLAN TIDAK LAMA LAGI
+Bonus rentak: hadiah ×{0}
+Satu putaran percuma setiap hari
+SETERUSNYA  {0}
+Semua selesai! Bonus dituntut.
+Misi baharu pada tengah malam.
+Selesaikan ketiga-tiganya: +{0} cip bonus
+HOLD'EM
+Selamat datang ke hold'em! Letakkan ante dan mari lihat kad.
+ANTE
+BLIND
+MAIN
+BLIND MEMBAYAR
+Peniaga layak dengan sepasang atau lebih baik
+CHECK
+FOLD
+TARUH {0}×
+Ante {0} + blind {0}. Simpan {1} lagi untuk raise.
+Ketik cip untuk menetapkan ante. Blind sama nilainya.
+Check, atau bertaruh tiga atau empat kali ante?
+Raise sekarang 4× atau 3× ante, atau check dan lihat flop.
+Peluang terakhir: taruh 1× ante, atau fold dan hilang ante serta blind.
+Taruh 2× ante sekarang, atau check dan lihat dua kad terakhir.
+Inilah flop.
+Turn dan river.
+Mari lihat apa yang saya ada.
+Peniaga tidak layak: ante anda dipulangkan.
+Fold. Tangan seterusnya milik anda.
+PERMAINAN
+Seret sebelah kiri untuk berjalan  •  Seret sebelah kanan untuk melihat  •  Ketik untuk pergi
+18+ sahaja  •  Cip untuk hiburan: tiada nilai wang, tidak boleh ditukar dengan wang atau hadiah
+Membuka pintu...
+Selamat datang! {0} cip alu-aluan awak sudah sedia. Meja ada di hadapan!
++{0} cip percuma! Lagi dalam {1} jam.
+Cip percuma diisi semula setiap {0} jam. Seterusnya dalam {1}.
+{0}j {1}m
+{0}m {1}s
+KEKALKAN RENTAK AWAK
+Mahu peringatan pada waktu malam yang awak belum bermain, dan apabila cip percuma awak sedia? Tidak lebih daripada itu, dan awak boleh matikannya dalam Tetapan.
+INGATKAN SAYA
++{0} cip sedia!
+Tonton video: {0}
+Cip percuma seterusnya dalam {0}
+BLACKJACK
+4 meja  •  membayar 3 kepada 2
+Ultimate Texas Hold'em
+Pemain, Bankir atau Seri
+SLOT
+Lucky Ace 7s  •  10 garisan
+VIDEO POKER
+Jacks or Better
+SIC BO
+Tiga dadu  •  besar atau kecil
+Pass Line  •  Field  •  Odds
+ROLET
+Eropah satu sifar
+AWAK KEPENATAN
+Bar tenaga awak kosong. Ambil sesuatu dari bar untuk terus bermain, atau datang semula nanti: tenaga pulih perlahan-lahan semasa awak tiada.
+PERGI KE BAR
+PILIH MEJA AWAK
+PERTARUHAN
+TAHAP {0}
+DUDUK
+PERLU {0}
+Capai tahap {0} untuk bermain di sini. Awak di tahap {1}.
+KASINO
+HH
+BB
+TTTT
+HARI
+BULAN
+TAHUN
+BILA AWAK DILAHIRKAN?
+Cip untuk hiburan sahaja. Ia tiada nilai wang dan tidak boleh ditukar dengan wang atau hadiah.
+MAAF, AWAK TIDAK BOLEH BERMAIN
+{0} hanya tersedia untuk orang dewasa.
+KELUAR
+Ditutup dalam {0}...
+CERITAKAN TENTANG AWAK
+Kami akan memilih hos, peniaga dan kakitangan bar yang sepadan. Awak boleh menukarnya bila-bila masa dalam Tetapan.
+SAYA LELAKI
+SAYA PEREMPUAN
+LEBIH SUKA TIDAK MENYATAKAN
+MASUK KE KASINO
+Kakitangan awak malam ini:
+Halaman {0} daripada {1}
+BAHASA
+AUTOMATIK
+NEGARA
+Selamat datang! Sila buat pertaruhan.
+Had meja ialah {0} setiap putaran.
+Ketik papan untuk meletakkan cip
+Pertaruhan ditutup!
+HIJAU
+hijau
+merah
+hitam
+Tepat sekali! Tahniah!
+Menang! Awak menang {0}.
+{0} {1}. {2} kembali kepada awak.
+Sila buat pertaruhan.
+Tunggu sehingga bola berhenti.
+TETAPAN
+UMUM
+GRAFIK
+BUNYI
+SENTUHAN
+TETIKUS
+PENGAWAL
+GETARAN
+18+ • Cip tiada nilai wang • Fon: Bebas Neue, Poppins, Noto (SIL OFL) • Sempadan: Natural Earth • Data harga: Bank Dunia
+KAKITANGAN KASINO
+WANITA
+LELAKI
+CAMPURAN
+PERINGATAN
+Cip percuma sedia, dan peringatan pada waktu malam sebelum rentak tamat.
+SEMAK SEMULA
+WILAYAH HARGA
+Terpantas: kasino seperti dilukis, tiada tambahan.
+Lantai berkilat, kayu dan emas memantulkan bilik.
+Rupa filem: warna bergred, bijian, cahaya, pancaran cahaya, kulit yang hidup.
+Kanta sinema: fokus mengikut pandangan awak, jalur pada lampu, debu dalam pancaran.
+KUALITI
+RENDAH
+SEDERHANA
+TINGGI
+ULTRA
+RESOLUSI
+Lebih rendah lebih lembut, tetapi lebih sejuk dan menjimatkan bateri.
+MOD PAPARAN
+SKRIN PENUH
+TETINGKAP
+ANTI-ALIAS
+Melicinkan tepi bergerigi di kasino.
+KADAR BINGKAI
+{0} FPS
+30 FPS menjimatkan bateri dan memastikan telefon lama sejuk.
+V-SYNC
+BIDANG PANDANGAN
+TUNJUK FPS
+KELANTANGAN UTAMA
+MUZIK
+KESAN BUNYI
+SUARA KAKITANGAN
+Bisikan kakitangan semasa mereka bercakap.
+SENYAP DI LATAR BELAKANG
+Senyapkan kasino semasa awak di tetingkap lain.
+KEPEKAAN PANDANGAN
+Berapa laju seretan memusingkan paparan.
+Berapa laju seretan tetikus memusingkan paparan.
+TERBALIKKAN PANDANGAN KIRI / KANAN
+TERBALIKKAN PANDANGAN ATAS / BAWAH
+SUSUN ATUR BUTANG
+AUTO
+TUKAR MENU / PAPARAN
+KEPEKAAN KAYU BEDIK
+Berapa laju kayu bedik kanan memusingkan paparan.
+TERBALIKKAN KAYU BEDIK KIRI / KANAN
+TERBALIKKAN KAYU BEDIK ATAS / BAWAH
+PETUNJUK PENGAWAL
+Menunjukkan fungsi setiap butang semasa awak bermain dengan pengawal.
+GETAR PADA
+TELEFON
+KEDUA-DUANYA
+Auto: pengawal semasa disambungkan, jika tidak telefon.
+GETARAN TELEFON
+KEKUATAN TELEFON
+GETARAN PENGAWAL
+KEKUATAN PENGAWAL
+AUTOMATIK ({0})
+{0} membuka Tetapan, {1} membuka Harian.
+Tiada pengawal disambungkan.
+Disambungkan: {0}. Menunjukkan butang {1} (A di kanan mengesahkan).
+Disambungkan: {0}. Menunjukkan butang {1}.
+BAR
+TUAH
+Cip, tuah dan makanan ialah item maya untuk hiburan sahaja: tiada nilai wang, tidak boleh ditebus dengan wang atau hadiah.
+Setiap kad mempunyai peluang itu untuk diagihkan memihak kepada awak, pada pertaruhan blackjack sehingga {0} cip (pertaruhan lebih besar ialah standard dan tidak menggunakan tangan). Bermula selepas Tuah Pemula; pek yang lebih kuat digunakan dahulu.
+Benarkan akses lokasi untuk mendapatkan harga negara awak
+Pembelian tidak tersedia dalam versi permainan ini.
+KEDAI UJIAN (bukan wang sebenar)
+tenaga
++{0}% CIP
+{0} tangan
+menang kira-kira {0}% daripadanya
+Selamat datang ke sic bo! Besar, kecil atau sesuatu yang lebih berani?
+Had meja ialah {0} setiap balingan.
+GONCANG
+TRIPEL {0}!
+LUCKY ACE 7s
+JUMLAH PERTARUHAN
+JADUAL BAYARAN
+SEMOGA BERJAYA!
+Awak perlukan sekurang-kurangnya 10 cip untuk memutar.
+DAPATKAN CIP
+Pertaruhan dikurangkan kepada jumlah yang awak mampu.
+KEMENANGAN MEGA!
+KEMENANGAN BESAR!
+DIPULANGKAN {0}
+TIADA KEMENANGAN
+GARISAN {0}: {1} × {2} = {3}
+{0} BINTANG = {1}
+Ceri
+Lemon
+Oren
+Plum
+Loceng
+Bar
+Tujuh
+Berlian
+Ace
+Bintang
+BINTANG membayar di mana-mana: 5 = {0}× pertaruhan, 4 = {1}× pertaruhan, 3 = {2}× pertaruhan.
+ACE ialah wild: ia menggantikan setiap simbol kecuali bintang.
+Bayaran garisan ialah gandaan pertaruhan garisan (jumlah pertaruhan ÷ 10), dari kiri ke kanan bermula gelendong pertama.
+PULANGAN: {0}% dalam jangka panjang. Setiap putaran adalah bebas dan rawak.
+DISIMPAN
+Agih, simpan kad yang anda mahu, tukar sekali.
+SIMPAN
+PETUNJUK
+TUKAR
+Ketik kad untuk menyimpannya, kemudian tukar.
+Jalan
+Lihat
+Butang
+Tetapan
+Harian
+Laras
+Gerak
+Pilih
+Tutup
+Kembali
+KEPENATAN
+TUAH PEMULA {0}%
+BAKI {0} TANGAN
+RENTAK BERTUAH {0}%
+{0} TANGAN  •  PERTARUHAN SEHINGGA {1}
+TAHAP
+Sofia
+Elena
+Mia
+Valentina
+Chloe
+Isabella
+Nadia
+Aria
+Luna
+Camila
+Aurora
+Bianca
+Serena
+Marco
+Leo
+Adrian
+Lucas
+Viktor
+Daniel
+Gabriel
+Ethan
+Julian
+Rafael
+Mateo
+Nico
+Enzo
+SELAMAT DATANG
+BERCAKAP DENGAN HOS
+Arah dan petua
+CIP  •  BONUS
+BELI CIP
+Juruwang
+KOKTEL  •  SNEK  •  TENAGA
+MAKANAN & MINUMAN
+Bar
+BLACKJACK MEMBAYAR 3 KEPADA 2
+PENIAGA MESTI BERHENTI PADA 17
+MAIN BLACKJACK
+Meja {0}  •  pertaruhan {1} hingga {2}
+MAIN HOLD'EM
+Ultimate Texas Hold'em  •  ante {0} hingga {1}
+MAIN BAKARAT
+BESAR  •  KECIL  •  TRIPEL
+MAIN SIC BO
+Tiga dadu  •  besar atau kecil bayar 1 kepada 1
+PASS LINE  •  FIELD  •  ODDS
+MAIN CRAPS
+Pass Line bayar 1 kepada 1  •  odds bayar peluang sebenar
+MAIN VIDEO POKER
+MAIN SLOT
+Jacks or Better  •  jadual penuh 9/6
+LUCKY ACE 7s  •  MEMBAYAR SEHINGGA 2,500× TARUHAN BARIS ANDA
+JACKS OR BETTER  •  ROYAL FLUSH BAYAR 800×
+SILA BUAT PERTARUHAN
+MAIN ROLET
+Roda Eropah  •  nombor terus membayar 35 kepada 1
+PESAN MINUMAN
+{0} akan membawanya
+{0} dibuka pada tahap {1}. Awak di tahap {2}: setiap pusingan yang awak main dikira.
+Meja ini memerlukan sekurang-kurangnya {0} cip.
+Meja blackjack ada di hadapan. Pergi ke salah satu dan duduk!
+Mesin slot di dinding kanan, video poker di dinding belakang, dan rolet di bahagian paling belakang.
+Hold'em di sudut kiri belakang, selepas bar.
+Bakarat terletak terus di kiri sebaik anda masuk.
+Sic bo di sudut selepas juruwang: tiga dadu, besar atau kecil.
+Meja craps di sebelah kanan, di hadapan mesin slot. Bertaruh pada Pass Line dan baling!
+Juruwang ada di sini di sebelah kanan awak, dan bar di sepanjang dinding kiri.
+Penat? Snek di bar terus mengisi tenaga awak.
+Ketik di mana-mana di lantai dan awak akan berjalan ke sana. Ketik meja untuk duduk.
+Andorra
+Emiriah Arab Bersatu
+Afghanistan
+Antigua dan Barbuda
+Anguilla
+Albania
+Armenia
+Angola
+Antartika
+Argentina
+Samoa Amerika
+Austria
+Australia
+Aruba
+Kepulauan Aland
+Azerbaijan
+Bosnia dan Herzegovina
+Barbados
+Bangladesh
+Belgium
+Burkina Faso
+Bulgaria
+Bahrain
+Burundi
+Benin
+St. Barthelemy
+Bermuda
+Brunei
+Bolivia
+Belanda Caribbean
+Brazil
+Bahamas
+Bhutan
+Pulau Bouvet
+Botswana
+Belarus
+Belize
+Kanada
+Kepulauan Cocos (Keeling)
+Congo - Kinshasa
+Republik Afrika Tengah
+Congo - Brazzaville
+Switzerland
+Cote d’Ivoire
+Kepulauan Cook
+Chile
+Cameroon
+China
+Colombia
+Costa Rica
+Cuba
+Cape Verde
+Curacao
+Pulau Krismas
+Cyprus
+Czechia
+Jerman
+Djibouti
+Denmark
+Dominica
+Republik Dominica
+Algeria
+Ecuador
+Estonia
+Mesir
+Sahara Barat
+Eritrea
+Sepanyol
+Ethiopia
+Finland
+Fiji
+Kepulauan Falkland
+Micronesia
+Kepulauan Faroe
+Perancis
+Gabon
+United Kingdom
+Grenada
+Georgia
+Guiana Perancis
+Guernsey
+Ghana
+Gibraltar
+Greenland
+Gambia
+Guinea
+Guadeloupe
+Guinea Khatulistiwa
+Greece
+Kepulauan Georgia Selatan & Sandwich Selatan
+Guatemala
+Guam
+Guinea Bissau
+Guyana
+Hong Kong SAR China
+Kepulauan Heard & McDonald
+Honduras
+Croatia
+Haiti
+Hungary
+Indonesia
+Ireland
+Israel
+Isle of Man
+India
+Wilayah Lautan Hindi British
+Iraq
+Iran
+Iceland
+Itali
+Jersey
+Jamaica
+Jordan
+Jepun
+Kenya
+Kyrgyzstan
+Kemboja
+Kiribati
+Comoros
+Saint Kitts dan Nevis
+Korea Utara
+Korea Selatan
+Kuwait
+Kepulauan Cayman
+Kazakhstan
+Laos
+Lubnan
+Saint Lucia
+Liechtenstein
+Sri Lanka
+Liberia
+Lesotho
+Lithuania
+Luxembourg
+Latvia
+Libya
+Maghribi
+Monaco
+Moldova
+Montenegro
+Saint Martin
+Madagaskar
+Kepulauan Marshall
+Macedonia Utara
+Mali
+Myanmar (Burma)
+Mongolia
+Macau SAR China
+Kepulauan Mariana Utara
+Martinique
+Mauritania
+Montserrat
+Malta
+Mauritius
+Maldives
+Malawi
+Mexico
+Malaysia
+Mozambique
+Namibia
+New Caledonia
+Niger
+Pulau Norfolk
+Nigeria
+Nicaragua
+Belanda
+Norway
+Nepal
+Nauru
+Niue
+New Zealand
+Oman
+Panama
+Peru
+Polinesia Perancis
+Papua New Guinea
+Filipina
+Pakistan
+Poland
+Saint Pierre dan Miquelon
+Kepulauan Pitcairn
+Puerto Rico
+Wilayah Palestin
+Portugal
+Palau
+Paraguay
+Qatar
+Reunion
+Romania
+Serbia
+Rusia
+Rwanda
+Arab Saudi
+Kepulauan Solomon
+Seychelles
+Sudan
+Sweden
+Singapura
+Saint Helena
+Slovenia
+Svalbard dan Jan Mayen
+Slovakia
+Sierra Leone
+San Marino
+Senegal
+Somalia
+Surinam
+Sudan Selatan
+Sao Tome dan Principe
+El Salvador
+Sint Maarten
+Syria
+Eswatini
+Kepulauan Turks dan Caicos
+Chad
+Wilayah Selatan Perancis
+Togo
+Thailand
+Tajikistan
+Tokelau
+Timor-Leste
+Turkmenistan
+Tunisia
+Tonga
+Turkiye
+Trinidad dan Tobago
+Tuvalu
+Taiwan
+Tanzania
+Ukraine
+Uganda
+Kepulauan Terpencil A.S.
+Amerika Syarikat
+Uruguay
+Uzbekistan
+Kota Vatican
+Saint Vincent dan Grenadines
+Venezuela
+Kepulauan Virgin British
+Kepulauan Virgin A.S.
+Vietnam
+Vanuatu
+Wallis dan Futuna
+Samoa
+Kosovo
+Yaman
+Mayotte
+Afrika Selatan
+Zambia
+Zimbabwe
+Inggeris
+Afrikaans
+Amharic
+Arab
+Azerbaijan
+Belarus
+Bulgaria
+Benggali
+Bosnia
+Catalonia
+Czech
+Denmark
+Jerman
+Greek
+Sepanyol
+Estonia
+Basque
+Parsi
+Finland
+Filipina
+Perancis
+Ireland
+Galicia
+Gujarat
+Hausa
+Ibrani
+Hindi
+Croatia
+Perancis (Haiti)
+Hungary
+Armenia
+Indonesia
+Igbo
+Iceland
+Itali
+Jepun
+Georgia
+Kazakhstan
+Khmer
+Kannada
+Korea
+Kirghiz
+Luxembourg
+Laos
+Lithuania
+Latvia
+Malagasy
+Macedonia
+Malayalam
+Mongolia
+Marathi
+Melayu
+Malta
+Burma
+Bokmal Norway
+Nepal
+Belanda
+Punjabi
+Poland
+Pashto
+Portugis (Brazil)
+Portugis (Portugal)
+Romansh
+Romania
+Rusia
+Kinyarwanda
+Sinhala
+Slovak
+Slovenia
+Somali
+Albania
+Serbia
+Sweden
+Swahili
+Tamil
+Telugu
+Tajik
+Thai
+Turkmen
+Turki
+Ukraine
+Urdu
+Uzbekistan
+Vietnam
+Xhosa
+Yoruba
+Cina (Ringkas)
+Cina (Tradisional)
+Zulu
+Ahd
+Isn
+Sel
+Rab
+Kha
+Jum
+Sab

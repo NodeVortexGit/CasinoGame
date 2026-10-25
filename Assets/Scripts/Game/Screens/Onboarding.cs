@@ -15,10 +15,11 @@ namespace Casino.Screens
             var holder = UIKit.NewRect("Logo", parent).Center(0, y, 900 * scale, 220 * scale);
             Marquee.Create(holder, new Vector2(860 * scale, 200 * scale), 44f * scale);
             var title = UIKit.Label(holder, GameConfig.CasinoName, (int)(130 * scale), Palette.Gold, TextAnchor.MiddleCenter, FontKind.Display);
+            title.font = Fonts.Brand;   // the name is a logo: the same lettering in every language
             ((RectTransform)title.transform).Center(0, 18 * scale, 860 * scale, 150 * scale);
             UIKit.TextOutline(title, Palette.Hex("6B2A00"), 3f * scale);
             UIKit.TextShadow(title, -7f * scale, 0.8f);
-            var sub = UIKit.Label(holder, "•  " + GameConfig.CasinoSubtitle + "  •", (int)(44 * scale), Palette.Pink, TextAnchor.MiddleCenter, FontKind.Display);
+            var sub = UIKit.Label(holder, "•  " + Loc.T("CASINO") + "  •", (int)(44 * scale), Palette.Pink, TextAnchor.MiddleCenter, FontKind.Display);
             ((RectTransform)sub.transform).Center(0, -58 * scale, 600 * scale, 60 * scale);
         }
     }
@@ -29,8 +30,8 @@ namespace Casino.Screens
     /// </summary>
     public sealed class AgeGateScreen : UIScreen
     {
-        static readonly string[] Placeholders = { "DD", "MM", "YYYY" };
-        static readonly string[] Captions = { "DAY", "MONTH", "YEAR" };
+        static readonly string[] Placeholders = { Loc.N("DD"), Loc.N("MM"), Loc.N("YYYY") };
+        static readonly string[] Captions = { Loc.N("DAY"), Loc.N("MONTH"), Loc.N("YEAR") };
         static readonly int[] MaxDigits = { 2, 2, 4 };
 
         readonly string[] values = { "", "", "" };
@@ -47,10 +48,17 @@ namespace Casino.Screens
             var left = UIKit.NewRect("Left", Content).Center(-400, 0, 1000, 1080);
             Logo.Create(left, 330, 0.85f);
 
+            // The first screen: the language can be changed right here, named in its own language.
+            var language = UIKit.Button(Content, Loc.Current.NativeName, ButtonStyle.Dark, () => App.I.UI.Modal<LanguagePickerModal>(), 30,
+                Icon.Globe, FontKind.Semi);
+            language.LabelText.font = Fonts.LanguageNames;
+            if (language.LabelText is LocText native) native.KeepOrder = true;
+            language.Rect.At(1f, 1f, -36, -30, 380, 80, 1f, 1f);
+
             var panel = UIKit.Panel(left, "Panel", Palette.Panel, 36f, true);
             var prt = ((RectTransform)panel.transform).Center(0, -110, 980, 560);
             UIKit.Outline(prt, Palette.WithAlpha(Palette.Gold, 0.55f), 36f);
-            var title = UIKit.Label(prt, "WHEN WERE YOU BORN?", 60, Color.white, TextAnchor.MiddleCenter, FontKind.Display);
+            var title = UIKit.Label(prt, Loc.T("WHEN WERE YOU BORN?"), 60, Color.white, TextAnchor.MiddleCenter, FontKind.Display);
             ((RectTransform)title.transform).At(0.5f, 1f, 0, -66, 900, 80);
 
             DateBox(prt, 0, -260, 200);
@@ -60,12 +68,12 @@ namespace Casino.Screens
             error = UIKit.Label(prt, "", 30, Palette.Red, TextAnchor.MiddleCenter, FontKind.Semi);
             ((RectTransform)error.transform).Center(0, -72, 900, 50);
 
-            var go = UIKit.Button(prt, "CONTINUE", ButtonStyle.Gold, Submit, 52);
+            var go = UIKit.Button(prt, Loc.T("CONTINUE"), ButtonStyle.Gold, Submit, 52);
             go.Rect.At(0.5f, 0f, 0, 88, 460, 110);
 
             BuildKeypad(UIKit.NewRect("Keypad", Content).Center(540, -60, 600, 700));
 
-            var foot = UIKit.Label(Content, "Chips are for entertainment only. They have no cash value and can never be exchanged for money or prizes.",
+            var foot = UIKit.Label(Content, Loc.T("Chips are for entertainment only. They have no cash value and can never be exchanged for money or prizes."),
                 26, Palette.TextMuted, TextAnchor.MiddleCenter);
             ((RectTransform)foot.transform).At(0.5f, 0f, 0, 40, 1600, 60);
 
@@ -74,7 +82,7 @@ namespace Casino.Screens
 
         void DateBox(RectTransform parent, int index, float x, float width)
         {
-            var caption = UIKit.Label(parent, Captions[index], 26, Palette.TextMuted, TextAnchor.MiddleCenter, FontKind.Semi);
+            var caption = UIKit.Label(parent, Loc.T(Captions[index]), 26, Palette.TextMuted, TextAnchor.MiddleCenter, FontKind.Semi);
             ((RectTransform)caption.transform).Center(x, 140, width, 40);
 
             var bg = UIKit.Panel(parent, "Field " + Placeholders[index], Palette.Hex("FFF9EE"), 22f, true);
@@ -142,7 +150,7 @@ namespace Casino.Screens
             for (int i = 0; i < 3; i++)
             {
                 bool empty = values[i].Length == 0;
-                texts[i].text = empty ? Placeholders[i] : values[i];
+                texts[i].text = empty ? Loc.T(Placeholders[i]) : values[i];
                 texts[i].color = empty ? Palette.Hex("B9AFC8") : Palette.TextDark;
                 frames[i].enabled = i == active;
             }
@@ -179,7 +187,7 @@ namespace Casino.Screens
             var today = DateTime.Today;
             if (!AgeGate.TryGetBirthDate(y, m, d, today, out var birth, out string problem))
             {
-                error.text = problem;
+                error.text = Loc.T(problem);
                 Casino.Audio.Sfx.Play(Casino.Audio.SfxId.Error);
                 return;
             }
@@ -209,13 +217,14 @@ namespace Casino.Screens
             ((RectTransform)bg.transform).Stretch();
             var icon = UIKit.Image(Content, "Lock", ProceduralArt.IconSprite(Icon.Lock), Palette.TextMuted);
             ((RectTransform)icon.transform).Center(0, 240, 170, 170);
-            var title = UIKit.Label(Content, "SORRY, YOU CAN'T PLAY", 84, Color.white, TextAnchor.MiddleCenter, FontKind.Display);
+            var title = UIKit.Label(Content, Loc.T("SORRY, YOU CAN'T PLAY"), 84, Color.white, TextAnchor.MiddleCenter, FontKind.Display);
             ((RectTransform)title.transform).Center(0, 70, 1500, 110);
-            var body = UIKit.Label(Content, $"{GameConfig.CasinoName} {GameConfig.CasinoSubtitle} is only available to adults.", 38, Palette.TextMuted);
+            var body = UIKit.Label(Content, Loc.F("{0} is only available to adults.", GameConfig.CasinoName + " " + Loc.T("CASINO")), 38,
+                Palette.TextMuted);
             ((RectTransform)body.transform).Center(0, -40, 1400, 60);
             countdown = UIKit.Label(Content, "", 30, Palette.TextMuted);
             ((RectTransform)countdown.transform).Center(0, -130, 900, 50);
-            var exit = UIKit.Button(Content, "EXIT", ButtonStyle.Dark, () => App.I.Quit(), 48);
+            var exit = UIKit.Button(Content, Loc.T("EXIT"), ButtonStyle.Dark, () => App.I.Quit(), 48);
             exit.Rect.Center(0, -250, 360, 110);
             StartCoroutine(AutoQuit());
         }
@@ -224,7 +233,7 @@ namespace Casino.Screens
         {
             for (int s = 8; s > 0; s--)
             {
-                countdown.text = $"Closing in {s}...";
+                countdown.text = Loc.F("Closing in {0}...", s);
                 yield return Tween.Wait(1f);
             }
             App.I.Quit();
@@ -249,13 +258,13 @@ namespace Casino.Screens
         protected override void Build()
         {
             Backgrounds.Casino(Root, Palette.Hex("2A0E4A"), Palette.Hex("0B0612"), new Vector2(0, 300));
-            var title = UIKit.Label(Content, "TELL US ABOUT YOU", 88, Palette.Gold, TextAnchor.MiddleCenter, FontKind.Display);
+            var title = UIKit.Label(Content, Loc.T("TELL US ABOUT YOU"), 88, Palette.Gold, TextAnchor.MiddleCenter, FontKind.Display);
             ((RectTransform)title.transform).Center(0, 420, 1400, 110);
             UIKit.TextShadow(title, -5f, 0.8f);
-            var sub = UIKit.Label(Content, "We'll pick your hosts, dealers and bar staff to match. You can change this any time in Settings.", 32, Palette.TextMuted);
+            var sub = UIKit.Label(Content, Loc.T("We'll pick your hosts, dealers and bar staff to match. You can change this any time in Settings."), 32, Palette.TextMuted);
             ((RectTransform)sub.transform).Center(0, 340, 1500, 50);
 
-            string[] labels = { "I'M A MAN", "I'M A WOMAN", "PREFER NOT TO SAY" };
+            string[] labels = { Loc.T("I'M A MAN"), Loc.T("I'M A WOMAN"), Loc.T("PREFER NOT TO SAY") };
             for (int i = 0; i < 3; i++)
             {
                 int index = i;
@@ -267,7 +276,7 @@ namespace Casino.Screens
             ((RectTransform)previewTitle.transform).Center(0, 90, 1200, 50);
             preview = UIKit.NewRect("Preview", Content).Center(0, -120, 1400, 330);
 
-            enter = UIKit.Button(Content, "ENTER THE CASINO", ButtonStyle.Gold, Finish, 56);
+            enter = UIKit.Button(Content, Loc.T("ENTER THE CASINO"), ButtonStyle.Gold, Finish, 56);
             enter.Rect.At(0.5f, 0f, 0, 110, 640, 120);
             enter.Interactable = false;
         }
@@ -284,7 +293,7 @@ namespace Casino.Screens
 
             foreach (Transform child in preview) Destroy(child.gameObject);
             var style = NpcStyles.DefaultFor(gender);
-            previewTitle.text = "Your staff tonight:";
+            previewTitle.text = Loc.T("Your staff tonight:");
             StaffRole[] roles = { StaffRole.Host, StaffRole.Dealer, StaffRole.Server };
             for (int i = 0; i < roles.Length; i++)
             {

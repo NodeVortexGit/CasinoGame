@@ -116,7 +116,7 @@ namespace Casino.UI
                 fill.color = Palette.Energy;
                 iconImg.color = Palette.Energy;
             }
-            label.text = v <= 0f ? "EXHAUSTED" : Mathf.CeilToInt(v * 100f) + "%";
+            label.text = v <= 0f ? Loc.T("EXHAUSTED") : Loc.F("{0}%", Mathf.CeilToInt(v * 100f));
         }
     }
 
@@ -158,13 +158,17 @@ namespace Casino.UI
         }
     }
 
-    /// <summary>Pill showing the Beginner's Luck boost while it lasts. Tapping it explains exactly what it does.</summary>
+    /// <summary>
+    /// Pill showing the luck boost while it lasts (Beginner's Luck, then any Lucky Streak bought). Tapping it explains
+    /// exactly what it does.
+    /// </summary>
     public sealed class LuckBanner : MonoBehaviour
     {
         Text text;
         Image meter;
         CanvasGroup group;
-        int lastHands = -1;
+        RectTransform rect, track;
+        int lastKey = -1;
 
         public static LuckBanner Create(Transform parent)
         {
@@ -181,6 +185,8 @@ namespace Casino.UI
             ((RectTransform)b.text.transform).Stretch(66, 14, 16, 0);
             var track = UIKit.Panel(rt, "Track", new Color(0, 0, 0, 0.35f), 4f);
             var trt = ((RectTransform)track.transform).At(0f, 0f, 66, 10, 410, 8, 0f, 0f);
+            b.rect = rt;
+            b.track = trt;
             b.meter = UIKit.Panel(trt, "Meter", Palette.Hex("7CFC9A"), 4f);
             var mrt = (RectTransform)b.meter.transform;
             mrt.anchorMin = Vector2.zero;
@@ -191,20 +197,40 @@ namespace Casino.UI
             return b;
         }
 
+        static int Key => App.I.Luck.HandsPlayed * 10007 + App.I.Boost.HandsLeft;
+
         void Update()
         {
-            if (App.I.Luck.HandsPlayed != lastHands) Refresh();
+            if (Key != lastKey) Refresh();
         }
 
+        // Hidden with the canvas group, not SetActive, so it comes back by itself when a Lucky Streak is bought.
         void Refresh()
         {
             var luck = App.I.Luck;
-            lastHands = luck.HandsPlayed;
-            gameObject.SetActive(luck.IsActive);
-            if (!luck.IsActive) return;
-            int pct = Mathf.RoundToInt((float)luck.Luck * 100f);
-            text.text = $"BEGINNER'S LUCK {pct}%  <size=18><color=#B9FFC9>{luck.HandsRemaining} HANDS LEFT</color></size>";
-            ((RectTransform)meter.transform).anchorMax = new Vector2(Mathf.Max(0.02f, (float)luck.Luck), 1f);
+            var boost = App.I.Boost;
+            lastKey = Key;
+            bool show = luck.IsActive || boost.IsActive;
+            group.alpha = show ? 1f : 0f;
+            group.blocksRaycasts = group.interactable = show;
+            if (!show) return;
+            float level;
+            if (luck.IsActive)
+            {
+                level = (float)luck.Luck;
+                text.text = Loc.F("BEGINNER'S LUCK {0}%", Mathf.RoundToInt(level * 100f)) + "  <size=18><color=#B9FFC9>" +
+                    Loc.F("{0} HANDS LEFT", luck.HandsRemaining) + "</color></size>";
+            }
+            else
+            {
+                level = boost.Percent / 100f;
+                text.text = Loc.F("LUCKY STREAK {0}%", boost.Percent) + "  <size=18><color=#B9FFC9>" +
+                    Loc.F("{0} HANDS  •  BETS UP TO {1}", boost.HandsLeft, ChipFormat.Short(boost.MaxBet)) + "</color></size>";
+            }
+            float w = Mathf.Max(500f, text.preferredWidth + 90f);
+            rect.sizeDelta = new Vector2(w, rect.sizeDelta.y);
+            track.sizeDelta = new Vector2(w - 90f, track.sizeDelta.y);
+            ((RectTransform)meter.transform).anchorMax = new Vector2(Mathf.Max(0.02f, level), 1f);
         }
     }
 }

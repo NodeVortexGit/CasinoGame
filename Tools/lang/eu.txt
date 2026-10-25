@@ -1,0 +1,659 @@
+# Basque (eu). Machine translation by Claude.
+bd99124	Fitxa eskukada bat
+c7c6dc8	Fitxa pila bat
+7512cfd	Fitxa erretilu bat
+fa36588	Fitxa euskarri bat
+7994f65	EZAGUNENA
+49dcc21	Fitxa gela bat
+0725283	Jokalari handiaren kutxa gotorra
+7658705	PREZIO ONENA
+2f23432	Ur gasduna
+418b820	Espresoa
+97b463c	Edari energetikoa
+43bbfda	Club ogitartekoa
+bce7a75	Hanburgesa menua
+2832a8d	Txuleta afaria
+dee8ee8	BETETZE OSOA
+a7c2255	Zorte-bolada
+7919163	Bolada beroa
+74fdfc2	ZORTE GEHIEN
+d79cd12	Brontzezko mahaia
+2a8ff35	Zilarrezko mahaia
+51877b2	Urrezko mahaia
+9282152	Diamantezko mahaia
+0de8764	Idatzi urte baliozko bat.
+d4e14c9	Idatzi hilabete baliozko bat (1-12).
+addd156	Idatzi egun baliozko bat.
+d78a4f4	Data hori etorkizunean dago.
+787c7c6	Ongi etorri nire mahaira! Jolasteko prest?
+8b0f93e	Pozten naiz zu ikusteaz. Eseri!
+8338021	Kaixo! Kartak freskoak daude, eta ni ere bai.
+75750f9	Ongi etorri! Egin dezagun gau eder bat.
+95aac36	Egin zure apustua prest zaudenean.
+8bc63c1	Fitxak mahaira, eta ikus ditzagun kartak.
+984b7f3	Zer jokatzen dugu?
+b74c769	Ene, apustu handia! Zure estiloa gustatzen zait.
+77fc1fc	Hori bai apustua. Goazen!
+7779a5b	Ausart zaude gaur gauean, ezta?
+479ff82	Dena?! Bihotza taupaka daukat!
+7fb527c	Dena esku bakar batean. Beldurrik gabe!
+7bf0c5d	Blackjack! Sinestezina!
+123f2d5	Hogeita bat, horrela besterik gabe!
+cd850a7	Blackjack! Kartek maite zaituzte gaur.
+55f50ee	Ondo jokatuta!
+79594b1	Irabazi duzu! Oso ondo.
+0df710e	Bolada onean zaude!
+20a0c1e	Hori zurea da.
+a45fe61	Hau garaipena! Denak ari dira mahai honi begira!
+54d3982	Izugarria! Sutan zaude gaur!
+8da8f1e	Oso gertu! Hurrengoa zurea da.
+5d921e1	Oraingoan etxeak izan du zortea.
+f923af7	Ahaztu, esku berria dator.
+853e7ca	Ai, karta bat gehiegi.
+daec44f	Pasatu zara! Onenei ere gertatzen zaie.
+11ceaef	Berdinketa. Inork ez du galtzen!
+911a289	Berdinketa. Zure fitxak salbu daude.
+a89d9d9	Pasatu naiz! Zorionekoa zu.
+f76c8fd	Gehiegi niretzat. Irabazi duzu!
+63f8d0b	Blackjack etxearentzat, barkatu!
+465c8bf	Banatzaileak blackjack. Zorte txarra.
+6752f40	Batekoa erakusten dut. Asegurua?
+1920c5a	Banatzen dugu! Bi aukera irabazteko.
+9f621da	Bikoizten. Mugimendu ausarta!
+59da99d	Bikoiztu! Karta bat dator.
+0b48017	Zapata berria, nahasten!
+3fa7769	Gutxi geratzen? Kutxak beteko zaitu.
+4e5694b	Fitxak urritzen ari dira. Gehiago nahi?
+d41f057	Fitxarik gabe! Joan kutxara edo hartu doako fitxak.
+15d90d3	Zure pila hutsik dago. Kutxa zure atzean dago.
+a9eaae1	Nekatuta zaudela dirudi! Jan zerbait tabernan.
+5cd9e8b	Indarrik gabe? Tabernak zainduko zaitu.
+37b9672	Lasai hartu.
+c64df8c	Prest zaudenean!
+b8dfc0a	Gaua gaztea da.
+8748560	Hasiberriaren zortea zure alde dago!
+e3def50	Karta-sorta zure alde dago gaur gauean!
+506ade9	Hasiberriaren zortea amaitu da. Hemendik aurrera jokoa zuzena da!
+953d8b7	Ongi etorri kasinora! Zure eserlekua zain duzu.
+9fd9844	Gabon! Mahaiak beroak daude gaur.
+2d42aaf	Ongi etorri berriro! Zortea sentitzen?
+311bae7	Ukitu mahai bat jolasten hasteko!
+3318099	Fitxa gehiago behar? Leihatila egokira etorri zara.
+c5b3787	Pila handiagoak, hobari handiagoak!
+21ae665	Gose zara? Aukeratu menuko edozer.
+8b83cc0	Mokadu batek energia mantentzen du!
+35f4b0e	Ongi etorri nire mahaira!
+8f90245	Hor zaude! Argiago dago jada.
+909e4d6	Egon etxean bezala. Gaur gauean dena zuretzat da.
+2477f78	Irribarre hori maite dut. Zorte oneko gaua?
+6ac2120	Lasaitu, esku onetan zaude hemen.
+089f04b	Aizu, zu! Nire leihatilatik pasatzea espero nuen.
+3f2c3c9	Beti da atsegina aurpegi lagunkoi bat ikustea.
+3021db8	Begira nor dagoen hemen! Ondo pasatzen?
+769980b	Kaixo, ederra!
+5361ffd	Zure estiloa gustatzen zait gaur.
+56b40be	Aizu, pozten naiz zu berriro ikusteaz!
+3316019	Gau ona pasatzen? Merezi duzu.
+28283fd	Kontuz, zure alde animatzen has naiteke.
+109ac94	Nire jokalari kuttuna itzuli da!
+acba0e6	Eseri nirekin, zerbait polita banatuko dizut.
+eb5ff2a	Zurekin mahai hau askoz dibertigarriagoa da.
+772a73c	Jada zoaz? Gaua gaztea da!
+178301a	Tira, esku bat gehiago bakarrik. Sentipen ona daukat!
+816036a	Ezin nauzu orain utzi, hasi berriak gara!
+5c9b7e2	Azken aukera! Hurrengo eskua handia izan liteke...
+20ce7b6	Ados, ados. Zure eserlekua bero gordeko dut. Itzuliko zarela agintzen duzu?
+51d1aeb	Boladarik ez oraindik? Jokatu gaur txandak ({2}) eta zenbatzen hasiko naiz.
+10b25d9	Hasiera berria! Txandak ({2}) eta zure sugarra piztuko da.
+0c10711	Egunero datozenen zerrenda txiki bat daramat. Zu ez zaude bertan... oraindik.
+5e7c431	{1}. eguna zure zain dago. Geratzen diren txandak: {2}!
+b268d84	Egun jarraian: {0}... ez zara orain geldituko, ezta?
+b32ae79	Zure sugarra hotz samar dago gaur. Txandek ({2}) berotuko dute.
+a6f3fbd	Zenbatzen aritu naiz: {0} egun. Egin ditzagun {1}.
+1dc5c97	Ez pentsa ez naizela konturatu. Bolada mantentzeko txandak: {2}!
+807b82c	Egun jarraian: {0}? Hemen gustura zaudela pentsatzen hasia naiz.
+6391923	Zure bolada salbu dago gaurko. Orain harrotzen ari zara besterik ez.
+3bfbbf7	{0}. eguna, eginda. Bihar ordu berean?
+ca2a2c1	{0} egun! Eserleku bat gorde beharko nizuke.
+54f991f	Hor dago: zure boladaren lehen eguna! Itzuli bihar eta bi izango dira.
+a1e7ab0	Aste oso bat jarraian! Benetan harrituta nago.
+96cee95	Hogeita hamar egun! Ia hemen lan egiten duzu.
+a9834cd	Ehun egun. Denei hitz egiten diet zutaz.
+071317f	{0} egun jarraian jada! Begira zeure buruari.
+0964027	Bolada salbatuta: {0}. eguna! Lortuko zenuela banekien.
+c7f2a1f	{0}. eguna! Apustu egiten dut ez zarela {1}. egunera iritsiko.
+a6ce2e2	{0} egun... ados, harroputz.
+3ab91d0	Jokatu 10 blackjack esku
+38e863d	Irabazi 5 blackjack esku
+6ac41cc	Lortu blackjack bat
+74cf149	Irabazi 500 fitxa blackjackean
+66440e1	Biratu txanpon-makinak 20 aldiz
+9205056	Irabazi 5 biraketa txanpon-makinetan
+cd60e0c	Irabazi zure apustua 5× txanpon-makinetan
+6f7ac28	Jokatu 5 erruleta txanda
+6978cc0	Irabazi 3 erruleta biraketa
+c8ebbcc	Asmatu zenbaki bat zuzenean
+8a57c54	GPS kokapena
+4919635	sare mugikorra
+527b094	interneteko konexioa
+f49ae82	gailuaren ezarpenak
+60827d3	proba-herrialdea
+0b2f8d8	egiaztatu gabe (prezio estandarra)
+50d8b4a	ezezaguna
+4fb7a4e	1. 12
+647a0eb	2. 12
+a934745	3. 12
+3de80ab	2 1en kontra
+bb4e68e	GORRIA
+a9414ab	BELTZA
+710756a	BAKOITIA
+70ca748	BIKOITIA
+4d60d6c	PREZIO ZUZENAK ZURE HERRIALDEARENTZAT
+1674d95	Dendako prezioak zure herrialdeko ekonomiara egokitzen dira, jokalariek leku guztietan prezio zuzena ordain dezaten.
+4ec27ee	Zure herrialdea jakiteko, zure gutxi gorabeherako kokapena behin egiaztatzen dugu. Zure gailuan herrialde batekin lotzen da eta ez da inora bidaltzen. Uko egiten badiozu, prezio estandarrak aplikatuko dira.
+ff3dbb4	JARRAITU
+43a6a8d	Kasinotik irten?
+ad209a0	Zure fitxak eta aurrerapena gorde dira.
+5860c84	IRTEN
+f1e0808	GERATU
+5b38c49	Desblokeatuta: {0}
+15ae7ac	Bolada-izozte batek zure bolada salbatu zuen atzo (egunak: {0}).
+d375ffb	Izozteek ({0}) zure bolada salbatu dute (egunak: {1}).
+fd8ab39	Zure bolada (egunak: {0}) amaitu da. Jokatu gaur txandak ({1}) berri bat hasteko!
+7fa2db4	MISIOA BETETA
+255325c	+{0} fitxa
+d205ece	MISIO GUZTIAK EGINDA!
+4acbed2	Eguneko hobaria +{0} fitxa. Misio berriak bihar.
+ab2ceb3	{0}. MAILA!
+86e2afb	Mugarria! +{0} fitxa
+9ae18ad	Itzuli bihar jarraitzeko
+7af7e7c	+1 bolada-izozte
+b5b9597	{0} EGUNEKO BOLADA!
+62ec60d	Erosketak ez daude erabilgarri bertsio honetan.
+1f9786c	Erosketak huts egin du. Ez zaizu ezer kobratu.
+3e4c600	+{0} fitxa gehitu dira!
+1998202	{0}: {1} esku %{2} zorterekin, hasiberriaren zortearen ondoren
+728ada5	{0}: {1} esku %{2} zorterekin!
+af5e232	{0}: energia +%{1}
+001a53b	Ez dago erabilgarri gailu honetan
+2607004	Bideoak ezin dira kargatu sare honetan
+569c30d	Itzuli bihar
+ecae6ee	Prest {0} s barru
+9964820	+{0} fitxa (gaur {1} geratzen dira)
+e1bd888	+{0} doako fitxa!
+619bd5d	+1 bolada-izozte!
+f70d794	Ez dago bideorik une honetan. Saiatu berriro pixka bat barru.
+264d71b	BRONTZEA
+462e839	ZILARRA
+81ff70a	URREA
+50e122e	DIAMANTEA
+57f5f5e	Menua
+69bd4ef	Ikuspegia
+dbfe736	Gurutzea
+1cc7820	Zirkulua
+82810cb	Karratua
+73d3ae2	Triangelua
+a42f608	Zure eskualdea egiaztatzen...
+1db422c	Egiaztatu gabe ({0}): prezio estandarrak
+9bc0807	{0} ({1}): prezioak {2}
+ae8c393	Oroigarriak
+aefd59b	Doako fitxak prest eta bolada-oroigarriak
+3125838	Zure doako fitxak prest daude
+233027b	{0} fitxa zure zain Lucky Acen.
+b93976b	Mantendu zure bolada (egunak: {0})
+bd68038	Jokatu gaur txandak ({0}) gauerdian berrabiarazi ez dadin.
+0acfb6f	Ongi etorri! Hasiberriaren zortea zure alde dago gaur. Egin apustu bat!
+d589374	BLACKJACKAK 3 2REN TRUKE ORDAINTZEN DU   •   BANATZAILEA 17 GUZTIETAN GELDITZEN DA   •   ASEGURUAK 2 1EN TRUKE ORDAINTZEN DU
+b700b02	APUSTUA
+16ec74f	GARBITU
+928226b	ERREPIKATU
+55591e0	BANATU
+395ed46	KARTA
+43e7971	GELDITU
+097274c	BIKOIZTU
+6df63ca	BANANDU
+3e40f46	ASEGURATU
+db82d3a	EZ, ESKERRIK ASKO
+28d6be8	APUSTUA {0}+
+9587b70	Mahaiaren gehienekora iritsi zara
+b9ac47d	Ez duzu fitxa nahikorik
+d237ade	Banatzaileak batekoa erakusten du. {0}rengatik aseguratu?
+bf07c14	Aseguruak {0} ordaintzen du
+b6e674a	Banatzaileak ez du blackjackik. Asegurua galdu da.
+0cc9679	PASATUTA
+82ce89d	BANATZAILEA PASATU DA
+6e1e1a4	BLACKJACK!
+662fae5	IRABAZI
+8918d00	BERDINKETA
+8df6be4	GALDU
+9e69668	Hasiberriaren zortea amaitu da. Zure Zorte-bolada orain hasten da.
+822f4f4	Hasiberriaren zortea amaitu da. Hemendik aurrera blackjack estandarra.
+b0377c7	Zure Zorte-bolada amaitu da. Blackjack estandarrera itzuli gara.
+824ad7c	FITXARIK GABE
+ff1822d	Ikusi bideo labur bat {0} doako fitxa lortzeko, edo joan kutxara.
+e4cac2f	Joan kutxara zure fitxak betetzeko.
+c3df3e7	DOAKO FITXAK
+b169d33	KUTXA
+4d38f66	GERO
+cb8171b	Amaitu lehenik esku hau.
+3aa6941	«{0}»
+6f846f4	ESKU BAT GEHIAGO
+a79d4f2	JOAN
+693f697	HASIBERRIAREN ZORTEA
+641ad58	ZORTE-BOLADA
+fc45931	Ongietorri-hobaria jokalari berrientzat: zure lehen <b>{0} eskuetan</b> banatzailearen zapata zure alde dago prestatuta, beraz ia esku guztiak irabaziko dituzu.
+576c683	Hurrengo <b>{0} eskuetan</b> abantaila pixkanaka desagertzen da, eta ondoren mahai guztiak blackjack estandar eta zuzena dira, 6 sortako zapata nahastu batetik banatuta (blackjackak 3 2ren truke ordaintzen du, banatzailea 17 guztietan gelditzen da).
+7fb55b3	Abantaila orain: <b><color=#7CFC9A>%{0}</color></b>   Geratzen diren eskuak: <b>{1}</b>
+d4f8fe0	Zure hurrengo <b>{0} blackjack eskuetan</b>, gehienez <b>{1} fitxako</b> apustuarekin, karta bakoitzak <b>%{2}</b>ko aukera du zure alde banatzeko (hasiberriaren zortearen abantaila bera).
+0a5fc06	Ondo jokatuz gero, eskuen <b>%{0}</b> inguru irabazten da, blackjack estandarrean %{1} inguruaren aldean. Apustu handiagoak blackjack estandarra dira eta ez dute eskurik gastatzen. Eskuak amaitzean, mahai guztiak berriro blackjack estandar eta zuzena dira.
+c3a8946	ULERTUTA
+8dfc44a	ZORTEA BERRESKURATU NAHI?
+272a97f	Hasiberriaren zortea amaitu da: hemendik aurrera mahai guztiak blackjack estandar eta zuzena dira. Zorte-bolada batek abantaila itzultzen du denbora batez.
+06b7689	EGUNEKOA
+4035996	EGUNEKO BOLADA
+fbe7f18	EGUN JARRAIAN
+7a46866	GAUR
+4753707	IKUSI IRAGARKIA
+6bb45f3	EROSI
+62a945f	BOLADA-IZOZTEA
+ba5b1de	Izozte batek zure bolada bizirik mantentzen du jolasten ez duzun egun batean. Gehienez {0} izan ditzakezu.\n\nBat erosi {1} fitxaren truke?
+38c6090	Bolada-izoztea prest.
+8fe681f	Ez duzu fitxa nahikorik izozte baterako.
+1507c40	UTZI
+457d20f	EGUNEKO BIRAKETA
+9623247	BIRATU
+ac5ef96	Aukerak:
+1200f20	%{0}
+003a689	{0} fitxa irabazi dituzu!
+f757137	GAURKO MISIOAK
+7b7f9e2	Errekorra: {0} egun
+9554fea	Jokatu egunero bolada bat eraikitzeko
+5c8dbb8	Gaurko helburua beteta! Bihar arte.
+1aeb9a1	Gaur: {0} / {1} txanda (edozein joko)
+bb92856	Bolada-izozteak: {0} / {1}
+0ec6216	Salbatu zure bolada galtzen duzun egun batean. +1 7 egunero.
+cc0a745	BETETA
+419a962	BIDEORIK EZ
+2dabd99	IRAGARKIA LASTER
+f12e166	Bolada-hobaria: sariak ×{0}
+80948a4	Doako biraketa bat egunero
+596b5e0	HURRENGOA  {0}
+7f7e7fc	Dena eginda! Hobaria jasota.
+03a0f2a	Misio berriak gauerdian.
+4784874	Bete hirurak: +{0} hobari-fitxa
+42c5cda	JOLASTU
+337211e	JOKOAK
+8f5e3bd	Arrastatu ezkerrean ibiltzeko  •  Arrastatu eskuinean begiratzeko  •  Ukitu joateko
+d00d221	18+ soilik  •  Fitxak dibertsiorako dira: diru-baliorik gabe, inoiz ez dira dirutan edo saritan trukatzen
+b60f038	Ateak irekitzen...
+2e5bcce	Ongi etorri! Zure {0} ongietorri-fitxak prest daude. Mahaiak zuzen aurrean daude!
+7ef7ae3	+{0} doako fitxa! Gehiago {1} ordu barru.
+5d82af9	Doako fitxak {0} orduro betetzen dira. Hurrengoak {1} barru.
+5469985	{0} h {1} min
+bb65beb	{0} min {1} s
+ac8ba93	MANTENDU ZURE BOLADA
+560bfa1	Oroigarri bat nahi duzu oraindik jokatu ez duzun arratsaldeetan, eta doako fitxak prest daudenean? Ez gehiago, eta Ezarpenetan desaktiba dezakezu.
+b724a40	GOGORARAZI
+9e0c898	+{0} fitxa prest!
+1207e28	Ikusi bideo bat: {0}
+db3655b	Hurrengo doako fitxak {0} barru
+4ca9be5	BLACKJACK
+9a612b1	4 mahai  •  3 2ren truke ordaintzen du
+1194439	TXANPON-MAKINAK
+6555152	Lucky Ace 7s  •  10 lerro
+255b1a1	ERRULETA
+6df1551	Europarra, zero bakarrarekin
+379b146	AGORTUTA ZAUDE
+340e5c4	Zure energia-barra hutsik dago. Hartu zerbait tabernan jolasten jarraitzeko, edo itzuli geroago: energia poliki berreskuratzen da kanpoan zauden bitartean.
+a517396	JOAN TABERNARA
+7c7227f	AUKERATU ZURE MAHAIA
+c963de3	APUSTUAK
+c433657	{0}. MAILA
+083ac39	ESERI
+9698219	{0} BEHAR
+34b737e	Iritsi {0}. mailara hemen jolasteko. {1}. mailan zaude.
+6cc19a9	KASINOA
+6e946b7	EE
+4a3a892	HH
+2857a6a	UUUU
+9d1fece	EGUNA
+d3bb0c3	HILABETEA
+c0f0cad	URTEA
+43985ff	NOIZ JAIO ZINEN?
+293fda2	Fitxak dibertsiorako soilik dira. Ez dute diru-baliorik eta inoiz ezin dira dirutan edo saritan trukatu.
+3e9128d	BARKATU, EZIN DUZU JOLASTU
+b5e8985	{0} helduentzat soilik dago.
+bb1b380	IRTEN
+d9f9432	{0} barru ixten da...
+c6e102d	KONTA IEZAGUZU ZUTAZ
+31120ce	Horren arabera aukeratuko ditugu ostalariak, banatzaileak eta tabernako langileak. Edozein unetan alda dezakezu Ezarpenetan.
+49e8df9	GIZONA NAIZ
+85abe81	EMAKUMEA NAIZ
+76cc98c	NAHIAGO DUT EZ ESAN
+964daf7	SARTU KASINOAN
+2efb69a	Zure langileak gaur gauean:
+c10e749	{0}/{1}. orria
+2a3ffd9	HIZKUNTZA
+c673535	AUTOMATIKOA
+d1245d2	HERRIALDEA
+15fc12b	Ongi etorri! Egin zuen apustuak, mesedez.
+531fb3f	Ez duzu fitxa nahikorik apustu horretarako.
+380eb75	Mahaiaren muga {0} da biraketa bakoitzeko.
+55ad592	DESEGIN
+8f191f9	APUSTU OSOA  {0}
+82e1181	Ukitu taula fitxak jartzeko
+bb19a75	Ez da apustu gehiago!
+5becf07	BERDEA
+bc74f4f	berdea
+7898801	gorria
+466bc8c	beltza
+f2edfbf	Hau asmatzea! Zorionak!
+b252caf	Irabazi duzu! {0} irabazten duzu.
+8587d14	IRABAZIA  +{0}
+b862a2b	{0} {1}. {2} itzultzen zaizkizu.
+a306d0a	ITZULIA  {0}
+af3134d	Oraingoan ez dago saririk
+84122e7	Egin zuen apustuak, mesedez.
+52205f4	Itxaron bola gelditu arte.
+c4b9243	EZARPENAK
+44d863e	OROKORRA
+2bbca79	GRAFIKOAK
+955c8b4	SOINUA
+c701f5f	UKIPENA
+efcc94a	SAGUA
+8433628	KONTROLAGAILUA
+d868a50	BIBRAZIOA
+f8692c7	18+ • Fitxek ez dute diru-baliorik • Letra-tipoak: Bebas Neue, Poppins, Noto (SIL OFL) • Mugak: Natural Earth • Prezio-datuak: Munduko Bankua
+da46447	KASINOKO LANGILEAK
+594b81e	EMAKUMEAK
+69d3313	GIZONAK
+b4325d3	MISTOA
+414594a	OROIGARRIAK
+6cac87b	Doako fitxak prest, eta arratsaldeko abisu bat bolada amaitu aurretik.
+e43b2e0	EGIAZTATU BERRIRO
+7c9e8f9	PREZIO-ESKUALDEA
+495c70e	Azkarrena: kasinoa margotuta dagoen bezala, ezer gehiagorik ez.
+b052523	Zoru leunduek, egurrak eta urreak aretoa islatzen dute.
+6bd30d7	Zinema-itxura: kolore-zuzenketa, alea, distira, argi-izpiak, azal bizia.
+21b6e1d	Zinema-objektiboa: fokuak zure begirada jarraitzen du, marrak argietan, hautsa izpietan.
+fb7c2e8	KALITATEA
+d8b9679	BAXUA
+f68525a	ERTAINA
+d77d0b2	ALTUA
+9289eee	ULTRA
+637e313	BEREIZMENA
+2e7b141	Baxuagoa leunagoa da, baina gutxiago berotzen da eta bateria aurrezten du.
+93dcfb5	PANTAILA-MODUA
+3c6eac3	PANTAILA OSOA
+f3690b1	LEIHOA
+cfa6200	ERTZ-LEUNTZEA
+ad50489	DESAKTIBATUTA
+f178804	Kasinoko ertz zorrotzak leuntzen ditu.
+4266288	FOTOGRAMA-ABIADURA
+d031ab0	{0} FPS
+a2b7514	30 FPSk bateria aurrezten du eta telefono zaharrak fresko mantentzen ditu.
+0babcee	V-SYNC
+6656e25	IKUS-EREMUA
+244aadb	ERAKUTSI FPS
+41c8f6e	BOLUMEN NAGUSIA
+bf3af1f	MUSIKA
+bd80907	SOINU-EFEKTUAK
+d098036	LANGILEEN AHOTSAK
+93c6484	Langileek hitz egitean egiten duten murmurioa.
+16bf71a	ISILDU ATZEKO PLANOAN
+85b2ee7	Kasinoa isiltzen du beste leiho batean zauden bitartean.
+8e3634e	BEGIRADAREN SENTIKORTASUNA
+880dc05	Arrastatzeak ikuspegia zein azkar biratzen duen.
+750c60f	Saguarekin arrastatzeak ikuspegia zein azkar biratzen duen.
+8b988eb	ALDERANTZIZTU BEGIRADA EZKER / ESKUIN
+cacf0cc	ALDERANTZIZTU BEGIRADA GORA / BEHERA
+2d13b68	BOTOIEN ANTOLAERA
+50c3f10	AUTO
+b471e5c	TRUKATU MENUA / IKUSPEGIA
+d9a59f1	PALANKAREN SENTIKORTASUNA
+ec14343	Eskuineko palankak ikuspegia zein azkar biratzen duen.
+a79af23	ALDERANTZIZTU PALANKA EZKER / ESKUIN
+acfc66e	ALDERANTZIZTU PALANKA GORA / BEHERA
+56bb461	KONTROLAGAILUAREN AHOLKUAK
+51cf49a	Botoi bakoitzak zer egiten duen erakusten du kontrolagailuarekin jolasten duzunean.
+dff7431	BIBRATU HEMEN
+34139ab	TELEFONOA
+15ee988	BIAK
+465cc91	Auto: kontrolagailua konektatuta badago, bestela telefonoa.
+f6fed84	TELEFONOAREN BIBRAZIOA
+8e97fa7	TELEFONOAREN INDARRA
+486ba2d	KONTROLAGAILUAREN BIBRAZIOA
+8008889	KONTROLAGAILUAREN INDARRA
+ea9233e	AUTOMATIKOA ({0})
+167dda7	{0}k Ezarpenak irekitzen ditu, {1}k Egunekoa.
+29a4ef9	Ez dago kontrolagailurik konektatuta.
+558ecd2	Konektatuta: {0}. {1} botoiak erakusten (eskuineko Ak berresten du).
+d6eee9e	Konektatuta: {0}. {1} botoiak erakusten.
+78525d5	TABERNA
+099db9f	ZORTEA
+b4a8b06	Fitxak, zortea eta janaria dibertsiorako elementu birtualak dira soilik: diru-baliorik gabe, ezin dira dirutan edo saritan trukatu.
+e2a28c9	Karta bakoitzak aukera hori du zure alde banatzeko, gehienez {0} fitxako blackjack apustuetan (apustu handiagoak estandarrak dira eta ez dute eskurik gastatzen). Hasiberriaren zortearen ondoren hasten da; pakete indartsuenak erabiltzen dira lehenik.
+04fbc6d	Baimendu kokapenerako sarbidea zure herrialdeko prezioa lortzeko
+2ae87fc	Erosketak ez daude erabilgarri jokoaren bertsio honetan.
+8239a84	PROBA-DENDA (benetako dirurik gabe)
+173d916	energia
+b2c67eb	FITXA +%{0}
+58e8011	{0} esku
+ce80712	horien %{0} inguru irabazten ditu
+c69e8ee	LUCKY ACE 7s
+fc99288	APUSTU OSOA
+c1c00cd	SARI-TAULA
+3930abd	ZORTE ON!
+67b6973	Gutxienez 10 fitxa behar dituzu biratzeko.
+5aa1edb	LORTU FITXAK
+f5a1812	Apustua estal dezakezunera jaitsi da.
+5c63f61	MEGA SARIA!
+652544f	SARI HANDIA!
+91bc41c	ITZULIA {0}
+3714283	SARIRIK EZ
+33c0faa	{0}. LERROA: {1} × {2} = {3}
+9f59e6e	{0} IZAR = {1}
+d6eee90	Gerezia
+4459b79	Limoia
+09fb6aa	Laranja
+cb92e50	Aranbeltza
+d419866	Kanpaia
+e496fd2	Bar
+63abb56	Zazpi
+b3850e0	Diamantea
+fc2b5a9	Batekoa
+85a7de6	Izarra
+c31b035	IZARREK edonon ordaintzen dute: 5 = apustua ×{0}, 4 = apustua ×{1}, 3 = apustua ×{2}.
+f97509c	BATEKOA komodina da: ikur guztiak ordezkatzen ditu, izarra izan ezik.
+3e8bc69	Lerroetako sariak lerro-apustuaren (apustu osoa ÷ 10) multiploak dira, ezkerretik eskuinera lehen arrabolatik.
+523f8dc	ITZULERA: %{0} epe luzera. Biraketa bakoitza independentea eta ausazkoa da.
+e0c705d	Ibili
+b8db515	Begiratu
+503d46d	Botoiak
+c7f73bb	Ezarpenak
+728298d	Egunekoa
+ab166bd	Doitu
+76cdb95	Mugitu
+8598222	Hautatu
+bbfa773	Itxi
+b52b36b	Atzera
+ab37588	AGORTUTA
+9b11a09	HASIBERRIAREN ZORTEA %{0}
+0c94e98	{0} ESKU GERATZEN
+51ed273	ZORTE-BOLADA %{0}
+3401470	{0} ESKU  •  APUSTUAK {1} ARTE
+f481cc6	MAILA
+0139615	ONGI ETORRI
+daad514	HITZ EGIN OSTALARIAREKIN
+bcefb10	Norabideak eta aholkuak
+c28e782	FITXAK  •  HOBARIAK
+0c69ec4	EROSI FITXAK
+78c0727	Kutxa
+1737fab	KOKTELAK  •  MOKADUAK  •  ENERGIA
+9e008ae	JANARIA ETA EDARIA
+f7881e8	Taberna
+0e979ed	BLACKJACKAK 3 2REN TRUKE ORDAINTZEN DU
+eea0d12	BANATZAILEAK 17AN GELDITU BEHAR DU
+4db37bf	JOKATU BLACKJACKEAN
+0ffdd99	{0} mahaia  •  apustuak {1}-{2}
+b4f938b	JOKATU TXANPON-MAKINETAN
+6b7caea	EGIN ZUEN APUSTUAK
+26b1e39	JOKATU ERRULETAN
+910a1ed	Gurpil europarra  •  zenbaki zuzenak 35 1en truke ordaintzen du
+7ef0215	ESKATU EDARI BAT
+fe38d73	{0}k ekarriko dizu
+f7b6306	{0} {1}. mailan irekitzen da. {2}. mailan zaude: jokatzen duzun txanda bakoitzak balio du.
+d85f1ad	Mahai honek gutxienez {0} fitxa behar ditu.
+cbfe016	Blackjack mahaiak zuzen aurrean daude. Hurbildu batera eta eseri!
+64d9faf	Kutxa hementxe dago zure eskuinean, eta taberna ezkerreko hormaren ondoan.
+e4c6e0b	Nekatuta? Tabernako mokadu batek energia berehala betetzen dizu.
+d5ab68f	Ukitu lurreko edozein leku eta hara ibiliko zara. Ukitu mahai bat esertzeko.
+cc21f74	TXIKIA
+dc01dec	HANDIA
+5fb90b0	EDOZEIN HIRUKOTE
+9c716f1	Hold'em mahaia
+3b6ab84	Jokatu 8 esku hold'emean
+6c617ca	Irabazi 4 esku hold'emean
+44ce500	Jokatu 10 esku bakaran
+b90cff7	Irabazi 5 esku bakaran
+3e4dfa9	Jokatu 15 esku bideo pokerrean
+854fe20	Jokatu 8 txanda sic bon
+dfddac1	Irabazi 4 txanda sic bon
+2973ea7	Bota dadoak 15 aldiz crapsean
+737be17	Irabazi 4 jaurtiketa crapsean
+4dbb81d	Egin kolorea edo hobea bideo pokerrean
+19aa07b	Errege-eskailera
+cf83e72	Kolore-eskailera
+d27ba03	Pokerra
+dbe8641	Full
+7c936d7	Kolorea
+2501c65	Eskailera
+ca1a0d4	Hirukotea
+6876b40	Bi bikote
+2537f88	Bikotea
+b4b323e	Karta altua
+f70bfdc	Txanoak edo hobea
+98fd5af	BAKARA
+df66d5a	Ongi etorri bakarara! Jokalaria, Bankaria ala Berdinketa?
+5055efd	JOKALARIA
+3f90696	BERDINKETA
+0d75f63	BANKARIA
+0ebd5a4	AZKEN EMAITZAK
+511993d	J
+ae4f281	B
+c2c53d6	E
+781246e	Aukeratu txanpon bat eta sakatu Jokalaria, Bankaria edo Berdinketa
+11023a0	BERDINKETA  {0}
+503d5f1	JOKALARIAK IRABAZI DU  {0}-{1}
+0eb4be5	BANKARIAK IRABAZI DU  {0}-{1}
+7859af1	CRAPS
+4083dbd	Ongi etorri crapsera! Egin apustu Pass Line-n eta bota.
+d266326	SEI
+c506f3a	BEDERATZI
+987f4e9	FIELD
+71c1b2b	2 3 4 9 10 11 12  •  2ak eta 12ak bikoitza ordaintzen dute
+d0ac294	EDOZEIN 7
+9b2f0c3	EDOZEIN CRAPS
+f62ac59	DON'T PASS BAR
+6080ade	1:1  •  12a berdinketa da
+c07247a	PASS LINE
+6229f78	ODDS
+29bf819	benetako odds-ak
+387d7a5	ON
+229c9cc	Odds-ak Pass Line-ren atzean jartzen dira puntua dagoenean.
+c2c8e82	Odds-ek Pass Line-ko apustua behar dute.
+1784d43	Zure odds-ak gehienezkoan daude.
+fdc3442	Lerroko apustuak irteera-jaurtiketan egiten dira.
+97ce95b	MAHAIAN  {0}
+a895ec0	Puntua {0} da: atera ezazu berriro 7 baino lehen. Pass Line-ren atzeko odds-ek benetako odds-ak ordaintzen dituzte.
+d9f9d65	BOTA
+bcf32ef	Puntua {0} da.
+5b450b4	{0}! Puntua lortuta. Irabazi duzu!
+9746e08	Zazpi. Jaurtitzaile berria, irteera berria.
+4fc4664	{0}, naturala! Pass Line-k irabazten du.
+203f466	{0}, craps. Lerroak galtzen du.
+0f8e260	Itxaron dadoak gelditu arte.
+6a98cfe	MAHAIA UTZI?
+8430088	Zure lerroko apustuak {0} puntuan jokatzen jarraitzen du. Orain joaten bazara, galduko duzu.
+0e138d1	HOLD'EM
+5e023be	Ongi etorri hold'emera! Jarri antea eta ikus ditzagun kartak.
+0cd62f5	ANTE
+5e9f331	ITSUA
+3b935ab	ITSUAK ORDAINTZEN DU
+20713a4	Krupierra bikote batekin edo hobearekin sailkatzen da
+d37267c	PASATU
+9a4e316	ERRETIRATU
+88313c4	APUSTU {0}×
+42c6fea	Antea {0} + itsua {0}. Gorde beste {1} igoerarako.
+1abb2f2	Sakatu txanponak antea finkatzeko. Itsua berdina da.
+f541cec	Pasatu ala antearen hiru edo lau aldiz apustu egin?
+fc74a79	Igo orain antearen 4× edo 3×, edo pasatu eta ikusi flopa.
+b687501	Azken aukera: egin antearen 1×eko apustua edo erretiratu eta galdu antea eta itsua.
+400009c	Egin orain antearen 2×eko apustua, edo pasatu eta ikusi azken bi kartak.
+f4abdf9	Hona flopa.
+0e51f2c	Turn eta river.
+cc856d3	Ikus dezagun zer daukadan.
+6ba1f3e	Krupierra ez da sailkatzen: antea itzultzen zaizu.
+cf1fdc5	Erretiratu zara. Hurrengo eskua zurea da.
+177fab0	Ultimate Texas Hold'em
+c4917b9	Jokalaria, Bankaria edo Berdinketa
+6e4fe7b	BIDEO POKERRA
+73cabd3	Jacks or Better
+91c4555	SIC BO
+d810061	Hiru dado  •  handia edo txikia
+85ab7ec	Pass Line  •  Field  •  Odds
+35d8db6	Ongi etorri sic bora! Handia, txikia ala zerbait ausartagoa?
+3d05514	Mahaiaren muga {0} da jaurtiketako.
+86ade94	ASTINDU
+b69304e	{0}-KO HIRUKOTEA!
+5d1bcc6	GORDETA
+36a21ba	Banatu, gorde nahi dituzun kartak eta aldatu behin.
+99fa8e8	GORDE
+249d1c0	IRADOKIZUNA
+7aab1bd	ALDATU
+5595eb4	Sakatu kartak gordetzeko, eta gero aldatu.
+1c05db9	JOKATU HOLD'EMEAN
+e353e5f	Ultimate Texas Hold'em  •  antea {0}-{1}
+6470369	JOKATU BAKARAN
+bbe0077	HANDIA  •  TXIKIA  •  HIRUKOTEAK
+3ba448f	JOKATU SIC BON
+097c59c	Hiru dado  •  handiak edo txikiak 1 1en ordaintzen du
+af2ca30	PASS LINE  •  FIELD  •  ODDS
+f18398e	JOKATU CRAPSEAN
+eeede6d	Pass Line-k 1 1en ordaintzen du  •  odds-ek benetako odds-ak
+34e5170	JOKATU BIDEO POKERREAN
+f71bdfb	Jacks or Better  •  9/6 taula osoa
+4a6c087	JACKS OR BETTER  •  ERREGE-ESKAILERAK 800× ORDAINTZEN DU
+370a133	Txanpon-makinak eskuineko hormaren ondoan daude, bideo pokerra atzeko hormaren ondoan eta erruleta atzealdean.
+8298d28	Hold'ema ezkerreko atzeko izkinan dago, tabernaren ondoren.
+a2a111f	Bakara sartu bezain laster ezkerretara dago.
+b7193bc	Sic boa kutxaren ondorengo izkinan dago: hiru dado, handia edo txikia.
+25320c8	Craps mahaia eskuinean dago, makinen aurrean. Egin apustu Pass Line-n eta bota!
+dc81691	Sofia
+4d9936f	Elena
+3aa0674	Mia
+b724114	Valentina
+34d3f7f	Chloe
+0fc9dd6	Isabel
+bbd3e35	Nadia
+eac677d	Aria
+baaf10f	Luna
+8641381	Camila
+eeee9b7	Aurora
+8a59f05	Bianca
+5a0fc29	Serena
+bf38aa5	Marco
+cfaf50a	Leo
+5815f22	Adrian
+cbede02	Lucas
+f0b9995	Viktor
+7b37259	Daniel
+aaac72d	Gabriel
+2f8f37e	Ethan
+a01126e	Julen
+3e05c90	Rafael
+e1ae457	Mateo
+3398634	Nico
+7aa2d07	Enzo
+1920e2f	Irteera-jaurtiketa: egin apustu Pass Line-n eta bota. 7 edo 11-k irabazten du, 2, 3 edo 12-k galtzen du. Place apustuek balio dute puntua dagoenean.
+99f4934	LUCKY ACE 7s  •  ZURE LERRO-APUSTUAREN 2.500× ARTE ORDAINTZEN DU

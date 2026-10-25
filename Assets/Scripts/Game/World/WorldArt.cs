@@ -3,7 +3,11 @@ using UnityEngine;
 
 namespace Casino.World
 {
-    /// <summary>Procedural textures for the 3D casino. Small, tiling, generated once at load.</summary>
+    /// <summary>
+    /// Procedural textures for the 3D casino. Small, tiling, generated once at load. <c>detail</c> multiplies the
+    /// resolution (the higher graphics settings use 2x or 4x): the patterns are drawn in texture space, so more pixels
+    /// give crisper edges and finer veins and grain close up, not a different pattern.
+    /// </summary>
     public static class WorldArt
     {
         static float Frac(float v) => v - Mathf.Floor(v);
@@ -36,11 +40,11 @@ namespace Casino.World
         static Color Smooth(Color a, Color b, float d, float width) => Color.Lerp(b, a, Mathf.Clamp01(0.5f - d / width));
 
         /// <summary>Busy, warm casino carpet: wine base, gold lattice, teal medallions, magenta stars. Tiles seamlessly.</summary>
-        public static Texture2D Carpet()
+        public static Texture2D Carpet(int detail = 1)
         {
             Color baseCol = Palette.Hex("4A0B2C"), deep = Palette.Hex("2E0619"), gold = Palette.Hex("E3A93A"),
                 teal = Palette.Hex("16A6A0"), magenta = Palette.Hex("E0218A"), purple = Palette.Hex("6A2BA8");
-            return Make("carpet", 256, 256, (x, y) =>
+            return Make("carpet", 256 * detail, 256 * detail, (x, y) =>
             {
                 // diamond lattice (period 0.5)
                 float u = (x + y) * 2f, v = (x - y) * 2f;
@@ -63,16 +67,16 @@ namespace Casino.World
                 float star = Mathf.Abs(sx) + Mathf.Abs(sy) * 0.35f;
                 star = Mathf.Min(star, Mathf.Abs(sy) + Mathf.Abs(sx) * 0.35f);
                 c = Smooth(magenta, c, star - 0.05f, 0.015f);
-                float n = Hash((int)(x * 256), (int)(y * 256)) * 0.08f - 0.04f;
+                float n = Hash((int)(x * 256 * detail), (int)(y * 256 * detail)) * 0.08f - 0.04f;   // pile, one speck per pixel
                 return new Color(c.r + n, c.g + n, c.b + n, 1f);
             });
         }
 
         /// <summary>Burgundy damask wallpaper with a soft lighter ornament.</summary>
-        public static Texture2D Damask()
+        public static Texture2D Damask(int detail = 1)
         {
             Color baseCol = Palette.Hex("5A0E22"), orn = Palette.Hex("7C1F38"), gold = Palette.Hex("B8862E");
-            return Make("damask", 128, 256, (x, y) =>
+            return Make("damask", 128 * detail, 256 * detail, (x, y) =>
             {
                 Color c = baseCol;
                 // two rows of ornaments, offset like a brick pattern
@@ -85,16 +89,16 @@ namespace Casino.World
                     c = Smooth(orn, c, d, 0.03f);
                     c = Smooth(Color.Lerp(orn, gold, 0.35f), c, Mathf.Abs(d + 0.035f) - 0.006f, 0.008f);
                 }
-                float n = Hash((int)(x * 128), (int)(y * 256)) * 0.04f - 0.02f;
+                float n = Hash((int)(x * 128 * detail), (int)(y * 256 * detail)) * 0.04f - 0.02f;
                 return new Color(c.r + n, c.g + n, c.b + n, 1f);
             });
         }
 
         /// <summary>Polished mahogany.</summary>
-        public static Texture2D Wood()
+        public static Texture2D Wood(int detail = 1)
         {
             Color a = Palette.Hex("3A140C"), b = Palette.Hex("6E2E18");
-            return Make("wood", 128, 128, (x, y) =>
+            return Make("wood", 128 * detail, 128 * detail, (x, y) =>
             {
                 float grain = Mathf.Sin(y * 70f + Mathf.Sin(x * 9f) * 2.2f + Mathf.Sin(x * 31f) * 0.4f) * 0.5f + 0.5f;
                 Color c = Color.Lerp(a, b, grain * 0.7f + Hash((int)(x * 16), (int)(y * 128)) * 0.15f);
@@ -103,10 +107,10 @@ namespace Casino.World
         }
 
         /// <summary>Black marble tile with faint veins and a gold border (one tile per texture repeat).</summary>
-        public static Texture2D Marble()
+        public static Texture2D Marble(int detail = 1)
         {
             Color dark = Palette.Hex("2C2236"), vein = Palette.Hex("6A5A7C"), gold = Palette.Hex("E8B54A");
-            return Make("marble", 128, 128, (x, y) =>
+            return Make("marble", 128 * detail, 128 * detail, (x, y) =>
             {
                 float v = Mathf.Abs(Mathf.Sin((x * 3f + y * 1.4f) * 6f + Mathf.Sin(y * 13f) * 1.3f + Mathf.Sin(x * 23f) * 0.4f));
                 Color c = Color.Lerp(vein, dark, Mathf.Clamp01(v * 6f));
@@ -117,11 +121,11 @@ namespace Casino.World
         }
 
         /// <summary>Back-bar shelves: three rows of backlit bottles (used with emission).</summary>
-        public static Texture2D Bottles()
+        public static Texture2D Bottles(int detail = 1)
         {
             Color[] glass = { Palette.Hex("F2A23A"), Palette.Hex("3FD08A"), Palette.Hex("4AA8FF"), Palette.Hex("FF5FA8"), Palette.Hex("F5E6C8"), Palette.Hex("B05BFF") };
             Color back = Palette.Hex("2A1240"), shelf = Palette.Hex("D9A23A");
-            return Make("bottles", 256, 128, (x, y) =>
+            return Make("bottles", 256 * detail, 128 * detail, (x, y) =>
             {
                 float row = y * 3f;
                 int r = Mathf.FloorToInt(row);
@@ -147,9 +151,9 @@ namespace Casino.World
         }
 
         /// <summary>Slot machine screen: three reels of symbols.</summary>
-        public static Texture2D SlotReels()
+        public static Texture2D SlotReels(int detail = 1)
         {
-            var c = new SdfCanvas(128, 128);
+            var c = new SdfCanvas(128 * detail, 128 * detail);
             c.Clear(Palette.Hex("1B0B2E"));
             for (int i = 0; i < 3; i++)
             {

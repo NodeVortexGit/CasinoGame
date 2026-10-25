@@ -214,12 +214,13 @@ namespace Casino.Platform
             return null;
         }
 
+        /// <summary>The pricing country, where it came from and its currency, in the player's language.</summary>
         public string Describe()
         {
-            if (Resolving) return "Checking your region...";
-            string where = PricingCountry ?? "Not verified";
-            string tier = PricingCountry != null ? $" - price tier {RegionalPricing.Tier(PricingCountry)} of {RegionalPricing.TierCount}" : " - standard prices";
-            return $"{where} ({RegionPolicy.Describe(Source)}){tier}";
+            if (Resolving) return Loc.T("Checking your region...");
+            if (PricingCountry == null) return Loc.F("Not verified ({0}): standard prices", RegionPolicy.Describe(Source));
+            return Loc.F("{0} ({1}): prices in {2}", Loc.Country(PricingCountry), RegionPolicy.Describe(Source),
+                RegionalPricing.CurrencyOf(PricingCountry));
         }
     }
 }

@@ -1,0 +1,659 @@
+# Slovenian (sl). Machine translation by Claude.
+bd99124	Pest žetonov
+c7c6dc8	Kup žetonov
+7512cfd	Pladenj žetonov
+fa36588	Stojalo žetonov
+7994f65	NAJBOLJ PRILJUBLJENO
+49dcc21	Trezor žetonov
+0725283	Sef velikega igralca
+7658705	NAJBOLJŠA VREDNOST
+2f23432	Gazirana voda
+418b820	Espresso
+97b463c	Energijska pijača
+43bbfda	Klubski sendvič
+bce7a75	Burger meni
+2832a8d	Zrezek za večerjo
+dee8ee8	POLNO POLNJENJE
+a7c2255	Srečni niz
+7919163	Vroči niz
+74fdfc2	NAJVEČ SREČE
+d79cd12	Bronasta miza
+2a8ff35	Srebrna miza
+51877b2	Zlata miza
+9282152	Diamantna miza
+0de8764	Vnesite veljavno leto.
+d4e14c9	Vnesite veljaven mesec (1-12).
+addd156	Vnesite veljaven dan.
+d78a4f4	Ta datum je v prihodnosti.
+787c7c6	Dobrodošel za mojo mizo! Pripravljen na igro?
+8b0f93e	Lepo te je videti. Sedi!
+8338021	Živjo! Karte so sveže, jaz tudi.
+75750f9	Dobrodošel! Naj bo ta večer lep.
+95aac36	Postavi stavo, ko boš pripravljen.
+8bc63c1	Žetone na mizo, pa poglejmo karte.
+984b7f3	Za kaj igramo?
+b74c769	Oho, velika stava! Všeč mi je tvoj slog.
+77fc1fc	Temu pravim stava. Gremo!
+7779a5b	Nocoj si pogumen, kaj?
+479ff82	Vse?! Srce mi razbija!
+7fb527c	Vse na eno roko. Neustrašno!
+7bf0c5d	Blackjack! Neverjetno!
+123f2d5	Enaindvajset, kar tako!
+cd850a7	Blackjack! Karte te nocoj obožujejo.
+55f50ee	Lepo odigrano!
+79594b1	Zmaga! Bravo.
+0df710e	Gre ti odlično!
+20a0c1e	Ta je tvoja.
+a45fe61	Kakšna zmaga! Vsi gledajo to mizo!
+54d3982	Ogromno! Nocoj si v ognju!
+8da8f1e	Tako blizu! Naslednja je tvoja.
+5d921e1	Tokrat je imela hiša srečo.
+f923af7	Otresi se tega, prihaja nova roka.
+853e7ca	Av, karta preveč.
+daec44f	Čez! Zgodi se tudi najboljšim.
+11ceaef	Izenačeno. Nihče ne izgubi!
+911a289	Push. Tvoji žetoni so varni.
+a89d9d9	Šla sem čez! Srečnež.
+f76c8fd	Preveč zame. Zmagaš!
+63f8d0b	Blackjack za hišo, oprosti!
+465c8bf	Delivec ima blackjack. Smola.
+6752f40	Kažem asa. Zavarovanje?
+1920c5a	Delimo! Dve priložnosti za zmago.
+9f621da	Podvojitev. Pogumna poteza!
+59da99d	Podvoji! Prihaja ena karta.
+0b48017	Nov čevelj, mešam!
+3fa7769	Ti zmanjkuje? Blagajna te napolni.
+4e5694b	Žetonov je vse manj. Bi jih še?
+d41f057	Žetonov ni več! Pojdi na blagajno ali vzemi brezplačne žetone.
+15d90d3	Tvoj kup je prazen. Blagajna je tik za tabo.
+a9eaae1	Videti si izčrpan! Pojej kaj v baru.
+5cd9e8b	Voziš na rezervo? Bar poskrbi zate.
+37b9672	Vzemi si čas.
+c64df8c	Kadar boš pripravljen!
+b8dfc0a	Noč je še mlada.
+8748560	Sreča začetnika je na tvoji strani!
+e3def50	Kup kart je nocoj na tvoji strani!
+506ade9	Sreča začetnika je mimo. Od tu naprej je igra poštena!
+953d8b7	Dobrodošel v igralnici! Tvoj sedež čaka.
+9fd9844	Dober večer! Mize so nocoj vroče.
+2d42aaf	Dobrodošel nazaj! Se počutiš srečnega?
+311bae7	Tapni mizo in začni igrati!
+3318099	Potrebuješ več žetonov? Prišel si na pravo okence.
+c5b3787	Večji kupi, večji bonusi!
+21ae665	Si lačen? Izberi karkoli z jedilnika.
+8b83cc0	Prigrizek ti ohranja energijo!
+35f4b0e	Dobrodošel za mojo mizo!
+8f90245	Tu si! Takoj je svetleje.
+909e4d6	Počuti se kot doma. Nocoj gre vse zate.
+2477f78	Obožujem ta nasmeh. Srečen večer?
+6ac2120	Sprosti se, tu si v dobrih rokah.
+089f04b	Hej ti! Upala sem, da se oglasiš pri mojem okencu.
+3f2c3c9	Vedno lepo videti prijazen obraz.
+3021db8	Glej, kdo je tu! Se zabavaš?
+769980b	Živjo, lepotec!
+5361ffd	Nocoj mi je všeč tvoj slog.
+56b40be	Hej, lepo te je spet videti!
+3316019	Imaš lep večer? Zaslužiš si ga.
+28283fd	Previdno, morda ti začnem navijati.
+109ac94	Moj najljubši igralec je nazaj!
+acba0e6	Sedi k meni, razdelila ti bom nekaj lepega.
+eb5ff2a	S tabo je ta miza veliko bolj zabavna.
+772a73c	Že odhajaš? Noč je še mlada!
+178301a	Daj no, samo še ena roka. Imam dober občutek!
+816036a	Zdaj me ne moreš pustiti, šele začenjamo!
+5c9b7e2	Zadnja priložnost! Naslednja roka je lahko tista velika...
+20ce7b6	Prav, prav. Ohranila ti bom sedež topel. Obljubiš, da se vrneš?
+51d1aeb	Še brez niza? Odigraj danes kroge ({2}) in začnem šteti.
+10b25d9	Nov začetek! Krogi ({2}) in tvoj plamen zagori.
+0c10711	Vodim majhen seznam tistih, ki pridejo vsak dan. Tebe ni na njem... še.
+5e7c431	Dan {1} te čaka. Še krogov: {2}!
+b268d84	Dni zapored: {0}... zdaj pa menda ne boš nehal?
+b32ae79	Tvoj plamen je danes malo hladen. Krogi ({2}) ga bodo ogreli.
+a6f3fbd	Štejem: dni {0}. Naj jih bo {1}.
+1dc5c97	Ne misli, da nisem opazila. Še krogov za ohranitev niza: {2}!
+807b82c	Dni zapored: {0}? Začenjam misliti, da ti je tu všeč.
+6391923	Tvoj niz je za danes varen. Zdaj se samo še bahaš.
+3bfbbf7	Dan {0}, opravljeno. Jutri ob isti uri?
+ca2a2c1	Dni: {0}! Zdaj bi ti morala rezervirati sedež.
+54f991f	Tu je: prvi dan tvojega niza! Vrni se jutri in naredimo dva.
+a1e7ab0	Cel teden zapored! Res sem navdušena.
+96cee95	Trideset dni! Praktično že delaš tukaj.
+a9834cd	Sto dni. Vsem pripovedujem o tebi.
+071317f	Že {0} dni zapored! Kar poglej se.
+0964027	Niz rešen: dan {0}! Vedela sem, da ti bo uspelo.
+c7f2a1f	Dan {0}! Stavim, da ne prideš do {1}.
+a6ce2e2	Dni: {0}... no prav, bahač.
+3ab91d0	Odigraj 10 rok blackjacka
+38e863d	Zmagaj 5 rok blackjacka
+6ac41cc	Dobi blackjack
+74cf149	Zmagaj 500 žetonov v blackjacku
+66440e1	Zavrti avtomat 20-krat
+9205056	Zmagaj 5 vrtljajev na avtomatu
+cd60e0c	Zmagaj 5× svojo stavo na avtomatu
+6f7ac28	Odigraj 5 krogov rulete
+6978cc0	Zmagaj 3 vrtljaje rulete
+c8ebbcc	Zadeni številko z direktno stavo
+8a57c54	lokacija GPS
+4919635	mobilno omrežje
+527b094	internetna povezava
+f49ae82	nastavitve naprave
+60827d3	testna država
+0b2f8d8	ni preverjeno (standardna cena)
+50d8b4a	neznano
+4fb7a4e	1. ducat
+647a0eb	2. ducat
+a934745	3. ducat
+3de80ab	2 proti 1
+bb4e68e	RDEČE
+a9414ab	ČRNO
+710756a	LIHO
+70ca748	SODO
+4d60d6c	POŠTENE CENE ZA TVOJO DRŽAVO
+1674d95	Cene v trgovini so prilagojene gospodarstvu tvoje države, da igralci povsod plačajo pošteno ceno.
+4ec27ee	Da ugotovimo tvojo državo, enkrat preverimo tvojo približno lokacijo. Na napravi se poveže z državo in se nikamor ne pošlje. Če zavrneš, veljajo standardne cene.
+ff3dbb4	NADALJUJ
+43a6a8d	Zapustiš igralnico?
+ad209a0	Tvoji žetoni in napredek so shranjeni.
+5860c84	KONČAJ
+f1e0808	OSTANI
+5b38c49	Odklenjeno: {0}
+15ae7ac	Zamrznitev niza je včeraj rešila tvoj niz (dni: {0}).
+d375ffb	Zamrznitve ({0}) so rešile tvoj niz (dni: {1}).
+fd8ab39	Tvoj niz (dni: {0}) se je končal. Odigraj danes kroge ({1}) in začni novega!
+7fa2db4	MISIJA OPRAVLJENA
+255325c	+{0} žetonov
+d205ece	VSE MISIJE OPRAVLJENE!
+4acbed2	Dnevni bonus +{0} žetonov. Nove misije jutri.
+ab2ceb3	STOPNJA {0}!
+86e2afb	Mejnik! +{0} žetonov
+9ae18ad	Vrni se jutri in nadaljuj
+7af7e7c	+1 zamrznitev niza
+b5b9597	NIZ: {0} DNI!
+62ec60d	Nakupi v tej različici niso na voljo.
+1f9786c	Nakup ni uspel. Ničesar ti nismo zaračunali.
+3e4c600	Dodanih +{0} žetonov!
+1998202	{0}: rok {1} z {2} % sreče, po sreči začetnika
+728ada5	{0}: rok {1} z {2} % sreče!
+af5e232	{0}: +{1} % energije
+001a53b	Na tej napravi ni na voljo
+2607004	Videi se v tem omrežju ne naložijo
+569c30d	Vrni se jutri
+ecae6ee	Pripravljeno čez {0} s
+9964820	+{0} žetonov (danes še {1})
+e1bd888	+{0} brezplačnih žetonov!
+619bd5d	+1 zamrznitev niza!
+f70d794	Trenutno ni na voljo nobenega videa. Poskusi znova čez trenutek.
+264d71b	BRON
+462e839	SREBRO
+81ff70a	ZLATO
+50e122e	DIAMANT
+57f5f5e	Meni
+69bd4ef	Pogled
+dbfe736	Križec
+1cc7820	Krog
+82810cb	Kvadrat
+73d3ae2	Trikotnik
+a42f608	Preverjamo tvojo regijo...
+1db422c	Ni preverjeno ({0}): standardne cene
+9bc0807	{0} ({1}): cene v {2}
+ae8c393	Opomniki
+aefd59b	Brezplačni žetoni pripravljeni in opomniki niza
+3125838	Tvoji brezplačni žetoni so pripravljeni
+233027b	V Lucky Ace te čaka {0} žetonov.
+b93976b	Ohrani svoj niz (dni: {0})
+bd68038	Odigraj danes kroge ({0}), da se opolnoči ne ponastavi.
+0acfb6f	Dobrodošel! Sreča začetnika je nocoj na tvoji strani. Postavi stavo!
+d589374	BLACKJACK IZPLAČA 3 PROTI 2   •   DELIVEC OSTANE PRI VSEH 17   •   ZAVAROVANJE IZPLAČA 2 PROTI 1
+b700b02	STAVA
+16ec74f	POČISTI
+928226b	PONOVI
+55591e0	DELI
+395ed46	KARTO
+43e7971	OSTANI
+097274c	PODVOJI
+6df63ca	RAZDELI
+3e40f46	ZAVARUJ
+db82d3a	NE, HVALA
+28d6be8	STAVA {0}+
+9587b70	Dosežen maksimum mize
+b9ac47d	Premalo žetonov
+d237ade	Delivec kaže asa. Zavaruješ za {0}?
+bf07c14	Zavarovanje izplača {0}
+b6e674a	Delivec nima blackjacka. Zavarovanje izgubljeno.
+0cc9679	ČEZ
+82ce89d	DELIVEC ČEZ
+6e1e1a4	BLACKJACK!
+662fae5	ZMAGA
+8918d00	PUSH
+8df6be4	PORAZ
+9e69668	Sreča začetnika je mimo. Tvoj Srečni niz se začne zdaj.
+822f4f4	Sreča začetnika je mimo. Od zdaj je standardni blackjack.
+b0377c7	Tvoj Srečni niz je mimo. Nazaj na standardni blackjack.
+824ad7c	ŽETONOV NI VEČ
+ff1822d	Poglej kratek video za {0} brezplačnih žetonov ali pojdi na blagajno.
+e4cac2f	Pojdi na blagajno in napolni žetone.
+c3df3e7	BREZPLAČNI ŽETONI
+b169d33	BLAGAJNA
+4d38f66	KASNEJE
+cb8171b	Najprej dokončaj to roko.
+3aa6941	»{0}«
+6f846f4	ŠE ENA ROKA
+a79d4f2	ODIDI
+693f697	SREČA ZAČETNIKA
+641ad58	SREČNI NIZ
+fc45931	Bonus dobrodošlice za nove igralce: v prvih <b>{0} rokah</b> je delivčev čevelj premešan tebi v prid, zato boš zmagal skoraj vsako roko.
+576c683	V naslednjih <b>{0} rokah</b> prednost postopoma izgine, nato je pri vsaki mizi standardni, pošten blackjack iz premešanega čevlja s 6 kupi (blackjack izplača 3 proti 2, delivec ostane pri vseh 17).
+7fb55b3	Prednost zdaj: <b><color=#7CFC9A>{0} %</color></b>   Še rok: <b>{1}</b>
+d4f8fe0	V naslednjih <b>{0} rokah blackjacka</b> s stavo do <b>{1} žetonov</b> ima vsaka karta <b>{2} %</b> možnosti, da pride tebi v prid (enaka prednost kot sreča začetnika).
+0a5fc06	Z dobro igro to pomeni zmago v približno <b>{0} %</b> rok, v primerjavi s približno {1} % pri standardnem blackjacku. Višje stave so standardni blackjack in ne porabijo rok. Ko roke poidejo, je pri vsaki mizi spet standardni, pošten blackjack.
+c3a8946	RAZUMEM
+8dfc44a	ŽELIŠ SREČO NAZAJ?
+272a97f	Sreča začetnika je mimo: od zdaj je pri vsaki mizi standardni, pošten blackjack. Srečni niz za nekaj časa vrne prednost.
+06b7689	DNEVNO
+4035996	DNEVNI NIZ
+fbe7f18	DNI ZAPORED
+7a46866	DANES
+4753707	POGLEJ OGLAS
+6bb45f3	KUPI
+62a945f	ZAMRZNITEV NIZA
+ba5b1de	Zamrznitev niza ohrani tvoj niz živ na dan, ko ne igraš. Imaš jih lahko do {0}.\n\nKupiš eno za {1} žetonov?
+38c6090	Zamrznitev niza pripravljena.
+8fe681f	Premalo žetonov za zamrznitev.
+1507c40	PREKLIČI
+457d20f	DNEVNI VRTLJAJ
+9623247	ZAVRTI
+ac5ef96	Možnosti:
+1200f20	{0} %
+003a689	Zmagal si {0} žetonov!
+f757137	DANAŠNJE MISIJE
+7b7f9e2	Rekord: {0} dni
+9554fea	Igraj vsak dan in gradi niz
+5c8dbb8	Današnji cilj dosežen! Se vidimo jutri.
+1aeb9a1	Danes: {0} / {1} krogov (katerakoli igra)
+bb92856	Zamrznitve niza: {0} / {1}
+0ec6216	Reši niz na dan, ko ga zamudiš. +1 vsakih 7 dni.
+cc0a745	POLNO
+419a962	NI VIDEA
+2dabd99	OGLAS KMALU
+f12e166	Bonus niza: nagrade ×{0}
+80948a4	En brezplačen vrtljaj vsak dan
+596b5e0	NASLEDNJI  {0}
+7f7e7fc	Vse opravljeno! Bonus prevzet.
+03a0f2a	Nove misije opolnoči.
+4784874	Opravi vse tri: +{0} bonus žetonov
+42c5cda	IGRAJ
+337211e	IGRE
+8f5e3bd	Povleci levo za hojo  •  Povleci desno za razgledovanje  •  Tapni in pojdi tja
+d00d221	Samo 18+  •  Žetoni so za zabavo: brez denarne vrednosti, nikoli jih ni mogoče zamenjati za denar ali nagrade
+b60f038	Odpiramo vrata...
+2e5bcce	Dobrodošel! Tvojih {0} žetonov dobrodošlice je pripravljenih. Mize so naravnost naprej!
+7ef7ae3	+{0} brezplačnih žetonov! Več čez {1} ur.
+5d82af9	Brezplačni žetoni se napolnijo vsakih {0} ur. Naslednji čez {1}.
+5469985	{0} h {1} min
+bb65beb	{0} min {1} s
+ac8ba93	OHRANI SVOJ NIZ
+560bfa1	Želiš opomnik ob večerih, ko še nisi igral, in ko so brezplačni žetoni pripravljeni? Nikoli več kot to, izklopiš pa ga lahko v Nastavitvah.
+b724a40	OPOMNI ME
+9e0c898	+{0} žetonov pripravljenih!
+1207e28	Poglej video: {0}
+db3655b	Naslednji brezplačni žetoni čez {0}
+4ca9be5	BLACKJACK
+9a612b1	4 mize  •  izplača 3 proti 2
+1194439	AVTOMATI
+6555152	Lucky Ace 7s  •  10 linij
+255b1a1	RULETA
+6df1551	Evropska z eno ničlo
+379b146	IZČRPAN SI
+340e5c4	Tvoja energija je prazna. Vzemi kaj v baru in igraj naprej ali se vrni pozneje: energija se počasi obnavlja, ko te ni.
+a517396	POJDI V BAR
+7c7227f	IZBERI SVOJO MIZO
+c963de3	STAVE
+c433657	STOPNJA {0}
+083ac39	SEDI
+9698219	POTREBNO {0}
+34b737e	Doseži stopnjo {0}, da lahko igraš tukaj. Si na stopnji {1}.
+6cc19a9	IGRALNICA
+6e946b7	DD
+4a3a892	MM
+2857a6a	LLLL
+9d1fece	DAN
+d3bb0c3	MESEC
+c0f0cad	LETO
+43985ff	KDAJ SI SE RODIL?
+293fda2	Žetoni so samo za zabavo. Nimajo denarne vrednosti in jih nikoli ni mogoče zamenjati za denar ali nagrade.
+3e9128d	ŽAL NE MOREŠ IGRATI
+b5e8985	{0} je na voljo samo odraslim.
+bb1b380	IZHOD
+d9f9432	Zapiranje čez {0}...
+c6e102d	POVEJ NAM O SEBI
+31120ce	Temu primerno izberemo gostitelje, delivce in osebje bara. To lahko kadarkoli spremeniš v Nastavitvah.
+49e8df9	SEM MOŠKI
+85abe81	SEM ŽENSKA
+76cc98c	RAJE NE POVEM
+964daf7	VSTOPI V IGRALNICO
+2efb69a	Tvoje osebje nocoj:
+c10e749	Stran {0} od {1}
+2a3ffd9	JEZIK
+c673535	SAMODEJNO
+d1245d2	DRŽAVA
+15fc12b	Dobrodošli! Stave, prosim.
+531fb3f	Za to stavo nimaš dovolj žetonov.
+380eb75	Omejitev mize je {0} na vrtljaj.
+55ad592	RAZVELJAVI
+8f191f9	SKUPNA STAVA  {0}
+82e1181	Tapni igralno ploščo in postavi žetone
+bb19a75	Stave so zaključene!
+5becf07	ZELENO
+bc74f4f	zeleno
+7898801	rdeče
+466bc8c	črno
+f2edfbf	Kakšen zadetek! Čestitke!
+b252caf	Zmaga! Zmagaš {0}.
+8587d14	ZMAGA  +{0}
+b862a2b	{0} {1}. Nazaj dobiš {2}.
+a306d0a	VRNJENO  {0}
+af3134d	Tokrat brez zmage
+84122e7	Stave, prosim.
+52205f4	Počakaj, da se kroglica ustavi.
+c4b9243	NASTAVITVE
+44d863e	SPLOŠNO
+2bbca79	GRAFIKA
+955c8b4	ZVOK
+c701f5f	DOTIK
+efcc94a	MIŠKA
+8433628	KRMILNIK
+d868a50	VIBRIRANJE
+f8692c7	18+ • Žetoni nimajo denarne vrednosti • Pisave: Bebas Neue, Poppins, Noto (SIL OFL) • Meje: Natural Earth • Podatki o cenah: Svetovna banka
+da46447	OSEBJE IGRALNICE
+594b81e	ŽENSKE
+69d3313	MOŠKI
+b4325d3	MEŠANO
+414594a	OPOMNIKI
+6cac87b	Brezplačni žetoni pripravljeni in večerni opomnik, preden bi se niz končal.
+e43b2e0	PREVERI ZNOVA
+7c9e8f9	CENOVNA REGIJA
+495c70e	Najhitreje: igralnica, kot je naslikana, nič dodatnega.
+b052523	Polirana tla, les in zlato odsevajo dvorano.
+6bd30d7	Filmski videz: barvna korekcija, zrnatost, sij, svetlobni žarki, živahna koža.
+21b6e1d	Filmski objektiv: ostrina sledi tvojemu pogledu, lesk na lučeh, prah v žarkih.
+fb7c2e8	KAKOVOST
+d8b9679	NIZKA
+f68525a	SREDNJA
+d77d0b2	VISOKA
+9289eee	ULTRA
+637e313	LOČLJIVOST
+2e7b141	Nižja je mehkejša, a se telefon manj greje in varčuje z baterijo.
+93dcfb5	NAČIN PRIKAZA
+3c6eac3	CELOZASLONSKO
+f3690b1	V OKNU
+cfa6200	GLAJENJE ROBOV
+ad50489	IZKLOP
+f178804	Zgladi nazobčane robove v igralnici.
+4266288	HITROST SLIČIC
+d031ab0	{0} FPS
+a2b7514	30 FPS varčuje z baterijo in ohranja starejše telefone hladne.
+0babcee	V-SYNC
+6656e25	VIDNO POLJE
+244aadb	PRIKAŽI FPS
+41c8f6e	GLAVNA GLASNOST
+bf3af1f	GLASBA
+bd80907	ZVOČNI UČINKI
+d098036	GLASOVI OSEBJA
+93c6484	Mrmranje osebja med pogovorom.
+16bf71a	UTIŠAJ V OZADJU
+85b2ee7	Utiša igralnico, ko si v drugem oknu.
+8e3634e	OBČUTLJIVOST POGLEDA
+880dc05	Kako hitro vlečenje obrača pogled.
+750c60f	Kako hitro vlečenje z miško obrača pogled.
+8b988eb	OBRNI POGLED LEVO / DESNO
+cacf0cc	OBRNI POGLED GOR / DOL
+2d13b68	RAZPORED GUMBOV
+50c3f10	SAMODEJNO
+b471e5c	ZAMENJAJ MENI / POGLED
+d9a59f1	OBČUTLJIVOST PALICE
+ec14343	Kako hitro desna palica obrača pogled.
+a79af23	OBRNI PALICO LEVO / DESNO
+acfc66e	OBRNI PALICO GOR / DOL
+56bb461	NAMIGI ZA KRMILNIK
+51cf49a	Prikaže, kaj naredi vsak gumb, ko igraš s krmilnikom.
+dff7431	VIBRIRAJ NA
+34139ab	TELEFON
+15ee988	OBOJE
+465cc91	Samodejno: krmilnik, ko je povezan, sicer telefon.
+f6fed84	VIBRIRANJE TELEFONA
+8e97fa7	MOČ NA TELEFONU
+486ba2d	VIBRIRANJE KRMILNIKA
+8008889	MOČ NA KRMILNIKU
+ea9233e	SAMODEJNO ({0})
+167dda7	{0} odpre Nastavitve, {1} odpre Dnevno.
+29a4ef9	Noben krmilnik ni povezan.
+558ecd2	Povezano: {0}. Prikazani so gumbi {1} (A na desni potrdi).
+d6eee9e	Povezano: {0}. Prikazani so gumbi {1}.
+78525d5	BAR
+099db9f	SREČA
+b4a8b06	Žetoni, sreča in hrana so navidezni predmeti samo za zabavo: brez denarne vrednosti, ni jih mogoče unovčiti za denar ali nagrade.
+e2a28c9	Vsaka karta ima takšno možnost, da pride tebi v prid, pri stavah v blackjacku do {0} žetonov (višje stave so standardne in ne porabijo rok). Začne se po sreči začetnika; močnejši paketi se porabijo najprej.
+04fbc6d	Dovoli dostop do lokacije za ceno tvoje države
+2ae87fc	Nakupi v tej različici igre niso na voljo.
+8239a84	TESTNA TRGOVINA (brez pravega denarja)
+173d916	energija
+b2c67eb	+{0} % ŽETONOV
+58e8011	rok: {0}
+ce80712	zmaga približno {0} % od njih
+c69e8ee	LUCKY ACE 7s
+fc99288	SKUPNA STAVA
+c1c00cd	TABELA IZPLAČIL
+3930abd	SREČNO!
+67b6973	Za vrtljaj potrebuješ vsaj 10 žetonov.
+5aa1edb	DOBI ŽETONE
+f5a1812	Stava znižana na znesek, ki ga lahko pokriješ.
+5c63f61	MEGA ZMAGA!
+652544f	VELIKA ZMAGA!
+91bc41c	VRNJENO {0}
+3714283	BREZ ZMAGE
+33c0faa	LINIJA {0}: {1} × {2} = {3}
+9f59e6e	ZVEZDE ×{0} = {1}
+d6eee90	Češnja
+4459b79	Limona
+09fb6aa	Pomaranča
+cb92e50	Sliva
+d419866	Zvonec
+e496fd2	Bar
+63abb56	Sedmica
+b3850e0	Diamant
+fc2b5a9	As
+85a7de6	Zvezda
+c31b035	ZVEZDE izplačajo kjerkoli: 5 = {0}× stava, 4 = {1}× stava, 3 = {2}× stava.
+f97509c	AS je divja karta: nadomesti vsak simbol razen zvezde.
+3e8bc69	Dobitki na linijah so večkratniki stave na linijo (skupna stava ÷ 10), od leve proti desni od prvega valja.
+523f8dc	VRAČILO: {0} % na dolgi rok. Vsak vrtljaj je neodvisen in naključen.
+e0c705d	Hoja
+b8db515	Pogled
+503d46d	Gumbi
+c7f73bb	Nastavitve
+728298d	Dnevno
+ab166bd	Prilagodi
+76cdb95	Premik
+8598222	Izberi
+bbfa773	Zapri
+b52b36b	Nazaj
+ab37588	IZČRPAN
+9b11a09	SREČA ZAČETNIKA {0} %
+0c94e98	ŠE ROK: {0}
+51ed273	SREČNI NIZ {0} %
+3401470	ROK: {0}  •  STAVE DO {1}
+f481cc6	STOPNJA
+0139615	DOBRODOŠLI
+daad514	POGOVORI SE Z GOSTITELJICO
+bcefb10	Smer in nasveti
+c28e782	ŽETONI  •  BONUSI
+0c69ec4	KUPI ŽETONE
+78c0727	Blagajna
+1737fab	KOKTAJLI  •  PRIGRIZKI  •  ENERGIJA
+9e008ae	HRANA IN PIJAČA
+f7881e8	Bar
+0e979ed	BLACKJACK IZPLAČA 3 PROTI 2
+eea0d12	DELIVEC MORA OSTATI PRI 17
+4db37bf	IGRAJ BLACKJACK
+0ffdd99	Miza {0}  •  stave {1} do {2}
+b4f938b	IGRAJ NA AVTOMATIH
+6b7caea	STAVE, PROSIM
+26b1e39	IGRAJ RULETO
+910a1ed	Evropsko kolo  •  direktna stava izplača 35 proti 1
+7ef0215	NAROČI PIJAČO
+fe38d73	{0} jo prinese
+f7b6306	{0} se odpre na stopnji {1}. Si na stopnji {2}: šteje vsak odigran krog.
+d85f1ad	Ta miza zahteva vsaj {0} žetonov.
+cbfe016	Mize za blackjack so naravnost naprej. Stopi do ene in sedi!
+64d9faf	Blagajna je tu na tvoji desni, bar pa ob levi steni.
+e4c6e0b	Si utrujen? Prigrizek v baru ti takoj napolni energijo.
+d5ab68f	Tapni kjerkoli na tla in boš šel tja. Tapni mizo, da sedeš.
+cc21f74	MALO
+dc01dec	VELIKO
+5fb90b0	KATERAKOLI TROJKA
+9c716f1	Miza za hold'em
+3b6ab84	Odigraj 8 rok hold'ema
+6c617ca	Zmagaj v 4 rokah hold'ema
+44ce500	Odigraj 10 rok bakarata
+b90cff7	Zmagaj v 5 rokah bakarata
+3e4dfa9	Odigraj 15 rok video pokra
+854fe20	Odigraj 8 krogov sic bo
+dfddac1	Zmagaj v 4 krogih sic bo
+2973ea7	Vrzi kocke 15-krat pri crapsu
+737be17	Zmagaj v 4 metih pri crapsu
+4dbb81d	Pri video pokru sestavi barvo ali bolje
+19aa07b	Kraljeva lestvica
+cf83e72	Barvna lestvica
+d27ba03	Poker
+dbe8641	Full house
+7c936d7	Barva
+2501c65	Lestvica
+ca1a0d4	Tris
+6876b40	Dva para
+2537f88	Par
+b4b323e	Visoka karta
+f70bfdc	Fantje ali bolje
+98fd5af	BAKARA
+df66d5a	Dobrodošli pri bakari! Igralec, Bankir ali Neodločeno?
+5055efd	IGRALEC
+3f90696	NEODLOČENO
+0d75f63	BANKIR
+0ebd5a4	ZADNJI REZULTATI
+511993d	I
+ae4f281	B
+c2c53d6	N
+781246e	Izberi žeton in tapni Igralec, Bankir ali Neodločeno
+11023a0	NEODLOČENO  {0}
+503d5f1	ZMAGA IGRALEC  {0} PROTI {1}
+0eb4be5	ZMAGA BANKIR  {0} PROTI {1}
+7859af1	CRAPS
+4083dbd	Dobrodošli pri crapsu! Stavi na Pass Line in vrzi.
+d266326	ŠEST
+c506f3a	DEVET
+987f4e9	FIELD
+71c1b2b	2 3 4 9 10 11 12  •  2 in 12 plačata dvojno
+d0ac294	KATERAKOLI 7
+9b2f0c3	KATERIKOLI CRAPS
+f62ac59	DON'T PASS BAR
+6080ade	1:1  •  12 je neodločeno
+c07247a	PASS LINE
+6229f78	ODDS
+29bf819	prave kvote
+387d7a5	VKL
+229c9cc	Odds gredo za Pass Line, ko je točka.
+c2c8e82	Za odds potrebuješ stavo na Pass Line.
+1784d43	Tvoje odds so na najvišji vrednosti.
+fdc3442	Stave na linijo se postavijo pri začetnem metu.
+97ce95b	NA MIZI  {0}
+a895ec0	Točka je {0}: vrzi jo še enkrat pred 7. Odds za tvojo Pass Line plačajo prave kvote.
+d9f9d65	VRZI
+bcf32ef	Točka je {0}.
+5b450b4	{0}! Točka zadeta. Zmaga!
+9746e08	Sedmica. Nov metalec, nov začetni met.
+4fc4664	{0}, natural! Pass Line zmaga.
+203f466	{0}, craps. Linija izgubi.
+0f8e260	Počakaj, da se kocke ustavijo.
+6a98cfe	ZAPUSTIŠ MIZO?
+8430088	Tvoja stava na linijo še igra na točko {0}. Če zdaj odideš, jo izgubiš.
+0e138d1	HOLD'EM
+5e023be	Dobrodošli pri hold'emu! Postavi ante in poglejva karte.
+0cd62f5	ANTE
+5e9f331	BLIND
+3b935ab	BLIND PLAČA
+20713a4	Delivec se kvalificira s parom ali bolje
+d37267c	CHECK
+9a4e316	FOLD
+88313c4	STAVI {0}×
+42c6fea	Ante {0} + blind {0}. Prihrani še {1} za dvig.
+1abb2f2	Tapni žetone za ante. Blind je enak.
+f541cec	Check ali stava tri- ali štirikratnika ante?
+fc74a79	Dvigni zdaj za 4× ali 3× ante ali daj check in poglej flop.
+b687501	Zadnja priložnost: stavi 1× ante ali daj fold in izgubi ante in blind.
+400009c	Stavi zdaj 2× ante ali daj check in poglej zadnji dve karti.
+f4abdf9	Tukaj je flop.
+0e51f2c	Turn in river.
+cc856d3	Poglejmo, kaj imam.
+6ba1f3e	Delivec se ni kvalificiral: ante se ti vrne.
+cf1fdc5	Fold. Naslednja roka je tvoja.
+177fab0	Ultimate Texas Hold'em
+c4917b9	Igralec, Bankir ali Neodločeno
+6e4fe7b	VIDEO POKER
+73cabd3	Jacks or Better
+91c4555	SIC BO
+d810061	Tri kocke  •  veliko ali malo
+85ab7ec	Pass Line  •  Field  •  Odds
+35d8db6	Dobrodošli pri sic bo! Veliko, malo ali kaj drznejšega?
+3d05514	Omejitev mize je {0} na met.
+86ade94	PRETRESI
+b69304e	TROJKA {0}!
+5d1bcc6	OBDRŽANA
+36a21ba	Razdeli, obdrži karte, ki jih želiš, in enkrat zamenjaj.
+99fa8e8	OBDRŽI
+249d1c0	NAMIG
+7aab1bd	ZAMENJAJ
+5595eb4	Tapni karte, ki jih obdržiš, nato zamenjaj.
+1c05db9	IGRAJ HOLD'EM
+e353e5f	Ultimate Texas Hold'em  •  ante od {0} do {1}
+6470369	IGRAJ BAKARO
+bbe0077	VELIKO  •  MALO  •  TROJKE
+3ba448f	IGRAJ SIC BO
+097c59c	Tri kocke  •  veliko ali malo plača 1 : 1
+af2ca30	PASS LINE  •  FIELD  •  ODDS
+f18398e	IGRAJ CRAPS
+eeede6d	Pass Line plača 1 : 1  •  odds plačajo prave kvote
+34e5170	IGRAJ VIDEO POKER
+f71bdfb	Jacks or Better  •  polna tabela 9/6
+4a6c087	JACKS OR BETTER  •  KRALJEVA LESTVICA PLAČA 800×
+370a133	Igralni avtomati so ob desni steni, video poker ob zadnji, ruleta pa čisto zadaj.
+8298d28	Hold'em je v levem zadnjem kotu, za šankom.
+a2a111f	Bakara je takoj levo pri vhodu.
+b7193bc	Sic bo je v kotu za blagajno: tri kocke, veliko ali malo.
+25320c8	Miza za craps je desno pred avtomati. Stavi na Pass Line in vrzi!
+dc81691	Sofia
+4d9936f	Elena
+3aa0674	Mia
+b724114	Valentina
+34d3f7f	Chloe
+0fc9dd6	Isabella
+bbd3e35	Nadia
+eac677d	Aria
+baaf10f	Luna
+8641381	Camila
+eeee9b7	Aurora
+8a59f05	Bianca
+5a0fc29	Serena
+bf38aa5	Marco
+cfaf50a	Leo
+5815f22	Adrian
+cbede02	Lucas
+f0b9995	Viktor
+7b37259	Daniel
+aaac72d	Gabriel
+2f8f37e	Ethan
+a01126e	Julian
+3e05c90	Rafael
+e1ae457	Mateo
+3398634	Nico
+7aa2d07	Enzo
+1920e2f	Začetni met: stavi na Pass Line in vrzi. 7 ali 11 zmaga, 2, 3 ali 12 izgubi. Stave Place začnejo veljati, ko je točka.
+99f4934	LUCKY ACE 7s  •  IZPLAČA DO 2.500× TVOJE STAVE NA LINIJO

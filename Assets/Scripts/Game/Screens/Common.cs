@@ -68,23 +68,61 @@ namespace Casino.Screens
         }
     }
 
-    /// <summary>Plain-language explanation of Beginner's Luck, so the boost is never hidden from the player.</summary>
+    /// <summary>Plain-language explanation of the luck boost (Beginner's Luck or a Lucky Streak), so it is never hidden.</summary>
     public sealed class LuckInfoModal : UIModal
     {
         protected override void Build()
         {
-            MakePanel(1180, 720, "BEGINNER'S LUCK");
-            AddCloseButton();
             var luck = App.I.Luck;
-            string body =
-                $"Welcome bonus for new players: for your first <b>{luck.FullHands} hands</b> the dealer's shoe is stacked in your favor, " +
-                $"so you will win almost every hand.\n\nOver the next <b>{luck.FadeHands} hands</b> the boost fades out, and after that every table " +
-                "is standard, fair blackjack dealt from a shuffled 6-deck shoe (blackjack pays 3 to 2, dealer stands on all 17s).\n\n" +
-                $"Boost right now: <b><color=#7CFC9A>{Mathf.RoundToInt((float)luck.Luck * 100)}%</color></b>   Hands left: <b>{luck.HandsRemaining}</b>";
+            var boost = App.I.Boost;
+            bool beginner = luck.IsActive || !boost.IsActive;
+            MakePanel(1180, 720, beginner ? Loc.T("BEGINNER'S LUCK") : Loc.T("LUCKY STREAK"));
+            AddCloseButton();
+            string body = beginner
+                ? Loc.F("Welcome bonus for new players: for your first <b>{0} hands</b> the dealer's shoe is stacked in your favor, " +
+                        "so you will win almost every hand.", luck.FullHands) + "\n\n" +
+                  Loc.F("Over the next <b>{0} hands</b> the boost fades out, and after that every table is standard, fair blackjack dealt " +
+                        "from a shuffled 6-deck shoe (blackjack pays 3 to 2, dealer stands on all 17s).", luck.FadeHands) + "\n\n" +
+                  Loc.F("Boost right now: <b><color=#7CFC9A>{0}%</color></b>   Hands left: <b>{1}</b>",
+                        Mathf.RoundToInt((float)luck.Luck * 100), luck.HandsRemaining)
+                : Loc.F("For your next <b>{0} blackjack hands</b> with a bet of up to <b>{1} chips</b>, each card has a <b>{2}%</b> chance " +
+                        "of being dealt in your favor (the same boost as Beginner's Luck).", boost.HandsLeft, ChipFormat.Full(boost.MaxBet),
+                        boost.Percent) + "\n\n" +
+                  Loc.F("With good play that wins about <b>{0}%</b> of hands, against about {1}% in standard blackjack. Bigger bets are " +
+                        "standard blackjack and don't use up hands. When the hands run out, every table is standard, fair blackjack again.",
+                        Mathf.RoundToInt((float)Casino.Core.Player.LuckBoost.WinRate(boost.Percent) * 100),
+                        Mathf.RoundToInt((float)Casino.Core.Player.LuckBoost.WinRate(0) * 100));
             var t = UIKit.Label(Panel, body, 34, Color.white, TextAnchor.UpperLeft, FontKind.Body);
             ((RectTransform)t.transform).Stretch(70, 150, 70, 140);
-            var ok = UIKit.Button(Panel, "GOT IT", ButtonStyle.Green, Close, 44);
+            var ok = UIKit.Button(Panel, Loc.T("GOT IT"), ButtonStyle.Green, Close, 44);
             ok.Rect.At(0.5f, 0f, 0, 80, 360, 100);
+        }
+    }
+
+    /// <summary>
+    /// Shown once, when Beginner's Luck runs out: the luck packs, with exactly what each one does. Closing it costs
+    /// nothing and it never comes back by itself (the packs stay in the shop's Luck tab).
+    /// </summary>
+    public sealed class LuckOfferModal : UIModal
+    {
+        UIButton later;
+
+        // A real-money offer that just popped up should not be one button press away from the payment sheet.
+        public override GameObject DefaultFocus => later != null ? later.gameObject : null;
+
+        protected override void Build()
+        {
+            MakePanel(1300, 820, Loc.T("WANT YOUR LUCK BACK?"));
+            AddCloseButton();
+            var intro = UIKit.Label(Panel,
+                Loc.T("Beginner's Luck is over: from here every table is standard, fair blackjack. A Lucky Streak brings the boost back for a while."),
+                30, Color.white, TextAnchor.UpperCenter, FontKind.Body);
+            ((RectTransform)intro.transform).At(0.5f, 1f, 0, -150, 1100, 100);
+            var packs = ProductCatalog.OfKind(ProductKind.Luck);
+            for (int i = 0; i < packs.Count; i++)
+                ShopModal.LuckCard(Panel, packs[i], new Vector2((i - (packs.Count - 1) * 0.5f) * 460f, -10f));
+            later = UIKit.Button(Panel, Loc.T("NO THANKS"), ButtonStyle.Dark, Close, 36);
+            later.Rect.At(0.5f, 0f, 0, 70, 360, 90);
         }
     }
 
@@ -106,7 +144,8 @@ namespace Casino.Screens
         {
             var product = ProductCatalog.Find(RegionalPricing.ProductIdFromSku(sku));
             MakePanel(1000, 600, "TEST PURCHASE");
-            string what = product == null ? sku : product.Kind == ProductKind.Chips ? $"{ChipFormat.Full(product.Chips)} chips" : product.Title;
+            string what = product == null ? sku : product.Kind == ProductKind.Chips ? $"{ChipFormat.Full(product.Chips)} chips"
+                : product.Kind == ProductKind.Luck ? $"{product.Title} ({product.LuckHands} hands at {product.LuckPercent}% luck)" : product.Title;
             var t = UIKit.Label(Panel,
                 $"{what}\n<size=30><color=#C9BFDB>Store SKU: {sku}\nPrice shown: {App.I.Purchases.DisplayPrice(product)}\n\nTest build - no real money is charged.</color></size>",
                 40, Color.white, TextAnchor.MiddleCenter, FontKind.Semi);

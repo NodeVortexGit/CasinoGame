@@ -31,7 +31,7 @@ namespace Casino.Screens
         readonly Image[] missionChecks = new Image[Missions.PerDay];
         readonly Text[] missionRewards = new Text[Missions.PerDay];
         Text bonusText;
-        bool spinning;
+        bool spinning, wheelShowsPrize;
         float refresh;
 
         static Progress P => App.I.Progress;
@@ -40,7 +40,7 @@ namespace Casino.Screens
 
         protected override void Build()
         {
-            MakePanel(1800, 900, "DAILY");
+            MakePanel(1800, 900, Loc.T("DAILY"));
             AddCloseButton();
             BuildStreak(Column(-600, StreakPill.Fire));
             BuildWheel(Column(0, Palette.Gold));
@@ -87,7 +87,7 @@ namespace Casino.Screens
 
         void BuildStreak(RectTransform col)
         {
-            Header(col, "DAILY STREAK", StreakPill.Fire);
+            Header(col, Loc.T("DAILY STREAK"), StreakPill.Fire);
             var glow = UIKit.Image(col, "Glow", ProceduralArt.Glow, Palette.WithAlpha(StreakPill.Fire, 0.35f));
             ((RectTransform)glow.transform).Center(-100, 200, 300, 300);
             bigFlame = UIKit.Image(col, "Flame", ProceduralArt.IconSprite(Icon.Flame), StreakPill.Fire);
@@ -95,7 +95,7 @@ namespace Casino.Screens
             streakNumber = UIKit.Label(col, "0", 130, Color.white, TextAnchor.MiddleLeft, FontKind.Display);
             ((RectTransform)streakNumber.transform).Center(110, 210, 260, 150);
             UIKit.TextShadow(streakNumber, -4f, 0.6f);
-            var days = UIKit.Label(col, "DAY STREAK", 26, StreakPill.Fire, TextAnchor.MiddleLeft, FontKind.Semi);
+            var days = UIKit.Label(col, Loc.T("DAY STREAK"), 26, StreakPill.Fire, TextAnchor.MiddleLeft, FontKind.Semi);
             ((RectTransform)days.transform).Center(110, 130, 260, 36);
             streakBest = UIKit.Label(col, "", 22, Palette.TextMuted, TextAnchor.MiddleCenter, FontKind.Semi);
             ((RectTransform)streakBest.transform).Center(0, 86, ColumnW - 40, 30);
@@ -113,7 +113,7 @@ namespace Casino.Screens
                 dayIcons[i] = UIKit.Image(dayRings[i].transform, "Mark", ProceduralArt.IconSprite(Icon.Flame), StreakPill.Fire);
                 ((RectTransform)dayIcons[i].transform).Stretch(8, 8, 8, 8);
                 var day = DateTime.Today.AddDays(i - 6);
-                var letter = UIKit.Label(col, i == 6 ? "TODAY" : day.DayOfWeek.ToString().Substring(0, 3).ToUpperInvariant(), 18,
+                var letter = UIKit.Label(col, i == 6 ? Loc.T("TODAY") : Loc.Upper(Loc.Weekday((int)day.DayOfWeek)), 18,
                     i == 6 ? Palette.Gold : Palette.TextMuted, TextAnchor.MiddleCenter, FontKind.Semi);
                 ((RectTransform)letter.transform).Center(x, -146, 70, 26);
             }
@@ -123,34 +123,34 @@ namespace Casino.Screens
             freezeText = UIKit.Label(col, "", 24, Color.white, TextAnchor.MiddleLeft, FontKind.Semi);
             ((RectTransform)freezeText.transform).Center(30, -215, 400, 64);
             // A freeze for a video, or for chips.
-            freezeAdButton = UIKit.Button(col, "WATCH AD", ButtonStyle.Green, () => App.I.Purchases.WatchAdForFreeze(), 28, Icon.Video);
+            freezeAdButton = UIKit.Button(col, Loc.T("WATCH AD"), ButtonStyle.Green, () => App.I.Purchases.WatchAdForFreeze(), 28, Icon.Video);
             freezeAdButton.Rect.Center(-118, -310, 228, 90);
-            freezeButton = UIKit.Button(col, "BUY", ButtonStyle.Blue, AskBuyFreeze, 28, Icon.Coin);
+            freezeButton = UIKit.Button(col, Loc.T("BUY"), ButtonStyle.Blue, AskBuyFreeze, 28, Icon.Coin);
             freezeButton.Rect.Center(118, -310, 228, 90);
         }
 
         void AskBuyFreeze()
         {
             if (!P.CanBuyFreeze) return;
-            App.I.UI.Modal<ConfirmModal>(m => m.Setup("STREAK FREEZE",
-                $"A streak freeze keeps your streak alive on a day you don't play. You can hold {Streak.MaxFreezes}.\n\n" +
-                $"Buy one for {ChipFormat.Full(GameConfig.StreakFreezeChips)} chips?",
-                "BUY", () =>
+            App.I.UI.Modal<ConfirmModal>(m => m.Setup(Loc.T("STREAK FREEZE"),
+                Loc.F("A streak freeze keeps your streak alive on a day you don't play. You can hold {0}.\n\nBuy one for {1} chips?",
+                    Streak.MaxFreezes, ChipFormat.Full(GameConfig.StreakFreezeChips)),
+                Loc.T("BUY"), () =>
                 {
                     if (P.BuyFreeze())
                     {
                         Sfx.Play(SfxId.ChipStack);
-                        App.I.UI.Toast("Streak freeze ready.", Palette.Hex("8FD8FF"), Icon.Freeze);
+                        App.I.UI.Toast(Loc.T("Streak freeze ready."), Palette.Hex("8FD8FF"), Icon.Freeze);
                     }
-                    else App.I.UI.Toast("Not enough chips for a freeze.", Palette.TextMuted, Icon.Coin);
-                }, "CANCEL", null, ButtonStyle.Blue));
+                    else App.I.UI.Toast(Loc.T("Not enough chips for a freeze."), Palette.TextMuted, Icon.Coin);
+                }, Loc.T("CANCEL"), null, ButtonStyle.Blue));
         }
 
         // ------------------------------------------------------------------ wheel
 
         void BuildWheel(RectTransform col)
         {
-            Header(col, "DAILY SPIN", Palette.Gold);
+            Header(col, Loc.T("DAILY SPIN"), Palette.Gold);
             var holder = UIKit.NewRect("WheelHolder", col).Center(0, 60, WheelSize, WheelSize);
             var shadow = UIKit.Image(holder, "Shadow", ProceduralArt.Glow, new Color(0, 0, 0, 0.6f));
             ((RectTransform)shadow.transform).Center(0, -10, WheelSize * 1.25f, WheelSize * 1.25f);
@@ -177,17 +177,17 @@ namespace Casino.Screens
 
             wheelInfo = UIKit.Label(col, "", 30, Palette.GoldLight, TextAnchor.MiddleCenter, FontKind.Semi);
             ((RectTransform)wheelInfo.transform).Center(0, -184, ColumnW - 40, 44);
-            spinButton = UIKit.Button(col, "SPIN", ButtonStyle.Gold, () => StartCoroutine(Spin()), 50, Icon.Play);
+            spinButton = UIKit.Button(col, Loc.T("SPIN"), ButtonStyle.Gold, () => StartCoroutine(Spin()), 50, Icon.Play);
             spinButton.Rect.Center(0, -262, 340, 100);
 
-            var odds = new System.Text.StringBuilder("Chances:  ");
+            var odds = new System.Text.StringBuilder(Loc.T("Chances:")).Append("  ");
             var order = new int[n];
             for (int i = 0; i < n; i++) order[i] = i;
             Array.Sort(order, (x, y) => DailyWheel.Prizes[x].CompareTo(DailyWheel.Prizes[y]));
             for (int k = 0; k < n; k++)
             {
                 int i = order[k];
-                odds.Append(ChipFormat.Short(DailyWheel.Prizes[i])).Append(' ').Append(DailyWheel.Weights[i]).Append('%');
+                odds.Append(ChipFormat.Short(DailyWheel.Prizes[i])).Append(' ').Append(Loc.F("{0}%", DailyWheel.Weights[i]));
                 if (k < n - 1) odds.Append(k == 3 ? "\n" : "  •  ");
             }
             var oddsText = UIKit.Label(col, odds.ToString(), 19, Palette.TextMuted, TextAnchor.MiddleCenter, FontKind.Body);
@@ -210,6 +210,7 @@ namespace Casino.Screens
             float target = start - Mathf.Repeat(start, 360f) + 360f * 6f + (segment + 0.5f) * step + UnityEngine.Random.Range(-step * 0.3f, step * 0.3f);
             int lastTick = Mathf.FloorToInt(start / step);
             wheelInfo.text = "";
+            wheelShowsPrize = true;
             yield return Tween.Run(4.2f, Ease.OutCubic, k =>
             {
                 float z = Mathf.LerpUnclamped(start, target, k);
@@ -224,7 +225,7 @@ namespace Casino.Screens
             });
             Sfx.Play(SfxId.Coins);
             Confetti.Burst(Panel, new Vector2(0, 40), 70, true);
-            wheelInfo.text = $"You won {ChipFormat.Full(prize)} chips!";
+            wheelInfo.text = Loc.F("You won {0} chips!", ChipFormat.Full(prize));
             spinning = false;
             Refresh();
         }
@@ -233,17 +234,17 @@ namespace Casino.Screens
 
         void BuildMissions(RectTransform col)
         {
-            Header(col, "TODAY'S MISSIONS", Palette.Cyan);
+            Header(col, Loc.T("TODAY'S MISSIONS"), Palette.Cyan);
             for (int i = 0; i < Missions.PerDay; i++)
             {
                 var m = P.Mission(i);
                 float y = 200 - i * 160;
                 var card = UIKit.Panel(col, "Mission", new Color(1, 1, 1, 0.06f), 22f);
                 var crt = ((RectTransform)card.transform).Center(0, y, ColumnW - 50, 140);
-                var art = UIKit.Image(crt, "Game", GameArt(m.Game), m.Game == GameKind.Blackjack ? Palette.Hex("7CFC9A") : Color.white);
+                var art = UIKit.Image(crt, "Game", GameArt(m.Game), GameTint(m.Game));
                 art.preserveAspect = true;
                 ((RectTransform)art.transform).At(0f, 0.5f, 18, 0, 84, 84, 0f, 0.5f);
-                var text = UIKit.Label(crt, m.Text, 26, Color.white, TextAnchor.MiddleLeft, FontKind.Semi);
+                var text = UIKit.Label(crt, Loc.T(m.Text), 26, Color.white, TextAnchor.MiddleLeft, FontKind.Semi);
                 ((RectTransform)text.transform).Stretch(118, 64, 120, 14);
                 Bar(crt, -20, -30, 260, 18, Palette.Cyan, out missionFills[i]);
                 missionCounts[i] = UIKit.Label(crt, "", 22, Palette.TextMuted, TextAnchor.MiddleLeft, FontKind.Semi);
@@ -267,6 +268,20 @@ namespace Casino.Screens
             }
         }
 
+        static Color GameTint(GameKind? game)
+        {
+            switch (game)
+            {
+                case GameKind.Blackjack: return Palette.Hex("7CFC9A");
+                case GameKind.Holdem: return Palette.Hex("39E6FF");
+                case GameKind.Baccarat: return Palette.Hex("FF6A7E");
+                case GameKind.VideoPoker: return Palette.Hex("7FB2FF");
+                case GameKind.SicBo: return Palette.Hex("FF4FA3");
+                case GameKind.Craps: return Palette.Hex("F5C542");
+                default: return Color.white;
+            }
+        }
+
         // ------------------------------------------------------------------ state
 
         void Refresh()
@@ -276,9 +291,9 @@ namespace Casino.Screens
             bool done = streak.DoneToday(p.Day);
             streakNumber.text = streak.Count.ToString();
             bigFlame.color = done ? StreakPill.Fire : new Color(0.5f, 0.47f, 0.55f);
-            streakBest.text = streak.Best > 0 ? $"Best: {streak.Best} days" : "Play every day to build a streak";
+            streakBest.text = streak.Best > 0 ? Loc.F("Best: {0} days", streak.Best) : Loc.T("Play every day to build a streak");
             int rounds = Mathf.Min(streak.RoundsToday(p.Day), streak.DailyGoal);
-            goalText.text = done ? "Today's goal done! See you tomorrow." : $"Today: {rounds} / {streak.DailyGoal} rounds (any game)";
+            goalText.text = done ? Loc.T("Today's goal done! See you tomorrow.") : Loc.F("Today: {0} / {1} rounds (any game)", rounds, streak.DailyGoal);
             goalFill.anchorMax = new Vector2(Mathf.Max(0.05f, done ? 1f : (float)rounds / streak.DailyGoal), 1f);
             for (int i = 0; i < 7; i++)
             {
@@ -289,11 +304,13 @@ namespace Casino.Screens
                 dayIcons[i].color = mark == DayMark.Frozen ? Palette.Hex("8FD8FF") : StreakPill.Fire;
                 dayRings[i].color = i == 6 ? Palette.WithAlpha(Palette.Gold, done ? 0.35f : 0.2f) : new Color(1, 1, 1, mark == DayMark.None ? 0.08f : 0.16f);
             }
-            freezeText.text = $"Streak freezes: {streak.Freezes} / {Streak.MaxFreezes}\n<size=19><color=#C9BFDB>Save your streak on a day you miss. +1 every 7 days.</color></size>";
-            freezeButton.SetLabel(p.CanBuyFreeze ? ChipFormat.Short(GameConfig.StreakFreezeChips) : "FULL");
+            freezeText.text = Loc.F("Streak freezes: {0} / {1}", streak.Freezes, Streak.MaxFreezes) +
+                "\n<size=19><color=#C9BFDB>" + Loc.T("Save your streak on a day you miss. +1 every 7 days.") + "</color></size>";
+            freezeButton.SetLabel(p.CanBuyFreeze ? ChipFormat.Short(GameConfig.StreakFreezeChips) : Loc.T("FULL"));
             freezeButton.Interactable = p.CanBuyFreeze;
             var purchases = App.I.Purchases;
-            freezeAdButton.SetLabel(!p.CanBuyFreeze ? "FULL" : purchases.AdReady ? "WATCH AD" : App.I.Ads.IsBlocked ? "NO VIDEO" : "AD SOON");
+            freezeAdButton.SetLabel(!p.CanBuyFreeze ? Loc.T("FULL") : purchases.AdReady ? Loc.T("WATCH AD")
+                : App.I.Ads.IsBlocked ? Loc.T("NO VIDEO") : Loc.T("AD SOON"));
             freezeAdButton.Interactable = p.CanBuyFreeze && purchases.AdReady;
 
             if (!spinning)
@@ -301,15 +318,15 @@ namespace Casino.Screens
                 spinButton.Interactable = p.WheelReady;
                 if (p.WheelReady)
                 {
-                    spinButton.SetLabel("SPIN");
+                    spinButton.SetLabel(Loc.T("SPIN"));
                     double mult = DailyWheel.StreakMultiplier(streak.Count);
-                    if (string.IsNullOrEmpty(wheelInfo.text) || wheelInfo.text.StartsWith("Streak") || wheelInfo.text.StartsWith("One"))
-                        wheelInfo.text = mult > 1.0 ? $"Streak bonus: prizes ×{mult:0.0}" : "One free spin every day";
+                    if (!wheelShowsPrize)
+                        wheelInfo.text = mult > 1.0 ? Loc.F("Streak bonus: prizes ×{0}", ChipFormat.Number(mult, "0.0")) : Loc.T("One free spin every day");
                 }
                 else
                 {
                     var left = DateTime.Today.AddDays(1) - DateTime.Now;
-                    spinButton.SetLabel($"NEXT  {(int)left.TotalHours:00}:{left.Minutes:00}:{left.Seconds:00}");
+                    spinButton.SetLabel(Loc.F("NEXT  {0}", $"{(int)left.TotalHours:00}:{left.Minutes:00}:{left.Seconds:00}"));
                 }
             }
 
@@ -324,8 +341,8 @@ namespace Casino.Screens
                 missionRewards[i].enabled = !finished;
             }
             bonusText.text = p.MissionsDone == Missions.PerDay
-                ? "All done! Bonus collected.\n<size=20><color=#C9BFDB>New missions at midnight.</color></size>"
-                : $"Finish all three: +{ChipFormat.Full(Missions.AllDoneBonus)} bonus chips";
+                ? Loc.T("All done! Bonus collected.") + "\n<size=20><color=#C9BFDB>" + Loc.T("New missions at midnight.") + "</color></size>"
+                : Loc.F("Finish all three: +{0} bonus chips", ChipFormat.Full(Missions.AllDoneBonus));
         }
 
         void Update()

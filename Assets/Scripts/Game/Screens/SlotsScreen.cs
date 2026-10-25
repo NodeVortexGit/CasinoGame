@@ -71,7 +71,7 @@ namespace Casino.Screens
             var cab = seat != null ? seat.Layer : Content;
             if (seat == null) Backgrounds.Casino(Root, Palette.Shade(cabinet, 0.9f), Palette.Hex("0B0612"), new Vector2(0, 300));
 
-            TopBar.Create(Content, "LUCKY ACE 7s", Icon.Back, Leave);
+            TopBar.Create(Content, Loc.T("LUCKY ACE 7s"), Icon.Back, Leave);
 
             // Cabinet: gold frame, dark reel window, marquee lights on top.
             var frame = UIKit.Panel(cab, "Cabinet", Palette.Gold, 40f);
@@ -121,19 +121,19 @@ namespace Casino.Screens
             minus.Rect.At(0.5f, 0f, -640, 100, 110, 110);
             plus = UIKit.IconButton(Content, Icon.Plus, ButtonStyle.Dark, () => ChangeBet(1), 110f);
             plus.Rect.At(0.5f, 0f, -330, 100, 110, 110);
-            var betLabel = UIKit.Label(Content, "TOTAL BET", 24, Palette.TextMuted, TextAnchor.MiddleCenter, FontKind.Semi);
+            var betLabel = UIKit.Label(Content, Loc.T("TOTAL BET"), 24, Palette.TextMuted, TextAnchor.MiddleCenter, FontKind.Semi);
             ((RectTransform)betLabel.transform).At(0.5f, 0f, -485, 140, 220, 34);
             betText = UIKit.Label(Content, "", 52, Palette.Gold, TextAnchor.MiddleCenter, FontKind.Display);
             ((RectTransform)betText.transform).At(0.5f, 0f, -485, 90, 220, 64);
 
-            var winLabel = UIKit.Label(Content, "WIN", 24, Palette.TextMuted, TextAnchor.MiddleCenter, FontKind.Semi);
+            var winLabel = UIKit.Label(Content, Loc.T("WIN"), 24, Palette.TextMuted, TextAnchor.MiddleCenter, FontKind.Semi);
             ((RectTransform)winLabel.transform).At(0.5f, 0f, 30, 140, 400, 34);
             winText = UIKit.Label(Content, "", 52, Color.white, TextAnchor.MiddleCenter, FontKind.Display);
             ((RectTransform)winText.transform).At(0.5f, 0f, 30, 90, 520, 64);
 
-            var table = UIKit.Button(Content, "PAYTABLE", ButtonStyle.Purple, () => App.I.UI.Modal<SlotPaytableModal>(), 30, Icon.Star);
+            var table = UIKit.Button(Content, Loc.T("PAYTABLE"), ButtonStyle.Purple, () => App.I.UI.Modal<SlotPaytableModal>(), 30, Icon.Star);
             table.Rect.At(0.5f, 0f, 320, 100, 230, 96);
-            spin = UIKit.Button(Content, "SPIN", ButtonStyle.Gold, Spin, 64, Icon.Play);
+            spin = UIKit.Button(Content, Loc.T("SPIN"), ButtonStyle.Gold, Spin, 64, Icon.Play);
             spin.Rect.At(0.5f, 0f, 620, 100, 300, 128);
             spin.gameObject.AddComponent<Pulse>();
 
@@ -149,7 +149,7 @@ namespace Casino.Screens
             for (int i = 0; i < SlotMachine.BetOptions.Length; i++)
                 if (SlotMachine.BetOptions[i] <= System.Math.Max(10, saved / 2)) betIndex = i;
             ChangeBet(0);
-            winText.text = "GOOD LUCK!";
+            winText.text = Loc.T("GOOD LUCK!");
             App.I.Intensity.Baseline = 0.22f;
         }
 
@@ -199,9 +199,9 @@ namespace Casino.Screens
                 while (betIndex > 0 && SlotMachine.BetOptions[betIndex] > App.I.Wallet.Balance) betIndex--;
                 ChangeBet(0);
                 if (App.I.Wallet.Balance < SlotMachine.BetOptions[0])
-                    App.I.UI.Modal<ConfirmModal>(m => m.Setup("OUT OF CHIPS", "You need at least 10 chips to spin.", "GET CHIPS",
-                        () => App.I.UI.Modal<ShopModal>(s => s.StartTab = ShopTab.Chips), "LATER"));
-                else App.I.UI.Toast("Bet lowered to what you can cover.", Palette.TextMuted, Icon.Coin);
+                    App.I.UI.Modal<ConfirmModal>(m => m.Setup(Loc.T("OUT OF CHIPS"), Loc.T("You need at least 10 chips to spin."), Loc.T("GET CHIPS"),
+                        () => App.I.UI.Modal<ShopModal>(s => s.StartTab = ShopTab.Chips), Loc.T("LATER")));
+                else App.I.UI.Toast(Loc.T("Bet lowered to what you can cover."), Palette.TextMuted, Icon.Coin);
                 return;
             }
             App.I.Save.lastBet = bet;
@@ -243,7 +243,7 @@ namespace Casino.Screens
                     {
                         Sfx.Play(SfxId.BigWin);
                         Confetti.Burst(fx, new Vector2(0, 100), multiple >= 50f ? 120 : 80, true);
-                        yield return Banner(multiple >= 50f ? "MEGA WIN!" : "BIG WIN!");
+                        yield return Banner(multiple >= 50f ? Loc.T("MEGA WIN!") : Loc.T("BIG WIN!"));
                     }
                     else
                     {
@@ -256,13 +256,13 @@ namespace Casino.Screens
                     // Less than (or equal to) the bet: part of the stake back. Said plainly, no fanfare.
                     Sfx.Play(SfxId.Tick);
                     winText.color = Palette.TextMuted;
-                    winText.text = "RETURNED " + ChipFormat.Full(result.TotalPayout);
+                    winText.text = Loc.F("RETURNED {0}", ChipFormat.Full(result.TotalPayout));
                 }
             }
             else
             {
                 winText.color = Palette.TextMuted;
-                winText.text = "NO WIN";
+                winText.text = Loc.T("NO WIN");
             }
 
             spinning = false;
@@ -360,14 +360,14 @@ namespace Casino.Screens
                     Segment(new Vector2(ReelX(r), RowY(rows[r])), new Vector2(ReelX(r + 1), RowY(rows[r + 1])), col);
                 for (int r = 0; r < w.Count; r++) Frame(new Vector2(ReelX(r), RowY(rows[r])), col);
                 if (only >= 0)
-                    winText.text = $"LINE {w.Line + 1}: {w.Count} × {w.Symbol.ToString().ToUpperInvariant()} = {ChipFormat.Full(w.Payout)}";
+                    winText.text = Loc.F("LINE {0}: {1} × {2} = {3}", w.Line + 1, w.Count, Loc.Upper(SlotSymbolNames.Of(w.Symbol)), ChipFormat.Full(w.Payout));
             }
             if (only == -2 || (only == -1 && result.Scatters >= 3))
             {
                 for (int r = 0; r < SlotMachine.Reels; r++)
                     for (int row = 0; row < SlotMachine.Rows; row++)
                         if (result.Grid[r, row] == SlotSymbol.Scatter) Frame(new Vector2(ReelX(r), RowY(row)), Palette.Gold);
-                if (only == -2) winText.text = $"{result.Scatters} STARS = {ChipFormat.Full(result.ScatterPayout)}";
+                if (only == -2) winText.text = Loc.F("{0} STARS = {1}", result.Scatters, ChipFormat.Full(result.ScatterPayout));
             }
         }
 
@@ -427,11 +427,23 @@ namespace Casino.Screens
     }
 
     /// <summary>What every symbol pays, and the machine's exact payback.</summary>
+    /// <summary>The slot symbols' names, in the player's language.</summary>
+    public static class SlotSymbolNames
+    {
+        static readonly string[] English =
+        {
+            Loc.N("Cherry"), Loc.N("Lemon"), Loc.N("Orange"), Loc.N("Plum"), Loc.N("Bell"), Loc.N("Bar"), Loc.N("Seven"),
+            Loc.N("Diamond"), Loc.N("Ace"), Loc.N("Star"),
+        };
+
+        public static string Of(SlotSymbol s) => Loc.T(English[(int)s]);
+    }
+
     public sealed class SlotPaytableModal : UIModal
     {
         protected override void Build()
         {
-            MakePanel(1500, 900, "PAYTABLE");
+            MakePanel(1500, 900, Loc.T("PAYTABLE"));
             AddCloseButton();
             var symbols = new[] { SlotSymbol.Wild, SlotSymbol.Diamond, SlotSymbol.Seven, SlotSymbol.Bar, SlotSymbol.Bell, SlotSymbol.Plum, SlotSymbol.Orange, SlotSymbol.Lemon, SlotSymbol.Cherry };
             for (int i = 0; i < symbols.Length; i++)
@@ -443,18 +455,20 @@ namespace Casino.Screens
                 ((RectTransform)img.transform).Center(x - 140, y, 120, 120);
                 var pays = SlotMachine.Pays[(int)symbols[i]];
                 string text = $"5×  {pays[2]}\n4×  {pays[1]}\n3×  {pays[0]}";
-                if (symbols[i] == SlotSymbol.Cherry) text += $"   2×  {SlotMachine.CherryPair}";
                 var t = UIKit.Label(Panel, text, 26, Color.white, TextAnchor.MiddleLeft, FontKind.Semi);
                 ((RectTransform)t.transform).Center(x + 60, y, 260, 120);
             }
             var star = UIKit.Image(Panel, "Star", ProceduralArt.SlotSymbol(SlotSymbol.Scatter), Color.white);
             star.preserveAspect = true;
             ((RectTransform)star.transform).Center(-610, -230, 110, 110);
-            var st = UIKit.Label(Panel, $"STARS pay anywhere: 5 = {SlotMachine.ScatterPays[2]}× bet, 4 = {SlotMachine.ScatterPays[1]}× bet, 3 = {SlotMachine.ScatterPays[0]}× bet.\n" +
-                "The ACE is wild: it stands in for every symbol except the star.\nLine pays are multiples of the line bet (total bet ÷ 10), left to right from the first reel.",
+            var st = UIKit.Label(Panel, Loc.F("STARS pay anywhere: 5 = {0}× bet, 4 = {1}× bet, 3 = {2}× bet.",
+                    SlotMachine.ScatterPays[2], SlotMachine.ScatterPays[1], SlotMachine.ScatterPays[0]) + "\n" +
+                Loc.T("The ACE is wild: it stands in for every symbol except the star.") + "\n" +
+                Loc.T("Line pays are multiples of the line bet (total bet ÷ 10), left to right from the first reel."),
                 24, Palette.TextMuted, TextAnchor.MiddleLeft, FontKind.Body);
             ((RectTransform)st.transform).Center(90, -230, 1240, 130);
-            var rtp = UIKit.Label(Panel, $"PAYBACK: {SlotMachine.ExactRtp() * 100:0.0}% over the long run. Every spin is independent and random.",
+            var rtp = UIKit.Label(Panel, Loc.F("PAYBACK: {0}% over the long run. Every spin is independent and random.",
+                    ChipFormat.Number(SlotMachine.ExactRtp() * 100, "0.0")),
                 28, Palette.Gold, TextAnchor.MiddleCenter, FontKind.Semi);
             ((RectTransform)rtp.transform).Center(0, -350, 1400, 50);
         }
