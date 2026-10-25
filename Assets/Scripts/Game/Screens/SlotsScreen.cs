@@ -41,7 +41,10 @@ namespace Casino.Screens
         readonly Reel[] reels = new Reel[SlotMachine.Reels];
         RectTransform lineLayer, fx;
         Text betText, winText, banner;
-        UIButton spin, minus, plus;
+        UIButton spin, minus, plus, auto;
+        // Auto spin stays on from machine to machine, but only for this run of the app: it always starts off.
+        static bool autoSpin;
+        bool leaveAfterSpin;
         int betIndex;
         bool spinning;
         Coroutine showWins;
@@ -136,6 +139,9 @@ namespace Casino.Screens
             spin = UIKit.Button(Content, Loc.T("SPIN"), ButtonStyle.Gold, Spin, 64, Icon.Play);
             spin.Rect.At(0.5f, 0f, 620, 100, 300, 128);
             spin.gameObject.AddComponent<Pulse>();
+            auto = UIKit.Button(Content, Loc.T("AUTO SPIN"), ButtonStyle.Dark, ToggleAuto, 26, Icon.Check);
+            auto.Rect.At(0.5f, 0f, 620, 222, 300, 64);
+            ShowAuto();
 
             fx = UIKit.NewRect("Fx", Content).Stretch();
             banner = UIKit.Label(fx, "", 150, Palette.Gold, TextAnchor.MiddleCenter, FontKind.Display, "Banner");
@@ -151,6 +157,28 @@ namespace Casino.Screens
             ChangeBet(0);
             winText.text = Loc.T("GOOD LUCK!");
             App.I.Intensity.Baseline = 0.22f;
+            if (autoSpin) StartCoroutine(AutoNext(1.2f));   // carried over from the last machine
+        }
+
+        void ToggleAuto()
+        {
+            autoSpin = !autoSpin;
+            ShowAuto();
+            if (autoSpin && !spinning) StartCoroutine(AutoNext(0.2f));
+        }
+
+        void ShowAuto()
+        {
+            auto.SetStyle(autoSpin ? ButtonStyle.Green : ButtonStyle.Dark);
+            auto.SetIconVisible(autoSpin);
+        }
+
+        /// <summary>The next automatic spin, once nothing is in the way (a modal, a spin still running).</summary>
+        IEnumerator AutoNext(float delay)
+        {
+            yield return new WaitForSecondsRealtime(delay);
+            while (autoSpin && (spinning || App.I.UI.HasModal || App.I.UI.Current != this)) yield return null;
+            if (autoSpin) Spin();
         }
 
         void LineTag(RectTransform parent, int line, float x, float y)
@@ -195,6 +223,11 @@ namespace Casino.Screens
             if (!App.I.Wallet.TryDebit(bet))
             {
                 Sfx.Play(SfxId.Error);
+                if (autoSpin)
+                {
+                    autoSpin = false;
+                    ShowAuto();
+                }
                 // Step down to a bet the player can afford, or point them to the cashier.
                 while (betIndex > 0 && SlotMachine.BetOptions[betIndex] > App.I.Wallet.Balance) betIndex--;
                 ChangeBet(0);
@@ -268,6 +301,8 @@ namespace Casino.Screens
             spinning = false;
             spin.Interactable = true;
             ChangeBet(0);
+            if (leaveAfterSpin) App.I.UI.Show<LobbyScreen>();
+            else if (autoSpin) StartCoroutine(AutoNext(result.TotalPayout > result.Bet ? 1.2f : 0.6f));
         }
 
         IEnumerator SpinReel(Reel reel, int stop, float duration, int turns)
@@ -396,8 +431,9 @@ namespace Casino.Screens
 
         void Leave()
         {
-            if (spinning) return;
-            App.I.UI.Show<LobbyScreen>();
+            // Mid-spin (auto spin leaves little time between spins), the reels finish and then we go.
+            if (spinning) leaveAfterSpin = true;
+            else App.I.UI.Show<LobbyScreen>();
         }
 
         public override bool OnBack()

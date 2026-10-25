@@ -103,6 +103,11 @@ namespace Casino.UI
             if (iconImage != null) iconImage.sprite = ProceduralArt.IconSprite(icon);
         }
 
+        public void SetIconVisible(bool visible)
+        {
+            if (iconImage != null) iconImage.enabled = visible;
+        }
+
         void Refresh()
         {
             bool on = button.interactable;
