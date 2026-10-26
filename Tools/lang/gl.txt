@@ -657,3 +657,4 @@ e1ae457	Mateo
 7aa2d07	Enzo
 1920e2f	Tirada de saída: aposta na liña de pase e tira. 7 ou 11 gaña, 2, 3 ou 12 perde. As apostas place contan cando hai punto.
 99f4934	LUCKY ACE 7s  •  PAGA ATA 2.500× A TÚA APOSTA POR LIÑA
+48ddc95	AUTOMÁTICO

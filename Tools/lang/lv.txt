@@ -657,3 +657,4 @@ e1ae457	Mateo
 7aa2d07	Enzo
 1920e2f	Izlidojuma metiens: liec likmi uz Pass Line, tad met. 7 vai 11 uzvar, 2, 3 vai 12 zaudē. Place likmes sāk darboties, kad ir punkts.
 99f4934	LUCKY ACE 7s  •  IZMAKSĀ LĪDZ 2500× NO TAVAS LĪNIJAS LIKMES
+48ddc95	AUTOMĀTISKI

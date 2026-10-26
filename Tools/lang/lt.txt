@@ -657,3 +657,4 @@ e1ae457	Mateusas
 7aa2d07	Enzas
 1920e2f	Pirmasis metimas: statyk ant Pass Line ir mesk. 7 ar 11 laimi, 2, 3 ar 12 pralaimi. Place statymai pradeda galioti, kai yra taškas.
 99f4934	LUCKY ACE 7s  •  MOKA IKI 2 500× TAVO LINIJOS STATYMO
+48ddc95	AUTOMATINIS

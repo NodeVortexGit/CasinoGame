@@ -541,6 +541,7 @@ HÁRMAS {0}!
 LUCKY ACE 7s
 ÖSSZES TÉT
 NYEREMÉNYTÁBLA
+AUTO PÖRGETÉS
 SOK SZERENCSÉT!
 A pörgetéshez legalább 10 zseton kell.
 ZSETONOK

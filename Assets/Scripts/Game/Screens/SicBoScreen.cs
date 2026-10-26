@@ -24,6 +24,11 @@ namespace Casino.Screens
 
         /// <summary>Metres per layout unit on the table, and the table's height.</summary>
         public const float LayerScale = 0.0012f, TableHeight = 0.86f;
+        /// <summary>
+        /// The table is turned round in its corner: the dealer stands against the south wall and players come to it
+        /// from the room (north), so nobody walks up behind the dealer. Offsets below are in the table's own frame.
+        /// </summary>
+        public static readonly Quaternion Turn = Quaternion.Euler(0f, 180f, 0f);
 
         public static readonly Vector2 BoardPos = new Vector2(0, -90), BoardSize = new Vector2(1620, 580), ShakerPos = new Vector2(0, 360);
 
@@ -68,9 +73,9 @@ namespace Casino.Screens
             if (world != null && world.TrySicBo(out var c, out var dealerFigure))
             {
                 // Leaning over the board: it fills the width (the dealer and shaker sit at the far end).
-                Vector3 eye = c + new Vector3(0f, 1.75f, -1.35f);
-                seat = WorldTable.Sit(Content, eye, c + new Vector3(0f, 0.8f, 0.15f), 44f, 82f, new Vector2(c.x, c.z - 1.7f), 0f,
-                    c + Vector3.up * TableHeight, Quaternion.Euler(90f, 0f, 0f), LayerScale, dealerFigure, true);
+                Vector3 eye = c + Turn * new Vector3(0f, 1.75f, -1.35f), stand = c + Turn * new Vector3(0f, 0f, -1.7f);
+                seat = WorldTable.Sit(Content, eye, c + Turn * new Vector3(0f, 0.8f, 0.15f), 44f, 82f, new Vector2(stand.x, stand.z),
+                    Turn.eulerAngles.y, c + Vector3.up * TableHeight, Turn * Quaternion.Euler(90f, 0f, 0f), LayerScale, dealerFigure, true);
             }
             if (seat != null)
             {
@@ -392,7 +397,7 @@ namespace Casino.Screens
                 Sfx.Play(big ? SfxId.BigWin : SfxId.Win);
                 Confetti.Burst(fx, new Vector2(0, 150), big ? 90 : 40, true);
                 Say(big ? Loc.T("What a hit! Congratulations!") : Loc.F("Winner! You win {0}.", ChipFormat.Full(back)));
-                totalText.text = Loc.F("WIN  +{0}", ChipFormat.Full(back));
+                totalText.text = Loc.F("WIN  +{0}", ChipFormat.Full(net));   // the profit, as baccarat shows it
             }
             else if (back > 0)
             {

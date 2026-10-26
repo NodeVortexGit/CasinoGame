@@ -541,6 +541,7 @@ TRIPEL {0}!
 LUCKY ACE 7s
 JUMLAH PERTARUHAN
 JADUAL BAYARAN
+AUTO PUTAR
 SEMOGA BERJAYA!
 Awak perlukan sekurang-kurangnya 10 cip untuk memutar.
 DAPATKAN CIP

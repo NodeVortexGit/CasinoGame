@@ -541,6 +541,7 @@ DRILLING {0}!
 LUCKY ACE 7s
 GESAMTASAZ
 GEWËNNTABELL
+AUTOMATESCH
 VILL GLÉCK!
 Du brauchs mindestens 10 Jetone fir ze dréinen.
 JETONE KRÉIEN

@@ -657,3 +657,4 @@ e1ae457	Mateo
 7aa2d07	Enzo
 1920e2f	Nyitó dobás: tégy a Pass Line-ra, majd dobj. 7 vagy 11 nyer; 2, 3 vagy 12 veszít. A place fogadások csak akkor kezdenek működni, ha van pont.
 99f4934	LUCKY ACE 7s  •  AKÁR A VONALTÉTED 2 500-SZOROSÁT FIZETI
+48ddc95	AUTO PÖRGETÉS

@@ -657,3 +657,4 @@ e1ae457	Mateo
 7aa2d07	Enzo
 1920e2f	Balingan come-out: bertaruh pada Pass Line, kemudian baling. 7 atau 11 menang, 2, 3 atau 12 kalah. Pertaruhan Place mula berfungsi apabila ada mata.
 99f4934	LUCKY ACE 7s  •  MEMBAYAR SEHINGGA 2,500× TARUHAN BARIS ANDA
+48ddc95	AUTO PUTAR

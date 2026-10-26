@@ -192,6 +192,32 @@ namespace Casino.World
             return c.ToTexture("slotreels", FilterMode.Bilinear, true);
         }
 
+        /// <summary>
+        /// A video poker screen for the machines in the room: a paytable band over five dealt cards (a royal flush in
+        /// spades, two of them marked HELD). Twice as wide as tall, like the panel it lies on.
+        /// </summary>
+        public static Texture2D PokerScreen(int detail = 1)
+        {
+            var c = new SdfCanvas(128 * detail, 64 * detail);   // x spans 0..1, y 0..0.5
+            c.Clear(Palette.Hex("0B2A5E"));
+            // the paytable: two columns of gold rows
+            for (int row = 0; row < 4; row++)
+            {
+                float y = 0.455f - row * 0.03f;
+                c.Fill(Sdf.Box(new Vector2(0.26f, y), new Vector2(0.2f, 0.007f), 0.003f), Palette.WithAlpha(Palette.GoldLight, 0.75f));
+                c.Fill(Sdf.Box(new Vector2(0.74f, y), new Vector2(0.2f, 0.007f), 0.003f), Palette.WithAlpha(Palette.GoldLight, 0.75f));
+            }
+            c.Fill(Sdf.Box(new Vector2(0.5f, 0.335f), new Vector2(0.47f, 0.004f)), Palette.Hex("F5C542"));
+            for (int i = 0; i < 5; i++)
+            {
+                var at = new Vector2(0.12f + i * 0.19f, 0.18f);
+                c.Fill(Sdf.Box(at, new Vector2(0.075f, 0.11f), 0.012f), Palette.Hex("FFFDF6"));
+                c.Fill(Painters.SuitShape(Casino.Core.Blackjack.Suit.Spades, at, 0.09f), Palette.Hex("17141C"));
+                if (i == 0 || i == 1) c.Fill(Sdf.Box(new Vector2(at.x, 0.035f), new Vector2(0.06f, 0.012f), 0.004f), Palette.Hex("F5C542"));
+            }
+            return c.ToTexture("pokerscreen", FilterMode.Bilinear, true);
+        }
+
         /// <summary>Soft radial glow for the additive light sprites.</summary>
         public static Texture2D Glow()
         {

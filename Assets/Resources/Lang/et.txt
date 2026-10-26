@@ -541,6 +541,7 @@ KOLMIK {0}!
 LUCKY ACE 7s
 KOGUPANUS
 VÕIDUTABEL
+AUTOMAATNE
 EDU!
 Keerutamiseks on vaja vähemalt 10 žetooni.
 HANGI ŽETOONE

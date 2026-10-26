@@ -657,3 +657,4 @@ e1ae457	Mateu
 7aa2d07	Enzo
 1920e2f	Tirada de sortida: aposta a la línia de passada i tira. 7 o 11 guanyen; 2, 3 o 12 perden. Les apostes de place comencen a comptar quan hi ha un punt.
 99f4934	LUCKY ACE 7s  •  PAGA FINS A 2.500× L'APOSTA PER LÍNIA
+48ddc95	AUTOMÀTIC

@@ -657,3 +657,4 @@ e1ae457	Mateo
 7aa2d07	Enzo
 1920e2f	Irteera-jaurtiketa: egin apustu Pass Line-n eta bota. 7 edo 11-k irabazten du, 2, 3 edo 12-k galtzen du. Place apustuek balio dute puntua dagoenean.
 99f4934	LUCKY ACE 7s  •  ZURE LERRO-APUSTUAREN 2.500× ARTE ORDAINTZEN DU
+48ddc95	AUTOMATIKOA

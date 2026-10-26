@@ -657,3 +657,4 @@ e1ae457	Mateo
 7aa2d07	Enzo
 1920e2f	Početno bacanje: uloži na Pass Line, pa baci. 7 ili 11 dobivaju; 2, 3 ili 12 gube. Place ulogi počinju raditi kad postoji točka.
 99f4934	LUCKY ACE 7s  •  ISPLAĆUJE DO 2.500× ULOGA PO LINIJI
+48ddc95	AUTO VRTNJA

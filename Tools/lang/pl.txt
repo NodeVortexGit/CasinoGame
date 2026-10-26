@@ -657,3 +657,4 @@ e1ae457	Mateo
 7aa2d07	Enzo
 1920e2f	Pierwszy rzut: postaw na Pass Line i rzucaj. 7 lub 11 wygrywają; 2, 3 lub 12 przegrywają. Zakłady Place zaczynają działać, gdy jest punkt.
 99f4934	LUCKY ACE 7s  •  WYPŁATY DO 2500× ZAKŁADU NA LINIĘ
+48ddc95	AUTO OBRÓT

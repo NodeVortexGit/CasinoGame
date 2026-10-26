@@ -556,6 +556,7 @@ namespace Casino.World
                 float d = to.magnitude;
                 if (d > GreetDistance || d < 0.3f) continue;
                 if (Vector3.Angle(new Vector3(fwd.x, 0f, fwd.z), to) > 40f) continue;
+                if (Hidden(eye, fig.HeadPoint)) continue;   // behind a machine: the bubble would point at the machine
                 if (lastGreeted.TryGetValue(fig, out float when) && Time.time - when < 40f) continue;
                 int pick = App.I.Rng.Next(App.I.Save.handsPlayed > 0 ? 3 : 2);
                 string line = pick == 0 ? DealerLines.Charm(fig.Role, App.I.Rng) : pick == 1 ? DealerLines.Greeting(fig.Role, App.I.Rng) : StreakTease();
@@ -564,6 +565,53 @@ namespace Casino.World
                 else if (App.I.Rng.Next(3) == 0) fig.Wink();
                 return;
             }
+        }
+
+        /// <summary>
+        /// Whether a sight blocker stands between the camera and a point, seen from above. A blocker that holds the
+        /// point itself doesn't count (the cashier inside her booth).
+        /// </summary>
+        bool Hidden(Vector3 eye, Vector3 at)
+        {
+            Vector2 a = new Vector2(eye.x, eye.z), b = new Vector2(at.x, at.z);
+            foreach (var o in sightBlockers)
+            {
+                if (o.Circle)
+                {
+                    if ((b - o.Center).sqrMagnitude < o.Radius * o.Radius) continue;
+                    Vector2 ab = b - a;
+                    float t = Mathf.Clamp01(Vector2.Dot(o.Center - a, ab) / Mathf.Max(ab.sqrMagnitude, 1e-6f));
+                    if ((a + ab * t - o.Center).sqrMagnitude < o.Radius * o.Radius) return true;
+                }
+                else
+                {
+                    if (b.x >= o.Min.x && b.x <= o.Max.x && b.y >= o.Min.y && b.y <= o.Max.y) continue;
+                    if (SegmentHitsRect(a, b, o.Min, o.Max)) return true;
+                }
+            }
+            return false;
+        }
+
+        /// <summary>Liang–Barsky: does the segment a-b cross the axis-aligned rectangle?</summary>
+        static bool SegmentHitsRect(Vector2 a, Vector2 b, Vector2 min, Vector2 max)
+        {
+            float t0 = 0f, t1 = 1f;
+            Vector2 d = b - a;
+            for (int axis = 0; axis < 2; axis++)
+            {
+                float p = d[axis], lo = min[axis] - a[axis], hi = max[axis] - a[axis];
+                if (Mathf.Abs(p) < 1e-6f)
+                {
+                    if (lo > 0f || hi < 0f) return false;
+                    continue;
+                }
+                float u = lo / p, v = hi / p;
+                if (u > v) (u, v) = (v, u);
+                t0 = Mathf.Max(t0, u);
+                t1 = Mathf.Min(t1, v);
+                if (t0 > t1) return false;
+            }
+            return true;
         }
 
         static string StreakTease()

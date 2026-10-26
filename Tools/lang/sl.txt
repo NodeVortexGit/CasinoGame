@@ -657,3 +657,4 @@ e1ae457	Mateo
 7aa2d07	Enzo
 1920e2f	Začetni met: stavi na Pass Line in vrzi. 7 ali 11 zmaga, 2, 3 ali 12 izgubi. Stave Place začnejo veljati, ko je točka.
 99f4934	LUCKY ACE 7s  •  IZPLAČA DO 2.500× TVOJE STAVE NA LINIJO
+48ddc95	SAMODEJNO

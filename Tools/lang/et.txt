@@ -657,3 +657,4 @@ e1ae457	Mateo
 7aa2d07	Enzo
 1920e2f	Avavise: panusta Pass Line'ile ja viska. 7 või 11 võidab, 2, 3 või 12 kaotab. Place-panused hakkavad kehtima, kui punkt on olemas.
 99f4934	LUCKY ACE 7s  •  MAKSAB KUNI 2500× SINU JOONEPANUSE
+48ddc95	AUTOMAATNE

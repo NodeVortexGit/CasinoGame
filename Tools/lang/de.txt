@@ -657,3 +657,4 @@ e1ae457	Mateo
 7aa2d07	Enzo
 1920e2f	Come-out-Wurf: setz auf die Pass Line und würfle. 7 oder 11 gewinnt, 2, 3 oder 12 verliert. Place-Einsätze gelten, sobald es einen Point gibt.
 99f4934	LUCKY ACE 7s  •  ZAHLT BIS ZU 2.500× DEINES LINIENEINSATZES
+48ddc95	AUTOMATISCH

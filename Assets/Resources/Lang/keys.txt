@@ -541,6 +541,7 @@ TRIPLE {0}!
 LUCKY ACE 7s
 TOTAL BET
 PAYTABLE
+AUTO SPIN
 GOOD LUCK!
 You need at least 10 chips to spin.
 GET CHIPS

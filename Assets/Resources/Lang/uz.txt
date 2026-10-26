@@ -541,6 +541,7 @@ UCHLIK {0}!
 LUCKY ACE 7s
 JAMI TIKISH
 TO‘LOV JADVALI
+AVTOMATIK
 OMAD!
 Aylantirish uchun kamida 10 fishka kerak.
 FISHKA OLISH

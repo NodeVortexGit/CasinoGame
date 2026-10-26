@@ -541,6 +541,7 @@ TROJKA {0}!
 LUCKY ACE 7s
 SKUPNA STAVA
 TABELA IZPLAČIL
+SAMODEJNO
 SREČNO!
 Za vrtljaj potrebuješ vsaj 10 žetonov.
 DOBI ŽETONE

@@ -541,6 +541,7 @@ TRIPLE {0}!
 LUCKY ACE 7s
 PARI TOTAL
 TAB PEMAN
+VIRE OTOMATIK
 BÒN CHANS!
 Ou bezwen omwen 10 jeton pou vire.
 PRAN JETON

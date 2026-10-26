@@ -541,6 +541,7 @@ TRISS I {0}!
 LUCKY ACE 7s
 TOTAL INSATS
 VINSTTABELL
+AUTOMATISKT
 LYCKA TILL!
 Du behöver minst 10 marker för att snurra.
 HÄMTA MARKER

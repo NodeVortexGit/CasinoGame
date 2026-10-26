@@ -657,3 +657,4 @@ e1ae457	Mateo
 7aa2d07	Enzo
 1920e2f	Aruncarea de deschidere: pariază pe Pass Line, apoi aruncă. 7 sau 11 câștigă; 2, 3 sau 12 pierd. Pariurile Place încep să funcționeze când există un punct.
 99f4934	LUCKY ACE 7s  •  PLĂTEȘTE PÂNĂ LA 2.500× MIZA PE LINIE
+48ddc95	AUTO ÎNVÂRTE

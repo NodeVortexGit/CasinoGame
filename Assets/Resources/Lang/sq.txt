@@ -541,6 +541,7 @@ TRESHE {0}!
 LUCKY ACE 7s
 BASTI TOTAL
 TABELA E PAGESAVE
+AUTOMATIK
 FAT TË MBARË!
 Të duhen të paktën 10 fisha për të rrotulluar.
 MERR FISHA

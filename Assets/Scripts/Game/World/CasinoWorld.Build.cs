@@ -28,10 +28,12 @@ namespace Casino.World
         static readonly Color Ceiling = Palette.Hex("3A1A4C");
         static readonly Color Pink = Palette.Hex("FF3FA4"), Cyan = Palette.Hex("39E6FF"), Violet = Palette.Hex("9B4DFF"), Warm = new Color(1f, 0.82f, 0.6f);
 
-        MeshKit carpet, marble, damask, wood, plain, bottles, slotScreens;
+        MeshKit carpet, marble, damask, wood, plain, bottles, slotScreens, pokerScreens;
         GlowKit glows;
         LightRig rig;
         readonly List<Obstacle> obstacles = new List<Obstacle>();
+        /// <summary>What hides staff from the camera (machine cabinets, pillars, the cashier's booth); tables are too low to.</summary>
+        readonly List<Obstacle> sightBlockers = new List<Obstacle>();
         readonly List<Spot> spots = new List<Spot>();
         readonly List<StaffFigure> staff = new List<StaffFigure>();
         readonly List<Vector2> patrol = new List<Vector2>();
@@ -61,6 +63,7 @@ namespace Casino.World
             plain = new MeshKit();
             bottles = new MeshKit();
             slotScreens = new MeshKit();
+            pokerScreens = new MeshKit();
             glows = new GlowKit();
             SetFinishes();
 
@@ -83,7 +86,7 @@ namespace Casino.World
             Pillars();
             yield return null;
 
-            var kits = new[] { carpet, marble, damask, wood, plain, bottles, slotScreens };   // in the order of SurfacePainters
+            var kits = new[] { carpet, marble, damask, wood, plain, bottles, slotScreens, pokerScreens };   // in the order of SurfacePainters
             var worldShader = Resources.Load<Shader>("Shaders/CasinoWorld");
             textureDetail = TextureDetailFor(App.I.GraphicsQuality);
             surfaceMaterials = new Material[kits.Length];
@@ -361,17 +364,17 @@ namespace Casino.World
             damask.Box(new Vector3(x1 - 0.1f, 0, cz), new Vector3(0.2f, 3.4f, z1 - z0), Color.white, true, false, 1f);
             damask.Box(new Vector3((x0 + x1) * 0.5f, 0, z1 - 0.1f), new Vector3(x1 - x0, 3.4f, 0.2f), Color.white, true, false, 1f);
             damask.Box(new Vector3((x0 + x1) * 0.5f, 0, z0 + 0.1f), new Vector3(x1 - x0, 3.4f, 0.2f), Color.white, true, false, 1f);
-            // counter facing west
-            wood.Box(new Vector3(x0 + 0.4f, 0, cz), new Vector3(0.8f, 1.1f, z1 - z0), Color.white);
-            marble.Box(new Vector3(x0 + 0.4f, 1.1f, cz), new Vector3(0.95f, 0.06f, z1 - z0 + 0.1f), Color.white);
+            // counter facing west, low enough that the cashier's dress shows above it from the lobby
+            wood.Box(new Vector3(x0 + 0.4f, 0, cz), new Vector3(0.8f, 0.98f, z1 - z0), Color.white);
+            marble.Box(new Vector3(x0 + 0.4f, 0.98f, cz), new Vector3(0.95f, 0.06f, z1 - z0 + 0.1f), Color.white);
             plain.Emission = 1.4f;
             plain.Anim = new Vector3(0f, 0.35f, 2f);
             plain.Bar(new Vector3(x0 - 0.02f, 0.2f, z0 + 0.1f), new Vector3(x0 - 0.02f, 0.2f, z1 - 0.1f), 0.05f, Gold);
             plain.Anim = Vector3.zero;
             plain.Emission = 0f;
             // gold window bars and the header
-            plain.Bar(new Vector3(x0 + 0.05f, 1.16f, z0 + 0.06f), new Vector3(x0 + 0.05f, 2.7f, z0 + 0.06f), 0.05f, Gold);
-            plain.Bar(new Vector3(x0 + 0.05f, 1.16f, z1 - 0.06f), new Vector3(x0 + 0.05f, 2.7f, z1 - 0.06f), 0.05f, Gold);
+            plain.Bar(new Vector3(x0 + 0.05f, 1.04f, z0 + 0.06f), new Vector3(x0 + 0.05f, 2.7f, z0 + 0.06f), 0.05f, Gold);
+            plain.Bar(new Vector3(x0 + 0.05f, 1.04f, z1 - 0.06f), new Vector3(x0 + 0.05f, 2.7f, z1 - 0.06f), 0.05f, Gold);
             plain.Box(new Vector3(x0 + 0.2f, 2.7f, cz), new Vector3(0.4f, 0.7f, z1 - z0 + 0.2f), Lacquer);
             plain.Box(new Vector3((x0 + x1) * 0.5f, 3.4f, cz), new Vector3(x1 - x0 + 0.2f, 0.1f, z1 - z0 + 0.2f), Gold);
             Marquee(new Vector3(x0 - 0.02f, 3.05f, cz), z1 - z0, 0.7f, Vector3.left, Gold);
@@ -390,6 +393,7 @@ namespace Casino.World
             rig.Light(new Vector3(x0 - 1.2f, 2.4f, cz), new Color(1f, 0.85f, 0.6f), 3.5f, 0.7f);
             rig.Shadow(new Vector3(x0 + 0.4f, 0, cz), new Vector2(0.45f, (z1 - z0) * 0.5f));
             obstacles.Add(Obstacle.Rect(x0, z0, x1 + 0.3f, z1));
+            sightBlockers.Add(Obstacle.Rect(x0, z0, x1, z1));
 
             int cashier = SpawnStaff(new Vector3(x0 + 1.0f, 0, cz), -90f, StaffRole.Cashier, 0, StaffPose.Counter);
             spots.Add(new Spot
@@ -585,10 +589,10 @@ namespace Casino.World
             var def = TableCatalog.Holdem;
             Color felt = Palette.Hex("123E6E"), accent = Palette.Hex("39E6FF");
             KidneyTable(c, felt, accent, () => Loc.T("HOLD'EM") + "  " + ChipFormat.Short(def.MinBet) + "-" + ChipFormat.Short(def.MaxBet), -0.1f);
-            // ante, blind and play circles at every seat but the middle one (the game lays out its own there)
+            // ante, blind and play circles at the two outer seats (the game lays out its own across the middle three)
             for (int i = 0; i < 5; i++)
             {
-                if (i == 2) continue;
+                if (i >= 1 && i <= 3) continue;
                 Vector3 spot = SeatSpot(c, i, 0.42f), tangent = Vector3.Cross(Vector3.up, spot - c).normalized;
                 plain.Emission = 0.8f;
                 for (int k = -1; k <= 1; k++) plain.Ring(spot + tangent * (k * 0.14f), 0.055f, 0.066f, 14, accent);
@@ -623,10 +627,10 @@ namespace Casino.World
             var c = BaccaratCenter;
             Color felt = Palette.Hex("6A1022"), accent = Palette.Hex("FFC94D");
             KidneyTable(c, felt, accent, () => Loc.T("BACCARAT") + "  " + ChipFormat.Short(BaccaratScreen.ChipValues[0]) + "-" + ChipFormat.Short(BaccaratScreen.MaxPerSpot), -0.1f);
-            // player, tie and banker boxes at every seat but the middle one
+            // player, tie and banker boxes at the two outer seats (the game's own pads cover the middle three)
             for (int i = 0; i < 5; i++)
             {
-                if (i == 2) continue;
+                if (i >= 1 && i <= 3) continue;
                 Vector3 spot = SeatSpot(c, i, 0.42f), tangent = Vector3.Cross(Vector3.up, spot - c).normalized;
                 Color[] box = { Palette.Hex("1E4FA8"), Palette.Hex("0D7A45"), Palette.Hex("A3122E") };
                 for (int k = -1; k <= 1; k++)
@@ -660,15 +664,17 @@ namespace Casino.World
         void SicBoTable()
         {
             var c = SicBoCenter;
+            var turn = SicBoScreen.Turn;   // dealer on the wall side, players come from the room
+            Vector3 At(float x, float y, float z) => c + turn * new Vector3(x, y, z);
             float k = SicBoScreen.LayerScale;
             var size = new Vector2(2.2f, 1.45f);
-            Vector3 mid = c + new Vector3(0f, 0f, 0.02f);
+            Vector3 mid = At(0f, 0f, 0.02f);
             wood.Box(mid, new Vector3(size.x - 0.12f, SicBoScreen.TableHeight - 0.06f, size.y - 0.12f), Color.white);
             plain.Box(mid + Vector3.up * (SicBoScreen.TableHeight - 0.06f), new Vector3(size.x, 0.055f, size.y), Leather);
             // the felt stops 2 mm under the board layer, or the two z-fight and the printing breaks up
-            plain.Box(c + new Vector3(SicBoScreen.BoardPos.x * k, SicBoScreen.TableHeight - 0.006f, SicBoScreen.BoardPos.y * k),
+            plain.Box(At(SicBoScreen.BoardPos.x * k, SicBoScreen.TableHeight - 0.006f, SicBoScreen.BoardPos.y * k),
                 new Vector3((SicBoScreen.BoardSize.x + 60f) * k, 0.004f, (SicBoScreen.BoardSize.y + 60f) * k), Palette.Hex("0D3E2A"));
-            var decor = WorldTable.CreateLayer("SicBoLayout", transform, c + Vector3.up * SicBoScreen.TableHeight, Quaternion.Euler(90f, 0f, 0f), k,
+            var decor = WorldTable.CreateLayer("SicBoLayout", transform, c + Vector3.up * SicBoScreen.TableHeight, turn * Quaternion.Euler(90f, 0f, 0f), k,
                 new Vector2(1920, 1080), Camera, false);
             SicBoScreen.PaintShaker(decor, out _, out _, out _);
             var board = SicBoScreen.PaintBoard(decor);
@@ -676,38 +682,40 @@ namespace Casino.World
             foreach (var g in decor.GetComponentsInChildren<Graphic>(true)) g.raycastTarget = false;
             sicBoDecor = decor;
             // a glass dome over the dice dish
-            Vector3 dish = c + new Vector3(SicBoScreen.ShakerPos.x * k, SicBoScreen.TableHeight, SicBoScreen.ShakerPos.y * k);
+            Vector3 dish = At(SicBoScreen.ShakerPos.x * k, SicBoScreen.TableHeight, SicBoScreen.ShakerPos.y * k);
             plain.Emission = 0.5f;
             plain.Ring(dish + Vector3.up * 0.004f, 0.19f, 0.21f, 24, Gold);
             plain.Emission = 0f;
 
             for (int i = 0; i < 3; i++)
             {
-                var s = c + new Vector3(-0.7f + i * 0.7f, 0, -size.y * 0.5f - 0.45f);
+                var s = At(-0.7f + i * 0.7f, 0, -size.y * 0.5f - 0.45f);
                 plain.Cylinder(s, 0.04f, 0.65f, 8, Gold, false);
                 plain.Cylinder(s + Vector3.up * 0.65f, 0.21f, 0.09f, 14, Palette.Hex("A3122E"));
                 rig.Shadow(s, new Vector2(0.12f, 0.12f), 0.3f);
             }
-            var signAt = c + new Vector3(0, 3.0f, 0.3f);
+            var signAt = At(0, 3.0f, 0.3f);
             plain.Box(signAt - Vector3.up * 0.25f, new Vector3(2.6f, 0.7f, 0.12f), Lacquer);
-            plain.Bar(signAt + new Vector3(-1f, 0.45f, 0), new Vector3(c.x - 1f, CeilingY, c.z + 0.3f), 0.02f, Gold);
-            plain.Bar(signAt + new Vector3(1f, 0.45f, 0), new Vector3(c.x + 1f, CeilingY, c.z + 0.3f), 0.02f, Gold);
-            Marquee(signAt + new Vector3(0, 0.1f, -0.07f), 2.6f, 0.7f, Vector3.back, Pink, 0.1f);
-            Sign(() => Loc.T("SIC BO"), signAt + new Vector3(0, 0.2f, -0.08f), 0f, 2.4f, 0.42f, Pink, FontKind.Display);
-            Sign(() => Loc.T("BIG  •  SMALL  •  TRIPLES"), signAt + new Vector3(0, -0.12f, -0.08f), 0f, 2.4f, 0.17f, Palette.GoldLight, FontKind.Display);
+            plain.Bar(signAt + turn * new Vector3(-1f, 0.45f, 0), At(-1f, CeilingY, 0.3f), 0.02f, Gold);
+            plain.Bar(signAt + turn * new Vector3(1f, 0.45f, 0), At(1f, CeilingY, 0.3f), 0.02f, Gold);
+            Marquee(signAt + turn * new Vector3(0, 0.1f, -0.07f), 2.6f, 0.7f, turn * Vector3.back, Pink, 0.1f);
+            Sign(() => Loc.T("SIC BO"), signAt + turn * new Vector3(0, 0.2f, -0.08f), turn.eulerAngles.y, 2.4f, 0.42f, Pink, FontKind.Display);
+            Sign(() => Loc.T("BIG  •  SMALL  •  TRIPLES"), signAt + turn * new Vector3(0, -0.12f, -0.08f), turn.eulerAngles.y, 2.4f, 0.17f, Palette.GoldLight, FontKind.Display);
             // a lamp over the table: the corner gets little light from the room
-            var lamp = c + new Vector3(0, 2.7f, -0.3f);   // in front of the hanging sign
+            var lamp = At(0, 2.7f, -0.3f);   // in front of the hanging sign
             plain.Bar(lamp, new Vector3(lamp.x, CeilingY, lamp.z), 0.02f, Gold);
             plain.Emission = 1.8f;
             plain.Cylinder(lamp - Vector3.up * 0.2f, 0.32f, 0.2f, 16, new Color(1f, 0.8f, 0.6f), true, 0.06f);
             plain.Emission = 0f;
             glows.Add(lamp - Vector3.up * 0.2f, Warm * 0.55f, 2.2f);
             rig.Light(lamp - Vector3.up * 0.4f, new Color(1f, 0.9f, 0.75f), 4.5f, 1.4f);
-            rig.Light(c + new Vector3(0, 2.6f, -0.5f), Warm, 4.5f, 1f);
+            rig.Light(At(0, 2.6f, -0.5f), Warm, 4.5f, 1f);
             rig.Shadow(mid, new Vector2(size.x * 0.5f, size.y * 0.5f));
-            obstacles.Add(Obstacle.Rect(c.x - size.x * 0.5f - 0.1f, c.z - size.y * 0.5f - 0.1f, c.x + size.x * 0.5f + 0.1f, c.z + size.y * 0.5f + 0.6f));
+            // the table plus the dealer's strip behind it, on whichever side the turn puts the dealer
+            Vector3 lo = At(-size.x * 0.5f - 0.1f, 0, -size.y * 0.5f - 0.1f), hi = At(size.x * 0.5f + 0.1f, 0, size.y * 0.5f + 0.6f);
+            obstacles.Add(Obstacle.Rect(Mathf.Min(lo.x, hi.x), Mathf.Min(lo.z, hi.z), Mathf.Max(lo.x, hi.x), Mathf.Max(lo.z, hi.z)));
 
-            sicBoDealer = SpawnStaff(new Vector3(c.x, 0, c.z + size.y * 0.5f + 0.32f), 180f, StaffRole.Dealer, SicBoScreen.DealerTheme, StaffPose.Counter);
+            sicBoDealer = SpawnStaff(At(0, 0, size.y * 0.5f + 0.32f), turn.eulerAngles.y + 180f, StaffRole.Dealer, SicBoScreen.DealerTheme, StaffPose.Counter);
             spots.Add(new Spot
             {
                 Title = () => Loc.T("PLAY SIC BO"),
@@ -717,8 +725,8 @@ namespace Casino.World
                 Focus = c + Vector3.up,
                 TapRadius = 1.5f,
                 UseDistance = 3.2f,
-                Approach = new Vector2(c.x, c.z - 1.7f),
-                ApproachYaw = 0f,
+                Approach = new Vector2(At(0, 0, -1.7f).x, At(0, 0, -1.7f).z),
+                ApproachYaw = turn.eulerAngles.y,
                 Use = OpenSicBo,
                 StaffIndex = sicBoDealer,
             });
@@ -806,14 +814,15 @@ namespace Casino.World
                 plain.Box(p, size, cab);
                 if (poker) plain.Box(p + Vector3.up * 1.35f, alongX ? new Vector3(0.7f, 0.08f, 0.95f) : new Vector3(0.95f, 0.08f, 0.7f), Gold);
                 else plain.Box(p + Vector3.up * 1.65f, alongX ? new Vector3(0.7f, 0.35f, 0.9f) : new Vector3(0.9f, 0.35f, 0.7f), Lacquer);
-                // screen
-                Vector3 f = p + facing * 0.405f + Vector3.up * 1.0f;
+                // screen, 5 mm proud of the cabinet front (the poker console is deeper than a slot cabinet)
+                float depth = alongX ? size.x : size.z;
+                Vector3 f = p + facing * (depth * 0.5f + 0.005f) + Vector3.up * 1.0f;
                 if (poker)
                 {
-                    // a lit but still screen: the five cards below are the display, not spinning reels
-                    plain.Emission = 0.55f;
-                    plain.Panel(f, facing, 0.42f, 0.23f, Palette.Hex("0B1E3A"), Vector2.one);
-                    plain.Emission = 0f;
+                    // a lit, still screen: a paytable over five dealt cards (no spinning reels)
+                    pokerScreens.Emission = 1.2f;
+                    pokerScreens.Panel(f, facing, 0.42f, 0.23f, Color.white, Vector2.one);
+                    pokerScreens.Emission = 0f;
                     videoPokerMachines.Add((f, facing));
                 }
                 else
@@ -827,10 +836,6 @@ namespace Casino.World
                 }
                 if (poker)
                 {
-                    // five face-down cards on the screen
-                    plain.Emission = 0.35f;
-                    for (int i = 0; i < 5; i++)
-                        plain.Box(f + facing * 0.015f + right * ((i - 2) * 0.078f), alongX ? new Vector3(0.012f, 0.15f, 0.105f) : new Vector3(0.105f, 0.15f, 0.012f), Palette.Hex("EEF2FF"));
                     // the button deck on the rail, with five hold buttons
                     var deck = p + Vector3.up * 0.74f + facing * 0.52f;
                     plain.Emission = 0f;
@@ -885,6 +890,8 @@ namespace Casino.World
             for (float x = 4f; x <= 11f; x += 3.5f) rig.Light(new Vector3(x, 2.6f, MaxZ - 1.5f), Cyan, 4f, 0.5f);
             obstacles.Add(Obstacle.Rect(MaxX - 1.5f, -3.7f, MaxX, 9.8f));
             obstacles.Add(Obstacle.Rect(2.4f, MaxZ - 1.5f, MaxX, MaxZ));
+            sightBlockers.Add(Obstacle.Rect(MaxX - 0.95f, -3.6f, MaxX, 9.7f));   // just the cabinets
+            sightBlockers.Add(Obstacle.Rect(2.4f, MaxZ - 0.95f, MaxX, MaxZ));
 
             Marquee(new Vector3(MaxX - 0.05f, 3.55f, 3f), 6f, 1f, Vector3.left, Pink);
             Sign(() => Loc.T("SLOTS"), new Vector3(MaxX - 0.08f, 3.65f, 3f), 90f, 5f, 0.7f, Pink, FontKind.Display);
@@ -990,6 +997,7 @@ namespace Casino.World
                 plain.Emission = 0f;
                 rig.Light(b + Vector3.up * 2.5f, neon, 3.2f, 0.45f);
                 obstacles.Add(Obstacle.Round(p.x, p.y, 0.56f));
+                sightBlockers.Add(Obstacle.Round(p.x, p.y, 0.45f));
                 k++;
             }
         }

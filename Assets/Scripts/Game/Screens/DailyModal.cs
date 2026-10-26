@@ -121,7 +121,7 @@ namespace Casino.Screens
             var ice = UIKit.Image(col, "Freeze", ProceduralArt.IconSprite(Icon.Freeze), Palette.Hex("8FD8FF"));
             ((RectTransform)ice.transform).Center(-205, -215, 56, 56);
             freezeText = UIKit.Label(col, "", 24, Color.white, TextAnchor.MiddleLeft, FontKind.Semi);
-            ((RectTransform)freezeText.transform).Center(30, -215, 400, 64);
+            ((RectTransform)freezeText.transform).Center(30, -212, 400, 92);   // header plus a two-line note, without shrinking
             // A freeze for a video, or for chips.
             freezeAdButton = UIKit.Button(col, Loc.T("WATCH AD"), ButtonStyle.Green, () => App.I.Purchases.WatchAdForFreeze(), 28, Icon.Video);
             freezeAdButton.Rect.Center(-118, -310, 228, 90);

@@ -657,3 +657,4 @@ cacf0cc	SNÚA VIÐ SJÓNARHORNI UPP / NIÐUR
 ec14343	Hversu hratt hægri pinninn snýr sjónarhorninu.
 1920e2f	Upphafskast: veðjaðu á Pass Line og kastaðu. 7 eða 11 vinna; 2, 3 eða 12 tapa. Place-veðmál fara að gilda þegar punktur er kominn.
 99f4934	LUCKY ACE 7s  •  GREIÐIR ALLT AÐ 2.500× LÍNUVEÐMÁLIÐ ÞITT
+48ddc95	SJÁLFVIRK SNÚA

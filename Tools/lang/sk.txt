@@ -657,3 +657,4 @@ e1ae457	Mateo
 7aa2d07	Enzo
 1920e2f	Úvodný hod: stav na Pass Line a hoď. 7 alebo 11 vyhráva, 2, 3 alebo 12 prehráva. Stávky Place začínajú platiť, keď je bod.
 99f4934	LUCKY ACE 7s  •  VYPLÁCA AŽ 2 500× TVOJU STÁVKU NA LÍNIU
+48ddc95	AUTOMATICKY

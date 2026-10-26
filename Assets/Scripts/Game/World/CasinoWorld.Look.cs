@@ -40,7 +40,7 @@ namespace Casino.World
 
         /// <summary>The surface textures, in the order of the surface kits (null = plain white).</summary>
         static readonly Func<int, Texture2D>[] SurfacePainters =
-            { WorldArt.Carpet, WorldArt.Marble, WorldArt.Damask, WorldArt.Wood, null, WorldArt.Bottles, WorldArt.SlotReels };
+            { WorldArt.Carpet, WorldArt.Marble, WorldArt.Damask, WorldArt.Wood, null, WorldArt.Bottles, WorldArt.SlotReels, WorldArt.PokerScreen };
 
         int quality = -1;        // the quality the world is set up for
         int textureDetail;       // the resolution the surface textures were painted at (0 = not yet)
@@ -357,6 +357,7 @@ namespace Casino.World
             wood.Gloss = 0.6f;        // varnished mahogany
             bottles.Gloss = 0.35f;    // glass shelves
             slotScreens.Gloss = 0.55f;
+            pokerScreens.Gloss = 0.55f;
             plain.Gloss = 0.2f;
             plain.Finish(Gold, 0.75f, true);
             plain.Finish(Palette.Gold, 0.75f, true);

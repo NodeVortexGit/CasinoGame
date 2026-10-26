@@ -541,6 +541,7 @@ SALLA
 LUCKY ACE 7s
 TOPLAM BAHİS
 ÖDEME TABLOSU
+OTOMATİK ÇEVİR
 BOL ŞANS!
 Çevirmek için en az 10 fiş gerekir.
 FİŞ AL

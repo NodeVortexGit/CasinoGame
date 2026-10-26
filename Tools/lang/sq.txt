@@ -657,3 +657,4 @@ e1ae457	Mateo
 7aa2d07	Enzo
 1920e2f	Hedhja e parë: vë bast te Pass Line dhe hidh. 7 ose 11 fiton, 2, 3 ose 12 humbet. Bastet Place fillojnë të vlejnë kur ka pikë.
 99f4934	LUCKY ACE 7s  •  PAGUAN DERI NË 2.500× BASTIN TËND PËR LINJË
+48ddc95	AUTOMATIK

@@ -541,6 +541,7 @@ TRIPLĂ DE {0}!
 LUCKY ACE 7s
 MIZĂ TOTALĂ
 TABEL DE PLĂȚI
+AUTO ÎNVÂRTE
 BAFTĂ!
 Ai nevoie de cel puțin 10 jetoane ca să învârți.
 IA JETOANE

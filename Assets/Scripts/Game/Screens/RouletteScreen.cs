@@ -462,7 +462,7 @@ namespace Casino.Screens
                 Sfx.Play(big ? SfxId.BigWin : SfxId.Win);
                 Confetti.Burst(fx, seat != null ? new Vector2(0, 150) : new Vector2(-560, 0), big ? 90 : 40, true);
                 Say(big ? Loc.T("What a hit! Congratulations!") : Loc.F("Winner! You win {0}.", ChipFormat.Full(back)));
-                totalText.text = Loc.F("WIN  +{0}", ChipFormat.Full(back));
+                totalText.text = Loc.F("WIN  +{0}", ChipFormat.Full(net));   // the profit, as baccarat shows it
             }
             else if (back > 0)
             {

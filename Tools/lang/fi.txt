@@ -657,3 +657,4 @@ e1ae457	Mateo
 7aa2d07	Enzo
 1920e2f	Avausheitto: panosta Pass Lineen ja heitä. 7 tai 11 voittaa, 2, 3 tai 12 häviää. Place-panokset astuvat voimaan, kun piste on olemassa.
 99f4934	LUCKY ACE 7s  •  MAKSAA JOPA 2 500× LINJAPANOKSESI
+48ddc95	AUTOMAATTI

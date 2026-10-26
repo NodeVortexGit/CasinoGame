@@ -657,3 +657,4 @@ e1ae457	Mateo
 7aa2d07	Enzo
 1920e2f	İlk atış: Pass Line'a bahis koy, sonra at. 7 veya 11 kazanır, 2, 3 veya 12 kaybeder. Place bahisleri puan oluşunca çalışmaya başlar.
 99f4934	LUCKY ACE 7s  •  HAT BAHSİNİN 2.500×'İNE KADAR ÖDER
+48ddc95	OTOMATİK ÇEVİR

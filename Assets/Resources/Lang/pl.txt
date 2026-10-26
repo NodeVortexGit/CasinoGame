@@ -541,6 +541,7 @@ TRÓJKA {0}!
 LUCKY ACE 7s
 ŁĄCZNY ZAKŁAD
 TABELA WYPŁAT
+AUTO OBRÓT
 POWODZENIA!
 Do zakręcenia potrzeba co najmniej 10 żetonów.
 WEŹ ŻETONY

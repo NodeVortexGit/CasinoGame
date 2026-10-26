@@ -541,6 +541,7 @@ BỘ BA {0}!
 LUCKY ACE 7s
 TỔNG CƯỢC
 BẢNG TRẢ THƯỞNG
+QUAY TỰ ĐỘNG
 CHÚC MAY MẮN!
 Bạn cần ít nhất 10 chip để quay.
 NHẬN CHIP

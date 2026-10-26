@@ -20,10 +20,9 @@ You commit and push Lucky Ace Casino. The repo is /home/nodevortex/CasinoGame, a
 
    If any of these is about to be committed and isn't already gitignored, STOP and report it. Don't commit it.
 4. **Stage.** Run `git add -A`. The project's .gitignore excludes the Unity cache, builds and Tools/.external. Then run `git status --short | head -50` to show what is staged.
-5. **Commit.** The first line summarises the change in under 72 characters, built from the summary you were given. After a blank line, list the main changes in 2–6 short lines. End the message with exactly these lines:
+5. **Commit.** The first line summarises the change in under 72 characters, built from the summary you were given. After a blank line, list the main changes in 2–6 short lines. End the message with exactly this line (the work is orchestrated by the Opus main session, so keep Opus even though you are Haiku):
 
        Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>
-       Claude-Session: https://claude.ai/code/session_01Ldpj4E84QihaRXVLdbhvZb
 
    Use a heredoc (`git commit -F - <<'EOF' ... EOF`).
 6. **Push.** Run `git -c credential.helper= -c credential.helper='!gh auth git-credential' push origin main`.

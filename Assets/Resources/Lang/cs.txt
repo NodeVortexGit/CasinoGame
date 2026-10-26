@@ -541,6 +541,7 @@ TROJICE {0}!
 LUCKY ACE 7s
 CELKOVÁ SÁZKA
 VÝHERNÍ TABULKA
+AUTO ROZTOČENÍ
 HODNĚ ŠTĚSTÍ!
 K roztočení potřebuješ aspoň 10 žetonů.
 ZÍSKAT ŽETONY

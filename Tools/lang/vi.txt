@@ -657,3 +657,4 @@ e1ae457	Mateo
 7aa2d07	Enzo
 1920e2f	Lượt mở đầu: đặt cược Pass Line rồi gieo. 7 hoặc 11 thắng, 2, 3 hoặc 12 thua. Cược Place bắt đầu có hiệu lực khi đã có điểm.
 99f4934	LUCKY ACE 7s  •  TRẢ ĐẾN 2.500× CƯỢC ĐƯỜNG CỦA BẠN
+48ddc95	QUAY TỰ ĐỘNG

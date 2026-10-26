@@ -657,3 +657,4 @@ e1ae457	Mateo
 7aa2d07	Enzo
 1920e2f	Lancer de sortie : misez sur la Pass Line et lancez. 7 ou 11 gagne, 2, 3 ou 12 perd. Les mises place comptent une fois le point établi.
 99f4934	LUCKY ACE 7s  •  JUSQU'À 2 500× VOTRE MISE PAR LIGNE
+48ddc95	AUTOMATIQUE

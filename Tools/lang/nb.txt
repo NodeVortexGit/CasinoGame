@@ -657,3 +657,4 @@ e1ae457	Mateo
 7aa2d07	Enzo
 1920e2f	Come-out-kast: sats på Pass Line, så kast. 7 eller 11 vinner, 2, 3 eller 12 taper. Place-innsatser begynner å gjelde når det finnes et point.
 99f4934	LUCKY ACE 7s  •  BETALER OPPTIL 2 500× LINJEINNSATSEN DIN
+48ddc95	AUTOMATISK

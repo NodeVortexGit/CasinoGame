@@ -657,3 +657,4 @@ e1ae457	Mateo
 7aa2d07	Enzo
 1920e2f	Lançamento de saída: aposte na Pass Line e lance. 7 ou 11 ganham; 2, 3 ou 12 perdem. As apostas Place começam a valer quando há um ponto.
 99f4934	LUCKY ACE 7s  •  PAGA ATÉ 2500× A SUA APOSTA POR LINHA
+48ddc95	AUTOMÁTICO

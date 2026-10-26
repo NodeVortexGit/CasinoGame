@@ -541,6 +541,7 @@ TRÍO DE {0}!
 LUCKY ACE 7s
 APOSTA TOTAL
 TÁBOA DE PREMIOS
+AUTOMÁTICO
 BOA SORTE!
 Precisas polo menos 10 fichas para xirar.
 COLLER FICHAS

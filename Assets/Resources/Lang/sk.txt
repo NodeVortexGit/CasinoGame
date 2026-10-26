@@ -541,6 +541,7 @@ TROJICA {0}!
 LUCKY ACE 7s
 CELKOVÁ STÁVKA
 VÝHERNÁ TABUĽKA
+AUTOMATICKY
 VEĽA ŠŤASTIA!
 Na roztočenie potrebuješ aspoň 10 žetónov.
 ZÍSKAŤ ŽETÓNY

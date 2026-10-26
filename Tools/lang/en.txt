@@ -390,31 +390,31 @@ bb65beb	{0}m {1}s	LobbyScreen.cs:199
 ac8ba93	KEEP YOUR STREAK	LobbyScreen.cs:207
 560bfa1	Want a reminder on evenings you haven't played yet, and when your free chips are ready? Never more than that, and you can turn it off in Settings.	LobbyScreen.cs:208
 b724a40	REMIND ME	LobbyScreen.cs:210
-9e0c898	+{0} chips ready!	LobbyScreen.cs:269
-1207e28	Watch a video: {0}	LobbyScreen.cs:270
-db3655b	Next free chips in {0}	LobbyScreen.cs:271
-4ca9be5	BLACKJACK	LobbyScreen.cs:405
-9a612b1	4 tables  •  pays 3 to 2	LobbyScreen.cs:405
-177fab0	Ultimate Texas Hold'em	LobbyScreen.cs:407
-c4917b9	Player, Banker or Tie	LobbyScreen.cs:409
-1194439	SLOTS	LobbyScreen.cs:411
-6555152	Lucky Ace 7s  •  10 lines	LobbyScreen.cs:411
-6e4fe7b	VIDEO POKER	LobbyScreen.cs:413
-73cabd3	Jacks or Better	LobbyScreen.cs:413
-91c4555	SIC BO	LobbyScreen.cs:415
-d810061	Three dice  •  big or small	LobbyScreen.cs:415
-85ab7ec	Pass Line  •  Field  •  Odds	LobbyScreen.cs:417
-255b1a1	ROULETTE	LobbyScreen.cs:419
-6df1551	European single zero	LobbyScreen.cs:419
-379b146	YOU'RE EXHAUSTED	LobbyScreen.cs:473
-340e5c4	Your energy bar is empty. Grab something from the bar to keep playing, or come back later: energy recovers slowly while you're away.	LobbyScreen.cs:474
-a517396	VISIT THE BAR	LobbyScreen.cs:475
-7c7227f	CHOOSE YOUR TABLE	LobbyScreen.cs:506
-c963de3	BETS	LobbyScreen.cs:521
-c433657	LEVEL {0}	LobbyScreen.cs:526
-083ac39	SIT DOWN	LobbyScreen.cs:526
-9698219	NEED {0}	LobbyScreen.cs:526
-34b737e	Reach level {0} to play here. You're level {1}.	LobbyScreen.cs:531
+9e0c898	+{0} chips ready!	LobbyScreen.cs:281
+1207e28	Watch a video: {0}	LobbyScreen.cs:282
+db3655b	Next free chips in {0}	LobbyScreen.cs:283
+4ca9be5	BLACKJACK	LobbyScreen.cs:417
+9a612b1	4 tables  •  pays 3 to 2	LobbyScreen.cs:417
+177fab0	Ultimate Texas Hold'em	LobbyScreen.cs:419
+c4917b9	Player, Banker or Tie	LobbyScreen.cs:421
+1194439	SLOTS	LobbyScreen.cs:423
+6555152	Lucky Ace 7s  •  10 lines	LobbyScreen.cs:423
+6e4fe7b	VIDEO POKER	LobbyScreen.cs:425
+73cabd3	Jacks or Better	LobbyScreen.cs:425
+91c4555	SIC BO	LobbyScreen.cs:427
+d810061	Three dice  •  big or small	LobbyScreen.cs:427
+85ab7ec	Pass Line  •  Field  •  Odds	LobbyScreen.cs:429
+255b1a1	ROULETTE	LobbyScreen.cs:431
+6df1551	European single zero	LobbyScreen.cs:431
+379b146	YOU'RE EXHAUSTED	LobbyScreen.cs:485
+340e5c4	Your energy bar is empty. Grab something from the bar to keep playing, or come back later: energy recovers slowly while you're away.	LobbyScreen.cs:486
+a517396	VISIT THE BAR	LobbyScreen.cs:487
+7c7227f	CHOOSE YOUR TABLE	LobbyScreen.cs:518
+c963de3	BETS	LobbyScreen.cs:533
+c433657	LEVEL {0}	LobbyScreen.cs:538
+083ac39	SIT DOWN	LobbyScreen.cs:538
+9698219	NEED {0}	LobbyScreen.cs:538
+34b737e	Reach level {0} to play here. You're level {1}.	LobbyScreen.cs:543
 6cc19a9	CASINO	Onboarding.cs:22
 6e946b7	DD	Onboarding.cs:33
 4a3a892	MM	Onboarding.cs:33
@@ -536,37 +536,38 @@ e2a28c9	Each card has that chance of being dealt in your favor, on blackjack bet
 b2c67eb	+{0}% CHIPS	ShopModal.cs:132
 58e8011	{0} hands	ShopModal.cs:161
 ce80712	wins about {0}% of them	ShopModal.cs:162
-35d8db6	Welcome to sic bo! Big, small, or something bolder?	SicBoScreen.cs:113
-3d05514	Table limit is {0} per roll.	SicBoScreen.cs:236
-86ade94	SHAKE	SicBoScreen.cs:299
-b69304e	TRIPLE {0}!	SicBoScreen.cs:384
-c69e8ee	LUCKY ACE 7s	SlotsScreen.cs:74
-fc99288	TOTAL BET	SlotsScreen.cs:124
-c1c00cd	PAYTABLE	SlotsScreen.cs:134
-3930abd	GOOD LUCK!	SlotsScreen.cs:152
-67b6973	You need at least 10 chips to spin.	SlotsScreen.cs:202
-5aa1edb	GET CHIPS	SlotsScreen.cs:202
-f5a1812	Bet lowered to what you can cover.	SlotsScreen.cs:204
-5c63f61	MEGA WIN!	SlotsScreen.cs:246
-652544f	BIG WIN!	SlotsScreen.cs:246
-91bc41c	RETURNED {0}	SlotsScreen.cs:259
-3714283	NO WIN	SlotsScreen.cs:265
-33c0faa	LINE {0}: {1} × {2} = {3}	SlotsScreen.cs:363
-9f59e6e	{0} STARS = {1}	SlotsScreen.cs:370
-d6eee90	Cherry	SlotsScreen.cs:435
-4459b79	Lemon	SlotsScreen.cs:435
-09fb6aa	Orange	SlotsScreen.cs:435
-cb92e50	Plum	SlotsScreen.cs:435
-d419866	Bell	SlotsScreen.cs:435
-e496fd2	Bar	SlotsScreen.cs:435
-63abb56	Seven	SlotsScreen.cs:435
-b3850e0	Diamond	SlotsScreen.cs:436
-fc2b5a9	Ace	SlotsScreen.cs:436
-85a7de6	Star	SlotsScreen.cs:436
-c31b035	STARS pay anywhere: 5 = {0}× bet, 4 = {1}× bet, 3 = {2}× bet.	SlotsScreen.cs:464
-f97509c	The ACE is wild: it stands in for every symbol except the star.	SlotsScreen.cs:466
-3e8bc69	Line pays are multiples of the line bet (total bet ÷ 10), left to right from the first reel.	SlotsScreen.cs:467
-523f8dc	PAYBACK: {0}% over the long run. Every spin is independent and random.	SlotsScreen.cs:470
+35d8db6	Welcome to sic bo! Big, small, or something bolder?	SicBoScreen.cs:118
+3d05514	Table limit is {0} per roll.	SicBoScreen.cs:241
+86ade94	SHAKE	SicBoScreen.cs:304
+b69304e	TRIPLE {0}!	SicBoScreen.cs:389
+c69e8ee	LUCKY ACE 7s	SlotsScreen.cs:77
+fc99288	TOTAL BET	SlotsScreen.cs:127
+c1c00cd	PAYTABLE	SlotsScreen.cs:137
+48ddc95	AUTO SPIN	SlotsScreen.cs:142
+3930abd	GOOD LUCK!	SlotsScreen.cs:158
+67b6973	You need at least 10 chips to spin.	SlotsScreen.cs:235
+5aa1edb	GET CHIPS	SlotsScreen.cs:235
+f5a1812	Bet lowered to what you can cover.	SlotsScreen.cs:237
+5c63f61	MEGA WIN!	SlotsScreen.cs:279
+652544f	BIG WIN!	SlotsScreen.cs:279
+91bc41c	RETURNED {0}	SlotsScreen.cs:292
+3714283	NO WIN	SlotsScreen.cs:298
+33c0faa	LINE {0}: {1} × {2} = {3}	SlotsScreen.cs:398
+9f59e6e	{0} STARS = {1}	SlotsScreen.cs:405
+d6eee90	Cherry	SlotsScreen.cs:471
+4459b79	Lemon	SlotsScreen.cs:471
+09fb6aa	Orange	SlotsScreen.cs:471
+cb92e50	Plum	SlotsScreen.cs:471
+d419866	Bell	SlotsScreen.cs:471
+e496fd2	Bar	SlotsScreen.cs:471
+63abb56	Seven	SlotsScreen.cs:471
+b3850e0	Diamond	SlotsScreen.cs:472
+fc2b5a9	Ace	SlotsScreen.cs:472
+85a7de6	Star	SlotsScreen.cs:472
+c31b035	STARS pay anywhere: 5 = {0}× bet, 4 = {1}× bet, 3 = {2}× bet.	SlotsScreen.cs:500
+f97509c	The ACE is wild: it stands in for every symbol except the star.	SlotsScreen.cs:502
+3e8bc69	Line pays are multiples of the line bet (total bet ÷ 10), left to right from the first reel.	SlotsScreen.cs:503
+523f8dc	PAYBACK: {0}% over the long run. Every spin is independent and random.	SlotsScreen.cs:506
 5d1bcc6	HELD	VideoPokerScreen.cs:71
 36a21ba	Deal, hold the cards you want, draw once.	VideoPokerScreen.cs:93
 99fa8e8	HOLD	VideoPokerScreen.cs:131
@@ -615,38 +616,38 @@ a01126e	Julian	TableWidgets.cs:254
 e1ae457	Mateo	TableWidgets.cs:254
 3398634	Nico	TableWidgets.cs:254
 7aa2d07	Enzo	TableWidgets.cs:254
-0139615	WELCOME	CasinoWorld.Build.cs:309
-daad514	TALK TO THE HOST	CasinoWorld.Build.cs:336
-bcefb10	Directions and tips	CasinoWorld.Build.cs:337
-c28e782	CHIPS  •  BONUSES	CasinoWorld.Build.cs:378
-0c69ec4	BUY CHIPS	CasinoWorld.Build.cs:396
-78c0727	Cashier	CasinoWorld.Build.cs:397
-1737fab	COCKTAILS  •  SNACKS  •  ENERGY	CasinoWorld.Build.cs:435
-9e008ae	FOOD & DRINKS	CasinoWorld.Build.cs:467
-f7881e8	The Bar	CasinoWorld.Build.cs:468
-0e979ed	BLACKJACK PAYS 3 TO 2	CasinoWorld.Build.cs:495
-eea0d12	DEALER MUST STAND ON 17	CasinoWorld.Build.cs:496
-4db37bf	PLAY BLACKJACK	CasinoWorld.Build.cs:502
-0ffdd99	{0} table  •  bets {1} to {2}	CasinoWorld.Build.cs:503
-1c05db9	PLAY HOLD'EM	CasinoWorld.Build.cs:600
-e353e5f	Ultimate Texas Hold'em  •  ante {0} to {1}	CasinoWorld.Build.cs:601
-6470369	PLAY BACCARAT	CasinoWorld.Build.cs:638
-bbe0077	BIG  •  SMALL  •  TRIPLES	CasinoWorld.Build.cs:696
-3ba448f	PLAY SIC BO	CasinoWorld.Build.cs:712
-097c59c	Three dice  •  big or small pays 1 to 1	CasinoWorld.Build.cs:713
-af2ca30	PASS LINE  •  FIELD  •  ODDS	CasinoWorld.Build.cs:765
-f18398e	PLAY CRAPS	CasinoWorld.Build.cs:774
-eeede6d	Pass Line pays 1 to 1  •  odds pay true odds	CasinoWorld.Build.cs:775
-34e5170	PLAY VIDEO POKER	CasinoWorld.Build.cs:852
-b4f938b	PLAY SLOTS	CasinoWorld.Build.cs:852
-f71bdfb	Jacks or Better  •  9/6 full pay	CasinoWorld.Build.cs:853
-99f4934	LUCKY ACE 7s  •  PAYS UP TO 2,500× YOUR LINE BET	CasinoWorld.Build.cs:880
-4a6c087	JACKS OR BETTER  •  ROYAL FLUSH PAYS 800×	CasinoWorld.Build.cs:883
-6b7caea	PLACE YOUR BETS	CasinoWorld.Build.cs:921
-26b1e39	PLAY ROULETTE	CasinoWorld.Build.cs:931
-910a1ed	European wheel  •  straight up pays 35 to 1	CasinoWorld.Build.cs:932
-7ef0215	ORDER A DRINK	CasinoWorld.Build.cs:1132
-fe38d73	{0} brings it over	CasinoWorld.Build.cs:1133
+0139615	WELCOME	CasinoWorld.Build.cs:313
+daad514	TALK TO THE HOST	CasinoWorld.Build.cs:340
+bcefb10	Directions and tips	CasinoWorld.Build.cs:341
+c28e782	CHIPS  •  BONUSES	CasinoWorld.Build.cs:382
+0c69ec4	BUY CHIPS	CasinoWorld.Build.cs:401
+78c0727	Cashier	CasinoWorld.Build.cs:402
+1737fab	COCKTAILS  •  SNACKS  •  ENERGY	CasinoWorld.Build.cs:440
+9e008ae	FOOD & DRINKS	CasinoWorld.Build.cs:472
+f7881e8	The Bar	CasinoWorld.Build.cs:473
+0e979ed	BLACKJACK PAYS 3 TO 2	CasinoWorld.Build.cs:500
+eea0d12	DEALER MUST STAND ON 17	CasinoWorld.Build.cs:501
+4db37bf	PLAY BLACKJACK	CasinoWorld.Build.cs:507
+0ffdd99	{0} table  •  bets {1} to {2}	CasinoWorld.Build.cs:508
+1c05db9	PLAY HOLD'EM	CasinoWorld.Build.cs:605
+e353e5f	Ultimate Texas Hold'em  •  ante {0} to {1}	CasinoWorld.Build.cs:606
+6470369	PLAY BACCARAT	CasinoWorld.Build.cs:643
+bbe0077	BIG  •  SMALL  •  TRIPLES	CasinoWorld.Build.cs:703
+3ba448f	PLAY SIC BO	CasinoWorld.Build.cs:721
+097c59c	Three dice  •  big or small pays 1 to 1	CasinoWorld.Build.cs:722
+af2ca30	PASS LINE  •  FIELD  •  ODDS	CasinoWorld.Build.cs:774
+f18398e	PLAY CRAPS	CasinoWorld.Build.cs:783
+eeede6d	Pass Line pays 1 to 1  •  odds pay true odds	CasinoWorld.Build.cs:784
+34e5170	PLAY VIDEO POKER	CasinoWorld.Build.cs:868
+b4f938b	PLAY SLOTS	CasinoWorld.Build.cs:868
+f71bdfb	Jacks or Better  •  9/6 full pay	CasinoWorld.Build.cs:869
+99f4934	LUCKY ACE 7s  •  PAYS UP TO 2,500× YOUR LINE BET	CasinoWorld.Build.cs:898
+4a6c087	JACKS OR BETTER  •  ROYAL FLUSH PAYS 800×	CasinoWorld.Build.cs:901
+6b7caea	PLACE YOUR BETS	CasinoWorld.Build.cs:939
+26b1e39	PLAY ROULETTE	CasinoWorld.Build.cs:949
+910a1ed	European wheel  •  straight up pays 35 to 1	CasinoWorld.Build.cs:950
+7ef0215	ORDER A DRINK	CasinoWorld.Build.cs:1151
+fe38d73	{0} brings it over	CasinoWorld.Build.cs:1152
 f7b6306	The {0} opens at level {1}. You're level {2}: every round you play counts.	CasinoWorld.cs:354
 d85f1ad	This table needs at least {0} chips.	CasinoWorld.cs:366
 cbfe016	Blackjack tables are straight ahead. Walk up to one and take a seat!	CasinoWorld.cs:521

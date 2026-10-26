@@ -221,21 +221,33 @@ namespace Casino.Screens
 
         void OnStaffSpeaks(StaffFigure fig, string line)
         {
+            if (!OnScreen(fig, out _))
+            {
+                // A bubble needs someone to point at. The host's lines can matter (notices, out of chips), so when she
+                // is out of view they come as a note instead; anyone else's go unsaid.
+                if (fig == world.HostFigure) App.I.UI.Toast(line, Color.white, Icon.Person);
+                return;
+            }
             speaker = fig;
             speakerUntil = Time.unscaledTime + 3.4f + line.Length * 0.022f;
             bubble.Say(line, 3.2f, null, fig.Female ? VoicePitch.High : VoicePitch.Low);
             PlaceBubble();
         }
 
+        bool OnScreen(StaffFigure fig, out Vector3 screen)
+        {
+            screen = world.Camera.WorldToScreenPoint(fig.HeadPoint + Vector3.up * 0.12f);
+            var px = world.Camera.pixelRect;
+            return screen.z > 0.2f && screen.z < 9f && screen.x > px.xMin - 80f && screen.x < px.xMax + 80f;
+        }
+
         void PlaceBubble()
         {
             if (speaker == null) return;
-            Vector3 screen = world.Camera.WorldToScreenPoint(speaker.HeadPoint + Vector3.up * 0.12f);
-            var px = world.Camera.pixelRect;
-            bool onScreen = screen.z > 0.2f && screen.z < 9f && screen.x > px.xMin - 80f && screen.x < px.xMax + 80f;
-            if (!onScreen && speaker != world.HostFigure)
+            bool onScreen = OnScreen(speaker, out var screen);
+            if (!onScreen)
             {
-                // Out of sight: let the line go rather than leaving a bubble floating in the air.
+                // Turned away mid-line: let it go rather than leave a bubble floating in the air (or over a machine).
                 bubble.Hide();
                 speaker = null;
                 return;

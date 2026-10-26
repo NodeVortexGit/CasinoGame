@@ -541,6 +541,7 @@ KOLME {0}:STA!
 LUCKY ACE 7s
 KOKONAISPANOS
 VOITTOTAULUKKO
+AUTOMAATTI
 ONNEA!
 Tarvitset vähintään 10 pelimerkkiä pyöräyttääksesi.
 HAE PELIMERKKEJÄ

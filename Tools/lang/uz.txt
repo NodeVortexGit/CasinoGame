@@ -657,3 +657,4 @@ e1ae457	Mateo
 7aa2d07	Enzo
 1920e2f	Birinchi tashlash: Pass Line'ga tiking, so‘ng tashlang. 7 yoki 11 yutadi, 2, 3 yoki 12 yutqazadi. Place tikishlari ochko chiqqandan keyin ishlay boshlaydi.
 99f4934	LUCKY ACE 7s  •  CHIZIQ TIKISHINGIZNING 2 500× GACHA TO‘LAYDI
+48ddc95	AVTOMATIK

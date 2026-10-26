@@ -202,11 +202,14 @@ namespace Casino.Core.Poker
             Phase = HoldemPhase.Complete;
         }
 
-        /// <summary>What a winning Blind pays on top of the stake (nothing below a straight).</summary>
+        /// <summary>
+        /// What a winning Blind pays on top of the stake (nothing below a straight), to the nearest chip with halves
+        /// going to the player: 3:2 on a 25 blind pays 38.
+        /// </summary>
         public static long BlindWin(long blind, HandCategory hand)
         {
             foreach (var (h, num, den) in BlindPays)
-                if (h == hand) return blind * num / den;
+                if (h == hand) return (blind * num * 2 + den) / (den * 2);
             return 0;
         }
     }

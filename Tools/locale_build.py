@@ -552,7 +552,8 @@ HAITIAN_DAYS = {"@weekday:0": "Dim", "@weekday:1": "Len", "@weekday:2": "Mad", "
 def number_style(lang):
     loc = cldr(lang)
     symbols = loc.number_symbols
-    sym = symbols.get("latn", symbols) if isinstance(symbols, dict) else symbols
+    # Babel 2.14+ keys the symbols by numbering system (a mapping, not a dict); older versions return them flat.
+    sym = symbols["latn"] if "latn" in symbols else symbols
     decimal, group = sym.get("decimal", "."), sym.get("group", ",")
     group = group.replace(" ", " ").replace("’", "'")
     fmt = loc.decimal_formats.get(None)

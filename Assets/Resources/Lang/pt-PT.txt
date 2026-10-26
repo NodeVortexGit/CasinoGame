@@ -541,6 +541,7 @@ TRIO DE {0}!
 LUCKY ACE 7s
 APOSTA TOTAL
 TABELA DE PRÉMIOS
+AUTOMÁTICO
 BOA SORTE!
 Precisa de pelo menos 10 fichas para rodar.
 OBTER FICHAS

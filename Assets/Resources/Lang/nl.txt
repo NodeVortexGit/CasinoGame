@@ -541,6 +541,7 @@ TRIPLE {0}!
 LUCKY ACE 7s
 TOTALE INZET
 UITBETALINGEN
+AUTOMATISCH
 VEEL GELUK!
 Je hebt minstens 10 fiches nodig om te draaien.
 FICHES HALEN

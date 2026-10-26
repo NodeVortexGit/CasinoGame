@@ -177,7 +177,7 @@ namespace Casino.Screens
             return rt;
         }
 
-        static readonly Vector2 PuckOff = new Vector2(-920, 420);
+        static readonly Vector2 PuckOff = new Vector2(-920, 345);   // the back rail covers the board from about y 440
 
         static Vector2 PuckOn(int point) => new Vector2(-800 + System.Array.IndexOf(CrapsTable.PlaceNumbers, point) * 320, 270 + 40) + BoardPos;
 
@@ -360,8 +360,8 @@ namespace Casino.Screens
             Sfx.Play(SfxId.Shuffle, 0.8f);
             // The dice fly from your end of the table to the far wall and bounce back a little.
             Vector2 from = new Vector2(Random.Range(-120f, 120f), -460f);
-            var a = die1.Tumble(from, new Vector2(Random.Range(-260f, -40f), Random.Range(420f, 470f)), 1.1f, game.Die1, 1080f);
-            var b = die2.Tumble(from + new Vector2(40, 0), new Vector2(Random.Range(40f, 260f), Random.Range(420f, 470f)), 1.2f, game.Die2, 1260f);
+            var a = die1.Tumble(from, new Vector2(Random.Range(-260f, -40f), Random.Range(330f, 370f)), 1.1f, game.Die1, 1080f);
+            var b = die2.Tumble(from + new Vector2(40, 0), new Vector2(Random.Range(40f, 260f), Random.Range(330f, 370f)), 1.2f, game.Die2, 1260f);
             yield return Tween.All(this, a, b);
             Sfx.Play(SfxId.Tick);
             int t = game.LastTotal;
