@@ -207,6 +207,8 @@ Pronto em {0} s
 +{0} fichas grátis!
 +1 congelamento de sequência!
 Nenhum vídeo disponível agora. Tente de novo daqui a pouco.
+Vídeo {0} de {1}
+Prêmio perdido: os vídeos precisam ser assistidos até o fim.
 BRONZE
 PRATA
 OURO
@@ -530,6 +532,18 @@ Cada carta tem essa chance de vir a seu favor em apostas de blackjack de até {0
 Permita o acesso à localização para ter o preço do seu país
 Compras não estão disponíveis nesta versão do jogo.
 LOJA DE TESTE (sem dinheiro real)
++{0}% de energia
+{0} mãos com {1}% de sorte
+ASSISTIR VÍDEOS
+1 a 3 vídeos curtos
+ASSISTIR
+ASSISTIR 1 VÍDEO?
+ASSISTIR {0} VÍDEOS?
+Assista 1 vídeo até o fim para ganhar {0}. Se parar antes, o prêmio é perdido.
+Assista {0} vídeos até o fim para ganhar {1}. Se parar antes, o prêmio é perdido.
+INICIAR
+AGORA NÃO
+Prêmio ganho: {0}!
 energia
 +{0}% FICHAS
 {0} mãos

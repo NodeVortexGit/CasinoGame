@@ -207,6 +207,8 @@ Valmis {0} s pärast
 +{0} tasuta žetooni!
 +1 seeria külmutus!
 Praegu pole videot saadaval. Proovi hetke pärast uuesti.
+Video {0}/{1}
+Auhind läks kaotsi: videod tuleb vaadata lõpuni.
 PRONKS
 HÕBE
 KULD
@@ -530,6 +532,18 @@ Igal kaardil on selline võimalus tulla sinu kasuks, kui blackjacki panus on kun
 Luba asukohale juurdepääs, et saada oma riigi hind
 Ostud pole selles mänguversioonis saadaval.
 TESTPOOD (päris raha pole)
++{0}% energiat
+{0} kätt {1}% õnnega
+VAATA REKLAAME
+1–3 lühikest videot
+VAATA
+VAATA 1 REKLAAMI?
+VAATA {0} REKLAAMI?
+Vaata 1 videot lõpuni, et saada {0}. Kui katkestad enne, auhind läheb kaotsi.
+Vaata {0} videot lõpuni, et saada {1}. Kui katkestad enne, auhind läheb kaotsi.
+ALUSTA
+MITTE PRAEGU
+Auhind võidetud: {0}!
 energia
 +{0}% ŽETOONE
 kätt: {0}

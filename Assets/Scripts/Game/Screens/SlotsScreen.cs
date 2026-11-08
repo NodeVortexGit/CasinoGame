@@ -83,6 +83,9 @@ namespace Casino.Screens
             ((RectTransform)inner.transform).Stretch(10, 10, 10, 10);
             var window = UIKit.Panel(frt, "Window", Palette.Hex("FFF8EC"), 20f);
             var wrt = ((RectTransform)window.transform).Center(0, 0, 5 * CellW + 4 * ReelGap + 24, 3 * CellH + 24);
+            // The spinning reels get their own batch so they don't re-batch the cabinet; the RectMask2Ds and the cells they
+            // clip all live inside this one canvas, so clipping is unaffected.
+            UIKit.OwnCanvas(window.gameObject, false);
             Marquee.Create(UIKit.NewRect("Lights", cab).Center(0, 40, 1240, 700), new Vector2(1240, 700), 40f);
 
             for (int r = 0; r < SlotMachine.Reels; r++)
@@ -144,6 +147,7 @@ namespace Casino.Screens
             ShowAuto();
 
             fx = UIKit.NewRect("Fx", Content).Stretch();
+            UIKit.OwnCanvas(fx.gameObject, false); // confetti, flying chips and banners animate constantly: keep them out of the screen's batch
             banner = UIKit.Label(fx, "", 150, Palette.Gold, TextAnchor.MiddleCenter, FontKind.Display, "Banner");
             ((RectTransform)banner.transform).Center(0, 60, 1600, 220);
             UIKit.TextOutline(banner, Palette.Hex("5A2200"), 5f);

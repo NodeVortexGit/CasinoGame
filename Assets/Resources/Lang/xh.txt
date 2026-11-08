@@ -207,6 +207,8 @@ Ilungile kwimizuzwana engu-{0}
 +iitshiphu zasimahla ezingu-{0}!
 +1 ukukhenkceza uthotho!
 Akukho vidiyo okwangoku. Zama kwakhona emva kwexeshana.
+Ividiyo {0} kwezi-{1}
+Umvuzo ulahlekile: iividiyo kufuneka zibukwe ukuya ekugqibeleni.
 UBHEDU
 ISILIVERE
 IGOLIDE
@@ -530,6 +532,18 @@ Ikhadi ngalinye linelo thuba lokwabelwa ngendlela ekuncedayo, kwiibhetshi ze-bla
 Vumela ukufikelela kwindawo ukuze ufumane ixabiso lelizwe lakho
 Ukuthenga akufumaneki kolu guqulelo lomdlalo.
 IVENKILE YOVAVANYO (ayiyomali yokwenyani)
++{0}% amandla
+izandla ezingu-{0} ngethamsanqa elingu-{1}%
+BUKELA IIVIDIYO
+iividiyo ezimfutshane ezi-1 ukuya ku-3
+BUKELA
+BUKELA IVIDIYO EYI-1?
+BUKELA IIVIDIYO EZINGU-{0}?
+Bukela ividiyo e-1 ukuya ekugqibeleni ukuze ufumane {0}. Ukuba uyima kwangaphambili, umvuzo uyalahleka.
+Bukela iividiyo ezingu-{0} ukuya ekugqibeleni ukuze ufumane {1}. Ukuba uyima kwangaphambili, umvuzo uyalahleka.
+QALISA
+HAYI NGOKU
+Umvuzo ufumanekile: {0}!
 amandla
 +{0}% IITSHIPHU
 izandla ezingu-{0}

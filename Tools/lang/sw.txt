@@ -658,3 +658,17 @@ e1ae457	Mateo
 1920e2f	Mrusho wa kwanza: weka dau kwenye Pass Line, kisha urushe. 7 au 11 inashinda, 2, 3 au 12 inapoteza. Dau za Place zinaanza kufanya kazi kukiwa na pointi.
 99f4934	LUCKY ACE 7s  •  INALIPA HADI 2,500× DAU LAKO LA MSTARI
 48ddc95	AUTO ZUNGUSHA
+3848f78	Video {0} kati ya {1}
+d87409f	Zawadi imepotea: lazima video zitazamwe hadi mwisho.
+14dcbe4	+{0}% nishati
+330037c	mikono {0} kwa bahati ya {1}%
+ff24786	TAZAMA VIDEO
+375d55d	video fupi 1 hadi 3
+f187dbf	TAZAMA
+64d31ad	TAZAMA VIDEO 1?
+e77d414	TAZAMA VIDEO {0}?
+8707135	Tazama video 1 hadi mwisho ili upate {0}. Ukisimama mapema, zawadi inapotea.
+88f8727	Tazama video {0} hadi mwisho ili upate {1}. Ukisimama mapema, zawadi inapotea.
+7196e7c	ANZA
+b967bda	SI SASA
+b10888c	Umeshinda zawadi: {0}!

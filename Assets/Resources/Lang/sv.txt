@@ -207,6 +207,8 @@ Klar om {0} s
 +{0} gratismarker!
 +1 streakfrysning!
 Ingen video tillgänglig just nu. Försök igen om en stund.
+Video {0} av {1}
+Priset förlorat: videorna måste ses hela vägen.
 BRONS
 SILVER
 GULD
@@ -530,6 +532,18 @@ Varje kort har den chansen att delas ut till din fördel, på blackjackinsatser 
 Tillåt platsåtkomst för att få ditt lands pris
 Köp är inte tillgängliga i den här versionen av spelet.
 TESTBUTIK (inga riktiga pengar)
++{0}% energi
+{0} händer med {1}% tur
+SE VIDEOR
+1 till 3 korta videor
+TITTA
+TITTA PÅ 1 VIDEO?
+TITTA PÅ {0} VIDEOR?
+Titta på 1 video hela vägen för att få {0}. Om du slutar tidigt förloras priset.
+Titta på {0} videor hela vägen för att få {1}. Om du slutar tidigt förloras priset.
+STARTA
+INTE NU
+Pris vunnet: {0}!
 energi
 +{0}% MARKER
 {0} händer

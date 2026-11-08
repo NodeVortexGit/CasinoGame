@@ -658,3 +658,17 @@ e1ae457	Mateo
 1920e2f	İlk atış: Pass Line'a bahis koy, sonra at. 7 veya 11 kazanır, 2, 3 veya 12 kaybeder. Place bahisleri puan oluşunca çalışmaya başlar.
 99f4934	LUCKY ACE 7s  •  HAT BAHSİNİN 2.500×'İNE KADAR ÖDER
 48ddc95	OTOMATİK ÇEVİR
+3848f78	Video {0} / {1}
+d87409f	Ödül kaybedildi: videolar baştan sona izlenmelidir.
+14dcbe4	+%{0} enerji
+330037c	%{1} şansla {0} el
+ff24786	REKLAM İZLE
+375d55d	1 ila 3 kısa video
+f187dbf	İZLE
+64d31ad	1 REKLAM İZLENSİN Mİ?
+e77d414	{0} REKLAM İZLENSİN Mİ?
+8707135	{0} kazanmak için 1 videoyu sonuna kadar izle. Erken durdurursan ödül kaybolur.
+88f8727	{1} kazanmak için {0} videoyu sonuna kadar izle. Erken durdurursan ödül kaybolur.
+7196e7c	BAŞLA
+b967bda	ŞİMDİ DEĞİL
+b10888c	Ödül kazanıldı: {0}!

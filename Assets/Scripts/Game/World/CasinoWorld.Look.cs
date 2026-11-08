@@ -67,7 +67,7 @@ namespace Casino.World
         static int AnisoFor(int q) => q >= QualityUltra ? 8 : q == QualityHigh ? 4 : q == QualityMedium ? 2 : 1;
 
         /// <summary>Staff further away than this hold their pose instead of animating.</summary>
-        float StaffAnimDistance => quality >= QualityUltra ? 60f : quality == QualityHigh ? 16f : quality == QualityMedium ? 11f : 8f;
+        float StaffAnimDistance => quality >= QualityUltra ? 24f : quality == QualityHigh ? 11f : quality == QualityMedium ? 11f : 8f;
 
         Texture2D ShadowFalloff => shadowFalloff != null ? shadowFalloff : shadowFalloff = WorldArt.Glow();
 
@@ -358,7 +358,7 @@ namespace Casino.World
             bottles.Gloss = 0.35f;    // glass shelves
             slotScreens.Gloss = 0.55f;
             pokerScreens.Gloss = 0.55f;
-            plain.Gloss = 0.2f;
+            plain.Gloss = 0f;         // unfinished props are matte (the shader skips reflections below 0.1); the Finish calls below keep the shiny ones
             plain.Finish(Gold, 0.75f, true);
             plain.Finish(Palette.Gold, 0.75f, true);
             plain.Finish(Lacquer, 0.85f);

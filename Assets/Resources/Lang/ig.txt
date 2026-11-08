@@ -207,6 +207,8 @@ Lọghachi echi
 +chip {0} n'efu!
 +1 mkpọchi usoro!
 Enweghị vidiyo ugbu a. Nwaa ọzọ n'oge na-adịghị anya.
+Vidiyo {0} n'ime {1}
+Ihe nrite furu efu: a ga-ekiri vidiyo ndị ahụ ruo n'ọgwụgwụ.
 BRONZ
 ỌLAỌCHA
 ỌLAEDO
@@ -530,6 +532,18 @@ Kaadị ọ bụla nwere ohere ahụ ịbịa ka ọ baara gị uru, na nzọ bl
 Kwe ka a nweta ọnọdụ gị iji nweta ọnụahịa obodo gị
 Ịzụ ahịa adịghị na ụdị egwuregwu a.
 ỤLỌ AHỊA NNWALE (ọ bụghị ezigbo ego)
++{0}% ike
+{0} aka na chi ọma {1}%
+LEE MGBASA OZI
+Vidiyo dị mkpụmkpụ 1 ruo 3
+LEE
+LEE 1 MGBASA OZI?
+LEE {0} MGBASA OZI?
+Lee vidiyo 1 ruo n'ọgwụgwụ ka ị nweta {0}. Ọ bụrụ na ị kwụsị n'oge, ihe nrite ahụ furu efu.
+Lee vidiyo {0} ruo n'ọgwụgwụ ka ị nweta {1}. Ọ bụrụ na ị kwụsị n'oge, ihe nrite ahụ furu efu.
+BIDO
+ỌBỤGHỊ UGBU A
+Ihe nrite nwetara: {0}!
 ike
 +{0}% CHIP
 aka {0}

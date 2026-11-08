@@ -658,3 +658,17 @@ e1ae457	Mateo
 1920e2f	Ilkinji zyňyş: Pass Line-a goý, soňra at. 7 ýa-da 11 utýar, 2, 3 ýa-da 12 utulýar. Place goýumlary bal bar bolanok işläp başlaýar.
 99f4934	LUCKY ACE 7s  •  ÇYZYK BÄSIŇ 2 500× ÇENLI TÖLEÝÄR
 48ddc95	AWTO AÝLAW
+3848f78	Wideo {0}/{1}
+d87409f	Baýrak ýitdi: wideolar soňuna çenli görülmeli.
+14dcbe4	+{0}% energiýa
+330037c	{0} el, {1}% bagt
+ff24786	WIDEOLARY GÖR
+375d55d	1-den 3-e çenli gysga wideo
+f187dbf	GÖR
+64d31ad	1 WIDEO GÖRÜLSÜNMI?
+e77d414	{0} WIDEO GÖRÜLSÜNMI?
+8707135	{0} almak üçin 1 wideony soňuna çenli gör. Ozal duruzsaň, baýrak ýitýär.
+88f8727	{1} almak üçin {0} wideony soňuna çenli gör. Ozal duruzsaň, baýrak ýitýär.
+7196e7c	BAŞLA
+b967bda	HÄZIR DÄL
+b10888c	Baýrak gazanyldy: {0}!

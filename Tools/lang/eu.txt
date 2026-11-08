@@ -658,3 +658,17 @@ e1ae457	Mateo
 1920e2f	Irteera-jaurtiketa: egin apustu Pass Line-n eta bota. 7 edo 11-k irabazten du, 2, 3 edo 12-k galtzen du. Place apustuek balio dute puntua dagoenean.
 99f4934	LUCKY ACE 7s  •  ZURE LERRO-APUSTUAREN 2.500× ARTE ORDAINTZEN DU
 48ddc95	AUTOMATIKOA
+3848f78	{0}. bideoa, guztira {1}
+d87409f	Saria galdu da: bideoak amaiera arte ikusi behar dira.
+14dcbe4	+%{0} energia
+330037c	{0} esku %{1} zorterekin
+ff24786	IKUSI IRAGARKIAK
+375d55d	1 eta 3 bideo labur
+f187dbf	IKUSI
+64d31ad	IKUSI 1 IRAGARKI?
+e77d414	IKUSI {0} IRAGARKI?
+8707135	Ikusi bideo 1 amaiera arte {0} lortzeko. Lehenago uzten baduzu, saria galdu egiten da.
+88f8727	Ikusi {0} bideo amaiera arte {1} lortzeko. Lehenago uzten baduzu, saria galdu egiten da.
+7196e7c	HASI
+b967bda	ORAIN EZ
+b10888c	Saria irabazi da: {0}!

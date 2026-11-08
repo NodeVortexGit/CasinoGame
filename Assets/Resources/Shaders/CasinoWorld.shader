@@ -22,6 +22,7 @@ Shader "Casino/World"
             #pragma fragment frag
             #pragma target 3.0
             #pragma multi_compile __ CASINO_REFLECT
+            #pragma multi_compile __ CASINO_REAL
             #include "UnityCG.cginc"
             #include "CasinoLook.cginc"
 
@@ -41,10 +42,12 @@ Shader "Casino/World"
                 float4 pos : SV_POSITION;
                 float2 uv : TEXCOORD0;
                 half4 color : COLOR;
+            #if CASINO_REAL
                 half haze : TEXCOORD1;
+            #endif
             #if CASINO_REFLECT
                 float3 world : TEXCOORD2;
-                float3 normal : TEXCOORD3;
+                half3 normal : TEXCOORD3;
                 half2 finish : TEXCOORD4;   // gloss, metal
             #endif
             };
@@ -58,7 +61,9 @@ Shader "Casino/World"
                 half wave = sin(_Time.y * v.anim.z + v.anim.x);
                 half pulse = saturate(wave * 2.5 + 0.5);
                 o.color = half4(v.color.rgb * (2.0 * lerp(1.0, 0.3 + 1.0 * pulse, v.anim.y)), 1);
+            #if CASINO_REAL
                 o.haze = CasinoHaze(world);
+            #endif
             #if CASINO_REFLECT
                 o.world = world;
                 o.normal = UnityObjectToWorldNormal(v.normal);
@@ -73,21 +78,31 @@ Shader "Casino/World"
                 half4 c = tex * i.color;
             #if CASINO_REFLECT
                 half gloss = i.finish.x;
-                if (gloss > 0.01)
+                // Below 0.1 the reflection is at most ~4% even at grazing angles: not worth the cubemap fetch.
+                if (gloss > 0.1)
                 {
-                    float3 n = normalize(i.normal);
-                    float3 view = normalize(i.world - _WorldSpaceCameraPos);
+                    half3 n = normalize(i.normal);
+                    half3 view = normalize(i.world - _WorldSpaceCameraPos);
                     half3 env = CasinoReflection(reflect(view, n), i.world, gloss);
-                    half fresnel = pow(1.0 - saturate(dot(n, -view)), 5.0);
+                    half x = 1.0 - saturate(dot(n, -view));
+                    half x2 = x * x;
+                    half fresnel = x2 * x2 * x;   // x^5
                     half metal = i.finish.y;
                     // Dielectrics (marble, lacquer, varnish) reflect 4-8% head-on and most of the light at grazing
                     // angles; metal reflects strongly at any angle, in its own colour (the lit colour, normalised).
-                    half3 tint = c.rgb / max(max(c.r, c.g), max(c.b, 0.001));
-                    half3 f = lerp((0.08 + 0.92 * fresnel).xxx, tint * (0.85 + 0.15 * fresnel), metal) * gloss;
+                    half3 f = (0.08 + 0.92 * fresnel).xxx;
+                    if (metal > 0.5)
+                    {
+                        half3 tint = c.rgb / max(max(c.r, c.g), max(c.b, 0.001));
+                        f = lerp(f, tint * (0.85 + 0.15 * fresnel), metal);
+                    }
+                    f *= gloss;
                     c.rgb = c.rgb * (1.0 - f * lerp(0.5, 0.8, metal)) + env * f;
                 }
             #endif
+            #if CASINO_REAL
                 c.rgb = CasinoApplyHaze(c.rgb, i.haze);
+            #endif
                 c.a = 1;
                 return c;
             }

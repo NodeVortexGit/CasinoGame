@@ -658,3 +658,17 @@ e1ae457	Mateusas
 1920e2f	Pirmasis metimas: statyk ant Pass Line ir mesk. 7 ar 11 laimi, 2, 3 ar 12 pralaimi. Place statymai pradeda galioti, kai yra taškas.
 99f4934	LUCKY ACE 7s  •  MOKA IKI 2 500× TAVO LINIJOS STATYMO
 48ddc95	AUTOMATINIS
+3848f78	Vaizdo įrašas {0} iš {1}
+d87409f	Prizas prarastas: vaizdo įrašus reikia pažiūrėti iki galo.
+14dcbe4	+{0}% energijos
+330037c	{0} rankų su {1}% sėkme
+ff24786	ŽIŪRĖTI REKLAMAS
+375d55d	1–3 trumpi vaizdo įrašai
+f187dbf	ŽIŪRĖTI
+64d31ad	ŽIŪRĖTI 1 REKLAMĄ?
+e77d414	ŽIŪRĖTI {0} REKLAMAS?
+8707135	Pažiūrėk 1 vaizdo įrašą iki galo, kad gautum {0}. Jei sustosi anksčiau, prizas prarandamas.
+88f8727	Pažiūrėk {0} vaizdo įrašus iki galo, kad gautum {1}. Jei sustosi anksčiau, prizas prarandamas.
+7196e7c	PRADĖTI
+b967bda	NE DABAR
+b10888c	Prizas laimėtas: {0}!

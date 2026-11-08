@@ -123,9 +123,13 @@ namespace Casino.UI
             return m;
         }
 
+        int lastLit = int.MinValue;
+
         void Update()
         {
             int lit = Mathf.FloorToInt(Time.unscaledTime * 8f);
+            if (lit == lastLit) return;   // the pattern only moves 8 times a second
+            lastLit = lit;
             for (int i = 0; i < bulbs.Length; i++)
             {
                 bool on = (i + lit) % 3 == 0;

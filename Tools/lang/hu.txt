@@ -658,3 +658,17 @@ e1ae457	Mateo
 1920e2f	Nyitó dobás: tégy a Pass Line-ra, majd dobj. 7 vagy 11 nyer; 2, 3 vagy 12 veszít. A place fogadások csak akkor kezdenek működni, ha van pont.
 99f4934	LUCKY ACE 7s  •  AKÁR A VONALTÉTED 2 500-SZOROSÁT FIZETI
 48ddc95	AUTO PÖRGETÉS
+3848f78	Videó: {0}/{1}
+d87409f	A jutalom elveszett: a videókat végig kell nézni.
+14dcbe4	+{0}% energia
+330037c	{0} leosztás {1}% szerencsével
+ff24786	REKLÁMOK MEGNÉZÉSE
+375d55d	1–3 rövid videó
+f187dbf	MEGNÉZÉS
+64d31ad	1 REKLÁM MEGNÉZÉSE?
+e77d414	{0} REKLÁM MEGNÉZÉSE?
+8707135	Nézz meg 1 videót végig, hogy megkapd: {0}. Ha korábban abbahagyod, a jutalom elvész.
+88f8727	Nézz meg {0} videót végig, hogy megkapd: {1}. Ha korábban abbahagyod, a jutalom elvész.
+7196e7c	KEZDÉS
+b967bda	MOST NEM
+b10888c	Jutalom megszerezve: {0}!

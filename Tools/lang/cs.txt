@@ -658,3 +658,17 @@ e1ae457	Mateo
 1920e2f	Úvodní hod: vsaď na Pass Line a hoď. 7 nebo 11 vyhrává; 2, 3 nebo 12 prohrává. Sázky place začínají platit, jakmile je bod.
 99f4934	LUCKY ACE 7s  •  VYPLÁCÍ AŽ 2 500× SÁZKY NA LINII
 48ddc95	AUTO ROZTOČENÍ
+3848f78	Video {0} z {1}
+d87409f	Odměna propadla: videa je nutné sledovat až do konce.
+14dcbe4	+{0} % energie
+330037c	{0} rukou s {1} % štěstí
+ff24786	SLEDOVAT REKLAMY
+375d55d	1 až 3 krátká videa
+f187dbf	SLEDOVAT
+64d31ad	SLEDOVAT 1 REKLAMU?
+e77d414	SLEDOVAT {0} REKLAMY?
+8707135	Sledujte 1 video až do konce a získejte {0}. Pokud sledování přerušíte předčasně, odměna propadne.
+88f8727	Sledujte {0} videa až do konce a získejte {1}. Pokud sledování přerušíte předčasně, odměna propadne.
+7196e7c	SPUSTIT
+b967bda	TEĎ NE
+b10888c	Odměna získána: {0}!

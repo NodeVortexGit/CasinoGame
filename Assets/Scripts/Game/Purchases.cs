@@ -1,4 +1,5 @@
 using System;
+using System.Collections;
 using System.Collections.Generic;
 using Casino.Audio;
 using Casino.Core;
@@ -177,6 +178,77 @@ namespace Casino
                 }
                 done?.Invoke(earned);
             });
+        }
+
+        /// <summary>How many videos a bundle asks for: 1 to 3, never more than today's allowance has left.</summary>
+        public int RollAdBundle() => 1 + app.Rng.Next(Math.Max(1, Math.Min(GameConfig.AdBundleMax, AdsLeftToday)));
+
+        /// <summary>
+        /// A bundle of rewarded videos for one prize. Every one must be watched to the end: closing one early loses the
+        /// prize. If a later video can't be loaded, that isn't the player's doing, so the prize is given anyway.
+        /// </summary>
+        public void WatchAdBundle(int count, Action reward, Action<bool> done)
+        {
+            if (!CanWatchAd)
+            {
+                app.UI.Toast(AdStatus(), Casino.Art.Palette.TextMuted, Casino.Art.Icon.Clock);
+                done?.Invoke(false);
+                return;
+            }
+            app.StartCoroutine(AdBundle(count, reward, done));
+        }
+
+        IEnumerator AdBundle(int count, Action reward, Action<bool> done)
+        {
+            for (int k = 1; k <= count; k++)
+            {
+                float wait = 10f;
+                while (!app.Ads.IsReady && wait > 0f)
+                {
+                    wait -= Time.unscaledDeltaTime;
+                    yield return null;
+                }
+                if (!app.Ads.IsReady)
+                {
+                    if (k == 1)
+                    {
+                        app.UI.Toast(Loc.T("No video available right now. Try again in a moment."), Casino.Art.Palette.TextMuted, Casino.Art.Icon.Video);
+                        done?.Invoke(false);
+                        yield break;
+                    }
+                    break;   // the network let a video down, not the player: the prize stands
+                }
+                if (count > 1) app.UI.Toast(Loc.F("Video {0} of {1}", k, count), Casino.Art.Palette.TextMuted, Casino.Art.Icon.Video);
+                bool? earned = null;
+                app.Music.SetPaused(true);
+                app.Ads.ShowRewarded(e => earned = e);
+                while (earned == null) yield return null;
+                app.Music.SetPaused(false);
+                if (earned == false && app.Ads.LastShowFailed)
+                {
+                    // The video never played: the network's doing, not the player's.
+                    if (k == 1)
+                    {
+                        app.UI.Toast(Loc.T("No video available right now. Try again in a moment."), Casino.Art.Palette.TextMuted, Casino.Art.Icon.Video);
+                        done?.Invoke(false);
+                        yield break;
+                    }
+                    break;
+                }
+                if (earned == false)
+                {
+                    app.UI.Toast(Loc.T("Prize lost: the videos have to be watched all the way through."), Casino.Art.Palette.Red, Casino.Art.Icon.Close);
+                    app.SaveSystem.SaveNow();
+                    done?.Invoke(false);
+                    yield break;
+                }
+                RollAdDay();
+                app.Save.adsWatchedToday++;
+            }
+            app.Save.lastAdUtcTicks = DateTime.UtcNow.Ticks;
+            reward();
+            app.SaveSystem.SaveNow();
+            done?.Invoke(true);
         }
 
         void RollAdDay()

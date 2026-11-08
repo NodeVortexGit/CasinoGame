@@ -207,6 +207,8 @@ Réidh i gceann {0} s
 +{0} slis saor in aisce!
 +1 reo sraithe!
 Níl físeán ar fáil faoi láthair. Bain triail eile as i gceann tamaillín.
+Físeán {0} de {1}
+Cailleadh an duais: caithfear na físeáin a fheiceáil go deireadh.
 CRÉ-UMHA
 AIRGEAD
 ÓR
@@ -530,6 +532,18 @@ Tá an seans sin ag gach cárta go ndéileálfar chun do leasa é, ar gheallta b
 Ceadaigh rochtain ar shuíomh chun praghas do thíre a fháil
 Níl ceannacháin ar fáil sa leagan seo den chluiche.
 SIOPA TÁSTÁLA (gan fíor-airgead)
++{0}% fuinnimh
+{0} lámh le {1}% ádh
+FÉACH AR FHÓGRAÍ
+1 go 3 fhíseán ghearra
+FÉACH
+FÉACH AR 1 FHÓGRA?
+FÉACH AR {0} FHÓGRA?
+Féach ar 1 fhíseán go deireadh chun {0} a fháil. Má stoptar go luath, cailltear an duais.
+Féach ar {0} fhíseán go deireadh chun {1} a fháil. Má stoptar go luath, cailltear an duais.
+TOSAIGH
+NÍ ANOIS
+Duais buaite: {0}!
 fuinneamh
 +{0}% SLISEANNA
 {0} lámh

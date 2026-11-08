@@ -14,6 +14,7 @@ from bl_ext.user_default.mpfb.services.objectservice import ObjectService
 from bl_ext.user_default.mpfb.services.assetservice import AssetService
 from bl_ext.user_default.mpfb.services.locationservice import LocationService
 from bl_ext.user_default.mpfb.services.rigservice import RigService
+from bl_ext.user_default.mpfb.services.targetservice import TargetService
 
 TEXTURE_SIZE = 512
 SKIN_SIZE = 2048   # the face only gets a small corner of the body's skin texture, so the skin is sharper than the rest
@@ -21,6 +22,11 @@ BODY_RATIO = 0.3   # below the neck the detailed body keeps this share of its tr
 
 FEMALE = dict(gender=0.0, age=0.5, muscle=0.5, weight=0.42, proportions=0.85, height=0.55, cupsize=0.62, firmness=0.7)
 MALE = dict(gender=1.0, age=0.52, muscle=0.62, weight=0.48, proportions=0.85, height=0.62, cupsize=0.5, firmness=0.5)
+# A gentle closed-mouth smile, baked in: the corners of the mouth lifted by the cheek muscle and the slight squint that
+# makes a smile look meant. MakeHuman's expression units (per race), applied before the proxy and clothes are fitted.
+SMILE = [("mouth-corner-puller", 0.5), ("eye-left-slit", 0.12), ("eye-right-slit", 0.12)]
+SMILE_UNITS = {"caucasian": "caucasian", "african": "african", "asian": "asian", "latin": "caucasian"}
+
 RACES = {
     "caucasian": dict(asian=0.0, caucasian=1.0, african=0.0),
     "african": dict(asian=0.0, caucasian=0.0, african=1.0),
@@ -128,6 +134,10 @@ def build(name, spec):
     settings["override_rig"] = "mixamo_unity"
     settings["material_instances"] = "NEVER"
     basemesh = HumanService.deserialize_from_dict(info, settings)
+    units = os.path.join(LocationService.get_mpfb_data("targets"), "expression", "units", SMILE_UNITS[race])
+    for unit, weight in SMILE:
+        TargetService.load_target(basemesh, os.path.join(units, unit + ".target.gz"), weight=weight, name="smile-" + unit)
+    HumanService.refit(basemesh)
     eyes_png = os.path.join(LocationService.get_user_data("eyes"), "materials", "%s_eye.png" % eyes)
     return basemesh, eyes_png
 
@@ -430,18 +440,19 @@ def export(basemesh, out_dir, name, eyes_png=None, dress=False):
     return rig, children
 
 
-def preview(rig, children, path):
+def preview(rig, children, path, face=False):
     scene = bpy.context.scene
     scene.render.engine = 'CYCLES'
     scene.cycles.samples = 24
     scene.cycles.device = 'CPU'
-    scene.render.resolution_x, scene.render.resolution_y = 600, 900
+    scene.render.resolution_x, scene.render.resolution_y = (600, 600) if face else (600, 900)
     cam_data = bpy.data.cameras.new("cam")
     cam = bpy.data.objects.new("cam", cam_data)
     scene.collection.objects.link(cam)
-    cam.location = (0.0, -2.3, 1.45)
-    cam.rotation_euler = (math.radians(88), 0, 0)
-    cam_data.lens = 50
+    head = max(((o.matrix_world @ v.co).z for o in children if o.type == 'MESH' for v in o.data.vertices), default=1.7) if face else 0
+    cam.location = (0.0, -0.75, head - 0.12) if face else (0.0, -2.3, 1.45)   # a close-up of the face, to judge expressions
+    cam.rotation_euler = (math.radians(90), 0, 0) if face else (math.radians(88), 0, 0)
+    cam_data.lens = 85 if face else 50
     scene.camera = cam
     for i, (loc, energy) in enumerate((((1.5, -2.0, 2.5), 400), ((-2.0, -1.0, 2.0), 200), ((0.0, 2.0, 2.5), 300))):
         ld = bpy.data.lights.new("l%d" % i, 'AREA')
@@ -480,6 +491,8 @@ def main():
         rig, children = export(basemesh, out_dir, name, eyes_png, dress=STAFF[name][0])
         if do_preview:
             preview(rig, children, os.path.join(out_dir, name + "_preview.png"))
+        if "--face" in argv:
+            preview(rig, children, os.path.join(out_dir, name + "_face.png"), face=True)
 
 
 main()

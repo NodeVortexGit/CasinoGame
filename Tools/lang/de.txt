@@ -658,3 +658,17 @@ e1ae457	Mateo
 1920e2f	Come-out-Wurf: setz auf die Pass Line und würfle. 7 oder 11 gewinnt, 2, 3 oder 12 verliert. Place-Einsätze gelten, sobald es einen Point gibt.
 99f4934	LUCKY ACE 7s  •  ZAHLT BIS ZU 2.500× DEINES LINIENEINSATZES
 48ddc95	AUTOMATISCH
+3848f78	Video {0} von {1}
+d87409f	Preis verloren: Die Videos müssen bis zum Ende angesehen werden.
+14dcbe4	+{0} % Energie
+330037c	{0} Hände mit {1} % Glück
+ff24786	WERBUNG ANSEHEN
+375d55d	1 bis 3 kurze Videos
+f187dbf	ANSEHEN
+64d31ad	1 WERBUNG ANSEHEN?
+e77d414	{0} WERBUNGEN ANSEHEN?
+8707135	Schau dir 1 Video bis zum Ende an, um {0} zu erhalten. Wenn du vorher abbrichst, ist der Preis verloren.
+88f8727	Schau dir {0} Videos bis zum Ende an, um {1} zu erhalten. Wenn du vorher abbrichst, ist der Preis verloren.
+7196e7c	START
+b967bda	NICHT JETZT
+b10888c	Preis gewonnen: {0}!

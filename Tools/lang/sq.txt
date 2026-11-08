@@ -658,3 +658,17 @@ e1ae457	Mateo
 1920e2f	Hedhja e parë: vë bast te Pass Line dhe hidh. 7 ose 11 fiton, 2, 3 ose 12 humbet. Bastet Place fillojnë të vlejnë kur ka pikë.
 99f4934	LUCKY ACE 7s  •  PAGUAN DERI NË 2.500× BASTIN TËND PËR LINJË
 48ddc95	AUTOMATIK
+3848f78	Video {0} nga {1}
+d87409f	Çmimi humbi: videot duhet të shikohen deri në fund.
+14dcbe4	+{0}% energji
+330037c	{0} duar me {1}% fat
+ff24786	SHIKO VIDEO
+375d55d	1 deri në 3 video të shkurtra
+f187dbf	SHIKO
+64d31ad	SHIKO 1 VIDEO?
+e77d414	SHIKO {0} VIDEO?
+8707135	Shiko 1 video deri në fund për të marrë {0}. Nëse ndalon herët, çmimi humbet.
+88f8727	Shiko {0} video deri në fund për të marrë {1}. Nëse ndalon herët, çmimi humbet.
+7196e7c	FILLO
+b967bda	JO TANI
+b10888c	Çmimi i fituar: {0}!

@@ -207,6 +207,8 @@ Pripravljeno čez {0} s
 +{0} brezplačnih žetonov!
 +1 zamrznitev niza!
 Trenutno ni na voljo nobenega videa. Poskusi znova čez trenutek.
+Video {0} od {1}
+Nagrada propadla: videe je treba pogledati do konca.
 BRON
 SREBRO
 ZLATO
@@ -530,6 +532,18 @@ Vsaka karta ima takšno možnost, da pride tebi v prid, pri stavah v blackjacku 
 Dovoli dostop do lokacije za ceno tvoje države
 Nakupi v tej različici igre niso na voljo.
 TESTNA TRGOVINA (brez pravega denarja)
++{0} % energije
+Rok: {0}, sreča {1} %
+OGLEJ SI VIDEE
+1 do 3 kratki videoposnetki
+OGLEJ
+OGLEJ SI 1 VIDEO?
+OGLEJ SI {0} VIDEOPOSNETKE?
+Oglej si 1 video do konca, da dobiš {0}. Če prej nehaš, nagrada propade.
+Oglej si {0} videe do konca, da dobiš {1}. Če prej nehaš, nagrada propade.
+ZAČNI
+NE ZDAJ
+Nagrada osvojena: {0}!
 energija
 +{0} % ŽETONOV
 rok: {0}

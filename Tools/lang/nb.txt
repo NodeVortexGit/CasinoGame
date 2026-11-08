@@ -658,3 +658,17 @@ e1ae457	Mateo
 1920e2f	Come-out-kast: sats på Pass Line, så kast. 7 eller 11 vinner, 2, 3 eller 12 taper. Place-innsatser begynner å gjelde når det finnes et point.
 99f4934	LUCKY ACE 7s  •  BETALER OPPTIL 2 500× LINJEINNSATSEN DIN
 48ddc95	AUTOMATISK
+3848f78	Video {0} av {1}
+d87409f	Premien er tapt: videoene må ses helt til slutt.
+14dcbe4	+{0} % energi
+330037c	{0} hender med {1} % flaks
+ff24786	SE REKLAMER
+375d55d	1 til 3 korte videoer
+f187dbf	SE
+64d31ad	SE 1 REKLAME?
+e77d414	SE {0} REKLAMER?
+8707135	Se en video helt til slutt for å få {0}. Hvis du stopper tidlig, er premien tapt.
+88f8727	Se {0} videoer helt til slutt for å få {1}. Hvis du stopper tidlig, er premien tapt.
+7196e7c	START
+b967bda	IKKE NÅ
+b10888c	Premie vunnet: {0}!

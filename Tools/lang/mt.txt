@@ -658,3 +658,17 @@ e1ae457	Mateo
 1920e2f	Tejgħa come-out: imraħan fuq il-Pass Line, u mbagħad waddab. 7 jew 11 jirbħu, 2, 3 jew 12 jitilfu. L-imħatriet Place jibdew jaħdmu malli jkun hemm punt.
 99f4934	LUCKY ACE 7s  •  IĦALLAS SA 2,500× L-IMĦAR TAL-LINJA TIEGĦEK
 48ddc95	AWTOMATIKU
+3848f78	Vidjo {0} minn {1}
+d87409f	Premju mitluf: il-vidjows iridu jinġarraw sa tmiemhom.
+14dcbe4	+{0}% enerġija
+330037c	{0} idejn b'{1}% xorti
+ff24786	ARA REKLAMI
+375d55d	1 sa 3 vidjows qosra
+f187dbf	ARA
+64d31ad	ARA 1 REKLAM?
+e77d414	ARA {0} REKLAMI?
+8707135	Ara vidjo 1 sa tmiemu biex tirċievi {0}. Jekk tieqaf kmieni, il-premju jintilef.
+88f8727	Ara {0} vidjows sa tmiemhom biex tirċievi {1}. Jekk tieqaf kmieni, il-premju jintilef.
+7196e7c	IBDA
+b967bda	MHUX ISSA
+b10888c	Premju miksub: {0}!

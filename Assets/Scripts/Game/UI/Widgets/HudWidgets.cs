@@ -20,6 +20,7 @@ namespace Casino.UI
             var bg = UIKit.Panel(parent, "Chips", new Color(0, 0, 0, 0.45f), 42f, true);
             var rt = (RectTransform)bg.transform;
             rt.sizeDelta = new Vector2(width, 84);
+            UIKit.OwnCanvas(bg.gameObject, true); // the counting-up number and coin punch re-batch only this pill, not the HUD
             UIKit.Outline(rt, Palette.WithAlpha(Palette.Gold, 0.5f), 42f);
             var c = bg.gameObject.AddComponent<ChipCounter>();
             var icon = UIKit.Image(rt, "Coin", ProceduralArt.IconSprite(Icon.Coin), Color.white);
@@ -69,6 +70,7 @@ namespace Casino.UI
             var bg = UIKit.Panel(parent, "Energy", new Color(0, 0, 0, 0.45f), 42f, true);
             var rt = (RectTransform)bg.transform;
             rt.sizeDelta = new Vector2(width, 84);
+            UIKit.OwnCanvas(bg.gameObject, true); // the low-energy pulse and fill changes stay inside this pill's batch
             UIKit.Outline(rt, Palette.WithAlpha(Palette.Energy, 0.45f), 42f);
             var e = bg.gameObject.AddComponent<EnergyBar>();
             var icon = UIKit.Image(rt, "Bolt", ProceduralArt.IconSprite(Icon.Bolt), Palette.Energy);

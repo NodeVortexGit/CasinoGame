@@ -658,3 +658,17 @@ e1ae457	Mateo
 1920e2f	Úvodný hod: stav na Pass Line a hoď. 7 alebo 11 vyhráva, 2, 3 alebo 12 prehráva. Stávky Place začínajú platiť, keď je bod.
 99f4934	LUCKY ACE 7s  •  VYPLÁCA AŽ 2 500× TVOJU STÁVKU NA LÍNIU
 48ddc95	AUTOMATICKY
+3848f78	Video {0} z {1}
+d87409f	Cena prepadla: videá treba pozrieť až do konca.
+14dcbe4	+{0} % energie
+330037c	rúk {0} s {1} % šťastia
+ff24786	POZRIEŤ VIDEÁ
+375d55d	1 až 3 krátke videá
+f187dbf	POZRIEŤ
+64d31ad	POZRIEŤ 1 VIDEO?
+e77d414	POZRIEŤ {0} VIDEÁ?
+8707135	Pozri si 1 video až do konca a získaš {0}. Ak skončíš skôr, cena prepadne.
+88f8727	Pozri si {0} videá až do konca a získaš {1}. Ak skončíš skôr, cena prepadne.
+7196e7c	SPUSTIŤ
+b967bda	NIE TERAZ
+b10888c	Vyhraná cena: {0}!

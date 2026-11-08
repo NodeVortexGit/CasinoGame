@@ -658,3 +658,17 @@ e1ae457	Mateo
 1920e2f	Come-out: sëtz op d'Pass Line a werf. 7 oder 11 gewannen, 2, 3 oder 12 verléieren. Place-Wetten fänken un, soubal et e Point gëtt.
 99f4934	LUCKY ACE 7s  •  BEZILT BIS 2.500× VUN DÄINEM LINNEN-ASAZ
 48ddc95	AUTOMATESCH
+3848f78	Video {0} vun {1}
+d87409f	Präis verluer: d'Videoen mussen ganz duerchgekuckt ginn.
+14dcbe4	+{0} % Energie
+330037c	{0} Hänn mat {1} % Gléck
+ff24786	REKLAMM KUCKEN
+375d55d	1 bis 3 kuerz Videoen
+f187dbf	KUCKEN
+64d31ad	Eng Reklamm kucken?
+e77d414	{0} Reklammen kucken?
+8707135	Kuck eng Video ganz duerch, fir {0} ze kréien. Wann s du fréi ophalls, ass de Präis verluer.
+88f8727	Kuck {0} Videoen ganz duerch, fir {1} ze kréien. Wann s du fréi ophalls, ass de Präis verluer.
+7196e7c	ANFANG
+b967bda	NET ELO
+b10888c	Präis gewonnen: {0}!

@@ -15,10 +15,19 @@ namespace Casino.UI
     public sealed class LocText : Text
     {
         static readonly HashSet<LocText> pending = new HashSet<LocText>();
+        static readonly List<LocText> batch = new List<LocText>();
         static readonly TextGenerator measure = new TextGenerator();
         static readonly List<Unit> units = new List<Unit>();
         static readonly StringBuilder sb = new StringBuilder();
         static readonly List<string> pieces = new List<string>();
+        static readonly char[] TagEnd = { '=', '>' };
+
+        // The last right-to-left layout and what it was made for: the mesh is rebuilt for colour or alpha changes too,
+        // and laying the words out again (measuring each one) is the expensive part.
+        string rtlFor, rtlResult;
+        float rtlWidth, rtlScale;
+        int rtlSize;
+        Font rtlFont;
 
         /// <summary>Lay the text out as it is even in a right-to-left language (other languages' names in the language list).</summary>
         public bool KeepOrder;
@@ -63,11 +72,12 @@ namespace Casino.UI
         internal static void FitPending()
         {
             if (pending.Count == 0) return;
-            var batch = new List<LocText>(pending);
+            batch.AddRange(pending);
             pending.Clear();
+            // A label that isn't shown is dropped: OnEnable queues it again when it is.
             foreach (var t in batch)
                 if (t != null && t.isActiveAndEnabled) t.Fit();
-                else if (t != null) pending.Add(t);   // fit when it's shown
+            batch.Clear();
         }
 
         void Fit()
@@ -114,7 +124,17 @@ namespace Casino.UI
                 return;
             }
             string logical = m_Text;
-            m_Text = RightToLeftLines(logical);
+            float width = horizontalOverflow == HorizontalWrapMode.Wrap ? rectTransform.rect.width : -1f;
+            if (rtlResult == null || rtlFor != logical || rtlWidth != width || rtlSize != fontSize || rtlFont != font || rtlScale != pixelsPerUnit)
+            {
+                rtlResult = RightToLeftLines(logical);
+                rtlFor = logical;
+                rtlWidth = width;
+                rtlSize = fontSize;
+                rtlFont = font;
+                rtlScale = pixelsPerUnit;
+            }
+            m_Text = rtlResult;
             try
             {
                 base.OnPopulateMesh(toFill);
@@ -234,7 +254,7 @@ namespace Casino.UI
             for (int k = open.Count - 1; k >= 0; k--)
             {
                 string tag = open[k];
-                int end = tag.IndexOfAny(new[] { '=', '>' });
+                int end = tag.IndexOfAny(TagEnd);
                 w.Append("</").Append(tag, 1, end - 1).Append('>');
             }
             return w.ToString();

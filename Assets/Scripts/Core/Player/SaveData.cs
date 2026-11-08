@@ -45,7 +45,7 @@ namespace Casino.Core.Player
         // 2 High, 3 Ultra), render resolution on phones, anti-aliasing samples (0, 2, 4), the walking view's horizontal
         // field of view in degrees, the FPS counter, and on computers window mode and v-sync.
         public int graphicsQuality = -1;
-        public float renderScale = 1f;
+        public float renderScale = 0.85f;   // new players: 85% of the screen's pixels (a saved choice stays as it is)
         public int antiAliasing;
         public float fieldOfView = 92f;
         public bool showFps;

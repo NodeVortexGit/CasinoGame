@@ -196,7 +196,8 @@ namespace Casino.World
             Player.Tick(blocked ? Vector2.zero : Vector2.ClampMagnitude(stick, 1f), dt);
             UpdateCamera(dt);
 
-            if (rouletteWheel != null) rouletteWheel.Rotate(0f, 0f, 25f * dt, Space.Self);
+            UpdateDecor(false);
+            if (rouletteWheel != null && rouletteWheel.gameObject.activeInHierarchy) rouletteWheel.Rotate(0f, 0f, 25f * dt, Space.Self);
             Patrol(dt);
             foreach (var s in spots)
                 if (s.FollowsStaff && s.Staff != null) s.Focus = s.Staff.transform.position + Vector3.up * 1.1f;
@@ -206,8 +207,15 @@ namespace Casino.World
             foreach (var fig in staff)
             {
                 if (fig == null) continue;
-                bool near = (fig.transform.position - eye).sqrMagnitude < StaffAnimDistance * StaffAnimDistance;
+                // On inside the distance, off beyond 1.25x it, so nobody flickers on and off right at the edge.
+                float range = StaffAnimDistance * (fig.Near ? 1.25f : 1f);
+                bool near = (fig.transform.position - eye).sqrMagnitude < range * range;
                 fig.Animate(Camera, dt, near);
+            }
+            if (Time.time >= nextStaffCull)
+            {
+                nextStaffCull = Time.time + 0.2f;
+                CullStaff(eye);
             }
 
             Focused = blocked ? null : PickFocused();
@@ -225,11 +233,11 @@ namespace Casino.World
             // Keep the chosen horizontal view (about 90 degrees by default) on any screen shape.
             float half = Mathf.Clamp(App.I.Save.fieldOfView, 70f, 110f) * 0.5f;
             float vfov = 2f * Mathf.Atan(Mathf.Tan(half * Mathf.Deg2Rad) / aspect) * Mathf.Rad2Deg;
-            Camera.fieldOfView = Mathf.Clamp(vfov, 36f, 80f);
+            float walkFov = Mathf.Clamp(vfov, 36f, 80f);
             float bob = Mathf.Sin(Player.StepPhase * Mathf.PI * 2f / 1.3f) * 0.022f * Mathf.Clamp01(Player.Speed / PlayerRig.WalkSpeed);
             Vector3 pos = seated ? seatEye : Player.Eye + Vector3.up * bob;
             Quaternion rot = seated ? seatRot : Player.Rotation;
-            float fov = seated ? seatFov : Camera.fieldOfView;
+            float fov = seated ? seatFov : walkFov;
             glide = Mathf.MoveTowards(glide, 1f, dt / 0.7f);
             if (glide < 1f)
             {
@@ -420,7 +428,8 @@ namespace Casino.World
 
         public void ShowCrapsDecor(bool show)
         {
-            if (crapsDecor != null) crapsDecor.gameObject.SetActive(show);
+            crapsDecorWanted = show;
+            UpdateDecor(true);
         }
 
         /// <summary>The sic bo table (layout origin on the floor) and its dealer.</summary>
@@ -433,7 +442,8 @@ namespace Casino.World
 
         public void ShowSicBoDecor(bool show)
         {
-            if (sicBoDecor != null) sicBoDecor.gameObject.SetActive(show);
+            sicBoDecorWanted = show;
+            UpdateDecor(true);
         }
 
         /// <summary>The baccarat table's centre (dealer on the +z side) and its dealer.</summary>
@@ -455,7 +465,35 @@ namespace Casino.World
         /// <summary>The wheel and board shown on the roulette table while nobody is playing there.</summary>
         public void ShowRouletteDecor(bool show)
         {
-            if (rouletteDecor != null) rouletteDecor.gameObject.SetActive(show);
+            rouletteDecorWanted = show;
+            UpdateDecor(true);
+        }
+
+        // The printed layouts on the roulette, sic bo and craps tables are hundreds of UI pieces each: they're only
+        // live while the camera is near enough to read them (on inside 14 m, off beyond 17 m, so they don't flicker
+        // at the edge), and never while that game's own layer is on the table.
+        const float DecorOn = 14f, DecorOff = 17f;
+        bool crapsDecorWanted = true, sicBoDecorWanted = true, rouletteDecorWanted = true;
+        float decorTimer;
+
+        void UpdateDecor(bool now)
+        {
+            decorTimer -= Time.unscaledDeltaTime;
+            if (!now && decorTimer > 0f) return;
+            decorTimer = 0.25f;
+            Vector3 eye = Camera != null ? Camera.transform.position : Vector3.zero;
+            NearDecor(crapsDecor, crapsDecorWanted, CrapsCenter, eye);
+            NearDecor(sicBoDecor, sicBoDecorWanted, SicBoCenter, eye);
+            NearDecor(rouletteDecor, rouletteDecorWanted, RouletteCenter, eye);
+        }
+
+        static void NearDecor(RectTransform decor, bool wanted, Vector3 table, Vector3 eye)
+        {
+            if (decor == null) return;
+            var go = decor.gameObject;
+            float d = Vector2.Distance(new Vector2(eye.x, eye.z), new Vector2(table.x, table.z));
+            bool on = wanted && d < (go.activeSelf ? DecorOff : DecorOn);
+            if (go.activeSelf != on) go.SetActive(on);
         }
 
         public StaffFigure HostFigure => hostIndex >= 0 && hostIndex < staff.Count ? staff[hostIndex] : null;
@@ -564,6 +602,37 @@ namespace Casino.World
                 if (fig.Role == StaffRole.Host) fig.Wave();
                 else if (App.I.Rng.Next(3) == 0) fig.Wink();
                 return;
+            }
+        }
+
+        float nextStaffCull;
+        const float StaffDrawDistance = 25f, SeatedStaffAlwaysDrawn = 8f;
+
+        /// <summary>
+        /// Stops drawing staff nobody can see: those far away, or hidden behind a machine or pillar (the head and both
+        /// shoulders must be, so no one pops out half-visible). The ones you sit with, face or hear are always drawn.
+        /// </summary>
+        void CullStaff(Vector3 eye)
+        {
+            var focus = Focused != null ? Focused.Staff : null;
+            foreach (var fig in staff)
+            {
+                if (fig == null) continue;
+                Vector3 head = fig.HeadPoint;
+                Vector3 flat = fig.transform.position - eye;
+                flat.y = 0f;
+                bool keep = fig == focus || fig.Talking || (seated && (fig.transform.position - seatEye).sqrMagnitude < SeatedStaffAlwaysDrawn * SeatedStaffAlwaysDrawn);
+                bool hide = false;
+                if (!keep)
+                {
+                    if (flat.sqrMagnitude > StaffDrawDistance * StaffDrawDistance) hide = true;
+                    else
+                    {
+                        Vector3 side = new Vector3(-flat.z, 0f, flat.x).normalized * 0.3f;
+                        hide = Hidden(eye, head) && Hidden(eye, head + side) && Hidden(eye, head - side);
+                    }
+                }
+                fig.SetDrawn(!hide);
             }
         }
 

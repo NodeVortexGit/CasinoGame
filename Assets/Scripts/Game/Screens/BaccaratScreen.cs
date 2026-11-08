@@ -20,6 +20,11 @@ namespace Casino.Screens
     public sealed class BaccaratScreen : UIScreen
     {
         public const int DealerTheme = 7;
+        /// <summary>
+        /// The table is turned round by the entrance: the dealer stands against the south wall and players come to it from
+        /// the room, so nobody walks up behind the dealer. Offsets below are in the table's own frame.
+        /// </summary>
+        public static readonly Quaternion Turn = Quaternion.Euler(0f, 180f, 0f);
 
         /// <summary>Multiples of 20, so the banker's 5% commission always comes out in whole chips.</summary>
         public static readonly long[] ChipValues = { 20, 100, 200, 1_000, 5_000 };
@@ -59,13 +64,13 @@ namespace Casino.Screens
             var world = CasinoWorld.Instance;
             if (world != null && world.TryBaccaratTable(out var c, out var dealerFigure))
             {
-                Vector3 eye = c + new Vector3(0f, 1.55f, -2.0f);
-                Vector3 look = eye + new Vector3(0f, -Mathf.Sin(SeatPitch * Mathf.Deg2Rad), Mathf.Cos(SeatPitch * Mathf.Deg2Rad));
-                seat = WorldTable.Sit(Content, eye, look, 60f, 80f, new Vector2(c.x, c.z - 2.65f), 0f,
-                    c + new Vector3(0f, 0.857f, -0.66f), Quaternion.Euler(90f, 0f, 0f), LayerScale, dealerFigure, true);
+                Vector3 eye = c + Turn * new Vector3(0f, 1.55f, -2.0f), stand = c + Turn * new Vector3(0f, 0f, -2.65f);
+                Vector3 look = eye + Turn * new Vector3(0f, -Mathf.Sin(SeatPitch * Mathf.Deg2Rad), Mathf.Cos(SeatPitch * Mathf.Deg2Rad));
+                seat = WorldTable.Sit(Content, eye, look, 60f, 80f, new Vector2(stand.x, stand.z), Turn.eulerAngles.y,
+                    c + Turn * new Vector3(0f, 0.857f, -0.66f), Turn * Quaternion.Euler(90f, 0f, 0f), LayerScale, dealerFigure, true);
                 if (seat != null)
                 {
-                    deckWorld = c + new Vector3(0.72f, 0.93f, -0.3f);
+                    deckWorld = c + Turn * new Vector3(0.72f, 0.93f, -0.3f);
                     deckPos = seat.OnLayer(deckWorld);
                 }
             }
@@ -75,6 +80,7 @@ namespace Casino.Screens
             BuildRoad();
             BuildControls();
             fx = UIKit.NewRect("Fx", Content).Stretch();
+            UIKit.OwnCanvas(fx.gameObject, false); // confetti, flying chips and banners animate constantly: keep them out of the screen's batch
             banner = UIKit.Label(fx, "", 84, Palette.Gold, TextAnchor.MiddleCenter, FontKind.Display, "Banner");
             ((RectTransform)banner.transform).Center(0, 330, 1700, 140);   // above the cards, not over them
             UIKit.TextOutline(banner, Palette.Hex("5A2200"), 4f);
@@ -451,6 +457,7 @@ namespace Casino.Screens
             banner.text = text;
             banner.color = color;
             banner.enabled = true;
+            seat?.Hush(2.4f);   // the banner sits where the dealer's bubble floats; her line follows it
             StartCoroutine(BannerRoutine());
         }
 

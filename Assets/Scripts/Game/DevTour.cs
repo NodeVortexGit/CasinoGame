@@ -127,13 +127,13 @@ namespace Casino
                 var views = new (string name, Vector2 at, float yaw, float pitch)[]
                 {
                     ("casino_entrance_left", new Vector2(0f, -9.6f), -35f, 0f),
-                    ("casino_cashier", new Vector2(2.6f, -8.4f), 90f, 0f),
+                    ("casino_cashier", new Vector2(5.7f, -2.5f), 180f, -16f),   // the booth faces the room from the south wall; up to its sign
                     ("casino_floor", new Vector2(0f, -5.2f), 0f, -4f),
                     ("casino_table", new Vector2(-4.5f, -3.65f), 0f, 6f),
                     ("casino_bar", new Vector2(-8.4f, 0.6f), -90f, 0f),
-                    ("casino_holdem", new Vector2(-6.8f, 5.4f), 0f, 4f),
+                    ("casino_holdem", new Vector2(-6.8f, 5.4f), -42f, 4f),
                     ("casino_baccarat", new Vector2(-4.2f, -5.2f), -135f, 2f),
-                    ("casino_sicbo", new Vector2(9.6f, -4.6f), 150f, 6f),
+                    ("casino_sicbo", new Vector2(11.6f, -3.4f), 160f, 2f),   // clear of the pillar at (10.1, -5.6)
                     ("casino_craps", new Vector2(9.8f, -1.2f), 0f, 6f),
                     ("casino_slots", new Vector2(9.8f, 2.5f), 70f, 0f),
                     ("casino_overview", new Vector2(11.3f, -4.6f), -62f, 6f),
@@ -150,7 +150,7 @@ namespace Casino
                 {
                     ("entrance", new Vector2(0f, -9.6f), -35f, 0f),
                     ("floor", new Vector2(0f, -5.2f), 0f, -4f),
-                    ("cashier", new Vector2(2.6f, -8.4f), 90f, 0f),
+                    ("cashier", new Vector2(5.7f, -5.0f), 180f, 0f),
                     ("table", new Vector2(-4.5f, -3.65f), 0f, 6f),
                     ("bar", new Vector2(-8.4f, 0.6f), -90f, 0f),
                     ("slots", new Vector2(9.8f, 2.5f), 70f, 0f),

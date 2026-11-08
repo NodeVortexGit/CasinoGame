@@ -17,6 +17,8 @@ namespace Casino.Platform
         void Initialize();
         /// <summary>Shows a rewarded video; <c>done(true)</c> only if the player earned the reward.</summary>
         void ShowRewarded(Action<bool> done);
+        /// <summary>The last video failed to show at all (rather than being closed early by the player).</summary>
+        bool LastShowFailed { get; }
     }
 
     public sealed class NoAds : IAdService
@@ -26,6 +28,7 @@ namespace Casino.Platform
         public bool IsBlocked => false;
         public void Initialize() { }
         public void ShowRewarded(Action<bool> done) => done(false);
+        public bool LastShowFailed => true;
     }
 
     /// <summary>Editor / development builds: a 5-second placeholder instead of a real ad.</summary>
@@ -36,6 +39,7 @@ namespace Casino.Platform
         public bool IsBlocked => false;
         public void Initialize() { }
         public void ShowRewarded(Action<bool> done) => App.I.UI.Modal<Casino.Screens.SimulatedAdModal>(m => m.Setup(done));
+        public bool LastShowFailed => false;
     }
 
     public static class AdFactory
@@ -118,10 +122,14 @@ namespace Casino.Platform
             if (rewarded == null) Load();
         }
 
+        public bool LastShowFailed { get; private set; }
+
         public void ShowRewarded(Action<bool> done)
         {
+            LastShowFailed = false;
             if (!IsReady)
             {
+                LastShowFailed = true;
                 done(false);
                 Load();
                 return;
@@ -138,7 +146,11 @@ namespace Casino.Platform
                 Load();
             }
             ad.OnAdFullScreenContentClosed += () => OnMain(() => Finish(earned));
-            ad.OnAdFullScreenContentFailed += _ => OnMain(() => Finish(false));
+            ad.OnAdFullScreenContentFailed += _ => OnMain(() =>
+            {
+                LastShowFailed = true;
+                Finish(false);
+            });
             ad.Show(_ => OnMain(() => earned = true));
         }
     }

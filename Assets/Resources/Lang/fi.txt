@@ -207,6 +207,8 @@ Valmis {0} s kuluttua
 +{0} ilmaista pelimerkkiä!
 +1 putken jäädytys!
 Videota ei ole juuri nyt saatavilla. Yritä hetken päästä uudelleen.
+Video {0}/{1}
+Palkinto menetettiin: videot on katsottava loppuun asti.
 PRONSSI
 HOPEA
 KULTA
@@ -530,6 +532,18 @@ Jokaisella kortilla on tuo mahdollisuus tulla sinun eduksesi, kun blackjack-pano
 Salli sijainnin käyttö saadaksesi maasi hinnan
 Ostot eivät ole käytettävissä tässä peliversiossa.
 TESTIKAUPPA (ei oikeaa rahaa)
++{0} % energiaa
+{0} kättä {1} %:n onnella
+KATSO MAINOKSET
+1–3 lyhyttä videota
+KATSO
+KATSO 1 MAINOS?
+KATSO {0} MAINOSTA?
+Katso 1 video loppuun asti saadaksesi {0}. Jos lopetat ennen aikojaan, palkinto menetetään.
+Katso {0} videota loppuun asti saadaksesi {1}. Jos lopetat ennen aikojaan, palkinto menetetään.
+ALOITA
+EI NYT
+Palkinto voitettu: {0}!
 energia
 +{0} % PELIMERKKEJÄ
 {0} kättä

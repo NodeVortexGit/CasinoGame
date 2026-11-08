@@ -658,3 +658,17 @@ e1ae457	Mateo
 1920e2f	Jefawar farko: sa caca a Pass Line, sannan ka jefa. 7 ko 11 suna ci; 2, 3 ko 12 suna faɗuwa. Cacar place tana fara aiki ne idan akwai maki.
 99f4934	LUCKY ACE 7s  •  YANA BIYA HAR 2,500× NA CACAR LAYINKA
 48ddc95	ATOMATIK JUYA
+3848f78	Bidiyo {0} daga {1}
+d87409f	An rasa kyautar: sai an kalli bidiyon har ƙarshe.
+14dcbe4	+{0}% kuzari
+330037c	Hannaye {0} da sa'a {1}%
+ff24786	KALLI TALLACE-TALLACE
+375d55d	Bidiyo gajeru 1 zuwa 3
+f187dbf	KALLI
+64d31ad	KALLI TALLA 1?
+e77d414	KALLI TALLA {0}?
+8707135	Kalli bidiyo 1 har ƙarshe don samun {0}. Idan an tsaya da wuri, kyautar ta ɓace.
+88f8727	Kalli bidiyo {0} har ƙarshe don samun {1}. Idan an tsaya da wuri, kyautar ta ɓace.
+7196e7c	FARA
+b967bda	BA YANZU BA
+b10888c	An samu kyautar: {0}!

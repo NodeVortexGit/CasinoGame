@@ -658,3 +658,17 @@ ec14343	Hversu hratt hægri pinninn snýr sjónarhorninu.
 1920e2f	Upphafskast: veðjaðu á Pass Line og kastaðu. 7 eða 11 vinna; 2, 3 eða 12 tapa. Place-veðmál fara að gilda þegar punktur er kominn.
 99f4934	LUCKY ACE 7s  •  GREIÐIR ALLT AÐ 2.500× LÍNUVEÐMÁLIÐ ÞITT
 48ddc95	SJÁLFVIRK SNÚA
+3848f78	Myndband {0} af {1}
+d87409f	Vinningur tapast: myndböndin verða að vera horfð til enda.
+14dcbe4	+{0}% orka
+330037c	{0} hendur með {1}% heppni
+ff24786	HORFA Á AUGLÝSINGAR
+375d55d	1 til 3 stutt myndbönd
+f187dbf	HORFA
+64d31ad	HORFA Á 1 AUGLÝSINGU?
+e77d414	HORFA Á {0} AUGLÝSINGAR?
+8707135	Horfðu á 1 myndband til enda til að fá {0}. Ef þú hættir snemma tapast vinningurinn.
+88f8727	Horfðu á {0} myndbönd til enda til að fá {1}. Ef þú hættir snemma tapast vinningurinn.
+7196e7c	BYRJA
+b967bda	EKKI NÚNA
+b10888c	Vinningur unninn: {0}!

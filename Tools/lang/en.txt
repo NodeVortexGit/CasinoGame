@@ -174,14 +174,14 @@ a934745	3rd 12	Roulette.cs:89
 bb4e68e	RED	Roulette.cs:93
 a9414ab	BLACK	Roulette.cs:94
 f70bfdc	Jacks or better	VideoPoker.cs:72
-4d60d6c	FAIR PRICES FOR YOUR COUNTRY	App.cs:119
-1674d95	Shop prices are adjusted to your country's economy, so players everywhere pay a fair price.	App.cs:120
-4ec27ee	To find your country we check your approximate location once. It is matched to a country on your device and never sent anywhere. If you decline, standard prices apply.	App.cs:121
-ff3dbb4	CONTINUE	App.cs:123
-43a6a8d	Leave the casino?	App.cs:288
-ad209a0	Your chips and progress are saved.	App.cs:288
-5860c84	QUIT	App.cs:288
-f1e0808	STAY	App.cs:289
+4d60d6c	FAIR PRICES FOR YOUR COUNTRY	App.cs:126
+1674d95	Shop prices are adjusted to your country's economy, so players everywhere pay a fair price.	App.cs:127
+4ec27ee	To find your country we check your approximate location once. It is matched to a country on your device and never sent anywhere. If you decline, standard prices apply.	App.cs:128
+ff3dbb4	CONTINUE	App.cs:130
+43a6a8d	Leave the casino?	App.cs:296
+ad209a0	Your chips and progress are saved.	App.cs:296
+5860c84	QUIT	App.cs:296
+f1e0808	STAY	App.cs:297
 5b38c49	{0} unlocked	Progress.cs:69
 15ae7ac	A streak freeze saved your {0}-day streak yesterday.	Progress.cs:98
 d375ffb	{0} streak freezes saved your {1}-day streak.	Progress.cs:99
@@ -195,20 +195,22 @@ ab2ceb3	LEVEL {0}!	Progress.cs:151
 9ae18ad	Come back tomorrow to keep it going	Progress.cs:162
 7af7e7c	+1 streak freeze	Progress.cs:163
 b5b9597	{0} DAY STREAK!	Progress.cs:164
-62ec60d	Purchases are not available in this version.	Purchases.cs:50
-1f9786c	Purchase failed. You were not charged.	Purchases.cs:56
-3e4c600	+{0} chips added!	Purchases.cs:77
-1998202	{0}: {1} hands at {2}% luck, after Beginner's Luck	Purchases.cs:84
-728ada5	{0}: {1} hands at {2}% luck!	Purchases.cs:85
-af5e232	{0}: +{1}% energy	Purchases.cs:92
-001a53b	Not available on this device	Purchases.cs:129
-2607004	Videos can't load on this network	Purchases.cs:130
-569c30d	Come back tomorrow	Purchases.cs:131
-ecae6ee	Ready in {0}s	Purchases.cs:133
-9964820	+{0} chips ({1} left today)	Purchases.cs:134
-e1bd888	+{0} free chips!	Purchases.cs:141
-619bd5d	+1 streak freeze!	Purchases.cs:149
-f70d794	No video available right now. Try again in a moment.	Purchases.cs:162
+62ec60d	Purchases are not available in this version.	Purchases.cs:51
+1f9786c	Purchase failed. You were not charged.	Purchases.cs:57
+3e4c600	+{0} chips added!	Purchases.cs:78
+1998202	{0}: {1} hands at {2}% luck, after Beginner's Luck	Purchases.cs:85
+728ada5	{0}: {1} hands at {2}% luck!	Purchases.cs:86
+af5e232	{0}: +{1}% energy	Purchases.cs:93
+001a53b	Not available on this device	Purchases.cs:130
+2607004	Videos can't load on this network	Purchases.cs:131
+569c30d	Come back tomorrow	Purchases.cs:132
+ecae6ee	Ready in {0}s	Purchases.cs:134
+9964820	+{0} chips ({1} left today)	Purchases.cs:135
+e1bd888	+{0} free chips!	Purchases.cs:142
+619bd5d	+1 streak freeze!	Purchases.cs:150
+f70d794	No video available right now. Try again in a moment.	Purchases.cs:163
+3848f78	Video {0} of {1}	Purchases.cs:221
+d87409f	Prize lost: the videos have to be watched all the way through.	Purchases.cs:240
 264d71b	BRONZE	Palette.cs:46
 462e839	SILVER	Palette.cs:47
 81ff70a	GOLD	Palette.cs:48
@@ -228,62 +230,62 @@ aefd59b	Free chips ready and streak reminders	Reminders.cs:31
 233027b	{0} chips are waiting for you at Lucky Ace.	Reminders.cs:75
 b93976b	Keep your {0}-day streak	Reminders.cs:84
 bd68038	Play {0} rounds today so it doesn't reset at midnight.	Reminders.cs:85
-98fd5af	BACCARAT	BaccaratScreen.cs:74
-df66d5a	Welcome to baccarat! Player, Banker or Tie?	BaccaratScreen.cs:87
-5055efd	PLAYER	BaccaratScreen.cs:109
-3f90696	TIE	BaccaratScreen.cs:109
-0d75f63	BANKER	BaccaratScreen.cs:109
-0ebd5a4	LAST RESULTS	BaccaratScreen.cs:147
-511993d	P	BaccaratScreen.cs:162
-ae4f281	B	BaccaratScreen.cs:162
-c2c53d6	T	BaccaratScreen.cs:162
-55ad592	UNDO	BaccaratScreen.cs:182
-16ec74f	CLEAR	BaccaratScreen.cs:184
-928226b	REBET	BaccaratScreen.cs:186
-55591e0	DEAL	BaccaratScreen.cs:188
-531fb3f	Not enough chips for that bet.	BaccaratScreen.cs:215
-9587b70	Table maximum reached	BaccaratScreen.cs:221
-8f191f9	TOTAL BET  {0}	BaccaratScreen.cs:277
-781246e	Pick a chip, then tap Player, Banker or Tie	BaccaratScreen.cs:277
-11023a0	TIE  {0}	BaccaratScreen.cs:357
-503d5f1	PLAYER WINS  {0} TO {1}	BaccaratScreen.cs:358
-0eb4be5	BANKER WINS  {0} TO {1}	BaccaratScreen.cs:359
-8587d14	WIN  +{0}	BaccaratScreen.cs:392
-a306d0a	RETURNED  {0}	BaccaratScreen.cs:398
-af3134d	No win this time	BaccaratScreen.cs:404
-cb8171b	Finish this hand first.	BaccaratScreen.cs:527
-0acfb6f	Welcome! Beginner's luck is on your side tonight. Place a bet!	BlackjackScreen.cs:132
-d589374	BLACKJACK PAYS 3 TO 2   •   DEALER STANDS ON ALL 17s   •   INSURANCE PAYS 2 TO 1	BlackjackScreen.cs:165
-b700b02	BET	BlackjackScreen.cs:189
-395ed46	HIT	BlackjackScreen.cs:237
-43e7971	STAND	BlackjackScreen.cs:239
-097274c	DOUBLE	BlackjackScreen.cs:241
-6df63ca	SPLIT	BlackjackScreen.cs:243
-3e40f46	INSURE	BlackjackScreen.cs:249
-db82d3a	NO THANKS	BlackjackScreen.cs:251
-28d6be8	BET {0}+	BlackjackScreen.cs:273
-b9ac47d	Not enough chips	BlackjackScreen.cs:298
-d237ade	Dealer shows an ace. Insure for {0}?	BlackjackScreen.cs:391
-bf07c14	Insurance pays {0}	BlackjackScreen.cs:442
-b6e674a	No dealer blackjack. Insurance lost.	BlackjackScreen.cs:442
-0cc9679	BUST	BlackjackScreen.cs:459
-82ce89d	DEALER BUST	BlackjackScreen.cs:470
-6e1e1a4	BLACKJACK!	BlackjackScreen.cs:638
-662fae5	WIN	BlackjackScreen.cs:641
-8918d00	PUSH	BlackjackScreen.cs:644
-8df6be4	LOSE	BlackjackScreen.cs:647
-9e69668	Beginner's luck is over. Your Lucky Streak starts now.	BlackjackScreen.cs:719
-822f4f4	Beginner's luck is over. From now on it's standard blackjack.	BlackjackScreen.cs:720
-b0377c7	Your Lucky Streak is over. Back to standard blackjack.	BlackjackScreen.cs:726
-824ad7c	OUT OF CHIPS	BlackjackScreen.cs:921
-ff1822d	Watch a short video for {0} free chips, or visit the cashier.	BlackjackScreen.cs:923
-e4cac2f	Visit the cashier to top up your chips.	BlackjackScreen.cs:924
-c3df3e7	FREE CHIPS	BlackjackScreen.cs:925
-b169d33	CASHIER	BlackjackScreen.cs:925
-4d38f66	LATER	BlackjackScreen.cs:931
-3aa6941	“{0}”	BlackjackScreen.cs:1036
-6f846f4	ONE MORE HAND	BlackjackScreen.cs:1038
-a79d4f2	LEAVE	BlackjackScreen.cs:1045
+98fd5af	BACCARAT	BaccaratScreen.cs:79
+df66d5a	Welcome to baccarat! Player, Banker or Tie?	BaccaratScreen.cs:93
+5055efd	PLAYER	BaccaratScreen.cs:115
+3f90696	TIE	BaccaratScreen.cs:115
+0d75f63	BANKER	BaccaratScreen.cs:115
+0ebd5a4	LAST RESULTS	BaccaratScreen.cs:153
+511993d	P	BaccaratScreen.cs:168
+ae4f281	B	BaccaratScreen.cs:168
+c2c53d6	T	BaccaratScreen.cs:168
+55ad592	UNDO	BaccaratScreen.cs:188
+16ec74f	CLEAR	BaccaratScreen.cs:190
+928226b	REBET	BaccaratScreen.cs:192
+55591e0	DEAL	BaccaratScreen.cs:194
+531fb3f	Not enough chips for that bet.	BaccaratScreen.cs:221
+9587b70	Table maximum reached	BaccaratScreen.cs:227
+8f191f9	TOTAL BET  {0}	BaccaratScreen.cs:283
+781246e	Pick a chip, then tap Player, Banker or Tie	BaccaratScreen.cs:283
+11023a0	TIE  {0}	BaccaratScreen.cs:363
+503d5f1	PLAYER WINS  {0} TO {1}	BaccaratScreen.cs:364
+0eb4be5	BANKER WINS  {0} TO {1}	BaccaratScreen.cs:365
+8587d14	WIN  +{0}	BaccaratScreen.cs:398
+a306d0a	RETURNED  {0}	BaccaratScreen.cs:404
+af3134d	No win this time	BaccaratScreen.cs:410
+cb8171b	Finish this hand first.	BaccaratScreen.cs:534
+0acfb6f	Welcome! Beginner's luck is on your side tonight. Place a bet!	BlackjackScreen.cs:133
+d589374	BLACKJACK PAYS 3 TO 2   •   DEALER STANDS ON ALL 17s   •   INSURANCE PAYS 2 TO 1	BlackjackScreen.cs:166
+b700b02	BET	BlackjackScreen.cs:190
+395ed46	HIT	BlackjackScreen.cs:238
+43e7971	STAND	BlackjackScreen.cs:240
+097274c	DOUBLE	BlackjackScreen.cs:242
+6df63ca	SPLIT	BlackjackScreen.cs:244
+3e40f46	INSURE	BlackjackScreen.cs:250
+db82d3a	NO THANKS	BlackjackScreen.cs:252
+28d6be8	BET {0}+	BlackjackScreen.cs:274
+b9ac47d	Not enough chips	BlackjackScreen.cs:299
+d237ade	Dealer shows an ace. Insure for {0}?	BlackjackScreen.cs:392
+bf07c14	Insurance pays {0}	BlackjackScreen.cs:443
+b6e674a	No dealer blackjack. Insurance lost.	BlackjackScreen.cs:443
+0cc9679	BUST	BlackjackScreen.cs:460
+82ce89d	DEALER BUST	BlackjackScreen.cs:471
+6e1e1a4	BLACKJACK!	BlackjackScreen.cs:639
+662fae5	WIN	BlackjackScreen.cs:642
+8918d00	PUSH	BlackjackScreen.cs:645
+8df6be4	LOSE	BlackjackScreen.cs:648
+9e69668	Beginner's luck is over. Your Lucky Streak starts now.	BlackjackScreen.cs:720
+822f4f4	Beginner's luck is over. From now on it's standard blackjack.	BlackjackScreen.cs:721
+b0377c7	Your Lucky Streak is over. Back to standard blackjack.	BlackjackScreen.cs:727
+824ad7c	OUT OF CHIPS	BlackjackScreen.cs:922
+ff1822d	Watch a short video for {0} free chips, or visit the cashier.	BlackjackScreen.cs:924
+e4cac2f	Visit the cashier to top up your chips.	BlackjackScreen.cs:925
+c3df3e7	FREE CHIPS	BlackjackScreen.cs:926
+b169d33	CASHIER	BlackjackScreen.cs:926
+4d38f66	LATER	BlackjackScreen.cs:932
+3aa6941	“{0}”	BlackjackScreen.cs:1037
+6f846f4	ONE MORE HAND	BlackjackScreen.cs:1039
+a79d4f2	LEAVE	BlackjackScreen.cs:1046
 693f697	BEGINNER'S LUCK	Common.cs:79
 641ad58	LUCKY STREAK	Common.cs:79
 fc45931	Welcome bonus for new players: for your first <b>{0} hands</b> the dealer's shoe is stacked in your favor, so you will win almost every hand.	Common.cs:82
@@ -295,36 +297,36 @@ c3a8946	GOT IT	Common.cs:97
 8dfc44a	WANT YOUR LUCK BACK?	Common.cs:115
 272a97f	Beginner's Luck is over: from here every table is standard, fair blackjack. A Lucky Streak brings the boost back for a while.	Common.cs:118
 7859af1	CRAPS	CrapsScreen.cs:95
-4083dbd	Welcome to craps! Put a bet on the Pass Line and roll.	CrapsScreen.cs:119
-d266326	SIX	CrapsScreen.cs:135
-c506f3a	NINE	CrapsScreen.cs:135
-987f4e9	FIELD	CrapsScreen.cs:137
-71c1b2b	2 3 4 9 10 11 12  •  2 and 12 pay double	CrapsScreen.cs:137
-d0ac294	ANY 7	CrapsScreen.cs:138
-9b2f0c3	ANY CRAPS	CrapsScreen.cs:139
-f62ac59	DON'T PASS BAR	CrapsScreen.cs:141
-6080ade	1:1  •  12 pushes	CrapsScreen.cs:141
-c07247a	PASS LINE	CrapsScreen.cs:142
-6229f78	ODDS	CrapsScreen.cs:143
-29bf819	true odds	CrapsScreen.cs:143
-ad50489	OFF	CrapsScreen.cs:175
-387d7a5	ON	CrapsScreen.cs:187
-229c9cc	Odds go behind the Pass Line once there's a point.	CrapsScreen.cs:203
-c2c8e82	Odds need a Pass Line bet.	CrapsScreen.cs:204
-1784d43	Your odds are at the maximum.	CrapsScreen.cs:204
-fdc3442	Line bets go down on the come-out roll.	CrapsScreen.cs:205
-97ce95b	ON THE TABLE  {0}	CrapsScreen.cs:260
-1920e2f	Come-out roll: bet the Pass Line, then roll. 7 or 11 wins, 2, 3 or 12 loses. Place bets start working once there's a point.	CrapsScreen.cs:266
-a895ec0	The point is {0}: roll it again before a 7. Odds behind your Pass Line pay true odds.	CrapsScreen.cs:267
-d9f9d65	ROLL	CrapsScreen.cs:315
-bcf32ef	The point is {0}.	CrapsScreen.cs:388
-5b450b4	{0}! The point is made. Winner!	CrapsScreen.cs:389
-9746e08	Seven out. New shooter, new come-out.	CrapsScreen.cs:390
-4fc4664	{0}, a natural! Pass Line wins.	CrapsScreen.cs:391
-203f466	{0}, craps. Line away.	CrapsScreen.cs:392
-0f8e260	Wait for the dice to land.	CrapsScreen.cs:453
-6a98cfe	LEAVE THE TABLE?	CrapsScreen.cs:459
-8430088	Your line bet is still working on the point of {0}. If you leave now, it's lost.	CrapsScreen.cs:460
+4083dbd	Welcome to craps! Put a bet on the Pass Line and roll.	CrapsScreen.cs:120
+d266326	SIX	CrapsScreen.cs:136
+c506f3a	NINE	CrapsScreen.cs:136
+987f4e9	FIELD	CrapsScreen.cs:138
+71c1b2b	2 3 4 9 10 11 12  •  2 and 12 pay double	CrapsScreen.cs:138
+d0ac294	ANY 7	CrapsScreen.cs:139
+9b2f0c3	ANY CRAPS	CrapsScreen.cs:140
+f62ac59	DON'T PASS BAR	CrapsScreen.cs:142
+6080ade	1:1  •  12 pushes	CrapsScreen.cs:142
+c07247a	PASS LINE	CrapsScreen.cs:143
+6229f78	ODDS	CrapsScreen.cs:144
+29bf819	true odds	CrapsScreen.cs:144
+ad50489	OFF	CrapsScreen.cs:176
+387d7a5	ON	CrapsScreen.cs:188
+229c9cc	Odds go behind the Pass Line once there's a point.	CrapsScreen.cs:204
+c2c8e82	Odds need a Pass Line bet.	CrapsScreen.cs:205
+1784d43	Your odds are at the maximum.	CrapsScreen.cs:205
+fdc3442	Line bets go down on the come-out roll.	CrapsScreen.cs:206
+97ce95b	ON THE TABLE  {0}	CrapsScreen.cs:261
+1920e2f	Come-out roll: bet the Pass Line, then roll. 7 or 11 wins, 2, 3 or 12 loses. Place bets start working once there's a point.	CrapsScreen.cs:267
+a895ec0	The point is {0}: roll it again before a 7. Odds behind your Pass Line pay true odds.	CrapsScreen.cs:268
+d9f9d65	ROLL	CrapsScreen.cs:316
+bcf32ef	The point is {0}.	CrapsScreen.cs:390
+5b450b4	{0}! The point is made. Winner!	CrapsScreen.cs:391
+9746e08	Seven out. New shooter, new come-out.	CrapsScreen.cs:392
+4fc4664	{0}, a natural! Pass Line wins.	CrapsScreen.cs:393
+203f466	{0}, craps. Line away.	CrapsScreen.cs:394
+0f8e260	Wait for the dice to land.	CrapsScreen.cs:455
+6a98cfe	LEAVE THE TABLE?	CrapsScreen.cs:461
+8430088	Your line bet is still working on the point of {0}. If you leave now, it's lost.	CrapsScreen.cs:462
 06b7689	DAILY	DailyModal.cs:43
 4035996	DAILY STREAK	DailyModal.cs:90
 fbe7f18	DAY STREAK	DailyModal.cs:98
@@ -358,26 +360,26 @@ f12e166	Streak bonus: prizes ×{0}	DailyModal.cs:324
 03a0f2a	New missions at midnight.	DailyModal.cs:344
 4784874	Finish all three: +{0} bonus chips	DailyModal.cs:345
 0e138d1	HOLD'EM	HoldemScreen.cs:71
-5e023be	Welcome to Hold'em! Ante up and let's see some cards.	HoldemScreen.cs:84
-0cd62f5	ANTE	HoldemScreen.cs:112
-5e9f331	BLIND	HoldemScreen.cs:112
-42c5cda	PLAY	HoldemScreen.cs:112
-3b935ab	BLIND PAYS	HoldemScreen.cs:153
-20713a4	Dealer qualifies with a pair or better	HoldemScreen.cs:164
-d37267c	CHECK	HoldemScreen.cs:198
-9a4e316	FOLD	HoldemScreen.cs:199
-88313c4	BET {0}×	HoldemScreen.cs:200
-42c6fea	Ante {0} + Blind {0}. Keep {1} more for your raise.	HoldemScreen.cs:236
-1abb2f2	Tap chips to set your ante. The blind matches it.	HoldemScreen.cs:237
-f541cec	Check, or bet three or four times your ante?	HoldemScreen.cs:320
-fc74a79	Raise now for 4× or 3× your ante, or check and see the flop.	HoldemScreen.cs:361
-b687501	Last chance: bet 1× your ante, or fold and lose the ante and blind.	HoldemScreen.cs:362
-400009c	Bet 2× your ante now, or check and see the last two cards.	HoldemScreen.cs:363
-f4abdf9	Here's the flop.	HoldemScreen.cs:385
-0e51f2c	The turn and the river.	HoldemScreen.cs:385
-cc856d3	Let's see what I have.	HoldemScreen.cs:405
-6ba1f3e	The dealer doesn't qualify: your ante comes back.	HoldemScreen.cs:458
-cf1fdc5	Folded. The next hand is yours.	HoldemScreen.cs:487
+5e023be	Welcome to Hold'em! Ante up and let's see some cards.	HoldemScreen.cs:85
+0cd62f5	ANTE	HoldemScreen.cs:113
+5e9f331	BLIND	HoldemScreen.cs:113
+42c5cda	PLAY	HoldemScreen.cs:113
+3b935ab	BLIND PAYS	HoldemScreen.cs:154
+20713a4	Dealer qualifies with a pair or better	HoldemScreen.cs:165
+d37267c	CHECK	HoldemScreen.cs:199
+9a4e316	FOLD	HoldemScreen.cs:200
+88313c4	BET {0}×	HoldemScreen.cs:201
+42c6fea	Ante {0} + Blind {0}. Keep {1} more for your raise.	HoldemScreen.cs:237
+1abb2f2	Tap chips to set your ante. The blind matches it.	HoldemScreen.cs:238
+f541cec	Check, or bet three or four times your ante?	HoldemScreen.cs:321
+fc74a79	Raise now for 4× or 3× your ante, or check and see the flop.	HoldemScreen.cs:362
+b687501	Last chance: bet 1× your ante, or fold and lose the ante and blind.	HoldemScreen.cs:363
+400009c	Bet 2× your ante now, or check and see the last two cards.	HoldemScreen.cs:364
+f4abdf9	Here's the flop.	HoldemScreen.cs:386
+0e51f2c	The turn and the river.	HoldemScreen.cs:386
+cc856d3	Let's see what I have.	HoldemScreen.cs:406
+6ba1f3e	The dealer doesn't qualify: your ante comes back.	HoldemScreen.cs:459
+cf1fdc5	Folded. The next hand is yours.	HoldemScreen.cs:488
 337211e	GAMES	LobbyScreen.cs:87
 8f5e3bd	Drag left side to walk  •  Drag right side to look  •  Tap to go	LobbyScreen.cs:90
 d00d221	18+ only  •  Chips are for fun: no cash value, never exchangeable for money or prizes	LobbyScreen.cs:94
@@ -393,28 +395,28 @@ b724a40	REMIND ME	LobbyScreen.cs:210
 9e0c898	+{0} chips ready!	LobbyScreen.cs:281
 1207e28	Watch a video: {0}	LobbyScreen.cs:282
 db3655b	Next free chips in {0}	LobbyScreen.cs:283
-4ca9be5	BLACKJACK	LobbyScreen.cs:417
-9a612b1	4 tables  •  pays 3 to 2	LobbyScreen.cs:417
-177fab0	Ultimate Texas Hold'em	LobbyScreen.cs:419
-c4917b9	Player, Banker or Tie	LobbyScreen.cs:421
-1194439	SLOTS	LobbyScreen.cs:423
-6555152	Lucky Ace 7s  •  10 lines	LobbyScreen.cs:423
-6e4fe7b	VIDEO POKER	LobbyScreen.cs:425
-73cabd3	Jacks or Better	LobbyScreen.cs:425
-91c4555	SIC BO	LobbyScreen.cs:427
-d810061	Three dice  •  big or small	LobbyScreen.cs:427
-85ab7ec	Pass Line  •  Field  •  Odds	LobbyScreen.cs:429
-255b1a1	ROULETTE	LobbyScreen.cs:431
-6df1551	European single zero	LobbyScreen.cs:431
-379b146	YOU'RE EXHAUSTED	LobbyScreen.cs:485
-340e5c4	Your energy bar is empty. Grab something from the bar to keep playing, or come back later: energy recovers slowly while you're away.	LobbyScreen.cs:486
-a517396	VISIT THE BAR	LobbyScreen.cs:487
-7c7227f	CHOOSE YOUR TABLE	LobbyScreen.cs:518
-c963de3	BETS	LobbyScreen.cs:533
-c433657	LEVEL {0}	LobbyScreen.cs:538
-083ac39	SIT DOWN	LobbyScreen.cs:538
-9698219	NEED {0}	LobbyScreen.cs:538
-34b737e	Reach level {0} to play here. You're level {1}.	LobbyScreen.cs:543
+4ca9be5	BLACKJACK	LobbyScreen.cs:418
+9a612b1	4 tables  •  pays 3 to 2	LobbyScreen.cs:418
+177fab0	Ultimate Texas Hold'em	LobbyScreen.cs:420
+c4917b9	Player, Banker or Tie	LobbyScreen.cs:422
+1194439	SLOTS	LobbyScreen.cs:424
+6555152	Lucky Ace 7s  •  10 lines	LobbyScreen.cs:424
+6e4fe7b	VIDEO POKER	LobbyScreen.cs:426
+73cabd3	Jacks or Better	LobbyScreen.cs:426
+91c4555	SIC BO	LobbyScreen.cs:428
+d810061	Three dice  •  big or small	LobbyScreen.cs:428
+85ab7ec	Pass Line  •  Field  •  Odds	LobbyScreen.cs:430
+255b1a1	ROULETTE	LobbyScreen.cs:432
+6df1551	European single zero	LobbyScreen.cs:432
+379b146	YOU'RE EXHAUSTED	LobbyScreen.cs:486
+340e5c4	Your energy bar is empty. Grab something from the bar to keep playing, or come back later: energy recovers slowly while you're away.	LobbyScreen.cs:487
+a517396	VISIT THE BAR	LobbyScreen.cs:488
+7c7227f	CHOOSE YOUR TABLE	LobbyScreen.cs:519
+c963de3	BETS	LobbyScreen.cs:534
+c433657	LEVEL {0}	LobbyScreen.cs:539
+083ac39	SIT DOWN	LobbyScreen.cs:539
+9698219	NEED {0}	LobbyScreen.cs:539
+34b737e	Reach level {0} to play here. You're level {1}.	LobbyScreen.cs:544
 6cc19a9	CASINO	Onboarding.cs:22
 6e946b7	DD	Onboarding.cs:33
 4a3a892	MM	Onboarding.cs:33
@@ -436,22 +438,22 @@ c6e102d	TELL US ABOUT YOU	Onboarding.cs:261
 964daf7	ENTER THE CASINO	Onboarding.cs:279
 2efb69a	Your staff tonight:	Onboarding.cs:296
 c10e749	Page {0} of {1}	Pickers.cs:77
-2a3ffd9	LANGUAGE	Pickers.cs:99
-c673535	AUTOMATIC	Pickers.cs:108
-d1245d2	COUNTRY	Pickers.cs:148
-15fc12b	Welcome! Place your bets, please.	RouletteScreen.cs:115
-380eb75	Table limit is {0} per spin.	RouletteScreen.cs:293
-82e1181	Tap the board to place chips	RouletteScreen.cs:381
-bb19a75	No more bets!	RouletteScreen.cs:430
-5becf07	GREEN	RouletteScreen.cs:450
-bc74f4f	green	RouletteScreen.cs:451
-7898801	red	RouletteScreen.cs:451
-466bc8c	black	RouletteScreen.cs:451
-f2edfbf	What a hit! Congratulations!	RouletteScreen.cs:464
-b252caf	Winner! You win {0}.	RouletteScreen.cs:464
-b862a2b	{0} {1}. {2} comes back to you.	RouletteScreen.cs:470
-84122e7	Place your bets, please.	RouletteScreen.cs:493
-52205f4	Wait for the ball to land.	RouletteScreen.cs:518
+2a3ffd9	LANGUAGE	Pickers.cs:105
+c673535	AUTOMATIC	Pickers.cs:114
+d1245d2	COUNTRY	Pickers.cs:154
+15fc12b	Welcome! Place your bets, please.	RouletteScreen.cs:116
+380eb75	Table limit is {0} per spin.	RouletteScreen.cs:294
+82e1181	Tap the board to place chips	RouletteScreen.cs:382
+bb19a75	No more bets!	RouletteScreen.cs:431
+5becf07	GREEN	RouletteScreen.cs:451
+bc74f4f	green	RouletteScreen.cs:452
+7898801	red	RouletteScreen.cs:452
+466bc8c	black	RouletteScreen.cs:452
+f2edfbf	What a hit! Congratulations!	RouletteScreen.cs:465
+b252caf	Winner! You win {0}.	RouletteScreen.cs:465
+b862a2b	{0} {1}. {2} comes back to you.	RouletteScreen.cs:471
+84122e7	Place your bets, please.	RouletteScreen.cs:494
+52205f4	Wait for the ball to land.	RouletteScreen.cs:519
 c4b9243	SETTINGS	SettingsModal.cs:37
 44d863e	GENERAL	SettingsModal.cs:65
 2bbca79	GRAPHICS	SettingsModal.cs:66
@@ -525,137 +527,149 @@ ea9233e	AUTOMATIC ({0})	SettingsModal.cs:466
 29a4ef9	No controller connected.	SettingsModal.cs:487
 558ecd2	Connected: {0}. Showing {1} buttons (A on the right confirms).	SettingsModal.cs:488
 d6eee9e	Connected: {0}. Showing {1} buttons.	SettingsModal.cs:489
-78525d5	THE BAR	ShopModal.cs:35
-099db9f	LUCK	ShopModal.cs:37
-b4a8b06	Chips, luck and food are virtual items for entertainment only: no cash value, not redeemable for money or prizes.	ShopModal.cs:48
-e2a28c9	Each card has that chance of being dealt in your favor, on blackjack bets up to {0} chips (bigger bets are standard and don't use up hands). Starts after Beginner's Luck; stronger packs are used first.	ShopModal.cs:85
-04fbc6d	Allow location access to get your country's price	ShopModal.cs:104
-2ae87fc	Purchases are not available in this version of the game.	ShopModal.cs:105
-8239a84	TEST STORE (no real money)	ShopModal.cs:106
-173d916	energy	ShopModal.cs:128
-b2c67eb	+{0}% CHIPS	ShopModal.cs:132
-58e8011	{0} hands	ShopModal.cs:161
-ce80712	wins about {0}% of them	ShopModal.cs:162
-35d8db6	Welcome to sic bo! Big, small, or something bolder?	SicBoScreen.cs:118
-3d05514	Table limit is {0} per roll.	SicBoScreen.cs:241
-86ade94	SHAKE	SicBoScreen.cs:304
-b69304e	TRIPLE {0}!	SicBoScreen.cs:389
+78525d5	THE BAR	ShopModal.cs:37
+099db9f	LUCK	ShopModal.cs:39
+b4a8b06	Chips, luck and food are virtual items for entertainment only: no cash value, not redeemable for money or prizes.	ShopModal.cs:50
+e2a28c9	Each card has that chance of being dealt in your favor, on blackjack bets up to {0} chips (bigger bets are standard and don't use up hands). Starts after Beginner's Luck; stronger packs are used first.	ShopModal.cs:88
+04fbc6d	Allow location access to get your country's price	ShopModal.cs:107
+2ae87fc	Purchases are not available in this version of the game.	ShopModal.cs:108
+8239a84	TEST STORE (no real money)	ShopModal.cs:109
+14dcbe4	+{0}% energy	ShopModal.cs:119
+330037c	{0} hands at {1}% luck	ShopModal.cs:120
+ff24786	WATCH ADS	ShopModal.cs:131
+375d55d	1 to 3 short videos	ShopModal.cs:144
+f187dbf	WATCH	ShopModal.cs:148
+64d31ad	WATCH 1 AD?	ShopModal.cs:158
+e77d414	WATCH {0} ADS?	ShopModal.cs:158
+8707135	Watch 1 video all the way through to get {0}. If you stop early, the prize is lost.	ShopModal.cs:159
+88f8727	Watch {0} videos all the way through to get {1}. If you stop early, the prize is lost.	ShopModal.cs:160
+7196e7c	START	ShopModal.cs:161
+b967bda	NOT NOW	ShopModal.cs:165
+b10888c	Prize won: {0}!	ShopModal.cs:186
+173d916	energy	ShopModal.cs:207
+b2c67eb	+{0}% CHIPS	ShopModal.cs:211
+58e8011	{0} hands	ShopModal.cs:240
+ce80712	wins about {0}% of them	ShopModal.cs:241
+35d8db6	Welcome to sic bo! Big, small, or something bolder?	SicBoScreen.cs:120
+3d05514	Table limit is {0} per roll.	SicBoScreen.cs:243
+86ade94	SHAKE	SicBoScreen.cs:306
+b69304e	TRIPLE {0}!	SicBoScreen.cs:391
 c69e8ee	LUCKY ACE 7s	SlotsScreen.cs:77
-fc99288	TOTAL BET	SlotsScreen.cs:127
-c1c00cd	PAYTABLE	SlotsScreen.cs:137
-48ddc95	AUTO SPIN	SlotsScreen.cs:142
-3930abd	GOOD LUCK!	SlotsScreen.cs:158
-67b6973	You need at least 10 chips to spin.	SlotsScreen.cs:235
-5aa1edb	GET CHIPS	SlotsScreen.cs:235
-f5a1812	Bet lowered to what you can cover.	SlotsScreen.cs:237
-5c63f61	MEGA WIN!	SlotsScreen.cs:279
-652544f	BIG WIN!	SlotsScreen.cs:279
-91bc41c	RETURNED {0}	SlotsScreen.cs:292
-3714283	NO WIN	SlotsScreen.cs:298
-33c0faa	LINE {0}: {1} × {2} = {3}	SlotsScreen.cs:398
-9f59e6e	{0} STARS = {1}	SlotsScreen.cs:405
-d6eee90	Cherry	SlotsScreen.cs:471
-4459b79	Lemon	SlotsScreen.cs:471
-09fb6aa	Orange	SlotsScreen.cs:471
-cb92e50	Plum	SlotsScreen.cs:471
-d419866	Bell	SlotsScreen.cs:471
-e496fd2	Bar	SlotsScreen.cs:471
-63abb56	Seven	SlotsScreen.cs:471
-b3850e0	Diamond	SlotsScreen.cs:472
-fc2b5a9	Ace	SlotsScreen.cs:472
-85a7de6	Star	SlotsScreen.cs:472
-c31b035	STARS pay anywhere: 5 = {0}× bet, 4 = {1}× bet, 3 = {2}× bet.	SlotsScreen.cs:500
-f97509c	The ACE is wild: it stands in for every symbol except the star.	SlotsScreen.cs:502
-3e8bc69	Line pays are multiples of the line bet (total bet ÷ 10), left to right from the first reel.	SlotsScreen.cs:503
-523f8dc	PAYBACK: {0}% over the long run. Every spin is independent and random.	SlotsScreen.cs:506
+fc99288	TOTAL BET	SlotsScreen.cs:130
+c1c00cd	PAYTABLE	SlotsScreen.cs:140
+48ddc95	AUTO SPIN	SlotsScreen.cs:145
+3930abd	GOOD LUCK!	SlotsScreen.cs:162
+67b6973	You need at least 10 chips to spin.	SlotsScreen.cs:239
+5aa1edb	GET CHIPS	SlotsScreen.cs:239
+f5a1812	Bet lowered to what you can cover.	SlotsScreen.cs:241
+5c63f61	MEGA WIN!	SlotsScreen.cs:283
+652544f	BIG WIN!	SlotsScreen.cs:283
+91bc41c	RETURNED {0}	SlotsScreen.cs:296
+3714283	NO WIN	SlotsScreen.cs:302
+33c0faa	LINE {0}: {1} × {2} = {3}	SlotsScreen.cs:402
+9f59e6e	{0} STARS = {1}	SlotsScreen.cs:409
+d6eee90	Cherry	SlotsScreen.cs:475
+4459b79	Lemon	SlotsScreen.cs:475
+09fb6aa	Orange	SlotsScreen.cs:475
+cb92e50	Plum	SlotsScreen.cs:475
+d419866	Bell	SlotsScreen.cs:475
+e496fd2	Bar	SlotsScreen.cs:475
+63abb56	Seven	SlotsScreen.cs:475
+b3850e0	Diamond	SlotsScreen.cs:476
+fc2b5a9	Ace	SlotsScreen.cs:476
+85a7de6	Star	SlotsScreen.cs:476
+c31b035	STARS pay anywhere: 5 = {0}× bet, 4 = {1}× bet, 3 = {2}× bet.	SlotsScreen.cs:504
+f97509c	The ACE is wild: it stands in for every symbol except the star.	SlotsScreen.cs:506
+3e8bc69	Line pays are multiples of the line bet (total bet ÷ 10), left to right from the first reel.	SlotsScreen.cs:507
+523f8dc	PAYBACK: {0}% over the long run. Every spin is independent and random.	SlotsScreen.cs:510
 5d1bcc6	HELD	VideoPokerScreen.cs:71
-36a21ba	Deal, hold the cards you want, draw once.	VideoPokerScreen.cs:93
-99fa8e8	HOLD	VideoPokerScreen.cs:131
-249d1c0	HINT	VideoPokerScreen.cs:134
-7aab1bd	DRAW	VideoPokerScreen.cs:153
-5595eb4	Tap the cards to hold, then draw.	VideoPokerScreen.cs:234
-e0c705d	Walk	PadNavigator.cs:359
-b8db515	Look	PadNavigator.cs:360
-503d46d	Buttons	PadNavigator.cs:363
-c7f73bb	Settings	PadNavigator.cs:364
-728298d	Daily	PadNavigator.cs:365
-ab166bd	Adjust	PadNavigator.cs:370
-76cdb95	Move	PadNavigator.cs:370
-8598222	Select	PadNavigator.cs:371
-bbfa773	Close	PadNavigator.cs:372
-b52b36b	Back	PadNavigator.cs:372
-ab37588	EXHAUSTED	HudWidgets.cs:119
-9b11a09	BEGINNER'S LUCK {0}%	HudWidgets.cs:221
-0c94e98	{0} HANDS LEFT	HudWidgets.cs:222
-51ed273	LUCKY STREAK {0}%	HudWidgets.cs:227
-3401470	{0} HANDS  •  BETS UP TO {1}	HudWidgets.cs:228
-f481cc6	LEVEL	ProgressWidgets.cs:79
-dc81691	Sofia	TableWidgets.cs:253
-4d9936f	Elena	TableWidgets.cs:253
-3aa0674	Mia	TableWidgets.cs:253
-b724114	Valentina	TableWidgets.cs:253
-34d3f7f	Chloe	TableWidgets.cs:253
-0fc9dd6	Isabella	TableWidgets.cs:253
-bbd3e35	Nadia	TableWidgets.cs:253
-eac677d	Aria	TableWidgets.cs:253
-baaf10f	Luna	TableWidgets.cs:253
-8641381	Camila	TableWidgets.cs:253
-eeee9b7	Aurora	TableWidgets.cs:253
-8a59f05	Bianca	TableWidgets.cs:253
-5a0fc29	Serena	TableWidgets.cs:253
-bf38aa5	Marco	TableWidgets.cs:254
-cfaf50a	Leo	TableWidgets.cs:254
-5815f22	Adrian	TableWidgets.cs:254
-cbede02	Lucas	TableWidgets.cs:254
-f0b9995	Viktor	TableWidgets.cs:254
-7b37259	Daniel	TableWidgets.cs:254
-aaac72d	Gabriel	TableWidgets.cs:254
-2f8f37e	Ethan	TableWidgets.cs:254
-a01126e	Julian	TableWidgets.cs:254
-3e05c90	Rafael	TableWidgets.cs:254
-e1ae457	Mateo	TableWidgets.cs:254
-3398634	Nico	TableWidgets.cs:254
-7aa2d07	Enzo	TableWidgets.cs:254
-0139615	WELCOME	CasinoWorld.Build.cs:313
-daad514	TALK TO THE HOST	CasinoWorld.Build.cs:340
-bcefb10	Directions and tips	CasinoWorld.Build.cs:341
-c28e782	CHIPS  •  BONUSES	CasinoWorld.Build.cs:382
-0c69ec4	BUY CHIPS	CasinoWorld.Build.cs:401
-78c0727	Cashier	CasinoWorld.Build.cs:402
-1737fab	COCKTAILS  •  SNACKS  •  ENERGY	CasinoWorld.Build.cs:440
-9e008ae	FOOD & DRINKS	CasinoWorld.Build.cs:472
-f7881e8	The Bar	CasinoWorld.Build.cs:473
-0e979ed	BLACKJACK PAYS 3 TO 2	CasinoWorld.Build.cs:500
-eea0d12	DEALER MUST STAND ON 17	CasinoWorld.Build.cs:501
-4db37bf	PLAY BLACKJACK	CasinoWorld.Build.cs:507
-0ffdd99	{0} table  •  bets {1} to {2}	CasinoWorld.Build.cs:508
-1c05db9	PLAY HOLD'EM	CasinoWorld.Build.cs:605
-e353e5f	Ultimate Texas Hold'em  •  ante {0} to {1}	CasinoWorld.Build.cs:606
-6470369	PLAY BACCARAT	CasinoWorld.Build.cs:643
-bbe0077	BIG  •  SMALL  •  TRIPLES	CasinoWorld.Build.cs:703
-3ba448f	PLAY SIC BO	CasinoWorld.Build.cs:721
-097c59c	Three dice  •  big or small pays 1 to 1	CasinoWorld.Build.cs:722
-af2ca30	PASS LINE  •  FIELD  •  ODDS	CasinoWorld.Build.cs:774
-f18398e	PLAY CRAPS	CasinoWorld.Build.cs:783
-eeede6d	Pass Line pays 1 to 1  •  odds pay true odds	CasinoWorld.Build.cs:784
-34e5170	PLAY VIDEO POKER	CasinoWorld.Build.cs:868
-b4f938b	PLAY SLOTS	CasinoWorld.Build.cs:868
-f71bdfb	Jacks or Better  •  9/6 full pay	CasinoWorld.Build.cs:869
-99f4934	LUCKY ACE 7s  •  PAYS UP TO 2,500× YOUR LINE BET	CasinoWorld.Build.cs:898
-4a6c087	JACKS OR BETTER  •  ROYAL FLUSH PAYS 800×	CasinoWorld.Build.cs:901
-6b7caea	PLACE YOUR BETS	CasinoWorld.Build.cs:939
-26b1e39	PLAY ROULETTE	CasinoWorld.Build.cs:949
-910a1ed	European wheel  •  straight up pays 35 to 1	CasinoWorld.Build.cs:950
-7ef0215	ORDER A DRINK	CasinoWorld.Build.cs:1151
-fe38d73	{0} brings it over	CasinoWorld.Build.cs:1152
-f7b6306	The {0} opens at level {1}. You're level {2}: every round you play counts.	CasinoWorld.cs:354
-d85f1ad	This table needs at least {0} chips.	CasinoWorld.cs:366
-cbfe016	Blackjack tables are straight ahead. Walk up to one and take a seat!	CasinoWorld.cs:521
-370a133	Slot machines line the right wall, video poker the back wall, and the roulette wheel is at the back.	CasinoWorld.cs:522
-8298d28	Hold'em is in the back left corner, past the bar.	CasinoWorld.cs:523
-a2a111f	Baccarat is just to the left as you come in.	CasinoWorld.cs:524
-b7193bc	Sic bo is in the corner past the cashier: three dice, big or small.	CasinoWorld.cs:525
-25320c8	The craps table is on the right, in front of the slots. Bet the Pass Line and roll!	CasinoWorld.cs:526
-64d9faf	The cashier is right here on your right, and the bar is along the left wall.	CasinoWorld.cs:527
-e4c6e0b	Feeling tired? A snack at the bar fills your energy right up.	CasinoWorld.cs:528
-d5ab68f	Tap anywhere on the floor and you'll walk there. Tap a table to sit down.	CasinoWorld.cs:529
+36a21ba	Deal, hold the cards you want, draw once.	VideoPokerScreen.cs:95
+99fa8e8	HOLD	VideoPokerScreen.cs:133
+249d1c0	HINT	VideoPokerScreen.cs:136
+7aab1bd	DRAW	VideoPokerScreen.cs:155
+5595eb4	Tap the cards to hold, then draw.	VideoPokerScreen.cs:236
+e0c705d	Walk	PadNavigator.cs:396
+b8db515	Look	PadNavigator.cs:397
+503d46d	Buttons	PadNavigator.cs:400
+c7f73bb	Settings	PadNavigator.cs:401
+728298d	Daily	PadNavigator.cs:402
+ab166bd	Adjust	PadNavigator.cs:406
+76cdb95	Move	PadNavigator.cs:406
+8598222	Select	PadNavigator.cs:407
+bbfa773	Close	PadNavigator.cs:408
+b52b36b	Back	PadNavigator.cs:408
+ab37588	EXHAUSTED	HudWidgets.cs:121
+9b11a09	BEGINNER'S LUCK {0}%	HudWidgets.cs:223
+0c94e98	{0} HANDS LEFT	HudWidgets.cs:224
+51ed273	LUCKY STREAK {0}%	HudWidgets.cs:229
+3401470	{0} HANDS  •  BETS UP TO {1}	HudWidgets.cs:230
+f481cc6	LEVEL	ProgressWidgets.cs:82
+dc81691	Sofia	TableWidgets.cs:255
+4d9936f	Elena	TableWidgets.cs:255
+3aa0674	Mia	TableWidgets.cs:255
+b724114	Valentina	TableWidgets.cs:255
+34d3f7f	Chloe	TableWidgets.cs:255
+0fc9dd6	Isabella	TableWidgets.cs:255
+bbd3e35	Nadia	TableWidgets.cs:255
+eac677d	Aria	TableWidgets.cs:255
+baaf10f	Luna	TableWidgets.cs:255
+8641381	Camila	TableWidgets.cs:255
+eeee9b7	Aurora	TableWidgets.cs:255
+8a59f05	Bianca	TableWidgets.cs:255
+5a0fc29	Serena	TableWidgets.cs:255
+bf38aa5	Marco	TableWidgets.cs:256
+cfaf50a	Leo	TableWidgets.cs:256
+5815f22	Adrian	TableWidgets.cs:256
+cbede02	Lucas	TableWidgets.cs:256
+f0b9995	Viktor	TableWidgets.cs:256
+7b37259	Daniel	TableWidgets.cs:256
+aaac72d	Gabriel	TableWidgets.cs:256
+2f8f37e	Ethan	TableWidgets.cs:256
+a01126e	Julian	TableWidgets.cs:256
+3e05c90	Rafael	TableWidgets.cs:256
+e1ae457	Mateo	TableWidgets.cs:256
+3398634	Nico	TableWidgets.cs:256
+7aa2d07	Enzo	TableWidgets.cs:256
+0139615	WELCOME	CasinoWorld.Build.cs:314
+daad514	TALK TO THE HOST	CasinoWorld.Build.cs:341
+bcefb10	Directions and tips	CasinoWorld.Build.cs:342
+c28e782	CHIPS  •  BONUSES	CasinoWorld.Build.cs:397
+0c69ec4	BUY CHIPS	CasinoWorld.Build.cs:422
+78c0727	Cashier	CasinoWorld.Build.cs:423
+1737fab	COCKTAILS  •  SNACKS  •  ENERGY	CasinoWorld.Build.cs:461
+9e008ae	FOOD & DRINKS	CasinoWorld.Build.cs:493
+f7881e8	The Bar	CasinoWorld.Build.cs:494
+0e979ed	BLACKJACK PAYS 3 TO 2	CasinoWorld.Build.cs:521
+eea0d12	DEALER MUST STAND ON 17	CasinoWorld.Build.cs:522
+4db37bf	PLAY BLACKJACK	CasinoWorld.Build.cs:528
+0ffdd99	{0} table  •  bets {1} to {2}	CasinoWorld.Build.cs:529
+1c05db9	PLAY HOLD'EM	CasinoWorld.Build.cs:640
+e353e5f	Ultimate Texas Hold'em  •  ante {0} to {1}	CasinoWorld.Build.cs:641
+6470369	PLAY BACCARAT	CasinoWorld.Build.cs:679
+bbe0077	BIG  •  SMALL  •  TRIPLES	CasinoWorld.Build.cs:739
+3ba448f	PLAY SIC BO	CasinoWorld.Build.cs:757
+097c59c	Three dice  •  big or small pays 1 to 1	CasinoWorld.Build.cs:758
+af2ca30	PASS LINE  •  FIELD  •  ODDS	CasinoWorld.Build.cs:810
+f18398e	PLAY CRAPS	CasinoWorld.Build.cs:819
+eeede6d	Pass Line pays 1 to 1  •  odds pay true odds	CasinoWorld.Build.cs:820
+34e5170	PLAY VIDEO POKER	CasinoWorld.Build.cs:904
+b4f938b	PLAY SLOTS	CasinoWorld.Build.cs:904
+f71bdfb	Jacks or Better  •  9/6 full pay	CasinoWorld.Build.cs:905
+99f4934	LUCKY ACE 7s  •  PAYS UP TO 2,500× YOUR LINE BET	CasinoWorld.Build.cs:934
+4a6c087	JACKS OR BETTER  •  ROYAL FLUSH PAYS 800×	CasinoWorld.Build.cs:937
+6b7caea	PLACE YOUR BETS	CasinoWorld.Build.cs:975
+26b1e39	PLAY ROULETTE	CasinoWorld.Build.cs:985
+910a1ed	European wheel  •  straight up pays 35 to 1	CasinoWorld.Build.cs:986
+7ef0215	ORDER A DRINK	CasinoWorld.Build.cs:1187
+fe38d73	{0} brings it over	CasinoWorld.Build.cs:1188
+f7b6306	The {0} opens at level {1}. You're level {2}: every round you play counts.	CasinoWorld.cs:362
+d85f1ad	This table needs at least {0} chips.	CasinoWorld.cs:374
+cbfe016	Blackjack tables are straight ahead. Walk up to one and take a seat!	CasinoWorld.cs:559
+370a133	Slot machines line the right wall, video poker the back wall, and the roulette wheel is at the back.	CasinoWorld.cs:560
+8298d28	Hold'em is in the back left corner, past the bar.	CasinoWorld.cs:561
+a2a111f	Baccarat is just to the left as you come in.	CasinoWorld.cs:562
+b7193bc	Sic bo is in the corner past the cashier: three dice, big or small.	CasinoWorld.cs:563
+25320c8	The craps table is on the right, in front of the slots. Bet the Pass Line and roll!	CasinoWorld.cs:564
+64d9faf	The cashier is right here on your right, and the bar is along the left wall.	CasinoWorld.cs:565
+e4c6e0b	Feeling tired? A snack at the bar fills your energy right up.	CasinoWorld.cs:566
+d5ab68f	Tap anywhere on the floor and you'll walk there. Tap a table to sit down.	CasinoWorld.cs:567

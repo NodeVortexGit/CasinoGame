@@ -658,3 +658,17 @@ e1ae457	Mateo
 1920e2f	Emprima bittada: fa ina scumessa sin la Pass Line e bitta. 7 u 11 gudognan; 2, 3 u 12 perdan. Las scumessas Place cumainzan a giugrar cur ch'i dat in punct.
 99f4934	LUCKY ACE 7s  •  PAJA FIN 2 500× TIA SCUMESSA PER LINGIA
 48ddc95	AUTOMATIC
+3848f78	Video {0} da {1}
+d87409f	Premi pers: ils videos stuan vegnir guardads fin la fin.
+14dcbe4	+{0} % energia
+330037c	{0} mauns cun {1} % fortuna
+ff24786	GUARDA VIDEOS
+375d55d	1 fin 3 videos curts
+f187dbf	GUARDA
+64d31ad	GUARDA 1 VIDEO?
+e77d414	GUARDA {0} VIDEOS?
+8707135	Guarda 1 video fin al fin per ottegnir {0}. Sche ti smettas baud, il premi vegn pers.
+88f8727	Guarda {0} videos fin al fin per ottegnir {1}. Sche ti smettas baud, il premi vegn pers.
+7196e7c	COMENCHA
+b967bda	BETG USSA
+b10888c	Premi guadagnà: {0}!

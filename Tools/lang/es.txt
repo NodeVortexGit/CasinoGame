@@ -658,3 +658,17 @@ e1ae457	Mateo
 1920e2f	Tirada de salida: apuesta en la línea de pase y tira. 7 u 11 gana, 2, 3 o 12 pierde. Las apuestas place cuentan cuando hay punto.
 99f4934	LUCKY ACE 7s  •  PAGA HASTA 2.500× TU APUESTA POR LÍNEA
 48ddc95	AUTOMÁTICO
+3848f78	Video {0} de {1}
+d87409f	Premio perdido: los videos deben verse hasta el final.
+14dcbe4	+{0}% de energía
+330037c	{0} manos con {1}% de suerte
+ff24786	VER ANUNCIOS
+375d55d	De 1 a 3 videos cortos
+f187dbf	VER
+64d31ad	¿VER 1 ANUNCIO?
+e77d414	¿VER {0} ANUNCIOS?
+8707135	Mira 1 video hasta el final para conseguir {0}. Si se detiene antes, el premio se pierde.
+88f8727	Mira {0} videos hasta el final para conseguir {1}. Si se detiene antes, el premio se pierde.
+7196e7c	EMPEZAR
+b967bda	AHORA NO
+b10888c	¡Premio conseguido: {0}!

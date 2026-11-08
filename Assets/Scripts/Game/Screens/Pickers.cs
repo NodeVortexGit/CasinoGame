@@ -84,14 +84,20 @@ namespace Casino.Screens
     public sealed class LanguagePickerModal : PickerModal
     {
         static List<LanguageInfo> sorted;
+        static LanguageInfo sortedFor;
 
+        /// <summary>
+        /// In the order of their names in the language the game is in now, the way the country list is sorted, so the
+        /// list reads alphabetically to whoever is looking at it.
+        /// </summary>
         static List<LanguageInfo> Languages
         {
             get
             {
-                if (sorted != null) return sorted;
+                if (sorted != null && sortedFor == Loc.Current) return sorted;
+                sortedFor = Loc.Current;
                 sorted = new List<LanguageInfo>(LanguageTable.All);
-                sorted.Sort((a, b) => string.CompareOrdinal(a.EnglishName, b.EnglishName));
+                sorted.Sort((a, b) => string.Compare(Loc.LanguageName(a), Loc.LanguageName(b), StringComparison.CurrentCulture));
                 return sorted;
             }
         }

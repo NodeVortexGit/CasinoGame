@@ -207,6 +207,8 @@ Listo en {0} s
 ¡+{0} fichas gratis!
 ¡+1 congelador de racha!
 No hay videos disponibles ahora. Inténtalo de nuevo en un momento.
+Video {0} de {1}
+Premio perdido: los videos deben verse hasta el final.
 BRONCE
 PLATA
 ORO
@@ -530,6 +532,18 @@ Cada carta tiene esa probabilidad de salir a tu favor en apuestas de blackjack d
 Permite el acceso a la ubicación para obtener el precio de tu país
 Las compras no están disponibles en esta versión del juego.
 TIENDA DE PRUEBA (sin dinero real)
++{0}% de energía
+{0} manos con {1}% de suerte
+VER ANUNCIOS
+De 1 a 3 videos cortos
+VER
+¿VER 1 ANUNCIO?
+¿VER {0} ANUNCIOS?
+Mira 1 video hasta el final para conseguir {0}. Si se detiene antes, el premio se pierde.
+Mira {0} videos hasta el final para conseguir {1}. Si se detiene antes, el premio se pierde.
+EMPEZAR
+AHORA NO
+¡Premio conseguido: {0}!
 energía
 +{0}% FICHAS
 {0} manos

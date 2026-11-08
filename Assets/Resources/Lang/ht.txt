@@ -207,6 +207,8 @@ Pare nan {0}s
 +{0} jeton gratis!
 +1 jèl seri!
 Pa gen videyo kounye a. Eseye ankò nan yon ti moman.
+Videyo {0} sou {1}
+Pri a pèdi: videyo yo dwe gade jiska fen.
 BWONZ
 AJAN
 LÒ
@@ -530,6 +532,18 @@ Chak kat gen chans sa a pou l vini an favè w, sou pari blackjack jiska {0} jeto
 Pèmèt aksè pozisyon pou jwenn pri peyi w
 Acha pa disponib nan vèsyon jwèt sa a.
 MAGAZEN TÈS (pa gen vrè lajan)
++{0}% enèji
+{0} men ak {1}% chans
+GADE PUBLISITE
+1 a 3 kout videyo
+GADE
+GADE 1 PIBLISITE?
+GADE {0} PIBLISITE?
+Gade 1 videyo jiska fen pou w jwenn {0}. Si w sispann bonè, pri a pèdi.
+Gade {0} videyo jiska fen pou w jwenn {1}. Si w sispann bonè, pri a pèdi.
+KOMANSE
+PA KOUNYE A
+Pri gaye: {0}!
 enèji
 +{0}% JETON
 {0} men

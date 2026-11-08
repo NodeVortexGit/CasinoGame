@@ -658,3 +658,17 @@ e1ae457	Matteo
 1920e2f	Lancio d'apertura: punta sulla Pass Line, poi lancia. 7 o 11 vincono, 2, 3 o 12 perdono. Le puntate Place valgono da quando c'è un punto.
 99f4934	LUCKY ACE 7s  •  PAGA FINO A 2.500× LA TUA PUNTATA PER LINEA
 48ddc95	AUTOMATICO
+3848f78	Video {0} di {1}
+d87409f	Premio perso: i video devono essere guardati fino alla fine.
+14dcbe4	+{0}% di energia
+330037c	{0} mani con il {1}% di fortuna
+ff24786	GUARDA PUBBLICITÀ
+375d55d	Da 1 a 3 brevi video
+f187dbf	GUARDA
+64d31ad	GUARDA 1 PUBBLICITÀ?
+e77d414	GUARDA {0} PUBBLICITÀ?
+8707135	Guarda 1 video fino alla fine per ottenere {0}. Se ti fermi prima, il premio va perso.
+88f8727	Guarda {0} video fino alla fine per ottenere {1}. Se ti fermi prima, il premio va perso.
+7196e7c	INIZIA
+b967bda	NON ORA
+b10888c	Premio vinto: {0}!

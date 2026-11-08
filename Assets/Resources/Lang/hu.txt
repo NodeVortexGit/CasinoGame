@@ -207,6 +207,8 @@ Kész {0} mp múlva
 +{0} ingyen zseton!
 +1 sorozatfagyasztás!
 Most nincs elérhető videó. Próbáld újra egy kicsit később.
+Videó: {0}/{1}
+A jutalom elveszett: a videókat végig kell nézni.
 BRONZ
 EZÜST
 ARANY
@@ -530,6 +532,18 @@ Minden lapnak ekkora esélye van, hogy a javadra érkezzen, legfeljebb {0} zseto
 Engedélyezd a helyhozzáférést, hogy megkapd az országod árát
 A vásárlás a játék ezen verziójában nem érhető el.
 TESZTBOLT (nem valódi pénz)
++{0}% energia
+{0} leosztás {1}% szerencsével
+REKLÁMOK MEGNÉZÉSE
+1–3 rövid videó
+MEGNÉZÉS
+1 REKLÁM MEGNÉZÉSE?
+{0} REKLÁM MEGNÉZÉSE?
+Nézz meg 1 videót végig, hogy megkapd: {0}. Ha korábban abbahagyod, a jutalom elvész.
+Nézz meg {0} videót végig, hogy megkapd: {1}. Ha korábban abbahagyod, a jutalom elvész.
+KEZDÉS
+MOST NEM
+Jutalom megszerezve: {0}!
 energia
 +{0}% ZSETON
 {0} leosztás

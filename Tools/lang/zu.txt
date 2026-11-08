@@ -658,3 +658,17 @@ e2a28c9	Ikhadi ngalinye linalelo thuba lokunikezwa ngendlela ekuzuzisayo, ekubhe
 1920e2f	Ukuphonsa kokuqala: bheja ku-Pass Line, bese uphonsa. U-7 noma u-11 bayawina, u-2, u-3 noma u-12 bayahlulwa. Ukubheja kwe-Place kuqala ukusebenza uma kukhona iphoyinti.
 99f4934	LUCKY ACE 7s  •  IKHOKHA KUFIKA KU-2,500× UKUBHEJA KWAKHO KOMUGQA
 48ddc95	OZENZEKELAYO
+3848f78	Ividiyo {0} kwangu-{1}
+d87409f	Umklomelo ulahlekile: amavidiyo kumele abukwe kuze kuphele.
+14dcbe4	+{0}% amandla
+330037c	izandla ezingu-{0} ngenhlanhla engu-{1}%
+ff24786	BUKA AMAVIDIYO
+375d55d	amavidiyo amafushane angu-1 kuya kwangu-3
+f187dbf	BUKA
+64d31ad	BUKA IVIDIYO EYODWA?
+e77d414	BUKA AMAVIDIYO angu-{0}?
+8707135	Buka ividiyo eyodwa kuze kuphele ukuze uthole {0}. Uma uyima kusenesikhathi, umklomelo uyalahleka.
+88f8727	Buka amavidiyo angu-{0} kuze kuphele ukuze uthole {1}. Uma uyima kusenesikhathi, umklomelo uyalahleka.
+7196e7c	QALA
+b967bda	HHAYI MANJE
+b10888c	Umklomelo uwinwe: {0}!

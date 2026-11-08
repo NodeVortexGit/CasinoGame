@@ -22,8 +22,23 @@ namespace Casino.World
 
         /// <param name="size">Diameter in metres.</param>
         /// <param name="depth">0 = steady, 1 = pulses fully on and off at <paramref name="speed"/> (radians/s).</param>
+        Vector3 pivot;
+        Quaternion turn = Quaternion.identity;
+        bool turned;
+
+        /// <summary>Like <see cref="MeshKit.BeginTurn"/>: glows added until <see cref="EndTurn"/> turn about <paramref name="around"/>.</summary>
+        public void BeginTurn(Vector3 around, Quaternion rotation)
+        {
+            pivot = around;
+            turn = rotation;
+            turned = true;
+        }
+
+        public void EndTurn() => turned = false;
+
         public void Add(Vector3 at, Color color, float size, float phase = 0f, float speed = 0f, float depth = 0f)
         {
+            if (turned) at = pivot + turn * (at - pivot);
             int i = pos.Count;
             foreach (var c in Corners)
             {

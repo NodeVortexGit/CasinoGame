@@ -1,4 +1,6 @@
+using System.Collections.Generic;
 using Casino.Art;
+using Casino.Audio;
 using Casino.Core;
 using Casino.Core.Economy;
 using Casino.Core.Player;
@@ -38,8 +40,8 @@ namespace Casino.Screens
             luckTab.Rect.At(0.5f, 1f, 380, -70, 370, 96);
 
             staffHolder = UIKit.NewRect("Staff", Panel).At(0f, 0.5f, 210, 40, 300, 560);
-            staffLine = UIKit.Label(Panel, "", 28, Color.white, TextAnchor.UpperCenter, FontKind.Semi);
-            ((RectTransform)staffLine.transform).At(0f, 0.5f, 210, -230, 330, 160);
+            staffLine = UIKit.Label(Panel, "", 26, Color.white, TextAnchor.UpperCenter, FontKind.Semi);
+            ((RectTransform)staffLine.transform).At(0f, 0.5f, 210, -104, 330, 84);   // under the name badge, over the ad tile
 
             grid = UIKit.NewRect("Grid", Panel).At(0.5f, 0.5f, 170, -20, 1300, 600);
 
@@ -76,6 +78,7 @@ namespace Casino.Screens
             staff.Rect.Center(0, 60, 260, 260);
             staffLine.text = Loc.F("“{0}”", DealerLines.Greeting(role, App.I.Rng));
             staff.Talk(1.2f);
+            AdTile(t);
 
             if (t == ShopTab.Luck)
             {
@@ -105,6 +108,82 @@ namespace Casino.Screens
             if (!App.I.Store.IsAvailable) where = Loc.T("Purchases are not available in this version of the game.");
             else if (App.I.Store is SimulatedStore) where += "  •  " + Loc.T("TEST STORE (no real money)");
             regionText.text = where;
+        }
+
+        // ---------------- watch ads for a prize ----------------
+
+        // The number of videos is rolled on the first tap and kept until it's watched, so backing out doesn't reroll it.
+        static readonly Dictionary<ShopTab, int> pendingAds = new Dictionary<ShopTab, int>();
+
+        static string AdPrize(ShopTab t) => t == ShopTab.Chips ? Loc.F("+{0} chips", ChipFormat.Full(GameConfig.AdBundleChips))
+            : t == ShopTab.Food ? Loc.F("+{0}% energy", Mathf.RoundToInt(GameConfig.AdBundleEnergy * 100))
+            : Loc.F("{0} hands at {1}% luck", GameConfig.AdBundleLuckHands, GameConfig.AdBundleLuckPercent);
+
+        /// <summary>One tile per section, under the cashier or bartender: watch 1 to 3 videos for that section's prize.</summary>
+        void AdTile(ShopTab t)
+        {
+            var card = UIKit.Panel(staffHolder, "Ads", Palette.PanelLight, 24f, true);
+            var rt = ((RectTransform)card.transform).Center(0, -300, 330, 200);
+            UIKit.Outline(rt, Palette.WithAlpha(Palette.Gold, 0.45f), 24f);
+            var icon = UIKit.Image(rt, "Icon", ProceduralArt.IconSprite(Icon.Video), Color.white);
+            icon.preserveAspect = true;
+            ((RectTransform)icon.transform).Center(-118, 64, 46, 46);
+            var title = UIKit.Label(rt, Loc.T("WATCH ADS"), 32, Color.white, TextAnchor.MiddleLeft, FontKind.Display);
+            ((RectTransform)title.transform).Center(28, 64, 236, 40);
+            // the prize gets the tile's full width: "5 hands at 25% luck" doesn't fit beside the icon
+            var prize = UIKit.Label(rt, AdPrize(t), 22, Palette.Gold, TextAnchor.MiddleCenter, FontKind.Semi);
+            prize.horizontalOverflow = HorizontalWrapMode.Overflow;
+            ((RectTransform)prize.transform).Center(0, 26, 310, 30);
+
+            var purchases = App.I.Purchases;
+            bool can = purchases.CanWatchAd;
+            string note = !purchases.AdsSupported ? Loc.T("Not available on this device")
+                : App.I.Ads.IsBlocked ? Loc.T("Videos can't load on this network")
+                : purchases.AdsLeftToday <= 0 ? Loc.T("Come back tomorrow")
+                : purchases.AdCooldownRemaining > 0 ? Loc.F("Ready in {0}s", Mathf.CeilToInt((float)purchases.AdCooldownRemaining))
+                : Loc.T("1 to 3 short videos");
+            var n = UIKit.Label(rt, note, 19, Palette.TextMuted, TextAnchor.MiddleCenter, FontKind.Body);
+            ((RectTransform)n.transform).Center(0, -4, 310, 26);
+
+            var watch = UIKit.Button(rt, Loc.T("WATCH"), ButtonStyle.Green, () => StartAds(t), 32, Icon.Play);
+            watch.Rect.At(0.5f, 0f, 0, 44, 290, 66);
+            watch.Interactable = can;
+        }
+
+        void StartAds(ShopTab t)
+        {
+            if (!pendingAds.TryGetValue(t, out int count)) pendingAds[t] = count = App.I.Purchases.RollAdBundle();
+            string prize = AdPrize(t);
+            App.I.UI.Modal<ConfirmModal>(m => m.Setup(
+                count == 1 ? Loc.T("WATCH 1 AD?") : Loc.F("WATCH {0} ADS?", count),
+                count == 1 ? Loc.F("Watch 1 video all the way through to get {0}. If you stop early, the prize is lost.", prize)
+                           : Loc.F("Watch {0} videos all the way through to get {1}. If you stop early, the prize is lost.", count, prize),
+                Loc.T("START"), () => App.I.Purchases.WatchAdBundle(count, () => GrantAdPrize(t), ok =>
+                {
+                    pendingAds.Remove(t);   // won or lost, the next bundle rolls afresh
+                    if (this != null) ShowTab(tab);
+                }), Loc.T("NOT NOW")));
+        }
+
+        static void GrantAdPrize(ShopTab t)
+        {
+            var app = App.I;
+            if (t == ShopTab.Chips)
+            {
+                app.Wallet.Credit(GameConfig.AdBundleChips);
+                Sfx.Play(SfxId.Coins);
+            }
+            else if (t == ShopTab.Food)
+            {
+                app.Energy.Add(GameConfig.AdBundleEnergy);
+                Sfx.Play(SfxId.Eat);
+            }
+            else
+            {
+                app.Boost.Add(GameConfig.AdBundleLuckHands, GameConfig.AdBundleLuckPercent);
+                Sfx.Play(SfxId.Ding);
+            }
+            app.UI.Toast(Loc.F("Prize won: {0}!", AdPrize(t)), Palette.Gold, Icon.Gift);
         }
 
         void BuildItem(ProductDef p, Vector2 pos)

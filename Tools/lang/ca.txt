@@ -658,3 +658,17 @@ e1ae457	Mateu
 1920e2f	Tirada de sortida: aposta a la línia de passada i tira. 7 o 11 guanyen; 2, 3 o 12 perden. Les apostes de place comencen a comptar quan hi ha un punt.
 99f4934	LUCKY ACE 7s  •  PAGA FINS A 2.500× L'APOSTA PER LÍNIA
 48ddc95	AUTOMÀTIC
+3848f78	Vídeo {0} de {1}
+d87409f	Premi perdut: els vídeos s'han de veure fins al final.
+14dcbe4	+{0}% d'energia
+330037c	{0} mans amb un {1}% de sort
+ff24786	MIRA ANUNCIS
+375d55d	De 1 a 3 vídeos curts
+f187dbf	MIRA
+64d31ad	MIRA 1 ANUNCI?
+e77d414	MIRA {0} ANUNCIS?
+8707135	Mira 1 vídeo fins al final per guanyar {0}. Si ho atures abans, el premi es perd.
+88f8727	Mira {0} vídeos fins al final per guanyar {1}. Si ho atures abans, el premi es perd.
+7196e7c	COMENÇA
+b967bda	ARA NO
+b10888c	Premi guanyat: {0}!

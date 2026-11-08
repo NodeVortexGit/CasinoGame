@@ -73,8 +73,9 @@ namespace Casino.Screens
             if (world != null && world.TrySicBo(out var c, out var dealerFigure))
             {
                 // Leaning over the board: it fills the width (the dealer and shaker sit at the far end).
-                Vector3 eye = c + Turn * new Vector3(0f, 1.75f, -1.35f), stand = c + Turn * new Vector3(0f, 0f, -1.7f);
-                seat = WorldTable.Sit(Content, eye, c + Turn * new Vector3(0f, 0.8f, 0.15f), 44f, 82f, new Vector2(stand.x, stand.z),
+                Vector3 eye = c + Turn * new Vector3(0f, 1.85f, -1.9f), stand = c + Turn * new Vector3(0f, 0f, -1.7f);
+                seat = WorldTable.Sit(Content, eye, c + Turn * new Vector3(0f, 0.85f, 0.15f), 56f, 82f,   // back and up: the dealer's head fits
+                    new Vector2(stand.x, stand.z),
                     Turn.eulerAngles.y, c + Vector3.up * TableHeight, Turn * Quaternion.Euler(90f, 0f, 0f), LayerScale, dealerFigure, true);
             }
             if (seat != null)
@@ -112,6 +113,7 @@ namespace Casino.Screens
             historyRow = UIKit.NewRect("History", Content).At(0f, 1f, 40, -TopBar.Height - 50, 700, 54, 0f, 0.5f);
             BuildControls();
             fx = UIKit.NewRect("Fx", Content).Stretch();
+            UIKit.OwnCanvas(fx.gameObject, false); // confetti, flying chips and banners animate constantly: keep them out of the screen's batch
             App.I.Progress.StreakExtended += OnStreakExtended;
             App.I.Intensity.Baseline = 0.2f;
             Refresh();
@@ -387,6 +389,7 @@ namespace Casino.Screens
             bool triple = roll[0] == roll[1] && roll[1] == roll[2];
             resultText.color = triple ? Palette.Gold : Color.white;
             resultText.text = triple ? Loc.F("TRIPLE {0}!", roll[0]) : sum + "  " + (sum <= 10 ? Loc.T("SMALL") : Loc.T("BIG"));
+            seat?.Hush(2.2f);   // the roll's banner first, the dealer's line after it
             AddHistory(roll);
             foreach (var w in winners) StartCoroutine(Tween.Punch(w.Rect, 0.2f, 0.5f));
             if (spots.TryGetValue(Key(SicBoBetKind.Total, sum), out var totalSpot)) totalSpot.Rect.gameObject.AddComponent<Pulse>().Amount = 0.1f;

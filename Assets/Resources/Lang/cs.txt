@@ -207,6 +207,8 @@ Připraveno za {0} s
 +{0} žetonů zdarma!
 +1 zmrazení série!
 Momentálně není k dispozici žádné video. Zkus to za chvíli.
+Video {0} z {1}
+Odměna propadla: videa je nutné sledovat až do konce.
 BRONZ
 STŘÍBRO
 ZLATO
@@ -530,6 +532,18 @@ Každá karta má takovou šanci, že přijde ve tvůj prospěch, u sázek v bla
 Povol přístup k poloze a získej cenu pro svou zemi
 Nákupy nejsou v této verzi hry dostupné.
 TESTOVACÍ OBCHOD (žádné skutečné peníze)
++{0} % energie
+{0} rukou s {1} % štěstí
+SLEDOVAT REKLAMY
+1 až 3 krátká videa
+SLEDOVAT
+SLEDOVAT 1 REKLAMU?
+SLEDOVAT {0} REKLAMY?
+Sledujte 1 video až do konce a získejte {0}. Pokud sledování přerušíte předčasně, odměna propadne.
+Sledujte {0} videa až do konce a získejte {1}. Pokud sledování přerušíte předčasně, odměna propadne.
+SPUSTIT
+TEĎ NE
+Odměna získána: {0}!
 energie
 +{0} % ŽETONŮ
 rukou: {0}

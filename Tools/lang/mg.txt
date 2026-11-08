@@ -658,3 +658,17 @@ e1ae457	Mateo
 1920e2f	Fanipazana come-out: miloka amin'ny Pass Line dia manipaza. Mandresy ny 7 na 11, resy ny 2, 3 na 12. Manomboka mandeha ny loka Place rehefa misy point.
 99f4934	LUCKY ACE 7s  •  MANDOA HATRAMIN'NY 2,500× NY FILOKAO AMIN'NY ANDALANA
 48ddc95	AUTO AHODINO
+3848f78	Horonantsary {0} amin'ny {1}
+d87409f	Very ny loka: tsy maintsy jereo feno ny horonantsary.
+14dcbe4	+{0}% angovo
+330037c	Tanana {0} miaraka amin'ny vintana {1}%
+ff24786	JEREO NY DOKAMBAROTRA
+375d55d	Horonantsary fohy 1 hatramin'ny 3
+f187dbf	JEREO
+64d31ad	JEREO DOKAMBARO 1 VE?
+e77d414	JEREO DOKAMBARO {0} VE?
+8707135	Jereo horonantsary 1 feno mba hahazoana {0}. Raha mijanona aloha, very ny loka.
+88f8727	Jereo horonantsary {0} feno mba hahazoana {1}. Raha mijanona aloha, very ny loka.
+7196e7c	HANOMBOKA
+b967bda	TSY IZAO
+b10888c	Nahazo loka: {0}!

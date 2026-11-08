@@ -207,6 +207,8 @@ A shirye cikin daƙiƙa {0}
 +cip {0} kyauta!
 +1 daskarewar jeri!
 Babu bidiyo a yanzu. Sake gwadawa nan da ɗan lokaci.
+Bidiyo {0} daga {1}
+An rasa kyautar: sai an kalli bidiyon har ƙarshe.
 TAGULLA
 AZURFA
 ZINARIYA
@@ -530,6 +532,18 @@ Kowane kati yana da wannan damar na zuwa don amfaninka, a cacar blackjack har zu
 Ba da izinin samun wuri don samun farashin ƙasarka
 Ba a samun saye a wannan sigar wasan.
 SHAGON GWAJI (ba kuɗi na gaske ba)
++{0}% kuzari
+Hannaye {0} da sa'a {1}%
+KALLI TALLACE-TALLACE
+Bidiyo gajeru 1 zuwa 3
+KALLI
+KALLI TALLA 1?
+KALLI TALLA {0}?
+Kalli bidiyo 1 har ƙarshe don samun {0}. Idan an tsaya da wuri, kyautar ta ɓace.
+Kalli bidiyo {0} har ƙarshe don samun {1}. Idan an tsaya da wuri, kyautar ta ɓace.
+FARA
+BA YANZU BA
+An samu kyautar: {0}!
 kuzari
 +{0}% CIP
 hannaye {0}

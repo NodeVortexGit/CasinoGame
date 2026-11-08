@@ -658,3 +658,17 @@ e1ae457	Mateo
 1920e2f	Aruncarea de deschidere: pariază pe Pass Line, apoi aruncă. 7 sau 11 câștigă; 2, 3 sau 12 pierd. Pariurile Place încep să funcționeze când există un punct.
 99f4934	LUCKY ACE 7s  •  PLĂTEȘTE PÂNĂ LA 2.500× MIZA PE LINIE
 48ddc95	AUTO ÎNVÂRTE
+3848f78	Videoclip {0} din {1}
+d87409f	Premiu pierdut: videoclipurile trebuie urmărite până la capăt.
+14dcbe4	+{0}% energie
+330037c	{0} mâini cu {1}% noroc
+ff24786	VIZIONEAZĂ VIDEOCLIPURI
+375d55d	1 până la 3 videoclipuri scurte
+f187dbf	VEZI
+64d31ad	VIZIONEAZĂ 1 VIDEOCLIP?
+e77d414	VIZIONEAZĂ {0} VIDEOCLIPURI?
+8707135	Vizionează 1 videoclip până la capăt ca să primești {0}. Dacă oprești mai devreme, premiul se pierde.
+88f8727	Vizionează {0} videoclipuri până la capăt ca să primești {1}. Dacă oprești mai devreme, premiul se pierde.
+7196e7c	ÎNCEPE
+b967bda	NU ACUM
+b10888c	Premiu câștigat: {0}!

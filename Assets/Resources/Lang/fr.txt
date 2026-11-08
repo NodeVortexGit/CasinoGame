@@ -207,6 +207,8 @@ Prêt dans {0} s
 +{0} jetons gratuits !
 +1 gel de série !
 Aucune vidéo disponible pour le moment. Réessayez dans un instant.
+Vidéo {0} sur {1}
+Gain perdu : les vidéos doivent être regardées jusqu'au bout.
 BRONZE
 ARGENT
 OR
@@ -530,6 +532,18 @@ Chaque carte a cette chance d'être distribuée en votre faveur, sur les mises d
 Autorisez la localisation pour obtenir le prix de votre pays
 Les achats ne sont pas disponibles dans cette version du jeu.
 BOUTIQUE DE TEST (pas d'argent réel)
++{0} % d'énergie
+{0} mains à {1} % de chance
+VOIR DES PUBS
+1 à 3 courtes vidéos
+VOIR
+VOIR 1 PUB ?
+VOIR {0} PUBS ?
+Regardez 1 vidéo jusqu'au bout pour obtenir {0}. Si vous arrêtez avant, le gain est perdu.
+Regardez {0} vidéos jusqu'au bout pour obtenir {1}. Si vous arrêtez avant, le gain est perdu.
+DÉMARRER
+PAS MAINTENANT
+Gain obtenu : {0} !
 énergie
 +{0} % DE JETONS
 {0} mains

@@ -42,7 +42,21 @@ namespace Casino.Art
         public static Sprite Food(string productId) => Get("food" + productId, () => Painters.FoodImage(productId));
         public static Sprite Felt(int theme) => Get("felt" + theme, () => Painters.Felt(Palette.Tables[theme % Palette.Tables.Length].Felt));
 
-        public static Sprite SlotSymbol(Casino.Core.Slots.SlotSymbol s) => Get("slot" + s, () => GamePainters.SlotSymbolImage(s, 160));
+        // Indexed by symbol: the reels ask for ~25 symbols a frame while spinning, so the hit path must not build a key or closure.
+        static readonly Sprite[] SlotSymbols = new Sprite[Enum.GetValues(typeof(Casino.Core.Slots.SlotSymbol)).Length];
+        public static Sprite SlotSymbol(Casino.Core.Slots.SlotSymbol s)
+        {
+            int i = (int)s;
+            var hit = i >= 0 && i < SlotSymbols.Length ? SlotSymbols[i] : null;
+            return hit != null ? hit : PaintSlotSymbol(s);
+        }
+
+        static Sprite PaintSlotSymbol(Casino.Core.Slots.SlotSymbol s)
+        {
+            var sprite = Get("slot" + s, () => GamePainters.SlotSymbolImage(s, 160));
+            if ((int)s >= 0 && (int)s < SlotSymbols.Length) SlotSymbols[(int)s] = sprite;
+            return sprite;
+        }
         public static Sprite RouletteWheel => Get("roulettewheel", () => GamePainters.RouletteWheel(512));
         public static Sprite PrizeWheel => Get("prizewheel", () => GamePainters.PrizeWheel(512));
         public static Sprite Ball => Get("ball", () => GamePainters.Ball(48));

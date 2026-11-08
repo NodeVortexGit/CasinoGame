@@ -246,6 +246,7 @@ namespace Casino.UI
             ((RectTransform)ic.transform).At(0f, 0.5f, 26, 0, 50, 50, 0f, 0.5f);
             var t = UIKit.Label(rt, message, 34, Color.white, TextAnchor.MiddleLeft, FontKind.Semi);
             ((RectTransform)t.transform).Stretch(96, 0, 20, 0);
+            rt.sizeDelta = new Vector2(rt.sizeDelta.x, Mathf.Max(90f, t.preferredHeight + 30f));   // two lines need more than 90
             StartCoroutine(ToastRoutine(rt));
         }
 

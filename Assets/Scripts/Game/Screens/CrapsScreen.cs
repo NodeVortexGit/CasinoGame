@@ -112,6 +112,7 @@ namespace Casino.Screens
             die2.Set(4);
             BuildControls();
             fx = UIKit.NewRect("Fx", Content).Stretch();
+            UIKit.OwnCanvas(fx.gameObject, false); // confetti, flying chips and banners animate constantly: keep them out of the screen's batch
             App.I.Progress.StreakExtended += OnStreakExtended;
             App.I.Intensity.Baseline = 0.22f;
             Refresh();
@@ -367,6 +368,7 @@ namespace Casino.Screens
             int t = game.LastTotal;
             resultText.color = t == 7 ? Palette.Hex("FF6A7E") : Palette.Gold;
             resultText.text = t.ToString();
+            seat?.Hush(2.2f);   // the roll's banner first, the dealer's line after it
 
             long wagered = 0, net = 0;
             foreach (var s in settled)

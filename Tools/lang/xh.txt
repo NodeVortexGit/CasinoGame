@@ -658,3 +658,17 @@ e1ae457	Mateo
 1920e2f	Ukuphosa kokuqala: beja kwi-Pass Line, uze uphose. U-7 okanye u-11 bayaphumelela, u-2, u-3 okanye u-12 bayoyiswa. Ukubheja kwe-Place kuqala ukusebenza xa kukho inqaku.
 99f4934	LUCKY ACE 7s  •  IHLAWULA UKUYA KU-2,500× IBHETSHI YAKHO YOMGCA
 48ddc95	OZENZEKAYO
+3848f78	Ividiyo {0} kwezi-{1}
+d87409f	Umvuzo ulahlekile: iividiyo kufuneka zibukwe ukuya ekugqibeleni.
+14dcbe4	+{0}% amandla
+330037c	izandla ezingu-{0} ngethamsanqa elingu-{1}%
+ff24786	BUKELA IIVIDIYO
+375d55d	iividiyo ezimfutshane ezi-1 ukuya ku-3
+f187dbf	BUKELA
+64d31ad	BUKELA IVIDIYO EYI-1?
+e77d414	BUKELA IIVIDIYO EZINGU-{0}?
+8707135	Bukela ividiyo e-1 ukuya ekugqibeleni ukuze ufumane {0}. Ukuba uyima kwangaphambili, umvuzo uyalahleka.
+88f8727	Bukela iividiyo ezingu-{0} ukuya ekugqibeleni ukuze ufumane {1}. Ukuba uyima kwangaphambili, umvuzo uyalahleka.
+7196e7c	QALISA
+b967bda	HAYI NGOKU
+b10888c	Umvuzo ufumanekile: {0}!

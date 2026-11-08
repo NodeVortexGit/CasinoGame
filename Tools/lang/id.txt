@@ -658,3 +658,17 @@ e1ae457	Mateo
 1920e2f	Lemparan pembuka: taruh di Pass Line, lalu lempar. 7 atau 11 menang; 2, 3, atau 12 kalah. Taruhan place mulai berlaku setelah ada poin.
 99f4934	LUCKY ACE 7s  •  MEMBAYAR HINGGA 2.500× TARUHAN GARISMU
 48ddc95	PUTAR OTOMATIS
+3848f78	Video {0} dari {1}
+d87409f	Hadiah hilang: video harus ditonton sampai selesai.
+14dcbe4	+{0}% energi
+330037c	{0} tangan dengan {1}% keberuntungan
+ff24786	TONTON IKLAN
+375d55d	1 sampai 3 video singkat
+f187dbf	TONTON
+64d31ad	TONTON 1 IKLAN?
+e77d414	TONTON {0} IKLAN?
+8707135	Tonton 1 video sampai selesai untuk mendapatkan {0}. Jika berhenti lebih awal, hadiahnya hilang.
+88f8727	Tonton {0} video sampai selesai untuk mendapatkan {1}. Jika berhenti lebih awal, hadiahnya hilang.
+7196e7c	MULAI
+b967bda	NANTI SAJA
+b10888c	Hadiah didapat: {0}!

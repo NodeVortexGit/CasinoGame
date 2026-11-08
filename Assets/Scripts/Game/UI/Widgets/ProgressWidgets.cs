@@ -29,6 +29,7 @@ namespace Casino.UI
             var s = bg.gameObject.AddComponent<StreakPill>();
             s.flame = UIKit.Image(rt, "Flame", ProceduralArt.IconSprite(Icon.Flame), Fire);
             s.flameRt = ((RectTransform)s.flame.transform).At(0f, 0.5f, 10, 2, 68, 68, 0f, 0.5f);
+            UIKit.OwnCanvas(s.flame.gameObject, false); // the flicker would otherwise re-batch the whole HUD every frame
             s.count = UIKit.Label(rt, "0", 46, Color.white, TextAnchor.MiddleCenter, FontKind.Display);
             ((RectTransform)s.count.transform).Stretch(70, 0, 12, 0);
             bg.gameObject.AddComponent<Button>().onClick.AddListener(() => App.I.UI.Modal<DailyModal>());
@@ -49,12 +50,14 @@ namespace Casino.UI
             count.text = p.Streak.Count.ToString();
             flame.color = lit ? Fire : new Color(0.55f, 0.52f, 0.6f, 0.9f);
             count.color = lit ? Color.white : Palette.TextMuted;
+            if (!lit) flameRt.localScale = Vector3.one; // Update stops touching it once unlit
         }
 
         void Update()
         {
+            if (!lit) return;
             // A lit flame flickers a little.
-            float k = lit ? 1f + Mathf.Sin(Time.unscaledTime * 9f) * 0.03f + Mathf.Sin(Time.unscaledTime * 23f) * 0.02f : 1f;
+            float k = 1f + Mathf.Sin(Time.unscaledTime * 9f) * 0.03f + Mathf.Sin(Time.unscaledTime * 23f) * 0.02f;
             flameRt.localScale = new Vector3(1f, k, 1f);
         }
     }

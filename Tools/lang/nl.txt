@@ -658,3 +658,17 @@ e1ae457	Mateo
 1920e2f	Come-out-roll: zet in op de Pass Line en gooi. 7 of 11 wint, 2, 3 of 12 verliest. Place bets werken pas zodra er een punt is.
 99f4934	LUCKY ACE 7s  •  BETAALT TOT 2.500× JE LIJNNZET
 48ddc95	AUTOMATISCH
+3848f78	Video {0} van {1}
+d87409f	Prijs verloren: de video's moeten helemaal uitgekeken worden.
+14dcbe4	+{0}% energie
+330037c	{0} handen met {1}% geluk
+ff24786	BEKIJK RECLAMES
+375d55d	1 tot 3 korte video's
+f187dbf	BEKIJK
+64d31ad	BEKIJK 1 RECLAME?
+e77d414	BEKIJK {0} RECLAMES?
+8707135	Bekijk 1 video helemaal om {0} te krijgen. Stop je te vroeg, dan is de prijs verloren.
+88f8727	Bekijk {0} video's helemaal om {1} te krijgen. Stop je te vroeg, dan is de prijs verloren.
+7196e7c	START
+b967bda	NIET NU
+b10888c	Prijs gewonnen: {0}!

@@ -207,6 +207,8 @@ Yóò ṣetán ní ìṣẹ́jú-àáyá {0}
 +ṣíìpù ọ̀fẹ́ {0}!
 +1 ìdádúró ìtẹ̀léra!
 Kò sí fídíò báyìí. Gbìyànjú lẹ́ẹ̀kan sí i láìpẹ́.
+Fídíò {0} nínú {1}
+O ti pàdánù ẹ̀bùn: a gbọ́dọ̀ wo fídíò náà títí dé ìparí.
 BÀBÀ
 FÀDÁKÀ
 WÚRÀ
@@ -530,6 +532,18 @@ Káàdì kọ̀ọ̀kan ní àǹfààní yẹn láti wá sí àǹfààní rẹ, 
 Gba ààyè ibi tí o wà láti gba iye orílẹ̀-èdè rẹ
 Rírà kò sí nínú ẹ̀dà eré yìí.
 ÌSỌ ÌDÁNWÒ (kì í ṣe owó gidi)
++{0}% agbára
+ọwọ́ {0} pẹ̀lú oríire {1}%
+WO FÍDÍÒ
+fídíò kúkúrú 1 sí 3
+WO
+WO FÍDÍÒ 1?
+WO FÍDÍÒ {0}?
+Wo fídíò 1 títí dé ìparí láti gba {0}. Tí o bá dá dúró ní kùtùkùtù, ẹ̀bùn náà yóò lọ.
+Wo fídíò {0} títí dé ìparí láti gba {1}. Tí o bá dá dúró ní kùtùkùtù, ẹ̀bùn náà yóò lọ.
+BẸRẸ
+KÌ Í ṢE NÍ BÁYÌ
+A ti gba ẹ̀bùn: {0}!
 agbára
 +{0}% ṢÍÌPÙ
 ọwọ́ {0}

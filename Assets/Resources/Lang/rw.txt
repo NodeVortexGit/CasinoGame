@@ -207,6 +207,8 @@ Biriteguye mu masegonda {0}
 +amachipu {0} y'ubuntu!
 +1 gukonjesha urukurikirane!
 Nta mashusho ahari ubu. Ongera ugerageze nyuma gato.
+Video {0} muri {1}
+Igihembo cyatakaye: amashusho agomba kurebwa kugeza arangiye.
 UMURINGA
 IFEZA
 ZAHABU
@@ -530,6 +532,18 @@ Buri karita ifite ayo mahirwe yo gutangwa ku nyungu zawe, ku butege bwa blackjac
 Emerera kugera aho uherereye kugira ngo ubone igiciro cy'igihugu cyawe
 Kugura ntibiboneka muri iyi verisiyo y'umukino.
 IDUKA RY'IGERAGEZA (si amafaranga nyayo)
++{0}% imbaraga
+imikino {0} ifite amahirwe {1}%
+REBA AMASHUSHO
+amashusho magufi 1 kugeza kuri 3
+REBA
+REBA AMASHUSHO IMWE?
+REBA AMASHUSHO {0}?
+Reba video imwe kugeza irangiye kugira ngo ubone {0}. Niba uhagaritse hakiri kare, igihembo kirapfa.
+Reba amashusho {0} kugeza arangiye kugira ngo ubone {1}. Niba uhagaritse hakiri kare, igihembo kirapfa.
+TANGIRA
+OYA UBU
+Igihembo cyatsinzwe: {0}!
 imbaraga
 +{0}% AMACHIPU
 imikino {0}

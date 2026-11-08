@@ -658,3 +658,17 @@ e1ae457	Mateo
 1920e2f	Lượt mở đầu: đặt cược Pass Line rồi gieo. 7 hoặc 11 thắng, 2, 3 hoặc 12 thua. Cược Place bắt đầu có hiệu lực khi đã có điểm.
 99f4934	LUCKY ACE 7s  •  TRẢ ĐẾN 2.500× CƯỢC ĐƯỜNG CỦA BẠN
 48ddc95	QUAY TỰ ĐỘNG
+3848f78	Video {0} trên {1}
+d87409f	Mất phần thưởng: phải xem hết video mới được nhận.
+14dcbe4	+{0}% năng lượng
+330037c	{0} ván với {1}% may mắn
+ff24786	XEM VIDEO
+375d55d	1 đến 3 video ngắn
+f187dbf	XEM
+64d31ad	XEM 1 VIDEO?
+e77d414	XEM {0} VIDEO?
+8707135	Xem hết 1 video để nhận {0}. Nếu dừng giữa chừng, phần thưởng sẽ mất.
+88f8727	Xem hết {0} video để nhận {1}. Nếu dừng giữa chừng, phần thưởng sẽ mất.
+7196e7c	BẮT ĐẦU
+b967bda	ĐỂ SAU
+b10888c	Đã nhận phần thưởng: {0}!

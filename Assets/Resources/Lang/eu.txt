@@ -207,6 +207,8 @@ Prest {0} s barru
 +{0} doako fitxa!
 +1 bolada-izozte!
 Ez dago bideorik une honetan. Saiatu berriro pixka bat barru.
+{0}. bideoa, guztira {1}
+Saria galdu da: bideoak amaiera arte ikusi behar dira.
 BRONTZEA
 ZILARRA
 URREA
@@ -530,6 +532,18 @@ Karta bakoitzak aukera hori du zure alde banatzeko, gehienez {0} fitxako blackja
 Baimendu kokapenerako sarbidea zure herrialdeko prezioa lortzeko
 Erosketak ez daude erabilgarri jokoaren bertsio honetan.
 PROBA-DENDA (benetako dirurik gabe)
++%{0} energia
+{0} esku %{1} zorterekin
+IKUSI IRAGARKIAK
+1 eta 3 bideo labur
+IKUSI
+IKUSI 1 IRAGARKI?
+IKUSI {0} IRAGARKI?
+Ikusi bideo 1 amaiera arte {0} lortzeko. Lehenago uzten baduzu, saria galdu egiten da.
+Ikusi {0} bideo amaiera arte {1} lortzeko. Lehenago uzten baduzu, saria galdu egiten da.
+HASI
+ORAIN EZ
+Saria irabazi da: {0}!
 energia
 FITXA +%{0}
 {0} esku

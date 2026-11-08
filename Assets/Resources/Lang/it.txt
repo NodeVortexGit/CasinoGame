@@ -207,6 +207,8 @@ Pronto tra {0} s
 +{0} fiches gratis!
 +1 congelamento della serie!
 Nessun video disponibile ora. Riprova tra poco.
+Video {0} di {1}
+Premio perso: i video devono essere guardati fino alla fine.
 BRONZO
 ARGENTO
 ORO
@@ -530,6 +532,18 @@ Ogni carta ha quella probabilità di uscire a tuo favore, sulle puntate di black
 Consenti l'accesso alla posizione per avere il prezzo del tuo paese
 Gli acquisti non sono disponibili in questa versione del gioco.
 NEGOZIO DI PROVA (niente soldi veri)
++{0}% di energia
+{0} mani con il {1}% di fortuna
+GUARDA PUBBLICITÀ
+Da 1 a 3 brevi video
+GUARDA
+GUARDA 1 PUBBLICITÀ?
+GUARDA {0} PUBBLICITÀ?
+Guarda 1 video fino alla fine per ottenere {0}. Se ti fermi prima, il premio va perso.
+Guarda {0} video fino alla fine per ottenere {1}. Se ti fermi prima, il premio va perso.
+INIZIA
+NON ORA
+Premio vinto: {0}!
 energia
 +{0}% FICHES
 {0} mani

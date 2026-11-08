@@ -207,6 +207,8 @@ Tilbúið eftir {0} s
 +{0} ókeypis spilapeningar!
 +1 raðarfrysting!
 Ekkert myndband í boði núna. Reyndu aftur eftir smá stund.
+Myndband {0} af {1}
+Vinningur tapast: myndböndin verða að vera horfð til enda.
 BRONS
 SILFUR
 GULL
@@ -530,6 +532,18 @@ Hvert spil hefur þessar líkur á að koma þér í hag, í blackjack-veðmálu
 Leyfðu aðgang að staðsetningu til að fá verð landsins þíns
 Kaup eru ekki í boði í þessari útgáfu leiksins.
 PRÓFUNARVERSLUN (engir alvöru peningar)
++{0}% orka
+{0} hendur með {1}% heppni
+HORFA Á AUGLÝSINGAR
+1 til 3 stutt myndbönd
+HORFA
+HORFA Á 1 AUGLÝSINGU?
+HORFA Á {0} AUGLÝSINGAR?
+Horfðu á 1 myndband til enda til að fá {0}. Ef þú hættir snemma tapast vinningurinn.
+Horfðu á {0} myndbönd til enda til að fá {1}. Ef þú hættir snemma tapast vinningurinn.
+BYRJA
+EKKI NÚNA
+Vinningur unninn: {0}!
 orka
 +{0}% SPILAPENINGAR
 {0} hendur

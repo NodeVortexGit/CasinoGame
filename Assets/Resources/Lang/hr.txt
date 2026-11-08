@@ -207,6 +207,8 @@ Spremno za {0} s
 +{0} besplatnih žetona!
 +1 zamrzavanje niza!
 Trenutno nema dostupnog videozapisa. Pokušaj ponovno za trenutak.
+Videozapis {0} od {1}
+Nagrada je izgubljena: videozapise treba pogledati do kraja.
 BRONCA
 SREBRO
 ZLATO
@@ -530,6 +532,18 @@ Svaka karta ima tu šansu da dođe tebi u korist, kod uloga u blackjacku do {0} 
 Dopusti pristup lokaciji za cijenu svoje zemlje
 Kupnje nisu dostupne u ovoj verziji igre.
 TESTNA TRGOVINA (bez pravog novca)
++{0} % energije
+{0} ruku s {1} % sreće
+GLEDAJ OGLASE
+1 do 3 kratka videozapisa
+GLEDAJ
+GLEDAJ 1 OGLAS?
+GLEDAJ {0} OGLASA?
+Pogledajte 1 videozapis do kraja da biste dobili {0}. Ako prekinete preuranjeno, nagrada se gubi.
+Pogledajte {0} videozapisa do kraja da biste dobili {1}. Ako prekinete preuranjeno, nagrada se gubi.
+KRENI
+NE SAD
+Nagrada osvojena: {0}!
 energija
 +{0} % ŽETONA
 ruku: {0}

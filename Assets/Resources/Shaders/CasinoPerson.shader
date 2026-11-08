@@ -34,6 +34,8 @@ Shader "Casino/Person"
             #pragma fragment frag
             #pragma target 3.0
             #pragma multi_compile __ CASINO_REAL
+            // Only the hair, brows, lashes and eyes cut out; the rest stays fully opaque so mobile GPUs can use early depth.
+            #pragma multi_compile_local __ _ALPHATEST_ON
             #include "UnityCG.cginc"
             #include "CasinoLook.cginc"
 
@@ -84,7 +86,9 @@ Shader "Casino/Person"
             half4 frag(v2f i, fixed facing : VFACE) : SV_Target
             {
                 half4 c = tex2D(_MainTex, i.uv) * _Color;
+            #if _ALPHATEST_ON
                 clip(c.a - _Cutoff);
+            #endif
                 float3 n = normalize(i.normal) * (facing < 0 ? -1.0 : 1.0);   // two-sided hair lights its back faces too
                 float3 view = normalize(i.view);
                 float3 key = normalize(float3(0.3, 0.9, 0.0) + view * 0.7);

@@ -207,6 +207,8 @@ Pripravené o {0} s
 +{0} žetónov zadarmo!
 +1 zmrazenie série!
 Momentálne nie je k dispozícii žiadne video. Skús to o chvíľu.
+Video {0} z {1}
+Cena prepadla: videá treba pozrieť až do konca.
 BRONZ
 STRIEBRO
 ZLATO
@@ -530,6 +532,18 @@ Každá karta má takú šancu, že príde v tvoj prospech, pri stávkach v blac
 Povoľ prístup k polohe a získaj cenu pre svoju krajinu
 Nákupy nie sú v tejto verzii hry dostupné.
 TESTOVACÍ OBCHOD (žiadne skutočné peniaze)
++{0} % energie
+rúk {0} s {1} % šťastia
+POZRIEŤ VIDEÁ
+1 až 3 krátke videá
+POZRIEŤ
+POZRIEŤ 1 VIDEO?
+POZRIEŤ {0} VIDEÁ?
+Pozri si 1 video až do konca a získaš {0}. Ak skončíš skôr, cena prepadne.
+Pozri si {0} videá až do konca a získaš {1}. Ak skončíš skôr, cena prepadne.
+SPUSTIŤ
+NIE TERAZ
+Vyhraná cena: {0}!
 energia
 +{0} % ŽETÓNOV
 rúk: {0}

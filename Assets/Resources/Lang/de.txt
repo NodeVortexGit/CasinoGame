@@ -207,6 +207,8 @@ Bereit in {0} s
 +{0} Gratis-Chips!
 +1 Serien-Schutz!
 Gerade ist kein Video verfügbar. Versuch es gleich noch einmal.
+Video {0} von {1}
+Preis verloren: Die Videos müssen bis zum Ende angesehen werden.
 BRONZE
 SILBER
 GOLD
@@ -530,6 +532,18 @@ Jede Karte hat diese Chance, zu deinen Gunsten ausgeteilt zu werden, bei Blackja
 Erlaube den Standortzugriff, um den Preis für dein Land zu bekommen
 Käufe sind in dieser Version des Spiels nicht verfügbar.
 TEST-SHOP (kein echtes Geld)
++{0} % Energie
+{0} Hände mit {1} % Glück
+WERBUNG ANSEHEN
+1 bis 3 kurze Videos
+ANSEHEN
+1 WERBUNG ANSEHEN?
+{0} WERBUNGEN ANSEHEN?
+Schau dir 1 Video bis zum Ende an, um {0} zu erhalten. Wenn du vorher abbrichst, ist der Preis verloren.
+Schau dir {0} Videos bis zum Ende an, um {1} zu erhalten. Wenn du vorher abbrichst, ist der Preis verloren.
+START
+NICHT JETZT
+Preis gewonnen: {0}!
 Energie
 +{0} % CHIPS
 {0} Hände

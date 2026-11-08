@@ -658,3 +658,17 @@ e1ae457	Mateo
 1920e2f	Začetni met: stavi na Pass Line in vrzi. 7 ali 11 zmaga, 2, 3 ali 12 izgubi. Stave Place začnejo veljati, ko je točka.
 99f4934	LUCKY ACE 7s  •  IZPLAČA DO 2.500× TVOJE STAVE NA LINIJO
 48ddc95	SAMODEJNO
+3848f78	Video {0} od {1}
+d87409f	Nagrada propadla: videe je treba pogledati do konca.
+14dcbe4	+{0} % energije
+330037c	Rok: {0}, sreča {1} %
+ff24786	OGLEJ SI VIDEE
+375d55d	1 do 3 kratki videoposnetki
+f187dbf	OGLEJ
+64d31ad	OGLEJ SI 1 VIDEO?
+e77d414	OGLEJ SI {0} VIDEOPOSNETKE?
+8707135	Oglej si 1 video do konca, da dobiš {0}. Če prej nehaš, nagrada propade.
+88f8727	Oglej si {0} videe do konca, da dobiš {1}. Če prej nehaš, nagrada propade.
+7196e7c	ZAČNI
+b967bda	NE ZDAJ
+b10888c	Nagrada osvojena: {0}!

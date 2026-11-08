@@ -658,3 +658,17 @@ e1ae457	Mateo
 1920e2f	Pierwszy rzut: postaw na Pass Line i rzucaj. 7 lub 11 wygrywają; 2, 3 lub 12 przegrywają. Zakłady Place zaczynają działać, gdy jest punkt.
 99f4934	LUCKY ACE 7s  •  WYPŁATY DO 2500× ZAKŁADU NA LINIĘ
 48ddc95	AUTO OBRÓT
+3848f78	Film {0} z {1}
+d87409f	Nagroda przepadła: filmy trzeba obejrzeć do końca.
+14dcbe4	+{0}% energii
+330037c	{0} rozdań z {1}% szczęścia
+ff24786	OBEJRZYJ REKLAMY
+375d55d	1–3 krótkie filmy
+f187dbf	OBEJRZYJ
+64d31ad	OBEJRZYJ 1 REKLAMĘ?
+e77d414	OBEJRZYJ {0} REKLAMY?
+8707135	Obejrzyj 1 film do końca, aby otrzymać {0}. Jeśli przerwiesz wcześniej, nagroda przepadnie.
+88f8727	Obejrzyj {0} filmy do końca, aby otrzymać {1}. Jeśli przerwiesz wcześniej, nagroda przepadnie.
+7196e7c	START
+b967bda	NIE TERAZ
+b10888c	Zdobyto nagrodę: {0}!

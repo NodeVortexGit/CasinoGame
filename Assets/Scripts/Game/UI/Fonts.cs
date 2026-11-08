@@ -1,3 +1,4 @@
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -34,6 +35,31 @@ namespace Casino.UI
                 case FontKind.Semi: return semi ??= Load("Fonts/Poppins-SemiBold");
                 case FontKind.Bold: return bold ??= Load("Fonts/Poppins-Bold");
                 default: return body ??= Load("Fonts/Poppins-Regular");
+            }
+        }
+
+        const string CommonChars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789 .,:;!?'\"-+x%$()/&";
+
+        /// <summary>
+        /// Draws the common letters and digits of the current language's fonts at the sizes the UI uses into their glyph
+        /// atlases, a few sizes a frame, while the loading cover is up: otherwise the first screens do it mid-frame and hitch.
+        /// </summary>
+        public static IEnumerator Prewarm()
+        {
+            yield return null;   // the UI (and its canvas scale) exist from the next frame
+            var language = Loc.Current;
+            float scale = App.I != null && App.I.UI != null ? App.I.UI.Canvas.scaleFactor : 1f;
+            var done = new HashSet<Font>();
+            for (int k = 0; k < 4; k++)
+            {
+                var font = Get((FontKind)k);
+                if (font == null || !done.Add(font)) continue;
+                for (int size = 22; size <= 60; size++)
+                {
+                    font.RequestCharactersInTexture(CommonChars, Mathf.Max(1, Mathf.RoundToInt(size * scale)), FontStyle.Normal);
+                    if (size % 6 == 0) yield return null;
+                    if (Loc.Current != language) yield break;   // the language changed: its own prewarm has started
+                }
             }
         }
 

@@ -71,9 +71,30 @@ namespace Casino.Screens
             return t;
         }
 
+        float quietUntil;
+        string heldLine;
+        float heldFor;
+
+        /// <summary>
+        /// Clears the bubble and keeps it clear for <paramref name="seconds"/> (a result banner is up where it floats).
+        /// A line said meanwhile waits and is said once the banner has gone.
+        /// </summary>
+        public void Hush(float seconds)
+        {
+            bubble.Hide();
+            speakUntil = 0f;
+            quietUntil = Time.unscaledTime + seconds;
+        }
+
         /// <summary>The member of staff says a line (their mouth moves, the bubble floats over their head).</summary>
         public void Say(string line, float hold)
         {
+            if (Time.unscaledTime < quietUntil)
+            {
+                heldLine = line;
+                heldFor = hold;
+                return;
+            }
             if (Staff != null) Staff.Talk(Mathf.Clamp(line.Length * 0.045f, 1.2f, 3.5f));
             speakUntil = Time.unscaledTime + hold + line.Length * 0.022f + 0.4f;
             bubble.Say(line, hold, null, Staff == null ? VoicePitch.None : Staff.Female ? VoicePitch.High : VoicePitch.Low);
@@ -89,6 +110,12 @@ namespace Casino.Screens
                 if (fadeIn <= 0f) World.StartCoroutine(Tween.Fade(layerGroup, 1f, 0.3f));
             }
             if (Time.unscaledTime < speakUntil) PlaceBubble();
+            if (heldLine != null && Time.unscaledTime >= quietUntil)
+            {
+                string line = heldLine;
+                heldLine = null;
+                Say(line, heldFor);
+            }
         }
 
         void PlaceBubble()

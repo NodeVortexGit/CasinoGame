@@ -658,3 +658,17 @@ e1ae457	Mateo
 1920e2f	İlk atış: Pass Line-a mərc qoy, sonra at. 7 və ya 11 qazanır; 2, 3 və ya 12 uduzur. Place mərcləri xal olandan sonra işləməyə başlayır.
 99f4934	LUCKY ACE 7s  •  XƏTT MƏRCİNİ 2 500× QƏDƏR ÖDƏYİR
 48ddc95	AVTO FIRLAT
+3848f78	Video {0} / {1}
+d87409f	Mükafat itirildi: videolar sonadək izlənilməlidir.
+14dcbe4	+{0}% enerji
+330037c	{0} əl {1}% şansla
+ff24786	REKLAMLARA BAX
+375d55d	1-3 qısa video
+f187dbf	BAX
+64d31ad	1 REKLAMA BAX?
+e77d414	{0} REKLAMA BAX?
+8707135	1 videonu sonadək izləyin ki, {0} qazanasınız. Erkən dayandırsanız, mükafat itirilir.
+88f8727	{0} videonu sonadək izləyin ki, {1} qazanasınız. Erkən dayandırsanız, mükafat itirilir.
+7196e7c	BAŞLA
+b967bda	HƏLƏ YOX
+b10888c	Mükafat qazanıldı: {0}!

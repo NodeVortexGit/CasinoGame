@@ -207,6 +207,8 @@ Paruošta po {0} s
 +{0} nemokamų žetonų!
 +1 serijos užšaldymas!
 Šiuo metu vaizdo įrašų nėra. Pabandyk po akimirkos.
+Vaizdo įrašas {0} iš {1}
+Prizas prarastas: vaizdo įrašus reikia pažiūrėti iki galo.
 BRONZA
 SIDABRAS
 AUKSAS
@@ -530,6 +532,18 @@ Kiekviena korta turi tokią tikimybę būti išdalyta tau palankiai, kai blackja
 Leisk pasiekti vietą, kad gautum savo šalies kainą
 Pirkimai šioje žaidimo versijoje negalimi.
 BANDOMOJI PARDUOTUVĖ (be tikrų pinigų)
++{0}% energijos
+{0} rankų su {1}% sėkme
+ŽIŪRĖTI REKLAMAS
+1–3 trumpi vaizdo įrašai
+ŽIŪRĖTI
+ŽIŪRĖTI 1 REKLAMĄ?
+ŽIŪRĖTI {0} REKLAMAS?
+Pažiūrėk 1 vaizdo įrašą iki galo, kad gautum {0}. Jei sustosi anksčiau, prizas prarandamas.
+Pažiūrėk {0} vaizdo įrašus iki galo, kad gautum {1}. Jei sustosi anksčiau, prizas prarandamas.
+PRADĖTI
+NE DABAR
+Prizas laimėtas: {0}!
 energija
 +{0}% ŽETONŲ
 rankų: {0}

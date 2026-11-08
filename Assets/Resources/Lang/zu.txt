@@ -207,6 +207,8 @@ Kuzolungela emizuzwaneni engu-{0}
 +amashipsi amahhala angu-{0}!
 +1 ukuqandisa uchungechunge!
 Ayikho ividiyo okwamanje. Zama futhi ngemuva kwesikhashana.
+Ividiyo {0} kwangu-{1}
+Umklomelo ulahlekile: amavidiyo kumele abukwe kuze kuphele.
 ITHUSI
 ISILIVA
 IGOLIDE
@@ -530,6 +532,18 @@ Ikhadi ngalinye linalelo thuba lokunikezwa ngendlela ekuzuzisayo, ekubhejeni kwe
 Vumela ukufinyelela endaweni ukuze uthole intengo yezwe lakho
 Ukuthenga akutholakali kulolu hlelo lomdlalo.
 ISITOLO SOKUHLOLA (akusiyo imali yangempela)
++{0}% amandla
+izandla ezingu-{0} ngenhlanhla engu-{1}%
+BUKA AMAVIDIYO
+amavidiyo amafushane angu-1 kuya kwangu-3
+BUKA
+BUKA IVIDIYO EYODWA?
+BUKA AMAVIDIYO angu-{0}?
+Buka ividiyo eyodwa kuze kuphele ukuze uthole {0}. Uma uyima kusenesikhathi, umklomelo uyalahleka.
+Buka amavidiyo angu-{0} kuze kuphele ukuze uthole {1}. Uma uyima kusenesikhathi, umklomelo uyalahleka.
+QALA
+HHAYI MANJE
+Umklomelo uwinwe: {0}!
 amandla
 +{0}% AMASHIPSI
 izandla ezingu-{0}

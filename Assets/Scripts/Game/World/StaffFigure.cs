@@ -33,6 +33,9 @@ namespace Casino.World
         public string StaffName => Loc.T(EnglishName);
         public string EnglishName { get; private set; }
         public StaffPose Pose { get; private set; }
+        /// <summary>The camera was within animation range last frame (the world widens its range for these, so they don't flicker at the edge).</summary>
+        public bool Near { get; private set; }
+        public bool Talking => Time.time < talkUntil;
 
         /// <summary>World position just above the head, for speech bubbles.</summary>
         public Vector3 HeadPoint => (head != null ? head.position : transform.position + Vector3.up * 1.6f) + Vector3.up * 0.28f;
@@ -50,6 +53,12 @@ namespace Casino.World
         Material[] hairMaterials = new Material[0], materials = new Material[0];
         Transform tray;
         Renderer contactShadow;
+        SkinnedMeshRenderer[] skins = new SkinnedMeshRenderer[0];
+        Renderer trayRenderer;
+        bool drawn = true, shadowWanted, animatorOn = true, fullSkin = true;
+        float camDist;
+        static readonly int SwayId = Shader.PropertyToID("_Sway"), HeadYId = Shader.PropertyToID("_HeadY");
+        const float FingerDistance = 7f;   // farther than this the relaxed fingers are a pixel or two: leave the animation's
         readonly SpringChain hair = new SpringChain(3) { Stiffness = 38f, Damping = 3f, MaxOffset = 0.07f };
         float baseYaw, bodyYaw, phase, talkUntil, waveUntil, nodUntil, nextGesture, gestureUntil;
         const float TalkGestureTime = 1.5f;
@@ -169,6 +178,7 @@ namespace Casino.World
             fig.nextGesture = Time.time + 3f + fig.phase;
             fig.baseYaw = fig.bodyYaw = yaw;
             fig.Setup(look, tint);
+            fig.enabled = pose == StaffPose.Tray;   // LateUpdate only solves the tray arm
             foreach (var t in go.GetComponentsInChildren<Transform>(true)) t.gameObject.layer = Layer;
             return fig;
         }
@@ -235,7 +245,8 @@ namespace Casino.World
             var hairList = new System.Collections.Generic.List<Material>();
             var all = new System.Collections.Generic.List<Material>();
             Color rim = Female ? new Color(1f, 0.42f, 0.78f) : new Color(0.45f, 0.75f, 1f);
-            foreach (var r in GetComponentsInChildren<SkinnedMeshRenderer>())
+            skins = GetComponentsInChildren<SkinnedMeshRenderer>();
+            foreach (var r in skins)
             {
                 r.shadowCastingMode = UnityEngine.Rendering.ShadowCastingMode.Off;
                 r.receiveShadows = false;
@@ -258,6 +269,7 @@ namespace Casino.World
                     {
                         // Brows and lashes are fine hairs: a lower cut-off keeps them solid instead of dashed.
                         m.SetFloat("_Cutoff", fringe ? 0.3f : 0.45f);
+                        m.EnableKeyword("_ALPHATEST_ON");
                         m.SetFloat("_Cull", 0f);
                         m.renderQueue = 2450;
                         if (hairLike)
@@ -279,8 +291,11 @@ namespace Casino.World
                     }
                     else if (n.Contains("shoes"))
                     {
+                        // The women's model wears knit trainers (with a brand mark on them): tinted, the knit and laces read
+                        // as socks. Plain patent leather in the role's colour reads as dress shoes.
+                        if (Female) m.mainTexture = Texture2D.whiteTexture;
                         m.SetColor("_Color", Female ? ShoeColor(Role) : new Color(0.25f, 0.22f, 0.24f));
-                        m.SetFloat("_Gloss", 0.6f);
+                        m.SetFloat("_Gloss", Female ? 0.85f : 0.6f);
                     }
                     else if (n.Contains("eye") || n.Contains("high-poly") || n.Contains("low-poly"))
                     {
@@ -288,6 +303,7 @@ namespace Casino.World
                         // covers the eye in black.
                         m.SetFloat("_Gloss", 0.9f);
                         m.SetFloat("_Cutoff", 0.5f);
+                        m.EnableKeyword("_ALPHATEST_ON");
                     }
                     else if (n.Contains("teeth"))
                     {
@@ -345,7 +361,19 @@ namespace Casino.World
                 contactShadow.shadowCastingMode = UnityEngine.Rendering.ShadowCastingMode.Off;
                 contactShadow.receiveShadows = false;
             }
-            contactShadow.enabled = on;
+            shadowWanted = on;
+            contactShadow.enabled = on && drawn;
+        }
+
+        /// <summary>Shows or hides the whole figure (and its tray and floor shadow) for the world's visibility culling; does nothing if unchanged.</summary>
+        public void SetDrawn(bool on)
+        {
+            if (drawn == on) return;
+            drawn = on;
+            foreach (var r in skins)
+                if (r != null) r.enabled = on;
+            if (trayRenderer != null) trayRenderer.enabled = on;
+            if (contactShadow != null) contactShadow.enabled = on && shadowWanted;
         }
 
         static Color SuitColor(StaffRole role)
@@ -359,7 +387,7 @@ namespace Casino.World
         }
 
         static Color ShoeColor(StaffRole role) =>
-            role == StaffRole.Server ? new Color(1f, 0.3f, 0.35f) : role == StaffRole.Host ? new Color(1f, 0.85f, 0.45f) : new Color(0.3f, 0.28f, 0.3f);
+            role == StaffRole.Server ? new Color(1f, 0.3f, 0.35f) : role == StaffRole.Host ? new Color(1f, 0.85f, 0.45f) : new Color(0.07f, 0.06f, 0.07f);
 
         /// <summary>Satin dress print: role colour, gold (or black) trims at the neckline and hem, sequins, a corset for servers.</summary>
         static Texture2D DressTexture(StaffRole role, AvatarLook look)
@@ -416,6 +444,7 @@ namespace Casino.World
             mr.sharedMaterial = new Material(Resources.Load<Shader>("Shaders/CasinoWorld")) { mainTexture = Texture2D.whiteTexture };
             mr.shadowCastingMode = UnityEngine.Rendering.ShadowCastingMode.Off;
             tray = go.transform;
+            trayRenderer = mr;
         }
 
         // ------------------------------------------------------------------ behaviour
@@ -449,6 +478,7 @@ namespace Casino.World
         public void Animate(Camera cam, float dt, bool near)
         {
             if (dt <= 0f) return;
+            Near = near;
             lookCam = cam;
             Vector3 pos = transform.position;
             if (!started)
@@ -465,7 +495,7 @@ namespace Casino.World
             Vector3 toCam = cam.transform.position - pos;
             toCam.y = 0f;
             float camYaw = Mathf.Atan2(toCam.x, toCam.z) * Mathf.Rad2Deg;
-            float camDist = toCam.magnitude;
+            camDist = toCam.magnitude;
             float targetYaw = baseYaw;
             if (speed > 0.15f) targetYaw = Mathf.Atan2(vel.x, vel.z) * Mathf.Rad2Deg;
             else if (Pose == StaffPose.Tray) targetYaw = camDist < 3.5f ? camYaw : bodyYaw;
@@ -505,8 +535,21 @@ namespace Casino.World
                 }
                 Play(Idle, 0.35f);
             }
-            animator.enabled = near || speed > 0.05f || !posed;
-            this.near = animator.enabled;
+            // Off for anyone out of sight (hidden by the world's culling) or far away and standing still.
+            bool on = drawn && (near || speed > 0.05f || !posed);
+            if (on != animatorOn)
+            {
+                animatorOn = on;
+                animator.enabled = on;
+            }
+            this.near = on;
+            if (near != fullSkin)
+            {
+                // Far figures are a few pixels tall: one bone per vertex skins them for a fraction of the cost.
+                fullSkin = near;
+                foreach (var r in skins)
+                    if (r != null) r.quality = near ? SkinQuality.Auto : SkinQuality.Bone1;
+            }
             lookWeight = Mathf.MoveTowards(lookWeight, camDist < 6f && Mathf.Abs(Mathf.DeltaAngle(bodyYaw, camYaw)) < 110f ? 1f : 0f, dt * 1.5f);
 
             if (near) Hair(dt);
@@ -547,11 +590,13 @@ namespace Casino.World
             float ax = Mathf.Clamp(Vector3.Dot(a, right), -25f, 25f), az = Mathf.Clamp(Vector3.Dot(a, fwd), -25f, 25f);
             float breeze = Mathf.Sin(Time.time * 1.1f + phase) * 0.18f;
             hair.Step(dt, ax, az, breeze, 0f);
-            Vector3 sway = right * hair.OffsetX(2) + fwd * hair.OffsetY(2);
+            // Long hair hangs down the back: it may swing sideways and back, never forwards into the body, and the hanging
+            // lengths sit a little off the back (the shader scales this by how far below the head they hang).
+            Vector3 sway = right * hair.OffsetX(2) + fwd * (Mathf.Min(hair.OffsetY(2), 0f) - 0.025f);
             foreach (var m in hairMaterials)
             {
-                m.SetVector("_Sway", sway);
-                m.SetFloat("_HeadY", hp.y + 0.05f);
+                m.SetVector(SwayId, sway);
+                m.SetFloat(HeadYId, hp.y + 0.05f);
             }
         }
 
@@ -563,25 +608,30 @@ namespace Casino.World
         {
             if (animator == null) return;
             posed = true;
+            float now = Time.time;
             if (lookCam != null && lookWeight > 0.01f)
             {
                 Vector3 look = lookCam.transform.position;
-                if (Time.time < talkUntil)
+                if (now < talkUntil)
                 {
                     // Small nods and tilts on the words (a few degrees, whatever the distance).
-                    float t = Time.time + phase, d = Vector3.Distance(look, transform.position);
+                    float t = now + phase, d = Vector3.Distance(look, transform.position);
                     look += d * (Vector3.up * (Mathf.Sin(t * 4.7f) * 0.06f + Mathf.Sin(t * 1.9f) * 0.03f) + transform.right * Mathf.Sin(t * 1.3f) * 0.05f);
                 }
                 animator.SetLookAtWeight(lookWeight, 0.12f, 0.75f, 1f, 0.55f);
                 animator.SetLookAtPosition(look);
             }
-            foreach (var j in fingers) animator.SetBoneLocalRotation(j.Bone, j.Relaxed);
-            if (jaw != null && Time.time < talkUntil)
-                animator.SetBoneLocalRotation(HumanBodyBones.Jaw, jawRest * Quaternion.Euler(Mathf.Abs(Mathf.Sin(Time.time * 11f + phase)) * 9f, 0f, 0f));
-            float slide = (Time.time - slideStart) / slideTime;
+            if (camDist < FingerDistance)
+                foreach (var j in fingers) animator.SetBoneLocalRotation(j.Bone, j.Relaxed);
+            // The clips carry no jaw, and left alone the humanoid rig holds it half open: closed unless talking.
+            if (jaw != null)
+                animator.SetBoneLocalRotation(HumanBodyBones.Jaw, now < talkUntil
+                    ? jawRest * Quaternion.Euler(Mathf.Abs(Mathf.Sin(now * 11f + phase)) * 9f, 0f, 0f)
+                    : jawRest);
+            float slide = (now - slideStart) / slideTime;
             bool sliding = slide >= 0f && slide < 1.5f;
-            float g = (Time.time - talkGestureStart) / TalkGestureTime;
-            bool waving = Time.time < waveUntil;
+            float g = (now - talkGestureStart) / TalkGestureTime;
+            bool waving = now < waveUntil;
             if (!sliding && g >= 0f && g < 1f && !(talkGestureLeft ? leftArm == null : rightArm == null || trayPosed || waving))
             {
                 // Open hand at waist height, forward and out to the side: well clear of the body.
@@ -620,10 +670,10 @@ namespace Casino.World
             }
             else if (waving && rightArm != null)
             {
-                float w = Mathf.Clamp01((waveUntil - Time.time) * 2f) * Mathf.Clamp01((Time.time - (waveUntil - 2.4f)) * 3f);
+                float w = Mathf.Clamp01((waveUntil - now) * 2f) * Mathf.Clamp01((now - (waveUntil - 2.4f)) * 3f);
                 Vector3 shoulder = rightArm.Upper.position, up = Vector3.up, right = transform.right;
                 animator.SetIKPositionWeight(AvatarIKGoal.RightHand, w);
-                animator.SetIKPosition(AvatarIKGoal.RightHand, shoulder + right * (0.2f + Mathf.Sin(Time.time * 9f) * 0.06f) + up * 0.36f + transform.forward * 0.1f);
+                animator.SetIKPosition(AvatarIKGoal.RightHand, shoulder + right * (0.2f + Mathf.Sin(now * 9f) * 0.06f) + up * 0.36f + transform.forward * 0.1f);
                 animator.SetIKHintPositionWeight(AvatarIKHint.RightElbow, w);
                 animator.SetIKHintPosition(AvatarIKHint.RightElbow, shoulder + right * 0.4f - up * 0.1f);
             }

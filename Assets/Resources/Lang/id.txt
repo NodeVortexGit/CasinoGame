@@ -207,6 +207,8 @@ Siap dalam {0} dtk
 +{0} chip gratis!
 +1 pembeku rentetan!
 Saat ini tidak ada video. Coba lagi sebentar lagi.
+Video {0} dari {1}
+Hadiah hilang: video harus ditonton sampai selesai.
 PERUNGGU
 PERAK
 EMAS
@@ -530,6 +532,18 @@ Setiap kartu punya peluang itu untuk dibagikan menguntungkanmu, pada taruhan bla
 Izinkan akses lokasi untuk mendapatkan harga negaramu
 Pembelian tidak tersedia di versi game ini.
 TOKO UJI (bukan uang sungguhan)
++{0}% energi
+{0} tangan dengan {1}% keberuntungan
+TONTON IKLAN
+1 sampai 3 video singkat
+TONTON
+TONTON 1 IKLAN?
+TONTON {0} IKLAN?
+Tonton 1 video sampai selesai untuk mendapatkan {0}. Jika berhenti lebih awal, hadiahnya hilang.
+Tonton {0} video sampai selesai untuk mendapatkan {1}. Jika berhenti lebih awal, hadiahnya hilang.
+MULAI
+NANTI SAJA
+Hadiah didapat: {0}!
 energi
 +{0}% CHIP
 {0} tangan

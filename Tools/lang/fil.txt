@@ -658,3 +658,17 @@ e1ae457	Mateo
 1920e2f	Unang hagis: tumaya sa Pass Line at ihagis. Ang 7 o 11 ang panalo, ang 2, 3 o 12 ang talo. Umaandar ang mga place bet kapag may point na.
 99f4934	LUCKY ACE 7s  •  NAGBABAYAD HANGGANG 2,500× NG IYONG TAYA SA LINYA
 48ddc95	AUTO IKOT
+3848f78	Video {0} ng {1}
+d87409f	Nawala ang premyo: kailangang panoorin nang buo ang mga video.
+14dcbe4	+{0}% lakas
+330037c	{0} kamay na may {1}% swerte
+ff24786	MANOOD NG MGA AD
+375d55d	1 hanggang 3 maikling video
+f187dbf	MANOOD
+64d31ad	MANOOD NG 1 AD?
+e77d414	MANOOD NG {0} AD?
+8707135	Panoorin nang buo ang 1 video para makuha ang {0}. Kung titigil nang maaga, mawawala ang premyo.
+88f8727	Panoorin nang buo ang {0} na video para makuha ang {1}. Kung titigil nang maaga, mawawala ang premyo.
+7196e7c	SIMULAN
+b967bda	HUWAG MUNA
+b10888c	Napanalunan ang premyo: {0}!

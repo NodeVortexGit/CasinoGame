@@ -207,6 +207,8 @@ Pront en {0} s
 +{0} fischas gratuitas!
 +1 congelaziun da seria!
 Actualmain nagin video disponibel. Emprova puspè en in mument.
+Video {0} da {1}
+Premi pers: ils videos stuan vegnir guardads fin la fin.
 BRONZ
 ARGIENT
 AUR
@@ -530,6 +532,18 @@ Mintga carta ha questa schanza da vegnir a tes favur, tar scumessas da blackjack
 Permetta l'access a la posiziun per survegnir il prezi da tes pajais
 Cumpras n'èn betg disponiblas en questa versiun dal gieu.
 BUTIA DA TEST (nagins daners vairs)
++{0} % energia
+{0} mauns cun {1} % fortuna
+GUARDA VIDEOS
+1 fin 3 videos curts
+GUARDA
+GUARDA 1 VIDEO?
+GUARDA {0} VIDEOS?
+Guarda 1 video fin al fin per ottegnir {0}. Sche ti smettas baud, il premi vegn pers.
+Guarda {0} videos fin al fin per ottegnir {1}. Sche ti smettas baud, il premi vegn pers.
+COMENCHA
+BETG USSA
+Premi guadagnà: {0}!
 energia
 +{0} % FISCHAS
 {0} mauns

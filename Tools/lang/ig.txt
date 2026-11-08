@@ -658,3 +658,17 @@ b7193bc	Sic bo dị na nkuku gafere onye ego: dice atọ, ukwu ma ọ bụ obere
 1920e2f	Ntụba mbụ: tinye nzọ na Pass Line, wee tụba. 7 ma ọ bụ 11 na-emeri; 2, 3 ma ọ bụ 12 na-efunahụ. Nzọ place na-amalite ịrụ ọrụ mgbe e nwere point.
 99f4934	LUCKY ACE 7s  •  NA-AKWỤ RUO 2,500× NZỌ AHỊRỊ GỊ
 48ddc95	AUTO TỤGHARỊA
+3848f78	Vidiyo {0} n'ime {1}
+d87409f	Ihe nrite furu efu: a ga-ekiri vidiyo ndị ahụ ruo n'ọgwụgwụ.
+14dcbe4	+{0}% ike
+330037c	{0} aka na chi ọma {1}%
+ff24786	LEE MGBASA OZI
+375d55d	Vidiyo dị mkpụmkpụ 1 ruo 3
+f187dbf	LEE
+64d31ad	LEE 1 MGBASA OZI?
+e77d414	LEE {0} MGBASA OZI?
+8707135	Lee vidiyo 1 ruo n'ọgwụgwụ ka ị nweta {0}. Ọ bụrụ na ị kwụsị n'oge, ihe nrite ahụ furu efu.
+88f8727	Lee vidiyo {0} ruo n'ọgwụgwụ ka ị nweta {1}. Ọ bụrụ na ị kwụsị n'oge, ihe nrite ahụ furu efu.
+7196e7c	BIDO
+b967bda	ỌBỤGHỊ UGBU A
+b10888c	Ihe nrite nwetara: {0}!

@@ -207,6 +207,8 @@ A punt d'aquí a {0} s
 +{0} fitxes gratis!
 +1 congelació de ratxa!
 Ara mateix no hi ha cap vídeo disponible. Torna-ho a provar d'aquí a una estona.
+Vídeo {0} de {1}
+Premi perdut: els vídeos s'han de veure fins al final.
 BRONZE
 PLATA
 OR
@@ -530,6 +532,18 @@ Cada carta té aquesta probabilitat de sortir al teu favor, en apostes de blackj
 Permet l'accés a la ubicació per obtenir el preu del teu país
 Les compres no estan disponibles en aquesta versió del joc.
 BOTIGA DE PROVA (sense diners reals)
++{0}% d'energia
+{0} mans amb un {1}% de sort
+MIRA ANUNCIS
+De 1 a 3 vídeos curts
+MIRA
+MIRA 1 ANUNCI?
+MIRA {0} ANUNCIS?
+Mira 1 vídeo fins al final per guanyar {0}. Si ho atures abans, el premi es perd.
+Mira {0} vídeos fins al final per guanyar {1}. Si ho atures abans, el premi es perd.
+COMENÇA
+ARA NO
+Premi guanyat: {0}!
 energia
 +{0}% FITXES
 {0} mans

@@ -197,6 +197,7 @@ namespace Casino.World
             for (float d = 2f; d < len - 1f; d += 3.5f)
             {
                 Vector3 p = a + along * d + up * 2.55f + inward * 0.12f;
+                if (p.z < MinZ + 0.5f && p.x > 3.6f && p.x < 7.8f) continue;   // the cashier booth stands against this stretch
                 plain.Box(p - up * 0.2f - inward * 0.07f, new Vector3(0.1f, 0.3f, 0.04f), Gold);
                 plain.Bar(p - up * 0.12f - inward * 0.06f, p - up * 0.02f, 0.025f, Gold);
                 plain.Emission = 1.5f;
@@ -355,11 +356,25 @@ namespace Casino.World
 
         // ------------------------------------------------------------------ cashier
 
+        /// <summary>The floor rectangle between two turned corners, whichever way round they came out.</summary>
+        static Obstacle TurnedRect(Vector3 a, Vector3 b) =>
+            Obstacle.Rect(Mathf.Min(a.x, b.x), Mathf.Min(a.z, b.z), Mathf.Max(a.x, b.x), Mathf.Max(a.z, b.z));
+
         void Cashier()
         {
-            // A gilded booth just inside the entrance, on the right, with a service window facing the runway.
-            const float x0 = 3.8f, x1 = 7.6f, z0 = -10.2f, z1 = -6.6f;
+            // A gilded booth just inside the entrance, on the right. It is laid out with its service window to the west
+            // (x0) and then turned a quarter round, so the window faces the room and the back wall stands on the south wall.
+            const float x0 = 3.8f, x1 = 7.6f, z0 = -10.9f, z1 = -7.3f;
             float cz = (z0 + z1) * 0.5f;
+            var turn = Quaternion.Euler(0f, 90f, 0f);
+            var pivot = new Vector3((x0 + x1) * 0.5f, 0f, cz);
+            Vector3 At(Vector3 local) => pivot + turn * (local - pivot);
+            damask.BeginTurn(pivot, turn);
+            wood.BeginTurn(pivot, turn);
+            marble.BeginTurn(pivot, turn);
+            plain.BeginTurn(pivot, turn);
+            glows.BeginTurn(pivot, turn);
+            rig.BeginTurn(pivot, turn);
             // back and side walls of the booth
             damask.Box(new Vector3(x1 - 0.1f, 0, cz), new Vector3(0.2f, 3.4f, z1 - z0), Color.white, true, false, 1f);
             damask.Box(new Vector3((x0 + x1) * 0.5f, 0, z1 - 0.1f), new Vector3(x1 - x0, 3.4f, 0.2f), Color.white, true, false, 1f);
@@ -378,8 +393,8 @@ namespace Casino.World
             plain.Box(new Vector3(x0 + 0.2f, 2.7f, cz), new Vector3(0.4f, 0.7f, z1 - z0 + 0.2f), Lacquer);
             plain.Box(new Vector3((x0 + x1) * 0.5f, 3.4f, cz), new Vector3(x1 - x0 + 0.2f, 0.1f, z1 - z0 + 0.2f), Gold);
             Marquee(new Vector3(x0 - 0.02f, 3.05f, cz), z1 - z0, 0.7f, Vector3.left, Gold);
-            Sign(() => Loc.T("CASHIER"), new Vector3(x0 - 0.04f, 3.1f, cz), 90f, 3.2f, 0.55f, Palette.GoldLight, FontKind.Display);
-            Sign(() => Loc.T("CHIPS  •  BONUSES"), new Vector3(x0 - 0.04f, 2.78f, cz), 90f, 3.2f, 0.2f, Color.white, FontKind.Display);
+            Sign(() => Loc.T("CASHIER"), At(new Vector3(x0 - 0.04f, 3.1f, cz)), 90f + turn.eulerAngles.y, 3.2f, 0.55f, Palette.GoldLight, FontKind.Display);
+            Sign(() => Loc.T("CHIPS  •  BONUSES"), At(new Vector3(x0 - 0.04f, 2.78f, cz)), 90f + turn.eulerAngles.y, 3.2f, 0.2f, Color.white, FontKind.Display);
             // a wall of chip stacks behind the cashier
             for (int i = 0; i < 18; i++)
             {
@@ -392,21 +407,27 @@ namespace Casino.World
             rig.Light(new Vector3(x0 + 1.4f, 2.8f, cz), new Color(1f, 0.82f, 0.45f), 4.5f, 1.2f);
             rig.Light(new Vector3(x0 - 1.2f, 2.4f, cz), new Color(1f, 0.85f, 0.6f), 3.5f, 0.7f);
             rig.Shadow(new Vector3(x0 + 0.4f, 0, cz), new Vector2(0.45f, (z1 - z0) * 0.5f));
-            obstacles.Add(Obstacle.Rect(x0, z0, x1 + 0.3f, z1));
-            sightBlockers.Add(Obstacle.Rect(x0, z0, x1, z1));
+            damask.EndTurn();
+            wood.EndTurn();
+            marble.EndTurn();
+            plain.EndTurn();
+            glows.EndTurn();
+            rig.EndTurn();
+            obstacles.Add(TurnedRect(At(new Vector3(x0, 0, z0)), At(new Vector3(x1, 0, z1))));
+            sightBlockers.Add(TurnedRect(At(new Vector3(x0, 0, z0)), At(new Vector3(x1, 0, z1))));
 
-            int cashier = SpawnStaff(new Vector3(x0 + 1.0f, 0, cz), -90f, StaffRole.Cashier, 0, StaffPose.Counter);
+            int cashier = SpawnStaff(At(new Vector3(x0 + 1.0f, 0, cz)), -90f + turn.eulerAngles.y, StaffRole.Cashier, 0, StaffPose.Counter);
             spots.Add(new Spot
             {
                 Title = () => Loc.T("BUY CHIPS"),
                 Subtitle = () => Loc.T("Cashier"),
                 Icon = Icon.Coin,
                 Style = ButtonStyle.Gold,
-                Focus = new Vector3(x0 + 0.4f, 1.3f, cz),
+                Focus = At(new Vector3(x0 + 0.4f, 1.3f, cz)),
                 TapRadius = 1.6f,
                 UseDistance = 3.2f,
-                Approach = new Vector2(x0 - 1.0f, cz),
-                ApproachYaw = 90f,
+                Approach = new Vector2(At(new Vector3(x0 - 1.0f, 0, cz)).x, At(new Vector3(x0 - 1.0f, 0, cz)).z),
+                ApproachYaw = 90f + turn.eulerAngles.y,
                 Use = () => App.I.UI.Modal<ShopModal>(m => m.StartTab = ShopTab.Chips),
                 StaffIndex = cashier,
             });
@@ -521,10 +542,10 @@ namespace Casino.World
         const float KidneyRadius = 1.5f;
 
         /// <summary>Where the betting spot of seat <paramref name="i"/> (0-4, left to right) lies on a kidney table's felt.</summary>
-        static Vector3 SeatSpot(Vector3 c, int i, float inset = 0.45f)
+        static Vector3 SeatSpot(Vector3 c, int i, float inset = 0.45f, float yaw = 0f)
         {
             float a = (126f + i * 27f) * Mathf.Deg2Rad;
-            return c + new Vector3(Mathf.Sin(a), 0, Mathf.Cos(a)) * (KidneyRadius - inset) + Vector3.up * 0.85f;
+            return c + Quaternion.Euler(0f, yaw, 0f) * new Vector3(Mathf.Sin(a), 0, Mathf.Cos(a)) * (KidneyRadius - inset) + Vector3.up * 0.85f;
         }
 
         /// <summary>
@@ -532,9 +553,15 @@ namespace Casino.World
         /// a chip tray, a card shoe and a hanging lamp whose lit sign reads <paramref name="sign"/>.
         /// </summary>
         /// <param name="trayZ">Where the chip tray sits: games with a row of cards for the dealer push it back to the edge.</param>
-        void KidneyTable(Vector3 c, Color felt, Color accent, Func<string> sign, float trayZ = -0.2f)
+        /// <param name="yaw">Turns the whole table about its centre (180 puts the dealer to the south).</param>
+        void KidneyTable(Vector3 c, Color felt, Color accent, Func<string> sign, float trayZ = -0.2f, float yaw = 0f)
         {
             const float r = KidneyRadius;
+            var turn = Quaternion.Euler(0f, yaw, 0f);
+            wood.BeginTurn(c, turn);
+            plain.BeginTurn(c, turn);
+            glows.BeginTurn(c, turn);
+            rig.BeginTurn(c, turn);
             wood.Cylinder(c, r - 0.35f, 0.72f, 24, Color.white, false, r - 0.05f, 90f, 270f);
             plain.Cylinder(c + Vector3.up * 0.72f, r + 0.1f, 0.12f, 28, Leather, false, r + 0.12f, 90f, 270f);
             plain.Disc(c + Vector3.up * 0.84f, r + 0.12f, 28, Leather, 90f, 270f);
@@ -567,14 +594,22 @@ namespace Casino.World
             plain.Bar(lamp + new Vector3(-0.9f, 0.32f, 0), new Vector3(c.x - 0.9f, CeilingY + 1f, c.z - 0.2f), 0.02f, Gold);
             plain.Bar(lamp + new Vector3(0.9f, 0.32f, 0), new Vector3(c.x + 0.9f, CeilingY + 1f, c.z - 0.2f), 0.02f, Gold);
             Marquee(lamp + new Vector3(0, 0.16f, -0.31f), 2.4f, 0.32f, Vector3.back, accent, 0.09f);
-            Sign(sign, lamp + new Vector3(0, 0.17f, -0.32f), 0f, 2.3f, 0.26f, accent, FontKind.Display);
+            Sign(sign, c + turn * (lamp + new Vector3(0, 0.17f, -0.32f) - c), yaw, 2.3f, 0.26f, accent, FontKind.Display);
             glows.Add(lamp - Vector3.up * 0.1f, Warm * 0.5f, 2.6f);
             rig.Light(lamp - Vector3.up * 0.4f, new Color(1f, 0.92f, 0.8f), 4.2f, 1.25f);
             rig.Light(c + new Vector3(0, 1.6f, -2.2f), new Color(1f, 0.8f, 0.7f), 3f, 0.45f);
             rig.Shadow(c, new Vector2(r * 0.8f, r * 0.45f), 0.5f);
 
-            obstacles.Add(Obstacle.Round(c.x, c.z - 0.25f, 2.0f));
-            obstacles.Add(Obstacle.Rect(c.x - r - 0.2f, c.z - 0.2f, c.x + r + 0.2f, c.z + 1.1f));
+            wood.EndTurn();
+            plain.EndTurn();
+            glows.EndTurn();
+            rig.EndTurn();
+
+            Vector3 round = c + turn * new Vector3(0f, 0f, -0.25f);
+            obstacles.Add(Obstacle.Round(round.x, round.z, 2.0f));
+            // the dealer's strip behind the straight side, on whichever side the turn puts it
+            Vector3 lo = c + turn * new Vector3(-r - 0.2f, 0f, -0.2f), hi = c + turn * new Vector3(r + 0.2f, 0f, 1.1f);
+            obstacles.Add(Obstacle.Rect(Mathf.Min(lo.x, hi.x), Mathf.Min(lo.z, hi.z), Mathf.Max(lo.x, hi.x), Mathf.Max(lo.z, hi.z)));
         }
 
         // ------------------------------------------------------------------ hold'em
@@ -595,7 +630,7 @@ namespace Casino.World
                 if (i >= 1 && i <= 3) continue;
                 Vector3 spot = SeatSpot(c, i, 0.42f), tangent = Vector3.Cross(Vector3.up, spot - c).normalized;
                 plain.Emission = 0.8f;
-                for (int k = -1; k <= 1; k++) plain.Ring(spot + tangent * (k * 0.14f), 0.055f, 0.066f, 14, accent);
+                for (int k = -1; k <= 1; k++) plain.Ring(spot + tangent * (k * 0.16f), 0.044f, 0.054f, 14, accent);
                 plain.Emission = 0f;
             }
 
@@ -625,19 +660,20 @@ namespace Casino.World
         void BaccaratTable()
         {
             var c = BaccaratCenter;
+            float yaw = BaccaratScreen.Turn.eulerAngles.y;   // dealer against the south wall, players come from the room
             Color felt = Palette.Hex("6A1022"), accent = Palette.Hex("FFC94D");
-            KidneyTable(c, felt, accent, () => Loc.T("BACCARAT") + "  " + ChipFormat.Short(BaccaratScreen.ChipValues[0]) + "-" + ChipFormat.Short(BaccaratScreen.MaxPerSpot), -0.1f);
+            KidneyTable(c, felt, accent, () => Loc.T("BACCARAT") + "  " + ChipFormat.Short(BaccaratScreen.ChipValues[0]) + "-" + ChipFormat.Short(BaccaratScreen.MaxPerSpot), -0.1f, yaw);
             // player, tie and banker boxes at the two outer seats (the game's own pads cover the middle three)
             for (int i = 0; i < 5; i++)
             {
                 if (i >= 1 && i <= 3) continue;
-                Vector3 spot = SeatSpot(c, i, 0.42f), tangent = Vector3.Cross(Vector3.up, spot - c).normalized;
+                Vector3 spot = SeatSpot(c, i, 0.42f, yaw), tangent = Vector3.Cross(Vector3.up, spot - c).normalized;
                 Color[] box = { Palette.Hex("1E4FA8"), Palette.Hex("0D7A45"), Palette.Hex("A3122E") };
                 for (int k = -1; k <= 1; k++)
                     plain.Disc(spot + tangent * (k * 0.15f) + Vector3.up * 0.002f, 0.06f, 12, box[k + 1]);
             }
 
-            baccaratDealer = SpawnStaff(c + new Vector3(0, 0, 0.42f), 180f, StaffRole.Dealer, BaccaratScreen.DealerTheme, StaffPose.Counter);
+            baccaratDealer = SpawnStaff(c + BaccaratScreen.Turn * new Vector3(0, 0, 0.42f), yaw + 180f, StaffRole.Dealer, BaccaratScreen.DealerTheme, StaffPose.Counter);
             spots.Add(new Spot
             {
                 Title = () => Loc.T("PLAY BACCARAT"),
@@ -647,8 +683,8 @@ namespace Casino.World
                 Focus = c + Vector3.up * 1f,
                 TapRadius = 1.7f,
                 UseDistance = 3.3f,
-                Approach = new Vector2(c.x, c.z - 2.65f),
-                ApproachYaw = 0f,
+                Approach = new Vector2((c + BaccaratScreen.Turn * new Vector3(0, 0, -2.65f)).x, (c + BaccaratScreen.Turn * new Vector3(0, 0, -2.65f)).z),
+                ApproachYaw = yaw,
                 Use = OpenBaccarat,
                 StaffIndex = baccaratDealer,
             });

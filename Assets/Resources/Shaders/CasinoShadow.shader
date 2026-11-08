@@ -18,6 +18,7 @@ Shader "Casino/Shadow"
             CGPROGRAM
             #pragma vertex vert
             #pragma fragment frag
+            #pragma multi_compile __ CASINO_REAL
             #include "UnityCG.cginc"
             #include "CasinoLook.cginc"
 

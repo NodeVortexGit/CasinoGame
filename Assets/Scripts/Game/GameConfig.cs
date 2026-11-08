@@ -25,6 +25,11 @@ namespace Casino
         public const long AdRewardChips = 250;
         public const int AdsPerDay = 12;
         public const int AdCooldownSeconds = 90;
+        // The shop's ad tiles: a prize for watching 1 to 3 videos (rolled on the tap and shown before the first one).
+        public const int AdBundleMax = 3;
+        public const long AdBundleChips = 1_000;
+        public const float AdBundleEnergy = 0.20f;
+        public const int AdBundleLuckHands = 5, AdBundleLuckPercent = 25;
 
         // Comeback systems (Progression.cs): free chips on a timer, the daily streak goal and the price of a streak freeze.
         public const double BonusHours = 3;

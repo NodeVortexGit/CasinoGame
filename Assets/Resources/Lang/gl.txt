@@ -207,6 +207,8 @@ Listo en {0} s
 +{0} fichas de balde!
 +1 conxelación de racha!
 Agora mesmo non hai ningún vídeo dispoñible. Téntao de novo nun momento.
+Vídeo {0} de {1}
+Premio perdido: os vídeos hai que velos ata o final.
 BRONCE
 PRATA
 OURO
@@ -530,6 +532,18 @@ Cada carta ten esa probabilidade de saír ao teu favor, en apostas de blackjack 
 Permite o acceso á localización para obter o prezo do teu país
 As compras non están dispoñibles nesta versión do xogo.
 TENDA DE PROBA (sen diñeiro real)
++{0}% de enerxía
+{0} mans cun {1}% de sorte
+VER ANUNCIOS
+De 1 a 3 vídeos curtos
+VER
+VER 1 ANUNCIO?
+VER {0} ANUNCIOS?
+Mira 1 vídeo ata o final para conseguir {0}. Se se para antes, o premio perdese.
+Mira {0} vídeos ata o final para conseguir {1}. Se se para antes, o premio perdese.
+COMEZAR
+AGORA NON
+Premio conseguido: {0}!
 enerxía
 +{0}% FICHAS
 {0} mans

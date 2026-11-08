@@ -658,3 +658,17 @@ e1ae457	Mateo
 1920e2f	Jíju àkọ́kọ́: ta tẹ́tẹ́ lórí Pass Line, lẹ́yìn náà jù ú. 7 tàbí 11 borí, 2, 3 tàbí 12 pàdánù. Tẹ́tẹ́ Place máa ń bẹ̀rẹ̀ iṣẹ́ nígbà tí point bá wà.
 99f4934	LUCKY ACE 7s  •  Ń SAN TÍTÍ DÉ 2,500× TẸTẸ ÌLÀ RẸ
 48ddc95	YÍ AIFỌWỌṢE
+3848f78	Fídíò {0} nínú {1}
+d87409f	O ti pàdánù ẹ̀bùn: a gbọ́dọ̀ wo fídíò náà títí dé ìparí.
+14dcbe4	+{0}% agbára
+330037c	ọwọ́ {0} pẹ̀lú oríire {1}%
+ff24786	WO FÍDÍÒ
+375d55d	fídíò kúkúrú 1 sí 3
+f187dbf	WO
+64d31ad	WO FÍDÍÒ 1?
+e77d414	WO FÍDÍÒ {0}?
+8707135	Wo fídíò 1 títí dé ìparí láti gba {0}. Tí o bá dá dúró ní kùtùkùtù, ẹ̀bùn náà yóò lọ.
+88f8727	Wo fídíò {0} títí dé ìparí láti gba {1}. Tí o bá dá dúró ní kùtùkùtù, ẹ̀bùn náà yóò lọ.
+7196e7c	BẸRẸ
+b967bda	KÌ Í ṢE NÍ BÁYÌ
+b10888c	A ti gba ẹ̀bùn: {0}!

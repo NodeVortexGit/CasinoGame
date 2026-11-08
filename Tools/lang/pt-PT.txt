@@ -658,3 +658,17 @@ e1ae457	Mateo
 1920e2f	Lançamento de saída: aposte na Pass Line e lance. 7 ou 11 ganham; 2, 3 ou 12 perdem. As apostas Place começam a valer quando há um ponto.
 99f4934	LUCKY ACE 7s  •  PAGA ATÉ 2500× A SUA APOSTA POR LINHA
 48ddc95	AUTOMÁTICO
+3848f78	Vídeo {0} de {1}
+d87409f	Prémio perdido: os vídeos têm de ser vistos até ao fim.
+14dcbe4	+{0}% de energia
+330037c	{0} mãos com {1}% de sorte
+ff24786	VER VÍDEOS
+375d55d	1 a 3 vídeos curtos
+f187dbf	VER
+64d31ad	VER 1 VÍDEO?
+e77d414	VER {0} VÍDEOS?
+8707135	Veja 1 vídeo até ao fim para ganhar {0}. Se parar antes, o prémio é perdido.
+88f8727	Veja {0} vídeos até ao fim para ganhar {1}. Se parar antes, o prémio é perdido.
+7196e7c	COMEÇAR
+b967bda	AGORA NÃO
+b10888c	Prémio ganho: {0}!

@@ -207,6 +207,8 @@ Klaar over {0} s
 +{0} gratis fiches!
 +1 reeksbevriezing!
 Er is nu geen video beschikbaar. Probeer het zo opnieuw.
+Video {0} van {1}
+Prijs verloren: de video's moeten helemaal uitgekeken worden.
 BRONS
 ZILVER
 GOUD
@@ -530,6 +532,18 @@ Elke kaart heeft die kans om in jouw voordeel te vallen, bij blackjackinzetten t
 Sta locatietoegang toe voor de prijs van je land
 Aankopen zijn niet beschikbaar in deze versie van het spel.
 TESTWINKEL (geen echt geld)
++{0}% energie
+{0} handen met {1}% geluk
+BEKIJK RECLAMES
+1 tot 3 korte video's
+BEKIJK
+BEKIJK 1 RECLAME?
+BEKIJK {0} RECLAMES?
+Bekijk 1 video helemaal om {0} te krijgen. Stop je te vroeg, dan is de prijs verloren.
+Bekijk {0} video's helemaal om {1} te krijgen. Stop je te vroeg, dan is de prijs verloren.
+START
+NIET NU
+Prijs gewonnen: {0}!
 energie
 +{0}% FICHES
 {0} handen

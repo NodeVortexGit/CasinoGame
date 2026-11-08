@@ -207,6 +207,8 @@ Prett an {0} s
 +{0} gratis Jetonen!
 +1 Serie-Afréierung!
 Grad ass kee Video disponibel. Probéier et an engem Moment nach eng Kéier.
+Video {0} vun {1}
+Präis verluer: d'Videoen mussen ganz duerchgekuckt ginn.
 BRONZE
 SËLWER
 GOLD
@@ -530,6 +532,18 @@ All Kaart huet dës Chance, zu dengem Virdeel ze kommen, bei Blackjack-Asäz bis
 Erlaab den Zougrëff op de Standuert fir de Präis vun dengem Land
 Akeef sinn an dëser Versioun vum Spill net disponibel.
 TESTBUTTEK (kee richtegt Geld)
++{0} % Energie
+{0} Hänn mat {1} % Gléck
+REKLAMM KUCKEN
+1 bis 3 kuerz Videoen
+KUCKEN
+Eng Reklamm kucken?
+{0} Reklammen kucken?
+Kuck eng Video ganz duerch, fir {0} ze kréien. Wann s du fréi ophalls, ass de Präis verluer.
+Kuck {0} Videoen ganz duerch, fir {1} ze kréien. Wann s du fréi ophalls, ass de Präis verluer.
+ANFANG
+NET ELO
+Präis gewonnen: {0}!
 Energie
 +{0} % JETONEN
 {0} Hänn

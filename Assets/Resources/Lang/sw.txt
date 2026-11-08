@@ -207,6 +207,8 @@ Tayari baada ya sekunde {0}
 +chipu {0} za bure!
 +1 ugandishaji wa mfululizo!
 Hakuna video kwa sasa. Jaribu tena baadaye kidogo.
+Video {0} kati ya {1}
+Zawadi imepotea: lazima video zitazamwe hadi mwisho.
 SHABA
 FEDHA
 DHAHABU
@@ -530,6 +532,18 @@ Kila kadi ina nafasi hiyo ya kugawiwa kwa faida yako, kwa dau za blackjack hadi 
 Ruhusu ufikiaji wa eneo ili upate bei ya nchi yako
 Ununuzi haupatikani katika toleo hili la mchezo.
 DUKA LA MAJARIBIO (hakuna pesa halisi)
++{0}% nishati
+mikono {0} kwa bahati ya {1}%
+TAZAMA VIDEO
+video fupi 1 hadi 3
+TAZAMA
+TAZAMA VIDEO 1?
+TAZAMA VIDEO {0}?
+Tazama video 1 hadi mwisho ili upate {0}. Ukisimama mapema, zawadi inapotea.
+Tazama video {0} hadi mwisho ili upate {1}. Ukisimama mapema, zawadi inapotea.
+ANZA
+SI SASA
+Umeshinda zawadi: {0}!
 nishati
 +{0}% CHIPU
 mikono {0}

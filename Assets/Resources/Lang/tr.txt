@@ -207,6 +207,8 @@ Yarın gel
 +{0} bedava fiş!
 +1 seri dondurma!
 Şu anda video yok. Birazdan tekrar dene.
+Video {0} / {1}
+Ödül kaybedildi: videolar baştan sona izlenmelidir.
 BRONZ
 GÜMÜŞ
 ALTIN
@@ -530,6 +532,18 @@ Fişler, şans ve yiyecekler yalnızca eğlence amaçlı sanal ürünlerdir: nak
 Ülkenin fiyatını almak için konum erişimine izin ver
 Oyunun bu sürümünde satın alma yok.
 TEST MAĞAZASI (gerçek para yok)
++%{0} enerji
+%{1} şansla {0} el
+REKLAM İZLE
+1 ila 3 kısa video
+İZLE
+1 REKLAM İZLENSİN Mİ?
+{0} REKLAM İZLENSİN Mİ?
+{0} kazanmak için 1 videoyu sonuna kadar izle. Erken durdurursan ödül kaybolur.
+{1} kazanmak için {0} videoyu sonuna kadar izle. Erken durdurursan ödül kaybolur.
+BAŞLA
+ŞİMDİ DEĞİL
+Ödül kazanıldı: {0}!
 enerji
 +%{0} FİŞ
 {0} el

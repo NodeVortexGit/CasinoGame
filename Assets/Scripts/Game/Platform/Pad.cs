@@ -185,7 +185,7 @@ namespace Casino.Platform
                 DeviceChanged?.Invoke();
             }
 
-            if (device != null && Used(device)) active = true;
+            if (device != null && device.wasUpdatedThisFrame && Used(device)) active = true;   // nothing to scan when no event came in
             if (active && PointerUsed()) active = false;
         }
 

@@ -207,6 +207,8 @@ Ertir gaýdyp gel
 +{0} mugt fişka!
 +1 hatar doňduryjy!
 Häzir wideo ýok. Biraz soň gaýtadan synanyş.
+Wideo {0}/{1}
+Baýrak ýitdi: wideolar soňuna çenli görülmeli.
 BÜRÜNÇ
 KÜMÜŞ
 ALTYN
@@ -530,6 +532,18 @@ Her kartyň seniň peýdaňa düşmek üçin şeýle mümkinçiligi bar, {0} fi�
 Ýurduňyň bahasyny almak üçin ýerleşişe rugsat ber
 Oýnuň bu wersiýasynda satyn almak elýeterli däl.
 SYNAG DÜKANY (hakyky pul däl)
++{0}% energiýa
+{0} el, {1}% bagt
+WIDEOLARY GÖR
+1-den 3-e çenli gysga wideo
+GÖR
+1 WIDEO GÖRÜLSÜNMI?
+{0} WIDEO GÖRÜLSÜNMI?
+{0} almak üçin 1 wideony soňuna çenli gör. Ozal duruzsaň, baýrak ýitýär.
+{1} almak üçin {0} wideony soňuna çenli gör. Ozal duruzsaň, baýrak ýitýär.
+BAŞLA
+HÄZIR DÄL
+Baýrak gazanyldy: {0}!
 energiýa
 +{0}% FIŞKA
 {0} el

@@ -207,6 +207,8 @@ Ready in {0}s
 +{0} free chips!
 +1 streak freeze!
 No video available right now. Try again in a moment.
+Video {0} of {1}
+Prize lost: the videos have to be watched all the way through.
 BRONZE
 SILVER
 GOLD
@@ -530,6 +532,18 @@ Each card has that chance of being dealt in your favor, on blackjack bets up to 
 Allow location access to get your country's price
 Purchases are not available in this version of the game.
 TEST STORE (no real money)
++{0}% energy
+{0} hands at {1}% luck
+WATCH ADS
+1 to 3 short videos
+WATCH
+WATCH 1 AD?
+WATCH {0} ADS?
+Watch 1 video all the way through to get {0}. If you stop early, the prize is lost.
+Watch {0} videos all the way through to get {1}. If you stop early, the prize is lost.
+START
+NOT NOW
+Prize won: {0}!
 energy
 +{0}% CHIPS
 {0} hands

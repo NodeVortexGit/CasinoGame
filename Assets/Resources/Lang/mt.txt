@@ -207,6 +207,8 @@ Lest f'{0}s
 +{0} fiċes b'xejn!
 +1 iffriżar tal-istrixxa!
 L-ebda vidjo disponibbli bħalissa. Erġa' pprova ftit wara.
+Vidjo {0} minn {1}
+Premju mitluf: il-vidjows iridu jinġarraw sa tmiemhom.
 BRONŻ
 FIDDA
 DEHEB
@@ -530,6 +532,18 @@ Kull karta għandha dak iċ-ċans li titqassam favurik, fuq imħatri tal-blackja
 Ħalli aċċess għall-post biex tieħu l-prezz tal-pajjiż tiegħek
 Ix-xiri mhux disponibbli f'din il-verżjoni tal-logħba.
 ĦANUT TAT-TEST (l-ebda flus veri)
++{0}% enerġija
+{0} idejn b'{1}% xorti
+ARA REKLAMI
+1 sa 3 vidjows qosra
+ARA
+ARA 1 REKLAM?
+ARA {0} REKLAMI?
+Ara vidjo 1 sa tmiemu biex tirċievi {0}. Jekk tieqaf kmieni, il-premju jintilef.
+Ara {0} vidjows sa tmiemhom biex tirċievi {1}. Jekk tieqaf kmieni, il-premju jintilef.
+IBDA
+MHUX ISSA
+Premju miksub: {0}!
 enerġija
 +{0}% FIĊES
 {0} idejn

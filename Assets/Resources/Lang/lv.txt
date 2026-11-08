@@ -207,6 +207,8 @@ Gatavs pēc {0} s
 +{0} bezmaksas žetoni!
 +1 sērijas sasaldēšana!
 Pašlaik nav pieejama neviena video. Mēģini vēlreiz pēc brīža.
+Video {0} no {1}
+Balva zaudēta: videoklipi jāskatās līdz galam.
 BRONZA
 SUDRABS
 ZELTS
@@ -530,6 +532,18 @@ Katrai kārtij ir šāda iespēja tikt izdalītai tev par labu, ja blekdžeka li
 Atļauj piekļuvi atrašanās vietai, lai saņemtu savas valsts cenu
 Pirkumi šajā spēles versijā nav pieejami.
 TESTA VEIKALS (bez īstas naudas)
++{0}% enerģijas
+{0} rokas ar {1}% veiksmi
+SKATĪTIES REKLĀMAS
+1 līdz 3 īsi videoklipi
+SKATĪTIES
+NOSKATĪTIES 1 REKLĀMU?
+NOSKATĪTIES {0} REKLĀMAS?
+Noskaties 1 videoklipu līdz galam, lai saņemtu {0}. Ja pārtrauc agri, balva zūd.
+Noskaties {0} videoklipus līdz galam, lai saņemtu {1}. Ja pārtrauc agri, balva zūd.
+SĀKT
+NE TAGAD
+Balva iegūta: {0}!
 enerģija
 +{0}% ŽETONU
 roku: {0}

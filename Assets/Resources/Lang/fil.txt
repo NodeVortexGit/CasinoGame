@@ -207,6 +207,8 @@ Handa sa loob ng {0}s
 +{0} libreng chips!
 +1 streak freeze!
 Walang video sa ngayon. Subukan ulit mamaya.
+Video {0} ng {1}
+Nawala ang premyo: kailangang panoorin nang buo ang mga video.
 BRONZE
 PILAK
 GINTO
@@ -530,6 +532,18 @@ May ganoong tsansa ang bawat baraha na maibigay pabor sa iyo, sa mga taya sa bla
 Payagan ang access sa lokasyon para makuha ang presyo ng bansa mo
 Hindi available ang pagbili sa bersyong ito ng laro.
 TEST STORE (walang totoong pera)
++{0}% lakas
+{0} kamay na may {1}% swerte
+MANOOD NG MGA AD
+1 hanggang 3 maikling video
+MANOOD
+MANOOD NG 1 AD?
+MANOOD NG {0} AD?
+Panoorin nang buo ang 1 video para makuha ang {0}. Kung titigil nang maaga, mawawala ang premyo.
+Panoorin nang buo ang {0} na video para makuha ang {1}. Kung titigil nang maaga, mawawala ang premyo.
+SIMULAN
+HUWAG MUNA
+Napanalunan ang premyo: {0}!
 lakas
 +{0}% CHIPS
 {0} kamay

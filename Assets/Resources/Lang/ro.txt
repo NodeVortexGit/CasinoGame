@@ -207,6 +207,8 @@ Gata în {0} s
 +{0} jetoane gratuite!
 +1 înghețare de serie!
 Momentan nu e disponibil niciun videoclip. Încearcă din nou peste puțin timp.
+Videoclip {0} din {1}
+Premiu pierdut: videoclipurile trebuie urmărite până la capăt.
 BRONZ
 ARGINT
 AUR
@@ -530,6 +532,18 @@ Fiecare carte are această șansă să vină în favoarea ta, la mize de blackja
 Permite accesul la locație ca să primești prețul țării tale
 Cumpărăturile nu sunt disponibile în această versiune a jocului.
 MAGAZIN DE TEST (fără bani reali)
++{0}% energie
+{0} mâini cu {1}% noroc
+VIZIONEAZĂ VIDEOCLIPURI
+1 până la 3 videoclipuri scurte
+VEZI
+VIZIONEAZĂ 1 VIDEOCLIP?
+VIZIONEAZĂ {0} VIDEOCLIPURI?
+Vizionează 1 videoclip până la capăt ca să primești {0}. Dacă oprești mai devreme, premiul se pierde.
+Vizionează {0} videoclipuri până la capăt ca să primești {1}. Dacă oprești mai devreme, premiul se pierde.
+ÎNCEPE
+NU ACUM
+Premiu câștigat: {0}!
 energie
 +{0}% JETOANE
 {0} mâini

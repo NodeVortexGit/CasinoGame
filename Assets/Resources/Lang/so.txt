@@ -207,6 +207,8 @@ Diyaar {0} ilbiriqsi gudahood
 +{0} jibis bilaash ah!
 +1 barafayn taxane!
 Hadda muuqaal ma jiro. Mar kale isku day wax yar kadib.
+Muuqaal {0} oo ka mid ah {1}
+Abaal-marin lumay: muuqaalada waa in la daawado ilaa dhammaad.
 NAXAAS
 LACAG
 DAHAB
@@ -530,6 +532,18 @@ Kaar kastaa wuxuu leeyahay fursaddaas inuu faa'iidadaada u yimaado, sharadyada b
 Oggolow helitaanka goobta si aad u hesho qiimaha dalkaaga
 Iibsashadu kuma jirto noocan ciyaarta.
 DUKAANKA TIJAABADA (lacag dhab ah maaha)
++{0}% tamar
+{0} gacmood oo nasiib {1}%
+DAAWO MUUQAALLADA
+1 ilaa 3 muuqaal gaaban
+DAAWO
+DAAWO 1 MUUQAAL?
+DAAWO {0} MUUQAAL?
+Daawo muuqaal 1 ilaa dhammaad si aad u hesho {0}. Haddii hore u joojiso, abaal-marintu way luntaa.
+Daawo {0} muuqaal ilaa dhammaad si aad u hesho {1}. Haddii hore u joojiso, abaal-marintu way luntaa.
+BILOW
+HADDA MAYA
+Abaal-marin la helay: {0}!
 tamar
 +{0}% JIBIS
 {0} gacmood

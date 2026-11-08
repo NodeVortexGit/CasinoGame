@@ -658,3 +658,17 @@ e1ae457	Mateo
 1920e2f	Birinchi tashlash: Pass Line'ga tiking, so‘ng tashlang. 7 yoki 11 yutadi, 2, 3 yoki 12 yutqazadi. Place tikishlari ochko chiqqandan keyin ishlay boshlaydi.
 99f4934	LUCKY ACE 7s  •  CHIZIQ TIKISHINGIZNING 2 500× GACHA TO‘LAYDI
 48ddc95	AVTOMATIK
+3848f78	Video {0} / {1}
+d87409f	Mukofot yo‘qoldi: videolarni oxirigacha ko‘rish kerak.
+14dcbe4	+{0}% energiya
+330037c	{0} qo‘l, {1}% omad bilan
+ff24786	VIDEOLARNI KO‘RING
+375d55d	1 dan 3 tagacha qisqa video
+f187dbf	KO‘RISH
+64d31ad	1 VIDEO KO‘RILSINMI?
+e77d414	{0} VIDEO KO‘RILSINMI?
+8707135	{0} olish uchun 1 videoni oxirigacha ko‘ring. Erta to‘xtasangiz, mukofot yo‘qoladi.
+88f8727	{1} olish uchun {0} videoni oxirigacha ko‘ring. Erta to‘xtasangiz, mukofot yo‘qoladi.
+7196e7c	BOSHLASH
+b967bda	HOZIR EMAS
+b10888c	Mukofot yutildi: {0}!

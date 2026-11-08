@@ -658,3 +658,17 @@ e1ae457	Mateo
 1920e2f	Avavise: panusta Pass Line'ile ja viska. 7 või 11 võidab, 2, 3 või 12 kaotab. Place-panused hakkavad kehtima, kui punkt on olemas.
 99f4934	LUCKY ACE 7s  •  MAKSAB KUNI 2500× SINU JOONEPANUSE
 48ddc95	AUTOMAATNE
+3848f78	Video {0}/{1}
+d87409f	Auhind läks kaotsi: videod tuleb vaadata lõpuni.
+14dcbe4	+{0}% energiat
+330037c	{0} kätt {1}% õnnega
+ff24786	VAATA REKLAAME
+375d55d	1–3 lühikest videot
+f187dbf	VAATA
+64d31ad	VAATA 1 REKLAAMI?
+e77d414	VAATA {0} REKLAAMI?
+8707135	Vaata 1 videot lõpuni, et saada {0}. Kui katkestad enne, auhind läheb kaotsi.
+88f8727	Vaata {0} videot lõpuni, et saada {1}. Kui katkestad enne, auhind läheb kaotsi.
+7196e7c	ALUSTA
+b967bda	MITTE PRAEGU
+b10888c	Auhind võidetud: {0}!

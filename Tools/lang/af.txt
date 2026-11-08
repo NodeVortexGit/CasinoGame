@@ -658,3 +658,17 @@ eea0d12	UITDELER MOET OP 17 STAAN
 1920e2f	Eerste gooi: wed op die Pass Line, en gooi dan. 7 of 11 wen; 2, 3 of 12 verloor. Place-weddenskappe begin werk sodra daar 'n punt is.
 99f4934	LUCKY ACE 7s  •  BETAAL TOT 2 500× JOU LYNWEDDENSKAP
 48ddc95	OUTODRAAI
+3848f78	Video {0} van {1}
+d87409f	Prys verloor: die videos moet heeltemal deurgekyk word.
+14dcbe4	+{0}% energie
+330037c	{0} hande teen {1}% geluk
+ff24786	KYK ADVERTENSIES
+375d55d	1 tot 3 kort videos
+f187dbf	KYK
+64d31ad	KYK 1 ADVERT?
+e77d414	KYK {0} ADVERTENSIES?
+8707135	Kyk 1 video heeltemal deur om {0} te kry. As jy vroeg stop, gaan die prys verlore.
+88f8727	Kyk {0} videos heeltemal deur om {1} te kry. As jy vroeg stop, gaan die prys verlore.
+7196e7c	BEGIN
+b967bda	NIE NOU NIE
+b10888c	Prys gewen: {0}!

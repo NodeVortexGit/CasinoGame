@@ -658,3 +658,17 @@ e1ae457	Mateo
 1920e2f	Avausheitto: panosta Pass Lineen ja heitä. 7 tai 11 voittaa, 2, 3 tai 12 häviää. Place-panokset astuvat voimaan, kun piste on olemassa.
 99f4934	LUCKY ACE 7s  •  MAKSAA JOPA 2 500× LINJAPANOKSESI
 48ddc95	AUTOMAATTI
+3848f78	Video {0}/{1}
+d87409f	Palkinto menetettiin: videot on katsottava loppuun asti.
+14dcbe4	+{0} % energiaa
+330037c	{0} kättä {1} %:n onnella
+ff24786	KATSO MAINOKSET
+375d55d	1–3 lyhyttä videota
+f187dbf	KATSO
+64d31ad	KATSO 1 MAINOS?
+e77d414	KATSO {0} MAINOSTA?
+8707135	Katso 1 video loppuun asti saadaksesi {0}. Jos lopetat ennen aikojaan, palkinto menetetään.
+88f8727	Katso {0} videota loppuun asti saadaksesi {1}. Jos lopetat ennen aikojaan, palkinto menetetään.
+7196e7c	ALOITA
+b967bda	EI NYT
+b10888c	Palkinto voitettu: {0}!

@@ -144,8 +144,12 @@ namespace Casino.World
             }
 
             Vector2 before = Position;
-            Position += move * dt;
-            Resolve();
+            // Standing still can't push the player into anything (the obstacles are static; Teleport resolves itself).
+            if (move != Vector2.zero)
+            {
+                Position += move * dt;
+                Resolve();
+            }
             Speed = (Position - before).magnitude / Mathf.Max(dt, 1e-4f);
             walked += Speed * dt;
         }

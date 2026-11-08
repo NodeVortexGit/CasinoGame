@@ -40,8 +40,32 @@ namespace Casino.World
         /// <summary>Every vertex of exactly this colour gets this finish (gold trim, black lacquer...), whatever <see cref="Gloss"/> says.</summary>
         public void Finish(Color color, float polish, bool isMetal = false) => finishes[color] = (polish, isMetal);
 
+        Vector3 pivot;
+        Quaternion turn = Quaternion.identity;
+        bool turned;
+
+        /// <summary>
+        /// Turns everything added until <see cref="EndTurn"/> by <paramref name="rotation"/> about <paramref name="around"/>:
+        /// a piece is built in its own frame (a table with its dealer to the north) and stood another way round.
+        /// </summary>
+        public void BeginTurn(Vector3 around, Quaternion rotation)
+        {
+            pivot = around;
+            turn = rotation;
+            turned = true;
+        }
+
+        public void EndTurn() => turned = false;
+
+        Vector3 Turned(Vector3 p) => turned ? pivot + turn * (p - pivot) : p;
+
         int Vert(Vector3 p, Vector3 n, Vector2 t, Color c)
         {
+            if (turned)
+            {
+                p = Turned(p);
+                n = turn * n;
+            }
             pos.Add(p);
             nrm.Add(n);
             uv.Add(t);
@@ -247,6 +271,22 @@ namespace Casino.World
     /// </summary>
     public sealed class LightRig
     {
+        Vector3 pivot;
+        Quaternion turn = Quaternion.identity;
+        bool turned;
+
+        /// <summary>Like <see cref="MeshKit.BeginTurn"/>: lights and floor shadows added until <see cref="EndTurn"/> turn too.</summary>
+        public void BeginTurn(Vector3 around, Quaternion rotation)
+        {
+            pivot = around;
+            turn = rotation;
+            turned = true;
+        }
+
+        public void EndTurn() => turned = false;
+
+        Vector3 Turned(Vector3 p) => turned ? pivot + turn * (p - pivot) : p;
+
         struct PointLight
         {
             public Vector3 Pos;
@@ -268,11 +308,19 @@ namespace Casino.World
         public Color AmbientDown = new Color(0.2f, 0.12f, 0.16f);
 
         public void Light(Vector3 position, Color color, float range, float intensity = 1f) =>
-            lights.Add(new PointLight { Pos = position, Color = color * intensity, Range = range });
+            lights.Add(new PointLight { Pos = Turned(position), Color = color * intensity, Range = range });
 
         /// <summary>A soft shadow on the floor under something (table, counter, machine) of the given footprint.</summary>
         public void Shadow(Vector3 center, Vector2 halfSize, float strength = 0.45f) =>
-            occluders.Add(new Occluder { At = new Vector2(center.x, center.z), HalfSize = halfSize, Strength = strength });
+            occluders.Add(new Occluder { At = new Vector2(Turned(center).x, Turned(center).z), HalfSize = TurnedHalfSize(halfSize), Strength = strength });
+
+        /// <summary>The floor footprint's half size once turned (a quarter turn swaps the sides).</summary>
+        Vector2 TurnedHalfSize(Vector2 h)
+        {
+            if (!turned) return h;
+            Vector3 x = turn * new Vector3(h.x, 0f, 0f), z = turn * new Vector3(0f, 0f, h.y);
+            return new Vector2(Mathf.Abs(x.x) + Mathf.Abs(z.x), Mathf.Abs(x.z) + Mathf.Abs(z.z));
+        }
 
         /// <summary>
         /// The light that reaches <paramref name="p"/> the most (the lamp over a table, a sconce, a chandelier), for

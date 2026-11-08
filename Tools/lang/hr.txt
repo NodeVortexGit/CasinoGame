@@ -658,3 +658,17 @@ e1ae457	Mateo
 1920e2f	Početno bacanje: uloži na Pass Line i baci. 7 ili 11 dobivaju; 2, 3 ili 12 gube. Place oklade počinju vrijediti čim postoji točka.
 99f4934	LUCKY ACE 7s  •  ISPLAĆUJE DO 2.500× TVOG ULOGA PO LINIJI
 48ddc95	AUTOMATSKI
+3848f78	Videozapis {0} od {1}
+d87409f	Nagrada je izgubljena: videozapise treba pogledati do kraja.
+14dcbe4	+{0} % energije
+330037c	{0} ruku s {1} % sreće
+ff24786	GLEDAJ OGLASE
+375d55d	1 do 3 kratka videozapisa
+f187dbf	GLEDAJ
+64d31ad	GLEDAJ 1 OGLAS?
+e77d414	GLEDAJ {0} OGLASA?
+8707135	Pogledajte 1 videozapis do kraja da biste dobili {0}. Ako prekinete preuranjeno, nagrada se gubi.
+88f8727	Pogledajte {0} videozapisa do kraja da biste dobili {1}. Ako prekinete preuranjeno, nagrada se gubi.
+7196e7c	KRENI
+b967bda	NE SAD
+b10888c	Nagrada osvojena: {0}!

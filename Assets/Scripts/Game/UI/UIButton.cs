@@ -1,4 +1,5 @@
 using System;
+using System.Collections;
 using Casino.Art;
 using UnityEngine;
 using UnityEngine.EventSystems;
@@ -15,6 +16,7 @@ namespace Casino.UI
         Color baseColor;
         float targetScale = 1f;
         Action onClick;
+        Coroutine squash;
 
         public Button Button => button;
         public ButtonStyle Style { get; private set; }
@@ -118,20 +120,34 @@ namespace Casino.UI
 
         public void OnPointerDown(PointerEventData e)
         {
-            if (button.interactable) targetScale = 0.93f;
+            if (button.interactable) Squash(0.93f);
         }
 
-        public void OnPointerUp(PointerEventData e) => targetScale = 1f;
-        public void OnPointerExit(PointerEventData e) => targetScale = 1f;
+        public void OnPointerUp(PointerEventData e) => Squash(1f);
+        public void OnPointerExit(PointerEventData e) => Squash(1f);
 
-        // Squashes the face, not the root, so it composes with Pulse or tweens on the button itself.
-        void Update()
+        void OnEnable() => Squash(targetScale);
+        void OnDisable() => squash = null;   // Unity stopped the coroutine; OnEnable starts it again if the face is still moving
+
+        void Squash(float target)
         {
-            var face = this.face.transform;
-            float s = face.localScale.x;
-            if (Mathf.Abs(s - targetScale) < 0.001f) return;
-            s = Mathf.MoveTowards(s, targetScale, Time.unscaledDeltaTime * 1.6f);
-            face.localScale = new Vector3(s, s, 1f);
+            targetScale = target;
+            // Only when it has to move, or a routine that finishes at once would leave a stale handle behind.
+            if (squash == null && isActiveAndEnabled && face != null && Mathf.Abs(face.transform.localScale.x - targetScale) >= 0.001f)
+                squash = StartCoroutine(SquashRoutine());
+        }
+
+        // Squashes the face, not the root, so it composes with Pulse or tweens on the button itself. Runs only while it moves.
+        IEnumerator SquashRoutine()
+        {
+            var t = face.transform;
+            while (Mathf.Abs(t.localScale.x - targetScale) >= 0.001f)
+            {
+                float s = Mathf.MoveTowards(t.localScale.x, targetScale, Time.unscaledDeltaTime * 1.6f);
+                t.localScale = new Vector3(s, s, 1f);
+                yield return null;
+            }
+            squash = null;
         }
     }
 }

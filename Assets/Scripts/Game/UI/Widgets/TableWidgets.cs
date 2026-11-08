@@ -179,6 +179,7 @@ namespace Casino.UI
             b.group = UIKit.Group(b);
             b.group.alpha = 0f;
             b.group.blocksRaycasts = false;
+            UIKit.OwnCanvas(rt.gameObject, false); // the typewriter and pop-in would otherwise re-batch the whole screen
             var shadowHost = UIKit.NewRect("ShadowHost", rt).Stretch();
             UIKit.DropShadow(rt, shadowHost, 14f, -8f, 0.45f);
             Destroy(shadowHost.gameObject);
@@ -244,6 +245,7 @@ namespace Casino.UI
         StaffRole role;
         float talkUntil, winkUntil, phase;
         Expression shown = Expression.Smile;
+        readonly Sprite[] frames = new Sprite[4]; // one per Expression, so a flip doesn't go through ProceduralArt's string-keyed cache
 
         /// <summary>The name, in the player's language (names are written in the language's own script).</summary>
         public string StaffName => Loc.T(englishName);
@@ -317,7 +319,10 @@ namespace Casino.UI
             else if (t < talkUntil) want = Mathf.Repeat(t * 7f, 1f) < 0.5f ? Expression.Talk : Expression.Smile;
             if (want == shown) return;
             shown = want;
-            portrait.sprite = ProceduralArt.Portrait(female, seed, role, want);
+            int f = (int)want;
+            if (f < 0 || f >= frames.Length) { portrait.sprite = ProceduralArt.Portrait(female, seed, role, want); return; }
+            if (frames[f] == null) frames[f] = ProceduralArt.Portrait(female, seed, role, want);
+            portrait.sprite = frames[f];
         }
     }
 }

@@ -207,6 +207,8 @@ Klar om {0} s
 +{0} gratis jetoner!
 +1 stimefrysning!
 Ingen video tilgængelig lige nu. Prøv igen om lidt.
+Video {0} af {1}
+Præmien er tabt: videoerne skal ses helt til ende.
 BRONZE
 SØLV
 GULD
@@ -530,6 +532,18 @@ Hvert kort har den chance for at blive givet til din fordel, ved blackjackindsat
 Tillad adgang til placering for at få dit lands pris
 Køb er ikke tilgængelige i denne version af spillet.
 TESTBUTIK (ingen rigtige penge)
++{0} % energi
+{0} hænder med {1} % held
+SE REKLAMER
+1 til 3 korte videoer
+SE
+SE 1 REKLAME?
+SE {0} REKLAMER?
+Se 1 video helt til ende for at få {0}. Hvis du stopper for tidligt, er præmien tabt.
+Se {0} videoer helt til ende for at få {1}. Hvis du stopper for tidligt, er præmien tabt.
+START
+IKKE NU
+Præmie vundet: {0}!
 energi
 +{0} % JETONER
 {0} hænder

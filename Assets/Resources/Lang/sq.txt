@@ -207,6 +207,8 @@ Gati për {0} s
 +{0} fisha falas!
 +1 ngrirje serie!
 Nuk ka video për momentin. Provo sërish pas pak.
+Video {0} nga {1}
+Çmimi humbi: videot duhet të shikohen deri në fund.
 BRONZ
 ARGJEND
 AR
@@ -530,6 +532,18 @@ Fishat, fati dhe ushqimi janë sende virtuale vetëm për argëtim: pa vlerë mo
 Lejo qasjen në vendndodhje për të marrë çmimin e vendit tënd
 Blerjet nuk janë të disponueshme në këtë version të lojës.
 DYQAN TESTIMI (pa para të vërteta)
++{0}% energji
+{0} duar me {1}% fat
+SHIKO VIDEO
+1 deri në 3 video të shkurtra
+SHIKO
+SHIKO 1 VIDEO?
+SHIKO {0} VIDEO?
+Shiko 1 video deri në fund për të marrë {0}. Nëse ndalon herët, çmimi humbet.
+Shiko {0} video deri në fund për të marrë {1}. Nëse ndalon herët, çmimi humbet.
+FILLO
+JO TANI
+Çmimi i fituar: {0}!
 energji
 +{0}% FISHA
 {0} duar

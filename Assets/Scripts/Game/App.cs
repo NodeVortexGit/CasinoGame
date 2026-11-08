@@ -84,10 +84,16 @@ namespace Casino
                 SaveSystem.MarkDirty();
             };
             Energy = new EnergyModel(Save.energy, GameConfig.EnergyMinutesToEmpty, GameConfig.EnergyHoursToFullWhileAway);
+            float energyMarked = Save.energy;
             Energy.Changed += v =>
             {
                 Save.energy = v;
-                SaveSystem.MarkDirty();
+                // Energy drains every frame; only ask for a write after a real change (pause and quit save anyway).
+                if (Mathf.Abs(v - energyMarked) > 0.02f)
+                {
+                    energyMarked = v;
+                    SaveSystem.MarkDirty();
+                }
             };
             ApplyTimeAway();
             Luck = new BeginnerLuck(GameConfig.BeginnerLuckFullHands, GameConfig.BeginnerLuckFadeHands, Save.handsPlayed);
@@ -106,6 +112,7 @@ namespace Casino
             Loc.Init(Save.language);
             gameObject.AddComponent<LocUpdater>();
             Loc.Changed += Relocalize;
+            StartCoroutine(Fonts.Prewarm());   // the current language's glyphs, drawn a few at a time while the loading cover is up
             Purchases = new Purchases(this);
             Store = StoreFactory.Create();
             Store.Initialize(Purchases.AllSkus(), Purchases.Fulfill);
@@ -163,6 +170,7 @@ namespace Casino
         {
             Save.language = Loc.Choice;
             SaveSystem.MarkDirty();
+            StartCoroutine(Fonts.Prewarm());
             if (CasinoWorld.Instance != null) CasinoWorld.Instance.Relabel();
             bool settings = UI.FindModal<SettingsModal>() != null;
             UI.CloseAllModals();

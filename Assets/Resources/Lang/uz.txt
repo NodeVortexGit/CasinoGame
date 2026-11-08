@@ -207,6 +207,8 @@ Ertaga qayting
 +{0} bepul fishka!
 +1 seriya muzlatgichi!
 Hozircha video yo‘q. Birozdan keyin qayta urinib ko‘ring.
+Video {0} / {1}
+Mukofot yo‘qoldi: videolarni oxirigacha ko‘rish kerak.
 BRONZA
 KUMUSH
 OLTIN
@@ -530,6 +532,18 @@ Har bir kartaning sizning foydangizga tushish imkoniyati shunday, {0} fishkagach
 Mamlakatingiz narxini olish uchun joylashuvga ruxsat bering
 O‘yinning bu versiyasida xaridlar mavjud emas.
 TEST DO‘KONI (haqiqiy pul emas)
++{0}% energiya
+{0} qo‘l, {1}% omad bilan
+VIDEOLARNI KO‘RING
+1 dan 3 tagacha qisqa video
+KO‘RISH
+1 VIDEO KO‘RILSINMI?
+{0} VIDEO KO‘RILSINMI?
+{0} olish uchun 1 videoni oxirigacha ko‘ring. Erta to‘xtasangiz, mukofot yo‘qoladi.
+{1} olish uchun {0} videoni oxirigacha ko‘ring. Erta to‘xtasangiz, mukofot yo‘qoladi.
+BOSHLASH
+HOZIR EMAS
+Mukofot yutildi: {0}!
 energiya
 +{0}% FISHKA
 {0} qo‘l

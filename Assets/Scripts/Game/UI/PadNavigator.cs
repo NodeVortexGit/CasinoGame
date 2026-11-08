@@ -35,7 +35,11 @@ namespace Casino.UI
         float nextRepeat;
         RectTransform ring, badge, hints;
         PadFamily badgeFamily;
-        string hintsKey;
+        (bool, bool, bool, bool, bool, string, PadFamily, bool, LanguageInfo) hintsState;   // what the hints were last built for
+        GameObject usableFor;       // the focus whose Usable() was last worked out, and when (once per frame)
+        int usableFrame = -1;
+        bool usableNow;
+        Rect usableRect;
         PointerEventData probe;
         readonly List<RaycastResult> hits = new List<RaycastResult>();
         readonly List<Target> targets = new List<Target>();
@@ -74,7 +78,7 @@ namespace Casino.UI
                 return;
             }
 
-            if (focus != null && !Usable(focus, out _))
+            if (focus != null && !FocusUsable(out _))
             {
                 focus = null;
                 if (!walking) defaultAt = Time.unscaledTime;
@@ -165,6 +169,7 @@ namespace Casino.UI
             };
             ExecuteEvents.Execute(go, e, ExecuteEvents.pointerDownHandler);
             ExecuteEvents.Execute(go, e, ExecuteEvents.pointerClickHandler);
+            usableFrame = -1;   // the click may have moved or closed things
             StartCoroutine(Release(go, e));
         }
 
@@ -180,12 +185,30 @@ namespace Casino.UI
         {
             targets.Clear();
             seen.Clear();
-            foreach (var mb in FindObjectsByType<MonoBehaviour>(FindObjectsSortMode.None))
+            // Only the kinds of thing that can be pressed, not every MonoBehaviour in the scene: buttons, toggles and
+            // sliders are Selectables, and UIButtonLite is the one hand-made click handler.
+            foreach (var sel in FindObjectsByType<Selectable>(FindObjectsSortMode.None))
+                if (sel is Slider || sel is IPointerClickHandler) Consider(sel);
+            foreach (var lite in FindObjectsByType<UIButtonLite>(FindObjectsSortMode.None)) Consider(lite);
+        }
+
+        void Consider(MonoBehaviour mb)
+        {
+            if (!mb.isActiveAndEnabled || !seen.Add(mb.gameObject)) return;
+            if (Usable(mb.gameObject, out var r)) targets.Add(new Target { Go = mb.gameObject, Rect = r });
+        }
+
+        /// <summary><see cref="Usable"/> for the focused thing, worked out (a raycast) once a frame however often it's asked.</summary>
+        bool FocusUsable(out Rect rect)
+        {
+            if (usableFrame != Time.frameCount || usableFor != focus)
             {
-                if (!(mb is IPointerClickHandler) && !(mb is Slider)) continue;
-                if (!mb.isActiveAndEnabled || !seen.Add(mb.gameObject)) continue;
-                if (Usable(mb.gameObject, out var r)) targets.Add(new Target { Go = mb.gameObject, Rect = r });
+                usableFrame = Time.frameCount;
+                usableFor = focus;
+                usableNow = Usable(focus, out usableRect);
             }
+            rect = usableRect;
+            return usableNow;
         }
 
         /// <summary>On screen, enabled, not too big (backdrops) and actually the thing a tap at its centre would hit.</summary>
@@ -261,7 +284,7 @@ namespace Casino.UI
         /// <summary>The nearest target that way: small gap along the move, and lined up with the current one if possible.</summary>
         void Move(Vector2Int d)
         {
-            if (!Usable(focus, out var from))
+            if (!FocusUsable(out var from))
             {
                 SetFocus(PickDefault(layer));
                 return;
@@ -303,7 +326,7 @@ namespace Casino.UI
         void Draw(bool active, bool walking)
         {
             Rect r = default;
-            bool show = active && focus != null && Usable(focus, out r);
+            bool show = active && focus != null && FocusUsable(out r);
             bool hintsOn = active && App.I.Save.padHints;
             if (ring == null) BuildRing();
             ring.gameObject.SetActive(show);
@@ -329,6 +352,7 @@ namespace Casino.UI
         {
             ring = UIKit.NewRect("PadFocus", ui.Overlay);
             ring.anchorMin = ring.anchorMax = new Vector2(0.5f, 0.5f);
+            UIKit.OwnCanvas(ring.gameObject, false); // the pulse scales it every frame; keep that out of the overlay's batch
             var glow = UIKit.Panel(ring, "Fill", new Color(1f, 0.92f, 0.6f, 0.1f), 26f);
             ((RectTransform)glow.transform).Stretch();
             UIKit.Outline(ring, Palette.GoldLight, 26f);
@@ -353,8 +377,21 @@ namespace Casino.UI
         /// <summary>What the buttons do right now, listed down the left edge (clear of every screen's own controls).</summary>
         void Hints(bool walking)
         {
+            bool free = walking && focus == null;
+            bool slider = !free && focus != null && focus.GetComponent<Slider>() != null;
+            bool modal = layer is UIModal;
+            // Everything the rows depend on: while it's unchanged the panel is left alone (no rows or strings made per frame).
+            var state = (free, slider, walking, modal, layer != null && layer.ShowsWorld, free ? layer.PadConfirmHint : null,
+                Pad.Family, App.I.Save.padSwapMenuView, Loc.Current);
+            if (hints != null && state == hintsState)
+            {
+                if (!hints.gameObject.activeSelf) hints.gameObject.SetActive(true);
+                return;
+            }
+            hintsState = state;
+
             rows.Clear();
-            if (walking && focus == null)
+            if (free)
             {
                 rows.Add((PadGlyphKind.LeftStick, Loc.T("Walk")));
                 rows.Add((PadGlyphKind.RightStick, Loc.T("Look")));
@@ -366,22 +403,12 @@ namespace Casino.UI
             }
             else
             {
-                bool slider = focus != null && focus.GetComponent<Slider>() != null;
                 rows.Add((PadGlyphKind.Dpad, slider ? Loc.T("Adjust") : Loc.T("Move")));
                 if (!slider) rows.Add((PadGlyphKind.Confirm, Loc.T("Select")));
-                rows.Add((PadGlyphKind.Back, walking ? Loc.T("Walk") : layer is UIModal ? Loc.T("Close") : Loc.T("Back")));
-                if (!(layer is UIModal) && layer != null && layer.ShowsWorld) rows.Add((PadGlyphKind.Menu, Loc.T("Settings")));
+                rows.Add((PadGlyphKind.Back, walking ? Loc.T("Walk") : modal ? Loc.T("Close") : Loc.T("Back")));
+                if (!modal && layer != null && layer.ShowsWorld) rows.Add((PadGlyphKind.Menu, Loc.T("Settings")));
             }
 
-            var key = new StringBuilder().Append((int)Pad.Family).Append(App.I.Save.padSwapMenuView);
-            foreach (var (kind, text) in rows) key.Append('|').Append((int)kind).Append(text);
-            string k = key.ToString();
-            if (hints != null && k == hintsKey)
-            {
-                hints.gameObject.SetActive(true);
-                return;
-            }
-            hintsKey = k;
             if (hints != null) Destroy(hints.gameObject);
 
             const float RowH = 58f, Glyph = 46f;

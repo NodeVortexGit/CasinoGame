@@ -62,7 +62,7 @@ namespace Casino.Screens
             // Context action (bottom right)
             actionGroup = UIKit.NewRect("Action", Content).At(1f, 0f, -40, 60, 620, 210, 1f, 0f);
             actionSub = UIKit.Label(actionGroup, "", 28, Color.white, TextAnchor.LowerRight, FontKind.Semi);
-            ((RectTransform)actionSub.transform).At(1f, 1f, -6, 0, 620, 50, 1f, 1f);
+            ((RectTransform)actionSub.transform).At(1f, 1f, -6, 0, 820, 50, 1f, 1f);   // wider than the button: table subtitles run long
             UIKit.TextShadow(actionSub, -2f, 0.8f);
             action = UIKit.Button(actionGroup, Loc.T("PLAY"), ButtonStyle.Gold, () => { if (shownSpot != null) world.Use(shownSpot); }, 52, Icon.Play);
             action.Rect.At(1f, 0f, 0, 0, 520, 136, 1f, 0f);
@@ -335,6 +335,7 @@ namespace Casino.Screens
         {
             ring = (RectTransform)UIKit.Image(transform, "StickRing", ProceduralArt.Ring, new Color(1, 1, 1, 0.35f)).transform;
             ring.sizeDelta = new Vector2(StickRadius * 2.2f, StickRadius * 2.2f);
+            UIKit.OwnCanvas(ring.gameObject, false); // the knob moves every frame while walking; keep that out of the HUD batch
             knob = (RectTransform)UIKit.Image(ring, "Knob", ProceduralArt.Circle, new Color(1, 1, 1, 0.55f)).transform;
             knob.sizeDelta = new Vector2(110, 110);
             ring.gameObject.SetActive(false);

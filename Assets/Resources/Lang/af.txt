@@ -207,6 +207,8 @@ Gereed oor {0}s
 +{0} gratis skyfies!
 +1 streepbevriesing!
 Geen video op die oomblik beskikbaar nie. Probeer weer oor 'n rukkie.
+Video {0} van {1}
+Prys verloor: die videos moet heeltemal deurgekyk word.
 BRONS
 SILWER
 GOUD
@@ -530,6 +532,18 @@ Elke kaart het daardie kans om in jou guns uitgedeel te word, op blackjack-wedde
 Laat liggingtoegang toe om jou land se prys te kry
 Aankope is nie in hierdie weergawe van die spel beskikbaar nie.
 TOETSWINKEL (geen regte geld nie)
++{0}% energie
+{0} hande teen {1}% geluk
+KYK ADVERTENSIES
+1 tot 3 kort videos
+KYK
+KYK 1 ADVERT?
+KYK {0} ADVERTENSIES?
+Kyk 1 video heeltemal deur om {0} te kry. As jy vroeg stop, gaan die prys verlore.
+Kyk {0} videos heeltemal deur om {1} te kry. As jy vroeg stop, gaan die prys verlore.
+BEGIN
+NIE NOU NIE
+Prys gewen: {0}!
 energie
 +{0}% SKYFIES
 {0} hande

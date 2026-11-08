@@ -73,13 +73,15 @@ namespace Casino.Screens
                 UIKit.TextOutline(heldTags[i], Palette.Hex("3A1500"), 2f);
                 heldTags[i].enabled = false;
             }
-            resultText = UIKit.Label(frt, "", 48, Color.white, TextAnchor.MiddleCenter, FontKind.Display);
-            ((RectTransform)resultText.transform).Center(0, -275, 1000, 60);
-            UIKit.TextOutline(resultText, Palette.Hex("05070F"), 2f);
+            // On the HUD just above the buttons: on the screen it was either under the console or on the HELD tags.
+            resultText = UIKit.Label(Content, "", 44, Color.white, TextAnchor.MiddleCenter, FontKind.Display);
+            ((RectTransform)resultText.transform).At(0.5f, 0f, 0, 205, 1500, 56);
+            UIKit.TextOutline(resultText, Palette.Hex("05070F"), 3f);
             if (seat == null) Marquee.Create(UIKit.NewRect("Lights", cab).Center(0, 40, 1240, 720), new Vector2(1240, 720), 40f);
 
             BuildControls();
             fx = UIKit.NewRect("Fx", Content).Stretch();
+            UIKit.OwnCanvas(fx.gameObject, false); // confetti, flying chips and banners animate constantly: keep them out of the screen's batch
             banner = UIKit.Label(fx, "", 130, Palette.Gold, TextAnchor.MiddleCenter, FontKind.Display, "Banner");
             ((RectTransform)banner.transform).Center(0, 60, 1600, 200);
             UIKit.TextOutline(banner, Palette.Hex("5A2200"), 5f);

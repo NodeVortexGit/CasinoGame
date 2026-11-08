@@ -207,6 +207,8 @@ Sabah qayıt
 +{0} pulsuz fiş!
 +1 seriya dondurması!
 Hazırda video yoxdur. Bir azdan yenidən cəhd et.
+Video {0} / {1}
+Mükafat itirildi: videolar sonadək izlənilməlidir.
 BÜRÜNC
 GÜMÜŞ
 QIZIL
@@ -530,6 +532,18 @@ Hər kartın sənin xeyrinə gəlmək üçün belə şansı var, {0} fişə qəd
 Ölkənin qiymətini almaq üçün yerə girişə icazə ver
 Oyunun bu versiyasında alış-veriş mümkün deyil.
 TEST MAĞAZASI (real pul yoxdur)
++{0}% enerji
+{0} əl {1}% şansla
+REKLAMLARA BAX
+1-3 qısa video
+BAX
+1 REKLAMA BAX?
+{0} REKLAMA BAX?
+1 videonu sonadək izləyin ki, {0} qazanasınız. Erkən dayandırsanız, mükafat itirilir.
+{0} videonu sonadək izləyin ki, {1} qazanasınız. Erkən dayandırsanız, mükafat itirilir.
+BAŞLA
+HƏLƏ YOX
+Mükafat qazanıldı: {0}!
 enerji
 +{0}% FİŞ
 {0} əl

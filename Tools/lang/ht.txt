@@ -658,3 +658,17 @@ e1ae457	Mateo
 1920e2f	Premye jete: parye sou Pass Line, epi voye. 7 oswa 11 genyen; 2, 3 oswa 12 pèdi. Pari place yo kòmanse fonksyone lè gen yon pwen.
 99f4934	LUCKY ACE 7s  •  PEYE JISKA 2,500× PARI LIY OU A
 48ddc95	VIRE OTOMATIK
+3848f78	Videyo {0} sou {1}
+d87409f	Pri a pèdi: videyo yo dwe gade jiska fen.
+14dcbe4	+{0}% enèji
+330037c	{0} men ak {1}% chans
+ff24786	GADE PUBLISITE
+375d55d	1 a 3 kout videyo
+f187dbf	GADE
+64d31ad	GADE 1 PIBLISITE?
+e77d414	GADE {0} PIBLISITE?
+8707135	Gade 1 videyo jiska fen pou w jwenn {0}. Si w sispann bonè, pri a pèdi.
+88f8727	Gade {0} videyo jiska fen pou w jwenn {1}. Si w sispann bonè, pri a pèdi.
+7196e7c	KOMANSE
+b967bda	PA KOUNYE A
+b10888c	Pri gaye: {0}!

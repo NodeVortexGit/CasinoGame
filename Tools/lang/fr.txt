@@ -658,3 +658,17 @@ e1ae457	Mateo
 1920e2f	Lancer de sortie : misez sur la Pass Line et lancez. 7 ou 11 gagne, 2, 3 ou 12 perd. Les mises place comptent une fois le point établi.
 99f4934	LUCKY ACE 7s  •  JUSQU'À 2 500× VOTRE MISE PAR LIGNE
 48ddc95	AUTOMATIQUE
+3848f78	Vidéo {0} sur {1}
+d87409f	Gain perdu : les vidéos doivent être regardées jusqu'au bout.
+14dcbe4	+{0} % d'énergie
+330037c	{0} mains à {1} % de chance
+ff24786	VOIR DES PUBS
+375d55d	1 à 3 courtes vidéos
+f187dbf	VOIR
+64d31ad	VOIR 1 PUB ?
+e77d414	VOIR {0} PUBS ?
+8707135	Regardez 1 vidéo jusqu'au bout pour obtenir {0}. Si vous arrêtez avant, le gain est perdu.
+88f8727	Regardez {0} vidéos jusqu'au bout pour obtenir {1}. Si vous arrêtez avant, le gain est perdu.
+7196e7c	DÉMARRER
+b967bda	PAS MAINTENANT
+b10888c	Gain obtenu : {0} !

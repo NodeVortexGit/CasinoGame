@@ -109,6 +109,7 @@ namespace Casino.Screens
             }
 
             fx = UIKit.NewRect("Fx", Content).Stretch();
+            UIKit.OwnCanvas(fx.gameObject, false); // confetti, flying chips and banners animate constantly: keep them out of the screen's batch
             App.I.Progress.StreakExtended += OnStreakExtended;
             App.I.Intensity.Baseline = 0.2f;
             Refresh();

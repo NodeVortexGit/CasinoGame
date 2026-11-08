@@ -205,6 +205,16 @@ namespace Casino.Platform
             static AndroidJavaObject vibrator;
             static bool amplitudeControl;
             static int sdk;
+            static AndroidJavaClass effectClass;
+            static readonly System.Collections.Generic.Dictionary<long[], AndroidJavaObject> effectCache =
+                new System.Collections.Generic.Dictionary<long[], AndroidJavaObject>();   // keyed by the pattern array itself (the callers' shapes are static)
+            static float cachedStrength = -1f;
+
+            static void ClearEffects()
+            {
+                foreach (var e in effectCache.Values) e.Dispose();
+                effectCache.Clear();
+            }
 
             static bool Init()
             {
@@ -229,28 +239,41 @@ namespace Casino.Platform
 
             public static bool Supported => Init();
 
+            /// <summary>Phones without strength control get shorter buzzes instead, which feel weaker.</summary>
+            static long[] Timings(long[] ms, float strength)
+            {
+                var timings = (long[])ms.Clone();
+                if (!amplitudeControl)
+                    for (int i = 1; i < timings.Length; i += 2) timings[i] = Math.Max(4, (long)(timings[i] * Mathf.Lerp(0.4f, 1f, strength)));
+                return timings;
+            }
+
             public static void Wave(long[] ms, int[] amp, float strength)
             {
                 if (strength <= 0.01f || !Init()) return;
                 try
                 {
-                    // Phones without strength control get shorter buzzes instead, which feel weaker.
-                    var timings = (long[])ms.Clone();
-                    if (!amplitudeControl)
-                        for (int i = 1; i < timings.Length; i += 2) timings[i] = Math.Max(4, (long)(timings[i] * Mathf.Lerp(0.4f, 1f, strength)));
                     if (sdk >= 26)
                     {
-                        var scaled = new int[amp.Length];
-                        for (int i = 0; i < amp.Length; i++) scaled[i] = amp[i] == 0 ? 0 : Mathf.Clamp(Mathf.RoundToInt(amp[i] * strength), 1, 255);
-                        using (var effects = new AndroidJavaClass("android.os.VibrationEffect"))
-                        using (var effect = amplitudeControl
-                                   ? effects.CallStatic<AndroidJavaObject>("createWaveform", timings, scaled, -1)
-                                   : effects.CallStatic<AndroidJavaObject>("createWaveform", timings, -1))
-                            vibrator.Call("vibrate", effect);
+                        // The same few patterns repeat all session: build each effect once per pattern and strength
+                        // (nothing is cloned or allocated on a repeat).
+                        if (!Mathf.Approximately(strength, cachedStrength)) { ClearEffects(); cachedStrength = strength; }
+                        if (!effectCache.TryGetValue(ms, out var effect))
+                        {
+                            var timings = Timings(ms, strength);
+                            var scaled = new int[amp.Length];
+                            for (int i = 0; i < amp.Length; i++) scaled[i] = amp[i] == 0 ? 0 : Mathf.Clamp(Mathf.RoundToInt(amp[i] * strength), 1, 255);
+                            effectClass ??= new AndroidJavaClass("android.os.VibrationEffect");
+                            effect = amplitudeControl
+                                ? effectClass.CallStatic<AndroidJavaObject>("createWaveform", timings, scaled, -1)
+                                : effectClass.CallStatic<AndroidJavaObject>("createWaveform", timings, -1);
+                            effectCache[ms] = effect;
+                        }
+                        vibrator.Call("vibrate", effect);
                     }
                     else
                     {
-                        vibrator.Call("vibrate", timings, -1);
+                        vibrator.Call("vibrate", Timings(ms, strength), -1);
                     }
                 }
                 catch (Exception e)

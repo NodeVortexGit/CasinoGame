@@ -658,3 +658,17 @@ e1ae457	Mateo
 1920e2f	Tuuriska koowaad: sharad dhig Pass Line, kadib tuur. 7 ama 11 way guulaysataa, 2, 3 ama 12 waa lumisaa. Sharadyada Place waxay bilaabmaan inay shaqeeyaan marka dhibic jirto.
 99f4934	LUCKY ACE 7s  •  WAXAY BIXISAA ILAA 2,500× SHARADKAAGA XARIIQDA
 48ddc95	AUTO WAREEJI
+3848f78	Muuqaal {0} oo ka mid ah {1}
+d87409f	Abaal-marin lumay: muuqaalada waa in la daawado ilaa dhammaad.
+14dcbe4	+{0}% tamar
+330037c	{0} gacmood oo nasiib {1}%
+ff24786	DAAWO MUUQAALLADA
+375d55d	1 ilaa 3 muuqaal gaaban
+f187dbf	DAAWO
+64d31ad	DAAWO 1 MUUQAAL?
+e77d414	DAAWO {0} MUUQAAL?
+8707135	Daawo muuqaal 1 ilaa dhammaad si aad u hesho {0}. Haddii hore u joojiso, abaal-marintu way luntaa.
+88f8727	Daawo {0} muuqaal ilaa dhammaad si aad u hesho {1}. Haddii hore u joojiso, abaal-marintu way luntaa.
+7196e7c	BILOW
+b967bda	HADDA MAYA
+b10888c	Abaal-marin la helay: {0}!

@@ -207,6 +207,8 @@ Vonona afaka {0} segondra
 +jetona maimaim-poana {0}!
 +1 fanakatonana filaharana!
 Tsy misy horonantsary amin'izao fotoana izao. Andramo indray afaka kelikely.
+Horonantsary {0} amin'ny {1}
+Very ny loka: tsy maintsy jereo feno ny horonantsary.
 VARAHINA
 VOLAFOTSY
 VOLAMENA
@@ -530,6 +532,18 @@ Manana izany fahafahana izany ny karatra tsirairay hozaraina ho tombontsoanao, a
 Avelao hidirana ny toerana mba hahazoana ny vidin'ny firenenao
 Tsy misy fividianana amin'ity dikan-teny lalao ity.
 FIVAROTANA FITSAPANA (tsy vola tena izy)
++{0}% angovo
+Tanana {0} miaraka amin'ny vintana {1}%
+JEREO NY DOKAMBAROTRA
+Horonantsary fohy 1 hatramin'ny 3
+JEREO
+JEREO DOKAMBARO 1 VE?
+JEREO DOKAMBARO {0} VE?
+Jereo horonantsary 1 feno mba hahazoana {0}. Raha mijanona aloha, very ny loka.
+Jereo horonantsary {0} feno mba hahazoana {1}. Raha mijanona aloha, very ny loka.
+HANOMBOKA
+TSY IZAO
+Nahazo loka: {0}!
 angovo
 +{0}% JETONA
 tanana {0}

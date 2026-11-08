@@ -658,3 +658,17 @@ e1ae457	Mateo
 1920e2f	Izlidojuma metiens: liec likmi uz Pass Line, tad met. 7 vai 11 uzvar, 2, 3 vai 12 zaudē. Place likmes sāk darboties, kad ir punkts.
 99f4934	LUCKY ACE 7s  •  IZMAKSĀ LĪDZ 2500× NO TAVAS LĪNIJAS LIKMES
 48ddc95	AUTOMĀTISKI
+3848f78	Video {0} no {1}
+d87409f	Balva zaudēta: videoklipi jāskatās līdz galam.
+14dcbe4	+{0}% enerģijas
+330037c	{0} rokas ar {1}% veiksmi
+ff24786	SKATĪTIES REKLĀMAS
+375d55d	1 līdz 3 īsi videoklipi
+f187dbf	SKATĪTIES
+64d31ad	NOSKATĪTIES 1 REKLĀMU?
+e77d414	NOSKATĪTIES {0} REKLĀMAS?
+8707135	Noskaties 1 videoklipu līdz galam, lai saņemtu {0}. Ja pārtrauc agri, balva zūd.
+88f8727	Noskaties {0} videoklipus līdz galam, lai saņemtu {1}. Ja pārtrauc agri, balva zūd.
+7196e7c	SĀKT
+b967bda	NE TAGAD
+b10888c	Balva iegūta: {0}!

@@ -20,6 +20,7 @@ Shader "Casino/Glow"
             CGPROGRAM
             #pragma vertex vert
             #pragma fragment frag
+            #pragma multi_compile __ CASINO_REAL
             #include "UnityCG.cginc"
             #include "CasinoLook.cginc"
 
@@ -44,9 +45,11 @@ Shader "Casino/Glow"
             {
                 v2f o;
                 float3 view = UnityObjectToViewPos(v.vertex.xyz);
-                view.xy += (v.uv - 0.5) * v.data.x;
+                // The quad is 0.9 of the glow's size, with the UVs pulled in to match: the outer 10% of the glow is below
+                // 3/255, so this looks the same and the GPU shades about a fifth fewer pixels per glow.
+                view.xy += (v.uv - 0.5) * (v.data.x * 0.9);
                 o.pos = mul(UNITY_MATRIX_P, float4(view, 1.0));
-                o.uv = v.uv;
+                o.uv = (v.uv - 0.5) * 0.9 + 0.5;
                 half pulse = 0.5 + 0.5 * sin(_Time.y * v.data.z + v.data.y);
                 // Fade glows that get very close to the camera instead of letting them fill the screen.
                 half nearFade = saturate((-view.z - 0.4) * 0.8);

@@ -207,6 +207,8 @@ Sẵn sàng sau {0} giây
 +{0} chip miễn phí!
 +1 lượt đóng băng chuỗi!
 Hiện không có video. Hãy thử lại sau giây lát.
+Video {0} trên {1}
+Mất phần thưởng: phải xem hết video mới được nhận.
 ĐỒNG
 BẠC
 VÀNG
@@ -530,6 +532,18 @@ Mỗi lá bài có khả năng đó để được chia có lợi cho bạn, v�
 Cho phép truy cập vị trí để nhận giá theo quốc gia của bạn
 Phiên bản trò chơi này không hỗ trợ mua hàng.
 CỬA HÀNG THỬ (không dùng tiền thật)
++{0}% năng lượng
+{0} ván với {1}% may mắn
+XEM VIDEO
+1 đến 3 video ngắn
+XEM
+XEM 1 VIDEO?
+XEM {0} VIDEO?
+Xem hết 1 video để nhận {0}. Nếu dừng giữa chừng, phần thưởng sẽ mất.
+Xem hết {0} video để nhận {1}. Nếu dừng giữa chừng, phần thưởng sẽ mất.
+BẮT ĐẦU
+ĐỂ SAU
+Đã nhận phần thưởng: {0}!
 năng lượng
 +{0}% CHIP
 {0} ván
