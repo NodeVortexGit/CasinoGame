@@ -73,6 +73,7 @@ namespace Casino.EditorTools
         static bool Build(BuildTarget target, string path, bool demo = false)
         {
             CasinoProjectSetup.EnsureReadyForBuild();
+            AppIcons.Apply();
             Directory.CreateDirectory(Path.GetDirectoryName(path));
             var args = Environment.GetCommandLineArgs();
             bool development = Array.IndexOf(args, "-development") >= 0;
