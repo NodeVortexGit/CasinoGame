@@ -64,7 +64,6 @@ f76c8fd	Menga ko‘p bo‘ldi. Siz yutdingiz!
 0b48017	Yangi poyabzal, aralashtiryapman!
 3fa7769	Kamayib qoldimi? Kassa sizni to‘ldiradi.
 4e5694b	Fishkalar kamaymoqda. Yana olasizmi?
-d41f057	Fishkalar tugadi! Kassaga boring yoki bepul fishka oling.
 15d90d3	Dastangiz bo‘sh. Kassa aynan orqangizda.
 a9eaae1	Juda charchagan ko‘rinasiz! Barda biror narsa yeng.
 5cd9e8b	Kuchingiz tugadimi? Bar sizga g‘amxo‘rlik qiladi.
@@ -175,14 +174,6 @@ b5b9597	{0} KUNLIK SERIYA!
 1998202	{0}: {1} qo‘l, {2}% omad, yangi boshlovchi omadidan keyin
 728ada5	{0}: {1} qo‘l, {2}% omad!
 af5e232	{0}: +{1}% energiya
-001a53b	Bu qurilmada mavjud emas
-2607004	Bu tarmoqda videolar yuklanmaydi
-569c30d	Ertaga qayting
-ecae6ee	{0} soniyadan keyin tayyor
-9964820	+{0} fishka (bugun {1} qoldi)
-e1bd888	+{0} bepul fishka!
-619bd5d	+1 seriya muzlatgichi!
-f70d794	Hozircha video yo‘q. Birozdan keyin qayta urinib ko‘ring.
 264d71b	BRONZA
 462e839	KUMUSH
 81ff70a	OLTIN
@@ -197,9 +188,6 @@ a42f608	Hududingiz tekshirilmoqda...
 1db422c	Tasdiqlanmagan ({0}): standart narxlar
 9bc0807	{0} ({1}): narxlar {2} da
 ae8c393	Eslatmalar
-aefd59b	Bepul fishkalar tayyor va seriya eslatmalari
-3125838	Bepul fishkalaringiz tayyor
-233027b	Lucky Ace’da sizni {0} fishka kutmoqda.
 b93976b	{0} kunlik seriyangizni saqlang
 bd68038	Yarim tunda nolga tushmasligi uchun bugun raund o‘ynang ({0}).
 0acfb6f	Xush kelibsiz! Bugun yangi boshlovchi omadi siz bilan. Tikish qo‘ying!
@@ -230,9 +218,6 @@ b6e674a	Dilerda blackjack yo‘q. Sug‘urta yo‘qoldi.
 822f4f4	Yangi boshlovchi omadi tugadi. Bundan buyon standart blackjack.
 b0377c7	Omadli seriyangiz tugadi. Standart blackjackka qaytamiz.
 824ad7c	FISHKALAR TUGADI
-ff1822d	{0} bepul fishka uchun qisqa video ko‘ring yoki kassaga boring.
-e4cac2f	Fishkalaringizni to‘ldirish uchun kassaga boring.
-c3df3e7	BEPUL FISHKALAR
 b169d33	KASSA
 4d38f66	KEYINROQ
 cb8171b	Avval bu qo‘lni tugating.
@@ -253,7 +238,6 @@ c3a8946	TUSHUNDIM
 4035996	KUNLIK SERIYA
 fbe7f18	KETMA-KET KUN
 7a46866	BUGUN
-4753707	REKLAMA KO‘RISH
 6bb45f3	SOTIB OLISH
 62a945f	SERIYA MUZLATGICHI
 ba5b1de	Seriya muzlatgichi o‘ynamagan kuningizda seriyangizni saqlaydi. {0} tagacha saqlashingiz mumkin.\n\n{1} fishkaga bittasini olasizmi?
@@ -273,8 +257,6 @@ f757137	BUGUNGI VAZIFALAR
 bb92856	Seriya muzlatgichlari: {0} / {1}
 0ec6216	O‘tkazib yuborgan kuningizda seriyani saqlang. Har 7 kunda +1.
 cc0a745	TO‘LIQ
-419a962	VIDEO YO‘Q
-2dabd99	REKLAMA TEZ ORADA
 f12e166	Seriya bonusi: sovrinlar ×{0}
 80948a4	Har kuni bitta bepul aylantirish
 596b5e0	KEYINGI  {0}
@@ -287,16 +269,8 @@ f12e166	Seriya bonusi: sovrinlar ×{0}
 d00d221	Faqat 18+  •  Fishkalar ko‘ngilochar uchun: pul qiymati yo‘q, hech qachon pul yoki sovringa almashtirilmaydi
 b60f038	Eshiklar ochilmoqda...
 2e5bcce	Xush kelibsiz! {0} ta xush kelibsiz fishkangiz tayyor. Stollar to‘g‘ri oldinda!
-7ef7ae3	+{0} bepul fishka! Yana {1} soatdan keyin.
-5d82af9	Bepul fishkalar har {0} soatda to‘ladi. Keyingisi {1} dan keyin.
-5469985	{0} soat {1} daq
-bb65beb	{0} daq {1} son
 ac8ba93	SERIYANGIZNI SAQLANG
-560bfa1	Hali o‘ynamagan kechqurunlaringizda va bepul fishkalaringiz tayyor bo‘lganda eslatma kerakmi? Bundan ortiq hech qachon, va uni Sozlamalarda o‘chirib qo‘yishingiz mumkin.
 b724a40	ESLATING
-9e0c898	+{0} fishka tayyor!
-1207e28	Video ko‘ring: {0}
-db3655b	Keyingi bepul fishkalar {0} dan keyin
 4ca9be5	BLACKJACK
 9a612b1	4 stol  •  3 ga 2 to‘laydi
 1194439	SLOTLAR
@@ -369,7 +343,6 @@ da46447	KAZINO XODIMLARI
 69d3313	ERKAKLAR
 b4325d3	ARALASH
 414594a	ESLATMALAR
-6cac87b	Bepul fishkalar tayyor, va seriya tugashidan oldin kechki eslatma.
 e43b2e0	QAYTA TEKSHIRISH
 7c9e8f9	NARX HUDUDI
 495c70e	Eng tez: kazino chizilganidek, ortiqcha narsasiz.
@@ -444,8 +417,6 @@ c69e8ee	LUCKY ACE 7s
 fc99288	JAMI TIKISH
 c1c00cd	TO‘LOV JADVALI
 3930abd	OMAD!
-67b6973	Aylantirish uchun kamida 10 fishka kerak.
-5aa1edb	FISHKA OLISH
 f5a1812	Tikish to‘lay oladigan miqdorgacha kamaytirildi.
 5c63f61	MEGA YUTUQ!
 652544f	KATTA YUTUQ!
@@ -658,17 +629,8 @@ e1ae457	Mateo
 1920e2f	Birinchi tashlash: Pass Line'ga tiking, so‘ng tashlang. 7 yoki 11 yutadi, 2, 3 yoki 12 yutqazadi. Place tikishlari ochko chiqqandan keyin ishlay boshlaydi.
 99f4934	LUCKY ACE 7s  •  CHIZIQ TIKISHINGIZNING 2 500× GACHA TO‘LAYDI
 48ddc95	AVTOMATIK
-3848f78	Video {0} / {1}
-d87409f	Mukofot yo‘qoldi: videolarni oxirigacha ko‘rish kerak.
-14dcbe4	+{0}% energiya
-330037c	{0} qo‘l, {1}% omad bilan
-ff24786	VIDEOLARNI KO‘RING
-375d55d	1 dan 3 tagacha qisqa video
-f187dbf	KO‘RISH
-64d31ad	1 VIDEO KO‘RILSINMI?
-e77d414	{0} VIDEO KO‘RILSINMI?
-8707135	{0} olish uchun 1 videoni oxirigacha ko‘ring. Erta to‘xtasangiz, mukofot yo‘qoladi.
-88f8727	{1} olish uchun {0} videoni oxirigacha ko‘ring. Erta to‘xtasangiz, mukofot yo‘qoladi.
-7196e7c	BOSHLASH
-b967bda	HOZIR EMAS
-b10888c	Mukofot yutildi: {0}!
+c319724	Fishkalar tugadi! Yana olish uchun kassaga boring.
+4100521	Seriya eslatmalari
+9543087	Hali o‘ynamagan kechqurunlaringiz uchun eslatma xohlaysizmi, seriyangiz uzilib qolmasligi uchun? Bundan ortiq hech qachon bo‘lmaydi va uni Sozlamalarda o‘chirib qo‘yishingiz mumkin.
+3eb5ca2	O‘ynashni davom ettirish uchun fishka sotib oling.
+844f74b	Seriya tugashidan oldin kechki eslatma.

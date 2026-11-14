@@ -64,7 +64,6 @@ f76c8fd	Nyingi mno kwangu. Umeshinda!
 0b48017	Kiatu kipya, ninachanganya!
 3fa7769	Zinapungua? Keshia anaweza kukuongezea.
 4e5694b	Chipu zinapungua. Ungependa zaidi?
-d41f057	Chipu zimeisha! Tembelea keshia au chukua chipu za bure.
 15d90d3	Mrundikano wako ni mtupu. Keshia yuko nyuma yako.
 a9eaae1	Unaonekana umechoka sana! Pata chakula kwenye baa.
 5cd9e8b	Nguvu zimeisha? Baa itakusaidia.
@@ -175,14 +174,6 @@ b5b9597	MFULULIZO WA SIKU {0}!
 1998202	{0}: mikono {1} kwa bahati ya {2}%, baada ya Bahati ya Mwanzilishi
 728ada5	{0}: mikono {1} kwa bahati ya {2}%!
 af5e232	{0}: +{1}% nishati
-001a53b	Haipatikani kwenye kifaa hiki
-2607004	Video haziwezi kupakia kwenye mtandao huu
-569c30d	Rudi kesho
-ecae6ee	Tayari baada ya sekunde {0}
-9964820	+chipu {0} (zimebaki {1} leo)
-e1bd888	+chipu {0} za bure!
-619bd5d	+1 ugandishaji wa mfululizo!
-f70d794	Hakuna video kwa sasa. Jaribu tena baadaye kidogo.
 264d71b	SHABA
 462e839	FEDHA
 81ff70a	DHAHABU
@@ -197,9 +188,6 @@ a42f608	Tunaangalia eneo lako...
 1db422c	Haijathibitishwa ({0}): bei za kawaida
 9bc0807	{0} ({1}): bei kwa {2}
 ae8c393	Vikumbusho
-aefd59b	Chipu za bure tayari na vikumbusho vya mfululizo
-3125838	Chipu zako za bure ziko tayari
-233027b	Chipu {0} zinakusubiri Lucky Ace.
 b93976b	Dumisha mfululizo wako wa siku {0}
 bd68038	Cheza raundi {0} leo ili usianze upya saa sita usiku.
 0acfb6f	Karibu! Bahati ya mwanzilishi iko upande wako usiku huu. Weka dau!
@@ -230,9 +218,6 @@ b6e674a	Mgawaji hana blackjack. Bima imepotea.
 822f4f4	Bahati ya mwanzilishi imeisha. Kuanzia sasa ni blackjack ya kawaida.
 b0377c7	Mfululizo wako wa Bahati umeisha. Tunarudi kwenye blackjack ya kawaida.
 824ad7c	CHIPU ZIMEISHA
-ff1822d	Tazama video fupi upate chipu {0} za bure, au tembelea keshia.
-e4cac2f	Tembelea keshia ili kujaza chipu zako.
-c3df3e7	CHIPU ZA BURE
 b169d33	KESHIA
 4d38f66	BAADAYE
 cb8171b	Maliza mkono huu kwanza.
@@ -253,7 +238,6 @@ c3a8946	NIMEELEWA
 4035996	MFULULIZO WA KILA SIKU
 fbe7f18	SIKU MFULULIZO
 7a46866	LEO
-4753707	TAZAMA TANGAZO
 6bb45f3	NUNUA
 62a945f	UGANDISHAJI WA MFULULIZO
 ba5b1de	Ugandishaji wa mfululizo unadumisha mfululizo wako siku usiyocheza. Unaweza kuwa na hadi {0}.\n\nUnunue mmoja kwa chipu {1}?
@@ -273,8 +257,6 @@ f757137	DHAMIRA ZA LEO
 bb92856	Ugandishaji wa mfululizo: {0} / {1}
 0ec6216	Okoa mfululizo wako siku utakayokosa. +1 kila siku 7.
 cc0a745	IMEJAA
-419a962	HAKUNA VIDEO
-2dabd99	TANGAZO KARIBUNI
 f12e166	Bonasi ya mfululizo: zawadi ×{0}
 80948a4	Mzunguko mmoja wa bure kila siku
 596b5e0	UNAOFUATA  {0}
@@ -287,16 +269,8 @@ f12e166	Bonasi ya mfululizo: zawadi ×{0}
 d00d221	18+ pekee  •  Chipu ni za burudani: hazina thamani ya pesa, haziwezi kubadilishwa kamwe kwa pesa au zawadi
 b60f038	Tunafungua milango...
 2e5bcce	Karibu! Chipu zako {0} za karibu ziko tayari. Meza ziko mbele moja kwa moja!
-7ef7ae3	+chipu {0} za bure! Zaidi baada ya saa {1}.
-5d82af9	Chipu za bure hujazwa kila saa {0}. Zinazofuata baada ya {1}.
-5469985	saa {0} dk {1}
-bb65beb	dk {0} sek {1}
 ac8ba93	DUMISHA MFULULIZO WAKO
-560bfa1	Ungependa kikumbusho jioni ambazo bado hujacheza, na chipu zako za bure zikiwa tayari? Kamwe si zaidi ya hivyo, na unaweza kukizima kwenye Mipangilio.
 b724a40	NIKUMBUSHE
-9e0c898	+chipu {0} ziko tayari!
-1207e28	Tazama video: {0}
-db3655b	Chipu za bure zinazofuata baada ya {0}
 4ca9be5	BLACKJACK
 9a612b1	Meza 4  •  inalipa 3 kwa 2
 1194439	SLOTI
@@ -369,7 +343,6 @@ da46447	WAFANYAKAZI WA KASINO
 69d3313	WANAUME
 b4325d3	MCHANGANYIKO
 414594a	VIKUMBUSHO
-6cac87b	Chipu za bure tayari, na kikumbusho cha jioni kabla mfululizo haujaisha.
 e43b2e0	ANGALIA TENA
 7c9e8f9	ENEO LA BEI
 495c70e	Haraka zaidi: kasino kama ilivyochorwa, hakuna ziada.
@@ -444,8 +417,6 @@ c69e8ee	LUCKY ACE 7s
 fc99288	JUMLA YA DAU
 c1c00cd	JEDWALI LA MALIPO
 3930abd	BAHATI NJEMA!
-67b6973	Unahitaji angalau chipu 10 kuzungusha.
-5aa1edb	PATA CHIPU
 f5a1812	Dau limepunguzwa hadi kiasi unachoweza kulipa.
 5c63f61	USHINDI MKUBWA SANA!
 652544f	USHINDI MKUBWA!
@@ -658,17 +629,8 @@ e1ae457	Mateo
 1920e2f	Mrusho wa kwanza: weka dau kwenye Pass Line, kisha urushe. 7 au 11 inashinda, 2, 3 au 12 inapoteza. Dau za Place zinaanza kufanya kazi kukiwa na pointi.
 99f4934	LUCKY ACE 7s  •  INALIPA HADI 2,500× DAU LAKO LA MSTARI
 48ddc95	AUTO ZUNGUSHA
-3848f78	Video {0} kati ya {1}
-d87409f	Zawadi imepotea: lazima video zitazamwe hadi mwisho.
-14dcbe4	+{0}% nishati
-330037c	mikono {0} kwa bahati ya {1}%
-ff24786	TAZAMA VIDEO
-375d55d	video fupi 1 hadi 3
-f187dbf	TAZAMA
-64d31ad	TAZAMA VIDEO 1?
-e77d414	TAZAMA VIDEO {0}?
-8707135	Tazama video 1 hadi mwisho ili upate {0}. Ukisimama mapema, zawadi inapotea.
-88f8727	Tazama video {0} hadi mwisho ili upate {1}. Ukisimama mapema, zawadi inapotea.
-7196e7c	ANZA
-b967bda	SI SASA
-b10888c	Umeshinda zawadi: {0}!
+c319724	Chipu zimeisha! Nenda kwa keshia upate zaidi.
+4100521	Vikumbusho vya mfululizo
+9543087	Ungependa kikumbusho jioni ambazo bado hujacheza, ili mfululizo wako usikome? Kamwe si zaidi ya hapo, na unaweza kukizima katika Mipangilio.
+3eb5ca2	Nunua chipu ili kuendelea kucheza.
+844f74b	Kikumbusho cha jioni kabla mfululizo haujakatika.

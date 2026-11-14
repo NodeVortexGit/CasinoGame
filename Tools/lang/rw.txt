@@ -57,7 +57,6 @@ f76c8fd	Ni menshi kuri njye. Watsinze!
 59da99d	Kuba kabiri! Ikarita imwe iraje.
 3fa7769	Biragabanuka? Umubitsi ashobora kukongerera.
 4e5694b	Amachipu aragabanuka. Urashaka andi?
-d41f057	Amachipu yashize! Jya ku mubitsi cyangwa ufate amachipu y'ubuntu.
 15d90d3	Ikirundo cyawe ntacyo kirimo. Umubitsi ari inyuma yawe.
 a9eaae1	Usa n'unaniwe cyane! Fata icyo kurya ku kabari.
 5cd9e8b	Imbaraga zashize? Akabari kazakwitaho.
@@ -149,14 +148,6 @@ b5b9597	URUKURIKIRANE RW'IMINSI {0}!
 1f9786c	Kugura byanze. Ntiwishyujwe.
 3e4c600	Hongewemo +amachipu {0}!
 af5e232	{0}: +{1}% imbaraga
-001a53b	Ntibiboneka kuri iki gikoresho
-2607004	Amashusho ntashobora gufunguka kuri uyu muyoboro
-569c30d	Garuka ejo
-ecae6ee	Biriteguye mu masegonda {0}
-9964820	+amachipu {0} (hasigaye {1} uyu munsi)
-e1bd888	+amachipu {0} y'ubuntu!
-619bd5d	+1 gukonjesha urukurikirane!
-f70d794	Nta mashusho ahari ubu. Ongera ugerageze nyuma gato.
 264d71b	UMURINGA
 462e839	IFEZA
 81ff70a	ZAHABU
@@ -167,9 +158,6 @@ a42f608	Turimo kugenzura akarere kawe...
 1db422c	Ntibyemejwe ({0}): ibiciro bisanzwe
 9bc0807	{0} ({1}): ibiciro mu {2}
 ae8c393	Ibyibutsa
-aefd59b	Amachipu y'ubuntu yiteguye n'ibyibutsa by'urukurikirane
-3125838	Amachipu yawe y'ubuntu yiteguye
-233027b	Amachipu {0} agutegereje kuri Lucky Ace.
 b93976b	Bungabunga urukurikirane rwawe rw'iminsi {0}
 bd68038	Kina inshuro {0} uyu munsi kugira ngo rudasubira ku busa saa sita z'ijoro.
 0acfb6f	Murakaza neza! Amahirwe y'umutangizi ari ku ruhande rwawe muri iri joro. Shyira ubutege!
@@ -197,9 +185,6 @@ b6e674a	Utanga amakarita nta blackjack afite. Ubwishingizi bwatakaye.
 822f4f4	Amahirwe y'umutangizi yarangiye. Kuva ubu ni blackjack isanzwe.
 b0377c7	Urukurikirane rw'Amahirwe rwawe rwarangiye. Dusubiye kuri blackjack isanzwe.
 824ad7c	AMACHIPU YASHIZE
-ff1822d	Reba amashusho magufi ubone amachipu {0} y'ubuntu, cyangwa ujye ku mubitsi.
-e4cac2f	Jya ku mubitsi kugira ngo wongere amachipu yawe.
-c3df3e7	AMACHIPU Y'UBUNTU
 b169d33	UMUBITSI
 4d38f66	NYUMA
 3aa6941	“{0}”
@@ -212,7 +197,6 @@ c3a8946	NDABYUMVISE
 4035996	URUKURIKIRANE RWA BURI MUNSI
 fbe7f18	IMINSI IKURIKIRANYE
 7a46866	UYU MUNSI
-4753707	REBA IYAMAMAZA
 6bb45f3	GURA
 62a945f	GUKONJESHA URUKURIKIRANE
 ba5b1de	Gukonjesha urukurikirane bigumisha urukurikirane rwawe ku munsi udakina. Ushobora kugira kugeza kuri {0}.\n\nGura kimwe ku machipu {1}?
@@ -230,8 +214,6 @@ f757137	INSHINGANO Z'UYU MUNSI
 1aeb9a1	Uyu munsi: inshuro {0} / {1} (umukino uwo ari wo wose)
 bb92856	Gukonjesha urukurikirane: {0} / {1}
 cc0a745	BYUZUYE
-419a962	NTA MASHUSHO
-2dabd99	IYAMAMAZA RIRAJE
 f12e166	Igihembo cy'urukurikirane: ibihembo ×{0}
 80948a4	Inzunguruko imwe y'ubuntu buri munsi
 596b5e0	IKURIKIRA  {0}
@@ -244,16 +226,8 @@ f12e166	Igihembo cy'urukurikirane: ibihembo ×{0}
 d00d221	Gusa 18+  •  Amachipu ni ayo kwishimisha: nta gaciro k'amafaranga, ntashobora na rimwe kuvunjwamo amafaranga cyangwa ibihembo
 b60f038	Turimo gufungura imiryango...
 2e5bcce	Murakaza neza! Amachipu yawe {0} yo kwakirwa ariteguye. Ameza ari imbere yawe!
-7ef7ae3	+amachipu {0} y'ubuntu! Andi mu masaha {1}.
-5d82af9	Amachipu y'ubuntu yuzuzwa buri masaha {0}. Akurikira mu {1}.
-5469985	{0}h {1}m
-bb65beb	{0}m {1}s
 ac8ba93	BUNGABUNGA URUKURIKIRANE RWAWE
-560bfa1	Urashaka icyibutsa nimugoroba utarakina, n'igihe amachipu yawe y'ubuntu yiteguye? Nta kirenze ibyo, kandi ushobora kubihagarika mu Igenamiterere.
 b724a40	NYIBUTSA
-9e0c898	+amachipu {0} yiteguye!
-1207e28	Reba amashusho: {0}
-db3655b	Amachipu y'ubuntu akurikira mu {0}
 4ca9be5	BLACKJACK
 9a612b1	Ameza 4  •  yishyura 3 kuri 2
 1194439	SLOT
@@ -322,7 +296,6 @@ da46447	ABAKOZI BA KAZINO
 69d3313	ABAGABO
 b4325d3	IVANGE
 414594a	IBYIBUTSA
-6cac87b	Amachipu y'ubuntu yiteguye, n'icyibutsa cya nimugoroba mbere y'uko urukurikirane rurangira.
 e43b2e0	ONGERA UGENZURE
 7c9e8f9	AKARERE K'IBICIRO
 b052523	Hasi harabagirana, ibiti na zahabu byerekana icyumba.
@@ -392,8 +365,6 @@ c69e8ee	LUCKY ACE 7s
 fc99288	UBUTEGE BWOSE
 c1c00cd	IMBONERAHAMWE Y'IBIHEMBO
 3930abd	AMAHIRWE MASA!
-67b6973	Ukeneye nibura amachipu 10 kugira ngo uzunguze.
-5aa1edb	BONA AMACHIPU
 f5a1812	Ubutege bwagabanyijwe ku cyo ushobora kwishyura.
 5c63f61	INTSINZI IKOMEYE CYANE!
 652544f	INTSINZI IKOMEYE!
@@ -658,17 +629,8 @@ e2a28c9	Buri karita ifite ayo mahirwe yo gutangwa ku nyungu zawe, ku butege bwa 
 1920e2f	Gutera kwa mbere: tega kuri Pass Line, hanyuma utere. 7 cyangwa 11 biratsinda; 2, 3 cyangwa 12 biratsindwa. Gutega kwa Place bitangira gukora iyo hari point.
 99f4934	LUCKY ACE 7s  •  YISHYURA KUGEZA KURI 2,500× UBUTEGE BW'UMURONGO BWAWE
 48ddc95	AUTO ZUNGUZA
-3848f78	Video {0} muri {1}
-d87409f	Igihembo cyatakaye: amashusho agomba kurebwa kugeza arangiye.
-14dcbe4	+{0}% imbaraga
-330037c	imikino {0} ifite amahirwe {1}%
-ff24786	REBA AMASHUSHO
-375d55d	amashusho magufi 1 kugeza kuri 3
-f187dbf	REBA
-64d31ad	REBA AMASHUSHO IMWE?
-e77d414	REBA AMASHUSHO {0}?
-8707135	Reba video imwe kugeza irangiye kugira ngo ubone {0}. Niba uhagaritse hakiri kare, igihembo kirapfa.
-88f8727	Reba amashusho {0} kugeza arangiye kugira ngo ubone {1}. Niba uhagaritse hakiri kare, igihembo kirapfa.
-7196e7c	TANGIRA
-b967bda	OYA UBU
-b10888c	Igihembo cyatsinzwe: {0}!
+c319724	Amachipu yashize! Genda ku mubitsi ubone andi.
+4100521	Ibyibutsa by'urukurikirane
+9543087	Ushaka kwibutswa nimugoroba iyo utakinnye, kugira ngo urukurikirane rwawe rutarangira? Ntibirenze ibyo, kandi ushobora kubizimya mu Igenamiterere.
+3eb5ca2	Gura amachipu kugira ngo ukomeze gukina.
+844f74b	Kwibutswa nimugoroba mbere y'uko urukurikirane rurangira.

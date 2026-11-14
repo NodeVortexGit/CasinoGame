@@ -64,7 +64,6 @@ f76c8fd	Ó pọ̀ jù fún mi. O borí!
 0b48017	Bàtà tuntun, mò ń dà á pọ̀!
 3fa7769	Ó ń tán? Akọ̀wé owó lè fi kún un fún ọ.
 4e5694b	Ṣíìpù ń dínkù. Ṣé o fẹ́ sí i?
-d41f057	Ṣíìpù ti tán! Lọ sọ́dọ̀ akọ̀wé owó tàbí gba ṣíìpù ọ̀fẹ́.
 15d90d3	Òkìtì rẹ ṣófo. Akọ̀wé owó wà lẹ́yìn rẹ gan-an.
 a9eaae1	O dà bí ẹni tó ti rẹ̀ gan-an! Jẹ nǹkan ní ilé ọtí.
 5cd9e8b	Agbára ti tán? Ilé ọtí yóò tọ́jú rẹ.
@@ -175,14 +174,6 @@ b5b9597	ÌTẸLÉRA ỌJỌ {0}!
 1998202	{0}: ọwọ́ {1} pẹ̀lú oríire {2}%, lẹ́yìn Oríire Olùbẹ̀rẹ̀
 728ada5	{0}: ọwọ́ {1} pẹ̀lú oríire {2}%!
 af5e232	{0}: +{1}% agbára
-001a53b	Kò sí lórí ẹ̀rọ yìí
-2607004	Fídíò kò lè ṣí lórí nẹ́tíwọ̀ọ̀kì yìí
-569c30d	Padà wá lọ́la
-ecae6ee	Yóò ṣetán ní ìṣẹ́jú-àáyá {0}
-9964820	+ṣíìpù {0} ({1} ló kù lónìí)
-e1bd888	+ṣíìpù ọ̀fẹ́ {0}!
-619bd5d	+1 ìdádúró ìtẹ̀léra!
-f70d794	Kò sí fídíò báyìí. Gbìyànjú lẹ́ẹ̀kan sí i láìpẹ́.
 264d71b	BÀBÀ
 462e839	FÀDÁKÀ
 81ff70a	WÚRÀ
@@ -197,9 +188,6 @@ a42f608	A ń ṣàyẹ̀wò agbègbè rẹ...
 1db422c	A kò tíì fìdí rẹ̀ múlẹ̀ ({0}): iye àpapọ̀
 9bc0807	{0} ({1}): iye ní {2}
 ae8c393	Ìránnilétí
-aefd59b	Ṣíìpù ọ̀fẹ́ ti ṣetán àti ìránnilétí ìtẹ̀léra
-3125838	Ṣíìpù ọ̀fẹ́ rẹ ti ṣetán
-233027b	Ṣíìpù {0} ń dúró dè ọ́ ní Lucky Ace.
 b93976b	Pa ìtẹ̀léra ọjọ́ {0} rẹ mọ́
 bd68038	Ṣe ìyípo {0} lónìí kí ó má bàa padà sí òdo ní ọ̀gànjọ́ òru.
 0acfb6f	Káàbọ̀! Oríire olùbẹ̀rẹ̀ wà lẹ́gbẹ̀ẹ́ rẹ lálẹ́ yìí. Ta tẹ́tẹ́!
@@ -230,9 +218,6 @@ b6e674a	Olùpín kò ní blackjack. Ìdánilójú ti sọnù.
 822f4f4	Oríire olùbẹ̀rẹ̀ ti parí. Láti ìsinsìnyí lọ blackjack àpapọ̀ ni.
 b0377c7	Ìtẹ̀léra Oríire rẹ ti parí. A padà sí blackjack àpapọ̀.
 824ad7c	ṢÍÌPÙ TI TÁN
-ff1822d	Wo fídíò kúkúrú fún ṣíìpù ọ̀fẹ́ {0}, tàbí lọ sọ́dọ̀ akọ̀wé owó.
-e4cac2f	Lọ sọ́dọ̀ akọ̀wé owó láti fi kún ṣíìpù rẹ.
-c3df3e7	ṢÍÌPÙ ỌFẸ
 b169d33	AKỌWÉ OWÓ
 4d38f66	NÍGBÀ MÌÍRÀN
 cb8171b	Kọ́kọ́ parí ọwọ́ yìí.
@@ -253,7 +238,6 @@ c3a8946	MO GBỌ
 4035996	ÌTẸLÉRA OJOOJÚMỌ
 fbe7f18	ỌJỌ LÉRALÉRA
 7a46866	ÒNÍ
-4753707	WO ÌPOLÓWÓ
 6bb45f3	RÀ
 62a945f	ÌDÁDÚRÓ ÌTẸLÉRA
 ba5b1de	Ìdádúró ìtẹ̀léra ń pa ìtẹ̀léra rẹ mọ́ ní ọjọ́ tí o kò ṣeré. O lè ní títí dé {0}.\n\nRa ọ̀kan fún ṣíìpù {1}?
@@ -273,8 +257,6 @@ f757137	IṢẸ ÒNÍ
 bb92856	Ìdádúró ìtẹ̀léra: {0} / {1}
 0ec6216	Gba ìtẹ̀léra rẹ là ní ọjọ́ tí o pàdánù. +1 ní gbogbo ọjọ́ 7.
 cc0a745	Ó KÚN
-419a962	KÒ SÍ FÍDÍÒ
-2dabd99	ÌPOLÓWÓ LÁÌPẸ
 f12e166	Ẹbùn ìtẹ̀léra: ẹ̀bùn ×{0}
 80948a4	Ìyípo ọ̀fẹ́ kan lójoojúmọ́
 596b5e0	TÓ KÀN  {0}
@@ -287,16 +269,8 @@ f12e166	Ẹbùn ìtẹ̀léra: ẹ̀bùn ×{0}
 d00d221	18+ nìkan  •  Ṣíìpù wà fún ìgbádùn: kò ní iye owó, a kò lè pààrọ̀ rẹ̀ fún owó tàbí ẹ̀bùn láé
 b60f038	A ń ṣí àwọn ilẹ̀kùn...
 2e5bcce	Káàbọ̀! Ṣíìpù ìkáàbọ̀ {0} rẹ ti ṣetán. Àwọn tábìlì wà níwájú tààrà!
-7ef7ae3	+ṣíìpù ọ̀fẹ́ {0}! Sí i ní wákàtí {1}.
-5d82af9	Ṣíìpù ọ̀fẹ́ ń kún ní gbogbo wákàtí {0}. Èyí tó kàn ní {1}.
-5469985	wákàtí {0} ìṣẹ́jú {1}
-bb65beb	ìṣẹ́jú {0} ìṣẹ́jú-àáyá {1}
 ac8ba93	PA ÌTẸLÉRA RẸ MỌ
-560bfa1	Ṣé o fẹ́ ìránnilétí ní ìrọ̀lẹ́ tí o kò tíì ṣeré, àti nígbà tí ṣíìpù ọ̀fẹ́ rẹ bá ṣetán? Kò ní ju ìyẹn lọ, o sì lè pa á ní Ètò.
 b724a40	RÁN MI LÉTÍ
-9e0c898	+ṣíìpù {0} ti ṣetán!
-1207e28	Wo fídíò: {0}
-db3655b	Ṣíìpù ọ̀fẹ́ tó kàn ní {0}
 4ca9be5	BLACKJACK
 9a612b1	Tábìlì 4  •  ń san 3 sí 2
 1194439	SLỌỌTÌ
@@ -369,7 +343,6 @@ da46447	ÒṢÌṢẸ ILÉ TẸTẸ
 69d3313	ỌKÙNRIN
 b4325d3	ÀDÀPỌ
 414594a	ÌRÁNNILÉTÍ
-6cac87b	Ṣíìpù ọ̀fẹ́ ti ṣetán, àti ìránnilétí ìrọ̀lẹ́ kí ìtẹ̀léra tó parí.
 e43b2e0	ṢÀYẸWÒ LẸẸKAN SÍ I
 7c9e8f9	AGBÈGBÈ IYE
 495c70e	Tó yára jù: ilé tẹ́tẹ́ bí a ṣe yà á, kò sí àfikún.
@@ -444,8 +417,6 @@ c69e8ee	LUCKY ACE 7s
 fc99288	ÀPAPỌ TẸTẸ
 c1c00cd	TÁBÌLÌ ÌSANWÓ
 3930abd	ORÍIRE O!
-67b6973	O nílò ṣíìpù 10 ó kéré tán láti yí i.
-5aa1edb	GBA ṢÍÌPÙ
 f5a1812	A dín tẹ́tẹ́ kù sí ohun tí o lè san.
 5c63f61	ÌṢẸGUN ŃLÁ JÙ!
 652544f	ÌṢẸGUN ŃLÁ!
@@ -658,17 +629,8 @@ e1ae457	Mateo
 1920e2f	Jíju àkọ́kọ́: ta tẹ́tẹ́ lórí Pass Line, lẹ́yìn náà jù ú. 7 tàbí 11 borí, 2, 3 tàbí 12 pàdánù. Tẹ́tẹ́ Place máa ń bẹ̀rẹ̀ iṣẹ́ nígbà tí point bá wà.
 99f4934	LUCKY ACE 7s  •  Ń SAN TÍTÍ DÉ 2,500× TẸTẸ ÌLÀ RẸ
 48ddc95	YÍ AIFỌWỌṢE
-3848f78	Fídíò {0} nínú {1}
-d87409f	O ti pàdánù ẹ̀bùn: a gbọ́dọ̀ wo fídíò náà títí dé ìparí.
-14dcbe4	+{0}% agbára
-330037c	ọwọ́ {0} pẹ̀lú oríire {1}%
-ff24786	WO FÍDÍÒ
-375d55d	fídíò kúkúrú 1 sí 3
-f187dbf	WO
-64d31ad	WO FÍDÍÒ 1?
-e77d414	WO FÍDÍÒ {0}?
-8707135	Wo fídíò 1 títí dé ìparí láti gba {0}. Tí o bá dá dúró ní kùtùkùtù, ẹ̀bùn náà yóò lọ.
-88f8727	Wo fídíò {0} títí dé ìparí láti gba {1}. Tí o bá dá dúró ní kùtùkùtù, ẹ̀bùn náà yóò lọ.
-7196e7c	BẸRẸ
-b967bda	KÌ Í ṢE NÍ BÁYÌ
-b10888c	A ti gba ẹ̀bùn: {0}!
+c319724	Ṣíìpù ti tán! Lọ sí akọ̀wé owó láti gba àfikún.
+4100521	Ìránnilétí ìtẹ̀léra
+9543087	Ṣé o fẹ́ ìránnilétí ní ìrọ̀lẹ́ tí o kò tíì ṣeré, kí ìtẹ̀léra rẹ má bàa parí? Kò sí ju bẹ́ẹ̀ lọ, o sì lè pa á ní Ètò.
+3eb5ca2	Ra ṣíìpù láti máa bá eré lọ.
+844f74b	Ìránnilétí ìrọ̀lẹ́ kí ìtẹ̀léra tó parí.

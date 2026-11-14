@@ -64,7 +64,6 @@ f76c8fd	Quá nhiều với mình. Bạn thắng!
 0b48017	Hộp bài mới, mình xáo đây!
 3fa7769	Sắp hết rồi à? Quầy thu ngân có thể nạp thêm cho bạn.
 4e5694b	Chip đang vơi dần. Muốn lấy thêm không?
-d41f057	Hết chip rồi! Ghé quầy thu ngân hoặc nhận chip miễn phí nhé.
 15d90d3	Chồng chip của bạn trống rồi. Quầy thu ngân ngay sau lưng bạn.
 a9eaae1	Trông bạn mệt lắm! Ăn chút gì ở quầy bar đi.
 5cd9e8b	Cạn sức rồi à? Quầy bar lo cho bạn.
@@ -175,14 +174,6 @@ b5b9597	CHUỖI {0} NGÀY!
 1998202	{0}: {1} ván với {2}% may mắn, sau May mắn người mới
 728ada5	{0}: {1} ván với {2}% may mắn!
 af5e232	{0}: +{1}% năng lượng
-001a53b	Không khả dụng trên thiết bị này
-2607004	Không thể tải video trên mạng này
-569c30d	Quay lại vào ngày mai
-ecae6ee	Sẵn sàng sau {0} giây
-9964820	+{0} chip (hôm nay còn {1})
-e1bd888	+{0} chip miễn phí!
-619bd5d	+1 lượt đóng băng chuỗi!
-f70d794	Hiện không có video. Hãy thử lại sau giây lát.
 264d71b	ĐỒNG
 462e839	BẠC
 81ff70a	VÀNG
@@ -197,9 +188,6 @@ a42f608	Đang kiểm tra khu vực của bạn...
 1db422c	Chưa xác minh ({0}): giá chuẩn
 9bc0807	{0} ({1}): giá bằng {2}
 ae8c393	Lời nhắc
-aefd59b	Chip miễn phí đã sẵn sàng và lời nhắc chuỗi
-3125838	Chip miễn phí của bạn đã sẵn sàng
-233027b	{0} chip đang chờ bạn tại Lucky Ace.
 b93976b	Giữ chuỗi {0} ngày của bạn
 bd68038	Chơi {0} vòng hôm nay để chuỗi không bị đặt lại lúc nửa đêm.
 0acfb6f	Chào mừng! Tối nay may mắn người mới đứng về phía bạn. Đặt cược đi!
@@ -230,9 +218,6 @@ b6e674a	Nhà cái không có blackjack. Mất tiền bảo hiểm.
 822f4f4	May mắn người mới đã hết. Từ giờ là blackjack chuẩn.
 b0377c7	Chuỗi may mắn của bạn đã hết. Trở lại blackjack chuẩn.
 824ad7c	HẾT CHIP
-ff1822d	Xem một video ngắn để nhận {0} chip miễn phí, hoặc ghé quầy thu ngân.
-e4cac2f	Ghé quầy thu ngân để nạp thêm chip.
-c3df3e7	CHIP MIỄN PHÍ
 b169d33	THU NGÂN
 4d38f66	ĐỂ SAU
 cb8171b	Hãy chơi xong ván này trước.
@@ -253,7 +238,6 @@ c3a8946	ĐÃ HIỂU
 4035996	CHUỖI HẰNG NGÀY
 fbe7f18	NGÀY LIÊN TIẾP
 7a46866	HÔM NAY
-4753707	XEM QUẢNG CÁO
 6bb45f3	MUA
 62a945f	ĐÓNG BĂNG CHUỖI
 ba5b1de	Đóng băng chuỗi giữ chuỗi của bạn vào ngày bạn không chơi. Bạn có thể giữ tối đa {0}.\n\nMua một lượt với giá {1} chip?
@@ -273,8 +257,6 @@ f757137	NHIỆM VỤ HÔM NAY
 bb92856	Đóng băng chuỗi: {0} / {1}
 0ec6216	Cứu chuỗi vào ngày bạn bỏ lỡ. +1 mỗi 7 ngày.
 cc0a745	ĐẦY
-419a962	KHÔNG CÓ VIDEO
-2dabd99	SẮP CÓ QUẢNG CÁO
 f12e166	Thưởng chuỗi: giải thưởng ×{0}
 80948a4	Một lượt quay miễn phí mỗi ngày
 596b5e0	TIẾP THEO  {0}
@@ -287,16 +269,8 @@ f12e166	Thưởng chuỗi: giải thưởng ×{0}
 d00d221	Chỉ dành cho 18+  •  Chip chỉ để giải trí: không có giá trị tiền mặt, không bao giờ đổi được thành tiền hoặc giải thưởng
 b60f038	Đang mở cửa...
 2e5bcce	Chào mừng! {0} chip chào mừng của bạn đã sẵn sàng. Các bàn ở ngay phía trước!
-7ef7ae3	+{0} chip miễn phí! Thêm sau {1} giờ.
-5d82af9	Chip miễn phí được nạp lại mỗi {0} giờ. Lần tới sau {1}.
-5469985	{0} giờ {1} phút
-bb65beb	{0} phút {1} giây
 ac8ba93	GIỮ CHUỖI CỦA BẠN
-560bfa1	Bạn muốn được nhắc vào những buổi tối chưa chơi, và khi chip miễn phí đã sẵn sàng? Không bao giờ nhiều hơn thế, và bạn có thể tắt trong Cài đặt.
 b724a40	NHẮC TÔI
-9e0c898	+{0} chip đã sẵn sàng!
-1207e28	Xem video: {0}
-db3655b	Chip miễn phí tiếp theo sau {0}
 4ca9be5	BLACKJACK
 9a612b1	4 bàn  •  trả 3 ăn 2
 1194439	MÁY SLOT
@@ -369,7 +343,6 @@ da46447	NHÂN VIÊN SÒNG BÀI
 69d3313	NAM
 b4325d3	HỖN HỢP
 414594a	LỜI NHẮC
-6cac87b	Chip miễn phí đã sẵn sàng, và lời nhắc buổi tối trước khi chuỗi kết thúc.
 e43b2e0	KIỂM TRA LẠI
 7c9e8f9	KHU VỰC GIÁ
 495c70e	Nhanh nhất: sòng bài như tranh vẽ, không thêm gì.
@@ -444,8 +417,6 @@ c69e8ee	LUCKY ACE 7s
 fc99288	TỔNG CƯỢC
 c1c00cd	BẢNG TRẢ THƯỞNG
 3930abd	CHÚC MAY MẮN!
-67b6973	Bạn cần ít nhất 10 chip để quay.
-5aa1edb	NHẬN CHIP
 f5a1812	Đã giảm cược xuống mức bạn có thể trả.
 5c63f61	THẮNG CỰC LỚN!
 652544f	THẮNG LỚN!
@@ -658,17 +629,8 @@ e1ae457	Mateo
 1920e2f	Lượt mở đầu: đặt cược Pass Line rồi gieo. 7 hoặc 11 thắng, 2, 3 hoặc 12 thua. Cược Place bắt đầu có hiệu lực khi đã có điểm.
 99f4934	LUCKY ACE 7s  •  TRẢ ĐẾN 2.500× CƯỢC ĐƯỜNG CỦA BẠN
 48ddc95	QUAY TỰ ĐỘNG
-3848f78	Video {0} trên {1}
-d87409f	Mất phần thưởng: phải xem hết video mới được nhận.
-14dcbe4	+{0}% năng lượng
-330037c	{0} ván với {1}% may mắn
-ff24786	XEM VIDEO
-375d55d	1 đến 3 video ngắn
-f187dbf	XEM
-64d31ad	XEM 1 VIDEO?
-e77d414	XEM {0} VIDEO?
-8707135	Xem hết 1 video để nhận {0}. Nếu dừng giữa chừng, phần thưởng sẽ mất.
-88f8727	Xem hết {0} video để nhận {1}. Nếu dừng giữa chừng, phần thưởng sẽ mất.
-7196e7c	BẮT ĐẦU
-b967bda	ĐỂ SAU
-b10888c	Đã nhận phần thưởng: {0}!
+c319724	Hết chip rồi! Ghé quầy thu ngân để lấy thêm.
+4100521	Nhắc nhở chuỗi
+9543087	Bạn có muốn nhận lời nhắc vào những buổi tối chưa chơi, để chuỗi không bị đứt không? Không bao giờ nhiều hơn thế, và bạn có thể tắt trong Cài đặt.
+3eb5ca2	Mua chip để tiếp tục chơi.
+844f74b	Lời nhắc vào buổi tối trước khi chuỗi bị đứt.

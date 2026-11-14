@@ -64,7 +64,6 @@ f76c8fd	Minu jaoks liiga palju. Sa võidad!
 0b48017	Uus king, segan!
 3fa7769	Hakkab otsa saama? Kassa täiendab sind.
 4e5694b	Žetoone jääb vähemaks. Tahad veel?
-d41f057	Žetoonid otsas! Mine kassasse või võta tasuta žetoone.
 15d90d3	Su virn on tühi. Kassa on otse su selja taga.
 a9eaae1	Näed kurnatud välja! Söö baaris midagi.
 5cd9e8b	Jõud otsakorral? Baar hoolitseb sinu eest.
@@ -175,14 +174,6 @@ b5b9597	SEERIA: {0} PÄEVA!
 1998202	{0}: kätt {1} {2}% õnnega, pärast algaja õnne
 728ada5	{0}: kätt {1} {2}% õnnega!
 af5e232	{0}: +{1}% energiat
-001a53b	Pole selles seadmes saadaval
-2607004	Videod ei laadi selles võrgus
-569c30d	Tule homme tagasi
-ecae6ee	Valmis {0} s pärast
-9964820	+{0} žetooni (täna veel {1})
-e1bd888	+{0} tasuta žetooni!
-619bd5d	+1 seeria külmutus!
-f70d794	Praegu pole videot saadaval. Proovi hetke pärast uuesti.
 264d71b	PRONKS
 462e839	HÕBE
 81ff70a	KULD
@@ -197,9 +188,6 @@ a42f608	Kontrollime su piirkonda...
 1db422c	Kinnitamata ({0}): standardhinnad
 9bc0807	{0} ({1}): hinnad valuutas {2}
 ae8c393	Meeldetuletused
-aefd59b	Tasuta žetoonid valmis ja seeria meeldetuletused
-3125838	Su tasuta žetoonid on valmis
-233027b	Lucky Ace'is ootab sind {0} žetooni.
 b93976b	Hoia oma seeriat (päevi: {0})
 bd68038	Mängi täna ringe ({0}), et see keskööl ei nulliks.
 0acfb6f	Tere tulemast! Täna on algaja õnn sinu poolel. Tee panus!
@@ -230,9 +218,6 @@ b6e674a	Diileril pole blackjacki. Kindlustus kadus.
 822f4f4	Algaja õnn on läbi. Nüüdsest on tavaline blackjack.
 b0377c7	Sinu Õnneseeria on läbi. Tagasi tavalise blackjacki juurde.
 824ad7c	ŽETOONID OTSAS
-ff1822d	Vaata lühikest videot {0} tasuta žetooni eest või mine kassasse.
-e4cac2f	Mine kassasse žetoone täiendama.
-c3df3e7	TASUTA ŽETOONID
 b169d33	KASSA
 4d38f66	HILJEM
 cb8171b	Mängi esmalt see käsi lõpuni.
@@ -253,7 +238,6 @@ c3a8946	SELGE
 4035996	PÄEVASEERIA
 fbe7f18	PÄEVA JÄRJEST
 7a46866	TÄNA
-4753707	VAATA REKLAAMI
 6bb45f3	OSTA
 62a945f	SEERIA KÜLMUTUS
 ba5b1de	Külmutus hoiab su seeria elus päeval, mil sa ei mängi. Sul võib olla kuni {0}.\n\nOstad ühe {1} žetooni eest?
@@ -273,8 +257,6 @@ f757137	TÄNASED MISSIOONID
 bb92856	Seeria külmutused: {0} / {1}
 0ec6216	Päästa oma seeria päeval, mille vahele jätad. +1 iga 7 päeva järel.
 cc0a745	TÄIS
-419a962	VIDEOT POLE
-2dabd99	REKLAAM PEAGI
 f12e166	Seeria boonus: auhinnad ×{0}
 80948a4	Üks tasuta keerutus iga päev
 596b5e0	JÄRGMINE  {0}
@@ -287,16 +269,8 @@ f12e166	Seeria boonus: auhinnad ×{0}
 d00d221	Ainult 18+  •  Žetoonid on lõbu jaoks: rahalist väärtust pole, neid ei saa kunagi raha ega auhindade vastu vahetada
 b60f038	Avame uksi...
 2e5bcce	Tere tulemast! Su {0} tervitusžetooni on valmis. Lauad on otse ees!
-7ef7ae3	+{0} tasuta žetooni! Veel {1} tunni pärast.
-5d82af9	Tasuta žetoonid täituvad iga {0} tunni järel. Järgmised {1} pärast.
-5469985	{0} t {1} min
-bb65beb	{0} min {1} s
 ac8ba93	HOIA OMA SEERIAT
-560bfa1	Kas soovid meeldetuletust õhtuti, kui sa pole veel mänginud, ja kui tasuta žetoonid on valmis? Mitte kunagi rohkem, ja saad selle seadetes välja lülitada.
 b724a40	TULETA MEELDE
-9e0c898	+{0} žetooni valmis!
-1207e28	Vaata videot: {0}
-db3655b	Järgmised tasuta žetoonid {0} pärast
 4ca9be5	BLACKJACK
 9a612b1	4 lauda  •  maksab 3 : 2
 1194439	MÄNGUAUTOMAADID
@@ -369,7 +343,6 @@ da46447	KASIINO TÖÖTAJAD
 69d3313	MEHED
 b4325d3	SEGA
 414594a	MEELDETULETUSED
-6cac87b	Tasuta žetoonid valmis ja õhtune meeldetuletus enne, kui seeria lõpeks.
 e43b2e0	KONTROLLI UUESTI
 7c9e8f9	HINNAPIIRKOND
 495c70e	Kiireim: kasiino nagu maalitud, mitte midagi lisaks.
@@ -444,8 +417,6 @@ c69e8ee	LUCKY ACE 7s
 fc99288	KOGUPANUS
 c1c00cd	VÕIDUTABEL
 3930abd	EDU!
-67b6973	Keerutamiseks on vaja vähemalt 10 žetooni.
-5aa1edb	HANGI ŽETOONE
 f5a1812	Panust vähendati summani, mida suudad katta.
 5c63f61	MEGAVÕIT!
 652544f	SUUR VÕIT!
@@ -658,17 +629,8 @@ e1ae457	Mateo
 1920e2f	Avavise: panusta Pass Line'ile ja viska. 7 või 11 võidab, 2, 3 või 12 kaotab. Place-panused hakkavad kehtima, kui punkt on olemas.
 99f4934	LUCKY ACE 7s  •  MAKSAB KUNI 2500× SINU JOONEPANUSE
 48ddc95	AUTOMAATNE
-3848f78	Video {0}/{1}
-d87409f	Auhind läks kaotsi: videod tuleb vaadata lõpuni.
-14dcbe4	+{0}% energiat
-330037c	{0} kätt {1}% õnnega
-ff24786	VAATA REKLAAME
-375d55d	1–3 lühikest videot
-f187dbf	VAATA
-64d31ad	VAATA 1 REKLAAMI?
-e77d414	VAATA {0} REKLAAMI?
-8707135	Vaata 1 videot lõpuni, et saada {0}. Kui katkestad enne, auhind läheb kaotsi.
-88f8727	Vaata {0} videot lõpuni, et saada {1}. Kui katkestad enne, auhind läheb kaotsi.
-7196e7c	ALUSTA
-b967bda	MITTE PRAEGU
-b10888c	Auhind võidetud: {0}!
+c319724	Žetoonid otsas! Mine kassasse, et saada juurde.
+4100521	Seeria meeldetuletused
+9543087	Kas soovid meeldetuletust õhtutel, kui pole veel mänginud, et seeria ei katkeks? Mitte rohkem kui see, ning selle saab välja lülitada seadetes.
+3eb5ca2	Osta žetoone, et mängu jätkata.
+844f74b	Õhtune meeldetuletus enne, kui seeria katkeb.

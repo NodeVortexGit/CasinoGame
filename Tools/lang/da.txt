@@ -64,7 +64,6 @@ f76c8fd	For mange til mig. Du vinder!
 0b48017	Ny sko, jeg blander!
 3fa7769	Ved at løbe tør? Kassen kan fylde op for dig.
 4e5694b	Jetonerne er ved at slippe op. Vil du have flere?
-d41f057	Ikke flere jetoner! Gå til kassen eller hent gratis jetoner.
 15d90d3	Din stak er tom. Kassen er lige bag dig.
 a9eaae1	Du ser udmattet ud! Få en bid mad i baren.
 5cd9e8b	Kører du på reserven? Baren klarer det.
@@ -175,14 +174,6 @@ b5b9597	{0} DAGE I TRÆK!
 1998202	{0}: {1} hænder med {2}% held, efter begynderheldet
 728ada5	{0}: {1} hænder med {2}% held!
 af5e232	{0}: +{1}% energi
-001a53b	Ikke tilgængelig på denne enhed
-2607004	Videoer kan ikke indlæses på dette netværk
-569c30d	Kom tilbage i morgen
-ecae6ee	Klar om {0} s
-9964820	+{0} jetoner ({1} tilbage i dag)
-e1bd888	+{0} gratis jetoner!
-619bd5d	+1 stimefrysning!
-f70d794	Ingen video tilgængelig lige nu. Prøv igen om lidt.
 264d71b	BRONZE
 462e839	SØLV
 81ff70a	GULD
@@ -197,9 +188,6 @@ a42f608	Tjekker din region...
 1db422c	Ikke bekræftet ({0}): standardpriser
 9bc0807	{0} ({1}): priser i {2}
 ae8c393	Påmindelser
-aefd59b	Gratis jetoner klar og stimepåmindelser
-3125838	Dine gratis jetoner er klar
-233027b	{0} jetoner venter på dig hos Lucky Ace.
 b93976b	Hold din stime på {0} dage
 bd68038	Spil {0} runder i dag, så den ikke nulstilles ved midnat.
 0acfb6f	Velkommen! Begynderheldet er på din side i aften. Placér en indsats!
@@ -230,9 +218,6 @@ b6e674a	Ingen blackjack til dealeren. Forsikringen er tabt.
 822f4f4	Begynderheldet er slut. Fra nu af er det almindelig blackjack.
 b0377c7	Din Heldige stime er slut. Tilbage til almindelig blackjack.
 824ad7c	INGEN JETONER
-ff1822d	Se en kort video for {0} gratis jetoner, eller gå til kassen.
-e4cac2f	Gå til kassen for at fylde op med jetoner.
-c3df3e7	GRATIS JETONER
 b169d33	KASSE
 4d38f66	SENERE
 cb8171b	Spil denne hånd færdig først.
@@ -253,7 +238,6 @@ c3a8946	FORSTÅET
 4035996	DAGLIG STIME
 fbe7f18	DAGE I TRÆK
 7a46866	I DAG
-4753707	SE REKLAME
 6bb45f3	KØB
 62a945f	STIMEFRYSNING
 ba5b1de	En stimefrysning holder din stime i live på en dag, hvor du ikke spiller. Du kan have {0}.\n\nKøb én for {1} jetoner?
@@ -273,8 +257,6 @@ f757137	DAGENS MISSIONER
 bb92856	Stimefrysninger: {0} / {1}
 0ec6216	Red din stime på en dag, du misser. +1 hver 7. dag.
 cc0a745	FULD
-419a962	INGEN VIDEO
-2dabd99	REKLAME SNART
 f12e166	Stimebonus: præmier ×{0}
 80948a4	Ét gratis spin hver dag
 596b5e0	NÆSTE  {0}
@@ -287,16 +269,8 @@ f12e166	Stimebonus: præmier ×{0}
 d00d221	Kun 18+  •  Jetonerne er for sjov: ingen pengeværdi, kan aldrig veksles til penge eller præmier
 b60f038	Dørene åbnes...
 2e5bcce	Velkommen! Dine {0} velkomstjetoner er klar. Bordene er lige frem!
-7ef7ae3	+{0} gratis jetoner! Flere om {1} timer.
-5d82af9	Gratis jetoner fyldes op hver {0}. time. Næste om {1}.
-5469985	{0} t {1} min
-bb65beb	{0} min {1} s
 ac8ba93	HOLD DIN STIME
-560bfa1	Vil du have en påmindelse de aftener, du ikke har spillet endnu, og når dine gratis jetoner er klar? Aldrig mere end det, og du kan slå det fra i Indstillinger.
 b724a40	MIND MIG OM DET
-9e0c898	+{0} jetoner klar!
-1207e28	Se en video: {0}
-db3655b	Næste gratis jetoner om {0}
 4ca9be5	BLACKJACK
 9a612b1	4 borde  •  betaler 3 til 2
 1194439	SPILLEAUTOMATER
@@ -369,7 +343,6 @@ da46447	KASINOPERSONALE
 69d3313	MÆND
 b4325d3	BLANDET
 414594a	PÅMINDELSER
-6cac87b	Gratis jetoner klar, og et lille puf om aftenen, før en stime ville slutte.
 e43b2e0	TJEK IGEN
 7c9e8f9	PRISREGION
 495c70e	Hurtigst: kasinoet som malet, intet ekstra.
@@ -444,8 +417,6 @@ c69e8ee	LUCKY ACE 7s
 fc99288	SAMLET INDSATS
 c1c00cd	GEVINSTTABEL
 3930abd	HELD OG LYKKE!
-67b6973	Du skal have mindst 10 jetoner for at spinne.
-5aa1edb	HENT JETONER
 f5a1812	Indsatsen er sænket til det, du har råd til.
 5c63f61	MEGAGEVINST!
 652544f	STOR GEVINST!
@@ -658,17 +629,8 @@ e1ae457	Mateo
 1920e2f	Come-out: sats på Pass Line og kast. 7 eller 11 vinder, 2, 3 eller 12 taber. Place-indsatser gælder først, når der er et point.
 99f4934	LUCKY ACE 7s  •  BETALER OP TIL 2.500× DIN LINJEINDSATS
 48ddc95	AUTO SPIN
-3848f78	Video {0} af {1}
-d87409f	Præmien er tabt: videoerne skal ses helt til ende.
-14dcbe4	+{0} % energi
-330037c	{0} hænder med {1} % held
-ff24786	SE REKLAMER
-375d55d	1 til 3 korte videoer
-f187dbf	SE
-64d31ad	SE 1 REKLAME?
-e77d414	SE {0} REKLAMER?
-8707135	Se 1 video helt til ende for at få {0}. Hvis du stopper for tidligt, er præmien tabt.
-88f8727	Se {0} videoer helt til ende for at få {1}. Hvis du stopper for tidligt, er præmien tabt.
-7196e7c	START
-b967bda	IKKE NU
-b10888c	Præmie vundet: {0}!
+c319724	Ingen jetoner tilbage! Gå hen til kassen for at få flere.
+4100521	Påmindelser om stime
+9543087	Vil du have en påmindelse om aftener, hvor du endnu ikke har spillet, så din stime ikke ryger? Aldrig mere end det, og du kan slå den fra under Indstillinger.
+3eb5ca2	Køb jetoner for at spille videre.
+844f74b	En aftenpåmindelse, før stimen ryger.

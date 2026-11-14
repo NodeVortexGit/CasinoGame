@@ -33,7 +33,7 @@ namespace Casino.Core.Player
             [DealerMoment.Double] = new[] { "Doubling down. Brave move!", "Double it! One card coming up." },
             [DealerMoment.Shuffle] = new[] { "Fresh shoe, shuffling up!" },
             [DealerMoment.LowChips] = new[] { "Running low? The cashier can top you up.", "Chips getting thin. Want to grab more?" },
-            [DealerMoment.OutOfChips] = new[] { "Out of chips! Visit the cashier or grab free chips.", "Your stack is empty. The cashier is right behind you." },
+            [DealerMoment.OutOfChips] = new[] { "Out of chips! Visit the cashier to get more.", "Your stack is empty. The cashier is right behind you." },
             [DealerMoment.Exhausted] = new[] { "You look exhausted! Grab a bite at the bar.", "Running on empty? The bar has you covered." },
             [DealerMoment.Idle] = new[] { "Take your time.", "Whenever you're ready!", "The night is young." },
             [DealerMoment.BeginnerLuck] = new[] { "Beginner's luck is on your side!", "The deck is in your favor tonight!" },

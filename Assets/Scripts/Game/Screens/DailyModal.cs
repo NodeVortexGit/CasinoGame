@@ -22,7 +22,7 @@ namespace Casino.Screens
         Text streakNumber, streakBest, goalText, freezeText, wheelInfo;
         Image bigFlame;
         RectTransform goalFill, wheel;
-        UIButton freezeButton, freezeAdButton, spinButton;
+        UIButton freezeButton, spinButton;
 
         readonly Image[] dayIcons = new Image[7];
         readonly Image[] dayRings = new Image[7];
@@ -122,11 +122,9 @@ namespace Casino.Screens
             ((RectTransform)ice.transform).Center(-205, -215, 56, 56);
             freezeText = UIKit.Label(col, "", 24, Color.white, TextAnchor.MiddleLeft, FontKind.Semi);
             ((RectTransform)freezeText.transform).Center(30, -212, 400, 92);   // header plus a two-line note, without shrinking
-            // A freeze for a video, or for chips.
-            freezeAdButton = UIKit.Button(col, Loc.T("WATCH AD"), ButtonStyle.Green, () => App.I.Purchases.WatchAdForFreeze(), 28, Icon.Video);
-            freezeAdButton.Rect.Center(-118, -310, 228, 90);
+            // A freeze for chips.
             freezeButton = UIKit.Button(col, Loc.T("BUY"), ButtonStyle.Blue, AskBuyFreeze, 28, Icon.Coin);
-            freezeButton.Rect.Center(118, -310, 228, 90);
+            freezeButton.Rect.Center(0, -310, 228, 90);
         }
 
         void AskBuyFreeze()
@@ -308,10 +306,6 @@ namespace Casino.Screens
                 "\n<size=19><color=#C9BFDB>" + Loc.T("Save your streak on a day you miss. +1 every 7 days.") + "</color></size>";
             freezeButton.SetLabel(p.CanBuyFreeze ? ChipFormat.Short(GameConfig.StreakFreezeChips) : Loc.T("FULL"));
             freezeButton.Interactable = p.CanBuyFreeze;
-            var purchases = App.I.Purchases;
-            freezeAdButton.SetLabel(!p.CanBuyFreeze ? Loc.T("FULL") : purchases.AdReady ? Loc.T("WATCH AD")
-                : App.I.Ads.IsBlocked ? Loc.T("NO VIDEO") : Loc.T("AD SOON"));
-            freezeAdButton.Interactable = p.CanBuyFreeze && purchases.AdReady;
 
             if (!spinning)
             {

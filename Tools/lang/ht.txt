@@ -64,7 +64,6 @@ f76c8fd	Twòp pou mwen. Ou genyen!
 0b48017	Nouvo soulye, m ap bat kat yo!
 3fa7769	Yo prèske fini? Kesye a ka ranpli w.
 4e5694b	Jeton yo ap diminye. Ou vle plis?
-d41f057	Pa gen jeton ankò! Ale kot kesye a oswa pran jeton gratis.
 15d90d3	Pil ou a vid. Kesye a dèyè w la menm.
 a9eaae1	Ou sanble fatige anpil! Manje yon bagay nan ba a.
 5cd9e8b	Ou pa gen fòs ankò? Ba a ap okipe w.
@@ -175,14 +174,6 @@ b5b9597	SERI {0} JOU!
 1998202	{0}: {1} men ak {2}% chans, apre Chans Debitan an
 728ada5	{0}: {1} men ak {2}% chans!
 af5e232	{0}: +{1}% enèji
-001a53b	Pa disponib sou aparèy sa a
-2607004	Videyo pa ka chaje sou rezo sa a
-569c30d	Tounen demen
-ecae6ee	Pare nan {0}s
-9964820	+{0} jeton ({1} ki rete jodi a)
-e1bd888	+{0} jeton gratis!
-619bd5d	+1 jèl seri!
-f70d794	Pa gen videyo kounye a. Eseye ankò nan yon ti moman.
 264d71b	BWONZ
 462e839	AJAN
 81ff70a	LÒ
@@ -197,9 +188,6 @@ a42f608	N ap tcheke rejyon w...
 1db422c	Pa verifye ({0}): pri nòmal
 9bc0807	{0} ({1}): pri an {2}
 ae8c393	Rapèl
-aefd59b	Jeton gratis pare ak rapèl seri
-3125838	Jeton gratis ou yo pare
-233027b	{0} jeton ap tann ou nan Lucky Ace.
 b93976b	Kenbe seri {0} jou ou a
 bd68038	Jwe {0} wonn jodi a pou l pa rekòmanse a minwi.
 0acfb6f	Byenvini! Chans debitan an avè w aswè a. Mete yon pari!
@@ -230,9 +218,6 @@ b6e674a	Diyè a pa gen blackjack. Asirans pèdi.
 822f4f4	Chans debitan an fini. Depi kounye a se blackjack nòmal.
 b0377c7	Seri Chans ou fini. N ap tounen nan blackjack nòmal.
 824ad7c	PA GEN JETON
-ff1822d	Gade yon ti videyo pou {0} jeton gratis, oswa ale kot kesye a.
-e4cac2f	Ale kot kesye a pou ranpli jeton w.
-c3df3e7	JETON GRATIS
 b169d33	KESYE
 4d38f66	PITA
 cb8171b	Fini men sa a anvan.
@@ -253,7 +238,6 @@ c3a8946	MWEN KONPRANN
 4035996	SERI CHAK JOU
 fbe7f18	JOU YOUN DÈYÈ LÒT
 7a46866	JODI A
-4753707	GADE PIBLISITE
 6bb45f3	ACHTE
 62a945f	JÈL SERI
 ba5b1de	Yon jèl seri kenbe seri w vivan yon jou ou pa jwe. Ou ka genyen jiska {0}.\n\nAchte youn pou {1} jeton?
@@ -273,8 +257,6 @@ f757137	MISYON JODI A
 bb92856	Jèl seri: {0} / {1}
 0ec6216	Sove seri w yon jou ou rate. +1 chak 7 jou.
 cc0a745	PLEN
-419a962	PA GEN VIDEYO
-2dabd99	PIBLISITE BYENTO
 f12e166	Bonis seri: pri ×{0}
 80948a4	Yon vire gratis chak jou
 596b5e0	PWOCHEN  {0}
@@ -287,16 +269,8 @@ f12e166	Bonis seri: pri ×{0}
 d00d221	18+ sèlman  •  Jeton yo se pou plezi: yo pa gen valè lajan, yo pa janm ka chanje pou lajan oswa pri
 b60f038	N ap louvri pòt yo...
 2e5bcce	Byenvini! {0} jeton byenveni ou yo pare. Tab yo dwat devan w!
-7ef7ae3	+{0} jeton gratis! Plis nan {1} èdtan.
-5d82af9	Jeton gratis ranpli chak {0} èdtan. Pwochen an nan {1}.
-5469985	{0}è {1}m
-bb65beb	{0}m {1}s
 ac8ba93	KENBE SERI W
-560bfa1	Ou vle yon rapèl nan aswè ou poko jwe, ak lè jeton gratis ou yo pare? Jamè plis pase sa, epi ou ka fèmen l nan Paramèt.
 b724a40	FÈ M SONJE
-9e0c898	+{0} jeton pare!
-1207e28	Gade yon videyo: {0}
-db3655b	Pwochen jeton gratis nan {0}
 4ca9be5	BLACKJACK
 9a612b1	4 tab  •  peye 3 pou 2
 1194439	SLOT
@@ -369,7 +343,6 @@ da46447	ANPLWAYE KAZINO A
 69d3313	GASON
 b4325d3	MELANJE
 414594a	RAPÈL
-6cac87b	Jeton gratis pare, ak yon ti rapèl nan aswè anvan yon seri fini.
 e43b2e0	TCHEKE ANKÒ
 7c9e8f9	REJYON PRI
 495c70e	Pi rapid: kazino a jan li pentire a, anyen anplis.
@@ -444,8 +417,6 @@ c69e8ee	LUCKY ACE 7s
 fc99288	PARI TOTAL
 c1c00cd	TAB PEMAN
 3930abd	BÒN CHANS!
-67b6973	Ou bezwen omwen 10 jeton pou vire.
-5aa1edb	PRAN JETON
 f5a1812	Pari a bese pou sa ou ka peye.
 5c63f61	MEGA GENYEN!
 652544f	GWO GENYEN!
@@ -658,17 +629,8 @@ e1ae457	Mateo
 1920e2f	Premye jete: parye sou Pass Line, epi voye. 7 oswa 11 genyen; 2, 3 oswa 12 pèdi. Pari place yo kòmanse fonksyone lè gen yon pwen.
 99f4934	LUCKY ACE 7s  •  PEYE JISKA 2,500× PARI LIY OU A
 48ddc95	VIRE OTOMATIK
-3848f78	Videyo {0} sou {1}
-d87409f	Pri a pèdi: videyo yo dwe gade jiska fen.
-14dcbe4	+{0}% enèji
-330037c	{0} men ak {1}% chans
-ff24786	GADE PUBLISITE
-375d55d	1 a 3 kout videyo
-f187dbf	GADE
-64d31ad	GADE 1 PIBLISITE?
-e77d414	GADE {0} PIBLISITE?
-8707135	Gade 1 videyo jiska fen pou w jwenn {0}. Si w sispann bonè, pri a pèdi.
-88f8727	Gade {0} videyo jiska fen pou w jwenn {1}. Si w sispann bonè, pri a pèdi.
-7196e7c	KOMANSE
-b967bda	PA KOUNYE A
-b10888c	Pri gaye: {0}!
+c319724	Pa gen jeton! Ale nan kesye a pou jwenn plis.
+4100521	Rapèl seri
+9543087	Ou vle yon rapèl nan aswè ou poko jwe yo, pou seri w pa fini? Pa janm plis pase sa, epi ou ka etenn li nan Paramèt yo.
+3eb5ca2	Achte jeton pou kontinye jwe.
+844f74b	Yon rapèl aswè anvan seri a fini.

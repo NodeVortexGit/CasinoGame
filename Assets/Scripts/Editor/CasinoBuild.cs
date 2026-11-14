@@ -1,6 +1,5 @@
 using System;
 using System.IO;
-using System.Reflection;
 using UnityEditor;
 using UnityEditor.Build.Reporting;
 using UnityEngine;
@@ -15,7 +14,7 @@ namespace Casino.EditorTools
     {
         const string Root = "Builds";
 
-        /// <summary>Sideload test build: test store and test ads switched on (CASINO_DEMO), no real money.</summary>
+        /// <summary>Sideload test build: test store switched on (CASINO_DEMO), no real money.</summary>
         [MenuItem("Casino/Build/Android APK (test, sideload)", false, 1)]
         public static void AndroidApk() => Android(false, true);
 
@@ -25,7 +24,7 @@ namespace Casino.EditorTools
         /// <summary>
         /// Exports the Android project for Gradle (Builds/Android/Gradle). Tools/android_build.sh then builds it with Gradle:
         /// APKs to sideload and the app bundle, checks the bundle with bundletool and installs on a connected phone with
-        /// adb. Test build (test store and test ads) unless -release is passed; -arm64 leaves out 32-bit phones (half the
+        /// adb. Test build (test store) unless -release is passed; -arm64 leaves out 32-bit phones (half the
         /// native compile, for quick test builds).
         /// </summary>
         [MenuItem("Casino/Build/Android Gradle project", false, 3)]
@@ -38,7 +37,6 @@ namespace Casino.EditorTools
             EditorUserBuildSettings.buildAppBundle = false;
             EditorUserBuildSettings.exportAsGoogleAndroidProject = true;
             PlayerSettings.Android.buildApkPerCpuArchitecture = true;
-            SyncAdMobAppId();
             try
             {
                 Build(BuildTarget.Android, Path.Combine(Root, "Android", "Gradle"), !release);
@@ -66,7 +64,6 @@ namespace Casino.EditorTools
             // Sideload builds: one APK per CPU type (~23 MB each instead of ~39 MB). Google Play app bundles split
             // per device automatically, so this only matters for APKs.
             PlayerSettings.Android.buildApkPerCpuArchitecture = !bundle;
-            SyncAdMobAppId();
             Build(BuildTarget.Android, Path.Combine(Root, "Android", bundle ? "LuckyAceCasino.aab" : "LuckyAceCasino.apk"), demo);
         }
 
@@ -94,25 +91,6 @@ namespace Casino.EditorTools
             return ok;
         }
 
-        /// <summary>
-        /// The Google Mobile Ads plugin writes the AdMob app id into the Android manifest from its own settings asset (and
-        /// the app crashes at launch without one). Keep that asset in step with GameConfig.AdMobAndroidAppId.
-        /// </summary>
-        static void SyncAdMobAppId()
-        {
-            var type = Type.GetType("GoogleMobileAds.Editor.GoogleMobileAdsSettings, GoogleMobileAds.Editor");
-            if (type == null) return; // plugin not installed
-            var load = type.GetMethod("LoadInstance", BindingFlags.Static | BindingFlags.Public | BindingFlags.NonPublic);
-            var prop = type.GetProperty("GoogleMobileAdsAndroidAppId");
-            if (!(load?.Invoke(null, null) is ScriptableObject settings) || prop == null) return;
-            string wanted = GameConfigBridge.AdMobAndroidAppId;
-            if (string.IsNullOrEmpty(wanted) || (string)prop.GetValue(settings) == wanted) return;
-            prop.SetValue(settings, wanted);
-            EditorUtility.SetDirty(settings);
-            AssetDatabase.SaveAssets();
-            Debug.Log($"Casino: AdMob Android app id set to {wanted}.");
-        }
-
         /// <summary>steam_appid.txt lets a development build talk to Steam when launched outside the Steam client.</summary>
         static void WriteSteamAppId(string folder)
         {
@@ -123,9 +101,6 @@ namespace Casino.EditorTools
     /// <summary>Editor scripts can't reference Assembly-CSharp, so GameConfig values are read here via reflection.</summary>
     static class GameConfigBridge
     {
-        public static string AdMobAndroidAppId =>
-            Type.GetType("Casino.GameConfig, Assembly-CSharp")?.GetField("AdMobAndroidAppId")?.GetValue(null) as string;
-
         public static uint SteamAppId
         {
             get

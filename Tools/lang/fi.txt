@@ -64,7 +64,6 @@ f76c8fd	Liikaa minulle. Sinä voitat!
 0b48017	Uusi kenkä, sekoitan!
 3fa7769	Vähissä? Kassa täydentää sinut.
 4e5694b	Pelimerkit vähenevät. Haluatko lisää?
-d41f057	Pelimerkit loppu! Käy kassalla tai hae ilmaisia pelimerkkejä.
 15d90d3	Pinosi on tyhjä. Kassa on aivan takanasi.
 a9eaae1	Näytät uupuneelta! Hae syötävää baarista.
 5cd9e8b	Akku tyhjänä? Baari hoitaa sinut.
@@ -175,14 +174,6 @@ b5b9597	{0} PÄIVÄN PUTKI!
 1998202	{0}: {1} kättä {2} %:n onnella, aloittelijan onnen jälkeen
 728ada5	{0}: {1} kättä {2} %:n onnella!
 af5e232	{0}: +{1} % energiaa
-001a53b	Ei käytettävissä tällä laitteella
-2607004	Videot eivät lataudu tässä verkossa
-569c30d	Palaa huomenna
-ecae6ee	Valmis {0} s kuluttua
-9964820	+{0} pelimerkkiä (tänään jäljellä {1})
-e1bd888	+{0} ilmaista pelimerkkiä!
-619bd5d	+1 putken jäädytys!
-f70d794	Videota ei ole juuri nyt saatavilla. Yritä hetken päästä uudelleen.
 264d71b	PRONSSI
 462e839	HOPEA
 81ff70a	KULTA
@@ -197,9 +188,6 @@ a42f608	Tarkistetaan aluettasi...
 1db422c	Ei vahvistettu ({0}): vakiohinnat
 9bc0807	{0} ({1}): hinnat valuutassa {2}
 ae8c393	Muistutukset
-aefd59b	Ilmaiset pelimerkit valmiina ja putkimuistutukset
-3125838	Ilmaiset pelimerkkisi ovat valmiina
-233027b	Lucky Acessa odottaa sinua {0} pelimerkkiä.
 b93976b	Pidä {0} päivän putkesi
 bd68038	Pelaa tänään kierroksia: {0}, ettei putki nollaudu keskiyöllä.
 0acfb6f	Tervetuloa! Aloittelijan onni on tänään puolellasi. Aseta panos!
@@ -230,9 +218,6 @@ b6e674a	Jakajalla ei blackjackia. Vakuutus menetetty.
 822f4f4	Aloittelijan onni on ohi. Tästä eteenpäin pelataan tavallista blackjackia.
 b0377c7	Onnenputkesi on ohi. Takaisin tavalliseen blackjackiin.
 824ad7c	PELIMERKIT LOPPU
-ff1822d	Katso lyhyt video ja saat {0} ilmaista pelimerkkiä, tai käy kassalla.
-e4cac2f	Käy kassalla täydentämässä pelimerkkejä.
-c3df3e7	ILMAISET PELIMERKIT
 b169d33	KASSA
 4d38f66	MYÖHEMMIN
 cb8171b	Pelaa ensin tämä käsi loppuun.
@@ -253,7 +238,6 @@ c3a8946	SELVÄ
 4035996	PÄIVÄPUTKI
 fbe7f18	PÄIVÄN PUTKI
 7a46866	TÄNÄÄN
-4753707	KATSO MAINOS
 6bb45f3	OSTA
 62a945f	PUTKEN JÄÄDYTYS
 ba5b1de	Putken jäädytys pitää putkesi hengissä päivänä, jona et pelaa. Voit pitää niitä enintään {0}.\n\nOstetaanko yksi hintaan {1} pelimerkkiä?
@@ -273,8 +257,6 @@ f757137	PÄIVÄN TEHTÄVÄT
 bb92856	Putken jäädytykset: {0} / {1}
 0ec6216	Pelasta putkesi päivänä, jonka jätät väliin. +1 joka 7. päivä.
 cc0a745	TÄYNNÄ
-419a962	EI VIDEOTA
-2dabd99	MAINOS PIAN
 f12e166	Putkibonus: palkinnot ×{0}
 80948a4	Yksi ilmainen pyöräytys joka päivä
 596b5e0	SEURAAVA  {0}
@@ -287,16 +269,8 @@ f12e166	Putkibonus: palkinnot ×{0}
 d00d221	Vain 18+  •  Pelimerkit ovat huvia varten: ei rahallista arvoa, ei koskaan vaihdettavissa rahaan tai palkintoihin
 b60f038	Ovet aukeavat...
 2e5bcce	Tervetuloa! {0} tervetuliaispelimerkkiäsi on valmiina. Pöydät ovat suoraan edessä!
-7ef7ae3	+{0} ilmaista pelimerkkiä! Lisää {1} tunnin kuluttua.
-5d82af9	Ilmaiset pelimerkit täyttyvät {0} tunnin välein. Seuraavat: {1}.
-5469985	{0} h {1} min
-bb65beb	{0} min {1} s
 ac8ba93	PIDÄ PUTKESI
-560bfa1	Haluatko muistutuksen iltaisin, kun et ole vielä pelannut, ja kun ilmaiset pelimerkkisi ovat valmiina? Ei koskaan enempää, ja voit poistaa sen käytöstä asetuksista.
 b724a40	MUISTUTA MINUA
-9e0c898	+{0} pelimerkkiä valmiina!
-1207e28	Katso video: {0}
-db3655b	Seuraavat ilmaiset pelimerkit: {0}
 4ca9be5	BLACKJACK
 9a612b1	4 pöytää  •  maksaa 3:2
 1194439	KOLIKKOPELIT
@@ -369,7 +343,6 @@ da46447	KASINON HENKILÖKUNTA
 69d3313	MIEHET
 b4325d3	SEKALAINEN
 414594a	MUISTUTUKSET
-6cac87b	Ilmaiset pelimerkit valmiina, ja iltainen tönäisy ennen kuin putki päättyisi.
 e43b2e0	TARKISTA UUDELLEEN
 7c9e8f9	HINTA-ALUE
 495c70e	Nopein: kasino maalattuna, ei mitään ylimääräistä.
@@ -444,8 +417,6 @@ c69e8ee	LUCKY ACE 7s
 fc99288	KOKONAISPANOS
 c1c00cd	VOITTOTAULUKKO
 3930abd	ONNEA!
-67b6973	Tarvitset vähintään 10 pelimerkkiä pyöräyttääksesi.
-5aa1edb	HAE PELIMERKKEJÄ
 f5a1812	Panosta laskettu siihen, mihin sinulla on varaa.
 5c63f61	MEGAVOITTO!
 652544f	ISO VOITTO!
@@ -658,17 +629,8 @@ e1ae457	Mateo
 1920e2f	Avausheitto: panosta Pass Lineen ja heitä. 7 tai 11 voittaa, 2, 3 tai 12 häviää. Place-panokset astuvat voimaan, kun piste on olemassa.
 99f4934	LUCKY ACE 7s  •  MAKSAA JOPA 2 500× LINJAPANOKSESI
 48ddc95	AUTOMAATTI
-3848f78	Video {0}/{1}
-d87409f	Palkinto menetettiin: videot on katsottava loppuun asti.
-14dcbe4	+{0} % energiaa
-330037c	{0} kättä {1} %:n onnella
-ff24786	KATSO MAINOKSET
-375d55d	1–3 lyhyttä videota
-f187dbf	KATSO
-64d31ad	KATSO 1 MAINOS?
-e77d414	KATSO {0} MAINOSTA?
-8707135	Katso 1 video loppuun asti saadaksesi {0}. Jos lopetat ennen aikojaan, palkinto menetetään.
-88f8727	Katso {0} videota loppuun asti saadaksesi {1}. Jos lopetat ennen aikojaan, palkinto menetetään.
-7196e7c	ALOITA
-b967bda	EI NYT
-b10888c	Palkinto voitettu: {0}!
+c319724	Pelimerkit loppuivat! Käy kassalla hakemassa lisää.
+4100521	Putken muistutukset
+9543087	Haluatko muistutuksen iltoina, joina et ole vielä pelannut, ettei putkesi katkea? Ei koskaan useammin kuin tämä, ja sen voi kytkeä pois asetuksista.
+3eb5ca2	Osta pelimerkkejä, jotta voit jatkaa pelaamista.
+844f74b	Iltamuistutus ennen kuin putki katkeaa.

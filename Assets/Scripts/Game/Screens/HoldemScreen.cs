@@ -647,7 +647,7 @@ namespace Casino.Screens
 
         void OnStreakExtended() => streakLine = DealerLines.StreakExtended(App.I.Progress.Streak.Count, App.I.Rng);
 
-        void OfferChips() => ChipOffer.Show(RefreshBetting);
+        void OfferChips() => ChipOffer.Show();
 
         void Update()
         {

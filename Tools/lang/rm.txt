@@ -64,7 +64,6 @@ f76c8fd	Memia bler per mai. Ti gudognas!
 0b48017	Nov chalzer, jau maschaid!
 3fa7769	Paucas anc? La cassa ta emplenescha.
 4e5694b	Las fischas daventan paucas. Vuls ti dapli?
-d41f057	Naginas fischas pli! Va a la cassa u prenda fischas gratuitas.
 15d90d3	Tes mantun è vid. La cassa è directamain davos tai.
 a9eaae1	Ti paras stanchel! Mangia insatge al bar.
 5cd9e8b	Senza forza? Il bar sa fa quità da tai.
@@ -175,14 +174,6 @@ b5b9597	SERIA DA {0} DIS!
 1998202	{0}: {1} mauns cun {2} % fortuna, suenter la fortuna dal principiant
 728ada5	{0}: {1} mauns cun {2} % fortuna!
 af5e232	{0}: +{1} % energia
-001a53b	Betg disponibel sin quest apparat
-2607004	Videos na chargian betg en questa rait
-569c30d	Turna damaun
-ecae6ee	Pront en {0} s
-9964820	+{0} fischas (oz anc {1})
-e1bd888	+{0} fischas gratuitas!
-619bd5d	+1 congelaziun da seria!
-f70d794	Actualmain nagin video disponibel. Emprova puspè en in mument.
 264d71b	BRONZ
 462e839	ARGIENT
 81ff70a	AUR
@@ -197,9 +188,6 @@ a42f608	Controllar tia regiun...
 1db422c	Betg verifitgà ({0}): prezis standard
 9bc0807	{0} ({1}): prezis en {2}
 ae8c393	Promemorias
-aefd59b	Fischas gratuitas prontas e promemorias da seria
-3125838	Tias fischas gratuitas èn prontas
-233027b	{0} fischas ta spetgan tar Lucky Ace.
 b93976b	Tegna tia seria da {0} dis
 bd68038	Gioga oz runds ({0}) per ch'ella na vegnia betg resetada a mesanotg.
 0acfb6f	Bainvegni! La fortuna dal principiant è da tia vart questa saira. Fa ina scumessa!
@@ -230,9 +218,6 @@ b6e674a	Nagin blackjack dal croupier. Assicuranza persa.
 822f4f4	La fortuna dal principiant è passada. Da qua davent blackjack normal.
 b0377c7	Tia Seria da fortuna è passada. Enavos al blackjack normal.
 824ad7c	NAGINAS FISCHAS PLI
-ff1822d	Guarda in curt video per {0} fischas gratuitas, u va a la cassa.
-e4cac2f	Va a la cassa per emplenir tias fischas.
-c3df3e7	FISCHAS GRATUITAS
 b169d33	CASSA
 4d38f66	PLI TARD
 cb8171b	Termina emprim quest maun.
@@ -253,7 +238,6 @@ c3a8946	CAPÌ
 4035996	SERIA DAL DI
 fbe7f18	DIS IN SUENTER L'AUTER
 7a46866	OZ
-4753707	GUARDAR RECLAMA
 6bb45f3	CUMPRAR
 62a945f	CONGELAZIUN DA SERIA
 ba5b1de	Ina congelaziun tegna tia seria en vita in di che ti na giogas betg. Ti pos avair fin {0}.\n\nCumprar ina per {1} fischas?
@@ -273,8 +257,6 @@ f757137	MISSIUNS DAD OZ
 bb92856	Congelaziuns da seria: {0} / {1}
 0ec6216	Salva tia seria in di che ti mancas. +1 mintga 7 dis.
 cc0a745	PLAIN
-419a962	NAGIN VIDEO
-2dabd99	RECLAMA PROXIMAMAIN
 f12e166	Bonus da seria: premis ×{0}
 80948a4	In gir gratuit mintga di
 596b5e0	PROXIM  {0}
@@ -287,16 +269,8 @@ f12e166	Bonus da seria: premis ×{0}
 d00d221	Mo 18+  •  Las fischas èn per divertiment: nagina valur en daners, mai barattablas cunter daners u premis
 b60f038	Avrir las portas...
 2e5bcce	Bainvegni! Tias {0} fischas da bainvegni èn prontas. Las maisas èn directamain davant tai!
-7ef7ae3	+{0} fischas gratuitas! Dapli en {1} uras.
-5d82af9	Fischas gratuitas vegnan emplenidas mintga {0} uras. Las proximas en {1}.
-5469985	{0} h {1} min
-bb65beb	{0} min {1} s
 ac8ba93	TEGNA TIA SERIA
-560bfa1	Vuls ti ina promemoria las sairas che ti n'has anc betg giugà, e cura che tias fischas gratuitas èn prontas? Mai dapli che quai, e ti la pos deactivar en ils Parameters.
 b724a40	AM REGORDA
-9e0c898	+{0} fischas prontas!
-1207e28	Guarda in video: {0}
-db3655b	Proximas fischas gratuitas en {0}
 4ca9be5	BLACKJACK
 9a612b1	4 maisas  •  paja 3 per 2
 1194439	AUTOMATS
@@ -369,7 +343,6 @@ da46447	PERSUNAL DAL CASINO
 69d3313	UMENS
 b4325d3	MASCHADÀ
 414594a	PROMEMORIAS
-6cac87b	Fischas gratuitas prontas, ed ina pitschna promemoria la saira avant che ina seria finiss.
 e43b2e0	CONTROLLAR PUSPÈ
 7c9e8f9	REGIUN DA PREZIS
 495c70e	Il pli svelt: il casino sco piturà, nagut ultra.
@@ -444,8 +417,6 @@ c69e8ee	LUCKY ACE 7s
 fc99288	SCUMESSA TOTALA
 c1c00cd	TABELLA DA GUDOGNS
 3930abd	BUNA FORTUNA!
-67b6973	Ti dovras almain 10 fischas per girar.
-5aa1edb	PRENDER FISCHAS
 f5a1812	Scumessa reducida a quai che ti pos cuvrir.
 5c63f61	MEGA GUDOGN!
 652544f	GROND GUDOGN!
@@ -658,17 +629,8 @@ e1ae457	Mateo
 1920e2f	Emprima bittada: fa ina scumessa sin la Pass Line e bitta. 7 u 11 gudognan; 2, 3 u 12 perdan. Las scumessas Place cumainzan a giugrar cur ch'i dat in punct.
 99f4934	LUCKY ACE 7s  •  PAJA FIN 2 500× TIA SCUMESSA PER LINGIA
 48ddc95	AUTOMATIC
-3848f78	Video {0} da {1}
-d87409f	Premi pers: ils videos stuan vegnir guardads fin la fin.
-14dcbe4	+{0} % energia
-330037c	{0} mauns cun {1} % fortuna
-ff24786	GUARDA VIDEOS
-375d55d	1 fin 3 videos curts
-f187dbf	GUARDA
-64d31ad	GUARDA 1 VIDEO?
-e77d414	GUARDA {0} VIDEOS?
-8707135	Guarda 1 video fin al fin per ottegnir {0}. Sche ti smettas baud, il premi vegn pers.
-88f8727	Guarda {0} videos fin al fin per ottegnir {1}. Sche ti smettas baud, il premi vegn pers.
-7196e7c	COMENCHA
-b967bda	BETG USSA
-b10888c	Premi guadagnà: {0}!
+c319724	Fischas finidas! Va a la cassa per avair dapli.
+4100521	Promemorias da seria
+9543087	Vuls ti ina promemoria las saira, che ti n'has betg anc giovà, per che tia seria na finescha betg? Mai dapli che quai, e ti pos la deactivar en Parameters.
+3eb5ca2	Cumpra fischas per continuar a giovar.
+844f74b	Ina promemoria la saira avant che ina seria finescha.

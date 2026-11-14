@@ -64,7 +64,6 @@ f76c8fd	Zu viel für mich. Du gewinnst!
 0b48017	Neuer Schlitten, ich mische!
 3fa7769	Knapp bei Kasse? Die Kassiererin hilft dir.
 4e5694b	Die Chips werden knapp. Willst du Nachschub?
-d41f057	Keine Chips mehr! Geh zur Kasse oder hol dir Gratis-Chips.
 15d90d3	Dein Stapel ist leer. Die Kasse ist direkt hinter dir.
 a9eaae1	Du siehst erschöpft aus! Iss etwas an der Bar.
 5cd9e8b	Keine Energie mehr? Die Bar hilft dir.
@@ -175,14 +174,6 @@ b5b9597	{0}-TAGE-SERIE!
 1998202	{0}: {1} Hände mit {2} % Glück, nach dem Anfängerglück
 728ada5	{0}: {1} Hände mit {2} % Glück!
 af5e232	{0}: +{1} % Energie
-001a53b	Auf diesem Gerät nicht verfügbar
-2607004	Videos laden in diesem Netzwerk nicht
-569c30d	Komm morgen wieder
-ecae6ee	Bereit in {0} s
-9964820	+{0} Chips (heute noch {1})
-e1bd888	+{0} Gratis-Chips!
-619bd5d	+1 Serien-Schutz!
-f70d794	Gerade ist kein Video verfügbar. Versuch es gleich noch einmal.
 264d71b	BRONZE
 462e839	SILBER
 81ff70a	GOLD
@@ -197,9 +188,6 @@ a42f608	Deine Region wird geprüft...
 1db422c	Nicht bestätigt ({0}): Standardpreise
 9bc0807	{0} ({1}): Preise in {2}
 ae8c393	Erinnerungen
-aefd59b	Gratis-Chips bereit und Serien-Erinnerungen
-3125838	Deine Gratis-Chips sind bereit
-233027b	{0} Chips warten im Lucky Ace auf dich.
 b93976b	Halte deine {0}-Tage-Serie
 bd68038	Spiel heute {0} Runden, damit sie um Mitternacht nicht zurückgesetzt wird.
 0acfb6f	Willkommen! Das Anfängerglück ist heute auf deiner Seite. Platzier einen Einsatz!
@@ -230,9 +218,6 @@ b6e674a	Kein Blackjack beim Dealer. Versicherung verloren.
 822f4f4	Das Anfängerglück ist vorbei. Ab jetzt ist es normales Blackjack.
 b0377c7	Deine Glückssträhne ist vorbei. Zurück zum normalen Blackjack.
 824ad7c	KEINE CHIPS MEHR
-ff1822d	Schau ein kurzes Video für {0} Gratis-Chips oder geh zur Kasse.
-e4cac2f	Geh zur Kasse, um Chips nachzuladen.
-c3df3e7	GRATIS-CHIPS
 b169d33	KASSE
 4d38f66	SPÄTER
 cb8171b	Beende zuerst diese Hand.
@@ -253,7 +238,6 @@ c3a8946	VERSTANDEN
 4035996	TAGESSERIE
 fbe7f18	TAGE IN FOLGE
 7a46866	HEUTE
-4753707	WERBUNG ANSEHEN
 6bb45f3	KAUFEN
 62a945f	SERIEN-SCHUTZ
 ba5b1de	Ein Serien-Schutz hält deine Serie an einem Tag am Leben, an dem du nicht spielst. Du kannst bis zu {0} haben.\n\nEinen für {1} Chips kaufen?
@@ -273,8 +257,6 @@ f757137	HEUTIGE MISSIONEN
 bb92856	Serien-Schutze: {0} / {1}
 0ec6216	Rette deine Serie an einem verpassten Tag. +1 alle 7 Tage.
 cc0a745	VOLL
-419a962	KEIN VIDEO
-2dabd99	WERBUNG GLEICH
 f12e166	Serienbonus: Preise ×{0}
 80948a4	Jeden Tag einmal gratis drehen
 596b5e0	NÄCHSTES  {0}
@@ -287,16 +269,8 @@ f12e166	Serienbonus: Preise ×{0}
 d00d221	Nur ab 18  •  Chips sind zum Spaß: kein Geldwert, nie gegen Geld oder Preise eintauschbar
 b60f038	Die Türen öffnen sich...
 2e5bcce	Willkommen! Deine {0} Willkommens-Chips sind bereit. Die Tische sind direkt vor dir!
-7ef7ae3	+{0} Gratis-Chips! Mehr in {1} Stunden.
-5d82af9	Gratis-Chips gibt es alle {0} Stunden. Die nächsten in {1}.
-5469985	{0} Std. {1} Min.
-bb65beb	{0} Min. {1} Sek.
 ac8ba93	HALTE DEINE SERIE
-560bfa1	Möchtest du eine Erinnerung an Abenden, an denen du noch nicht gespielt hast, und wenn deine Gratis-Chips bereit sind? Nie mehr als das, und du kannst es in den Einstellungen ausschalten.
 b724a40	ERINNERE MICH
-9e0c898	+{0} Chips bereit!
-1207e28	Video ansehen: {0}
-db3655b	Nächste Gratis-Chips in {0}
 4ca9be5	BLACKJACK
 9a612b1	4 Tische  •  zahlt 3 zu 2
 1194439	SLOTS
@@ -368,7 +342,6 @@ da46447	CASINO-PERSONAL
 69d3313	MÄNNER
 b4325d3	GEMISCHT
 414594a	ERINNERUNGEN
-6cac87b	Gratis-Chips bereit und ein abendlicher Hinweis, bevor eine Serie endet.
 e43b2e0	ERNEUT PRÜFEN
 7c9e8f9	PREISREGION
 495c70e	Am schnellsten: das Casino wie gemalt, nichts extra.
@@ -443,8 +416,6 @@ c69e8ee	LUCKY ACE 7s
 fc99288	GESAMTEINSATZ
 c1c00cd	GEWINNTABELLE
 3930abd	VIEL GLÜCK!
-67b6973	Du brauchst mindestens 10 Chips zum Drehen.
-5aa1edb	CHIPS HOLEN
 f5a1812	Einsatz auf das gesenkt, was du decken kannst.
 5c63f61	MEGAGEWINN!
 652544f	GROSSER GEWINN!
@@ -658,17 +629,8 @@ e1ae457	Mateo
 1920e2f	Come-out-Wurf: setz auf die Pass Line und würfle. 7 oder 11 gewinnt, 2, 3 oder 12 verliert. Place-Einsätze gelten, sobald es einen Point gibt.
 99f4934	LUCKY ACE 7s  •  ZAHLT BIS ZU 2.500× DEINES LINIENEINSATZES
 48ddc95	AUTOMATISCH
-3848f78	Video {0} von {1}
-d87409f	Preis verloren: Die Videos müssen bis zum Ende angesehen werden.
-14dcbe4	+{0} % Energie
-330037c	{0} Hände mit {1} % Glück
-ff24786	WERBUNG ANSEHEN
-375d55d	1 bis 3 kurze Videos
-f187dbf	ANSEHEN
-64d31ad	1 WERBUNG ANSEHEN?
-e77d414	{0} WERBUNGEN ANSEHEN?
-8707135	Schau dir 1 Video bis zum Ende an, um {0} zu erhalten. Wenn du vorher abbrichst, ist der Preis verloren.
-88f8727	Schau dir {0} Videos bis zum Ende an, um {1} zu erhalten. Wenn du vorher abbrichst, ist der Preis verloren.
-7196e7c	START
-b967bda	NICHT JETZT
-b10888c	Preis gewonnen: {0}!
+c319724	Keine Chips mehr! Hol dir an der Kasse neue.
+4100521	Serien-Erinnerungen
+9543087	Möchtest du abends eine Erinnerung, wenn du noch nicht gespielt hast, damit deine Serie nicht endet? Nie öfter als das, und in den Einstellungen kannst du sie ausschalten.
+3eb5ca2	Chips kaufen, um weiterzuspielen.
+844f74b	Ein Abend-Hinweis, bevor eine Serie endet.

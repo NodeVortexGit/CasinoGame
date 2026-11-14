@@ -64,7 +64,6 @@ f76c8fd	Aad bay iigu badan tahay. Adigaa guulaystay!
 0b48017	Kab cusub, waan isku qasayaa!
 3fa7769	Ma dhammaanayaan? Lacag-hayaha ayaa kuu buuxin kara.
 4e5694b	Jibisku wuu yaraanayaa. Ma rabtaa wax dheeraad ah?
-d41f057	Jibiskii wuu dhammaaday! Booqo lacag-hayaha ama qaado jibis bilaash ah.
 15d90d3	Rasadaadu waa madhan tahay. Lacag-hayaha ayaa gadaashaada jooga.
 a9eaae1	Waxaad u egtahay mid aad u daallan! Wax ku cun baarka.
 5cd9e8b	Tamar ma kaa dhammaatay? Baarka ayaa ku daryeeli doona.
@@ -175,14 +174,6 @@ b5b9597	TAXANE {0} MAALMOOD AH!
 1998202	{0}: {1} gacmood oo nasiib {2}% ah, kadib Nasiibka Bilowgaha
 728ada5	{0}: {1} gacmood oo nasiib {2}% ah!
 af5e232	{0}: +{1}% tamar
-001a53b	Kuma jiro qalabkan
-2607004	Muuqaallada lagama soo dejin karo shabakaddan
-569c30d	Soo laabo berri
-ecae6ee	Diyaar {0} ilbiriqsi gudahood
-9964820	+{0} jibis ({1} ayaa maanta haray)
-e1bd888	+{0} jibis bilaash ah!
-619bd5d	+1 barafayn taxane!
-f70d794	Hadda muuqaal ma jiro. Mar kale isku day wax yar kadib.
 264d71b	NAXAAS
 462e839	LACAG
 81ff70a	DAHAB
@@ -197,9 +188,6 @@ a42f608	Waxaan hubinaynaa gobolkaaga...
 1db422c	Lama xaqiijin ({0}): qiimo caadi ah
 9bc0807	{0} ({1}): qiimaha {2}
 ae8c393	Xusuusin
-aefd59b	Jibis bilaash ah oo diyaar ah iyo xusuusinta taxanaha
-3125838	Jibiskaaga bilaashka ah waa diyaar
-233027b	{0} jibis ayaa kugu sugaya Lucky Ace.
 b93976b	Ilaali taxanahaaga {0} maalmood
 bd68038	Ciyaar {0} wareeg maanta si aanu dib ugu bilaabmin saqda dhexe.
 0acfb6f	Soo dhowow! Nasiibka bilowgaha ayaa caawa kula jira. Dhig sharad!
@@ -230,9 +218,6 @@ b6e674a	Qaybiyuhu blackjack ma laha. Caymiskii wuu lumay.
 822f4f4	Nasiibka bilowgaha wuu dhammaaday. Hadda wixii ka dambeeya waa blackjack caadi ah.
 b0377c7	Taxanaha Nasiibkaagu wuu dhammaaday. Dib ugu noqo blackjack caadi ah.
 824ad7c	JIBISKII WUU DHAMMAADAY
-ff1822d	Daawo muuqaal gaaban si aad u hesho {0} jibis bilaash ah, ama booqo lacag-hayaha.
-e4cac2f	Booqo lacag-hayaha si aad u buuxiso jibiskaaga.
-c3df3e7	JIBIS BILAASH AH
 b169d33	LACAG-HAYE
 4d38f66	MAR DAMBE
 cb8171b	Marka hore dhammee gacantan.
@@ -253,7 +238,6 @@ c3a8946	WAA FAHMAY
 4035996	TAXANAHA MAALINLAHA
 fbe7f18	MAALMOOD ISKU XIGA
 7a46866	MAANTA
-4753707	DAAWO XAYAYSIIS
 6bb45f3	IIBSO
 62a945f	BARAFAYN TAXANE
 ba5b1de	Barafayn taxane ayaa taxanahaaga ku haysa nool maalinta aadan ciyaarin. Waxaad haysan kartaa ilaa {0}.\n\nMa iibsanaysaa mid {1} jibis ah?
@@ -273,8 +257,6 @@ f757137	HOWLGALLADA MAANTA
 bb92856	Barafaynta taxanaha: {0} / {1}
 0ec6216	Badbaadi taxanahaaga maalinta aad seegto. +1 toddobadii maalmoodba.
 cc0a745	BUUXA
-419a962	MUUQAAL MA JIRO
-2dabd99	XAYAYSIIS DHAWAAN
 f12e166	Gunnada taxanaha: abaalmarinno ×{0}
 80948a4	Hal wareeg oo bilaash ah maalin walba
 596b5e0	KAN XIGA  {0}
@@ -287,16 +269,8 @@ f12e166	Gunnada taxanaha: abaalmarinno ×{0}
 d00d221	18+ kaliya  •  Jibisku waa madadaalo: qiimo lacageed ma leh, weligood lagama beddeli karo lacag ama abaalmarin
 b60f038	Albaabbada ayaa la furayaa...
 2e5bcce	Soo dhowow! {0}-ka jibis ee soo dhowaynta waa diyaar. Miisasku waa hortaada!
-7ef7ae3	+{0} jibis bilaash ah! Kuwo kale {1} saacadood kadib.
-5d82af9	Jibiska bilaashka ah waxaa la buuxiyaa {0}-dii saacadoodba. Kan xiga {1} kadib.
-5469985	{0}s {1}d
-bb65beb	{0}d {1}i
 ac8ba93	ILAALI TAXANAHAAGA
-560bfa1	Ma rabtaa xusuusin fiidadka aadan weli ciyaarin, iyo marka jibiskaaga bilaashka ah diyaar yahay? Weligeed kama badnaan doonto taas, waxaadna ka dami kartaa Dejinta.
 b724a40	I XUSUUSI
-9e0c898	+{0} jibis waa diyaar!
-1207e28	Daawo muuqaal: {0}
-db3655b	Jibiska bilaashka ah ee xiga {0} kadib
 4ca9be5	BLACKJACK
 9a612b1	4 miis  •  waxay bixisaa 3 ilaa 2
 1194439	SLOT
@@ -369,7 +343,6 @@ da46447	SHAQAALAHA CASIINADA
 69d3313	RAGGA
 b4325d3	ISKU DHAFAN
 414594a	XUSUUSIN
-6cac87b	Jibis bilaash ah oo diyaar ah, iyo xusuusin fiid ah ka hor inta aanu taxane dhammaan.
 e43b2e0	HUBI MAR KALE
 7c9e8f9	GOBOLKA QIIMAHA
 495c70e	Ugu dhaqsaha badan: casiinada sida loo sawiray, wax dheeraad ah ma leh.
@@ -444,8 +417,6 @@ c69e8ee	LUCKY ACE 7s
 fc99288	WADARTA SHARADKA
 c1c00cd	JADWALKA LACAG BIXINTA
 3930abd	NASIIB WANAAGSAN!
-67b6973	Waxaad u baahan tahay ugu yaraan 10 jibis si aad u wareejiso.
-5aa1edb	HEL JIBIS
 f5a1812	Sharadka waxaa loo dhimay inta aad bixin karto.
 5c63f61	GUUL AAD U WEYN!
 652544f	GUUL WEYN!
@@ -658,17 +629,8 @@ e1ae457	Mateo
 1920e2f	Tuuriska koowaad: sharad dhig Pass Line, kadib tuur. 7 ama 11 way guulaysataa, 2, 3 ama 12 waa lumisaa. Sharadyada Place waxay bilaabmaan inay shaqeeyaan marka dhibic jirto.
 99f4934	LUCKY ACE 7s  •  WAXAY BIXISAA ILAA 2,500× SHARADKAAGA XARIIQDA
 48ddc95	AUTO WAREEJI
-3848f78	Muuqaal {0} oo ka mid ah {1}
-d87409f	Abaal-marin lumay: muuqaalada waa in la daawado ilaa dhammaad.
-14dcbe4	+{0}% tamar
-330037c	{0} gacmood oo nasiib {1}%
-ff24786	DAAWO MUUQAALLADA
-375d55d	1 ilaa 3 muuqaal gaaban
-f187dbf	DAAWO
-64d31ad	DAAWO 1 MUUQAAL?
-e77d414	DAAWO {0} MUUQAAL?
-8707135	Daawo muuqaal 1 ilaa dhammaad si aad u hesho {0}. Haddii hore u joojiso, abaal-marintu way luntaa.
-88f8727	Daawo {0} muuqaal ilaa dhammaad si aad u hesho {1}. Haddii hore u joojiso, abaal-marintu way luntaa.
-7196e7c	BILOW
-b967bda	HADDA MAYA
-b10888c	Abaal-marin la helay: {0}!
+c319724	Jibisku wuu dhammaadey! Tag lacag-hayaha si aad kuwo dheeraad ah u hesho.
+4100521	Xusuusinta taxanaha
+9543087	Ma doonaysaa xusuusin fiidkii aadan weli ciyaarin, si taxanahaagu uusan dhammaan? Had iyo jeer ma badna, waxaana laga demin karaa Dejinta.
+3eb5ca2	Iibso jibis si aad u sii ciyaarto.
+844f74b	Xusuusin fiidkii ah ka hor intaysan taxanuhu dhammaan.

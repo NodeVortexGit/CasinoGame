@@ -64,7 +64,6 @@ f76c8fd	För mycket för mig. Du vinner!
 0b48017	Ny sko, jag blandar!
 3fa7769	Börjar det ta slut? Kassan fyller på åt dig.
 4e5694b	Markerna tunnas ut. Vill du hämta fler?
-d41f057	Slut på marker! Gå till kassan eller hämta gratismarker.
 15d90d3	Din hög är tom. Kassan är precis bakom dig.
 a9eaae1	Du ser helt slut ut! Ta en bit mat i baren.
 5cd9e8b	Går du på tomgång? Baren fixar det.
@@ -175,14 +174,6 @@ b5b9597	{0} DAGAR I RAD!
 1998202	{0}: {1} händer med {2}% tur, efter nybörjarturen
 728ada5	{0}: {1} händer med {2}% tur!
 af5e232	{0}: +{1}% energi
-001a53b	Inte tillgängligt på den här enheten
-2607004	Videor kan inte laddas på det här nätverket
-569c30d	Kom tillbaka i morgon
-ecae6ee	Klar om {0} s
-9964820	+{0} marker ({1} kvar i dag)
-e1bd888	+{0} gratismarker!
-619bd5d	+1 streakfrysning!
-f70d794	Ingen video tillgänglig just nu. Försök igen om en stund.
 264d71b	BRONS
 462e839	SILVER
 81ff70a	GULD
@@ -197,9 +188,6 @@ a42f608	Kontrollerar din region...
 1db422c	Inte verifierad ({0}): standardpriser
 9bc0807	{0} ({1}): priser i {2}
 ae8c393	Påminnelser
-aefd59b	Gratismarker klara och streakpåminnelser
-3125838	Dina gratismarker är klara
-233027b	{0} marker väntar på dig på Lucky Ace.
 b93976b	Behåll din streak på {0} dagar
 bd68038	Spela {0} rundor i dag så att den inte nollställs vid midnatt.
 0acfb6f	Välkommen! Nybörjarturen är på din sida i kväll. Lägg en insats!
@@ -230,9 +218,6 @@ b6e674a	Ingen blackjack för dealern. Försäkringen förlorad.
 822f4f4	Nybörjarturen är slut. Från och med nu är det vanlig blackjack.
 b0377c7	Din Turstreak är slut. Tillbaka till vanlig blackjack.
 824ad7c	SLUT PÅ MARKER
-ff1822d	Titta på en kort video för {0} gratismarker, eller gå till kassan.
-e4cac2f	Gå till kassan för att fylla på dina marker.
-c3df3e7	GRATISMARKER
 b169d33	KASSA
 4d38f66	SENARE
 cb8171b	Spela klart den här handen först.
@@ -253,7 +238,6 @@ c3a8946	JAG FÖRSTÅR
 4035996	DAGLIG STREAK
 fbe7f18	DAGAR I RAD
 7a46866	I DAG
-4753707	SE REKLAM
 6bb45f3	KÖP
 62a945f	STREAKFRYSNING
 ba5b1de	En streakfrysning håller din streak vid liv en dag du inte spelar. Du kan ha {0}.\n\nKöpa en för {1} marker?
@@ -273,8 +257,6 @@ f757137	DAGENS UPPDRAG
 bb92856	Streakfrysningar: {0} / {1}
 0ec6216	Rädda din streak en dag du missar. +1 var 7:e dag.
 cc0a745	FULL
-419a962	INGEN VIDEO
-2dabd99	REKLAM SNART
 f12e166	Streakbonus: priser ×{0}
 80948a4	Ett gratis snurr varje dag
 596b5e0	NÄSTA  {0}
@@ -287,16 +269,8 @@ f12e166	Streakbonus: priser ×{0}
 d00d221	Endast 18+  •  Markerna är för nöjes skull: inget penningvärde, kan aldrig växlas mot pengar eller priser
 b60f038	Öppnar dörrarna...
 2e5bcce	Välkommen! Dina {0} välkomstmarker är klara. Borden finns rakt fram!
-7ef7ae3	+{0} gratismarker! Fler om {1} timmar.
-5d82af9	Gratismarker fylls på var {0}:e timme. Nästa om {1}.
-5469985	{0} h {1} min
-bb65beb	{0} min {1} s
 ac8ba93	BEHÅLL DIN STREAK
-560bfa1	Vill du ha en påminnelse de kvällar du inte har spelat än, och när dina gratismarker är klara? Aldrig mer än så, och du kan stänga av det i Inställningar.
 b724a40	PÅMINN MIG
-9e0c898	+{0} marker klara!
-1207e28	Titta på en video: {0}
-db3655b	Nästa gratismarker om {0}
 4ca9be5	BLACKJACK
 9a612b1	4 bord  •  betalar 3 mot 2
 1194439	SPELAUTOMATER
@@ -369,7 +343,6 @@ da46447	KASINOPERSONAL
 69d3313	MÄN
 b4325d3	BLANDAT
 414594a	PÅMINNELSER
-6cac87b	Gratismarker klara, och en knuff på kvällen innan en streak skulle ta slut.
 e43b2e0	KONTROLLERA IGEN
 7c9e8f9	PRISREGION
 495c70e	Snabbast: kasinot som det är målat, inget extra.
@@ -444,8 +417,6 @@ c69e8ee	LUCKY ACE 7s
 fc99288	TOTAL INSATS
 c1c00cd	VINSTTABELL
 3930abd	LYCKA TILL!
-67b6973	Du behöver minst 10 marker för att snurra.
-5aa1edb	HÄMTA MARKER
 f5a1812	Insatsen sänkt till vad du har råd med.
 5c63f61	MEGAVINST!
 652544f	STORVINST!
@@ -658,17 +629,8 @@ e1ae457	Mateo
 1920e2f	Come-out-kast: satsa på Pass Line och kasta. 7 eller 11 vinner, 2, 3 eller 12 förlorar. Place-insatser börjar gälla när det finns en point.
 99f4934	LUCKY ACE 7s  •  BETALAR UPP TILL 2 500× DIN LINJEINSATS
 48ddc95	AUTOMATISKT
-3848f78	Video {0} av {1}
-d87409f	Priset förlorat: videorna måste ses hela vägen.
-14dcbe4	+{0}% energi
-330037c	{0} händer med {1}% tur
-ff24786	SE VIDEOR
-375d55d	1 till 3 korta videor
-f187dbf	TITTA
-64d31ad	TITTA PÅ 1 VIDEO?
-e77d414	TITTA PÅ {0} VIDEOR?
-8707135	Titta på 1 video hela vägen för att få {0}. Om du slutar tidigt förloras priset.
-88f8727	Titta på {0} videor hela vägen för att få {1}. Om du slutar tidigt förloras priset.
-7196e7c	STARTA
-b967bda	INTE NU
-b10888c	Pris vunnet: {0}!
+c319724	Slut på marker! Gå till kassan för att få mer.
+4100521	Påminnelser om streak
+9543087	Vill du ha en påminnelse på kvällar när du inte har spelat än, så att din streak inte bryts? Aldrig mer än så, och du kan stänga av den under Inställningar.
+3eb5ca2	Köp marker för att fortsätta spela.
+844f74b	En kvällspåminnelse innan en streak skulle ta slut.

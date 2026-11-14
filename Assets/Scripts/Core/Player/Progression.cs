@@ -141,7 +141,7 @@ namespace Casino.Core.Player
             return level;
         }
 
-        public static long Reward(int level) => 250L * level;
+        public static long Reward(int level) => 25L * level;
 
         public static int XpFor(RoundReport r) => XpPerRound + (r.Won ? XpPerWin : 0);
     }
@@ -152,7 +152,7 @@ namespace Casino.Core.Player
     /// </summary>
     public static class DailyWheel
     {
-        public static readonly long[] Prizes = { 500, 1_000, 750, 2_500, 600, 1_500, 800, 10_000 };
+        public static readonly long[] Prizes = { 50, 100, 75, 250, 60, 150, 80, 1_000 };
         public static readonly int[] Weights = { 22, 12, 18, 5, 22, 8, 12, 1 };   // per cent
 
         public static bool Ready(int lastSpinDay, int today) => lastSpinDay != today;
@@ -173,12 +173,6 @@ namespace Casino.Core.Player
         public static double StreakMultiplier(int streak) => 1.0 + 0.1 * Math.Min(Math.Max(streak, 0), 10);
 
         public static long Prize(int segment, int streak) => (long)Math.Round(Prizes[segment] * StreakMultiplier(streak));
-    }
-
-    /// <summary>Free chips that refill on a timer (and need no ad), a bit more at higher levels.</summary>
-    public static class TimedBonus
-    {
-        public static long Amount(int level) => 300 + 50L * Math.Min(Math.Max(level, 1) - 1, 20);
     }
 
     public enum MissionGoal { Rounds, Wins, Blackjacks, ChipsWon, BigWin, StraightHit }
@@ -211,33 +205,33 @@ namespace Casino.Core.Player
     public static class Missions
     {
         public const int PerDay = 3;
-        public const long AllDoneBonus = 1_500;
+        public const long AllDoneBonus = 150;
 
         /// <summary>A win on slots at least this many times the bet counts as a big win.</summary>
         public const double BigWinMultiple = 5.0;
 
         public static readonly MissionDef[] Pool =
         {
-            new MissionDef("bj_hands", GameKind.Blackjack, MissionGoal.Rounds, 10, 400, 30, Tr.Mark("Play 10 hands of blackjack")),
-            new MissionDef("bj_wins", GameKind.Blackjack, MissionGoal.Wins, 5, 600, 40, Tr.Mark("Win 5 hands of blackjack")),
-            new MissionDef("bj_natural", GameKind.Blackjack, MissionGoal.Blackjacks, 1, 800, 50, Tr.Mark("Get a blackjack")),
-            new MissionDef("bj_chips", GameKind.Blackjack, MissionGoal.ChipsWon, 500, 600, 40, Tr.Mark("Win 500 chips at blackjack")),
-            new MissionDef("sl_spins", GameKind.Slots, MissionGoal.Rounds, 20, 400, 30, Tr.Mark("Spin the slots 20 times")),
-            new MissionDef("sl_wins", GameKind.Slots, MissionGoal.Wins, 5, 500, 35, Tr.Mark("Win 5 slot spins")),
-            new MissionDef("sl_big", GameKind.Slots, MissionGoal.BigWin, 1, 800, 50, Tr.Mark("Win 5× your bet on the slots")),
-            new MissionDef("ro_rounds", GameKind.Roulette, MissionGoal.Rounds, 5, 400, 30, Tr.Mark("Play 5 rounds of roulette")),
-            new MissionDef("ro_wins", GameKind.Roulette, MissionGoal.Wins, 3, 500, 35, Tr.Mark("Win 3 roulette spins")),
-            new MissionDef("ro_straight", GameKind.Roulette, MissionGoal.StraightHit, 1, 1_000, 60, Tr.Mark("Hit a number straight up")),
-            new MissionDef("uh_hands", GameKind.Holdem, MissionGoal.Rounds, 8, 400, 30, Tr.Mark("Play 8 hands of hold'em")),
-            new MissionDef("uh_wins", GameKind.Holdem, MissionGoal.Wins, 4, 600, 40, Tr.Mark("Win 4 hands of hold'em")),
-            new MissionDef("ba_coups", GameKind.Baccarat, MissionGoal.Rounds, 10, 400, 30, Tr.Mark("Play 10 hands of baccarat")),
-            new MissionDef("ba_wins", GameKind.Baccarat, MissionGoal.Wins, 5, 500, 35, Tr.Mark("Win 5 hands of baccarat")),
-            new MissionDef("vp_hands", GameKind.VideoPoker, MissionGoal.Rounds, 15, 400, 30, Tr.Mark("Play 15 hands of video poker")),
-            new MissionDef("sb_rolls", GameKind.SicBo, MissionGoal.Rounds, 8, 400, 30, Tr.Mark("Play 8 rounds of sic bo")),
-            new MissionDef("sb_wins", GameKind.SicBo, MissionGoal.Wins, 4, 500, 35, Tr.Mark("Win 4 rounds of sic bo")),
-            new MissionDef("cr_rolls", GameKind.Craps, MissionGoal.Rounds, 15, 400, 30, Tr.Mark("Roll the dice 15 times at craps")),
-            new MissionDef("cr_wins", GameKind.Craps, MissionGoal.Wins, 4, 500, 35, Tr.Mark("Win 4 rolls at craps")),
-            new MissionDef("vp_big", GameKind.VideoPoker, MissionGoal.BigWin, 1, 800, 50, Tr.Mark("Make a flush or better at video poker")),
+            new MissionDef("bj_hands", GameKind.Blackjack, MissionGoal.Rounds, 10, 40, 30, Tr.Mark("Play 10 hands of blackjack")),
+            new MissionDef("bj_wins", GameKind.Blackjack, MissionGoal.Wins, 5, 60, 40, Tr.Mark("Win 5 hands of blackjack")),
+            new MissionDef("bj_natural", GameKind.Blackjack, MissionGoal.Blackjacks, 1, 80, 50, Tr.Mark("Get a blackjack")),
+            new MissionDef("bj_chips", GameKind.Blackjack, MissionGoal.ChipsWon, 500, 60, 40, Tr.Mark("Win 500 chips at blackjack")),
+            new MissionDef("sl_spins", GameKind.Slots, MissionGoal.Rounds, 20, 40, 30, Tr.Mark("Spin the slots 20 times")),
+            new MissionDef("sl_wins", GameKind.Slots, MissionGoal.Wins, 5, 50, 35, Tr.Mark("Win 5 slot spins")),
+            new MissionDef("sl_big", GameKind.Slots, MissionGoal.BigWin, 1, 80, 50, Tr.Mark("Win 5× your bet on the slots")),
+            new MissionDef("ro_rounds", GameKind.Roulette, MissionGoal.Rounds, 5, 40, 30, Tr.Mark("Play 5 rounds of roulette")),
+            new MissionDef("ro_wins", GameKind.Roulette, MissionGoal.Wins, 3, 50, 35, Tr.Mark("Win 3 roulette spins")),
+            new MissionDef("ro_straight", GameKind.Roulette, MissionGoal.StraightHit, 1, 100, 60, Tr.Mark("Hit a number straight up")),
+            new MissionDef("uh_hands", GameKind.Holdem, MissionGoal.Rounds, 8, 40, 30, Tr.Mark("Play 8 hands of hold'em")),
+            new MissionDef("uh_wins", GameKind.Holdem, MissionGoal.Wins, 4, 60, 40, Tr.Mark("Win 4 hands of hold'em")),
+            new MissionDef("ba_coups", GameKind.Baccarat, MissionGoal.Rounds, 10, 40, 30, Tr.Mark("Play 10 hands of baccarat")),
+            new MissionDef("ba_wins", GameKind.Baccarat, MissionGoal.Wins, 5, 50, 35, Tr.Mark("Win 5 hands of baccarat")),
+            new MissionDef("vp_hands", GameKind.VideoPoker, MissionGoal.Rounds, 15, 40, 30, Tr.Mark("Play 15 hands of video poker")),
+            new MissionDef("sb_rolls", GameKind.SicBo, MissionGoal.Rounds, 8, 40, 30, Tr.Mark("Play 8 rounds of sic bo")),
+            new MissionDef("sb_wins", GameKind.SicBo, MissionGoal.Wins, 4, 50, 35, Tr.Mark("Win 4 rounds of sic bo")),
+            new MissionDef("cr_rolls", GameKind.Craps, MissionGoal.Rounds, 15, 40, 30, Tr.Mark("Roll the dice 15 times at craps")),
+            new MissionDef("cr_wins", GameKind.Craps, MissionGoal.Wins, 4, 50, 35, Tr.Mark("Win 4 rolls at craps")),
+            new MissionDef("vp_big", GameKind.VideoPoker, MissionGoal.BigWin, 1, 80, 50, Tr.Mark("Make a flush or better at video poker")),
         };
 
         /// <summary>Today's missions: three different games, one mission each, picked by the date.</summary>

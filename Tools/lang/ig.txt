@@ -58,7 +58,6 @@ f76c8fd	Ọ karịrị m. Ị meriri!
 59da99d	Mee ya okpukpu abụọ! Otu kaadị na-abịa.
 3fa7769	Ọ na-agwụ? Onye ego nwere ike ịgbakwunye gị.
 4e5694b	Chip gị na-ebelata. Ị chọrọ ọzọ?
-d41f057	Chip agwụla! Gaa n'ebe onye ego nọ ma ọ bụ were chip n'efu.
 15d90d3	Ikpo gị tọgbọrọ chakoo. Onye ego nọ n'azụ gị.
 a9eaae1	Ike gwụrụ gị nke ukwuu! Rie ihe n'ụlọ mmanya.
 5cd9e8b	Ike agwụla? Ụlọ mmanya ga-elekọta gị.
@@ -167,14 +166,6 @@ b5b9597	USORO ỤBỌCHỊ {0}!
 1998202	{0}: aka {1} na chi ọma {2}%, mgbe Chi Ọma Onye Mbido gasịrị
 728ada5	{0}: aka {1} na chi ọma {2}%!
 af5e232	{0}: +{1}% ike
-001a53b	Adịghị na ngwaọrụ a
-2607004	Vidiyo enweghị ike ibu na netwọk a
-569c30d	Lọghachi echi
-ecae6ee	Ọ ga-adị njikere na sekọnd {0}
-9964820	+chip {0} ({1} fọdụrụ taa)
-e1bd888	+chip {0} n'efu!
-619bd5d	+1 mkpọchi usoro!
-f70d794	Enweghị vidiyo ugbu a. Nwaa ọzọ n'oge na-adịghị anya.
 264d71b	BRONZ
 462e839	ỌLAỌCHA
 81ff70a	ỌLAEDO
@@ -187,9 +178,6 @@ a42f608	Na-enyocha mpaghara gị...
 1db422c	Akwadoghị ({0}): ọnụahịa nkịtị
 9bc0807	{0} ({1}): ọnụahịa na {2}
 ae8c393	Ihe ncheta
-aefd59b	Chip n'efu dị njikere na ihe ncheta usoro
-3125838	Chip n'efu gị dị njikere
-233027b	Chip {0} na-eche gị na Lucky Ace.
 b93976b	Jide usoro ụbọchị {0} gị
 bd68038	Gbaa okirikiri {0} taa ka ọ ghara ịmaliteghachi n'etiti abalị.
 0acfb6f	Nnọọ! Chi ọma onye mbido nọ n'akụkụ gị n'abalị a. Tinye nzọ!
@@ -217,9 +205,6 @@ b6e674a	Onye nkesa enweghị blackjack. Mkpuchi efuola.
 822f4f4	Chi ọma onye mbido agwụla. Site ugbu a ọ bụ blackjack nkịtị.
 b0377c7	Usoro Chi Ọma gị agwụla. Laghachi na blackjack nkịtị.
 824ad7c	CHIP AGWỤLA
-ff1822d	Lee obere vidiyo maka chip {0} n'efu, ma ọ bụ gaa n'ebe onye ego nọ.
-e4cac2f	Gaa n'ebe onye ego nọ ka ịgbakwunye chip gị.
-c3df3e7	CHIP N'EFU
 b169d33	ONYE EGO
 4d38f66	EMECHAA
 cb8171b	Buru ụzọ mechaa aka a.
@@ -238,7 +223,6 @@ c3a8946	AGHỌTARA M
 4035996	USORO KWA ỤBỌCHỊ
 fbe7f18	ỤBỌCHỊ N'USORO
 7a46866	TAA
-4753707	LEE MGBASA OZI
 6bb45f3	ZỤTA
 62a945f	MKPỌCHI USORO
 ba5b1de	Mkpọchi usoro na-eme ka usoro gị dị ndụ n'ụbọchị ị na-adịghị egwu egwu. Ị nwere ike ijide ruo {0}.\n\nZụta otu maka chip {1}?
@@ -258,8 +242,6 @@ f757137	ỌRỤ TAA
 bb92856	Mkpọchi usoro: {0} / {1}
 0ec6216	Zọpụta usoro gị n'ụbọchị ị tụfuru. +1 kwa ụbọchị asaa.
 cc0a745	JUPỤTARA
-419a962	ENWEGHỊ VIDIYO
-2dabd99	MGBASA OZI NA-ABỊA
 f12e166	Onyinye usoro: ihe nrite ×{0}
 80948a4	Otu ntụgharị n'efu kwa ụbọchị
 596b5e0	NKE NA-ESOTE  {0}
@@ -272,16 +254,8 @@ f12e166	Onyinye usoro: ihe nrite ×{0}
 d00d221	Naanị 18+  •  Chip bụ maka ntụrụndụ: enweghị uru ego, a gaghị agbanwe ha maka ego ma ọ bụ ihe nrite
 b60f038	Na-emeghe ọnụ ụzọ...
 2e5bcce	Nnọọ! Chip nnabata {0} gị dị njikere. Tebụl ndị ahụ dị n'ihu gị!
-7ef7ae3	+chip {0} n'efu! Ọzọ n'ime awa {1}.
-5d82af9	Chip n'efu na-ejupụta kwa awa {0}. Nke na-esote n'ime {1}.
-5469985	awa {0} nkeji {1}
-bb65beb	nkeji {0} sekọnd {1}
 ac8ba93	JIDE USORO GỊ
-560bfa1	Ị chọrọ ihe ncheta na mgbede ị na-egwubeghị egwu, na mgbe chip n'efu gị dị njikere? Ọ gaghị agafe nke ahụ, ị nwekwara ike gbanyụọ ya na Ntọala.
 b724a40	CHETARA M
-9e0c898	+chip {0} dị njikere!
-1207e28	Lee vidiyo: {0}
-db3655b	Chip n'efu na-esote n'ime {0}
 4ca9be5	BLACKJACK
 9a612b1	Tebụl 4  •  na-akwụ 3 na 2
 1194439	SLỌT
@@ -354,7 +328,6 @@ da46447	NDỊ ỌRỤ KASINO
 69d3313	NDỊ NWOKE
 b4325d3	AGWAKỌTARA
 414594a	IHE NCHETA
-6cac87b	Chip n'efu dị njikere, na ncheta mgbede tupu usoro agwụ.
 e43b2e0	NYOCHAA ỌZỌ
 7c9e8f9	MPAGHARA ỌNỤAHỊA
 495c70e	Kachasị ọsọ: kasino dị ka e sere ya, ọ dịghị ihe ọzọ.
@@ -423,8 +396,6 @@ c69e8ee	LUCKY ACE 7s
 fc99288	NCHỊKỌTA NZỌ
 c1c00cd	TEBỤL ỊKWỤ ỤGWỌ
 3930abd	CHI ỌMA!
-67b6973	Ị chọrọ opekata mpe chip 10 iji tụgharịa.
-5aa1edb	NWETA CHIP
 f5a1812	Ebelatala nzọ ka ọ ruo ihe ị nwere ike ịkwụ.
 5c63f61	MMERI MEGA!
 652544f	MMERI UKWU!
@@ -658,17 +629,8 @@ b7193bc	Sic bo dị na nkuku gafere onye ego: dice atọ, ukwu ma ọ bụ obere
 1920e2f	Ntụba mbụ: tinye nzọ na Pass Line, wee tụba. 7 ma ọ bụ 11 na-emeri; 2, 3 ma ọ bụ 12 na-efunahụ. Nzọ place na-amalite ịrụ ọrụ mgbe e nwere point.
 99f4934	LUCKY ACE 7s  •  NA-AKWỤ RUO 2,500× NZỌ AHỊRỊ GỊ
 48ddc95	AUTO TỤGHARỊA
-3848f78	Vidiyo {0} n'ime {1}
-d87409f	Ihe nrite furu efu: a ga-ekiri vidiyo ndị ahụ ruo n'ọgwụgwụ.
-14dcbe4	+{0}% ike
-330037c	{0} aka na chi ọma {1}%
-ff24786	LEE MGBASA OZI
-375d55d	Vidiyo dị mkpụmkpụ 1 ruo 3
-f187dbf	LEE
-64d31ad	LEE 1 MGBASA OZI?
-e77d414	LEE {0} MGBASA OZI?
-8707135	Lee vidiyo 1 ruo n'ọgwụgwụ ka ị nweta {0}. Ọ bụrụ na ị kwụsị n'oge, ihe nrite ahụ furu efu.
-88f8727	Lee vidiyo {0} ruo n'ọgwụgwụ ka ị nweta {1}. Ọ bụrụ na ị kwụsị n'oge, ihe nrite ahụ furu efu.
-7196e7c	BIDO
-b967bda	ỌBỤGHỊ UGBU A
-b10888c	Ihe nrite nwetara: {0}!
+c319724	Chip agwụla! Gaa ebe onye ego ka ịnweta ndị ọzọ.
+4100521	Ihe ncheta usoro
+9543087	Ị chọrọ ihe ncheta n'abalị ndị ị ka egwuwo ka usoro gị ghara ịkwụsị? Ọ dịghị ihe karịrị nke ahụ, ị pụkwara ịkwụsị ya na Ntọala.
+3eb5ca2	Zụta chip ka ịga n'ihu na-egwu.
+844f74b	Ihe ncheta abalị tupu usoro akwụsị.

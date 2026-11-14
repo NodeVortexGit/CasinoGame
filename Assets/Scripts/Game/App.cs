@@ -34,7 +34,6 @@ namespace Casino
         public IRandom Rng { get; } = Pcg32.FromTime();
         public RegionService Region { get; } = new RegionService();
         public IStoreService Store { get; private set; }
-        public IAdService Ads { get; private set; }
         public Purchases Purchases { get; private set; }
         public MusicPlayer Music { get; private set; }
         public UIRoot UI { get; private set; }
@@ -116,8 +115,6 @@ namespace Casino
             Purchases = new Purchases(this);
             Store = StoreFactory.Create();
             Store.Initialize(Purchases.AllSkus(), Purchases.Fulfill);
-            Ads = AdFactory.Create();
-            Ads.Initialize();
 
             Region.RestoreCached(Save.countryCode, (RegionSource)Save.countrySource);
             if (GameConfig.TestServices && !string.IsNullOrEmpty(Save.testCountry)) Region.SetDevOverride(Save.testCountry);

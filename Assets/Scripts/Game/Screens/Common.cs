@@ -1,5 +1,4 @@
 using System;
-using System.Collections;
 using Casino.Art;
 using Casino.Core;
 using Casino.Core.Economy;
@@ -167,62 +166,6 @@ namespace Casino.Screens
         public override bool OnBack()
         {
             Answer(false);
-            return true;
-        }
-    }
-
-    /// <summary>Development stand-in for a rewarded video: a short countdown, then the reward.</summary>
-    public sealed class SimulatedAdModal : UIModal
-    {
-        Action<bool> done;
-        Text countdown;
-        bool finished, answered;
-
-        public void Setup(Action<bool> callback)
-        {
-            done = callback;
-            CloseOnBackdrop = false;
-        }
-
-        protected override void Build()
-        {
-            Backdrop.color = Color.black;
-            MakePanel(1100, 640, "ADVERTISEMENT");
-            var t = UIKit.Label(Panel, "Your rewarded video would play here.\n<size=28><color=#C9BFDB>(Simulated ad - test build)</color></size>", 38, Color.white);
-            ((RectTransform)t.transform).Stretch(60, 250, 60, 140);
-            countdown = UIKit.Label(Panel, "5", 120, Palette.Gold, TextAnchor.MiddleCenter, FontKind.Display);
-            ((RectTransform)countdown.transform).At(0.5f, 0f, 0, 200, 300, 140);
-            var close = UIKit.IconButton(Panel, Icon.Close, ButtonStyle.Dark, Skip, 70f);
-            close.Rect.At(1f, 1f, -22, -22, 70, 70, 1f, 1f);
-            StartCoroutine(Run());
-        }
-
-        IEnumerator Run()
-        {
-            for (int i = 5; i > 0; i--)
-            {
-                countdown.text = i.ToString();
-                yield return Tween.Wait(1f);
-            }
-            finished = true;
-            countdown.text = "REWARD!";
-            yield return Tween.Wait(0.6f);
-            Answer(true);
-        }
-
-        void Skip() => Answer(finished);
-
-        void Answer(bool earned)
-        {
-            if (answered) return;
-            answered = true;
-            Close();
-            done?.Invoke(earned);
-        }
-
-        public override bool OnBack()
-        {
-            Skip();
             return true;
         }
     }

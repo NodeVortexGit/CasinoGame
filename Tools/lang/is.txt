@@ -55,7 +55,6 @@ f76c8fd	Of mikið fyrir mig. Þú vinnur!
 1920c5a	Skiptum! Tvö tækifæri til að vinna.
 59da99d	Tvöfaldaðu! Eitt spil á leiðinni.
 4e5694b	Spilapeningunum fækkar. Viltu fleiri?
-d41f057	Spilapeningarnir búnir! Farðu til gjaldkerans eða náðu í ókeypis spilapeninga.
 15d90d3	Staflinn þinn er tómur. Gjaldkerinn er beint fyrir aftan þig.
 a9eaae1	Þú lítur út fyrir að vera úrvinda! Fáðu þér bita á barnum.
 5cd9e8b	Orkan búin? Barinn sér um þig.
@@ -141,14 +140,6 @@ b5b9597	{0} DAGA RÖÐ!
 1998202	{0}: {1} hendur með {2}% heppni, eftir byrjendaheppni
 728ada5	{0}: {1} hendur með {2}% heppni!
 af5e232	{0}: +{1}% orka
-001a53b	Ekki í boði í þessu tæki
-2607004	Myndbönd hlaðast ekki á þessu neti
-569c30d	Komdu aftur á morgun
-ecae6ee	Tilbúið eftir {0} s
-9964820	+{0} spilapeningar ({1} eftir í dag)
-e1bd888	+{0} ókeypis spilapeningar!
-619bd5d	+1 raðarfrysting!
-f70d794	Ekkert myndband í boði núna. Reyndu aftur eftir smá stund.
 264d71b	BRONS
 462e839	SILFUR
 81ff70a	GULL
@@ -159,9 +150,6 @@ a42f608	Athuga svæðið þitt...
 1db422c	Ekki staðfest ({0}): staðalverð
 9bc0807	{0} ({1}): verð í {2}
 ae8c393	Áminningar
-aefd59b	Ókeypis spilapeningar tilbúnir og áminningar um röð
-3125838	Ókeypis spilapeningarnir þínir eru tilbúnir
-233027b	{0} spilapeningar bíða þín hjá Lucky Ace.
 bd68038	Spilaðu umferðir ({0}) í dag svo hún núllstillist ekki á miðnætti.
 d589374	BLACKJACK GREIÐIR 3 Á MÓTI 2   •   GJAFARINN STENDUR Á ÖLLUM 17   •   TRYGGING GREIÐIR 2 Á MÓTI 1
 b700b02	VEÐMÁL
@@ -188,9 +176,6 @@ b6e674a	Gjafarinn er ekki með blackjack. Tryggingin tapaðist.
 822f4f4	Byrjendaheppninni er lokið. Héðan í frá er það venjulegt blackjack.
 b0377c7	Heppnisröðinni þinni er lokið. Aftur í venjulegt blackjack.
 824ad7c	SPILAPENINGAR BÚNIR
-ff1822d	Horfðu á stutt myndband fyrir {0} ókeypis spilapeninga, eða farðu til gjaldkerans.
-e4cac2f	Farðu til gjaldkerans til að fylla á spilapeningana.
-c3df3e7	ÓKEYPIS SPILAPENINGAR
 b169d33	GJALDKERI
 4d38f66	SÍÐAR
 cb8171b	Kláraðu þessa hönd fyrst.
@@ -208,7 +193,6 @@ c3a8946	SKIL ÞAÐ
 4035996	DAGLEG RÖÐ
 fbe7f18	DAGAR Í RÖÐ
 7a46866	Í DAG
-4753707	HORFA Á AUGLÝSINGU
 6bb45f3	KAUPA
 62a945f	RAÐARFRYSTING
 ba5b1de	Raðarfrysting heldur röðinni þinni lifandi á degi sem þú spilar ekki. Þú getur átt allt að {0}.\n\nKaupa eina fyrir {1} spilapeninga?
@@ -227,8 +211,6 @@ f757137	VERKEFNI DAGSINS
 bb92856	Raðarfrystingar: {0} / {1}
 0ec6216	Bjargaðu röðinni á degi sem þú missir af. +1 á 7 daga fresti.
 cc0a745	FULLT
-419a962	EKKERT MYNDBAND
-2dabd99	AUGLÝSING BRÁÐUM
 f12e166	Raðarbónus: vinningar ×{0}
 80948a4	Einn ókeypis snúningur á hverjum degi
 596b5e0	NÆSTI  {0}
@@ -239,15 +221,7 @@ f12e166	Raðarbónus: vinningar ×{0}
 337211e	LEIKIR
 d00d221	Aðeins 18+  •  Spilapeningar eru til skemmtunar: ekkert peningavirði, aldrei hægt að skipta fyrir peninga eða vinninga
 b60f038	Opna dyrnar...
-7ef7ae3	+{0} ókeypis spilapeningar! Fleiri eftir {1} klst.
-5d82af9	Ókeypis spilapeningar fyllast á {0} klst. fresti. Næst eftir {1}.
-5469985	{0} klst. {1} mín.
-bb65beb	{0} mín. {1} s
 ac8ba93	HALTU RÖÐINNI
-560bfa1	Viltu áminningu á kvöldin sem þú hefur ekki spilað enn, og þegar ókeypis spilapeningarnir eru tilbúnir? Aldrei meira en það, og þú getur slökkt á því í Stillingum.
-9e0c898	+{0} spilapeningar tilbúnir!
-1207e28	Horfðu á myndband: {0}
-db3655b	Næstu ókeypis spilapeningar eftir {0}
 4ca9be5	BLACKJACK
 9a612b1	4 borð  •  greiðir 3 á móti 2
 1194439	SPILAKASSAR
@@ -317,7 +291,6 @@ da46447	STARFSFÓLK SPILAVÍTISINS
 69d3313	KARLAR
 b4325d3	BLANDAÐ
 414594a	ÁMINNINGAR
-6cac87b	Ókeypis spilapeningar tilbúnir, og kvöldáminning áður en röð myndi enda.
 e43b2e0	ATHUGA AFTUR
 7c9e8f9	VERÐSVÆÐI
 495c70e	Hraðast: spilavítið eins og það er málað, ekkert aukalega.
@@ -386,8 +359,6 @@ c69e8ee	LUCKY ACE 7s
 fc99288	HEILDARVEÐMÁL
 c1c00cd	VINNINGATAFLA
 3930abd	GANGI ÞÉR VEL!
-67b6973	Þú þarft að minnsta kosti 10 spilapeninga til að snúa.
-5aa1edb	NÁ Í SPILAPENINGA
 f5a1812	Veðmálið lækkað í það sem þú getur greitt.
 5c63f61	RISAVINNINGUR!
 652544f	STÓR VINNINGUR!
@@ -658,17 +629,8 @@ ec14343	Hversu hratt hægri pinninn snýr sjónarhorninu.
 1920e2f	Upphafskast: veðjaðu á Pass Line og kastaðu. 7 eða 11 vinna; 2, 3 eða 12 tapa. Place-veðmál fara að gilda þegar punktur er kominn.
 99f4934	LUCKY ACE 7s  •  GREIÐIR ALLT AÐ 2.500× LÍNUVEÐMÁLIÐ ÞITT
 48ddc95	SJÁLFVIRK SNÚA
-3848f78	Myndband {0} af {1}
-d87409f	Vinningur tapast: myndböndin verða að vera horfð til enda.
-14dcbe4	+{0}% orka
-330037c	{0} hendur með {1}% heppni
-ff24786	HORFA Á AUGLÝSINGAR
-375d55d	1 til 3 stutt myndbönd
-f187dbf	HORFA
-64d31ad	HORFA Á 1 AUGLÝSINGU?
-e77d414	HORFA Á {0} AUGLÝSINGAR?
-8707135	Horfðu á 1 myndband til enda til að fá {0}. Ef þú hættir snemma tapast vinningurinn.
-88f8727	Horfðu á {0} myndbönd til enda til að fá {1}. Ef þú hættir snemma tapast vinningurinn.
-7196e7c	BYRJA
-b967bda	EKKI NÚNA
-b10888c	Vinningur unninn: {0}!
+c319724	Spilapeningarnir eru búnir! Farðu til gjaldkerans til að fá meira.
+4100521	Áminningar um röð
+9543087	Viltu fá áminningu á kvöldin sem þú hefur ekki spilað, svo röðin þín rofni ekki? Aldrei oftar en það, og þú getur slökkt á því í Stillingum.
+3eb5ca2	Kauptu spilapeninga til að halda áfram að spila.
+844f74b	Kvöldáminning áður en röðin myndi rofna.

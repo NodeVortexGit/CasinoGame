@@ -61,7 +61,6 @@ f76c8fd	Kuningi kakhulu kimi. Uwinile!
 59da99d	Phinda kabili! Ikhadi elilodwa liyeza.
 3fa7769	Kuyaphela? Umkhasheli angakugcwalisela.
 4e5694b	Amashipsi ayancipha. Ufuna amanye?
-d41f057	Amashipsi aphelile! Vakashela umkhasheli noma uthathe amashipsi amahhala.
 15d90d3	Inqwaba yakho ayinalutho. Umkhasheli ungemuva kwakho.
 a9eaae1	Ubukeka ukhathele kakhulu! Thatha okokudla endaweni yokuphuza.
 5cd9e8b	Amandla aphelile? Indawo yokuphuza izokunakekela.
@@ -161,13 +160,6 @@ b5b9597	UCHUNGECHUNGE LWEZINSUKU EZINGU-{0}!
 3e4c600	Kungezwe +amashipsi angu-{0}!
 728ada5	{0}: izandla ezingu-{1} ngenhlanhla engu-{2}%!
 af5e232	{0}: +{1}% amandla
-001a53b	Akutholakali kule divayisi
-2607004	Amavidiyo awakwazi ukulayisha kule nethiwekhi
-569c30d	Buya kusasa
-9964820	+amashipsi angu-{0} (kusele angu-{1} namuhla)
-e1bd888	+amashipsi amahhala angu-{0}!
-619bd5d	+1 ukuqandisa uchungechunge!
-f70d794	Ayikho ividiyo okwamanje. Zama futhi ngemuva kwesikhashana.
 264d71b	ITHUSI
 462e839	ISILIVA
 81ff70a	IGOLIDE
@@ -178,9 +170,6 @@ a42f608	Sihlola isifunda sakho...
 1db422c	Akuqinisekisiwe ({0}): amanani ajwayelekile
 9bc0807	{0} ({1}): amanani nge-{2}
 ae8c393	Izikhumbuzo
-aefd59b	Amashipsi amahhala alungile nezikhumbuzo zochungechunge
-3125838	Amashipsi akho amahhala alungile
-233027b	Amashipsi angu-{0} akulindile e-Lucky Ace.
 b93976b	Gcina uchungechunge lwakho lwezinsuku ezingu-{0}
 bd68038	Dlala imizuliswano engu-{0} namuhla ukuze ingaqali phansi phakathi kwamabili.
 b700b02	BHEJA
@@ -204,9 +193,6 @@ b6e674a	Umhambisi akanayo i-blackjack. Umshwalense ulahlekile.
 8df6be4	UKULAHLEKELWA
 b0377c7	Uchungechunge Lwenhlanhla lwakho luphelile. Sibuyela ku-blackjack ejwayelekile.
 824ad7c	AMASHIPSI APHELILE
-ff1822d	Buka ividiyo emfushane uthole amashipsi amahhala angu-{0}, noma uvakashele umkhasheli.
-e4cac2f	Vakashela umkhasheli ukuze ugcwalise amashipsi akho.
-c3df3e7	AMASHIPSI AMAHHALA
 b169d33	UMKHASHELI
 4d38f66	KAMUVA
 cb8171b	Qeda lesi sandla kuqala.
@@ -223,7 +209,6 @@ c3a8946	NGIYAQONDA
 4035996	UCHUNGECHUNGE LWANSUKU ZONKE
 fbe7f18	IZINSUKU ZILANDELANA
 7a46866	NAMUHLA
-4753707	BUKA ISIKHANGISO
 6bb45f3	THENGA
 62a945f	UKUQANDISA UCHUNGECHUNGE
 38c6090	Ukuqandisa uchungechunge kulungile.
@@ -239,8 +224,6 @@ f757137	IMISEBENZI YANAMUHLA
 bb92856	Ukuqandisa uchungechunge: {0} / {1}
 0ec6216	Sindisa uchungechunge lwakho ngosuku owuphuthayo. +1 njalo ezinsukwini ezi-7.
 cc0a745	KUGCWELE
-419a962	AYIKHO IVIDIYO
-2dabd99	ISIKHANGISO MASINYANE
 f12e166	Ibhonasi yochungechunge: imiklomelo ×{0}
 596b5e0	OKULANDELAYO  {0}
 7f7e7fc	Konke kuqediwe! Ibhonasi iqoqiwe.
@@ -252,16 +235,8 @@ f12e166	Ibhonasi yochungechunge: imiklomelo ×{0}
 d00d221	Abangu-18+ kuphela  •  Amashipsi awokuzijabulisa: awanalo inani lemali, awasoze ashintshwe ngemali noma imiklomelo
 b60f038	Sivula iminyango...
 2e5bcce	Wamukelekile! Amashipsi akho okwamukela angu-{0} alungile. Amatafula aphambili ngqo!
-7ef7ae3	+amashipsi amahhala angu-{0}! Amanye emahoreni angu-{1}.
-5d82af9	Amashipsi amahhala agcwaliswa njalo emahoreni angu-{0}. Alandelayo ku-{1}.
-5469985	{0}h {1}m
-bb65beb	{0}m {1}s
 ac8ba93	GCINA UCHUNGECHUNGE LWAKHO
-560bfa1	Ufuna isikhumbuzo kusihlwa lapho ungakadlali, nalapho amashipsi akho amahhala esalungile? Akusoze kwedlule lokho, futhi ungakuvala kuZilungiselelo.
 b724a40	NGIKHUMBUZE
-9e0c898	+amashipsi angu-{0} alungile!
-1207e28	Buka ividiyo: {0}
-db3655b	Amashipsi amahhala alandelayo ku-{0}
 4ca9be5	I-BLACKJACK
 9a612b1	Amatafula angu-4  •  ikhokha u-3 ku-2
 1194439	AMASLOTHI
@@ -328,7 +303,6 @@ da46447	ABASEBENZI BEKHASINO
 69d3313	AMADODA
 b4325d3	OKUXUBILE
 414594a	IZIKHUMBUZO
-6cac87b	Amashipsi amahhala alungile, nesikhumbuzo sakusihlwa ngaphambi kokuba uchungechunge luphele.
 e43b2e0	HLOLA FUTHI
 7c9e8f9	ISIFUNDA SAMANANI
 495c70e	Okushesha kakhulu: ikhasino njengoba ipendiwe, akukho okwengeziwe.
@@ -402,7 +376,6 @@ c69e8ee	LUCKY ACE 7s
 fc99288	UKUBHEJA OKUPHELELE
 c1c00cd	ITHEBULA LOKUKHOKHA
 3930abd	INHLANHLA ENHLE!
-5aa1edb	THOLA AMASHIPSI
 f5a1812	Ukubheja kwehliselwe kulokho ongakukhokha.
 5c63f61	UKUWINA OKUKHULU KAKHULU!
 652544f	UKUWINA OKUKHULU!
@@ -604,7 +577,6 @@ e1ae457	Mateo
 56b40be	Sawubona futhi, kuhle ukukubona!
 0139615	WAMUKELEKILE
 7b7f9e2	Okungcono kakhulu: izinsuku ezingu-{0}
-ecae6ee	Kuzolungela emizuzwaneni engu-{0}
 6e946b7	US
 4a3a892	IN
 2857a6a	UNYA
@@ -637,7 +609,6 @@ b7193bc	I-sic bo isekhoneni ngale komkhasheli: amadayisi amathathu, okukhulu nom
 9623247	ZUNGEZISA
 80948a4	Ukuzungezisa okukodwa kwamahhala nsuku zonke
 380eb75	Umkhawulo wetafula ngu-{0} ngokuzungezisa ngakunye.
-67b6973	Udinga okungenani amashipsi ayi-10 ukuze uzungezise.
 523f8dc	UKUBUYISELWA: {0}% esikhathini eside. Ukuzungezisa ngakunye kuzimele futhi akuhleliwe.
 c8ebbcc	Shaya inombolo eyodwa obhejele yona
 910a1ed	Isondo laseYurophu  •  inombolo eyodwa ikhokha u-35 ku-1
@@ -658,17 +629,8 @@ e2a28c9	Ikhadi ngalinye linalelo thuba lokunikezwa ngendlela ekuzuzisayo, ekubhe
 1920e2f	Ukuphonsa kokuqala: bheja ku-Pass Line, bese uphonsa. U-7 noma u-11 bayawina, u-2, u-3 noma u-12 bayahlulwa. Ukubheja kwe-Place kuqala ukusebenza uma kukhona iphoyinti.
 99f4934	LUCKY ACE 7s  •  IKHOKHA KUFIKA KU-2,500× UKUBHEJA KWAKHO KOMUGQA
 48ddc95	OZENZEKELAYO
-3848f78	Ividiyo {0} kwangu-{1}
-d87409f	Umklomelo ulahlekile: amavidiyo kumele abukwe kuze kuphele.
-14dcbe4	+{0}% amandla
-330037c	izandla ezingu-{0} ngenhlanhla engu-{1}%
-ff24786	BUKA AMAVIDIYO
-375d55d	amavidiyo amafushane angu-1 kuya kwangu-3
-f187dbf	BUKA
-64d31ad	BUKA IVIDIYO EYODWA?
-e77d414	BUKA AMAVIDIYO angu-{0}?
-8707135	Buka ividiyo eyodwa kuze kuphele ukuze uthole {0}. Uma uyima kusenesikhathi, umklomelo uyalahleka.
-88f8727	Buka amavidiyo angu-{0} kuze kuphele ukuze uthole {1}. Uma uyima kusenesikhathi, umklomelo uyalahleka.
-7196e7c	QALA
-b967bda	HHAYI MANJE
-b10888c	Umklomelo uwinwe: {0}!
+c319724	Amashipsi aphelile! Ya kumkhasheli ukuze uthole amanye.
+4100521	Izikhumbuzo zochungechunge
+9543087	Ufuna isikhumbuzo ngokuhlwa lapho ungakadlali, ukuze uchungechunge lwakho lungaphelelwa? Akukho ngaphezu kwalokho, futhi ungakucima ku-Izilungiselelo.
+3eb5ca2	Thenga amashipsi ukuze uqhubeke udlala.
+844f74b	Isikhumbuzo sokuhlwa ngaphambi kokuthi uchungechunge luphele.

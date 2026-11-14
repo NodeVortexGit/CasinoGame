@@ -64,7 +64,6 @@ f76c8fd	Terlalu banyak untuk saya. Awak menang!
 0b48017	Kasut baharu, saya kocok!
 3fa7769	Semakin sedikit? Juruwang boleh tambah untuk awak.
 4e5694b	Cip semakin berkurang. Mahu ambil lagi?
-d41f057	Cip habis! Pergi ke juruwang atau ambil cip percuma.
 15d90d3	Timbunan awak kosong. Juruwang ada betul-betul di belakang awak.
 a9eaae1	Awak nampak sangat penat! Makan sesuatu di bar.
 5cd9e8b	Kehabisan tenaga? Bar akan bantu awak.
@@ -175,14 +174,6 @@ b5b9597	RENTAK {0} HARI!
 1998202	{0}: {1} tangan dengan {2}% tuah, selepas Tuah Pemula
 728ada5	{0}: {1} tangan dengan {2}% tuah!
 af5e232	{0}: +{1}% tenaga
-001a53b	Tidak tersedia pada peranti ini
-2607004	Video tidak boleh dimuatkan pada rangkaian ini
-569c30d	Datang lagi esok
-ecae6ee	Sedia dalam {0}s
-9964820	+{0} cip ({1} lagi hari ini)
-e1bd888	+{0} cip percuma!
-619bd5d	+1 pembeku rentak!
-f70d794	Tiada video buat masa ini. Cuba lagi sebentar nanti.
 264d71b	GANGSA
 462e839	PERAK
 81ff70a	EMAS
@@ -197,9 +188,6 @@ a42f608	Menyemak wilayah awak...
 1db422c	Belum disahkan ({0}): harga standard
 9bc0807	{0} ({1}): harga dalam {2}
 ae8c393	Peringatan
-aefd59b	Cip percuma sedia dan peringatan rentak
-3125838	Cip percuma awak sudah sedia
-233027b	{0} cip sedang menunggu awak di Lucky Ace.
 b93976b	Kekalkan rentak {0} hari awak
 bd68038	Main {0} pusingan hari ini supaya ia tidak ditetapkan semula pada tengah malam.
 0acfb6f	Selamat datang! Tuah pemula berpihak kepada awak malam ini. Buat pertaruhan!
@@ -230,9 +218,6 @@ b6e674a	Peniaga tiada blackjack. Insurans hilang.
 822f4f4	Tuah pemula sudah tamat. Mulai sekarang blackjack standard.
 b0377c7	Rentak Bertuah awak sudah tamat. Kembali kepada blackjack standard.
 824ad7c	CIP HABIS
-ff1822d	Tonton video pendek untuk {0} cip percuma, atau pergi ke juruwang.
-e4cac2f	Pergi ke juruwang untuk menambah cip awak.
-c3df3e7	CIP PERCUMA
 b169d33	JURUWANG
 4d38f66	NANTI
 cb8171b	Habiskan tangan ini dahulu.
@@ -253,7 +238,6 @@ c3a8946	FAHAM
 4035996	RENTAK HARIAN
 fbe7f18	HARI BERTURUT-TURUT
 7a46866	HARI INI
-4753707	TONTON IKLAN
 6bb45f3	BELI
 62a945f	PEMBEKU RENTAK
 ba5b1de	Pembeku rentak mengekalkan rentak awak pada hari awak tidak bermain. Awak boleh simpan sehingga {0}.\n\nBeli satu untuk {1} cip?
@@ -273,8 +257,6 @@ f757137	MISI HARI INI
 bb92856	Pembeku rentak: {0} / {1}
 0ec6216	Selamatkan rentak awak pada hari yang terlepas. +1 setiap 7 hari.
 cc0a745	PENUH
-419a962	TIADA VIDEO
-2dabd99	IKLAN TIDAK LAMA LAGI
 f12e166	Bonus rentak: hadiah ×{0}
 80948a4	Satu putaran percuma setiap hari
 596b5e0	SETERUSNYA  {0}
@@ -287,16 +269,8 @@ f12e166	Bonus rentak: hadiah ×{0}
 d00d221	18+ sahaja  •  Cip untuk hiburan: tiada nilai wang, tidak boleh ditukar dengan wang atau hadiah
 b60f038	Membuka pintu...
 2e5bcce	Selamat datang! {0} cip alu-aluan awak sudah sedia. Meja ada di hadapan!
-7ef7ae3	+{0} cip percuma! Lagi dalam {1} jam.
-5d82af9	Cip percuma diisi semula setiap {0} jam. Seterusnya dalam {1}.
-5469985	{0}j {1}m
-bb65beb	{0}m {1}s
 ac8ba93	KEKALKAN RENTAK AWAK
-560bfa1	Mahu peringatan pada waktu malam yang awak belum bermain, dan apabila cip percuma awak sedia? Tidak lebih daripada itu, dan awak boleh matikannya dalam Tetapan.
 b724a40	INGATKAN SAYA
-9e0c898	+{0} cip sedia!
-1207e28	Tonton video: {0}
-db3655b	Cip percuma seterusnya dalam {0}
 4ca9be5	BLACKJACK
 9a612b1	4 meja  •  membayar 3 kepada 2
 1194439	SLOT
@@ -369,7 +343,6 @@ da46447	KAKITANGAN KASINO
 69d3313	LELAKI
 b4325d3	CAMPURAN
 414594a	PERINGATAN
-6cac87b	Cip percuma sedia, dan peringatan pada waktu malam sebelum rentak tamat.
 e43b2e0	SEMAK SEMULA
 7c9e8f9	WILAYAH HARGA
 495c70e	Terpantas: kasino seperti dilukis, tiada tambahan.
@@ -444,8 +417,6 @@ c69e8ee	LUCKY ACE 7s
 fc99288	JUMLAH PERTARUHAN
 c1c00cd	JADUAL BAYARAN
 3930abd	SEMOGA BERJAYA!
-67b6973	Awak perlukan sekurang-kurangnya 10 cip untuk memutar.
-5aa1edb	DAPATKAN CIP
 f5a1812	Pertaruhan dikurangkan kepada jumlah yang awak mampu.
 5c63f61	KEMENANGAN MEGA!
 652544f	KEMENANGAN BESAR!
@@ -658,17 +629,8 @@ e1ae457	Mateo
 1920e2f	Balingan come-out: bertaruh pada Pass Line, kemudian baling. 7 atau 11 menang, 2, 3 atau 12 kalah. Pertaruhan Place mula berfungsi apabila ada mata.
 99f4934	LUCKY ACE 7s  •  MEMBAYAR SEHINGGA 2,500× TARUHAN BARIS ANDA
 48ddc95	AUTO PUTAR
-3848f78	Video {0} daripada {1}
-d87409f	Hadiah hilang: video mesti ditonton sehingga habis.
-14dcbe4	+{0}% tenaga
-330037c	{0} tangan dengan {1}% tuah
-ff24786	TONTON IKLAN
-375d55d	1 hingga 3 video pendek
-f187dbf	TONTON
-64d31ad	TONTON 1 IKLAN?
-e77d414	TONTON {0} IKLAN?
-8707135	Tonton 1 video sehingga habis untuk dapatkan {0}. Jika berhenti awal, hadiah hilang.
-88f8727	Tonton {0} video sehingga habis untuk dapatkan {1}. Jika berhenti awal, hadiah hilang.
-7196e7c	MULA
-b967bda	JANGAN SEKARANG
-b10888c	Hadiah dimenangi: {0}!
+c319724	Cip habis! Pergi ke juruwang untuk dapatkan lagi.
+4100521	Peringatan rentak
+9543087	Mahu peringatan pada malam yang anda belum bermain, supaya rentak anda tidak terputus? Tidak lebih daripada itu, dan anda boleh matikannya dalam Tetapan.
+3eb5ca2	Beli cip untuk terus bermain.
+844f74b	Peringatan malam sebelum rentak akan terputus.

@@ -64,7 +64,6 @@ f76c8fd	Demasiado para min. Gañas!
 0b48017	Zapata nova, baralleo!
 3fa7769	Quédanche poucas? A caixa recárgache.
 4e5694b	As fichas escasean. Queres máis?
-d41f057	Quedaches sen fichas! Pasa pola caixa ou colle fichas de balde.
 15d90d3	A túa morea está baleira. A caixa está xusto detrás de ti.
 a9eaae1	Tes cara de canso! Come algo no bar.
 5cd9e8b	Vas na reserva? O bar cóidate.
@@ -175,14 +174,6 @@ b5b9597	RACHA DE {0} DÍAS!
 1998202	{0}: {1} mans cun {2}% de sorte, despois da sorte do principiante
 728ada5	{0}: {1} mans cun {2}% de sorte!
 af5e232	{0}: +{1}% de enerxía
-001a53b	Non dispoñible neste dispositivo
-2607004	Os vídeos non se poden cargar nesta rede
-569c30d	Volve mañá
-ecae6ee	Listo en {0} s
-9964820	+{0} fichas (quedan {1} hoxe)
-e1bd888	+{0} fichas de balde!
-619bd5d	+1 conxelación de racha!
-f70d794	Agora mesmo non hai ningún vídeo dispoñible. Téntao de novo nun momento.
 264d71b	BRONCE
 462e839	PRATA
 81ff70a	OURO
@@ -197,9 +188,6 @@ a42f608	Comprobando a túa rexión...
 1db422c	Non verificado ({0}): prezos estándar
 9bc0807	{0} ({1}): prezos en {2}
 ae8c393	Lembretes
-aefd59b	Fichas de balde listas e lembretes de racha
-3125838	As túas fichas de balde están listas
-233027b	Agárdante {0} fichas en Lucky Ace.
 b93976b	Mantén a túa racha (días: {0})
 bd68038	Xoga hoxe roldas ({0}) para que non se reinicie á medianoite.
 0acfb6f	Dámosche a benvida! A sorte do principiante está contigo esta noite. Fai unha aposta!
@@ -230,9 +218,6 @@ b6e674a	O crupier non ten blackjack. Seguro perdido.
 822f4f4	A sorte do principiante rematou. A partir de agora é blackjack estándar.
 b0377c7	A túa Racha de sorte rematou. Volvemos ao blackjack estándar.
 824ad7c	SEN FICHAS
-ff1822d	Mira un vídeo curto por {0} fichas de balde, ou pasa pola caixa.
-e4cac2f	Pasa pola caixa para recargar as túas fichas.
-c3df3e7	FICHAS DE BALDE
 b169d33	CAIXA
 4d38f66	MÁIS TARDE
 cb8171b	Remata primeiro esta man.
@@ -253,7 +238,6 @@ c3a8946	ENTENDIDO
 4035996	RACHA DIARIA
 fbe7f18	DÍAS SEGUIDOS
 7a46866	HOXE
-4753707	VER ANUNCIO
 6bb45f3	COMPRAR
 62a945f	CONXELACIÓN DE RACHA
 ba5b1de	Unha conxelación mantén viva a túa racha un día que non xogas. Podes ter ata {0}.\n\nComprar unha por {1} fichas?
@@ -273,8 +257,6 @@ f757137	MISIÓNS DE HOXE
 bb92856	Conxelacións de racha: {0} / {1}
 0ec6216	Salva a túa racha un día que perdas. +1 cada 7 días.
 cc0a745	CHEO
-419a962	SEN VÍDEO
-2dabd99	ANUNCIO EN BREVE
 f12e166	Bonificación de racha: premios ×{0}
 80948a4	Un xiro de balde cada día
 596b5e0	SEGUINTE  {0}
@@ -287,16 +269,8 @@ f12e166	Bonificación de racha: premios ×{0}
 d00d221	Só +18  •  As fichas son para divertirse: sen valor monetario, nunca cambiables por diñeiro nin premios
 b60f038	Abrindo as portas...
 2e5bcce	Dámosche a benvida! As túas {0} fichas de benvida están listas. As mesas están xusto diante!
-7ef7ae3	+{0} fichas de balde! Máis en {1} horas.
-5d82af9	As fichas de balde recárganse cada {0} horas. As seguintes en {1}.
-5469985	{0} h {1} min
-bb65beb	{0} min {1} s
 ac8ba93	MANTÉN A TÚA RACHA
-560bfa1	Queres un lembrete as noites que aínda non xogaches e cando as fichas de balde estean listas? Nunca máis ca iso, e podes desactivalo na Configuración.
 b724a40	LÉMBRAMO
-9e0c898	+{0} fichas listas!
-1207e28	Mira un vídeo: {0}
-db3655b	Próximas fichas de balde en {0}
 4ca9be5	BLACKJACK
 9a612b1	4 mesas  •  paga 3 a 2
 1194439	TRAGAPERRAS
@@ -369,7 +343,6 @@ da46447	PERSOAL DO CASINO
 69d3313	HOMES
 b4325d3	MIXTO
 414594a	LEMBRETES
-6cac87b	Fichas de balde listas, e un aviso pola noite antes de que remate unha racha.
 e43b2e0	COMPROBAR DE NOVO
 7c9e8f9	REXIÓN DE PREZOS
 495c70e	O máis rápido: o casino tal como está pintado, nada máis.
@@ -444,8 +417,6 @@ c69e8ee	LUCKY ACE 7s
 fc99288	APOSTA TOTAL
 c1c00cd	TÁBOA DE PREMIOS
 3930abd	BOA SORTE!
-67b6973	Precisas polo menos 10 fichas para xirar.
-5aa1edb	COLLER FICHAS
 f5a1812	Aposta reducida ao que podes cubrir.
 5c63f61	MEGAPREMIO!
 652544f	GRAN PREMIO!
@@ -658,17 +629,8 @@ e1ae457	Mateo
 1920e2f	Tirada de saída: aposta na liña de pase e tira. 7 ou 11 gaña, 2, 3 ou 12 perde. As apostas place contan cando hai punto.
 99f4934	LUCKY ACE 7s  •  PAGA ATA 2.500× A TÚA APOSTA POR LIÑA
 48ddc95	AUTOMÁTICO
-3848f78	Vídeo {0} de {1}
-d87409f	Premio perdido: os vídeos hai que velos ata o final.
-14dcbe4	+{0}% de enerxía
-330037c	{0} mans cun {1}% de sorte
-ff24786	VER ANUNCIOS
-375d55d	De 1 a 3 vídeos curtos
-f187dbf	VER
-64d31ad	VER 1 ANUNCIO?
-e77d414	VER {0} ANUNCIOS?
-8707135	Mira 1 vídeo ata o final para conseguir {0}. Se se para antes, o premio perdese.
-88f8727	Mira {0} vídeos ata o final para conseguir {1}. Se se para antes, o premio perdese.
-7196e7c	COMEZAR
-b967bda	AGORA NON
-b10888c	Premio conseguido: {0}!
+c319724	Sen fichas! Pasa pola caixa para conseguir máis.
+4100521	Recordatorios de racha
+9543087	Queres un recordatorio nas noites nas que aínda non xogaches, para que a túa racha non remate? Nunca máis que iso, e podes desactivalo en Configuración.
+3eb5ca2	Compra fichas para seguir xogando.
+844f74b	Un aviso pola noite antes de que a racha remate.

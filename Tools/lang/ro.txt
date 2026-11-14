@@ -64,7 +64,6 @@ f76c8fd	Prea mult pentru mine. Ai câștigat!
 0b48017	Sabot nou, amestec!
 3fa7769	Rămâi fără? Casieria te reîncarcă.
 4e5694b	Jetoanele se împuținează. Vrei mai multe?
-d41f057	Ai rămas fără jetoane! Mergi la casierie sau ia jetoane gratuite.
 15d90d3	Teancul tău e gol. Casieria e chiar în spatele tău.
 a9eaae1	Arăți epuizat! Mănâncă ceva la bar.
 5cd9e8b	Ești pe rezervă? Barul are grijă de tine.
@@ -175,14 +174,6 @@ b5b9597	SERIE DE {0} ZILE!
 1998202	{0}: {1} mâini cu {2}% noroc, după Norocul începătorului
 728ada5	{0}: {1} mâini cu {2}% noroc!
 af5e232	{0}: +{1}% energie
-001a53b	Indisponibil pe acest dispozitiv
-2607004	Videoclipurile nu se pot încărca în această rețea
-569c30d	Revino mâine
-ecae6ee	Gata în {0} s
-9964820	+{0} jetoane (azi au mai rămas {1})
-e1bd888	+{0} jetoane gratuite!
-619bd5d	+1 înghețare de serie!
-f70d794	Momentan nu e disponibil niciun videoclip. Încearcă din nou peste puțin timp.
 264d71b	BRONZ
 462e839	ARGINT
 81ff70a	AUR
@@ -197,9 +188,6 @@ a42f608	Îți verificăm regiunea...
 1db422c	Neverificat ({0}): prețuri standard
 9bc0807	{0} ({1}): prețuri în {2}
 ae8c393	Mementouri
-aefd59b	Jetoane gratuite gata și mementouri pentru serie
-3125838	Jetoanele tale gratuite sunt gata
-233027b	Te așteaptă {0} jetoane la Lucky Ace.
 b93976b	Păstrează-ți seria (zile: {0})
 bd68038	Joacă azi runde ({0}) ca să nu se reseteze la miezul nopții.
 0acfb6f	Bine ai venit! Norocul începătorului e de partea ta în seara asta. Pariază!
@@ -230,9 +218,6 @@ b6e674a	Dealerul nu are blackjack. Asigurarea e pierdută.
 822f4f4	Norocul începătorului s-a terminat. De acum e blackjack standard.
 b0377c7	Seria ta norocoasă s-a terminat. Înapoi la blackjack standard.
 824ad7c	FĂRĂ JETOANE
-ff1822d	Urmărește un videoclip scurt pentru {0} jetoane gratuite sau mergi la casierie.
-e4cac2f	Mergi la casierie să-ți reîncarci jetoanele.
-c3df3e7	JETOANE GRATUITE
 b169d33	CASIERIE
 4d38f66	MAI TÂRZIU
 cb8171b	Termină mai întâi mâna asta.
@@ -253,7 +238,6 @@ c3a8946	AM ÎNȚELES
 4035996	SERIE ZILNICĂ
 fbe7f18	ZILE LA RÂND
 7a46866	AZI
-4753707	VEZI RECLAMA
 6bb45f3	CUMPĂRĂ
 62a945f	ÎNGHEȚARE DE SERIE
 ba5b1de	O înghețare îți păstrează seria într-o zi în care nu joci. Poți avea până la {0}.\n\nCumperi una pentru {1} jetoane?
@@ -273,8 +257,6 @@ f757137	MISIUNILE DE AZI
 bb92856	Înghețări de serie: {0} / {1}
 0ec6216	Salvează-ți seria într-o zi pe care o ratezi. +1 la fiecare 7 zile.
 cc0a745	PLIN
-419a962	FĂRĂ VIDEO
-2dabd99	RECLAMĂ ÎN CURÂND
 f12e166	Bonus de serie: premii ×{0}
 80948a4	O rotire gratuită în fiecare zi
 596b5e0	URMĂTOAREA  {0}
@@ -287,16 +269,8 @@ f12e166	Bonus de serie: premii ×{0}
 d00d221	Doar 18+  •  Jetoanele sunt pentru distracție: fără valoare bănească, nu pot fi schimbate niciodată pe bani sau premii
 b60f038	Deschidem ușile...
 2e5bcce	Bine ai venit! Cele {0} jetoane de bun venit sunt gata. Mesele sunt drept înainte!
-7ef7ae3	+{0} jetoane gratuite! Altele în {1} ore.
-5d82af9	Jetoanele gratuite se reîncarcă la fiecare {0} ore. Următoarele în {1}.
-5469985	{0} h {1} min
-bb65beb	{0} min {1} s
 ac8ba93	PĂSTREAZĂ-ȚI SERIA
-560bfa1	Vrei un memento în serile în care n-ai jucat încă și când jetoanele gratuite sunt gata? Niciodată mai mult de atât, și îl poți dezactiva din Setări.
 b724a40	AMINTEȘTE-MI
-9e0c898	+{0} jetoane gata!
-1207e28	Urmărește un videoclip: {0}
-db3655b	Următoarele jetoane gratuite în {0}
 4ca9be5	BLACKJACK
 9a612b1	4 mese  •  plătește 3 la 2
 1194439	PĂCĂNELE
@@ -369,7 +343,6 @@ da46447	PERSONALUL CAZINOULUI
 69d3313	BĂRBAȚI
 b4325d3	MIXT
 414594a	MEMENTOURI
-6cac87b	Jetoane gratuite gata și un mic semn seara, înainte să se termine o serie.
 e43b2e0	VERIFICĂ DIN NOU
 7c9e8f9	REGIUNE DE PREȚ
 495c70e	Cel mai rapid: cazinoul așa cum e pictat, nimic în plus.
@@ -444,8 +417,6 @@ c69e8ee	LUCKY ACE 7s
 fc99288	MIZĂ TOTALĂ
 c1c00cd	TABEL DE PLĂȚI
 3930abd	BAFTĂ!
-67b6973	Ai nevoie de cel puțin 10 jetoane ca să învârți.
-5aa1edb	IA JETOANE
 f5a1812	Miza a fost redusă la cât poți acoperi.
 5c63f61	MEGA CÂȘTIG!
 652544f	CÂȘTIG MARE!
@@ -658,17 +629,8 @@ e1ae457	Mateo
 1920e2f	Aruncarea de deschidere: pariază pe Pass Line, apoi aruncă. 7 sau 11 câștigă; 2, 3 sau 12 pierd. Pariurile Place încep să funcționeze când există un punct.
 99f4934	LUCKY ACE 7s  •  PLĂTEȘTE PÂNĂ LA 2.500× MIZA PE LINIE
 48ddc95	AUTO ÎNVÂRTE
-3848f78	Videoclip {0} din {1}
-d87409f	Premiu pierdut: videoclipurile trebuie urmărite până la capăt.
-14dcbe4	+{0}% energie
-330037c	{0} mâini cu {1}% noroc
-ff24786	VIZIONEAZĂ VIDEOCLIPURI
-375d55d	1 până la 3 videoclipuri scurte
-f187dbf	VEZI
-64d31ad	VIZIONEAZĂ 1 VIDEOCLIP?
-e77d414	VIZIONEAZĂ {0} VIDEOCLIPURI?
-8707135	Vizionează 1 videoclip până la capăt ca să primești {0}. Dacă oprești mai devreme, premiul se pierde.
-88f8727	Vizionează {0} videoclipuri până la capăt ca să primești {1}. Dacă oprești mai devreme, premiul se pierde.
-7196e7c	ÎNCEPE
-b967bda	NU ACUM
-b10888c	Premiu câștigat: {0}!
+c319724	Ai rămas fără jetoane! Mergi la casierie pentru mai multe.
+4100521	Mementouri pentru serie
+9543087	Vrei un memento în serile în care nu ai jucat încă, ca seria ta să nu se încheie? Niciodată mai mult de atât, iar în Setări o poți dezactiva.
+3eb5ca2	Cumpără jetoane ca să poți continua jocul.
+844f74b	Un memento seara, înainte ca o serie să se încheie.

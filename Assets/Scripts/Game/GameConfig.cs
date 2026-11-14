@@ -9,7 +9,7 @@ namespace Casino
 
         /// <summary>
         /// Demo / sideload builds (scripting define CASINO_DEMO, set by Casino > Build > Android APK (test)): the test store
-        /// and test ads are active so the whole loop can be tried without real money. Never ship a store build with it.
+        /// is active so the whole loop can be tried without real money. Never ship a store build with it.
         /// </summary>
 #if CASINO_DEMO
         public const bool DemoMode = true;
@@ -17,22 +17,13 @@ namespace Casino
         public const bool DemoMode = false;
 #endif
 
-        /// <summary>Editor, development and demo builds use the simulated store and ads and show developer settings.</summary>
+        /// <summary>Editor, development and demo builds use the simulated store and show developer settings.</summary>
         public static bool TestServices => UnityEngine.Application.isEditor || UnityEngine.Debug.isDebugBuild || DemoMode;
 
         // Economy
         public const long StartingChips = 1_000;
-        public const long AdRewardChips = 250;
-        public const int AdsPerDay = 12;
-        public const int AdCooldownSeconds = 90;
-        // The shop's ad tiles: a prize for watching 1 to 3 videos (rolled on the tap and shown before the first one).
-        public const int AdBundleMax = 3;
-        public const long AdBundleChips = 1_000;
-        public const float AdBundleEnergy = 0.20f;
-        public const int AdBundleLuckHands = 5, AdBundleLuckPercent = 25;
 
-        // Comeback systems (Progression.cs): free chips on a timer, the daily streak goal and the price of a streak freeze.
-        public const double BonusHours = 3;
+        // Comeback systems (Progression.cs): the daily streak goal and the price of a streak freeze.
         public const int StreakDailyGoal = 10;   // rounds of any game in a day
         public const long StreakFreezeChips = 2_500;
 
@@ -59,10 +50,6 @@ namespace Casino
 
         // IP fallback (only used on hardware with no GPS and no cellular radio). Returns "loc=XX".
         public const string IpCountryUrl = "https://www.cloudflare.com/cdn-cgi/trace";
-
-        // Ads (AdMob). Replace the test ids with your own before release.
-        public const string AdMobAndroidAppId = "ca-app-pub-3940256099942544~3347511713";
-        public const string AdMobRewardedAndroid = "ca-app-pub-3940256099942544/5224354917";
 
         // Steam
         public const uint SteamAppId = 480; // Spacewar test app - replace with your own app id.

@@ -64,7 +64,6 @@ f76c8fd	Barraíocht dom. Bhuaigh tú!
 0b48017	Bróg nua, ag suaitheadh!
 3fa7769	Ag éirí gann? Líonfaidh an t-airgeadóir suas thú.
 4e5694b	Tá na sliseanna ag éirí tanaí. Ar mhaith leat tuilleadh?
-d41f057	Gan sliseanna! Tabhair cuairt ar an airgeadóir nó faigh sliseanna saor in aisce.
 15d90d3	Tá do charn folamh. Tá an t-airgeadóir díreach taobh thiar díot.
 a9eaae1	Tá cuma traochta ort! Faigh greim le hithe ag an mbeár.
 5cd9e8b	Ag rith ar folús? Tabharfaidh an beár aire duit.
@@ -175,14 +174,6 @@ b5b9597	SRAITH {0} LÁ!
 1998202	{0}: {1} lámh le {2}% ádh, i ndiaidh ádh an tosaitheora
 728ada5	{0}: {1} lámh le {2}% ádh!
 af5e232	{0}: +{1}% fuinnimh
-001a53b	Níl sé ar fáil ar an ngléas seo
-2607004	Ní féidir físeáin a lódáil ar an líonra seo
-569c30d	Fill amárach
-ecae6ee	Réidh i gceann {0} s
-9964820	+{0} slis ({1} fágtha inniu)
-e1bd888	+{0} slis saor in aisce!
-619bd5d	+1 reo sraithe!
-f70d794	Níl físeán ar fáil faoi láthair. Bain triail eile as i gceann tamaillín.
 264d71b	CRÉ-UMHA
 462e839	AIRGEAD
 81ff70a	ÓR
@@ -197,9 +188,6 @@ a42f608	Do réigiún á sheiceáil...
 1db422c	Gan fíorú ({0}): praghsanna caighdeánacha
 9bc0807	{0} ({1}): praghsanna in {2}
 ae8c393	Meabhrúcháin
-aefd59b	Sliseanna saor réidh agus meabhrúcháin sraithe
-3125838	Tá do shliseanna saor in aisce réidh
-233027b	Tá {0} slis ag fanacht leat ag Lucky Ace.
 b93976b	Coinnigh do shraith ({0} lá)
 bd68038	Imir babhtaí ({0}) inniu ionas nach n-athshocrófar í ag meán oíche.
 0acfb6f	Fáilte! Tá ádh an tosaitheora ar do thaobh anocht. Cuir geall síos!
@@ -230,9 +218,6 @@ b6e674a	Níl blackjack ag an déileálaí. Árachas caillte.
 822f4f4	Tá ádh an tosaitheora thart. Blackjack caighdeánach as seo amach.
 b0377c7	Tá do Shraith Ádhúil thart. Ar ais chuig blackjack caighdeánach.
 824ad7c	GAN SLISEANNA
-ff1822d	Féach ar fhíseán gearr le haghaidh {0} slis saor in aisce, nó tabhair cuairt ar an airgeadóir.
-e4cac2f	Tabhair cuairt ar an airgeadóir chun do shliseanna a athlíonadh.
-c3df3e7	SLISEANNA SAOR
 b169d33	AIRGEADÓIR
 4d38f66	NÍOS DÉANAÍ
 cb8171b	Críochnaigh an lámh seo ar dtús.
@@ -253,7 +238,6 @@ c3a8946	TUIGIM
 4035996	SRAITH LAETHÚIL
 fbe7f18	LÁ AS A CHÉILE
 7a46866	INNIU
-4753707	FÉACH AR FHÓGRA
 6bb45f3	CEANNAIGH
 62a945f	REO SRAITHE
 ba5b1de	Coinníonn reo sraithe do shraith beo ar lá nach n-imríonn tú. Is féidir leat suas le {0} a choinneáil.\n\nCeann a cheannach ar {1} slis?
@@ -273,8 +257,6 @@ f757137	MISIN AN LAE INNIU
 bb92856	Reonna sraithe: {0} / {1}
 0ec6216	Sábháil do shraith ar lá a chailleann tú. +1 gach 7 lá.
 cc0a745	LÁN
-419a962	GAN FHÍSEÁN
-2dabd99	FÓGRA GO LUATH
 f12e166	Bónas sraithe: duaiseanna ×{0}
 80948a4	Casadh saor amháin gach lá
 596b5e0	AN CHÉAD CHEANN EILE  {0}
@@ -287,16 +269,8 @@ f12e166	Bónas sraithe: duaiseanna ×{0}
 d00d221	18+ amháin  •  Is le haghaidh spraoi iad na sliseanna: gan luach airgid, ní féidir iad a mhalartú ar airgead ná duaiseanna riamh
 b60f038	Na doirse á n-oscailt...
 2e5bcce	Fáilte! Tá do {0} slis fáilte réidh. Tá na boird díreach romhat!
-7ef7ae3	+{0} slis saor in aisce! Tuilleadh i gceann {1} uair an chloig.
-5d82af9	Athlíontar sliseanna saor gach {0} uair an chloig. An chéad bhaisc eile i gceann {1}.
-5469985	{0}u {1}n
-bb65beb	{0}n {1}s
 ac8ba93	COINNIGH DO SHRAITH
-560bfa1	Ar mhaith leat meabhrúchán sna tráthnónta nár imir tú fós, agus nuair a bhíonn do shliseanna saor réidh? Ní bheidh níos mó ná sin, agus is féidir é a mhúchadh sna Socruithe.
 b724a40	CUIR I GCUIMHNE DOM
-9e0c898	+{0} slis réidh!
-1207e28	Féach ar fhíseán: {0}
-db3655b	Sliseanna saor eile i gceann {0}
 4ca9be5	BLACKJACK
 9a612b1	4 bhord  •  íocann 3 le 2
 1194439	SLIOTÁIN
@@ -369,7 +343,6 @@ da46447	FOIREANN AN CHEASAÍNEO
 69d3313	FIR
 b4325d3	MEASCTHA
 414594a	MEABHRÚCHÁIN
-6cac87b	Sliseanna saor réidh, agus sonc tráthnóna sula dtiocfadh deireadh le sraith.
 e43b2e0	SEICEÁIL ARÍS
 7c9e8f9	RÉIGIÚN PRAGHSÁLA
 495c70e	Is tapúla: an ceasaíneo mar atá péinteáilte, gan aon rud breise.
@@ -444,8 +417,6 @@ c69e8ee	LUCKY ACE 7s
 fc99288	GEALL IOMLÁN
 c1c00cd	TÁBLA ÍOCAÍOCHTA
 3930abd	ÁDH MÓR!
-67b6973	Teastaíonn 10 slis ar a laghad uait chun casadh.
-5aa1edb	FAIGH SLISEANNA
 f5a1812	Ísliú ar an ngeall go dtí an méid is féidir leat a chlúdach.
 5c63f61	MEGA-BHUA!
 652544f	BUA MÓR!
@@ -658,17 +629,8 @@ e1ae457	Mateo
 1920e2f	Céad chaitheamh: cuir geall ar an Pass Line agus caith. Buann 7 nó 11, cailleann 2, 3 nó 12. Tagann geallta place i bhfeidhm nuair atá pointe ann.
 99f4934	LUCKY ACE 7s  •  ÍOCANN SUAS LE 2,500× DO GHEALL LÍNE
 48ddc95	UATHCHASADH
-3848f78	Físeán {0} de {1}
-d87409f	Cailleadh an duais: caithfear na físeáin a fheiceáil go deireadh.
-14dcbe4	+{0}% fuinnimh
-330037c	{0} lámh le {1}% ádh
-ff24786	FÉACH AR FHÓGRAÍ
-375d55d	1 go 3 fhíseán ghearra
-f187dbf	FÉACH
-64d31ad	FÉACH AR 1 FHÓGRA?
-e77d414	FÉACH AR {0} FHÓGRA?
-8707135	Féach ar 1 fhíseán go deireadh chun {0} a fháil. Má stoptar go luath, cailltear an duais.
-88f8727	Féach ar {0} fhíseán go deireadh chun {1} a fháil. Má stoptar go luath, cailltear an duais.
-7196e7c	TOSAIGH
-b967bda	NÍ ANOIS
-b10888c	Duais buaite: {0}!
+c319724	Gan sliseanna! Tabhair cuairt ar an airgeadóir chun níos mó a fháil.
+4100521	Meabhrúcháin sraithe
+9543087	Ar mhaith leat meabhrúchán ar thráthnónta nach bhfuil imirt agat fós, ionas nach gcríochnóidh do shraith? Níos mó ná sin choíche, agus is féidir é a mhúchadh sna Socruithe.
+3eb5ca2	Ceannaigh slise chun leanúint ag imirt.
+844f74b	Meabhrúchán tráthnóna sula gcríochnódh an tsraith.

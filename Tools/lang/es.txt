@@ -64,7 +64,6 @@ f76c8fd	Demasiadas para mí. ¡Ganas tú!
 0b48017	¡Zapato nuevo, barajando!
 3fa7769	¿Te quedan pocas? La cajera puede recargarte.
 4e5694b	Las fichas escasean. ¿Quieres más?
-d41f057	¡Sin fichas! Ve a la caja o consigue fichas gratis.
 15d90d3	Tu pila está vacía. La caja está justo detrás de ti.
 a9eaae1	¡Te ves agotado! Come algo en el bar.
 5cd9e8b	¿Sin energía? El bar te ayuda.
@@ -175,14 +174,6 @@ b5b9597	¡RACHA DE {0} DÍAS!
 1998202	{0}: {1} manos con {2}% de suerte, después de la Suerte del principiante
 728ada5	{0}: ¡{1} manos con {2}% de suerte!
 af5e232	{0}: +{1}% de energía
-001a53b	No disponible en este dispositivo
-2607004	Los videos no cargan en esta red
-569c30d	Vuelve mañana
-ecae6ee	Listo en {0} s
-9964820	+{0} fichas (quedan {1} hoy)
-e1bd888	¡+{0} fichas gratis!
-619bd5d	¡+1 congelador de racha!
-f70d794	No hay videos disponibles ahora. Inténtalo de nuevo en un momento.
 264d71b	BRONCE
 462e839	PLATA
 81ff70a	ORO
@@ -197,9 +188,6 @@ a42f608	Comprobando tu región...
 1db422c	Sin verificar ({0}): precios estándar
 9bc0807	{0} ({1}): precios en {2}
 ae8c393	Recordatorios
-aefd59b	Fichas gratis listas y recordatorios de racha
-3125838	Tus fichas gratis están listas
-233027b	{0} fichas te esperan en Lucky Ace.
 b93976b	Mantén tu racha de {0} días
 bd68038	Juega {0} rondas hoy para que no se reinicie a medianoche.
 0acfb6f	¡Te damos la bienvenida! La suerte del principiante está de tu lado esta noche. ¡Haz tu apuesta!
@@ -230,9 +218,6 @@ b6e674a	El crupier no tiene blackjack. Seguro perdido.
 822f4f4	Se acabó la suerte del principiante. Desde ahora es blackjack estándar.
 b0377c7	Tu Racha de suerte terminó. Volvemos al blackjack estándar.
 824ad7c	SIN FICHAS
-ff1822d	Mira un video corto por {0} fichas gratis o visita la caja.
-e4cac2f	Visita la caja para recargar fichas.
-c3df3e7	FICHAS GRATIS
 b169d33	CAJA
 4d38f66	MÁS TARDE
 cb8171b	Termina esta mano primero.
@@ -253,7 +238,6 @@ c3a8946	ENTENDIDO
 4035996	RACHA DIARIA
 fbe7f18	DÍAS SEGUIDOS
 7a46866	HOY
-4753707	VER ANUNCIO
 6bb45f3	COMPRAR
 62a945f	CONGELADOR DE RACHA
 ba5b1de	Un congelador de racha mantiene viva tu racha un día que no juegues. Puedes tener {0}.\n\n¿Comprar uno por {1} fichas?
@@ -273,8 +257,6 @@ f757137	MISIONES DE HOY
 bb92856	Congeladores: {0} / {1}
 0ec6216	Salva tu racha el día que faltes. +1 cada 7 días.
 cc0a745	LLENO
-419a962	SIN VIDEO
-2dabd99	ANUNCIO PRONTO
 f12e166	Bono de racha: premios ×{0}
 80948a4	Un giro gratis cada día
 596b5e0	SIGUIENTE  {0}
@@ -287,16 +269,8 @@ f12e166	Bono de racha: premios ×{0}
 d00d221	Solo +18  •  Las fichas son para divertirse: sin valor monetario, nunca canjeables por dinero ni premios
 b60f038	Abriendo las puertas...
 2e5bcce	¡Te damos la bienvenida! Tus {0} fichas de bienvenida están listas. ¡Las mesas están justo delante!
-7ef7ae3	¡+{0} fichas gratis! Más en {1} horas.
-5d82af9	Las fichas gratis se recargan cada {0} horas. Las próximas en {1}.
-5469985	{0} h {1} min
-bb65beb	{0} min {1} s
 ac8ba93	MANTÉN TU RACHA
-560bfa1	¿Quieres un recordatorio las noches que aún no hayas jugado y cuando tus fichas gratis estén listas? Nunca más que eso, y puedes desactivarlo en Ajustes.
 b724a40	RECUÉRDAMELO
-9e0c898	¡+{0} fichas listas!
-1207e28	Mira un video: {0}
-db3655b	Próximas fichas gratis en {0}
 4ca9be5	BLACKJACK
 9a612b1	4 mesas  •  paga 3 a 2
 1194439	TRAGAMONEDAS
@@ -368,7 +342,6 @@ da46447	PERSONAL DEL CASINO
 69d3313	HOMBRES
 b4325d3	MIXTO
 414594a	RECORDATORIOS
-6cac87b	Fichas gratis listas y un aviso por la noche antes de que se pierda tu racha.
 e43b2e0	VOLVER A COMPROBAR
 7c9e8f9	REGIÓN DE PRECIOS
 495c70e	Lo más rápido: el casino tal como está pintado, nada más.
@@ -443,8 +416,6 @@ c69e8ee	LUCKY ACE 7s
 fc99288	APUESTA TOTAL
 c1c00cd	TABLA DE PAGOS
 3930abd	¡BUENA SUERTE!
-67b6973	Necesitas al menos 10 fichas para girar.
-5aa1edb	CONSEGUIR FICHAS
 f5a1812	Apuesta reducida a lo que puedes cubrir.
 5c63f61	¡MEGAPREMIO!
 652544f	¡GRAN PREMIO!
@@ -658,17 +629,8 @@ e1ae457	Mateo
 1920e2f	Tirada de salida: apuesta en la línea de pase y tira. 7 u 11 gana, 2, 3 o 12 pierde. Las apuestas place cuentan cuando hay punto.
 99f4934	LUCKY ACE 7s  •  PAGA HASTA 2.500× TU APUESTA POR LÍNEA
 48ddc95	AUTOMÁTICO
-3848f78	Video {0} de {1}
-d87409f	Premio perdido: los videos deben verse hasta el final.
-14dcbe4	+{0}% de energía
-330037c	{0} manos con {1}% de suerte
-ff24786	VER ANUNCIOS
-375d55d	De 1 a 3 videos cortos
-f187dbf	VER
-64d31ad	¿VER 1 ANUNCIO?
-e77d414	¿VER {0} ANUNCIOS?
-8707135	Mira 1 video hasta el final para conseguir {0}. Si se detiene antes, el premio se pierde.
-88f8727	Mira {0} videos hasta el final para conseguir {1}. Si se detiene antes, el premio se pierde.
-7196e7c	EMPEZAR
-b967bda	AHORA NO
-b10888c	¡Premio conseguido: {0}!
+c319724	¡Sin fichas! Ve a la caja para conseguir más.
+4100521	Recordatorios de racha
+9543087	¿Quieres un recordatorio en las noches en que aún no has jugado, para que tu racha no se acabe? Nunca más que eso, y puedes desactivarlo en Ajustes.
+3eb5ca2	Compra fichas para seguir jugando.
+844f74b	Un aviso por la noche antes de que termine la racha.

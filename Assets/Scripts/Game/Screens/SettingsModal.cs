@@ -151,7 +151,7 @@ namespace Casino.Screens
                 save.remindersAsked = true;
                 App.I.SaveSystem.MarkDirty();
                 if (on) App.I.StartCoroutine(Reminders.AskPermission(null));
-            }).transform, Loc.T("Free chips ready, and an evening nudge before a streak would end."));
+            }).transform, Loc.T("An evening nudge before a streak would end."));
 
             var recheck = UIKit.Button(page, Loc.T("CHECK AGAIN"), ButtonStyle.Dark, () =>
             {

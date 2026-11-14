@@ -64,7 +64,6 @@ f76c8fd	Ez nekem sok. Te nyertél!
 0b48017	Új kártyacipő, keverek!
 3fa7769	Fogyóban? A pénztár feltölt.
 4e5694b	Fogynak a zsetonok. Kérsz még?
-d41f057	Elfogytak a zsetonok! Menj a pénztárhoz, vagy vegyél fel ingyen zsetonokat.
 15d90d3	A kupacod üres. A pénztár pont mögötted van.
 a9eaae1	Kimerültnek tűnsz! Egyél valamit a bárban.
 5cd9e8b	Tartalékon vagy? A bár gondoskodik rólad.
@@ -175,14 +174,6 @@ b5b9597	{0} NAPOS SOROZAT!
 1998202	{0}: {1} leosztás {2}% szerencsével, a kezdők szerencséje után
 728ada5	{0}: {1} leosztás {2}% szerencsével!
 af5e232	{0}: +{1}% energia
-001a53b	Ezen az eszközön nem érhető el
-2607004	A videók nem töltődnek be ezen a hálózaton
-569c30d	Gyere vissza holnap
-ecae6ee	Kész {0} mp múlva
-9964820	+{0} zseton (ma még {1})
-e1bd888	+{0} ingyen zseton!
-619bd5d	+1 sorozatfagyasztás!
-f70d794	Most nincs elérhető videó. Próbáld újra egy kicsit később.
 264d71b	BRONZ
 462e839	EZÜST
 81ff70a	ARANY
@@ -197,9 +188,6 @@ a42f608	Régió ellenőrzése...
 1db422c	Nincs ellenőrizve ({0}): normál árak
 9bc0807	{0} ({1}): árak ebben: {2}
 ae8c393	Emlékeztetők
-aefd59b	Ingyen zsetonok és sorozatemlékeztetők
-3125838	Elkészültek az ingyen zsetonjaid
-233027b	{0} zseton vár rád a Lucky Ace-ben.
 b93976b	Tartsd meg a(z) {0} napos sorozatodat
 bd68038	Játssz ma köröket ({0}), hogy éjfélkor ne nullázódjon le.
 0acfb6f	Üdv! Ma este a kezdők szerencséje veled van. Tedd meg a téted!
@@ -230,9 +218,6 @@ b6e674a	Az osztónak nincs blackjackje. A biztosítás elveszett.
 822f4f4	A kezdők szerencséje véget ért. Mostantól normál blackjack.
 b0377c7	A Szerencsesorozatod véget ért. Vissza a normál blackjackhez.
 824ad7c	ELFOGYTAK A ZSETONOK
-ff1822d	Nézz meg egy rövid videót {0} ingyen zsetonért, vagy menj a pénztárhoz.
-e4cac2f	Menj a pénztárhoz, hogy feltöltsd a zsetonjaidat.
-c3df3e7	INGYEN ZSETONOK
 b169d33	PÉNZTÁR
 4d38f66	KÉSŐBB
 cb8171b	Előbb fejezd be ezt a leosztást.
@@ -253,7 +238,6 @@ c3a8946	ÉRTEM
 4035996	NAPI SOROZAT
 fbe7f18	NAPOS SOROZAT
 7a46866	MA
-4753707	REKLÁM MEGNÉZÉSE
 6bb45f3	VÁSÁRLÁS
 62a945f	SOROZATFAGYASZTÁS
 ba5b1de	A sorozatfagyasztás életben tartja a sorozatodat egy olyan napon, amikor nem játszol. Legfeljebb {0} lehet nálad.\n\nVeszel egyet {1} zsetonért?
@@ -273,8 +257,6 @@ f757137	MAI KÜLDETÉSEK
 bb92856	Sorozatfagyasztások: {0} / {1}
 0ec6216	Mentsd meg a sorozatod egy kihagyott napon. +1 minden 7. napon.
 cc0a745	TELE
-419a962	NINCS VIDEÓ
-2dabd99	REKLÁM HAMAROSAN
 f12e166	Sorozatbónusz: nyeremények ×{0}
 80948a4	Egy ingyen pörgetés minden nap
 596b5e0	KÖVETKEZŐ  {0}
@@ -287,16 +269,8 @@ f12e166	Sorozatbónusz: nyeremények ×{0}
 d00d221	Csak 18+  •  A zsetonok szórakozásra valók: nincs pénzbeli értékük, soha nem válthatók pénzre vagy nyereményre
 b60f038	Nyílnak az ajtók...
 2e5bcce	Üdv! A(z) {0} üdvözlő zsetonod kész. Az asztalok egyenesen előtted vannak!
-7ef7ae3	+{0} ingyen zseton! Újabbak {1} óra múlva.
-5d82af9	Az ingyen zsetonok {0} óránként töltődnek fel. A következő: {1} múlva.
-5469985	{0} ó {1} p
-bb65beb	{0} p {1} mp
 ac8ba93	TARTSD MEG A SOROZATOD
-560bfa1	Kérsz emlékeztetőt azokon az estéken, amikor még nem játszottál, és amikor az ingyen zsetonjaid elkészültek? Ennél többet soha, és a Beállításokban kikapcsolhatod.
 b724a40	EMLÉKEZTESS
-9e0c898	+{0} zseton kész!
-1207e28	Nézz meg egy videót: {0}
-db3655b	Következő ingyen zsetonok: {0} múlva
 4ca9be5	BLACKJACK
 9a612b1	4 asztal  •  3:2-t fizet
 1194439	NYERŐGÉPEK
@@ -369,7 +343,6 @@ da46447	KASZINÓ SZEMÉLYZETE
 69d3313	FÉRFIAK
 b4325d3	VEGYES
 414594a	EMLÉKEZTETŐK
-6cac87b	Ingyen zsetonok, és egy esti figyelmeztetés, mielőtt egy sorozat megszakadna.
 e43b2e0	ÚJRAELLENŐRZÉS
 7c9e8f9	ÁRRÉGIÓ
 495c70e	Leggyorsabb: a kaszinó, ahogy megfestették, semmi extra.
@@ -444,8 +417,6 @@ c69e8ee	LUCKY ACE 7s
 fc99288	ÖSSZES TÉT
 c1c00cd	NYEREMÉNYTÁBLA
 3930abd	SOK SZERENCSÉT!
-67b6973	A pörgetéshez legalább 10 zseton kell.
-5aa1edb	ZSETONOK
 f5a1812	A tétet arra csökkentettük, amit fedezni tudsz.
 5c63f61	MEGANYEREMÉNY!
 652544f	NAGY NYEREMÉNY!
@@ -658,17 +629,8 @@ e1ae457	Mateo
 1920e2f	Nyitó dobás: tégy a Pass Line-ra, majd dobj. 7 vagy 11 nyer; 2, 3 vagy 12 veszít. A place fogadások csak akkor kezdenek működni, ha van pont.
 99f4934	LUCKY ACE 7s  •  AKÁR A VONALTÉTED 2 500-SZOROSÁT FIZETI
 48ddc95	AUTO PÖRGETÉS
-3848f78	Videó: {0}/{1}
-d87409f	A jutalom elveszett: a videókat végig kell nézni.
-14dcbe4	+{0}% energia
-330037c	{0} leosztás {1}% szerencsével
-ff24786	REKLÁMOK MEGNÉZÉSE
-375d55d	1–3 rövid videó
-f187dbf	MEGNÉZÉS
-64d31ad	1 REKLÁM MEGNÉZÉSE?
-e77d414	{0} REKLÁM MEGNÉZÉSE?
-8707135	Nézz meg 1 videót végig, hogy megkapd: {0}. Ha korábban abbahagyod, a jutalom elvész.
-88f8727	Nézz meg {0} videót végig, hogy megkapd: {1}. Ha korábban abbahagyod, a jutalom elvész.
-7196e7c	KEZDÉS
-b967bda	MOST NEM
-b10888c	Jutalom megszerezve: {0}!
+c319724	Elfogytak a zsetonok! Látogasson el a pénztárba, hogy többet kapjon.
+4100521	Sorozat-emlékeztetők
+9543087	Szeretnél emlékeztetőt azokra az estékre, amikor még nem játszottál, hogy a sorozatod ne szakadjon meg? Soha nem lesz több ennél, és a Beállításokban kikapcsolható.
+3eb5ca2	Vegyen zsetonokat, hogy játszhasson tovább.
+844f74b	Esti emlékeztető, mielőtt a sorozat megszakadna.

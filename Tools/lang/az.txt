@@ -64,7 +64,6 @@ f76c8fd	Mənə çox oldu. Sən qazandın!
 0b48017	Yeni ayaqqabı, qarışdırıram!
 3fa7769	Azalır? Kassa səni doldura bilər.
 4e5694b	Fişlər azalır. Daha istəyirsən?
-d41f057	Fişlər bitdi! Kassaya get və ya pulsuz fiş götür.
 15d90d3	Qalağın boşdur. Kassa düz arxandadır.
 a9eaae1	Çox yorğun görünürsən! Barda bir şey ye.
 5cd9e8b	Gücün tükənir? Bar səninlə maraqlanacaq.
@@ -175,14 +174,6 @@ b5b9597	{0} GÜNLÜK SERİYA!
 1998202	{0}: {1} əl, {2}% şans, yeni başlayanın şansından sonra
 728ada5	{0}: {1} əl, {2}% şans!
 af5e232	{0}: +{1}% enerji
-001a53b	Bu cihazda mövcud deyil
-2607004	Videolar bu şəbəkədə yüklənmir
-569c30d	Sabah qayıt
-ecae6ee	{0} san. sonra hazırdır
-9964820	+{0} fiş (bu gün {1} qalıb)
-e1bd888	+{0} pulsuz fiş!
-619bd5d	+1 seriya dondurması!
-f70d794	Hazırda video yoxdur. Bir azdan yenidən cəhd et.
 264d71b	BÜRÜNC
 462e839	GÜMÜŞ
 81ff70a	QIZIL
@@ -197,9 +188,6 @@ a42f608	Regionun yoxlanılır...
 1db422c	Təsdiqlənməyib ({0}): standart qiymətlər
 9bc0807	{0} ({1}): qiymətlər {2} ilə
 ae8c393	Xatırlatmalar
-aefd59b	Pulsuz fişlər hazırdır və seriya xatırlatmaları
-3125838	Pulsuz fişlərin hazırdır
-233027b	Lucky Ace-də səni {0} fiş gözləyir.
 b93976b	{0} günlük seriyanı qoru
 bd68038	Gecə yarısı sıfırlanmasın deyə bu gün raund oyna ({0}).
 0acfb6f	Xoş gəldin! Bu gecə yeni başlayanın şansı səninlədir. Mərc qoy!
@@ -230,9 +218,6 @@ b6e674a	Dilerdə blackjack yoxdur. Sığorta itdi.
 822f4f4	Yeni başlayanın şansı bitdi. Bundan sonra standart blackjack.
 b0377c7	Uğurlu seriyan bitdi. Standart blackjack-ə qayıdırıq.
 824ad7c	FİŞLƏR BİTDİ
-ff1822d	{0} pulsuz fiş üçün qısa video izlə və ya kassaya get.
-e4cac2f	Fişlərini doldurmaq üçün kassaya get.
-c3df3e7	PULSUZ FİŞLƏR
 b169d33	KASSA
 4d38f66	SONRA
 cb8171b	Əvvəlcə bu əli bitir.
@@ -253,7 +238,6 @@ c3a8946	ANLADIM
 4035996	GÜNDƏLİK SERİYA
 fbe7f18	ARDICIL GÜN
 7a46866	BU GÜN
-4753707	REKLAMA BAX
 6bb45f3	AL
 62a945f	SERİYA DONDURMASI
 ba5b1de	Seriya dondurması oynamadığın gün seriyanı qoruyur. {0} ədədə qədər saxlaya bilərsən.\n\nBirini {1} fişə alırsan?
@@ -273,8 +257,6 @@ f757137	BUGÜNKÜ TAPŞIRIQLAR
 bb92856	Seriya dondurmaları: {0} / {1}
 0ec6216	Buraxdığın gün seriyanı xilas et. Hər 7 gündən bir +1.
 cc0a745	DOLU
-419a962	VİDEO YOXDUR
-2dabd99	REKLAM TEZLİKLƏ
 f12e166	Seriya bonusu: mükafatlar ×{0}
 80948a4	Hər gün bir pulsuz fırlatma
 596b5e0	NÖVBƏTİ  {0}
@@ -287,16 +269,8 @@ f12e166	Seriya bonusu: mükafatlar ×{0}
 d00d221	Yalnız 18+  •  Fişlər əyləncə üçündür: pul dəyəri yoxdur, heç vaxt pula və ya mükafata dəyişdirilmir
 b60f038	Qapılar açılır...
 2e5bcce	Xoş gəldin! {0} salamlama fişin hazırdır. Masalar düz qabaqdadır!
-7ef7ae3	+{0} pulsuz fiş! Daha çoxu {1} saatdan sonra.
-5d82af9	Pulsuz fişlər hər {0} saatdan bir dolur. Növbəti {1} sonra.
-5469985	{0} saat {1} dəq
-bb65beb	{0} dəq {1} san
 ac8ba93	SERİYANI QORU
-560bfa1	Hələ oynamadığın axşamlarda və pulsuz fişlərin hazır olanda xatırlatma istəyirsən? Bundan artıq heç vaxt, və Parametrlərdə söndürə bilərsən.
 b724a40	XATIRLAT
-9e0c898	+{0} fiş hazırdır!
-1207e28	Video izlə: {0}
-db3655b	Növbəti pulsuz fişlər {0} sonra
 4ca9be5	BLACKJACK
 9a612b1	4 masa  •  3-ə 2 ödəyir
 1194439	SLOTLAR
@@ -369,7 +343,6 @@ da46447	KAZİNO İŞÇİLƏRİ
 69d3313	KİŞİLƏR
 b4325d3	QARIŞIQ
 414594a	XATIRLATMALAR
-6cac87b	Pulsuz fişlər hazırdır, və seriya bitməzdən əvvəl axşam xatırlatması.
 e43b2e0	YENİDƏN YOXLA
 7c9e8f9	QİYMƏT REGİONU
 495c70e	Ən sürətli: kazino çəkildiyi kimi, əlavə heç nə.
@@ -444,8 +417,6 @@ c69e8ee	LUCKY ACE 7s
 fc99288	ÜMUMİ MƏRC
 c1c00cd	ÖDƏNİŞ CƏDVƏLİ
 3930abd	UĞURLAR!
-67b6973	Fırlatmaq üçün ən azı 10 fiş lazımdır.
-5aa1edb	FİŞ AL
 f5a1812	Mərc ödəyə biləcəyin qədər azaldıldı.
 5c63f61	MEQA QAZANC!
 652544f	BÖYÜK QAZANC!
@@ -658,17 +629,8 @@ e1ae457	Mateo
 1920e2f	İlk atış: Pass Line-a mərc qoy, sonra at. 7 və ya 11 qazanır; 2, 3 və ya 12 uduzur. Place mərcləri xal olandan sonra işləməyə başlayır.
 99f4934	LUCKY ACE 7s  •  XƏTT MƏRCİNİ 2 500× QƏDƏR ÖDƏYİR
 48ddc95	AVTO FIRLAT
-3848f78	Video {0} / {1}
-d87409f	Mükafat itirildi: videolar sonadək izlənilməlidir.
-14dcbe4	+{0}% enerji
-330037c	{0} əl {1}% şansla
-ff24786	REKLAMLARA BAX
-375d55d	1-3 qısa video
-f187dbf	BAX
-64d31ad	1 REKLAMA BAX?
-e77d414	{0} REKLAMA BAX?
-8707135	1 videonu sonadək izləyin ki, {0} qazanasınız. Erkən dayandırsanız, mükafat itirilir.
-88f8727	{0} videonu sonadək izləyin ki, {1} qazanasınız. Erkən dayandırsanız, mükafat itirilir.
-7196e7c	BAŞLA
-b967bda	HƏLƏ YOX
-b10888c	Mükafat qazanıldı: {0}!
+c319724	Fişlər bitdi! Daha almaq üçün kassaya müraciət edin.
+4100521	Seriya xatırlatmaları
+9543087	Oynamadığın axşamlarda, seriyan bitməsin deyə xatırlatma istəyirsən? Bundan çox olmayacaq və Parametrlərdə söndürə bilərsən.
+3eb5ca2	Oyuna davam etmək üçün fiş alın.
+844f74b	Seriya bitməzdən əvvəl axşam xatırlatması.

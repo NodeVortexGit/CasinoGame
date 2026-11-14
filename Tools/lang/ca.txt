@@ -64,7 +64,6 @@ f76c8fd	Massa per a mi. Guanyes!
 0b48017	Sabata nova, barrejo!
 3fa7769	Et queden poques? La caixa et recarrega.
 4e5694b	Les fitxes s'acaben. En vols més?
-d41f057	T'has quedat sense fitxes! Passa per la caixa o agafa fitxes gratis.
 15d90d3	La teva pila és buida. La caixa és just darrere teu.
 a9eaae1	Fas cara de cansat! Menja alguna cosa al bar.
 5cd9e8b	Vas amb la reserva? El bar et cuida.
@@ -175,14 +174,6 @@ b5b9597	RATXA DE {0} DIES!
 1998202	{0}: {1} mans amb un {2}% de sort, després de la sort del principiant
 728ada5	{0}: {1} mans amb un {2}% de sort!
 af5e232	{0}: +{1}% d'energia
-001a53b	No disponible en aquest dispositiu
-2607004	Els vídeos no es poden carregar en aquesta xarxa
-569c30d	Torna demà
-ecae6ee	A punt d'aquí a {0} s
-9964820	+{0} fitxes (en queden {1} avui)
-e1bd888	+{0} fitxes gratis!
-619bd5d	+1 congelació de ratxa!
-f70d794	Ara mateix no hi ha cap vídeo disponible. Torna-ho a provar d'aquí a una estona.
 264d71b	BRONZE
 462e839	PLATA
 81ff70a	OR
@@ -197,9 +188,6 @@ a42f608	Comprovant la teva regió...
 1db422c	No verificat ({0}): preus estàndard
 9bc0807	{0} ({1}): preus en {2}
 ae8c393	Recordatoris
-aefd59b	Fitxes gratis a punt i recordatoris de ratxa
-3125838	Les teves fitxes gratis estan a punt
-233027b	T'esperen {0} fitxes a Lucky Ace.
 b93976b	Mantén la teva ratxa (dies: {0})
 bd68038	Juga avui rondes ({0}) perquè no es reiniciï a mitjanit.
 0acfb6f	Et donem la benvinguda! La sort del principiant és amb tu aquesta nit. Fes una aposta!
@@ -230,9 +218,6 @@ b6e674a	El crupier no té blackjack. Assegurança perduda.
 822f4f4	La sort del principiant s'ha acabat. A partir d'ara és blackjack estàndard.
 b0377c7	La teva Ratxa de sort s'ha acabat. Tornem al blackjack estàndard.
 824ad7c	SENSE FITXES
-ff1822d	Mira un vídeo curt per {0} fitxes gratis, o passa per la caixa.
-e4cac2f	Passa per la caixa per recarregar les teves fitxes.
-c3df3e7	FITXES GRATIS
 b169d33	CAIXA
 4d38f66	MÉS TARD
 cb8171b	Acaba primer aquesta mà.
@@ -253,7 +238,6 @@ c3a8946	ENTESOS
 4035996	RATXA DIÀRIA
 fbe7f18	DIES SEGUITS
 7a46866	AVUI
-4753707	MIRA L'ANUNCI
 6bb45f3	COMPRA
 62a945f	CONGELACIÓ DE RATXA
 ba5b1de	Una congelació manté viva la teva ratxa un dia que no jugues. En pots tenir fins a {0}.\n\nEn compres una per {1} fitxes?
@@ -273,8 +257,6 @@ f757137	MISSIONS D'AVUI
 bb92856	Congelacions de ratxa: {0} / {1}
 0ec6216	Salva la teva ratxa un dia que et perdis. +1 cada 7 dies.
 cc0a745	PLE
-419a962	SENSE VÍDEO
-2dabd99	ANUNCI AVIAT
 f12e166	Bonificació de ratxa: premis ×{0}
 80948a4	Una tirada gratis cada dia
 596b5e0	SEGÜENT  {0}
@@ -287,16 +269,8 @@ f12e166	Bonificació de ratxa: premis ×{0}
 d00d221	Només +18  •  Les fitxes són per divertir-se: sense valor monetari, mai bescanviables per diners ni premis
 b60f038	Obrint les portes...
 2e5bcce	Et donem la benvinguda! Les teves {0} fitxes de benvinguda estan a punt. Les taules són just al davant!
-7ef7ae3	+{0} fitxes gratis! Més d'aquí a {1} hores.
-5d82af9	Les fitxes gratis es recarreguen cada {0} hores. Les següents d'aquí a {1}.
-5469985	{0} h {1} min
-bb65beb	{0} min {1} s
 ac8ba93	MANTÉN LA TEVA RATXA
-560bfa1	Vols un recordatori les nits que encara no has jugat i quan les fitxes gratis estiguin a punt? Mai res més, i ho pots desactivar a la Configuració.
 b724a40	RECORDA-M'HO
-9e0c898	+{0} fitxes a punt!
-1207e28	Mira un vídeo: {0}
-db3655b	Pròximes fitxes gratis d'aquí a {0}
 4ca9be5	BLACKJACK
 9a612b1	4 taules  •  paga 3 a 2
 1194439	ESCURABUTXAQUES
@@ -369,7 +343,6 @@ da46447	PERSONAL DEL CASINO
 69d3313	HOMES
 b4325d3	MIXT
 414594a	RECORDATORIS
-6cac87b	Fitxes gratis a punt, i un avís al vespre abans que s'acabi una ratxa.
 e43b2e0	TORNA A COMPROVAR
 7c9e8f9	REGIÓ DE PREUS
 495c70e	El més ràpid: el casino tal com està pintat, res més.
@@ -444,8 +417,6 @@ c69e8ee	LUCKY ACE 7s
 fc99288	APOSTA TOTAL
 c1c00cd	TAULA DE PAGAMENTS
 3930abd	BONA SORT!
-67b6973	Necessites almenys 10 fitxes per girar.
-5aa1edb	AGAFA FITXES
 f5a1812	Aposta reduïda al que pots cobrir.
 5c63f61	MEGA PREMI!
 652544f	GRAN PREMI!
@@ -658,17 +629,8 @@ e1ae457	Mateu
 1920e2f	Tirada de sortida: aposta a la línia de passada i tira. 7 o 11 guanyen; 2, 3 o 12 perden. Les apostes de place comencen a comptar quan hi ha un punt.
 99f4934	LUCKY ACE 7s  •  PAGA FINS A 2.500× L'APOSTA PER LÍNIA
 48ddc95	AUTOMÀTIC
-3848f78	Vídeo {0} de {1}
-d87409f	Premi perdut: els vídeos s'han de veure fins al final.
-14dcbe4	+{0}% d'energia
-330037c	{0} mans amb un {1}% de sort
-ff24786	MIRA ANUNCIS
-375d55d	De 1 a 3 vídeos curts
-f187dbf	MIRA
-64d31ad	MIRA 1 ANUNCI?
-e77d414	MIRA {0} ANUNCIS?
-8707135	Mira 1 vídeo fins al final per guanyar {0}. Si ho atures abans, el premi es perd.
-88f8727	Mira {0} vídeos fins al final per guanyar {1}. Si ho atures abans, el premi es perd.
-7196e7c	COMENÇA
-b967bda	ARA NO
-b10888c	Premi guanyat: {0}!
+c319724	Sense fitxes! Passeu per la caixa per obtenir-ne més.
+4100521	Recordatoris de ratxa
+9543087	Vols un recordatori els vespres que encara no has jugat, perquè la ratxa no s'acabi? Mai més que això, i el pots desactivar a Configuració.
+3eb5ca2	Compreu fitxes per continuar jugant.
+844f74b	Un avís al vespre abans que acabi la ratxa.

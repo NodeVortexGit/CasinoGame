@@ -16,7 +16,7 @@ namespace Casino
     }
 
     /// <summary>
-    /// The reasons to come back: levels and XP, the daily streak, the daily bonus wheel, free chips on a timer and three
+    /// The reasons to come back: levels and XP, the daily streak, the daily bonus wheel and three
     /// daily missions (rules in Core/Player/Progression.cs). Games report each finished round here; this pays the
     /// rewards, keeps the save up to date and tells the UI what to celebrate.
     /// </summary>
@@ -206,43 +206,9 @@ namespace Casino
             return segment;
         }
 
-        // ---------------- free chips on a timer ----------------
-
-        public bool BonusReady => DateTime.UtcNow.Ticks >= Save.bonusReadyUtcTicks;
-        public long BonusAmount => TimedBonus.Amount(Level);
-
-        public TimeSpan BonusIn
-        {
-            get
-            {
-                long left = Save.bonusReadyUtcTicks - DateTime.UtcNow.Ticks;
-                return left > 0 ? new TimeSpan(left) : TimeSpan.Zero;
-            }
-        }
-
-        public long CollectBonus()
-        {
-            if (!BonusReady) return 0;
-            long amount = BonusAmount;
-            app.Wallet.Credit(amount);
-            Save.bonusReadyUtcTicks = DateTime.UtcNow.AddHours(GameConfig.BonusHours).Ticks;
-            app.SaveSystem.SaveNow();
-            Changed?.Invoke();
-            return amount;
-        }
-
         // ---------------- streak freezes ----------------
 
         public bool CanBuyFreeze => Streak.Freezes < Streak.MaxFreezes;
-
-        /// <summary>A freeze from a rewarded video (or any other free source).</summary>
-        public bool AddFreeze()
-        {
-            if (!Streak.AddFreeze()) return false;
-            app.SaveSystem.SaveNow();
-            Changed?.Invoke();
-            return true;
-        }
 
         public bool BuyFreeze()
         {

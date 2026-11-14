@@ -64,7 +64,6 @@ f76c8fd	Shumë për mua. Fitove!
 0b48017	Këpucë e re, po përziej!
 3fa7769	Po të mbarojnë? Arka të mbush sërish.
 4e5694b	Fishat po pakësohen. Do më shumë?
-d41f057	Mbaruan fishat! Shko te arka ose merr fisha falas.
 15d90d3	Stiva jote është bosh. Arka është pikërisht pas teje.
 a9eaae1	Dukesh i rraskapitur! Ha diçka te bari.
 5cd9e8b	Pa energji? Bari kujdeset për ty.
@@ -175,14 +174,6 @@ b5b9597	SERI {0} DITËSH!
 1998202	{0}: {1} duar me {2}% fat, pas fatit të fillestarit
 728ada5	{0}: {1} duar me {2}% fat!
 af5e232	{0}: +{1}% energji
-001a53b	Nuk disponohet në këtë pajisje
-2607004	Videot nuk ngarkohen në këtë rrjet
-569c30d	Kthehu nesër
-ecae6ee	Gati për {0} s
-9964820	+{0} fisha (sot kanë mbetur {1})
-e1bd888	+{0} fisha falas!
-619bd5d	+1 ngrirje serie!
-f70d794	Nuk ka video për momentin. Provo sërish pas pak.
 264d71b	BRONZ
 462e839	ARGJEND
 81ff70a	AR
@@ -197,9 +188,6 @@ a42f608	Po kontrollojmë rajonin tënd...
 1db422c	I paverifikuar ({0}): çmime standarde
 9bc0807	{0} ({1}): çmime në {2}
 ae8c393	Kujtesa
-aefd59b	Fisha falas gati dhe kujtesa për serinë
-3125838	Fishat e tua falas janë gati
-233027b	{0} fisha të presin te Lucky Ace.
 b93976b	Mbaj serinë prej {0} ditësh
 bd68038	Luaj sot raunde ({0}) që të mos rivendoset në mesnatë.
 0acfb6f	Mirë se erdhe! Fati i fillestarit është me ty sonte. Vendos një bast!
@@ -230,9 +218,6 @@ b6e674a	Krupieri nuk ka blackjack. Sigurimi humbi.
 822f4f4	Fati i fillestarit mbaroi. Nga tani është blackjack standard.
 b0377c7	Seria jote me fat mbaroi. Kthehemi te blackjack standard.
 824ad7c	PA FISHA
-ff1822d	Shiko një video të shkurtër për {0} fisha falas, ose shko te arka.
-e4cac2f	Shko te arka për të rimbushur fishat.
-c3df3e7	FISHA FALAS
 b169d33	ARKA
 4d38f66	MË VONË
 cb8171b	Përfundo së pari këtë dorë.
@@ -253,7 +238,6 @@ c3a8946	E KUPTOVA
 4035996	SERI DITORE
 fbe7f18	DITË RRESHT
 7a46866	SOT
-4753707	SHIKO REKLAMËN
 6bb45f3	BLI
 62a945f	NGRIRJE SERIE
 ba5b1de	Një ngrirje e mban gjallë serinë tënde në një ditë që nuk luan. Mund të kesh deri në {0}.\n\nTë blesh një për {1} fisha?
@@ -273,8 +257,6 @@ f757137	MISIONET E SOTME
 bb92856	Ngrirje serie: {0} / {1}
 0ec6216	Shpëto serinë në një ditë që e humbet. +1 çdo 7 ditë.
 cc0a745	PLOT
-419a962	PA VIDEO
-2dabd99	REKLAMË SË SHPEJTI
 f12e166	Bonus serie: çmime ×{0}
 80948a4	Një rrotullim falas çdo ditë
 596b5e0	TJETRI  {0}
@@ -287,16 +269,8 @@ f12e166	Bonus serie: çmime ×{0}
 d00d221	Vetëm 18+  •  Fishat janë për argëtim: pa vlerë monetare, kurrë të këmbyeshme me para ose çmime
 b60f038	Po hapim dyert...
 2e5bcce	Mirë se erdhe! {0} fishat e tua të mirëseardhjes janë gati. Tavolinat janë drejt përpara!
-7ef7ae3	+{0} fisha falas! Të tjera pas {1} orësh.
-5d82af9	Fishat falas rimbushen çdo {0} orë. Të radhës pas {1}.
-5469985	{0} orë {1} min
-bb65beb	{0} min {1} s
 ac8ba93	MBAJ SERINË
-560bfa1	Do një kujtesë në mbrëmjet kur ende nuk ke luajtur, dhe kur fishat falas janë gati? Kurrë më shumë se kaq, dhe mund ta çaktivizosh te Cilësimet.
 b724a40	MË KUJTO
-9e0c898	+{0} fisha gati!
-1207e28	Shiko një video: {0}
-db3655b	Fishat e ardhshme falas pas {0}
 4ca9be5	BLACKJACK
 9a612b1	4 tavolina  •  paguan 3 me 2
 1194439	AUTOMATE
@@ -369,7 +343,6 @@ da46447	STAFI I KAZINOSË
 69d3313	BURRA
 b4325d3	I PËRZIER
 414594a	KUJTESA
-6cac87b	Fisha falas gati, dhe një kujtesë në mbrëmje para se të mbarojë një seri.
 e43b2e0	KONTROLLO SËRISH
 7c9e8f9	RAJONI I ÇMIMEVE
 495c70e	Më e shpejta: kazinoja siç është pikturuar, asgjë shtesë.
@@ -444,8 +417,6 @@ c69e8ee	LUCKY ACE 7s
 fc99288	BASTI TOTAL
 c1c00cd	TABELA E PAGESAVE
 3930abd	FAT TË MBARË!
-67b6973	Të duhen të paktën 10 fisha për të rrotulluar.
-5aa1edb	MERR FISHA
 f5a1812	Basti u ul në sa mund të mbulosh.
 5c63f61	MEGA FITORE!
 652544f	FITORE E MADHE!
@@ -658,17 +629,8 @@ e1ae457	Mateo
 1920e2f	Hedhja e parë: vë bast te Pass Line dhe hidh. 7 ose 11 fiton, 2, 3 ose 12 humbet. Bastet Place fillojnë të vlejnë kur ka pikë.
 99f4934	LUCKY ACE 7s  •  PAGUAN DERI NË 2.500× BASTIN TËND PËR LINJË
 48ddc95	AUTOMATIK
-3848f78	Video {0} nga {1}
-d87409f	Çmimi humbi: videot duhet të shikohen deri në fund.
-14dcbe4	+{0}% energji
-330037c	{0} duar me {1}% fat
-ff24786	SHIKO VIDEO
-375d55d	1 deri në 3 video të shkurtra
-f187dbf	SHIKO
-64d31ad	SHIKO 1 VIDEO?
-e77d414	SHIKO {0} VIDEO?
-8707135	Shiko 1 video deri në fund për të marrë {0}. Nëse ndalon herët, çmimi humbet.
-88f8727	Shiko {0} video deri në fund për të marrë {1}. Nëse ndalon herët, çmimi humbet.
-7196e7c	FILLO
-b967bda	JO TANI
-b10888c	Çmimi i fituar: {0}!
+c319724	Fishat mbaruan! Shko te arka për më shumë.
+4100521	Kujtesat e serisë
+9543087	Dëshiron një kujtesë në mbrëmjet kur nuk ke luajtur ende, që seria jote të mos mbarojë? Asnjëherë më shumë se kaq, dhe mund ta çaktivizosh te Cilësimet.
+3eb5ca2	Bli fisha për të vazhduar lojën.
+844f74b	Një kujtesë mbrëmjeje përpara se seria të mbarojë.

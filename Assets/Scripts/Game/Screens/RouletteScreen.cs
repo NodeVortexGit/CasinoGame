@@ -285,7 +285,8 @@ namespace Casino.Screens
             if (total + amount > App.I.Wallet.Balance)
             {
                 Sfx.Play(SfxId.Error);
-                App.I.UI.Toast(Loc.T("Not enough chips for that bet."), Palette.TextMuted, Icon.Coin);
+                if (total == 0 && App.I.Wallet.Balance < ChipValues[0]) ChipOffer.Show();
+                else App.I.UI.Toast(Loc.T("Not enough chips for that bet."), Palette.TextMuted, Icon.Coin);
                 return;
             }
             if (total + amount > MaxTotalBet)
@@ -492,6 +493,7 @@ namespace Casino.Screens
             spinning = false;
             ClearBets();
             Say(Loc.T("Place your bets, please."));
+            if (App.I.Wallet.Balance < ChipValues[0]) ChipOffer.Show();
         }
 
         void AddHistory(int number)

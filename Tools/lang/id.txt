@@ -64,7 +64,6 @@ f76c8fd	Kebanyakan buatku. Kamu menang!
 0b48017	Shoe baru, aku kocok dulu!
 3fa7769	Mulai menipis? Kasir bisa mengisi ulang.
 4e5694b	Chip-mu makin sedikit. Mau ambil lagi?
-d41f057	Chip habis! Kunjungi kasir atau ambil chip gratis.
 15d90d3	Tumpukanmu kosong. Kasir ada tepat di belakangmu.
 a9eaae1	Kamu kelihatan lelah sekali! Makan sesuatu di bar.
 5cd9e8b	Kehabisan tenaga? Bar siap membantu.
@@ -175,14 +174,6 @@ b5b9597	RENTETAN {0} HARI!
 1998202	{0}: {1} tangan dengan {2}% keberuntungan, setelah Keberuntungan Pemula
 728ada5	{0}: {1} tangan dengan {2}% keberuntungan!
 af5e232	{0}: +{1}% energi
-001a53b	Tidak tersedia di perangkat ini
-2607004	Video tidak bisa dimuat di jaringan ini
-569c30d	Kembali besok
-ecae6ee	Siap dalam {0} dtk
-9964820	+{0} chip (sisa {1} hari ini)
-e1bd888	+{0} chip gratis!
-619bd5d	+1 pembeku rentetan!
-f70d794	Saat ini tidak ada video. Coba lagi sebentar lagi.
 264d71b	PERUNGGU
 462e839	PERAK
 81ff70a	EMAS
@@ -197,9 +188,6 @@ a42f608	Memeriksa wilayahmu...
 1db422c	Belum diverifikasi ({0}): harga standar
 9bc0807	{0} ({1}): harga dalam {2}
 ae8c393	Pengingat
-aefd59b	Chip gratis siap dan pengingat rentetan
-3125838	Chip gratismu sudah siap
-233027b	{0} chip menunggumu di Lucky Ace.
 b93976b	Jaga rentetan {0} harimu
 bd68038	Mainkan {0} ronde hari ini agar tidak direset tengah malam.
 0acfb6f	Selamat datang! Keberuntungan pemula ada di pihakmu malam ini. Pasang taruhan!
@@ -230,9 +218,6 @@ b6e674a	Dealer tidak dapat blackjack. Asuransi hangus.
 822f4f4	Keberuntungan pemula sudah selesai. Mulai sekarang blackjack standar.
 b0377c7	Rentetan Untungmu sudah selesai. Kembali ke blackjack standar.
 824ad7c	CHIP HABIS
-ff1822d	Tonton video singkat untuk {0} chip gratis, atau kunjungi kasir.
-e4cac2f	Kunjungi kasir untuk mengisi ulang chip-mu.
-c3df3e7	CHIP GRATIS
 b169d33	KASIR
 4d38f66	NANTI
 cb8171b	Selesaikan tangan ini dulu.
@@ -253,7 +238,6 @@ c3a8946	MENGERTI
 4035996	RENTETAN HARIAN
 fbe7f18	HARI BERTURUT-TURUT
 7a46866	HARI INI
-4753707	TONTON IKLAN
 6bb45f3	BELI
 62a945f	PEMBEKU RENTETAN
 ba5b1de	Pembeku rentetan menjaga rentetanmu tetap hidup pada hari kamu tidak bermain. Kamu bisa menyimpan {0}.\n\nBeli satu seharga {1} chip?
@@ -273,8 +257,6 @@ f757137	MISI HARI INI
 bb92856	Pembeku rentetan: {0} / {1}
 0ec6216	Selamatkan rentetanmu pada hari yang terlewat. +1 setiap 7 hari.
 cc0a745	PENUH
-419a962	TIDAK ADA VIDEO
-2dabd99	IKLAN SEGERA
 f12e166	Bonus rentetan: hadiah ×{0}
 80948a4	Satu putaran gratis setiap hari
 596b5e0	BERIKUTNYA  {0}
@@ -287,16 +269,8 @@ f12e166	Bonus rentetan: hadiah ×{0}
 d00d221	Khusus 18+  •  Chip hanya untuk hiburan: tidak bernilai uang, tidak pernah bisa ditukar dengan uang atau hadiah
 b60f038	Membuka pintu...
 2e5bcce	Selamat datang! {0} chip sambutanmu sudah siap. Meja ada lurus di depan!
-7ef7ae3	+{0} chip gratis! Lagi dalam {1} jam.
-5d82af9	Chip gratis terisi ulang setiap {0} jam. Berikutnya dalam {1}.
-5469985	{0}j {1}m
-bb65beb	{0}m {1}d
 ac8ba93	JAGA RENTETANMU
-560bfa1	Mau pengingat di malam saat kamu belum bermain, dan saat chip gratismu siap? Tidak lebih dari itu, dan kamu bisa mematikannya di Pengaturan.
 b724a40	INGATKAN AKU
-9e0c898	+{0} chip siap!
-1207e28	Tonton video: {0}
-db3655b	Chip gratis berikutnya dalam {0}
 4ca9be5	BLACKJACK
 9a612b1	4 meja  •  membayar 3 banding 2
 1194439	SLOT
@@ -369,7 +343,6 @@ da46447	STAF KASINO
 69d3313	PRIA
 b4325d3	CAMPURAN
 414594a	PENGINGAT
-6cac87b	Chip gratis siap, dan pengingat di malam hari sebelum rentetan berakhir.
 e43b2e0	PERIKSA LAGI
 7c9e8f9	WILAYAH HARGA
 495c70e	Tercepat: kasino seperti lukisannya, tanpa tambahan.
@@ -444,8 +417,6 @@ c69e8ee	LUCKY ACE 7s
 fc99288	TOTAL TARUHAN
 c1c00cd	TABEL PEMBAYARAN
 3930abd	SEMOGA BERUNTUNG!
-67b6973	Kamu butuh minimal 10 chip untuk memutar.
-5aa1edb	AMBIL CHIP
 f5a1812	Taruhan diturunkan sesuai yang bisa kamu tutupi.
 5c63f61	MENANG BESAR SEKALI!
 652544f	MENANG BESAR!
@@ -658,17 +629,8 @@ e1ae457	Mateo
 1920e2f	Lemparan pembuka: taruh di Pass Line, lalu lempar. 7 atau 11 menang; 2, 3, atau 12 kalah. Taruhan place mulai berlaku setelah ada poin.
 99f4934	LUCKY ACE 7s  •  MEMBAYAR HINGGA 2.500× TARUHAN GARISMU
 48ddc95	PUTAR OTOMATIS
-3848f78	Video {0} dari {1}
-d87409f	Hadiah hilang: video harus ditonton sampai selesai.
-14dcbe4	+{0}% energi
-330037c	{0} tangan dengan {1}% keberuntungan
-ff24786	TONTON IKLAN
-375d55d	1 sampai 3 video singkat
-f187dbf	TONTON
-64d31ad	TONTON 1 IKLAN?
-e77d414	TONTON {0} IKLAN?
-8707135	Tonton 1 video sampai selesai untuk mendapatkan {0}. Jika berhenti lebih awal, hadiahnya hilang.
-88f8727	Tonton {0} video sampai selesai untuk mendapatkan {1}. Jika berhenti lebih awal, hadiahnya hilang.
-7196e7c	MULAI
-b967bda	NANTI SAJA
-b10888c	Hadiah didapat: {0}!
+c319724	Chip habis! Datang ke kasir untuk mendapatkan lagi.
+4100521	Pengingat rentetan
+9543087	Mau pengingat di malam hari saat kamu belum main, supaya rentetanmu tidak putus? Tidak lebih dari itu, dan kamu bisa mematikannya di Pengaturan.
+3eb5ca2	Beli chip untuk tetap bermain.
+844f74b	Pengingat malam sebelum rentetan akan terputus.

@@ -24,10 +24,9 @@ namespace Casino.Screens
         CanvasGroup loading;
         RectTransform actionGroup, bubbleRect;
         UIButton action;
-        Text actionTitle, actionSub, freeChipsInfo, hint;
-        UIButton freeChips, daily;
+        Text actionTitle, actionSub, hint;
+        UIButton daily;
         GameObject dailyBadge;
-        Pulse freeChipsPulse;
         static int dailyShownDay = -1;
         SpeechBubble bubble;
         StaffFigure speaker;
@@ -70,20 +69,14 @@ namespace Casino.Screens
             actionTitle = action.LabelText;
             actionGroup.gameObject.SetActive(false);
 
-            // Quick buttons (right edge): the daily screen, free chips and a game list for people who'd rather not walk.
+            // Quick buttons (right edge): the daily screen and a game list for people who'd rather not walk.
             daily = UIKit.Button(Content, Loc.T("DAILY"), ButtonStyle.Gold, () => App.I.UI.Modal<DailyModal>(), 34, Icon.Gift);
-            daily.Rect.At(1f, 0.5f, -40, 270, 330, 100, 1f, 0.5f);
+            daily.Rect.At(1f, 0.5f, -40, 120, 330, 100, 1f, 0.5f);
             var badge = UIKit.Image(daily.Rect, "Badge", ProceduralArt.Circle, Palette.Red);
             ((RectTransform)badge.transform).At(1f, 1f, 10, 10, 44, 44, 1f, 1f);
             var mark = UIKit.Label(badge.transform, "!", 30, Color.white, TextAnchor.MiddleCenter, FontKind.Display);
             ((RectTransform)mark.transform).Stretch();
             dailyBadge = badge.gameObject;
-            freeChips = UIKit.Button(Content, Loc.T("FREE CHIPS"), ButtonStyle.Green, FreeChips, 34, Icon.Coin);
-            freeChips.Rect.At(1f, 0.5f, -40, 150, 330, 100, 1f, 0.5f);
-            freeChipsPulse = freeChips.gameObject.AddComponent<Pulse>();
-            freeChipsInfo = UIKit.Label(Content, "", 22, Color.white, TextAnchor.MiddleRight, FontKind.Semi);
-            ((RectTransform)freeChipsInfo.transform).At(1f, 0.5f, -46, 80, 420, 32, 1f, 0.5f);
-            UIKit.TextShadow(freeChipsInfo, -2f, 0.8f);
             var tables = UIKit.Button(Content, Loc.T("GAMES"), ButtonStyle.Purple, OpenGames, 34, Icon.Cards);
             tables.Rect.At(1f, 0.5f, -40, 0, 330, 100, 1f, 0.5f);
 
@@ -173,31 +166,6 @@ namespace Casino.Screens
             }
         }
 
-        /// <summary>Free chips: the timed bonus when it's ready, otherwise a video if one can play, otherwise when it's next.</summary>
-        void FreeChips()
-        {
-            var p = App.I.Progress;
-            if (p.BonusReady)
-            {
-                long amount = p.CollectBonus();
-                Casino.Audio.Sfx.Play(Casino.Audio.SfxId.Coins);
-                Confetti.Burst(Content, new Vector2(600, 150), 30, true);
-                App.I.UI.Toast(Loc.F("+{0} free chips! More in {1} hours.", ChipFormat.Full(amount), GameConfig.BonusHours.ToString("0")), Palette.Gold, Icon.Gift);
-                return;
-            }
-            if (App.I.Purchases.AdReady)
-            {
-                App.I.Purchases.WatchAdForChips();
-                return;
-            }
-            App.I.UI.Toast(Loc.F("Free chips refill every {0} hours. Next in {1}.", GameConfig.BonusHours.ToString("0"), FormatWait(p.BonusIn)),
-                Palette.TextMuted, Icon.Clock);
-        }
-
-        static string FormatWait(System.TimeSpan t) => t.TotalHours >= 1
-            ? Loc.F("{0}h {1}m", (int)t.TotalHours, t.Minutes.ToString("00"))
-            : Loc.F("{0}m {1}s", t.Minutes, t.Seconds.ToString("00"));
-
         /// <summary>After the first day of a streak, offer a reminder (once); Android then asks its own permission.</summary>
         void OfferReminders()
         {
@@ -205,7 +173,7 @@ namespace Casino.Screens
             save.remindersAsked = true;
             App.I.SaveSystem.MarkDirty();
             App.I.UI.Modal<ConfirmModal>(m => m.Setup(Loc.T("KEEP YOUR STREAK"),
-                Loc.T("Want a reminder on evenings you haven't played yet, and when your free chips are ready? Never more than that, " +
+                Loc.T("Want a reminder on evenings you haven't played yet, so your streak doesn't end? Never more than that, " +
                 "and you can turn it off in Settings."),
                 Loc.T("REMIND ME"), () => App.I.StartCoroutine(Casino.Platform.Reminders.AskPermission(ok =>
                 {
@@ -277,13 +245,6 @@ namespace Casino.Screens
             {
                 statusTimer = 0.25f;
                 var p = App.I.Progress;
-                bool bonus = p.BonusReady;
-                freeChipsInfo.text = bonus ? Loc.F("+{0} chips ready!", ChipFormat.Full(p.BonusAmount))
-                    : App.I.Purchases.AdReady ? Loc.F("Watch a video: {0}", App.I.Purchases.AdStatus())
-                    : Loc.F("Next free chips in {0}", FormatWait(p.BonusIn));
-                freeChips.SetStyle(bonus || App.I.Purchases.AdReady ? ButtonStyle.Green : ButtonStyle.Dark);
-                freeChipsPulse.enabled = bonus;
-                if (!bonus) freeChips.transform.localScale = Vector3.one;
                 dailyBadge.SetActive(p.WheelReady);
                 if (!App.I.Save.remindersAsked && Casino.Platform.Reminders.Supported && p.Streak.DoneToday(p.Day) &&
                     !App.I.UI.HasModal && App.I.UI.Current == this)
@@ -488,26 +449,14 @@ namespace Casino.Screens
             Loc.T("VISIT THE BAR"), () => App.I.UI.Modal<ShopModal>(s => s.StartTab = ShopTab.Food), Loc.T("LATER"), null, ButtonStyle.Green));
     }
 
-    /// <summary>Out of chips at a table: a free video when one is available, otherwise the cashier.</summary>
+    /// <summary>Out of chips (at any table or machine): offers to buy some at the cashier.</summary>
     public static class ChipOffer
     {
-        public static void Show(System.Action afterVideo)
+        public static void Show()
         {
-            bool ad = App.I.Purchases.CanWatchAd;
-            App.I.UI.Modal<ConfirmModal>(m => m.Setup(Loc.T("OUT OF CHIPS"),
-                ad ? Loc.F("Watch a short video for {0} free chips, or visit the cashier.", ChipFormat.Full(GameConfig.AdRewardChips))
-                    : Loc.T("Visit the cashier to top up your chips."),
-                ad ? Loc.T("FREE CHIPS") : Loc.T("CASHIER"),
-                () =>
-                {
-                    if (ad) App.I.Purchases.WatchAdForChips(_ => afterVideo?.Invoke());
-                    else App.I.UI.Modal<ShopModal>(s => s.StartTab = ShopTab.Chips);
-                },
-                ad ? Loc.T("CASHIER") : Loc.T("LATER"),
-                () =>
-                {
-                    if (ad) App.I.UI.Modal<ShopModal>(s => s.StartTab = ShopTab.Chips);
-                }, ButtonStyle.Green));
+            App.I.UI.Modal<ConfirmModal>(m => m.Setup(Loc.T("OUT OF CHIPS"), Loc.T("Buy chips to keep playing."),
+                Loc.T("BUY CHIPS"), () => App.I.UI.Modal<ShopModal>(s => s.StartTab = ShopTab.Chips),
+                Loc.T("LATER"), null, ButtonStyle.Green));
         }
     }
 

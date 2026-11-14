@@ -64,7 +64,6 @@ f76c8fd	Te veel voor mij. Jij wint!
 0b48017	Nieuwe schoen, ik schud!
 3fa7769	Bijna op? De kassa vult je zo aan.
 4e5694b	De fiches raken op. Wil je er meer?
-d41f057	Geen fiches meer! Ga naar de kassa of pak gratis fiches.
 15d90d3	Je stapel is leeg. De kassa staat vlak achter je.
 a9eaae1	Je ziet er uitgeput uit! Haal iets te eten aan de bar.
 5cd9e8b	Op de reservetank? De bar helpt je verder.
@@ -175,14 +174,6 @@ b5b9597	REEKS VAN {0} DAGEN!
 1998202	{0}: {1} handen met {2}% geluk, na het beginnersgeluk
 728ada5	{0}: {1} handen met {2}% geluk!
 af5e232	{0}: +{1}% energie
-001a53b	Niet beschikbaar op dit apparaat
-2607004	Video's laden niet op dit netwerk
-569c30d	Kom morgen terug
-ecae6ee	Klaar over {0} s
-9964820	+{0} fiches (nog {1} vandaag)
-e1bd888	+{0} gratis fiches!
-619bd5d	+1 reeksbevriezing!
-f70d794	Er is nu geen video beschikbaar. Probeer het zo opnieuw.
 264d71b	BRONS
 462e839	ZILVER
 81ff70a	GOUD
@@ -197,9 +188,6 @@ a42f608	Je regio controleren...
 1db422c	Niet geverifieerd ({0}): standaardprijzen
 9bc0807	{0} ({1}): prijzen in {2}
 ae8c393	Herinneringen
-aefd59b	Gratis fiches klaar en herinneringen voor je reeks
-3125838	Je gratis fiches staan klaar
-233027b	Er wachten {0} fiches op je bij Lucky Ace.
 b93976b	Houd je reeks van {0} dagen vast
 bd68038	Speel vandaag {0} rondes, zodat hij om middernacht niet terugspringt.
 0acfb6f	Welkom! Het beginnersgeluk staat vanavond aan jouw kant. Plaats een inzet!
@@ -230,9 +218,6 @@ b6e674a	Geen blackjack voor de dealer. Verzekering verloren.
 822f4f4	Het beginnersgeluk is voorbij. Vanaf nu is het standaard blackjack.
 b0377c7	Je Geluksreeks is voorbij. Terug naar standaard blackjack.
 824ad7c	GEEN FICHES MEER
-ff1822d	Bekijk een korte video voor {0} gratis fiches, of ga naar de kassa.
-e4cac2f	Ga naar de kassa om je fiches aan te vullen.
-c3df3e7	GRATIS FICHES
 b169d33	KASSA
 4d38f66	LATER
 cb8171b	Maak eerst deze hand af.
@@ -253,7 +238,6 @@ c3a8946	BEGREPEN
 4035996	DAGREEKS
 fbe7f18	DAGEN OP RIJ
 7a46866	VANDAAG
-4753707	BEKIJK RECLAME
 6bb45f3	KOPEN
 62a945f	REEKSBEVRIEZING
 ba5b1de	Een reeksbevriezing houdt je reeks in leven op een dag dat je niet speelt. Je kunt er {0} bewaren.\n\nEén kopen voor {1} fiches?
@@ -273,8 +257,6 @@ f757137	MISSIES VAN VANDAAG
 bb92856	Reeksbevriezingen: {0} / {1}
 0ec6216	Red je reeks op een dag dat je mist. +1 elke 7 dagen.
 cc0a745	VOL
-419a962	GEEN VIDEO
-2dabd99	RECLAME ZO
 f12e166	Reeksbonus: prijzen ×{0}
 80948a4	Elke dag één gratis draai
 596b5e0	VOLGENDE  {0}
@@ -287,16 +269,8 @@ f12e166	Reeksbonus: prijzen ×{0}
 d00d221	Alleen 18+  •  Fiches zijn voor de lol: geen geldwaarde, nooit in te wisselen voor geld of prijzen
 b60f038	De deuren gaan open...
 2e5bcce	Welkom! Je {0} welkomstfiches staan klaar. De tafels zijn recht vooruit!
-7ef7ae3	+{0} gratis fiches! Meer over {1} uur.
-5d82af9	Gratis fiches vullen elke {0} uur bij. Volgende over {1}.
-5469985	{0} u {1} m
-bb65beb	{0} m {1} s
 ac8ba93	HOUD JE REEKS VAST
-560bfa1	Wil je een herinnering op avonden dat je nog niet hebt gespeeld, en als je gratis fiches klaarstaan? Nooit meer dan dat, en je zet het uit in Instellingen.
 b724a40	HERINNER ME
-9e0c898	+{0} fiches klaar!
-1207e28	Bekijk een video: {0}
-db3655b	Volgende gratis fiches over {0}
 4ca9be5	BLACKJACK
 9a612b1	4 tafels  •  betaalt 3 tegen 2
 1194439	GOKKASTEN
@@ -369,7 +343,6 @@ da46447	CASINOPERSONEEL
 69d3313	MANNEN
 b4325d3	GEMENGD
 414594a	HERINNERINGEN
-6cac87b	Gratis fiches klaar, en 's avonds een seintje voordat een reeks zou aflopen.
 e43b2e0	OPNIEUW CONTROLEREN
 7c9e8f9	PRIJSREGIO
 495c70e	Snelst: het casino zoals geschilderd, niets extra's.
@@ -444,8 +417,6 @@ c69e8ee	LUCKY ACE 7s
 fc99288	TOTALE INZET
 c1c00cd	UITBETALINGEN
 3930abd	VEEL GELUK!
-67b6973	Je hebt minstens 10 fiches nodig om te draaien.
-5aa1edb	FICHES HALEN
 f5a1812	Inzet verlaagd tot wat je kunt betalen.
 5c63f61	MEGAWINST!
 652544f	GROTE WINST!
@@ -658,17 +629,8 @@ e1ae457	Mateo
 1920e2f	Come-out-roll: zet in op de Pass Line en gooi. 7 of 11 wint, 2, 3 of 12 verliest. Place bets werken pas zodra er een punt is.
 99f4934	LUCKY ACE 7s  •  BETAALT TOT 2.500× JE LIJNNZET
 48ddc95	AUTOMATISCH
-3848f78	Video {0} van {1}
-d87409f	Prijs verloren: de video's moeten helemaal uitgekeken worden.
-14dcbe4	+{0}% energie
-330037c	{0} handen met {1}% geluk
-ff24786	BEKIJK RECLAMES
-375d55d	1 tot 3 korte video's
-f187dbf	BEKIJK
-64d31ad	BEKIJK 1 RECLAME?
-e77d414	BEKIJK {0} RECLAMES?
-8707135	Bekijk 1 video helemaal om {0} te krijgen. Stop je te vroeg, dan is de prijs verloren.
-88f8727	Bekijk {0} video's helemaal om {1} te krijgen. Stop je te vroeg, dan is de prijs verloren.
-7196e7c	START
-b967bda	NIET NU
-b10888c	Prijs gewonnen: {0}!
+c319724	Fiches op! Ga naar de kassa voor meer.
+4100521	Reeksherinneringen
+9543087	Wil je een herinnering op avonden waarop je nog niet gespeeld hebt, zodat je reeks niet eindigt? Nooit meer dan dat, en je kunt het uitzetten in Instellingen.
+3eb5ca2	Koop fiches om door te blijven spelen.
+844f74b	Een avondherinnering voordat een reeks zou eindigen.

@@ -64,7 +64,6 @@ f76c8fd	Troppe per me. Hai vinto!
 0b48017	Sabot nuovo, mescolo!
 3fa7769	Fiches in esaurimento? La cassiera può ricaricarti.
 4e5694b	Le fiches calano. Ne vuoi altre?
-d41f057	Fiches finite! Vai alla cassa o prendi fiches gratis.
 15d90d3	La tua pila è vuota. La cassa è proprio dietro di te.
 a9eaae1	Sembri esausto! Mangia qualcosa al bar.
 5cd9e8b	Senza energie? Ci pensa il bar.
@@ -175,14 +174,6 @@ b5b9597	SERIE DI {0} GIORNI!
 1998202	{0}: {1} mani con il {2}% di fortuna, dopo la Fortuna del principiante
 728ada5	{0}: {1} mani con il {2}% di fortuna!
 af5e232	{0}: +{1}% di energia
-001a53b	Non disponibile su questo dispositivo
-2607004	I video non si caricano su questa rete
-569c30d	Torna domani
-ecae6ee	Pronto tra {0} s
-9964820	+{0} fiches ({1} rimaste oggi)
-e1bd888	+{0} fiches gratis!
-619bd5d	+1 congelamento della serie!
-f70d794	Nessun video disponibile ora. Riprova tra poco.
 264d71b	BRONZO
 462e839	ARGENTO
 81ff70a	ORO
@@ -197,9 +188,6 @@ a42f608	Controllo della tua regione...
 1db422c	Non verificato ({0}): prezzi standard
 9bc0807	{0} ({1}): prezzi in {2}
 ae8c393	Promemoria
-aefd59b	Fiches gratis pronte e promemoria della serie
-3125838	Le tue fiches gratis sono pronte
-233027b	{0} fiches ti aspettano al Lucky Ace.
 b93976b	Mantieni la tua serie di {0} giorni
 bd68038	Gioca {0} round oggi così non si azzera a mezzanotte.
 0acfb6f	Ti diamo il benvenuto! Stasera la fortuna del principiante è dalla tua parte. Punta!
@@ -230,9 +218,6 @@ b6e674a	Il croupier non ha blackjack. Assicurazione persa.
 822f4f4	La fortuna del principiante è finita. Da ora è blackjack standard.
 b0377c7	La tua Serie fortunata è finita. Si torna al blackjack standard.
 824ad7c	FICHES FINITE
-ff1822d	Guarda un breve video per {0} fiches gratis, o vai alla cassa.
-e4cac2f	Vai alla cassa per ricaricare le fiches.
-c3df3e7	FICHES GRATIS
 b169d33	CASSA
 4d38f66	PIÙ TARDI
 cb8171b	Prima finisci questa mano.
@@ -253,7 +238,6 @@ c3a8946	HO CAPITO
 4035996	SERIE GIORNALIERA
 fbe7f18	GIORNI DI FILA
 7a46866	OGGI
-4753707	GUARDA PUBBLICITÀ
 6bb45f3	COMPRA
 62a945f	CONGELAMENTO SERIE
 ba5b1de	Un congelamento mantiene viva la serie in un giorno in cui non giochi. Puoi averne fino a {0}.\n\nComprarne uno per {1} fiches?
@@ -273,8 +257,6 @@ f757137	MISSIONI DI OGGI
 bb92856	Congelamenti: {0} / {1}
 0ec6216	Salva la serie in un giorno che salti. +1 ogni 7 giorni.
 cc0a745	PIENO
-419a962	NESSUN VIDEO
-2dabd99	PUBBLICITÀ A BREVE
 f12e166	Bonus serie: premi ×{0}
 80948a4	Un giro gratis ogni giorno
 596b5e0	PROSSIMO  {0}
@@ -287,16 +269,8 @@ f12e166	Bonus serie: premi ×{0}
 d00d221	Solo 18+  •  Le fiches sono per divertimento: nessun valore in denaro, mai convertibili in soldi o premi
 b60f038	Apriamo le porte...
 2e5bcce	Ti diamo il benvenuto! Le tue {0} fiches di benvenuto sono pronte. I tavoli sono proprio davanti a te!
-7ef7ae3	+{0} fiches gratis! Altre tra {1} ore.
-5d82af9	Le fiches gratis si ricaricano ogni {0} ore. Le prossime tra {1}.
-5469985	{0} h {1} min
-bb65beb	{0} min {1} s
 ac8ba93	MANTIENI LA TUA SERIE
-560bfa1	Vuoi un promemoria le sere in cui non hai ancora giocato e quando le tue fiches gratis sono pronte? Mai di più, e puoi disattivarlo nelle Impostazioni.
 b724a40	RICORDAMELO
-9e0c898	+{0} fiches pronte!
-1207e28	Guarda un video: {0}
-db3655b	Prossime fiches gratis tra {0}
 4ca9be5	BLACKJACK
 9a612b1	4 tavoli  •  paga 3 a 2
 1194439	SLOT
@@ -368,7 +342,6 @@ da46447	STAFF DEL CASINÒ
 69d3313	UOMINI
 b4325d3	MISTO
 414594a	PROMEMORIA
-6cac87b	Fiches gratis pronte e un avviso serale prima che una serie finisca.
 e43b2e0	RICONTROLLA
 7c9e8f9	REGIONE DEI PREZZI
 495c70e	Il più veloce: il casinò come dipinto, niente di più.
@@ -443,8 +416,6 @@ c69e8ee	LUCKY ACE 7s
 fc99288	PUNTATA TOTALE
 c1c00cd	TABELLA DEI PAGAMENTI
 3930abd	BUONA FORTUNA!
-67b6973	Ti servono almeno 10 fiches per girare.
-5aa1edb	PRENDI FICHES
 f5a1812	Puntata ridotta a quanto puoi coprire.
 5c63f61	MEGA VINCITA!
 652544f	GRANDE VINCITA!
@@ -658,17 +629,8 @@ e1ae457	Matteo
 1920e2f	Lancio d'apertura: punta sulla Pass Line, poi lancia. 7 o 11 vincono, 2, 3 o 12 perdono. Le puntate Place valgono da quando c'è un punto.
 99f4934	LUCKY ACE 7s  •  PAGA FINO A 2.500× LA TUA PUNTATA PER LINEA
 48ddc95	AUTOMATICO
-3848f78	Video {0} di {1}
-d87409f	Premio perso: i video devono essere guardati fino alla fine.
-14dcbe4	+{0}% di energia
-330037c	{0} mani con il {1}% di fortuna
-ff24786	GUARDA PUBBLICITÀ
-375d55d	Da 1 a 3 brevi video
-f187dbf	GUARDA
-64d31ad	GUARDA 1 PUBBLICITÀ?
-e77d414	GUARDA {0} PUBBLICITÀ?
-8707135	Guarda 1 video fino alla fine per ottenere {0}. Se ti fermi prima, il premio va perso.
-88f8727	Guarda {0} video fino alla fine per ottenere {1}. Se ti fermi prima, il premio va perso.
-7196e7c	INIZIA
-b967bda	NON ORA
-b10888c	Premio vinto: {0}!
+c319724	Fiches esaurite! Vai alla cassa per riceverne altre.
+4100521	Promemoria serie
+9543087	Vuoi un promemoria nelle sere in cui non hai ancora giocato, così la tua serie non si interrompe? Non più di questo, e puoi disattivarlo in Impostazioni.
+3eb5ca2	Compra fiches per continuare a giocare.
+844f74b	Un promemoria serale prima che una serie si interrompa.

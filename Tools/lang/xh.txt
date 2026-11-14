@@ -64,7 +64,6 @@ f76c8fd	Zininzi kakhulu kum. Uphumelele!
 0b48017	Isihlangu esitsha, ndiyaxuba!
 3fa7769	Ziyaphela? Umgcini-mali angakongezela.
 4e5694b	Iitshiphu ziyancipha. Ufuna ezinye?
-d41f057	Iitshiphu ziphelile! Yiya kumgcini-mali okanye uthathe iitshiphu zasimahla.
 15d90d3	Imfumba yakho ayinanto. Umgcini-mali ungemva kwakho.
 a9eaae1	Ubonakala udiniwe kakhulu! Tya into ebharini.
 5cd9e8b	Amandla aphelile? Ibhari iza kukukhathalela.
@@ -175,14 +174,6 @@ b5b9597	UTHOTHO LWEENTSUKU EZINGU-{0}!
 1998202	{0}: izandla ezingu-{1} ngethamsanqa elingu-{2}%, emva kweThamsanqa Lomqali
 728ada5	{0}: izandla ezingu-{1} ngethamsanqa elingu-{2}%!
 af5e232	{0}: +{1}% amandla
-001a53b	Akufumaneki kwesi sixhobo
-2607004	Iividiyo azikwazi ukulayisha kule nethiwekhi
-569c30d	Buya ngomso
-ecae6ee	Ilungile kwimizuzwana engu-{0}
-9964820	+iitshiphu ezingu-{0} (kusele ezingu-{1} namhlanje)
-e1bd888	+iitshiphu zasimahla ezingu-{0}!
-619bd5d	+1 ukukhenkceza uthotho!
-f70d794	Akukho vidiyo okwangoku. Zama kwakhona emva kwexeshana.
 264d71b	UBHEDU
 462e839	ISILIVERE
 81ff70a	IGOLIDE
@@ -197,9 +188,6 @@ a42f608	Sijonga ummandla wakho...
 1db422c	Akuqinisekiswanga ({0}): amaxabiso aqhelekileyo
 9bc0807	{0} ({1}): amaxabiso nge-{2}
 ae8c393	Izikhumbuzi
-aefd59b	Iitshiphu zasimahla zilungile nezikhumbuzi zothotho
-3125838	Iitshiphu zakho zasimahla zilungile
-233027b	Iitshiphu ezingu-{0} zikulindile e-Lucky Ace.
 b93976b	Gcina uthotho lwakho lweentsuku ezingu-{0}
 bd68038	Dlala imijikelo engu-{0} namhlanje ukuze lungaqali phantsi ezinzulwini zobusuku.
 0acfb6f	Wamkelekile! Ithamsanqa lomqali lisecaleni lakho ngokuhlwanje. Beka ibhetshi!
@@ -230,9 +218,6 @@ b6e674a	Umabi akanayo i-blackjack. Inshorensi ilahlekile.
 822f4f4	Ithamsanqa lomqali liphelile. Ukususela ngoku yi-blackjack eqhelekileyo.
 b0377c7	Uthotho Lethamsanqa lwakho luphelile. Sibuyela kwi-blackjack eqhelekileyo.
 824ad7c	IITSHIPHU ZIPHELILE
-ff1822d	Bukela ividiyo emfutshane ufumane iitshiphu zasimahla ezingu-{0}, okanye uye kumgcini-mali.
-e4cac2f	Yiya kumgcini-mali ukuze uzalise iitshiphu zakho.
-c3df3e7	IITSHIPHU ZASIMAHLA
 b169d33	UMGCINI-MALI
 4d38f66	KAMVA
 cb8171b	Gqiba esi sandla kuqala.
@@ -253,7 +238,6 @@ c3a8946	NDIYAQONDA
 4035996	UTHOTHO LWEMIHLA NGEMIHLA
 fbe7f18	IINTSUKU ZILANDELELANA
 7a46866	NAMHLANJE
-4753707	BUKELA INTENGISO
 6bb45f3	THENGA
 62a945f	UKUKHENKCEZA UTHOTHO
 ba5b1de	Ukukhenkceza uthotho kugcina uthotho lwakho luphila ngosuku ongadlali ngalo. Ungaba nako ukuya kuthi ga ku-{0}.\n\nUthenge enye ngeetshiphu ezingu-{1}?
@@ -273,8 +257,6 @@ f757137	IMISEBENZI YANAMHLANJE
 bb92856	Ukukhenkceza uthotho: {0} / {1}
 0ec6216	Sindisa uthotho lwakho ngosuku oluphosayo. +1 rhoqo emva kweentsuku ezi-7.
 cc0a745	KUZELE
-419a962	AKUKHO VIDIYO
-2dabd99	INTENGISO KUNGEKUDALA
 f12e166	Ibhonasi yothotho: amabhaso ×{0}
 80948a4	Umjikelo omnye wasimahla yonke imihla
 596b5e0	OLANDELAYO  {0}
@@ -287,16 +269,8 @@ f12e166	Ibhonasi yothotho: amabhaso ×{0}
 d00d221	Abangama-18+ kuphela  •  Iitshiphu zezokuzonwabisa: azinaxabiso lemali, azinakuze zitshintshwe ngemali okanye amabhaso
 b60f038	Sivula iingcango...
 2e5bcce	Wamkelekile! Iitshiphu zakho zokwamkela ezingu-{0} zilungile. Amatafile aphambili ngqo!
-7ef7ae3	+iitshiphu zasimahla ezingu-{0}! Ezinye kwiiyure ezingu-{1}.
-5d82af9	Iitshiphu zasimahla ziyazaliswa rhoqo emva kweeyure ezingu-{0}. Ezilandelayo ku-{1}.
-5469985	{0}h {1}m
-bb65beb	{0}m {1}s
 ac8ba93	GCINA UTHOTHO LWAKHO
-560bfa1	Ufuna isikhumbuzi ngokuhlwa xa ungekadlali, naxa iitshiphu zakho zasimahla zilungile? Akusoze kudlule apho, kwaye ungakucima kwiiSetingi.
 b724a40	NDIKHUMBUZE
-9e0c898	+iitshiphu ezingu-{0} zilungile!
-1207e28	Bukela ividiyo: {0}
-db3655b	Iitshiphu zasimahla ezilandelayo ku-{0}
 4ca9be5	I-BLACKJACK
 9a612b1	Amatafile ama-4  •  ihlawula u-3 ku-2
 1194439	IISLOTHI
@@ -369,7 +343,6 @@ da46447	ABASEBENZI BEKHASINO
 69d3313	AMADODA
 b4325d3	OKUXUBILEYO
 414594a	IZIKHUMBUZI
-6cac87b	Iitshiphu zasimahla zilungile, nesikhumbuzi sangokuhlwa phambi kokuba uthotho luphele.
 e43b2e0	JONGA KWAKHONA
 7c9e8f9	UMMANDLA WAMAXABISO
 495c70e	Eyona ikhawulezayo: ikhasino njengoko ipeyintiwe, akukho nto yongezelelweyo.
@@ -444,8 +417,6 @@ c69e8ee	LUCKY ACE 7s
 fc99288	IBHETSHI EPHELELEYO
 c1c00cd	ITHEYIBHILE YENTLAWULO
 3930abd	ITHAMSANQA ELIHLE!
-67b6973	Ufuna ubuncinci iitshiphu ezili-10 ukuze ujikelezise.
-5aa1edb	FUMANA IITSHIPHU
 f5a1812	Ibhetshi ithotyiwe yaya kwinto onokuyihlawula.
 5c63f61	IMPUMELELO ENKULU KAKHULU!
 652544f	IMPUMELELO ENKULU!
@@ -658,17 +629,8 @@ e1ae457	Mateo
 1920e2f	Ukuphosa kokuqala: beja kwi-Pass Line, uze uphose. U-7 okanye u-11 bayaphumelela, u-2, u-3 okanye u-12 bayoyiswa. Ukubheja kwe-Place kuqala ukusebenza xa kukho inqaku.
 99f4934	LUCKY ACE 7s  •  IHLAWULA UKUYA KU-2,500× IBHETSHI YAKHO YOMGCA
 48ddc95	OZENZEKAYO
-3848f78	Ividiyo {0} kwezi-{1}
-d87409f	Umvuzo ulahlekile: iividiyo kufuneka zibukwe ukuya ekugqibeleni.
-14dcbe4	+{0}% amandla
-330037c	izandla ezingu-{0} ngethamsanqa elingu-{1}%
-ff24786	BUKELA IIVIDIYO
-375d55d	iividiyo ezimfutshane ezi-1 ukuya ku-3
-f187dbf	BUKELA
-64d31ad	BUKELA IVIDIYO EYI-1?
-e77d414	BUKELA IIVIDIYO EZINGU-{0}?
-8707135	Bukela ividiyo e-1 ukuya ekugqibeleni ukuze ufumane {0}. Ukuba uyima kwangaphambili, umvuzo uyalahleka.
-88f8727	Bukela iividiyo ezingu-{0} ukuya ekugqibeleni ukuze ufumane {1}. Ukuba uyima kwangaphambili, umvuzo uyalahleka.
-7196e7c	QALISA
-b967bda	HAYI NGOKU
-b10888c	Umvuzo ufumanekile: {0}!
+c319724	Iitshiphu ziphelile! Yiya kumgcini-mali ukuze ufumane ezinye.
+4100521	Izikhumbuzo zothotho
+9543087	Ufuna isikhumbuzo ngokuhlwa apho ungekadlali, ukuze uthotho lwakho lungaphelelwa? Akukho ngaphezulu koko, kwaye ungakucima kwiiSetingi.
+3eb5ca2	Thenga iitshiphu ukuze uqhubeke udlala.
+844f74b	Isikhumbuzo sokuhlwa ngaphambi kokuba uthotho luphelelwe.

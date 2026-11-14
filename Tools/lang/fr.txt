@@ -64,7 +64,6 @@ f76c8fd	Trop pour moi. Vous gagnez !
 0b48017	Nouveau sabot, je mélange !
 3fa7769	Plus beaucoup de jetons ? La caisse peut vous recharger.
 4e5694b	Les jetons s'amenuisent. Vous en voulez d'autres ?
-d41f057	Plus de jetons ! Passez à la caisse ou prenez des jetons gratuits.
 15d90d3	Votre pile est vide. La caisse est juste derrière vous.
 a9eaae1	Vous avez l'air épuisé ! Mangez un morceau au bar.
 5cd9e8b	Plus d'énergie ? Le bar s'occupe de vous.
@@ -175,14 +174,6 @@ b5b9597	SÉRIE DE {0} JOURS !
 1998202	{0} : {1} mains à {2} % de chance, après la Chance du débutant
 728ada5	{0} : {1} mains à {2} % de chance !
 af5e232	{0} : +{1} % d'énergie
-001a53b	Non disponible sur cet appareil
-2607004	Les vidéos ne se chargent pas sur ce réseau
-569c30d	Revenez demain
-ecae6ee	Prêt dans {0} s
-9964820	+{0} jetons ({1} restantes aujourd'hui)
-e1bd888	+{0} jetons gratuits !
-619bd5d	+1 gel de série !
-f70d794	Aucune vidéo disponible pour le moment. Réessayez dans un instant.
 264d71b	BRONZE
 462e839	ARGENT
 81ff70a	OR
@@ -197,9 +188,6 @@ a42f608	Vérification de votre région...
 1db422c	Non vérifié ({0}) : prix standard
 9bc0807	{0} ({1}) : prix en {2}
 ae8c393	Rappels
-aefd59b	Jetons gratuits prêts et rappels de série
-3125838	Vos jetons gratuits sont prêts
-233027b	{0} jetons vous attendent au Lucky Ace.
 b93976b	Gardez votre série de {0} jours
 bd68038	Jouez {0} manches aujourd'hui pour qu'elle ne retombe pas à zéro à minuit.
 0acfb6f	Bienvenue ! La chance du débutant est avec vous ce soir. Faites vos jeux !
@@ -230,9 +218,6 @@ b6e674a	Pas de blackjack pour le croupier. Assurance perdue.
 822f4f4	La chance du débutant est terminée. Désormais, c'est du blackjack standard.
 b0377c7	Votre Série chanceuse est terminée. Retour au blackjack standard.
 824ad7c	PLUS DE JETONS
-ff1822d	Regardez une courte vidéo pour {0} jetons gratuits, ou passez à la caisse.
-e4cac2f	Passez à la caisse pour recharger vos jetons.
-c3df3e7	JETONS GRATUITS
 b169d33	CAISSE
 4d38f66	PLUS TARD
 cb8171b	Terminez d'abord cette main.
@@ -253,7 +238,6 @@ c3a8946	COMPRIS
 4035996	SÉRIE QUOTIDIENNE
 fbe7f18	JOURS D'AFFILÉE
 7a46866	AUJ.
-4753707	VOIR UNE PUB
 6bb45f3	ACHETER
 62a945f	GEL DE SÉRIE
 ba5b1de	Un gel de série garde votre série en vie un jour où vous ne jouez pas. Vous pouvez en avoir {0}.\n\nEn acheter un pour {1} jetons ?
@@ -273,8 +257,6 @@ f757137	MISSIONS DU JOUR
 bb92856	Gels de série : {0} / {1}
 0ec6216	Sauvez votre série un jour où vous manquez. +1 tous les 7 jours.
 cc0a745	PLEIN
-419a962	PAS DE VIDÉO
-2dabd99	PUB BIENTÔT
 f12e166	Bonus de série : gains ×{0}
 80948a4	Un tour gratuit chaque jour
 596b5e0	PROCHAIN  {0}
@@ -287,16 +269,8 @@ f12e166	Bonus de série : gains ×{0}
 d00d221	18 ans et plus  •  Les jetons sont pour le plaisir : sans valeur monétaire, jamais échangeables contre de l'argent ou des prix
 b60f038	Ouverture des portes...
 2e5bcce	Bienvenue ! Vos {0} jetons de bienvenue sont prêts. Les tables sont droit devant !
-7ef7ae3	+{0} jetons gratuits ! D'autres dans {1} heures.
-5d82af9	Les jetons gratuits se rechargent toutes les {0} heures. Les prochains dans {1}.
-5469985	{0} h {1} min
-bb65beb	{0} min {1} s
 ac8ba93	GARDEZ VOTRE SÉRIE
-560bfa1	Voulez-vous un rappel les soirs où vous n'avez pas encore joué, et quand vos jetons gratuits sont prêts ? Jamais plus que ça, et vous pouvez le désactiver dans les Réglages.
 b724a40	ME LE RAPPELER
-9e0c898	+{0} jetons prêts !
-1207e28	Regardez une vidéo : {0}
-db3655b	Prochains jetons gratuits dans {0}
 4ca9be5	BLACKJACK
 9a612b1	4 tables  •  paie 3 contre 2
 1194439	MACHINES À SOUS
@@ -368,7 +342,6 @@ da46447	PERSONNEL DU CASINO
 69d3313	HOMMES
 b4325d3	MIXTE
 414594a	RAPPELS
-6cac87b	Jetons gratuits prêts, et un petit rappel le soir avant qu'une série ne s'arrête.
 e43b2e0	VÉRIFIER
 7c9e8f9	RÉGION DE PRIX
 495c70e	Le plus rapide : le casino tel qu'il est peint, rien de plus.
@@ -443,8 +416,6 @@ c69e8ee	LUCKY ACE 7s
 fc99288	MISE TOTALE
 c1c00cd	TABLE DES GAINS
 3930abd	BONNE CHANCE !
-67b6973	Il vous faut au moins 10 jetons pour lancer.
-5aa1edb	OBTENIR DES JETONS
 f5a1812	Mise réduite à ce que vous pouvez couvrir.
 5c63f61	MÉGA GAIN !
 652544f	GROS GAIN !
@@ -658,17 +629,8 @@ e1ae457	Mateo
 1920e2f	Lancer de sortie : misez sur la Pass Line et lancez. 7 ou 11 gagne, 2, 3 ou 12 perd. Les mises place comptent une fois le point établi.
 99f4934	LUCKY ACE 7s  •  JUSQU'À 2 500× VOTRE MISE PAR LIGNE
 48ddc95	AUTOMATIQUE
-3848f78	Vidéo {0} sur {1}
-d87409f	Gain perdu : les vidéos doivent être regardées jusqu'au bout.
-14dcbe4	+{0} % d'énergie
-330037c	{0} mains à {1} % de chance
-ff24786	VOIR DES PUBS
-375d55d	1 à 3 courtes vidéos
-f187dbf	VOIR
-64d31ad	VOIR 1 PUB ?
-e77d414	VOIR {0} PUBS ?
-8707135	Regardez 1 vidéo jusqu'au bout pour obtenir {0}. Si vous arrêtez avant, le gain est perdu.
-88f8727	Regardez {0} vidéos jusqu'au bout pour obtenir {1}. Si vous arrêtez avant, le gain est perdu.
-7196e7c	DÉMARRER
-b967bda	PAS MAINTENANT
-b10888c	Gain obtenu : {0} !
+c319724	Plus de jetons ! Passez à la caisse pour en obtenir d'autres.
+4100521	Rappels de série
+9543087	Voulez-vous un rappel les soirs où vous n'avez pas encore joué, pour que votre série ne s'arrête pas ? Jamais plus que cela, et vous pouvez le désactiver dans les Réglages.
+3eb5ca2	Achetez des jetons pour continuer à jouer.
+844f74b	Un rappel le soir, avant que la série ne s'arrête.

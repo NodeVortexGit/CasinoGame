@@ -28,10 +28,6 @@ namespace Casino.Core.Player
         public long totalWagered;
         public long biggestWin;
 
-        public int adsWatchedToday;
-        public int adDayNumber;
-        public long lastAdUtcTicks;
-
         public float musicVolume = 0.7f;
         public float sfxVolume = 0.8f;
         public int targetFps = 30;
@@ -95,7 +91,7 @@ namespace Casino.Core.Player
         public List<int> crapsBetNumbers = new List<int>();
         public List<long> crapsBetAmounts = new List<long>();
 
-        // Progression: levels, the daily streak, the bonus wheel, timed free chips and daily missions (Progression.cs).
+        // Progression: levels, the daily streak, the bonus wheel and daily missions (Progression.cs).
         // Paid luck packs still to use: each entry is a boost (percent) with its hands left. luckOfferShown: the one-time
         // offer after Beginner's Luck ends has been made.
         public List<int> luckPackPercent = new List<int>();
@@ -113,7 +109,6 @@ namespace Casino.Core.Player
         public List<int> streakMetDays = new List<int>();
         public List<int> streakFrozenDays = new List<int>();
         public int wheelDay = -1;
-        public long bonusReadyUtcTicks;
         public int missionDay = -1;
         public List<int> missionIds = new List<int>();
         public List<int> missionProgress = new List<int>();

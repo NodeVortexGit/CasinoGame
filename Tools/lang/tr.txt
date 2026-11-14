@@ -64,7 +64,6 @@ f76c8fd	Bana fazla geldi. Sen kazandın!
 0b48017	Yeni kutu, kartları karıştırıyorum!
 3fa7769	Fişler azaldı mı? Kasiyer sana yükleme yapabilir.
 4e5694b	Fişler azalıyor. Biraz daha ister misin?
-d41f057	Fişin kalmadı! Kasaya uğra ya da bedava fiş al.
 15d90d3	Yığının boş. Kasa hemen arkanda.
 a9eaae1	Çok yorgun görünüyorsun! Barda bir şeyler ye.
 5cd9e8b	Enerjin mi bitti? Bar seni toparlar.
@@ -175,14 +174,6 @@ b5b9597	{0} GÜNLÜK SERİ!
 1998202	{0}: %{2} şansla {1} el, Acemi Şansı'ndan sonra
 728ada5	{0}: %{2} şansla {1} el!
 af5e232	{0}: +%{1} enerji
-001a53b	Bu cihazda kullanılamaz
-2607004	Videolar bu ağda yüklenemiyor
-569c30d	Yarın gel
-ecae6ee	{0} sn içinde hazır
-9964820	+{0} fiş (bugün {1} kaldı)
-e1bd888	+{0} bedava fiş!
-619bd5d	+1 seri dondurma!
-f70d794	Şu anda video yok. Birazdan tekrar dene.
 264d71b	BRONZ
 462e839	GÜMÜŞ
 81ff70a	ALTIN
@@ -197,9 +188,6 @@ a42f608	Bölgen kontrol ediliyor...
 1db422c	Doğrulanmadı ({0}): standart fiyatlar
 9bc0807	{0} ({1}): fiyatlar {2} cinsinden
 ae8c393	Hatırlatıcılar
-aefd59b	Bedava fiş hazır ve seri hatırlatıcıları
-3125838	Bedava fişlerin hazır
-233027b	Lucky Ace'te {0} fiş seni bekliyor.
 b93976b	{0} günlük serini koru
 bd68038	Gece yarısı sıfırlanmaması için bugün {0} tur oyna.
 0acfb6f	Hoş geldin! Bu gece acemi şansı seninle. Bahsini koy!
@@ -230,9 +218,6 @@ b6e674a	Krupiyede blackjack yok. Sigorta kaybedildi.
 822f4f4	Acemi şansı bitti. Bundan sonra standart blackjack.
 b0377c7	Şans Serin bitti. Standart blackjacke dönüyoruz.
 824ad7c	FİŞ KALMADI
-ff1822d	{0} bedava fiş için kısa bir video izle ya da kasaya uğra.
-e4cac2f	Fiş yüklemek için kasaya uğra.
-c3df3e7	BEDAVA FİŞ
 b169d33	KASA
 4d38f66	SONRA
 cb8171b	Önce bu eli bitir.
@@ -253,7 +238,6 @@ c3a8946	ANLADIM
 4035996	GÜNLÜK SERİ
 fbe7f18	GÜNLÜK SERİ
 7a46866	BUGÜN
-4753707	REKLAM İZLE
 6bb45f3	SATIN AL
 62a945f	SERİ DONDURMA
 ba5b1de	Seri dondurma, oynamadığın bir günde serini canlı tutar. En fazla {0} tane tutabilirsin.\n\n{1} fişe bir tane alınsın mı?
@@ -273,8 +257,6 @@ f757137	BUGÜNÜN GÖREVLERİ
 bb92856	Seri dondurma: {0} / {1}
 0ec6216	Kaçırdığın bir günde serini kurtar. Her 7 günde +1.
 cc0a745	DOLU
-419a962	VİDEO YOK
-2dabd99	REKLAM YAKINDA
 f12e166	Seri bonusu: ödüller ×{0}
 80948a4	Her gün bir bedava çevirme
 596b5e0	SONRAKİ  {0}
@@ -287,16 +269,8 @@ f12e166	Seri bonusu: ödüller ×{0}
 d00d221	Sadece 18+  •  Fişler eğlence içindir: nakit değeri yoktur, asla para veya ödülle değiştirilemez
 b60f038	Kapılar açılıyor...
 2e5bcce	Hoş geldin! {0} hoş geldin fişin hazır. Masalar tam karşında!
-7ef7ae3	+{0} bedava fiş! {1} saat sonra daha fazlası.
-5d82af9	Bedava fişler her {0} saatte yenilenir. Sonraki {1} sonra.
-5469985	{0} sa {1} dk
-bb65beb	{0} dk {1} sn
 ac8ba93	SERİNİ KORU
-560bfa1	Henüz oynamadığın akşamlarda ve bedava fişlerin hazır olduğunda hatırlatma ister misin? Bundan fazlası asla yok ve Ayarlar'dan kapatabilirsin.
 b724a40	HATIRLAT
-9e0c898	+{0} fiş hazır!
-1207e28	Video izle: {0}
-db3655b	Sonraki bedava fişe {0}
 4ca9be5	BLACKJACK
 9a612b1	4 masa  •  3'e 2 öder
 1194439	SLOTLAR
@@ -368,7 +342,6 @@ da46447	KUMARHANE PERSONELİ
 69d3313	ERKEKLER
 b4325d3	KARIŞIK
 414594a	HATIRLATICILAR
-6cac87b	Bedava fiş hazır olunca ve seri bitmeden önce akşam küçük bir hatırlatma.
 e43b2e0	TEKRAR KONTROL ET
 7c9e8f9	FİYAT BÖLGESİ
 495c70e	En hızlı: kumarhane olduğu gibi, ek bir şey yok.
@@ -443,8 +416,6 @@ c69e8ee	LUCKY ACE 7s
 fc99288	TOPLAM BAHİS
 c1c00cd	ÖDEME TABLOSU
 3930abd	BOL ŞANS!
-67b6973	Çevirmek için en az 10 fiş gerekir.
-5aa1edb	FİŞ AL
 f5a1812	Bahis karşılayabileceğin miktara düşürüldü.
 5c63f61	MEGA KAZANÇ!
 652544f	BÜYÜK KAZANÇ!
@@ -658,17 +629,8 @@ e1ae457	Mateo
 1920e2f	İlk atış: Pass Line'a bahis koy, sonra at. 7 veya 11 kazanır, 2, 3 veya 12 kaybeder. Place bahisleri puan oluşunca çalışmaya başlar.
 99f4934	LUCKY ACE 7s  •  HAT BAHSİNİN 2.500×'İNE KADAR ÖDER
 48ddc95	OTOMATİK ÇEVİR
-3848f78	Video {0} / {1}
-d87409f	Ödül kaybedildi: videolar baştan sona izlenmelidir.
-14dcbe4	+%{0} enerji
-330037c	%{1} şansla {0} el
-ff24786	REKLAM İZLE
-375d55d	1 ila 3 kısa video
-f187dbf	İZLE
-64d31ad	1 REKLAM İZLENSİN Mİ?
-e77d414	{0} REKLAM İZLENSİN Mİ?
-8707135	{0} kazanmak için 1 videoyu sonuna kadar izle. Erken durdurursan ödül kaybolur.
-88f8727	{1} kazanmak için {0} videoyu sonuna kadar izle. Erken durdurursan ödül kaybolur.
-7196e7c	BAŞLA
-b967bda	ŞİMDİ DEĞİL
-b10888c	Ödül kazanıldı: {0}!
+c319724	Fişler bitti! Daha fazla almak için kasiyere uğra.
+4100521	Seri hatırlatıcıları
+9543087	Henüz oynamadığın akşamlarda serinin bozulmaması için hatırlatıcı ister misin? Bundan fazlası asla olmaz ve Ayarlar'dan kapatabilirsin.
+3eb5ca2	Oynamaya devam etmek için fiş satın al.
+844f74b	Seri bitmeden önce akşam hatırlatması.

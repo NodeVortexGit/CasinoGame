@@ -64,7 +64,6 @@ f76c8fd	Per daug man. Tu laimi!
 0b48017	Naujas batas, maišau!
 3fa7769	Baigiasi? Kasa tave papildys.
 4e5694b	Žetonų mažėja. Nori daugiau?
-d41f057	Žetonai baigėsi! Užsuk į kasą arba pasiimk nemokamų žetonų.
 15d90d3	Tavo krūvelė tuščia. Kasa tiesiai už tavęs.
 a9eaae1	Atrodai išsekęs! Užkąsk ką nors bare.
 5cd9e8b	Jėgos baigiasi? Baras tavimi pasirūpins.
@@ -175,14 +174,6 @@ b5b9597	SERIJA: {0} D.!
 1998202	{0}: rankų {1} su {2}% sėkme, po Pradedančiojo sėkmės
 728ada5	{0}: rankų {1} su {2}% sėkme!
 af5e232	{0}: +{1}% energijos
-001a53b	Negalima šiame įrenginyje
-2607004	Šiame tinkle vaizdo įrašai neįkeliami
-569c30d	Grįžk rytoj
-ecae6ee	Paruošta po {0} s
-9964820	+{0} žetonų (šiandien liko {1})
-e1bd888	+{0} nemokamų žetonų!
-619bd5d	+1 serijos užšaldymas!
-f70d794	Šiuo metu vaizdo įrašų nėra. Pabandyk po akimirkos.
 264d71b	BRONZA
 462e839	SIDABRAS
 81ff70a	AUKSAS
@@ -197,9 +188,6 @@ a42f608	Tikriname tavo regioną...
 1db422c	Nepatvirtinta ({0}): standartinės kainos
 9bc0807	{0} ({1}): kainos {2}
 ae8c393	Priminimai
-aefd59b	Nemokami žetonai paruošti ir serijos priminimai
-3125838	Tavo nemokami žetonai paruošti
-233027b	Lucky Ace tavęs laukia {0} žetonų.
 b93976b	Išlaikyk savo seriją (dienų: {0})
 bd68038	Sužaisk šiandien raundų ({0}), kad vidurnaktį ji nenusinulintų.
 0acfb6f	Sveikas! Šįvakar pradedančiojo sėkmė tavo pusėje. Statyk!
@@ -230,9 +218,6 @@ b6e674a	Dalytojas neturi blackjack. Draudimas prarastas.
 822f4f4	Pradedančiojo sėkmė baigėsi. Nuo šiol standartinis blackjack.
 b0377c7	Tavo Sėkmės serija baigėsi. Grįžtame prie standartinio blackjack.
 824ad7c	ŽETONAI BAIGĖSI
-ff1822d	Pažiūrėk trumpą vaizdo įrašą ir gauk {0} nemokamų žetonų arba užsuk į kasą.
-e4cac2f	Užsuk į kasą papildyti žetonų.
-c3df3e7	NEMOKAMI ŽETONAI
 b169d33	KASA
 4d38f66	VĖLIAU
 cb8171b	Pirmiausia baik šią ranką.
@@ -253,7 +238,6 @@ c3a8946	SUPRATAU
 4035996	DIENOS SERIJA
 fbe7f18	DIENŲ IŠ EILĖS
 7a46866	ŠIANDIEN
-4753707	ŽIŪRĖTI REKLAMĄ
 6bb45f3	PIRKTI
 62a945f	SERIJOS UŽŠALDYMAS
 ba5b1de	Užšaldymas išlaiko tavo seriją dieną, kai nežaidi. Gali turėti iki {0}.\n\nPirkti vieną už {1} žetonų?
@@ -273,8 +257,6 @@ f757137	ŠIANDIENOS UŽDUOTYS
 bb92856	Serijos užšaldymai: {0} / {1}
 0ec6216	Išgelbėk seriją dieną, kurią praleisi. +1 kas 7 dienas.
 cc0a745	PILNA
-419a962	NĖRA VAIZDO ĮRAŠO
-2dabd99	REKLAMA NETRUKUS
 f12e166	Serijos premija: prizai ×{0}
 80948a4	Vienas nemokamas sukimas kasdien
 596b5e0	KITAS  {0}
@@ -287,16 +269,8 @@ f12e166	Serijos premija: prizai ×{0}
 d00d221	Tik 18+  •  Žetonai skirti pramogai: neturi piniginės vertės, niekada nekeičiami į pinigus ar prizus
 b60f038	Atidarome duris...
 2e5bcce	Sveikas! Tavo sveikinimo žetonai ({0}) paruošti. Stalai tiesiai priekyje!
-7ef7ae3	+{0} nemokamų žetonų! Daugiau po {1} val.
-5d82af9	Nemokami žetonai pasipildo kas {0} val. Kiti po {1}.
-5469985	{0} val. {1} min.
-bb65beb	{0} min. {1} s
 ac8ba93	IŠLAIKYK SERIJĄ
-560bfa1	Nori priminimo vakarais, kai dar nežaidei, ir kai paruošti nemokami žetonai? Niekada daugiau, o išjungti gali Nustatymuose.
 b724a40	PRIMINK MAN
-9e0c898	+{0} žetonų paruošta!
-1207e28	Žiūrėk vaizdo įrašą: {0}
-db3655b	Kiti nemokami žetonai po {0}
 4ca9be5	BLACKJACK
 9a612b1	4 stalai  •  moka 3 prieš 2
 1194439	LOŠIMO AUTOMATAI
@@ -369,7 +343,6 @@ da46447	KAZINO PERSONALAS
 69d3313	VYRAI
 b4325d3	MIŠRUS
 414594a	PRIMINIMAI
-6cac87b	Nemokami žetonai paruošti ir vakarinis priminimas, kol serija nesibaigė.
 e43b2e0	TIKRINTI DAR KARTĄ
 7c9e8f9	KAINŲ REGIONAS
 495c70e	Greičiausia: kazino toks, koks nupieštas, nieko papildomo.
@@ -444,8 +417,6 @@ c69e8ee	LUCKY ACE 7s
 fc99288	BENDRAS STATYMAS
 c1c00cd	IŠMOKŲ LENTELĖ
 3930abd	SĖKMĖS!
-67b6973	Sukimui reikia bent 10 žetonų.
-5aa1edb	GAUTI ŽETONŲ
 f5a1812	Statymas sumažintas iki sumos, kurią gali padengti.
 5c63f61	MEGA LAIMĖJIMAS!
 652544f	DIDELIS LAIMĖJIMAS!
@@ -658,17 +629,8 @@ e1ae457	Mateusas
 1920e2f	Pirmasis metimas: statyk ant Pass Line ir mesk. 7 ar 11 laimi, 2, 3 ar 12 pralaimi. Place statymai pradeda galioti, kai yra taškas.
 99f4934	LUCKY ACE 7s  •  MOKA IKI 2 500× TAVO LINIJOS STATYMO
 48ddc95	AUTOMATINIS
-3848f78	Vaizdo įrašas {0} iš {1}
-d87409f	Prizas prarastas: vaizdo įrašus reikia pažiūrėti iki galo.
-14dcbe4	+{0}% energijos
-330037c	{0} rankų su {1}% sėkme
-ff24786	ŽIŪRĖTI REKLAMAS
-375d55d	1–3 trumpi vaizdo įrašai
-f187dbf	ŽIŪRĖTI
-64d31ad	ŽIŪRĖTI 1 REKLAMĄ?
-e77d414	ŽIŪRĖTI {0} REKLAMAS?
-8707135	Pažiūrėk 1 vaizdo įrašą iki galo, kad gautum {0}. Jei sustosi anksčiau, prizas prarandamas.
-88f8727	Pažiūrėk {0} vaizdo įrašus iki galo, kad gautum {1}. Jei sustosi anksčiau, prizas prarandamas.
-7196e7c	PRADĖTI
-b967bda	NE DABAR
-b10888c	Prizas laimėtas: {0}!
+c319724	Žetonai baigėsi! Eik prie kasos, kad gautum daugiau.
+4100521	Serijos priminimai
+9543087	Nori priminimo vakarais, kai dar nežaidei, kad serija nenutrūktų? Daugiau nei tiek – niekada, o išjungti gali Nustatymuose.
+3eb5ca2	Pirk žetonų, kad galėtum žaisti toliau.
+844f74b	Vakarinis priminimas prieš tai, kai serija nutrūktų.

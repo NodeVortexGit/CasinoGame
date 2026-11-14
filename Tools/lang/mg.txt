@@ -64,7 +64,6 @@ f76c8fd	Be loatra ho ahy. Nandresy ianao!
 0b48017	Kiraro vaovao, manaro aho!
 3fa7769	Ho lany ve? Afaka manampy anao ny mpitahiry vola.
 4e5694b	Mihena ny jetona. Mila fanampiny ve ianao?
-d41f057	Lany ny jetona! Mandehana any amin'ny mpitahiry vola na makà jetona maimaim-poana.
 15d90d3	Foana ny antontanao. Ao aorianao mihitsy ny mpitahiry vola.
 a9eaae1	Toa reraka be ianao! Mihinana zavatra any amin'ny bar.
 5cd9e8b	Lany hery? Hikarakara anao ny bar.
@@ -175,14 +174,6 @@ b5b9597	FILAHARANA ANDRO {0}!
 1998202	{0}: tanana {1} miaraka amin'ny vintana {2}%, aorian'ny Vintan'ny Vao Manomboka
 728ada5	{0}: tanana {1} miaraka amin'ny vintana {2}%!
 af5e232	{0}: +{1}% angovo
-001a53b	Tsy misy amin'ity fitaovana ity
-2607004	Tsy afaka mampiditra horonantsary amin'ity tambajotra ity
-569c30d	Miverena rahampitso
-ecae6ee	Vonona afaka {0} segondra
-9964820	+jetona {0} ({1} sisa anio)
-e1bd888	+jetona maimaim-poana {0}!
-619bd5d	+1 fanakatonana filaharana!
-f70d794	Tsy misy horonantsary amin'izao fotoana izao. Andramo indray afaka kelikely.
 264d71b	VARAHINA
 462e839	VOLAFOTSY
 81ff70a	VOLAMENA
@@ -197,9 +188,6 @@ a42f608	Manamarina ny faritrao...
 1db422c	Tsy voamarina ({0}): vidiny mahazatra
 9bc0807	{0} ({1}): vidiny amin'ny {2}
 ae8c393	Fampahatsiahivana
-aefd59b	Jetona maimaim-poana vonona sy fampahatsiahivana filaharana
-3125838	Vonona ny jetonanao maimaim-poana
-233027b	Jetona {0} no miandry anao ao amin'ny Lucky Ace.
 b93976b	Tazony ny filaharanao andro {0}
 bd68038	Milalao fihodinana {0} anio mba tsy hiverina amin'ny aotra amin'ny misasakalina.
 0acfb6f	Tongasoa! Eo anilanao ny vintan'ny vao manomboka anio alina. Mametraha filokana!
@@ -230,9 +218,6 @@ b6e674a	Tsy manana blackjack ny mpizara. Very ny fiantohana.
 822f4f4	Tapitra ny vintan'ny vao manomboka. Manomboka izao dia blackjack mahazatra.
 b0377c7	Tapitra ny Filaharan'ny Vintanao. Miverina amin'ny blackjack mahazatra.
 824ad7c	LANY NY JETONA
-ff1822d	Jereo horonantsary fohy hahazoana jetona maimaim-poana {0}, na mandehana any amin'ny mpitahiry vola.
-e4cac2f	Mandehana any amin'ny mpitahiry vola hamenoana ny jetonanao.
-c3df3e7	JETONA MAIMAIM-POANA
 b169d33	MPITAHIRY VOLA
 4d38f66	ATO ANATY KELY
 cb8171b	Vitao aloha ity tanana ity.
@@ -253,7 +238,6 @@ c3a8946	AZOKO
 4035996	FILAHARANA ISAN'ANDRO
 fbe7f18	ANDRO MISESY
 7a46866	ANIO
-4753707	JEREO NY DOKAMBAROTRA
 6bb45f3	MIVIDY
 62a945f	FANAKATONANA FILAHARANA
 ba5b1de	Mitazona ny filaharanao ho velona amin'ny andro tsy ilalaovanao ny fanakatonana filaharana. Afaka mitahiry hatramin'ny {0} ianao.\n\nHividy iray amin'ny jetona {1}?
@@ -273,8 +257,6 @@ f757137	IRAKA ANIO
 bb92856	Fanakatonana filaharana: {0} / {1}
 0ec6216	Vonjeo ny filaharanao amin'ny andro tsy ilalaovanao. +1 isaky ny andro 7.
 cc0a745	FENO
-419a962	TSY MISY HORONANTSARY
-2dabd99	DOKAMBAROTRA HO AVY
 f12e166	Tombony filaharana: loka ×{0}
 80948a4	Fihodinana maimaim-poana iray isan'andro
 596b5e0	MANARAKA  {0}
@@ -287,16 +269,8 @@ f12e166	Tombony filaharana: loka ×{0}
 d00d221	18+ ihany  •  Fialam-boly ny jetona: tsy misy sandam-bola, tsy azo takalozina vola na loka mihitsy
 b60f038	Manokatra ny varavarana...
 2e5bcce	Tongasoa! Vonona ny jetona fandraisana {0} anao. Eo anoloana mivantana ny latabatra!
-7ef7ae3	+jetona maimaim-poana {0}! Fanampiny afaka {1} ora.
-5d82af9	Feno indray isaky ny {0} ora ny jetona maimaim-poana. Ny manaraka afaka {1}.
-5469985	{0}o {1}m
-bb65beb	{0}m {1}s
 ac8ba93	TAZONY NY FILAHARANAO
-560bfa1	Mila fampahatsiahivana ve ianao amin'ny hariva tsy mbola nilalaovanao, sy rehefa vonona ny jetonanao maimaim-poana? Tsy mihoatra izany mihitsy, ary azonao vonoina ao amin'ny Fandrindrana.
 b724a40	AMPAHATSIAHIVO AHO
-9e0c898	+jetona {0} vonona!
-1207e28	Jereo horonantsary: {0}
-db3655b	Jetona maimaim-poana manaraka afaka {0}
 4ca9be5	BLACKJACK
 9a612b1	Latabatra 4  •  mandoa 3 amin'ny 2
 1194439	SLOT
@@ -369,7 +343,6 @@ da46447	MPIASAN'NY TRANO FILOKANA
 69d3313	LEHILAHY
 b4325d3	MIFANGARO
 414594a	FAMPAHATSIAHIVANA
-6cac87b	Jetona maimaim-poana vonona, sy fampahatsiahivana amin'ny hariva alohan'ny hiafaran'ny filaharana.
 e43b2e0	HAMARINO INDRAY
 7c9e8f9	FARITRA VIDINY
 495c70e	Haingana indrindra: ny trano filokana toy ny nolokoina, tsy misy fanampiny.
@@ -444,8 +417,6 @@ c69e8ee	LUCKY ACE 7s
 fc99288	FILOKANA ANKAPOBENY
 c1c00cd	TABILAOM-PANDOAVANA
 3930abd	MIRARY SOA!
-67b6973	Mila jetona 10 farafahakeliny ianao vao afaka manodina.
-5aa1edb	MAKÀ JETONA
 f5a1812	Nahena ho amin'izay azonao aloa ny filokana.
 5c63f61	FANDRESENA GOAVANA!
 652544f	FANDRESENA LEHIBE!
@@ -658,17 +629,8 @@ e1ae457	Mateo
 1920e2f	Fanipazana come-out: miloka amin'ny Pass Line dia manipaza. Mandresy ny 7 na 11, resy ny 2, 3 na 12. Manomboka mandeha ny loka Place rehefa misy point.
 99f4934	LUCKY ACE 7s  •  MANDOA HATRAMIN'NY 2,500× NY FILOKAO AMIN'NY ANDALANA
 48ddc95	AUTO AHODINO
-3848f78	Horonantsary {0} amin'ny {1}
-d87409f	Very ny loka: tsy maintsy jereo feno ny horonantsary.
-14dcbe4	+{0}% angovo
-330037c	Tanana {0} miaraka amin'ny vintana {1}%
-ff24786	JEREO NY DOKAMBAROTRA
-375d55d	Horonantsary fohy 1 hatramin'ny 3
-f187dbf	JEREO
-64d31ad	JEREO DOKAMBARO 1 VE?
-e77d414	JEREO DOKAMBARO {0} VE?
-8707135	Jereo horonantsary 1 feno mba hahazoana {0}. Raha mijanona aloha, very ny loka.
-88f8727	Jereo horonantsary {0} feno mba hahazoana {1}. Raha mijanona aloha, very ny loka.
-7196e7c	HANOMBOKA
-b967bda	TSY IZAO
-b10888c	Nahazo loka: {0}!
+c319724	Tapitra ny jetona! Mankanesa any amin'ny mpitahiry vola mba hahazoana bebe kokoa.
+4100521	Fampahatsiahivana ny filaharana
+9543087	Te hahazo fampahatsiahivana amin'ny alina tsy nilalaovanao, mba tsy ho very ny filaharanao? Tsy mihoatra noho izany, ary azonao atsahana amin'ny Fandrindrana.
+3eb5ca2	Mividiava jetona hanohizana ny lalao.
+844f74b	Fampahatsiahivana amin'ny alina alohan'ny hahatapitra ny filaharana.

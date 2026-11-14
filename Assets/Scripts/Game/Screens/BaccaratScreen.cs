@@ -217,7 +217,7 @@ namespace Casino.Screens
             if (TotalBet + amount > App.I.Wallet.Balance)
             {
                 Sfx.Play(SfxId.Error);
-                if (App.I.Wallet.Balance < ChipValues[0]) ChipOffer.Show(Refresh);
+                if (App.I.Wallet.Balance < ChipValues[0]) ChipOffer.Show();
                 else App.I.UI.Toast(Loc.T("Not enough chips for that bet."), Palette.TextMuted, Icon.Coin);
                 return;
             }
@@ -424,7 +424,7 @@ namespace Casino.Screens
             if (App.I.Wallet.Balance < ChipValues[0])
             {
                 Say(DealerLines.Pick(DealerMoment.OutOfChips, App.I.Rng), 4f);
-                ChipOffer.Show(Refresh);
+                ChipOffer.Show();
             }
         }
 

@@ -216,7 +216,7 @@ namespace Casino.Screens
             if (!game.Bet(kind, number, amount))
             {
                 Sfx.Play(SfxId.Error);
-                if (App.I.Wallet.Balance < ChipValues[0]) ChipOffer.Show(Refresh);
+                if (App.I.Wallet.Balance < ChipValues[0]) ChipOffer.Show();
                 else App.I.UI.Toast(Loc.T("Not enough chips for that bet."), Palette.TextMuted, Icon.Coin);
                 return;
             }
@@ -410,7 +410,7 @@ namespace Casino.Screens
             placedThisRoll.Clear();
             rolling = false;
             Refresh();
-            if (game.TotalOnTable == 0 && App.I.Wallet.Balance < ChipValues[0]) ChipOffer.Show(Refresh);
+            if (game.TotalOnTable == 0 && App.I.Wallet.Balance < ChipValues[0]) ChipOffer.Show();
         }
 
         IEnumerator Stamp(Spot spot, string text, Color color)

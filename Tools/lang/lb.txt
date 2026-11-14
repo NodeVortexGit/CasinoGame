@@ -64,7 +64,6 @@ f76c8fd	Ze vill fir mech. Du gewënns!
 0b48017	Neie Schung, ech mëschen!
 3fa7769	Bal eidel? D'Keess fëllt dech op.
 4e5694b	D'Jetone ginn rar. Wëlls de méi?
-d41f057	Keng Jetone méi! Gëff bei d'Keess oder huel gratis Jetonen.
 15d90d3	Däi Koup ass eidel. D'Keess ass direkt hannert dir.
 a9eaae1	Du gesäis erschöpft aus! Iess eppes un der Bar.
 5cd9e8b	Keng Kraaft méi? D'Bar këmmert sech ëm dech.
@@ -175,14 +174,6 @@ b5b9597	SERIE VUN {0} DEEG!
 1998202	{0}: {1} Hänn mat {2} % Gléck, nom Ufängergléck
 728ada5	{0}: {1} Hänn mat {2} % Gléck!
 af5e232	{0}: +{1} % Energie
-001a53b	Op dësem Apparat net disponibel
-2607004	Videoe luede net an dësem Netz
-569c30d	Komm muer zréck
-ecae6ee	Prett an {0} s
-9964820	+{0} Jetonen (haut nach {1})
-e1bd888	+{0} gratis Jetonen!
-619bd5d	+1 Serie-Afréierung!
-f70d794	Grad ass kee Video disponibel. Probéier et an engem Moment nach eng Kéier.
 264d71b	BRONZE
 462e839	SËLWER
 81ff70a	GOLD
@@ -197,9 +188,6 @@ a42f608	Deng Regioun gëtt iwwerpréift...
 1db422c	Net verifizéiert ({0}): Standardpräisser
 9bc0807	{0} ({1}): Präisser an {2}
 ae8c393	Erënnerungen
-aefd59b	Gratis Jetone prett an Erënnerunge fir d'Serie
-3125838	Deng gratis Jetone si prett
-233027b	{0} Jetonen waarden op dech bei Lucky Ace.
 b93976b	Hal deng Serie vun {0} Deeg
 bd68038	Spill haut Ronnen ({0}), sou datt se ëm Mëtternuecht net zréckgesat gëtt.
 0acfb6f	Wëllkomm! D'Ufängergléck ass haut op denger Säit. Setz en Asaz!
@@ -230,9 +218,6 @@ b6e674a	Kee Blackjack beim Croupier. Versécherung verluer.
 822f4f4	D'Ufängergléck ass eriwwer. Vun elo un ass et normale Blackjack.
 b0377c7	Däi Glécksstréck ass eriwwer. Zréck bei normale Blackjack.
 824ad7c	KENG JETONEN MÉI
-ff1822d	Kuck e kuerze Video fir {0} gratis Jetonen, oder gëff bei d'Keess.
-e4cac2f	Gëff bei d'Keess fir deng Jetonen opzefëllen.
-c3df3e7	GRATIS JETONEN
 b169d33	KEESS
 4d38f66	MÉI SPÉIT
 cb8171b	Spill fir d'éischt dës Hand fäerdeg.
@@ -253,7 +238,6 @@ c3a8946	VERSTANEN
 4035996	DEEGLECH SERIE
 fbe7f18	DEEG HANNERENEE
 7a46866	HAUT
-4753707	REKLAMM KUCKEN
 6bb45f3	KAFEN
 62a945f	SERIE-AFRÉIERUNG
 ba5b1de	Eng Serie-Afréierung hält deng Serie un engem Dag, wou s de net spills. Du kanns der bis zu {0} hunn.\n\nEng fir {1} Jetone kafen?
@@ -273,8 +257,6 @@ f757137	HAITEG MISSIOUNEN
 bb92856	Serie-Afréierungen: {0} / {1}
 0ec6216	Rett deng Serie un engem Dag, deen s de verpass. +1 all 7 Deeg.
 cc0a745	VOLL
-419a962	KEE VIDEO
-2dabd99	REKLAMM GESCHWËNN
 f12e166	Seriebonus: Präisser ×{0}
 80948a4	All Dag eng gratis Dréiung
 596b5e0	NÄCHST  {0}
@@ -287,16 +269,8 @@ f12e166	Seriebonus: Präisser ×{0}
 d00d221	Nëmme 18+  •  Jetone sinn zum Spaass: kee Geldwäert, ni a Geld oder Präisser ëmtauschbar
 b60f038	D'Dieren ginn op...
 2e5bcce	Wëllkomm! Deng {0} Wëllkommsjetone si prett. D'Dëscher si riichtaus!
-7ef7ae3	+{0} gratis Jetonen! Méi an {1} Stonnen.
-5d82af9	Gratis Jetone fëllen all {0} Stonnen op. Déi nächst an {1}.
-5469985	{0} St. {1} Min.
-bb65beb	{0} Min. {1} s
 ac8ba93	HAL DENG SERIE
-560bfa1	Wëlls de eng Erënnerung owes, wann s de nach net gespillt hues, a wann deng gratis Jetone prett sinn? Ni méi wéi dat, an du kanns et an den Astellungen ausschalten.
 b724a40	ERËNNER MECH
-9e0c898	+{0} Jetone prett!
-1207e28	Kuck e Video: {0}
-db3655b	Nächst gratis Jetonen an {0}
 4ca9be5	BLACKJACK
 9a612b1	4 Dëscher  •  bezilt 3 zu 2
 1194439	SPILLAUTOMATEN
@@ -369,7 +343,6 @@ da46447	CASINOPERSONAL
 69d3313	MÄNNER
 b4325d3	GEMËSCHT
 414594a	ERËNNERUNGEN
-6cac87b	Gratis Jetone prett, an e klengen Hiweis owes, ier eng Serie eriwwer wier.
 e43b2e0	NOCH EMOL KUCKEN
 7c9e8f9	PRÄISREGIOUN
 495c70e	Am séierste: de Casino wéi gemoolt, näischt extra.
@@ -444,8 +417,6 @@ c69e8ee	LUCKY ACE 7s
 fc99288	GESAMTASAZ
 c1c00cd	GEWËNNTABELL
 3930abd	VILL GLÉCK!
-67b6973	Du brauchs mindestens 10 Jetone fir ze dréinen.
-5aa1edb	JETONE KRÉIEN
 f5a1812	Asaz op dat erofgesat, wat s de bezuele kanns.
 5c63f61	MEGAGEWËNN!
 652544f	GROUSSE GEWËNN!
@@ -658,17 +629,8 @@ e1ae457	Mateo
 1920e2f	Come-out: sëtz op d'Pass Line a werf. 7 oder 11 gewannen, 2, 3 oder 12 verléieren. Place-Wetten fänken un, soubal et e Point gëtt.
 99f4934	LUCKY ACE 7s  •  BEZILT BIS 2.500× VUN DÄINEM LINNEN-ASAZ
 48ddc95	AUTOMATESCH
-3848f78	Video {0} vun {1}
-d87409f	Präis verluer: d'Videoen mussen ganz duerchgekuckt ginn.
-14dcbe4	+{0} % Energie
-330037c	{0} Hänn mat {1} % Gléck
-ff24786	REKLAMM KUCKEN
-375d55d	1 bis 3 kuerz Videoen
-f187dbf	KUCKEN
-64d31ad	Eng Reklamm kucken?
-e77d414	{0} Reklammen kucken?
-8707135	Kuck eng Video ganz duerch, fir {0} ze kréien. Wann s du fréi ophalls, ass de Präis verluer.
-88f8727	Kuck {0} Videoen ganz duerch, fir {1} ze kréien. Wann s du fréi ophalls, ass de Präis verluer.
-7196e7c	ANFANG
-b967bda	NET ELO
-b10888c	Präis gewonnen: {0}!
+c319724	D'Jetone sinn eleng! Gitt bei d'Keess, fir méi ze kréien.
+4100521	Erënnerunge fir d'Serie
+9543087	Wëllt Dir eng Erënnerung op Owenden, un deenen Dir nach net gespillt hutt, fir datt Är Serie net ophält? Nie méi wéi dat, an Dir kënnt se an den Astellungen ausmaachen.
+3eb5ca2	Kafft Jetone, fir weider ze spillen.
+844f74b	Eng Owend-Erënnerung ier eng Serie ophält.

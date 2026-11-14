@@ -917,24 +917,7 @@ namespace Casino.Screens
             if (seat.World != null && next != this && (next == null || !next.ShowsWorld)) seat.World.SetVisible(false);
         }
 
-        void OfferChips()
-        {
-            App.I.UI.Modal<ConfirmModal>(m => m.Setup(Loc.T("OUT OF CHIPS"),
-                App.I.Purchases.CanWatchAd
-                    ? Loc.F("Watch a short video for {0} free chips, or visit the cashier.", ChipFormat.Full(GameConfig.AdRewardChips))
-                    : Loc.T("Visit the cashier to top up your chips."),
-                App.I.Purchases.CanWatchAd ? Loc.T("FREE CHIPS") : Loc.T("CASHIER"),
-                () =>
-                {
-                    if (App.I.Purchases.CanWatchAd) App.I.Purchases.WatchAdForChips(_ => RefreshBetting());
-                    else App.I.UI.Modal<ShopModal>(s => s.StartTab = ShopTab.Chips);
-                },
-                App.I.Purchases.CanWatchAd ? Loc.T("CASHIER") : Loc.T("LATER"),
-                () =>
-                {
-                    if (App.I.Purchases.CanWatchAd) App.I.UI.Modal<ShopModal>(s => s.StartTab = ShopTab.Chips);
-                }, ButtonStyle.Green));
-        }
+        void OfferChips() => ChipOffer.Show();
 
         void Update()
         {

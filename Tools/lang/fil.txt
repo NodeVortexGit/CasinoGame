@@ -64,7 +64,6 @@ f76c8fd	Sobra para sa akin. Panalo ka!
 0b48017	Bagong shoe, magbabalasa ako!
 3fa7769	Paubos na? Mapupunuan ka ng kahera.
 4e5694b	Kumakaunti na ang chips mo. Gusto mo pa?
-d41f057	Ubos na ang chips! Pumunta sa kahera o kumuha ng libreng chips.
 15d90d3	Wala nang laman ang patong mo. Nasa likod mo lang ang kahera.
 a9eaae1	Mukha kang pagod na pagod! Kumain ka muna sa bar.
 5cd9e8b	Ubos na ang lakas? Sagot ka ng bar.
@@ -175,14 +174,6 @@ b5b9597	{0} ARAW NA SUNOD-SUNOD!
 1998202	{0}: {1} kamay na may {2}% swerte, pagkatapos ng Swerte ng Baguhan
 728ada5	{0}: {1} kamay na may {2}% swerte!
 af5e232	{0}: +{1}% lakas
-001a53b	Hindi available sa device na ito
-2607004	Hindi maglo-load ang mga video sa network na ito
-569c30d	Bumalik bukas
-ecae6ee	Handa sa loob ng {0}s
-9964820	+{0} chips ({1} pa ngayong araw)
-e1bd888	+{0} libreng chips!
-619bd5d	+1 streak freeze!
-f70d794	Walang video sa ngayon. Subukan ulit mamaya.
 264d71b	BRONZE
 462e839	PILAK
 81ff70a	GINTO
@@ -197,9 +188,6 @@ a42f608	Tinitingnan ang rehiyon mo...
 1db422c	Hindi beripikado ({0}): karaniwang presyo
 9bc0807	{0} ({1}): presyo sa {2}
 ae8c393	Mga Paalala
-aefd59b	Handa na ang libreng chips at mga paalala sa sunod-sunod
-3125838	Handa na ang libreng chips mo
-233027b	{0} chips ang naghihintay sa iyo sa Lucky Ace.
 b93976b	Panatilihin ang {0}-araw na sunod-sunod mo
 bd68038	Maglaro ng {0} round ngayon para hindi ito ma-reset pagsapit ng hatinggabi.
 0acfb6f	Maligayang pagdating! Kasama mo ang swerte ng baguhan ngayong gabi. Tumaya ka na!
@@ -230,9 +218,6 @@ b6e674a	Walang blackjack ang dealer. Talo ang insurance.
 822f4f4	Tapos na ang swerte ng baguhan. Mula ngayon karaniwang blackjack na.
 b0377c7	Tapos na ang Swerteng Sunod-sunod mo. Balik sa karaniwang blackjack.
 824ad7c	UBOS NA ANG CHIPS
-ff1822d	Manood ng maikling video para sa {0} libreng chips, o pumunta sa kahera.
-e4cac2f	Pumunta sa kahera para punuan ang chips mo.
-c3df3e7	LIBRENG CHIPS
 b169d33	KAHERA
 4d38f66	MAMAYA
 cb8171b	Tapusin muna ang kamay na ito.
@@ -253,7 +238,6 @@ c3a8946	NAINTINDIHAN
 4035996	ARAW-ARAW NA SUNOD-SUNOD
 fbe7f18	ARAW NANG SUNOD-SUNOD
 7a46866	NGAYON
-4753707	MANOOD NG AD
 6bb45f3	BILHIN
 62a945f	STREAK FREEZE
 ba5b1de	Pinapanatiling buhay ng streak freeze ang sunod-sunod mo sa araw na hindi ka naglaro. Hanggang {0} ang puwede mong itabi.\n\nBumili ng isa sa halagang {1} chips?
@@ -273,8 +257,6 @@ f757137	MGA MISYON NGAYON
 bb92856	Streak freeze: {0} / {1}
 0ec6216	Iligtas ang sunod-sunod mo sa araw na makaligtaan mo. +1 kada 7 araw.
 cc0a745	PUNO
-419a962	WALANG VIDEO
-2dabd99	MAY AD NA SANDALI
 f12e166	Bonus sa sunod-sunod: premyo ×{0}
 80948a4	Isang libreng ikot araw-araw
 596b5e0	SUSUNOD  {0}
@@ -287,16 +269,8 @@ f12e166	Bonus sa sunod-sunod: premyo ×{0}
 d00d221	18+ lamang  •  Pang-libangan ang chips: walang halagang pera, hindi kailanman maipagpapalit sa pera o premyo
 b60f038	Binubuksan ang mga pinto...
 2e5bcce	Maligayang pagdating! Handa na ang {0} welcome chips mo. Diretso lang ang mga mesa!
-7ef7ae3	+{0} libreng chips! Mayroon pa pagkalipas ng {1} oras.
-5d82af9	Napupunuan ang libreng chips tuwing {0} oras. Ang susunod ay sa loob ng {1}.
-5469985	{0}o {1}m
-bb65beb	{0}m {1}s
 ac8ba93	PANATILIHIN ANG SUNOD-SUNOD
-560bfa1	Gusto mo ba ng paalala sa mga gabing hindi ka pa naglalaro, at kapag handa na ang libreng chips mo? Hindi hihigit doon, at puwede mo itong patayin sa Settings.
 b724a40	PAALALAHANAN MO AKO
-9e0c898	+{0} chips ang handa na!
-1207e28	Manood ng video: {0}
-db3655b	Susunod na libreng chips sa loob ng {0}
 4ca9be5	BLACKJACK
 9a612b1	4 na mesa  •  nagbabayad ng 3 sa 2
 1194439	SLOTS
@@ -369,7 +343,6 @@ da46447	STAFF NG CASINO
 69d3313	LALAKI
 b4325d3	HALO
 414594a	MGA PAALALA
-6cac87b	Handa na ang libreng chips, at paalala sa gabi bago matapos ang sunod-sunod.
 e43b2e0	TINGNAN ULIT
 7c9e8f9	REHIYON NG PRESYO
 495c70e	Pinakamabilis: ang casino gaya ng pagkakapinta, walang dagdag.
@@ -444,8 +417,6 @@ c69e8ee	LUCKY ACE 7s
 fc99288	KABUUANG TAYA
 c1c00cd	PAYTABLE
 3930abd	GOOD LUCK!
-67b6973	Kailangan mo ng hindi bababa sa 10 chips para makaikot.
-5aa1edb	KUMUHA NG CHIPS
 f5a1812	Ibinaba ang taya sa kaya mong bayaran.
 5c63f61	MEGA PANALO!
 652544f	MALAKING PANALO!
@@ -658,17 +629,8 @@ e1ae457	Mateo
 1920e2f	Unang hagis: tumaya sa Pass Line at ihagis. Ang 7 o 11 ang panalo, ang 2, 3 o 12 ang talo. Umaandar ang mga place bet kapag may point na.
 99f4934	LUCKY ACE 7s  •  NAGBABAYAD HANGGANG 2,500× NG IYONG TAYA SA LINYA
 48ddc95	AUTO IKOT
-3848f78	Video {0} ng {1}
-d87409f	Nawala ang premyo: kailangang panoorin nang buo ang mga video.
-14dcbe4	+{0}% lakas
-330037c	{0} kamay na may {1}% swerte
-ff24786	MANOOD NG MGA AD
-375d55d	1 hanggang 3 maikling video
-f187dbf	MANOOD
-64d31ad	MANOOD NG 1 AD?
-e77d414	MANOOD NG {0} AD?
-8707135	Panoorin nang buo ang 1 video para makuha ang {0}. Kung titigil nang maaga, mawawala ang premyo.
-88f8727	Panoorin nang buo ang {0} na video para makuha ang {1}. Kung titigil nang maaga, mawawala ang premyo.
-7196e7c	SIMULAN
-b967bda	HUWAG MUNA
-b10888c	Napanalunan ang premyo: {0}!
+c319724	Ubos na ang chips! Pumunta sa kahera para makakuha pa.
+4100521	Mga paalala sa sunod-sunod
+9543087	Gusto mo ba ng paalala sa mga gabing hindi ka pa naglalaro, para hindi maputol ang sunod-sunod mo? Hindi lalampas doon, at puwede itong i-off sa Settings.
+3eb5ca2	Bumili ng chips para makapagpatuloy sa paglalaro.
+844f74b	Paalala sa gabi bago maputol ang sunod-sunod.

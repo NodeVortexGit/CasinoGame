@@ -64,7 +64,6 @@ f76c8fd	Za dużo dla mnie. Wygrywasz!
 0b48017	Nowy but, tasuję!
 3fa7769	Kończą się żetony? Kasjerka cię doładuje.
 4e5694b	Żetonów ubywa. Chcesz więcej?
-d41f057	Koniec żetonów! Odwiedź kasę albo weź darmowe żetony.
 15d90d3	Twój stos jest pusty. Kasa jest tuż za tobą.
 a9eaae1	Wyglądasz na wyczerpanego! Zjedz coś w barze.
 5cd9e8b	Brak energii? Bar się tobą zajmie.
@@ -175,14 +174,6 @@ b5b9597	SERIA DNI: {0}!
 1998202	{0}: rozdań {1} z {2}% szczęścia, po Szczęściu początkującego
 728ada5	{0}: rozdań {1} z {2}% szczęścia!
 af5e232	{0}: +{1}% energii
-001a53b	Niedostępne na tym urządzeniu
-2607004	Filmy nie ładują się w tej sieci
-569c30d	Wróć jutro
-ecae6ee	Gotowe za {0} s
-9964820	+{0} żetonów (dziś zostało {1})
-e1bd888	+{0} darmowych żetonów!
-619bd5d	+1 zamrożenie serii!
-f70d794	Brak dostępnych filmów. Spróbuj za chwilę.
 264d71b	BRĄZ
 462e839	SREBRO
 81ff70a	ZŁOTO
@@ -197,9 +188,6 @@ a42f608	Sprawdzanie regionu...
 1db422c	Niezweryfikowany ({0}): ceny standardowe
 9bc0807	{0} ({1}): ceny w {2}
 ae8c393	Przypomnienia
-aefd59b	Darmowe żetony gotowe i przypomnienia o serii
-3125838	Twoje darmowe żetony są gotowe
-233027b	{0} żetonów czeka na ciebie w Lucky Ace.
 b93976b	Utrzymaj serię dni: {0}
 bd68038	Zagraj dziś rundy ({0}), aby seria nie wyzerowała się o północy.
 0acfb6f	Witaj! Szczęście początkującego jest dziś po twojej stronie. Postaw zakład!
@@ -230,9 +218,6 @@ b6e674a	Krupier nie ma blackjacka. Ubezpieczenie przepadło.
 822f4f4	Szczęście początkującego się skończyło. Od teraz standardowy blackjack.
 b0377c7	Twoja Szczęśliwa passa się skończyła. Wracamy do standardowego blackjacka.
 824ad7c	BRAK ŻETONÓW
-ff1822d	Obejrzyj krótki film za {0} darmowych żetonów albo odwiedź kasę.
-e4cac2f	Odwiedź kasę, aby doładować żetony.
-c3df3e7	DARMOWE ŻETONY
 b169d33	KASA
 4d38f66	PÓŹNIEJ
 cb8171b	Najpierw dokończ to rozdanie.
@@ -253,7 +238,6 @@ c3a8946	ROZUMIEM
 4035996	CODZIENNA SERIA
 fbe7f18	DNI Z RZĘDU
 7a46866	DZIŚ
-4753707	OBEJRZYJ REKLAMĘ
 6bb45f3	KUP
 62a945f	ZAMROŻENIE SERII
 ba5b1de	Zamrożenie utrzymuje twoją serię w dniu, w którym nie grasz. Możesz mieć ich do {0}.\n\nKupić jedno za {1} żetonów?
@@ -273,8 +257,6 @@ f757137	DZISIEJSZE MISJE
 bb92856	Zamrożenia serii: {0} / {1}
 0ec6216	Uratuj serię w dniu, który opuścisz. +1 co 7 dni.
 cc0a745	PEŁNE
-419a962	BRAK FILMU
-2dabd99	REKLAMA WKRÓTCE
 f12e166	Bonus za serię: nagrody ×{0}
 80948a4	Jeden darmowy obrót dziennie
 596b5e0	NASTĘPNY  {0}
@@ -287,16 +269,8 @@ f12e166	Bonus za serię: nagrody ×{0}
 d00d221	Tylko 18+  •  Żetony są dla zabawy: bez wartości pieniężnej, nigdy niewymienialne na pieniądze ani nagrody
 b60f038	Otwieramy drzwi...
 2e5bcce	Witaj! Twoje {0} żetonów powitalnych czeka. Stoły są na wprost!
-7ef7ae3	+{0} darmowych żetonów! Kolejne za {1} godz.
-5d82af9	Darmowe żetony odnawiają się co {0} godz. Następne za {1}.
-5469985	{0} godz. {1} min
-bb65beb	{0} min {1} s
 ac8ba93	UTRZYMAJ SERIĘ
-560bfa1	Chcesz przypomnienie w wieczory, kiedy jeszcze nie grałeś, i gdy darmowe żetony będą gotowe? Nigdy więcej niż to, a wyłączysz je w Ustawieniach.
 b724a40	PRZYPOMNIJ MI
-9e0c898	+{0} żetonów gotowe!
-1207e28	Obejrzyj film: {0}
-db3655b	Następne darmowe żetony za {0}
 4ca9be5	BLACKJACK
 9a612b1	4 stoły  •  płaci 3 do 2
 1194439	AUTOMATY
@@ -368,7 +342,6 @@ da46447	OBSŁUGA KASYNA
 69d3313	MĘŻCZYŹNI
 b4325d3	MIESZANA
 414594a	PRZYPOMNIENIA
-6cac87b	Gotowe darmowe żetony i wieczorne przypomnienie, zanim seria się skończy.
 e43b2e0	SPRAWDŹ PONOWNIE
 7c9e8f9	REGION CEN
 495c70e	Najszybciej: kasyno takie, jak namalowane, nic więcej.
@@ -443,8 +416,6 @@ c69e8ee	LUCKY ACE 7s
 fc99288	ŁĄCZNY ZAKŁAD
 c1c00cd	TABELA WYPŁAT
 3930abd	POWODZENIA!
-67b6973	Do zakręcenia potrzeba co najmniej 10 żetonów.
-5aa1edb	WEŹ ŻETONY
 f5a1812	Zakład obniżony do kwoty, którą możesz pokryć.
 5c63f61	MEGA WYGRANA!
 652544f	WIELKA WYGRANA!
@@ -658,17 +629,8 @@ e1ae457	Mateo
 1920e2f	Pierwszy rzut: postaw na Pass Line i rzucaj. 7 lub 11 wygrywają; 2, 3 lub 12 przegrywają. Zakłady Place zaczynają działać, gdy jest punkt.
 99f4934	LUCKY ACE 7s  •  WYPŁATY DO 2500× ZAKŁADU NA LINIĘ
 48ddc95	AUTO OBRÓT
-3848f78	Film {0} z {1}
-d87409f	Nagroda przepadła: filmy trzeba obejrzeć do końca.
-14dcbe4	+{0}% energii
-330037c	{0} rozdań z {1}% szczęścia
-ff24786	OBEJRZYJ REKLAMY
-375d55d	1–3 krótkie filmy
-f187dbf	OBEJRZYJ
-64d31ad	OBEJRZYJ 1 REKLAMĘ?
-e77d414	OBEJRZYJ {0} REKLAMY?
-8707135	Obejrzyj 1 film do końca, aby otrzymać {0}. Jeśli przerwiesz wcześniej, nagroda przepadnie.
-88f8727	Obejrzyj {0} filmy do końca, aby otrzymać {1}. Jeśli przerwiesz wcześniej, nagroda przepadnie.
-7196e7c	START
-b967bda	NIE TERAZ
-b10888c	Zdobyto nagrodę: {0}!
+c319724	Żetony się skończyły! Podejdź do kasy, żeby dostać więcej.
+4100521	Przypomnienia o serii
+9543087	Chcesz przypomnienie w wieczory, w które jeszcze nie grasz, żeby seria się nie urwała? Nigdy nie więcej niż to, a wyłączyć można w Ustawieniach.
+3eb5ca2	Kup żetony, żeby grać dalej.
+844f74b	Wieczorne przypomnienie, zanim seria się skończy.

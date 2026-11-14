@@ -61,7 +61,6 @@ f76c8fd	Te veel vir my. Jy wen!
 59da99d	Verdubbel! Een kaart kom.
 3fa7769	Raak jy min? Die kassier kan jou aanvul.
 4e5694b	Die skyfies raak min. Wil jy meer kry?
-d41f057	Skyfies op! Besoek die kassier of kry gratis skyfies.
 15d90d3	Jou stapel is leeg. Die kassier is net agter jou.
 a9eaae1	Jy lyk uitgeput! Kry iets te ete by die kroeg.
 5cd9e8b	Loop jy op leeg? Die kroeg help jou reg.
@@ -162,14 +161,6 @@ b5b9597	{0} DAE OP 'N RY!
 1998202	{0}: {1} hande teen {2}% geluk, ná beginnersgeluk
 728ada5	{0}: {1} hande teen {2}% geluk!
 af5e232	{0}: +{1}% energie
-001a53b	Nie op hierdie toestel beskikbaar nie
-2607004	Video's kan nie op hierdie netwerk laai nie
-569c30d	Kom môre terug
-ecae6ee	Gereed oor {0}s
-9964820	+{0} skyfies ({1} oor vandag)
-e1bd888	+{0} gratis skyfies!
-619bd5d	+1 streepbevriesing!
-f70d794	Geen video op die oomblik beskikbaar nie. Probeer weer oor 'n rukkie.
 264d71b	BRONS
 462e839	SILWER
 81ff70a	GOUD
@@ -180,9 +171,6 @@ a42f608	Kontroleer jou streek...
 1db422c	Nie geverifieer nie ({0}): standaardpryse
 9bc0807	{0} ({1}): pryse in {2}
 ae8c393	Herinneringe
-aefd59b	Gratis skyfies gereed en streepherinneringe
-3125838	Jou gratis skyfies is gereed
-233027b	{0} skyfies wag vir jou by Lucky Ace.
 b93976b	Hou jou streep van {0} dae
 0acfb6f	Welkom! Beginnersgeluk is vanaand aan jou kant. Plaas 'n weddenskap!
 b700b02	WEDDENSKAP
@@ -205,9 +193,6 @@ bf07c14	Versekering betaal {0}
 822f4f4	Beginnersgeluk is verby. Van nou af is dit gewone blackjack.
 b0377c7	Jou Gelukstreep is verby. Terug na gewone blackjack.
 824ad7c	SKYFIES OP
-ff1822d	Kyk 'n kort video vir {0} gratis skyfies, of besoek die kassier.
-e4cac2f	Besoek die kassier om jou skyfies aan te vul.
-c3df3e7	GRATIS SKYFIES
 b169d33	KASSIER
 4d38f66	LATER
 cb8171b	Voltooi eers hierdie hand.
@@ -225,7 +210,6 @@ c3a8946	VERSTAAN
 4035996	DAAGLIKSE STREEP
 fbe7f18	DAE OP 'N RY
 7a46866	VANDAG
-4753707	KYK ADVERTENSIE
 6bb45f3	KOOP
 62a945f	STREEPBEVRIESING
 ba5b1de	'n Streepbevriesing hou jou streep lewendig op 'n dag wat jy nie speel nie. Jy kan tot {0} hou.\n\nKoop een vir {1} skyfies?
@@ -245,7 +229,6 @@ f757137	VANDAG SE SENDINGS
 bb92856	Streepbevriesings: {0} / {1}
 0ec6216	Red jou streep op 'n dag wat jy mis. +1 elke 7 dae.
 cc0a745	VOL
-419a962	GEEN VIDEO
 f12e166	Streepbonus: pryse ×{0}
 80948a4	Een gratis draai elke dag
 03a0f2a	Nuwe sendings om middernag.
@@ -256,16 +239,8 @@ f12e166	Streepbonus: pryse ×{0}
 d00d221	Net 18+  •  Skyfies is vir pret: geen kontantwaarde nie, nooit ruilbaar vir geld of pryse nie
 b60f038	Die deure gaan oop...
 2e5bcce	Welkom! Jou {0} welkomskyfies is gereed. Die tafels is reg voor!
-7ef7ae3	+{0} gratis skyfies! Meer oor {1} uur.
-5d82af9	Gratis skyfies word elke {0} uur hervul. Volgende oor {1}.
-5469985	{0}u {1}m
-bb65beb	{0}m {1}s
 ac8ba93	HOU JOU STREEP
-560bfa1	Wil jy 'n herinnering op aande wat jy nog nie gespeel het nie, en wanneer jou gratis skyfies gereed is? Nooit meer as dit nie, en jy kan dit in Instellings afskakel.
 b724a40	HERINNER MY
-9e0c898	+{0} skyfies gereed!
-1207e28	Kyk 'n video: {0}
-db3655b	Volgende gratis skyfies oor {0}
 4ca9be5	BLACKJACK
 9a612b1	4 tafels  •  betaal 3 tot 2
 1194439	SLOTMASJIENE
@@ -335,7 +310,6 @@ da46447	CASINOPERSONEEL
 69d3313	MANS
 b4325d3	GEMENG
 414594a	HERINNERINGE
-6cac87b	Gratis skyfies gereed, en 'n aandpor voordat 'n streep sou eindig.
 e43b2e0	KONTROLEER WEER
 7c9e8f9	PRYSSTREEK
 495c70e	Vinnigste: die casino soos geverf, niks ekstra nie.
@@ -406,8 +380,6 @@ ce80712	wen sowat {0}% daarvan
 c69e8ee	LUCKY ACE 7s
 fc99288	TOTALE WEDDENSKAP
 3930abd	SUKSES!
-67b6973	Jy het minstens 10 skyfies nodig om te draai.
-5aa1edb	KRY SKYFIES
 f5a1812	Weddenskap verlaag na wat jy kan dek.
 5c63f61	MEGAWEN!
 652544f	GROOT WEN!
@@ -605,7 +577,6 @@ e1ae457	Mateo
 7aa2d07	Enzo
 daad514	PRAAT MET DIE GASHEER
 781246e	Kies 'n skyfie en tik dan op Speler, Bank of Gelykop
-2dabd99	ADVERT BINNEKORT
 c1c00cd	UITBETALINGS
 28d6be8	WED {0}+
 b4f938b	SPEEL SLOTMASJIENE
@@ -658,17 +629,8 @@ eea0d12	UITDELER MOET OP 17 STAAN
 1920e2f	Eerste gooi: wed op die Pass Line, en gooi dan. 7 of 11 wen; 2, 3 of 12 verloor. Place-weddenskappe begin werk sodra daar 'n punt is.
 99f4934	LUCKY ACE 7s  •  BETAAL TOT 2 500× JOU LYNWEDDENSKAP
 48ddc95	OUTODRAAI
-3848f78	Video {0} van {1}
-d87409f	Prys verloor: die videos moet heeltemal deurgekyk word.
-14dcbe4	+{0}% energie
-330037c	{0} hande teen {1}% geluk
-ff24786	KYK ADVERTENSIES
-375d55d	1 tot 3 kort videos
-f187dbf	KYK
-64d31ad	KYK 1 ADVERT?
-e77d414	KYK {0} ADVERTENSIES?
-8707135	Kyk 1 video heeltemal deur om {0} te kry. As jy vroeg stop, gaan die prys verlore.
-88f8727	Kyk {0} videos heeltemal deur om {1} te kry. As jy vroeg stop, gaan die prys verlore.
-7196e7c	BEGIN
-b967bda	NIE NOU NIE
-b10888c	Prys gewen: {0}!
+c319724	Geen skyfies meer! Loop by die kassier om meer te kry.
+4100521	Streepherinneringe
+9543087	Wil jy 'n herinnering hê op aande wat jy nog nie gespeel het nie, sodat jou streep nie eindig nie? Nooit meer as dit nie, en jy kan dit in Instellings afskakel.
+3eb5ca2	Koop skyfies om aan die speel te bly.
+844f74b	'n Aandherinnering voor 'n streep sou eindig.

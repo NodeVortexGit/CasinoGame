@@ -9,15 +9,15 @@ using Unity.Notifications.Android;
 namespace Casino.Platform
 {
     /// <summary>
-    /// Local reminders on Android (Unity Mobile Notifications): "your free chips are ready", and on the evening a streak
-    /// would end, a nudge to keep it. Never more than these two are scheduled, Android asks the player's permission
-    /// first, and they can be switched off in Settings. They are scheduled when the game goes to the background and
-    /// cleared when it comes back, so none ever arrives while playing.
+    /// Local reminder on Android (Unity Mobile Notifications): on the evening a streak would end, a nudge to keep it.
+    /// Never more than this one is scheduled, Android asks the player's permission first, and it can be switched off in
+    /// Settings. It is scheduled when the game goes to the background and cleared when it comes back, so none ever
+    /// arrives while playing.
     /// </summary>
     public static class Reminders
     {
         const string Channel = "lucky_ace_reminders";
-        const int BonusId = 1001, StreakId = 1002;
+        const int StreakId = 1002;
         const int EveningHour = 19;
 
 #if UNITY_ANDROID && !UNITY_EDITOR
@@ -28,7 +28,7 @@ namespace Casino.Platform
             if (initialized) return true;
             if (!AndroidNotificationCenter.Initialize()) return false;
             AndroidNotificationCenter.RegisterNotificationChannel(new AndroidNotificationChannel(Channel, Loc.Plain("Reminders"),
-                Loc.Plain("Free chips ready and streak reminders"), Importance.Default));
+                Loc.Plain("Streak reminders"), Importance.Default));
             initialized = true;
             return true;
         }
@@ -68,11 +68,6 @@ namespace Casino.Platform
             if (!save.remindersEnabled || !Init() || AndroidNotificationCenter.UserPermissionToPost != PermissionStatus.Allowed) return;
             var p = app.Progress;
             var now = DateTime.Now;
-
-            var bonusAt = new DateTime(save.bonusReadyUtcTicks, DateTimeKind.Utc).ToLocalTime();
-            if (bonusAt > now.AddMinutes(1))
-                Send(BonusId, Loc.Plain("Your free chips are ready"),
-                    Loc.PlainF("{0} chips are waiting for you at Lucky Ace.", ChipFormat.Full(p.BonusAmount)), bonusAt);
 
             int streak = p.Streak.Count;
             if (streak > 0)

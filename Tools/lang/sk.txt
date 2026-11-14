@@ -64,7 +64,6 @@ f76c8fd	Priveľa pre mňa. Vyhrávaš!
 0b48017	Nová topánka, miešam!
 3fa7769	Dochádzajú ti? Pokladňa ti doplní.
 4e5694b	Žetónov ubúda. Chceš ďalšie?
-d41f057	Žetóny sa minuli! Zájdi do pokladne alebo si zober žetóny zadarmo.
 15d90d3	Tvoj stĺpik je prázdny. Pokladňa je hneď za tebou.
 a9eaae1	Vyzeráš vyčerpane! Daj si niečo na bare.
 5cd9e8b	Ideš na rezervu? Bar sa o teba postará.
@@ -175,14 +174,6 @@ b5b9597	SÉRIA: {0} DNÍ!
 1998202	{0}: rúk {1} s {2} % šťastia, po šťastí začiatočníka
 728ada5	{0}: rúk {1} s {2} % šťastia!
 af5e232	{0}: +{1} % energie
-001a53b	Na tomto zariadení nie je dostupné
-2607004	Videá sa v tejto sieti nenačítajú
-569c30d	Vráť sa zajtra
-ecae6ee	Pripravené o {0} s
-9964820	+{0} žetónov (dnes zostáva {1})
-e1bd888	+{0} žetónov zadarmo!
-619bd5d	+1 zmrazenie série!
-f70d794	Momentálne nie je k dispozícii žiadne video. Skús to o chvíľu.
 264d71b	BRONZ
 462e839	STRIEBRO
 81ff70a	ZLATO
@@ -197,9 +188,6 @@ a42f608	Zisťujeme tvoj región...
 1db422c	Neoverené ({0}): štandardné ceny
 9bc0807	{0} ({1}): ceny v {2}
 ae8c393	Pripomienky
-aefd59b	Žetóny zadarmo pripravené a pripomienky série
-3125838	Tvoje žetóny zadarmo sú pripravené
-233027b	V Lucky Ace na teba čaká {0} žetónov.
 b93976b	Udrž si sériu (dní: {0})
 bd68038	Zahraj si dnes kolá ({0}), aby sa o polnoci nevynulovala.
 0acfb6f	Vitaj! Šťastie začiatočníka je dnes na tvojej strane. Vsaď si!
@@ -230,9 +218,6 @@ b6e674a	Krupiér nemá blackjack. Poistenie prepadlo.
 822f4f4	Šťastie začiatočníka skončilo. Odteraz je to štandardný blackjack.
 b0377c7	Tvoja Šťastná séria skončila. Späť k štandardnému blackjacku.
 824ad7c	ŽETÓNY SA MINULI
-ff1822d	Pozri si krátke video za {0} žetónov zadarmo, alebo zájdi do pokladne.
-e4cac2f	Zájdi do pokladne a doplň si žetóny.
-c3df3e7	ŽETÓNY ZADARMO
 b169d33	POKLADŇA
 4d38f66	NESKÔR
 cb8171b	Najprv dohraj túto ruku.
@@ -253,7 +238,6 @@ c3a8946	ROZUMIEM
 4035996	DENNÁ SÉRIA
 fbe7f18	DNÍ ZA SEBOU
 7a46866	DNES
-4753707	POZRIEŤ REKLAMU
 6bb45f3	KÚPIŤ
 62a945f	ZMRAZENIE SÉRIE
 ba5b1de	Zmrazenie série udrží tvoju sériu nažive v deň, keď nehráš. Môžeš ich mať až {0}.\n\nKúpiť jedno za {1} žetónov?
@@ -273,8 +257,6 @@ f757137	DNEŠNÉ MISIE
 bb92856	Zmrazenia série: {0} / {1}
 0ec6216	Zachráň sériu v deň, ktorý vynecháš. +1 každých 7 dní.
 cc0a745	PLNÉ
-419a962	ŽIADNE VIDEO
-2dabd99	REKLAMA ČOSKORO
 f12e166	Bonus za sériu: výhry ×{0}
 80948a4	Jedno roztočenie zadarmo každý deň
 596b5e0	ĎALŠIE  {0}
@@ -287,16 +269,8 @@ f12e166	Bonus za sériu: výhry ×{0}
 d00d221	Iba 18+  •  Žetóny sú pre zábavu: žiadna peňažná hodnota, nikdy ich nemožno vymeniť za peniaze ani ceny
 b60f038	Otvárame dvere...
 2e5bcce	Vitaj! Tvojich {0} uvítacích žetónov je pripravených. Stoly sú priamo pred tebou!
-7ef7ae3	+{0} žetónov zadarmo! Ďalšie o {1} h.
-5d82af9	Žetóny zadarmo sa dopĺňajú každých {0} h. Ďalšie o {1}.
-5469985	{0} h {1} min
-bb65beb	{0} min {1} s
 ac8ba93	UDRŽ SI SÉRIU
-560bfa1	Chceš pripomienku večer, keď si ešte nehral, a keď budú žetóny zadarmo pripravené? Nikdy viac než to a v Nastaveniach to môžeš vypnúť.
 b724a40	PRIPOMEŇ MI TO
-9e0c898	+{0} žetónov pripravených!
-1207e28	Pozri si video: {0}
-db3655b	Ďalšie žetóny zadarmo o {0}
 4ca9be5	BLACKJACK
 9a612b1	4 stoly  •  vypláca 3 ku 2
 1194439	AUTOMATY
@@ -369,7 +343,6 @@ da46447	OBSLUHA KASÍNA
 69d3313	MUŽI
 b4325d3	ZMIEŠANÁ
 414594a	PRIPOMIENKY
-6cac87b	Žetóny zadarmo pripravené a večerné postrčenie predtým, než by séria skončila.
 e43b2e0	SKONTROLOVAŤ ZNOVA
 7c9e8f9	CENOVÝ REGIÓN
 495c70e	Najrýchlejšie: kasíno, ako je namaľované, nič navyše.
@@ -444,8 +417,6 @@ c69e8ee	LUCKY ACE 7s
 fc99288	CELKOVÁ STÁVKA
 c1c00cd	VÝHERNÁ TABUĽKA
 3930abd	VEĽA ŠŤASTIA!
-67b6973	Na roztočenie potrebuješ aspoň 10 žetónov.
-5aa1edb	ZÍSKAŤ ŽETÓNY
 f5a1812	Stávka znížená na sumu, ktorú pokryješ.
 5c63f61	MEGA VÝHRA!
 652544f	VEĽKÁ VÝHRA!
@@ -658,17 +629,8 @@ e1ae457	Mateo
 1920e2f	Úvodný hod: stav na Pass Line a hoď. 7 alebo 11 vyhráva, 2, 3 alebo 12 prehráva. Stávky Place začínajú platiť, keď je bod.
 99f4934	LUCKY ACE 7s  •  VYPLÁCA AŽ 2 500× TVOJU STÁVKU NA LÍNIU
 48ddc95	AUTOMATICKY
-3848f78	Video {0} z {1}
-d87409f	Cena prepadla: videá treba pozrieť až do konca.
-14dcbe4	+{0} % energie
-330037c	rúk {0} s {1} % šťastia
-ff24786	POZRIEŤ VIDEÁ
-375d55d	1 až 3 krátke videá
-f187dbf	POZRIEŤ
-64d31ad	POZRIEŤ 1 VIDEO?
-e77d414	POZRIEŤ {0} VIDEÁ?
-8707135	Pozri si 1 video až do konca a získaš {0}. Ak skončíš skôr, cena prepadne.
-88f8727	Pozri si {0} videá až do konca a získaš {1}. Ak skončíš skôr, cena prepadne.
-7196e7c	SPUSTIŤ
-b967bda	NIE TERAZ
-b10888c	Vyhraná cena: {0}!
+c319724	Žetóny sú preč! Choď k pokladni pre ďalšie.
+4100521	Pripomienky sérií
+9543087	Chceš pripomienku vo večeroch, keď si ešte nehral, aby ti séria neskončila? Nikdy nie viac než to a vypnúť ju môžeš v Nastaveniach.
+3eb5ca2	Kúp žetóny a hraj ďalej.
+844f74b	Večerná pripomienka pred tým, ako séria skončí.

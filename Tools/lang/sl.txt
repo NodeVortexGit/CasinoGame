@@ -64,7 +64,6 @@ f76c8fd	Preveč zame. Zmagaš!
 0b48017	Nov čevelj, mešam!
 3fa7769	Ti zmanjkuje? Blagajna te napolni.
 4e5694b	Žetonov je vse manj. Bi jih še?
-d41f057	Žetonov ni več! Pojdi na blagajno ali vzemi brezplačne žetone.
 15d90d3	Tvoj kup je prazen. Blagajna je tik za tabo.
 a9eaae1	Videti si izčrpan! Pojej kaj v baru.
 5cd9e8b	Voziš na rezervo? Bar poskrbi zate.
@@ -175,14 +174,6 @@ b5b9597	NIZ: {0} DNI!
 1998202	{0}: rok {1} z {2} % sreče, po sreči začetnika
 728ada5	{0}: rok {1} z {2} % sreče!
 af5e232	{0}: +{1} % energije
-001a53b	Na tej napravi ni na voljo
-2607004	Videi se v tem omrežju ne naložijo
-569c30d	Vrni se jutri
-ecae6ee	Pripravljeno čez {0} s
-9964820	+{0} žetonov (danes še {1})
-e1bd888	+{0} brezplačnih žetonov!
-619bd5d	+1 zamrznitev niza!
-f70d794	Trenutno ni na voljo nobenega videa. Poskusi znova čez trenutek.
 264d71b	BRON
 462e839	SREBRO
 81ff70a	ZLATO
@@ -197,9 +188,6 @@ a42f608	Preverjamo tvojo regijo...
 1db422c	Ni preverjeno ({0}): standardne cene
 9bc0807	{0} ({1}): cene v {2}
 ae8c393	Opomniki
-aefd59b	Brezplačni žetoni pripravljeni in opomniki niza
-3125838	Tvoji brezplačni žetoni so pripravljeni
-233027b	V Lucky Ace te čaka {0} žetonov.
 b93976b	Ohrani svoj niz (dni: {0})
 bd68038	Odigraj danes kroge ({0}), da se opolnoči ne ponastavi.
 0acfb6f	Dobrodošel! Sreča začetnika je nocoj na tvoji strani. Postavi stavo!
@@ -230,9 +218,6 @@ b6e674a	Delivec nima blackjacka. Zavarovanje izgubljeno.
 822f4f4	Sreča začetnika je mimo. Od zdaj je standardni blackjack.
 b0377c7	Tvoj Srečni niz je mimo. Nazaj na standardni blackjack.
 824ad7c	ŽETONOV NI VEČ
-ff1822d	Poglej kratek video za {0} brezplačnih žetonov ali pojdi na blagajno.
-e4cac2f	Pojdi na blagajno in napolni žetone.
-c3df3e7	BREZPLAČNI ŽETONI
 b169d33	BLAGAJNA
 4d38f66	KASNEJE
 cb8171b	Najprej dokončaj to roko.
@@ -253,7 +238,6 @@ c3a8946	RAZUMEM
 4035996	DNEVNI NIZ
 fbe7f18	DNI ZAPORED
 7a46866	DANES
-4753707	POGLEJ OGLAS
 6bb45f3	KUPI
 62a945f	ZAMRZNITEV NIZA
 ba5b1de	Zamrznitev niza ohrani tvoj niz živ na dan, ko ne igraš. Imaš jih lahko do {0}.\n\nKupiš eno za {1} žetonov?
@@ -273,8 +257,6 @@ f757137	DANAŠNJE MISIJE
 bb92856	Zamrznitve niza: {0} / {1}
 0ec6216	Reši niz na dan, ko ga zamudiš. +1 vsakih 7 dni.
 cc0a745	POLNO
-419a962	NI VIDEA
-2dabd99	OGLAS KMALU
 f12e166	Bonus niza: nagrade ×{0}
 80948a4	En brezplačen vrtljaj vsak dan
 596b5e0	NASLEDNJI  {0}
@@ -287,16 +269,8 @@ f12e166	Bonus niza: nagrade ×{0}
 d00d221	Samo 18+  •  Žetoni so za zabavo: brez denarne vrednosti, nikoli jih ni mogoče zamenjati za denar ali nagrade
 b60f038	Odpiramo vrata...
 2e5bcce	Dobrodošel! Tvojih {0} žetonov dobrodošlice je pripravljenih. Mize so naravnost naprej!
-7ef7ae3	+{0} brezplačnih žetonov! Več čez {1} ur.
-5d82af9	Brezplačni žetoni se napolnijo vsakih {0} ur. Naslednji čez {1}.
-5469985	{0} h {1} min
-bb65beb	{0} min {1} s
 ac8ba93	OHRANI SVOJ NIZ
-560bfa1	Želiš opomnik ob večerih, ko še nisi igral, in ko so brezplačni žetoni pripravljeni? Nikoli več kot to, izklopiš pa ga lahko v Nastavitvah.
 b724a40	OPOMNI ME
-9e0c898	+{0} žetonov pripravljenih!
-1207e28	Poglej video: {0}
-db3655b	Naslednji brezplačni žetoni čez {0}
 4ca9be5	BLACKJACK
 9a612b1	4 mize  •  izplača 3 proti 2
 1194439	AVTOMATI
@@ -369,7 +343,6 @@ da46447	OSEBJE IGRALNICE
 69d3313	MOŠKI
 b4325d3	MEŠANO
 414594a	OPOMNIKI
-6cac87b	Brezplačni žetoni pripravljeni in večerni opomnik, preden bi se niz končal.
 e43b2e0	PREVERI ZNOVA
 7c9e8f9	CENOVNA REGIJA
 495c70e	Najhitreje: igralnica, kot je naslikana, nič dodatnega.
@@ -444,8 +417,6 @@ c69e8ee	LUCKY ACE 7s
 fc99288	SKUPNA STAVA
 c1c00cd	TABELA IZPLAČIL
 3930abd	SREČNO!
-67b6973	Za vrtljaj potrebuješ vsaj 10 žetonov.
-5aa1edb	DOBI ŽETONE
 f5a1812	Stava znižana na znesek, ki ga lahko pokriješ.
 5c63f61	MEGA ZMAGA!
 652544f	VELIKA ZMAGA!
@@ -658,17 +629,8 @@ e1ae457	Mateo
 1920e2f	Začetni met: stavi na Pass Line in vrzi. 7 ali 11 zmaga, 2, 3 ali 12 izgubi. Stave Place začnejo veljati, ko je točka.
 99f4934	LUCKY ACE 7s  •  IZPLAČA DO 2.500× TVOJE STAVE NA LINIJO
 48ddc95	SAMODEJNO
-3848f78	Video {0} od {1}
-d87409f	Nagrada propadla: videe je treba pogledati do konca.
-14dcbe4	+{0} % energije
-330037c	Rok: {0}, sreča {1} %
-ff24786	OGLEJ SI VIDEE
-375d55d	1 do 3 kratki videoposnetki
-f187dbf	OGLEJ
-64d31ad	OGLEJ SI 1 VIDEO?
-e77d414	OGLEJ SI {0} VIDEOPOSNETKE?
-8707135	Oglej si 1 video do konca, da dobiš {0}. Če prej nehaš, nagrada propade.
-88f8727	Oglej si {0} videe do konca, da dobiš {1}. Če prej nehaš, nagrada propade.
-7196e7c	ZAČNI
-b967bda	NE ZDAJ
-b10888c	Nagrada osvojena: {0}!
+c319724	Žetoni so pošli! Pojdi k blagajni po več.
+4100521	Opomniki za nize
+9543087	Želiš opomnik zvečer, ko še nisi igral, da se tvoj niz ne konča? Nikoli več od tega, izklopiš pa ga lahko v Nastavitvah.
+3eb5ca2	Kupi žetone in igraj naprej.
+844f74b	Večerni opomnik, preden se niz konča.

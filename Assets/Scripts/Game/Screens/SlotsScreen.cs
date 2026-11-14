@@ -236,8 +236,7 @@ namespace Casino.Screens
                 while (betIndex > 0 && SlotMachine.BetOptions[betIndex] > App.I.Wallet.Balance) betIndex--;
                 ChangeBet(0);
                 if (App.I.Wallet.Balance < SlotMachine.BetOptions[0])
-                    App.I.UI.Modal<ConfirmModal>(m => m.Setup(Loc.T("OUT OF CHIPS"), Loc.T("You need at least 10 chips to spin."), Loc.T("GET CHIPS"),
-                        () => App.I.UI.Modal<ShopModal>(s => s.StartTab = ShopTab.Chips), Loc.T("LATER")));
+                    ChipOffer.Show();
                 else App.I.UI.Toast(Loc.T("Bet lowered to what you can cover."), Palette.TextMuted, Icon.Coin);
                 return;
             }

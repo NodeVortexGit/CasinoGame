@@ -6,20 +6,16 @@ using UnityEngine;
 namespace Casino.EditorTools
 {
     /// <summary>
-    /// Turns the optional store / ad integrations on and off via scripting define symbols. Install the matching package
-    /// first (see README), then tick it here. Unticked, the game uses the simulated store and ads in development builds.
+    /// Turns the optional store integrations on and off via scripting define symbols. Install the matching package
+    /// first (see README), then tick it here. Unticked, the game uses the simulated store in development builds.
     /// </summary>
     public static class CasinoIntegrations
     {
         const string IapMenu = "Casino/Integrations/Unity IAP (Google Play)";
-        const string AdMobMenu = "Casino/Integrations/AdMob Rewarded Ads (Android)";
         const string SteamMenu = "Casino/Integrations/Steamworks (Windows + Linux)";
 
         [MenuItem(IapMenu)] static void ToggleIap() => Toggle(NamedBuildTarget.Android, "CASINO_UNITY_IAP");
         [MenuItem(IapMenu, true)] static bool CheckIap() => Check(IapMenu, NamedBuildTarget.Android, "CASINO_UNITY_IAP");
-
-        [MenuItem(AdMobMenu)] static void ToggleAdMob() => Toggle(NamedBuildTarget.Android, "CASINO_ADMOB");
-        [MenuItem(AdMobMenu, true)] static bool CheckAdMob() => Check(AdMobMenu, NamedBuildTarget.Android, "CASINO_ADMOB");
 
         [MenuItem(SteamMenu)] static void ToggleSteam() => Toggle(NamedBuildTarget.Standalone, "CASINO_STEAMWORKS");
         [MenuItem(SteamMenu, true)] static bool CheckSteam() => Check(SteamMenu, NamedBuildTarget.Standalone, "CASINO_STEAMWORKS");

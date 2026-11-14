@@ -20,8 +20,8 @@ Previews of the generated art, the 3D casino and the adaptive music are in `Docs
    `Unity -batchmode -quit -projectPath . -executeMethod Casino.EditorTools.CasinoBuild.Linux`.
    For Android, see "Android builds" below.
 
-In the Editor and in development builds, purchases and ads are **simulated** (a confirmation dialog and a 5-second
-placeholder). No money changes hands.
+In the Editor and in development builds, purchases are **simulated** (a confirmation dialog). No money changes hands.
+The game has no ads.
 
 ## What's in the game
 
@@ -42,26 +42,25 @@ placeholder). No money changes hands.
 | Craps: Pass and Don't Pass with a point, free Odds behind the Pass Line at true odds (3-4-5×), the Field, Place bets, and one-roll bets; Pass edge ≈1.4% | `Core/Dice/Craps.cs`, `Screens/CrapsScreen.cs` |
 | Sic bo: Small/Big and Odd/Even at 1:1 (2.8% edge, the best bets on the table), totals, doubles, triples and single-die bets; every bet's edge is exact over the 216 rolls | `Core/Dice/SicBo.cs`, `Screens/SicBoScreen.cs` |
 | Video poker "Jacks or Better", full-pay 9/6: five cards, hold any, draw once; ≈99.5% back with perfect play — skill matters | `Core/VideoPoker/VideoPoker.cs`, `Screens/VideoPokerScreen.cs` |
-| 1,000 free starting chips; rewarded ads for +250 chips (12/day, 90 s cooldown) | `GameConfig.cs`, `Purchases.cs` |
+| 1,000 free starting chips; no ads | `GameConfig.cs`, `Purchases.cs` |
 | Chip packs and food/drinks for real money, priced per country | `Core/Economy/*`, `Screens/ShopModal.cs` |
 | Energy bar: drains while playing (45 min), refills slowly while away (8 h), food refills it instantly | `Core/Player/EnergyModel.cs` |
 | Adaptive music: bigger bets (absolute, relative to the table, relative to bankroll) make it faster and harder | `Core/Player/MusicIntensity.cs`, `Audio/SynthEngine.cs` |
 | Dealers plead "one more hand" when you leave a table, more insistently each time; LEAVE is always on screen and is also what Back and a controller's first focus do | `Screens/BlackjackScreen.cs` (`PersuasionModal`) |
 | Beginner's Luck welcome boost (see below) | `Core/Blackjack/DrawStrategies.cs`, `Core/Player/BeginnerLuck.cs` |
 | **Lucky Streak** (real money): after Beginner's Luck, packs of blackjack hands at a fixed boost (25 hands at 20%, 50 at 30%) on bets up to 1,000 chips, shown on screen with the expected win rate; offered once when Beginner's Luck ends, and in the shop's Luck tab | `Core/Player/LuckBoost.cs`, `Screens/ShopModal.cs` |
-| **Daily streak** (Duolingo style): a 🔥 counter that grows on each day you play 10 rounds of anything; streak freezes cover a missed day (one earned every 7 days, one per rewarded video, or bought with chips); the staff tease you about it, Duolingo style; milestone rewards at 3, 7, 14, 30… days | `Core/Player/Progression.cs`, `UI/Widgets/ProgressWidgets.cs` |
-| **Daily bonus wheel**: one free spin a day, prizes grow with the streak (up to ×2); the chance of every prize is printed under the wheel | `Screens/DailyModal.cs` |
-| **Free chips every 3 hours**, no ad needed (the fallback when ads are blocked) | `Game/Progress.cs`, `Screens/LobbyScreen.cs` |
+| **Daily streak** (Duolingo style): a 🔥 counter that grows on each day you play 10 rounds of anything; streak freezes cover a missed day (one earned every 7 days, or bought with chips); the staff tease you about it, Duolingo style; milestone rewards at 3, 7, 14, 30… days | `Core/Player/Progression.cs`, `UI/Widgets/ProgressWidgets.cs` |
+| **Daily bonus wheel**: one free spin a day for 50 to 1,000 chips, prizes grow with the streak (up to ×2); the chance of every prize is printed under the wheel | `Screens/DailyModal.cs` |
 | **Levels and XP**: XP per round played (never per amount bet); level-ups pay chips and unlock the Silver (3), Gold (6) and Diamond (10) tables | `Core/Player/Progression.cs` |
-| **Daily missions**: three a day, one per game, with chip and XP rewards and a bonus for finishing all three | `Core/Player/Progression.cs` |
-| **Reminders** (Android, opt-in): "free chips ready" and an evening nudge before a streak would end; at most two, never while playing, off switch in Settings | `Platform/Reminders.cs` |
+| **Daily missions**: three a day, one per game, with small chip rewards (40 to 100) plus XP and a 150-chip bonus for finishing all three | `Core/Player/Progression.cs` |
+| **Reminders** (Android, opt-in): an evening nudge before a streak would end; at most one, never while playing, off switch in Settings | `Platform/Reminders.cs` |
 | **Controllers**: Xbox, PlayStation and Nintendo-style pads (USB or Bluetooth) through Unity's Input System; the family is detected for button names, and Nintendo pads confirm with A on the right. Left stick walks, right stick looks, D-pad moves between any buttons (HUD and the 3D tables), Menu opens Settings. On-screen hints, which can be turned off | `Platform/Pad.cs`, `UI/PadNavigator.cs` |
 | **Vibration**: phone (Android vibrator, with strength) and controller rumble; Auto moves it to the controller while one is connected; separate on/off and strength for each. Only taps, wins and warnings vibrate, never losses | `Platform/Haptics.cs` |
 | **Graphics quality = realism, then cinema**: each step up adds to the one below. Low is the baked look on its own; Medium makes polished marble, wood, lacquer and gold reflect the room; High is the film look: 2× texture detail, pools of light on the floor and soft beams of light coming down through a faint haze, HDR bloom with filmic tone mapping, a film grade (cool shadows, warm highlights, gentle S-curve), grain and a vignette, and staff lit by the lamp above them with warm light under the skin and the casino glinting in their eyes; Ultra is the cinema camera: depth of field with an autofocus that pulls smoothly to the person or game you are about to use, or else to whatever you look at (the room melts away behind a face or the cards), anamorphic lens streaks on neon and bulbs, faint colour fringes at the frame edges, dust glinting in the beams, a slight handheld drift, 4× texture detail, sharper reflections, a finer, wider bloom and everyone animated however far away | `World/CasinoWorld.Look.cs`, `World/WorldPost.cs`, `Resources/Shaders` |
 | **Settings** tabs: General, Graphics (quality, resolution, anti-aliasing, 30/60/120 FPS, field of view, FPS counter, window mode and v-sync on computers), Sound (master, music, effects, staff voices, mute in background), Touch (sensitivity, invert X/Y), Controller (only once one is detected: layout, stick sensitivity, invert X/Y, hints) and Vibration | `Screens/SettingsModal.cs` |
 | **89 languages**: the whole game is translated; the language follows the device (or Steam) language, matching region variants, and a picker in Settings > General overrides it. Right-to-left languages are supported, each script gets the right font, and anything missing falls back to English | `Game/Locale/*`, `Tools/lang/`, `Tools/build_locale.py` |
 
-All tunable numbers (prices, energy timings, ad rewards, boost length, ad and Steam IDs) are in `Assets/Scripts/Game/GameConfig.cs`
+All tunable numbers (prices, energy timings, boost length, Steam ID) are in `Assets/Scripts/Game/GameConfig.cs`
 and `Core/Economy/ProductCatalog.cs`.
 
 ### Beginner's Luck (the hook)
@@ -116,24 +115,22 @@ Android builds use the standard tools. Unity exports a Gradle project, and `Tool
 Tools/android_build.sh --export --install --log
 ```
 
-`--export` runs **Casino > Build > Android Gradle project** headless (a test build with the test store and test ads;
+`--export` runs **Casino > Build > Android Gradle project** headless (a test build with the test store;
 add `-release` for a store build). Outputs go to `Builds/Android/`. Store uploads need an upload key
 (Player Settings > Publishing Settings); local builds are signed with the debug key.
 
-## Turning on real stores and ads
+## Turning on real stores
 
 Install the package, then tick the integration under **Casino > Integrations** (this sets a scripting define).
-All three adapters have been compile-checked against the real package APIs. **AdMob is already installed** (OpenUPM
-packages in `Packages/manifest.json`) and switched on for Android: sideload builds show Google's real test ads.
+Both adapters have been compile-checked against the real package APIs. The game has no ads: there is no ad SDK, ad
+permission or ad screen.
 
 | Integration | Package | Define |
 |---|---|---|
 | Google Play billing | Unity IAP 5.x (`com.unity.purchasing`) | `CASINO_UNITY_IAP` |
-| Rewarded ads + GDPR consent | Google Mobile Ads Unity plugin 11.x | `CASINO_ADMOB` |
 | Steam purchases (Windows + Linux) | Steamworks.NET 2025.x | `CASINO_STEAMWORKS` |
 
-- **Google Play:** create the 14 consumable products (IDs in `ProductCatalog.cs`) in Play Console. Replace the AdMob
-  test IDs in `GameConfig` (the build copies the app ID into the AdMob plugin settings and the Android manifest).
+- **Google Play:** create the 14 consumable products (IDs in `ProductCatalog.cs`) in Play Console.
 - **Steam:** purchases use the Steam Inventory Service. Create item definitions 1001–1006 (chips), 2001–2006 (food) and
   3001–3002 (luck packs) with price categories; Steam localises the prices per region. Set `GameConfig.SteamAppId`.
 - **Linux outside Steam** has no payment store, so purchases are disabled in release builds there.
@@ -206,12 +203,12 @@ main screens in those languages too.
 
 - **Receipt validation** on a server before granting purchases (marked `TODO` in `UnityIapStore.cs`). The chip
   balance is stored locally with tamper detection only; a real-money economy should be server-authoritative.
-- **Privacy policy:** location (country only, processed on the device), the IP lookup on desktop, and AdMob data.
+- **Privacy policy:** location (country only, processed on the device), and the IP lookup on desktop.
   Fill in Google Play's **Data safety** form, including approximate location.
 - In Player Settings > Android, tick **Low Accuracy Location** so the app requests approximate rather than precise location.
 - **Age rating:** complete the IARC questionnaire (simulated gambling). Keep the "no cash value" wording; it is
   shown on the age gate, in the lobby footer, and in the shop.
-- Replace the placeholder name, the bundle ID `com.luckyace.casino`, and the test ad and Steam IDs.
+- Replace the placeholder name, the bundle ID `com.luckyace.casino`, and the test Steam ID.
 
 ## Roadmap
 
@@ -227,22 +224,19 @@ main screens in those languages too.
   claims. Beginner's Luck gives the same strong first impression honestly.
 - **"Prefer not to say"** was added as a third gender option (it gives mixed staff), and the staff style can be changed in Settings.
 - **Staff are glamorous, not explicit**: curvy figures in short cocktail dresses (and handsome, fitted suits for the
-  male staff), with hair physics but no chest physics. Google Play's sexual-content rules apply to game characters,
-  and AdMob limits ads in sexually suggestive apps.
+  male staff), with hair physics but no chest physics. Google Play's sexual-content rules apply to game characters.
 - **Staff charm is never used to sell.** Their warm, flirty small talk is kept apart from buy and bet prompts. The one
   place they ask you to keep playing is the dealer's "one more hand" when you leave a table (always on, by the
   owner's choice); LEAVE is always on screen, and Back or a controller's first press leaves.
 - **The comeback systems reward showing up, not spending.** XP comes per round, not per amount bet; the wheel prints
-  its real odds; streak freezes are earned by playing, from a rewarded video, or bought with chips; there is no paid
-  "streak repair"; and reminders are opt-in, at most two, and never sent while playing. Missions never require a
+  its real odds; streak freezes are earned by playing or bought with chips; there is no paid
+  "streak repair"; and reminders are opt-in, at most one, and never sent while playing. Missions never require a
   purchase, and the staff's streak teasing is about showing up, never about betting more, buying or staying.
 - **Paid luck says exactly what it does and is priced like chips.** A Lucky Streak shows its boost, its hands, its
   bet cap and the win rate it gives (measured by simulation and re-checked by the tests), never drops below fair blackjack
   when it ends, and is priced so its expected chips at the cap match what the same money buys as chips (also tested).
   The offer appears once, when Beginner's Luck ends, and a controller's first focus on it is "No thanks".
-- **Ads can be blocked by the player's network** (DNS ad blockers block Google's ad servers). The game detects this,
-  says so, and offers the timed free chips instead. It does not try to get around ad blockers: AdMob forbids it, and
-  it's the player's choice.
+- **There are no ads.** Free chips are small (the daily wheel, missions, level-ups and streak milestones); running out offers the cashier, so there is nothing for an ad blocker to break.
 - **Energy recovers slowly while the game is closed**, so it is never a hard paywall. Set
   `EnergyHoursToFullWhileAway` to 0 to disable this.
 - **The location permission is explained before Android asks for it.** This also serves as Google Play's required

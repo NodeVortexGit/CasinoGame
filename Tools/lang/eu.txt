@@ -64,7 +64,6 @@ f76c8fd	Gehiegi niretzat. Irabazi duzu!
 0b48017	Zapata berria, nahasten!
 3fa7769	Gutxi geratzen? Kutxak beteko zaitu.
 4e5694b	Fitxak urritzen ari dira. Gehiago nahi?
-d41f057	Fitxarik gabe! Joan kutxara edo hartu doako fitxak.
 15d90d3	Zure pila hutsik dago. Kutxa zure atzean dago.
 a9eaae1	Nekatuta zaudela dirudi! Jan zerbait tabernan.
 5cd9e8b	Indarrik gabe? Tabernak zainduko zaitu.
@@ -175,14 +174,6 @@ b5b9597	{0} EGUNEKO BOLADA!
 1998202	{0}: {1} esku %{2} zorterekin, hasiberriaren zortearen ondoren
 728ada5	{0}: {1} esku %{2} zorterekin!
 af5e232	{0}: energia +%{1}
-001a53b	Ez dago erabilgarri gailu honetan
-2607004	Bideoak ezin dira kargatu sare honetan
-569c30d	Itzuli bihar
-ecae6ee	Prest {0} s barru
-9964820	+{0} fitxa (gaur {1} geratzen dira)
-e1bd888	+{0} doako fitxa!
-619bd5d	+1 bolada-izozte!
-f70d794	Ez dago bideorik une honetan. Saiatu berriro pixka bat barru.
 264d71b	BRONTZEA
 462e839	ZILARRA
 81ff70a	URREA
@@ -197,9 +188,6 @@ a42f608	Zure eskualdea egiaztatzen...
 1db422c	Egiaztatu gabe ({0}): prezio estandarrak
 9bc0807	{0} ({1}): prezioak {2}
 ae8c393	Oroigarriak
-aefd59b	Doako fitxak prest eta bolada-oroigarriak
-3125838	Zure doako fitxak prest daude
-233027b	{0} fitxa zure zain Lucky Acen.
 b93976b	Mantendu zure bolada (egunak: {0})
 bd68038	Jokatu gaur txandak ({0}) gauerdian berrabiarazi ez dadin.
 0acfb6f	Ongi etorri! Hasiberriaren zortea zure alde dago gaur. Egin apustu bat!
@@ -230,9 +218,6 @@ b6e674a	Banatzaileak ez du blackjackik. Asegurua galdu da.
 822f4f4	Hasiberriaren zortea amaitu da. Hemendik aurrera blackjack estandarra.
 b0377c7	Zure Zorte-bolada amaitu da. Blackjack estandarrera itzuli gara.
 824ad7c	FITXARIK GABE
-ff1822d	Ikusi bideo labur bat {0} doako fitxa lortzeko, edo joan kutxara.
-e4cac2f	Joan kutxara zure fitxak betetzeko.
-c3df3e7	DOAKO FITXAK
 b169d33	KUTXA
 4d38f66	GERO
 cb8171b	Amaitu lehenik esku hau.
@@ -253,7 +238,6 @@ c3a8946	ULERTUTA
 4035996	EGUNEKO BOLADA
 fbe7f18	EGUN JARRAIAN
 7a46866	GAUR
-4753707	IKUSI IRAGARKIA
 6bb45f3	EROSI
 62a945f	BOLADA-IZOZTEA
 ba5b1de	Izozte batek zure bolada bizirik mantentzen du jolasten ez duzun egun batean. Gehienez {0} izan ditzakezu.\n\nBat erosi {1} fitxaren truke?
@@ -273,8 +257,6 @@ f757137	GAURKO MISIOAK
 bb92856	Bolada-izozteak: {0} / {1}
 0ec6216	Salbatu zure bolada galtzen duzun egun batean. +1 7 egunero.
 cc0a745	BETETA
-419a962	BIDEORIK EZ
-2dabd99	IRAGARKIA LASTER
 f12e166	Bolada-hobaria: sariak ×{0}
 80948a4	Doako biraketa bat egunero
 596b5e0	HURRENGOA  {0}
@@ -287,16 +269,8 @@ f12e166	Bolada-hobaria: sariak ×{0}
 d00d221	18+ soilik  •  Fitxak dibertsiorako dira: diru-baliorik gabe, inoiz ez dira dirutan edo saritan trukatzen
 b60f038	Ateak irekitzen...
 2e5bcce	Ongi etorri! Zure {0} ongietorri-fitxak prest daude. Mahaiak zuzen aurrean daude!
-7ef7ae3	+{0} doako fitxa! Gehiago {1} ordu barru.
-5d82af9	Doako fitxak {0} orduro betetzen dira. Hurrengoak {1} barru.
-5469985	{0} h {1} min
-bb65beb	{0} min {1} s
 ac8ba93	MANTENDU ZURE BOLADA
-560bfa1	Oroigarri bat nahi duzu oraindik jokatu ez duzun arratsaldeetan, eta doako fitxak prest daudenean? Ez gehiago, eta Ezarpenetan desaktiba dezakezu.
 b724a40	GOGORARAZI
-9e0c898	+{0} fitxa prest!
-1207e28	Ikusi bideo bat: {0}
-db3655b	Hurrengo doako fitxak {0} barru
 4ca9be5	BLACKJACK
 9a612b1	4 mahai  •  3 2ren truke ordaintzen du
 1194439	TXANPON-MAKINAK
@@ -369,7 +343,6 @@ da46447	KASINOKO LANGILEAK
 69d3313	GIZONAK
 b4325d3	MISTOA
 414594a	OROIGARRIAK
-6cac87b	Doako fitxak prest, eta arratsaldeko abisu bat bolada amaitu aurretik.
 e43b2e0	EGIAZTATU BERRIRO
 7c9e8f9	PREZIO-ESKUALDEA
 495c70e	Azkarrena: kasinoa margotuta dagoen bezala, ezer gehiagorik ez.
@@ -444,8 +417,6 @@ c69e8ee	LUCKY ACE 7s
 fc99288	APUSTU OSOA
 c1c00cd	SARI-TAULA
 3930abd	ZORTE ON!
-67b6973	Gutxienez 10 fitxa behar dituzu biratzeko.
-5aa1edb	LORTU FITXAK
 f5a1812	Apustua estal dezakezunera jaitsi da.
 5c63f61	MEGA SARIA!
 652544f	SARI HANDIA!
@@ -658,17 +629,8 @@ e1ae457	Mateo
 1920e2f	Irteera-jaurtiketa: egin apustu Pass Line-n eta bota. 7 edo 11-k irabazten du, 2, 3 edo 12-k galtzen du. Place apustuek balio dute puntua dagoenean.
 99f4934	LUCKY ACE 7s  •  ZURE LERRO-APUSTUAREN 2.500× ARTE ORDAINTZEN DU
 48ddc95	AUTOMATIKOA
-3848f78	{0}. bideoa, guztira {1}
-d87409f	Saria galdu da: bideoak amaiera arte ikusi behar dira.
-14dcbe4	+%{0} energia
-330037c	{0} esku %{1} zorterekin
-ff24786	IKUSI IRAGARKIAK
-375d55d	1 eta 3 bideo labur
-f187dbf	IKUSI
-64d31ad	IKUSI 1 IRAGARKI?
-e77d414	IKUSI {0} IRAGARKI?
-8707135	Ikusi bideo 1 amaiera arte {0} lortzeko. Lehenago uzten baduzu, saria galdu egiten da.
-88f8727	Ikusi {0} bideo amaiera arte {1} lortzeko. Lehenago uzten baduzu, saria galdu egiten da.
-7196e7c	HASI
-b967bda	ORAIN EZ
-b10888c	Saria irabazi da: {0}!
+c319724	Fitxak amaitu dira! Joan kutxara gehiago lortzera.
+4100521	Bolada-oroigarriak
+9543087	Nahi duzu oroigarri bat ez duzun oraindik jokatu gauetan, bolada ez amaitzeko? Ez inoiz hortik gora, eta Ezarpenetan itzal dezakezu.
+3eb5ca2	Erosi fitxak jokatzen jarraitzeko.
+844f74b	Arratsaldeko oroigarri bat bolada amaitu aurretik.

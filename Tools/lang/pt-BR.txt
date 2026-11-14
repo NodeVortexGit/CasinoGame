@@ -64,7 +64,6 @@ f76c8fd	Demais pra mim. Você ganhou!
 0b48017	Sapato novo, embaralhando!
 3fa7769	Pouca ficha? A caixa pode te recarregar.
 4e5694b	As fichas estão acabando. Quer pegar mais?
-d41f057	Sem fichas! Vá ao caixa ou pegue fichas grátis.
 15d90d3	Sua pilha acabou. O caixa está logo atrás de você.
 a9eaae1	Você parece exausto! Coma algo no bar.
 5cd9e8b	Sem energia? O bar te ajuda.
@@ -175,14 +174,6 @@ b5b9597	SEQUÊNCIA DE {0} DIAS!
 1998202	{0}: {1} mãos com {2}% de sorte, depois da Sorte de Principiante
 728ada5	{0}: {1} mãos com {2}% de sorte!
 af5e232	{0}: +{1}% de energia
-001a53b	Indisponível neste aparelho
-2607004	Os vídeos não carregam nesta rede
-569c30d	Volte amanhã
-ecae6ee	Pronto em {0} s
-9964820	+{0} fichas (restam {1} hoje)
-e1bd888	+{0} fichas grátis!
-619bd5d	+1 congelamento de sequência!
-f70d794	Nenhum vídeo disponível agora. Tente de novo daqui a pouco.
 264d71b	BRONZE
 462e839	PRATA
 81ff70a	OURO
@@ -197,9 +188,6 @@ a42f608	Verificando sua região...
 1db422c	Não verificado ({0}): preços padrão
 9bc0807	{0} ({1}): preços em {2}
 ae8c393	Lembretes
-aefd59b	Fichas grátis prontas e lembretes de sequência
-3125838	Suas fichas grátis estão prontas
-233027b	{0} fichas estão te esperando no Lucky Ace.
 b93976b	Mantenha sua sequência de {0} dias
 bd68038	Jogue {0} rodadas hoje para ela não zerar à meia-noite.
 0acfb6f	Boas-vindas! A sorte de principiante está do seu lado hoje. Faça uma aposta!
@@ -230,9 +218,6 @@ b6e674a	O crupiê não tem blackjack. Seguro perdido.
 822f4f4	A sorte de principiante acabou. A partir de agora é blackjack padrão.
 b0377c7	Sua Maré de Sorte acabou. De volta ao blackjack padrão.
 824ad7c	SEM FICHAS
-ff1822d	Assista a um vídeo curto por {0} fichas grátis ou vá ao caixa.
-e4cac2f	Vá ao caixa para recarregar suas fichas.
-c3df3e7	FICHAS GRÁTIS
 b169d33	CAIXA
 4d38f66	DEPOIS
 cb8171b	Termine esta mão primeiro.
@@ -253,7 +238,6 @@ c3a8946	ENTENDI
 4035996	SEQUÊNCIA DIÁRIA
 fbe7f18	DIAS SEGUIDOS
 7a46866	HOJE
-4753707	VER ANÚNCIO
 6bb45f3	COMPRAR
 62a945f	CONGELAMENTO DE SEQUÊNCIA
 ba5b1de	Um congelamento mantém sua sequência viva num dia em que você não jogar. Você pode ter até {0}.\n\nComprar um por {1} fichas?
@@ -273,8 +257,6 @@ f757137	MISSÕES DE HOJE
 bb92856	Congelamentos: {0} / {1}
 0ec6216	Salve sua sequência num dia em que faltar. +1 a cada 7 dias.
 cc0a745	CHEIO
-419a962	SEM VÍDEO
-2dabd99	ANÚNCIO EM BREVE
 f12e166	Bônus de sequência: prêmios ×{0}
 80948a4	Um giro grátis por dia
 596b5e0	PRÓXIMO  {0}
@@ -287,16 +269,8 @@ f12e166	Bônus de sequência: prêmios ×{0}
 d00d221	Somente +18  •  As fichas são para diversão: sem valor em dinheiro, nunca trocáveis por dinheiro ou prêmios
 b60f038	Abrindo as portas...
 2e5bcce	Boas-vindas! Suas {0} fichas de boas-vindas estão prontas. As mesas estão logo em frente!
-7ef7ae3	+{0} fichas grátis! Mais em {1} horas.
-5d82af9	As fichas grátis recarregam a cada {0} horas. Próximas em {1}.
-5469985	{0} h {1} min
-bb65beb	{0} min {1} s
 ac8ba93	MANTENHA SUA SEQUÊNCIA
-560bfa1	Quer um lembrete nas noites em que ainda não jogou e quando suas fichas grátis estiverem prontas? Nada além disso, e você pode desativar em Configurações.
 b724a40	ME LEMBRE
-9e0c898	+{0} fichas prontas!
-1207e28	Assista a um vídeo: {0}
-db3655b	Próximas fichas grátis em {0}
 4ca9be5	BLACKJACK
 9a612b1	4 mesas  •  paga 3 para 2
 1194439	CAÇA-NÍQUEIS
@@ -368,7 +342,6 @@ da46447	EQUIPE DO CASSINO
 69d3313	HOMENS
 b4325d3	MISTO
 414594a	LEMBRETES
-6cac87b	Fichas grátis prontas e um aviso à noite antes de a sequência acabar.
 e43b2e0	VERIFICAR DE NOVO
 7c9e8f9	REGIÃO DE PREÇOS
 495c70e	Mais rápido: o cassino como foi pintado, nada a mais.
@@ -443,8 +416,6 @@ c69e8ee	LUCKY ACE 7s
 fc99288	APOSTA TOTAL
 c1c00cd	TABELA DE PAGAMENTOS
 3930abd	BOA SORTE!
-67b6973	Você precisa de pelo menos 10 fichas para girar.
-5aa1edb	PEGAR FICHAS
 f5a1812	Aposta reduzida ao que você pode cobrir.
 5c63f61	MEGA VITÓRIA!
 652544f	GRANDE VITÓRIA!
@@ -658,17 +629,8 @@ e1ae457	Mateo
 1920e2f	Rolagem de saída: aposte na Pass Line e role. 7 ou 11 ganham; 2, 3 ou 12 perdem. As apostas Place começam a valer quando há um ponto.
 99f4934	LUCKY ACE 7s  •  PAGA ATÉ 2.500× A SUA APOSTA POR LINHA
 48ddc95	AUTOMÁTICO
-3848f78	Vídeo {0} de {1}
-d87409f	Prêmio perdido: os vídeos precisam ser assistidos até o fim.
-14dcbe4	+{0}% de energia
-330037c	{0} mãos com {1}% de sorte
-ff24786	ASSISTIR VÍDEOS
-375d55d	1 a 3 vídeos curtos
-f187dbf	ASSISTIR
-64d31ad	ASSISTIR 1 VÍDEO?
-e77d414	ASSISTIR {0} VÍDEOS?
-8707135	Assista 1 vídeo até o fim para ganhar {0}. Se parar antes, o prêmio é perdido.
-88f8727	Assista {0} vídeos até o fim para ganhar {1}. Se parar antes, o prêmio é perdido.
-7196e7c	INICIAR
-b967bda	AGORA NÃO
-b10888c	Prêmio ganho: {0}!
+c319724	Sem fichas! Vá à caixa para pegar mais.
+4100521	Lembretes de sequência
+9543087	Quer um lembrete nas noites em que você ainda não jogou, para que sua sequência não acabe? Nunca mais do que isso, e você pode desativar em Configurações.
+3eb5ca2	Compre fichas para continuar jogando.
+844f74b	Um lembrete à noite antes que uma sequência acabe.

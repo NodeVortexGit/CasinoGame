@@ -64,7 +64,6 @@ f76c8fd	For mye for meg. Du vinner!
 0b48017	Ny sko, jeg stokker!
 3fa7769	Begynner det å bli lite? Kassen fyller på for deg.
 4e5694b	Sjetongene begynner å ta slutt. Vil du hente flere?
-d41f057	Tom for sjetonger! Gå til kassen eller hent gratis sjetonger.
 15d90d3	Stabelen din er tom. Kassen er rett bak deg.
 a9eaae1	Du ser utslitt ut! Ta en matbit i baren.
 5cd9e8b	Går du på tomgang? Baren ordner det.
@@ -175,14 +174,6 @@ b5b9597	{0} DAGER PÅ RAD!
 1998202	{0}: {1} hender med {2} % flaks, etter nybegynnerflaksen
 728ada5	{0}: {1} hender med {2} % flaks!
 af5e232	{0}: +{1} % energi
-001a53b	Ikke tilgjengelig på denne enheten
-2607004	Videoer kan ikke lastes inn på dette nettverket
-569c30d	Kom tilbake i morgen
-ecae6ee	Klar om {0} s
-9964820	+{0} sjetonger ({1} igjen i dag)
-e1bd888	+{0} gratis sjetonger!
-619bd5d	+1 rekkefrys!
-f70d794	Ingen video tilgjengelig akkurat nå. Prøv igjen om litt.
 264d71b	BRONSE
 462e839	SØLV
 81ff70a	GULL
@@ -197,9 +188,6 @@ a42f608	Sjekker regionen din...
 1db422c	Ikke bekreftet ({0}): standardpriser
 9bc0807	{0} ({1}): priser i {2}
 ae8c393	Påminnelser
-aefd59b	Gratis sjetonger klare og påminnelser om rekken
-3125838	Gratis sjetonger er klare
-233027b	{0} sjetonger venter på deg hos Lucky Ace.
 b93976b	Behold rekken din på {0} dager
 bd68038	Spill {0} runder i dag, så den ikke nullstilles ved midnatt.
 0acfb6f	Velkommen! Nybegynnerflaksen er på din side i kveld. Legg en innsats!
@@ -230,9 +218,6 @@ b6e674a	Ingen blackjack til dealeren. Forsikringen er tapt.
 822f4f4	Nybegynnerflaksen er over. Fra nå av er det vanlig blackjack.
 b0377c7	Lykkerekken din er over. Tilbake til vanlig blackjack.
 824ad7c	TOM FOR SJETONGER
-ff1822d	Se en kort video for {0} gratis sjetonger, eller gå til kassen.
-e4cac2f	Gå til kassen for å fylle på sjetonger.
-c3df3e7	GRATIS SJETONGER
 b169d33	KASSE
 4d38f66	SENERE
 cb8171b	Spill ferdig denne hånden først.
@@ -253,7 +238,6 @@ c3a8946	SKJØNNER
 4035996	DAGLIG REKKE
 fbe7f18	DAGER PÅ RAD
 7a46866	I DAG
-4753707	SE REKLAME
 6bb45f3	KJØP
 62a945f	REKKEFRYS
 ba5b1de	En rekkefrys holder rekken din i live på en dag du ikke spiller. Du kan ha {0}.\n\nKjøpe én for {1} sjetonger?
@@ -273,8 +257,6 @@ f757137	DAGENS OPPDRAG
 bb92856	Rekkefryser: {0} / {1}
 0ec6216	Redd rekken din på en dag du går glipp av. +1 hver 7. dag.
 cc0a745	FULL
-419a962	INGEN VIDEO
-2dabd99	REKLAME SNART
 f12e166	Rekkebonus: premier ×{0}
 80948a4	Ett gratis spinn hver dag
 596b5e0	NESTE  {0}
@@ -287,16 +269,8 @@ f12e166	Rekkebonus: premier ×{0}
 d00d221	Kun 18+  •  Sjetongene er for moro skyld: ingen pengeverdi, kan aldri veksles inn i penger eller premier
 b60f038	Åpner dørene...
 2e5bcce	Velkommen! Dine {0} velkomstsjetonger er klare. Bordene er rett frem!
-7ef7ae3	+{0} gratis sjetonger! Flere om {1} timer.
-5d82af9	Gratis sjetonger fylles på hver {0}. time. Neste om {1}.
-5469985	{0} t {1} min
-bb65beb	{0} min {1} s
 ac8ba93	BEHOLD REKKEN DIN
-560bfa1	Vil du ha en påminnelse de kveldene du ikke har spilt ennå, og når gratis sjetonger er klare? Aldri mer enn det, og du kan slå det av i Innstillinger.
 b724a40	MINN MEG PÅ DET
-9e0c898	+{0} sjetonger klare!
-1207e28	Se en video: {0}
-db3655b	Neste gratis sjetonger om {0}
 4ca9be5	BLACKJACK
 9a612b1	4 bord  •  betaler 3 til 2
 1194439	SPILLEAUTOMATER
@@ -369,7 +343,6 @@ da46447	KASINOPERSONALE
 69d3313	MENN
 b4325d3	BLANDET
 414594a	PÅMINNELSER
-6cac87b	Gratis sjetonger klare, og et lite dytt om kvelden før en rekke ville ta slutt.
 e43b2e0	SJEKK PÅ NYTT
 7c9e8f9	PRISREGION
 495c70e	Raskest: kasinoet som malt, ingenting ekstra.
@@ -444,8 +417,6 @@ c69e8ee	LUCKY ACE 7s
 fc99288	TOTAL INNSATS
 c1c00cd	GEVINSTTABELL
 3930abd	LYKKE TIL!
-67b6973	Du trenger minst 10 sjetonger for å spinne.
-5aa1edb	HENT SJETONGER
 f5a1812	Innsatsen er senket til det du har råd til.
 5c63f61	MEGAGEVINST!
 652544f	STOR GEVINST!
@@ -658,17 +629,8 @@ e1ae457	Mateo
 1920e2f	Come-out-kast: sats på Pass Line, så kast. 7 eller 11 vinner, 2, 3 eller 12 taper. Place-innsatser begynner å gjelde når det finnes et point.
 99f4934	LUCKY ACE 7s  •  BETALER OPPTIL 2 500× LINJEINNSATSEN DIN
 48ddc95	AUTOMATISK
-3848f78	Video {0} av {1}
-d87409f	Premien er tapt: videoene må ses helt til slutt.
-14dcbe4	+{0} % energi
-330037c	{0} hender med {1} % flaks
-ff24786	SE REKLAMER
-375d55d	1 til 3 korte videoer
-f187dbf	SE
-64d31ad	SE 1 REKLAME?
-e77d414	SE {0} REKLAMER?
-8707135	Se en video helt til slutt for å få {0}. Hvis du stopper tidlig, er premien tapt.
-88f8727	Se {0} videoer helt til slutt for å få {1}. Hvis du stopper tidlig, er premien tapt.
-7196e7c	START
-b967bda	IKKE NÅ
-b10888c	Premie vunnet: {0}!
+c319724	Sjetongene er brukt opp! Gå til kassen for å få mer.
+4100521	Påminnelser om rekken
+9543087	Vil du ha en påminnelse på kvelder du ikke har spilt ennå, så rekken din ikke brytes? Aldri mer enn det, og du kan slå det av under Innstillinger.
+3eb5ca2	Kjøp sjetonger for å fortsette å spille.
+844f74b	En kveldspåminnelse før en rekke ville ta slutt.

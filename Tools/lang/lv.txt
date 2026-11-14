@@ -64,7 +64,6 @@ f76c8fd	Man par daudz. Tu uzvari!
 0b48017	Jauna kurpe, jaucu!
 3fa7769	Beidzas? Kase tevi papildinās.
 4e5694b	Žetonu paliek mazāk. Gribi vēl?
-d41f057	Žetoni beigušies! Dodies uz kasi vai paņem bezmaksas žetonus.
 15d90d3	Tava kaudzīte ir tukša. Kase ir tieši aiz tevis.
 a9eaae1	Tu izskaties izsmelts! Uzkod kaut ko bārā.
 5cd9e8b	Spēki izsīkuši? Bārs par tevi parūpēsies.
@@ -175,14 +174,6 @@ b5b9597	SĒRIJA: {0} DIENAS!
 1998202	{0}: roku {1} ar {2}% veiksmi, pēc iesācēja veiksmes
 728ada5	{0}: roku {1} ar {2}% veiksmi!
 af5e232	{0}: +{1}% enerģijas
-001a53b	Nav pieejams šajā ierīcē
-2607004	Video šajā tīklā nevar ielādēt
-569c30d	Atgriezies rīt
-ecae6ee	Gatavs pēc {0} s
-9964820	+{0} žetoni (šodien vēl {1})
-e1bd888	+{0} bezmaksas žetoni!
-619bd5d	+1 sērijas sasaldēšana!
-f70d794	Pašlaik nav pieejama neviena video. Mēģini vēlreiz pēc brīža.
 264d71b	BRONZA
 462e839	SUDRABS
 81ff70a	ZELTS
@@ -197,9 +188,6 @@ a42f608	Pārbaudām tavu reģionu...
 1db422c	Nav pārbaudīts ({0}): standarta cenas
 9bc0807	{0} ({1}): cenas {2}
 ae8c393	Atgādinājumi
-aefd59b	Bezmaksas žetoni gatavi un sērijas atgādinājumi
-3125838	Tavi bezmaksas žetoni ir gatavi
-233027b	Lucky Ace tevi gaida {0} žetoni.
 b93976b	Saglabā savu sēriju (dienas: {0})
 bd68038	Nospēlē šodien raundus ({0}), lai pusnaktī tā netiktu atiestatīta.
 0acfb6f	Laipni lūgts! Šovakar iesācēja veiksme ir tavā pusē. Liec likmi!
@@ -230,9 +218,6 @@ b6e674a	Dīlerim nav blekdžeka. Apdrošināšana zaudēta.
 822f4f4	Iesācēja veiksme ir beigusies. No šī brīža standarta blekdžeks.
 b0377c7	Tava Veiksmes sērija ir beigusies. Atpakaļ pie standarta blekdžeka.
 824ad7c	ŽETONI BEIGUŠIES
-ff1822d	Noskaties īsu video un saņem {0} bezmaksas žetonus vai dodies uz kasi.
-e4cac2f	Dodies uz kasi, lai papildinātu žetonus.
-c3df3e7	BEZMAKSAS ŽETONI
 b169d33	KASE
 4d38f66	VĒLĀK
 cb8171b	Vispirms pabeidz šo roku.
@@ -253,7 +238,6 @@ c3a8946	SAPRATU
 4035996	IKDIENAS SĒRIJA
 fbe7f18	DIENAS PĒC KĀRTAS
 7a46866	ŠODIEN
-4753707	SKATĪTIES REKLĀMU
 6bb45f3	PIRKT
 62a945f	SĒRIJAS SASALDĒŠANA
 ba5b1de	Sasaldēšana saglabā tavu sēriju dienā, kad tu nespēlē. Vari turēt līdz {0}.\n\nPirkt vienu par {1} žetoniem?
@@ -273,8 +257,6 @@ f757137	ŠODIENAS MISIJAS
 bb92856	Sērijas sasaldēšanas: {0} / {1}
 0ec6216	Izglāb sēriju dienā, kuru izlaid. +1 ik pēc 7 dienām.
 cc0a745	PILNS
-419a962	NAV VIDEO
-2dabd99	REKLĀMA DRĪZUMĀ
 f12e166	Sērijas bonuss: balvas ×{0}
 80948a4	Viens bezmaksas grieziens katru dienu
 596b5e0	NĀKAMAIS  {0}
@@ -287,16 +269,8 @@ f12e166	Sērijas bonuss: balvas ×{0}
 d00d221	Tikai 18+  •  Žetoni ir izklaidei: bez naudas vērtības, nekad nav apmaināmi pret naudu vai balvām
 b60f038	Atveram durvis...
 2e5bcce	Laipni lūgts! Tavi sveiciena žetoni ({0}) ir gatavi. Galdi ir tieši priekšā!
-7ef7ae3	+{0} bezmaksas žetoni! Vēl pēc {1} st.
-5d82af9	Bezmaksas žetoni atjaunojas ik pēc {0} st. Nākamie pēc {1}.
-5469985	{0} st. {1} min
-bb65beb	{0} min {1} s
 ac8ba93	SAGLABĀ SĒRIJU
-560bfa1	Gribi atgādinājumu vakaros, kad vēl neesi spēlējis, un kad bezmaksas žetoni ir gatavi? Nekad vairāk par to, un to var izslēgt Iestatījumos.
 b724a40	ATGĀDINI MAN
-9e0c898	+{0} žetoni gatavi!
-1207e28	Noskaties video: {0}
-db3655b	Nākamie bezmaksas žetoni pēc {0}
 4ca9be5	BLEKDŽEKS
 9a612b1	4 galdi  •  izmaksā 3 pret 2
 1194439	SPĒĻU AUTOMĀTI
@@ -369,7 +343,6 @@ da46447	KAZINO PERSONĀLS
 69d3313	VĪRIEŠI
 b4325d3	JAUKTS
 414594a	ATGĀDINĀJUMI
-6cac87b	Bezmaksas žetoni gatavi un vakara atgādinājums, pirms sērija beigtos.
 e43b2e0	PĀRBAUDĪT VĒLREIZ
 7c9e8f9	CENU REĢIONS
 495c70e	Ātrākais: kazino, kā uzgleznots, nekā lieka.
@@ -444,8 +417,6 @@ c69e8ee	LUCKY ACE 7s
 fc99288	KOPĒJĀ LIKME
 c1c00cd	IZMAKSU TABULA
 3930abd	VEIKSMI!
-67b6973	Griešanai vajag vismaz 10 žetonus.
-5aa1edb	SAŅEMT ŽETONUS
 f5a1812	Likme samazināta līdz summai, ko vari segt.
 5c63f61	MEGA LAIMESTS!
 652544f	LIELS LAIMESTS!
@@ -658,17 +629,8 @@ e1ae457	Mateo
 1920e2f	Izlidojuma metiens: liec likmi uz Pass Line, tad met. 7 vai 11 uzvar, 2, 3 vai 12 zaudē. Place likmes sāk darboties, kad ir punkts.
 99f4934	LUCKY ACE 7s  •  IZMAKSĀ LĪDZ 2500× NO TAVAS LĪNIJAS LIKMES
 48ddc95	AUTOMĀTISKI
-3848f78	Video {0} no {1}
-d87409f	Balva zaudēta: videoklipi jāskatās līdz galam.
-14dcbe4	+{0}% enerģijas
-330037c	{0} rokas ar {1}% veiksmi
-ff24786	SKATĪTIES REKLĀMAS
-375d55d	1 līdz 3 īsi videoklipi
-f187dbf	SKATĪTIES
-64d31ad	NOSKATĪTIES 1 REKLĀMU?
-e77d414	NOSKATĪTIES {0} REKLĀMAS?
-8707135	Noskaties 1 videoklipu līdz galam, lai saņemtu {0}. Ja pārtrauc agri, balva zūd.
-88f8727	Noskaties {0} videoklipus līdz galam, lai saņemtu {1}. Ja pārtrauc agri, balva zūd.
-7196e7c	SĀKT
-b967bda	NE TAGAD
-b10888c	Balva iegūta: {0}!
+c319724	Žetoni beidzās! Dodies uz kasi pēc papildu.
+4100521	Sērijas atgādinājumi
+9543087	Vai vēlies atgādinājumu vakaros, kad vēl neesi spēlējis, lai sērija nebeigtos? Ne vairāk par to, un to vari izslēgt sadaļā Iestatījumi.
+3eb5ca2	Pērc žetonus, lai turpinātu spēlēt.
+844f74b	Vakara atgādinājums, pirms sērija beigtos.

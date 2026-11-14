@@ -64,7 +64,6 @@ f76c8fd	Wisq għalija. Rbaħt!
 0b48017	Żarbun ġdid, qed inħawwad!
 3fa7769	Għandek ftit? Il-kaxxier jimlik.
 4e5694b	Il-fiċes qed jonqsu. Trid aktar?
-d41f057	Spiċċawlek il-fiċes! Mur għand il-kaxxier jew ħu fiċes b'xejn.
 15d90d3	Il-munzell tiegħek vojt. Il-kaxxier eżatt warajk.
 a9eaae1	Tidher eżawrit! Kul xi ħaġa fil-bar.
 5cd9e8b	Bla enerġija? Il-bar jieħu ħsiebek.
@@ -175,14 +174,6 @@ b5b9597	STRIXXA TA' {0} JIEM!
 1998202	{0}: {1} idejn b'{2}% xorti, wara x-xorti tal-prinċipjant
 728ada5	{0}: {1} idejn b'{2}% xorti!
 af5e232	{0}: +{1}% enerġija
-001a53b	Mhux disponibbli fuq dan l-apparat
-2607004	Il-vidjows ma jitgħabbewx fuq dan in-netwerk
-569c30d	Erġa' lura għada
-ecae6ee	Lest f'{0}s
-9964820	+{0} fiċes ({1} fadal illum)
-e1bd888	+{0} fiċes b'xejn!
-619bd5d	+1 iffriżar tal-istrixxa!
-f70d794	L-ebda vidjo disponibbli bħalissa. Erġa' pprova ftit wara.
 264d71b	BRONŻ
 462e839	FIDDA
 81ff70a	DEHEB
@@ -197,9 +188,6 @@ a42f608	Qed niċċekkjaw ir-reġjun tiegħek...
 1db422c	Mhux ivverifikat ({0}): prezzijiet standard
 9bc0807	{0} ({1}): prezzijiet f'{2}
 ae8c393	Tfakkiriet
-aefd59b	Fiċes b'xejn lesti u tfakkiriet tal-istrixxa
-3125838	Il-fiċes b'xejn tiegħek lesti
-233027b	{0} fiċes qed jistennewk f'Lucky Ace.
 b93976b	Żomm l-istrixxa tiegħek ({0} jiem)
 bd68038	Ilgħab rawnds ({0}) illum biex ma terġax lura għal żero f'nofsillejl.
 0acfb6f	Merħba! Ix-xorti tal-prinċipjant magħk illejla. Agħmel imħatra!
@@ -230,9 +218,6 @@ b6e674a	L-ebda blackjack tad-dealer. Assigurazzjoni mitlufa.
 822f4f4	Ix-xorti tal-prinċipjant spiċċat. Minn issa 'l quddiem blackjack standard.
 b0377c7	L-Istrixxa tax-Xorti tiegħek spiċċat. Lura għall-blackjack standard.
 824ad7c	SPIĊĊAW IL-FIĊES
-ff1822d	Ara vidjo qasir għal {0} fiċes b'xejn, jew mur għand il-kaxxier.
-e4cac2f	Mur għand il-kaxxier biex timla l-fiċes tiegħek.
-c3df3e7	FIĊES B'XEJN
 b169d33	KAXXIER
 4d38f66	AKTAR TARD
 cb8171b	Lesti din l-id l-ewwel.
@@ -253,7 +238,6 @@ c3a8946	FHIMT
 4035996	STRIXXA TA' KULJUM
 fbe7f18	JIEM WARA XULXIN
 7a46866	ILLUM
-4753707	ARA REKLAM
 6bb45f3	IXTRI
 62a945f	IFFRIŻAR TAL-ISTRIXXA
 ba5b1de	Iffriżar iżomm l-istrixxa tiegħek ħajja f'jum li ma tilgħabx. Tista' żżomm sa {0}.\n\nTixtri wieħed għal {1} fiċes?
@@ -273,8 +257,6 @@ f757137	MISSJONIJIET TAL-LUM
 bb92856	Iffriżar tal-istrixxa: {0} / {1}
 0ec6216	Salva l-istrixxa tiegħek f'jum li taqbeż. +1 kull 7 ijiem.
 cc0a745	MIMLI
-419a962	L-EBDA VIDJO
-2dabd99	REKLAM DALWAQT
 f12e166	Bonus tal-istrixxa: premjijiet ×{0}
 80948a4	Dawra b'xejn waħda kuljum
 596b5e0	LI JMISS  {0}
@@ -287,16 +269,8 @@ f12e166	Bonus tal-istrixxa: premjijiet ×{0}
 d00d221	18+ biss  •  Il-fiċes huma għad-divertiment: l-ebda valur ta' flus, qatt ma jinbidlu għal flus jew premjijiet
 b60f038	Qed niftħu l-bibien...
 2e5bcce	Merħba! Il-{0} fiċes ta' merħba tiegħek lesti. Il-mwejjed eżatt quddiem!
-7ef7ae3	+{0} fiċes b'xejn! Aktar fi żmien {1} sigħat.
-5d82af9	Il-fiċes b'xejn jimtlew kull {0} sigħat. Li jmiss fi żmien {1}.
-5469985	{0}s {1}m
-bb65beb	{0}m {1}s
 ac8ba93	ŻOMM L-ISTRIXXA TIEGĦEK
-560bfa1	Trid tfakkira fil-lejl meta għadek ma lgħabtx, u meta l-fiċes b'xejn ikunu lesti? Qatt aktar minn hekk, u tista' titfiha fis-Settings.
 b724a40	FAKKARNI
-9e0c898	+{0} fiċes lesti!
-1207e28	Ara vidjo: {0}
-db3655b	Fiċes b'xejn li jmiss fi żmien {0}
 4ca9be5	BLACKJACK
 9a612b1	4 mwejjed  •  iħallas 3 għal 2
 1194439	SLOTS
@@ -369,7 +343,6 @@ da46447	STAFF TAL-KAŻINÒ
 69d3313	IRĠIEL
 b4325d3	MĦALLAT
 414594a	TFAKKIRIET
-6cac87b	Fiċes b'xejn lesti, u mbuttatura żgħira filgħaxija qabel ma tispiċċa strixxa.
 e43b2e0	IĊĊEKKJA MILL-ĠDID
 7c9e8f9	REĠJUN TAL-PREZZIJIET
 495c70e	L-aktar mgħaġġel: il-każinò kif inhu miżbugħ, xejn żejjed.
@@ -444,8 +417,6 @@ c69e8ee	LUCKY ACE 7s
 fc99288	IMĦATRA TOTALI
 c1c00cd	TABELLA TAL-ĦLASIJIET
 3930abd	XORTI TAJBA!
-67b6973	Għandek bżonn mill-inqas 10 fiċes biex iddawwar.
-5aa1edb	IKSEB FIĊES
 f5a1812	L-imħatra tniżżlet għal kemm tista' tkopri.
 5c63f61	MEGA REBĦA!
 652544f	REBĦA KBIRA!
@@ -658,17 +629,8 @@ e1ae457	Mateo
 1920e2f	Tejgħa come-out: imraħan fuq il-Pass Line, u mbagħad waddab. 7 jew 11 jirbħu, 2, 3 jew 12 jitilfu. L-imħatriet Place jibdew jaħdmu malli jkun hemm punt.
 99f4934	LUCKY ACE 7s  •  IĦALLAS SA 2,500× L-IMĦAR TAL-LINJA TIEGĦEK
 48ddc95	AWTOMATIKU
-3848f78	Vidjo {0} minn {1}
-d87409f	Premju mitluf: il-vidjows iridu jinġarraw sa tmiemhom.
-14dcbe4	+{0}% enerġija
-330037c	{0} idejn b'{1}% xorti
-ff24786	ARA REKLAMI
-375d55d	1 sa 3 vidjows qosra
-f187dbf	ARA
-64d31ad	ARA 1 REKLAM?
-e77d414	ARA {0} REKLAMI?
-8707135	Ara vidjo 1 sa tmiemu biex tirċievi {0}. Jekk tieqaf kmieni, il-premju jintilef.
-88f8727	Ara {0} vidjows sa tmiemhom biex tirċievi {1}. Jekk tieqaf kmieni, il-premju jintilef.
-7196e7c	IBDA
-b967bda	MHUX ISSA
-b10888c	Premju miksub: {0}!
+c319724	Fiches spiċċaw! Mur għand il-kaxxier biex tieħu aktar.
+4100521	Tfakkiriet tal-istrixxa
+9543087	Tixtieq tfakkira fl-għoxijiet li ma tkunx lagħbet fihom, biex l-istrixxa tiegħek ma tintemmx? Mhux aktar minn hekk, u tista' tqfilha f'Settings.
+3eb5ca2	Ixtri fiches biex tkompli tilgħab.
+844f74b	Tfakkira filgħaxija qabel l-istrixxa tintemm.

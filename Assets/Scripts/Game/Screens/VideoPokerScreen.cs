@@ -205,7 +205,7 @@ namespace Casino.Screens
                 Sfx.Play(SfxId.Error);
                 while (betIndex > 0 && BetOptions[betIndex] > App.I.Wallet.Balance) betIndex--;
                 ChangeBet(0);
-                if (App.I.Wallet.Balance < BetOptions[0]) ChipOffer.Show(Refresh);
+                if (App.I.Wallet.Balance < BetOptions[0]) ChipOffer.Show();
                 else App.I.UI.Toast(Loc.T("Bet lowered to what you can cover."), Palette.TextMuted, Icon.Coin);
                 return;
             }
@@ -288,7 +288,7 @@ namespace Casino.Screens
             }
             busy = false;
             Refresh();
-            if (App.I.Wallet.Balance < BetOptions[0]) ChipOffer.Show(Refresh);
+            if (App.I.Wallet.Balance < BetOptions[0]) ChipOffer.Show();
         }
 
         void HighlightPay(VideoPokerHand hand)
